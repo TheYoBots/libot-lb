@@ -1,0 +1,13 @@
+Rank|Bot|Rating
+---|---|---
+#1|@EmptikBot|3059
+#2|@VariantsBot|3021
+#3|@ToromBot|2867
+#4|@RaspFish|2728
+#5|@Nakshatra3|2596
+#6|@chessbot2880|2578
+#7|@NilatacBot|2395
+#8|@OpeningsBot|2330
+#9|@anti-bot|2188
+#10|@CatNail|2097
+#11|@pawnrobot|1867

@@ -1,0 +1,17 @@
+Rank|Bot|Rating
+---|---|---
+#1|@ResoluteBot|2176
+#2|@ToromBot|2123
+#3|@EmptikBot|2116
+#4|@TorBot|2104
+#5|@YoBot_v2|2071
+#6|@chessbot2880|2058
+#7|@RaspFish|2028
+#8|@TheYoBots|2021
+#9|@EmptikBot247|2017
+#10|@Nikitosik-ai|1959
+#11|@ChessHunterBot|1801
+#12|@OpeningsBot|1635
+#13|@Cheng-4|1612
+#14|@clueless-bot|1428
+#15|@pawnrobot|898
