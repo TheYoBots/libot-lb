@@ -2,7 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@VariantsBot|2579
 #2|@ToromBot|2306
-#3|@RaspFish|2162
-#4|@chessbot2880|1878
-#5|@DavidsGuterBot|1452
-#6|@pawnrobot|1147
+#3|@Nikitosikbot|2282
+#4|@RaspFish|2162
+#5|@NikitosikVariantsbot|1894
+#6|@chessbot2880|1878
+#7|@DavidsGuterBot|1452
+#8|@pawnrobot|1147
