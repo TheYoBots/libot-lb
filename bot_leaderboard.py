@@ -31,9 +31,9 @@ def get_banned_bots():
         'ProteusSF-Turbo',
         'QalatBotEngine',
         'Vaxim2000',
+        'Viet-AI',
         'MedipolUniversity',
         'MustafaYilmazBot'
-        'Viet-AI'
     ]
 
 def get_available_bots():
@@ -96,9 +96,8 @@ def get_bot_ratings_online(type):
 
 if __name__ == "__main__":
     try:
-        types = types()
-        for i in types:
-            get_bot_ratings_online(i)
         get_available_bots()
+        for i in types():
+            get_bot_ratings_online(i)
     except KeyboardInterrupt:
         sys.exit()

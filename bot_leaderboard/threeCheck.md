@@ -5,7 +5,6 @@ Rank|Bot|Rating
 #3|@ToromBot|2525
 #4|@RaspFish|2483
 #5|@EmptikBot|2479
-#6|@NikitosikVariantsbot|2420
-#7|@OpeningsBot|1784
-#8|@DavidsGuterBot|1478
-#9|@pawnrobot|1175
+#6|@OpeningsBot|1784
+#7|@DavidsGuterBot|1478
+#8|@pawnrobot|1175

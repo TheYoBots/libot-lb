@@ -4,6 +4,5 @@ Rank|Bot|Rating
 #2|@ToromBot|2850
 #3|@Nikitosikbot|2734
 #4|@EmptikBot|2377
-#5|@NikitosikVariantsbot|2295
-#6|@RaspFish|2285
-#7|@pawnrobot|1180
+#5|@RaspFish|2285
+#6|@pawnrobot|1174

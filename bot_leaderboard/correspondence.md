@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Nikitosikbot|2425
-#2|@NikitosikVariantsbot|2211
-#3|@Virutor|1934
-#4|@zeekat|1906
-#5|@ChessChildren|1856
-#6|@yeoldwiz|1816
+#2|@Virutor|1934
+#3|@zeekat|1906
+#4|@ChessChildren|1856
+#5|@yeoldwiz|1816
+#6|@G0thamB0t|1193
 #7|@grandQ_AI|977

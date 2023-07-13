@@ -5,6 +5,4 @@ Rank|Bot|Rating
 #3|@Nikitosikbot|2613
 #4|@RaspFish|2558
 #5|@EmptikBot|2507
-#6|@chessbot2880|2345
-#7|@NikitosikVariantsbot|2056
-#8|@pawnrobot|1359
+#6|@pawnrobot|1359
