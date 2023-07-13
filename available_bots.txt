@@ -5,12 +5,14 @@ AjedrezChamberi
 Annie_Archy
 ArasanX
 ArduChessBot
+Arundina
 AttackingOrDefending
 BLANK_BOT
 BRAINLEARN11_NNUE
 Babibot
 BelaBot
 BetaTree
+BulletEnforcer
 CHoMPBoT
 CatNail
 ChamberiAjedrez
@@ -23,7 +25,9 @@ DQN-chess
 DaniilDubovBot
 DavidsGuterBot
 DeepLLaMA
+Dr4x0n
 ELO_1500
+EchoBot
 Elmichess
 EmanPureNN
 EmptikBot
@@ -81,6 +85,7 @@ ReinforcementTrial
 ResoluteBot
 RigorousMoron
 RoundMoundOfRebounds
+SF_NNUE2
 SaxtonEngine
 ShashChess_MsP
 Shineshou90_BOT
@@ -119,6 +124,7 @@ arny_bot
 baby_eubos
 bekbot
 blundar_bot
+bobandi
 bot-o-tron
 botTideEval
 bot_adario
@@ -130,6 +136,7 @@ chessbot2880
 chessfyBOT
 clueless-bot
 dlvc-bot
+dtsudo
 eubos
 expositor
 feeks99
@@ -166,7 +173,7 @@ schnecken_bot
 simpleEval
 simplexitor
 sixteen-sixty
-ttbot
+ttBOT
 turkjs
 turochamp-1ply
 turochamp-2ply

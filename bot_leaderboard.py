@@ -1,6 +1,7 @@
 import urllib.request
 import orjson
 import sys
+import lichess.api
 
 def types():
     return [
@@ -36,6 +37,10 @@ def get_banned_bots():
         'MustafaYilmazBot'
     ]
 
+def get_user_rating(username, type):
+    user = lichess.api.user(username)
+    return [username, user.get('perfs', {}).get(type, {}).get('rating'), user.get('perfs', {}).get(type, {}).get('prov'), user.get('tosViolation')]
+
 def get_available_bots():
     available_bots = set()
     try:
@@ -44,11 +49,11 @@ def get_available_bots():
             for bot in f.readlines():
                 available_bots.append(bot.strip())
             available_bots = sorted(available_bots)
-        online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
-        for i in online_bots:
-            d = orjson.loads(i)
-            if d['username'] not in available_bots:
-                available_bots.append(d['username'])
+        with urllib.request.urlopen('https://lichess.org/api/bot/online') as online_bots:
+            for i in online_bots:
+                d = orjson.loads(i)
+                if d['username'] not in available_bots:
+                    available_bots.append(d['username'])
     except Exception as e:
         print(e)
     with open('available_bots.txt', 'w') as f:
@@ -57,42 +62,30 @@ def get_available_bots():
 
 def get_bot_ratings_online(type):
     banned_bots = get_banned_bots()
-    online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
+    with open('available_bots.txt', 'r') as f:
+        available_bots = []
+        for bot in f.readlines():
+            available_bots.append(bot.strip())
+
     user_arr = []
-    num_prov = 0
-    num_est = 0
-    count = 0
-    banned = 0
-    count2 = 1
-    
-    try:
-        for i in online_bots:
-            d = orjson.loads(i)
-            try:
-                result = [d['username'], d['perfs'][type]['rating']]
-                print(f'BOT {result[0]}: {result[1]} in {type}.')
-                try: 
-                    if d['perfs'][type]['prov'] == True:
-                        print(f'BOT {result[0]}: Provisional rating in {type}')
-                        num_prov += 1
-                except:
-                    num_est += 1
-                    if result[0] in banned_bots:
-                        banned += 1
-                    else:
-                        user_arr.append(result)
-            except:
-                print(f"BOT {d['username']}: No {type} rating available")
+
+    for bot in available_bots:
+        result = get_user_rating(bot, type)
+        if result is not None:
+            if result[0] not in banned_bots and result[1] is not None and result[2] != True and result[3] != True:
+                user_arr.append(result)
+
+    resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
+
+    with open(get_file_name(type), 'w') as f:
+        count = 1
+        print(f"Rank|Bot|Rating", file=f)
+        print("---|---|---", file=f)
+        for j in resulting_arr:
+            print(f"#{str(count)}|@{j[0]}|{str(j[1])}", file=f)
             count += 1
-        resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
-        with open(get_file_name(type), 'w') as f:
-            print("{}|{}|{}".format("Rank", "Bot", "Rating"), file=f)
-            print("---|---|---", file=f)
-            for j in resulting_arr:
-                print("#{}|@{}|{}".format(str(count2), j[0], str(j[1])), file=f)
-                count2 += 1
-    except KeyboardInterrupt:
-        sys.exit()
+
+    print(f"Finished generating leaderboard for {type}")
 
 if __name__ == "__main__":
     try:

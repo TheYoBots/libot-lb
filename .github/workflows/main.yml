@@ -1,0 +1,33 @@
+name: Test
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.11"]
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+      - name: Set up Python ${{ matrix.python }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Commit & Push
+        run: |
+          git config user.name TheYoBots
+          git config user.email 73843275+TheYoBots@users.noreply.github.com
+          python3 bot_leaderboard.py
+          git add. && git commit -m "Update Leaderboard"
+          git push --force
