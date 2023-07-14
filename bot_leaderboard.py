@@ -82,8 +82,14 @@ def get_bot_ratings_online(type):
         try:
             result = [d['username'], d['perfs'][type]['rating']]
             print(f'BOT {result[0]}: {result[1]} in {type}.')
-            if result[0] not in banned_bots or d['perfs'][type]['prov'] != True or d['tosViolation'] != True:
-                user_arr.append(result)
+            try: 
+                if d['perfs'][type]['prov'] == True:
+                    print("Provisional rating")
+                if d['tosViolation'] == True:
+                    printf("Violated ToS")
+            except:
+                if result[0] not in banned_bots:
+                    user_arr.append(result)
         except:
             print(f"BOT {d['username']}: No {type} rating available")
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
