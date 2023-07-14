@@ -1,4 +1,5 @@
 AKS-Mantissa
+AXWChessBot
 Abuziddin-BOT
 AivanJ10
 AjedrezChamberi
@@ -35,8 +36,10 @@ EmanPureNN
 EmptikBot
 EmptikBot247
 EmptikBotEman
+EmptikBotLc0
 EmptikVariantsBot
 EulerBot
+F0rgot
 Filipo6900
 FireFishBot
 FishFingersMcGee
@@ -48,12 +51,15 @@ GarboBot
 Genetic_Chess_Bot
 Gravy1
 GucciBot
+Hien-Vinh_Bot2
 HistoryExplorer
 HulkBot
 Humaia
 Humaia-Strong
 Hyperopic
 Intron014
+Jibbby
+Jobabot
 JustinBot
 KhepriChess
 KnightlessKid
@@ -66,6 +72,7 @@ LunaChessEngine
 Lurch_0
 Lurch_1
 Lynx_BOT
+Mate-AI
 MaxtheDog
 Menganti
 MrChessTheBot
@@ -79,6 +86,7 @@ NilatacBot
 OhniBOT
 OpeningsBot
 Phalanx-XXV
+ProteusSF
 ProteusSF-Godot
 ProteusSF-Open
 ProteusSF-Turbo
@@ -93,6 +101,7 @@ RosyBot
 RoundMoundOfRebounds
 SF_NNUE2
 SaxtonEngine
+SepBot
 ShashChess_MsP
 Shineshou90_BOT
 Sparring_Bot
@@ -112,7 +121,9 @@ Trollfish-Bot
 TuksuBot
 TurtleBot
 UltimateL
+UltimateVariants
 VariantsBot
+VariantsTop
 Viet-AI
 Viet-BOT
 Viet_BOT
@@ -138,6 +149,7 @@ botTideEval
 bot_adario
 caissa-ai
 caissa-test
+caissa-x
 charibot
 chat_bot
 chessbot2880
@@ -147,7 +159,9 @@ dlvc-bot
 dtsudo
 eubos
 expositor
+faith_bot
 feeks99
+fibonachi
 fornax-engine
 grandQ_AI
 halcyonbot
@@ -163,11 +177,14 @@ maia9
 matmoi
 melsh_bot
 michabay05
+misteick_bot
 monchester
 monke_bot
 myopic-bot
 notropis
+nukechess-bot
 odonata-bot
+pangubot
 pawn_git
 pawnrobot
 redtail-zero
@@ -181,6 +198,7 @@ schnecken_bot
 simpleEval
 simplexitor
 sixteen-sixty
+timecat
 ttBOT
 turkjs
 turochamp-1ply

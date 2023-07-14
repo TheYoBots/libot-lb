@@ -72,10 +72,10 @@ def get_bot_ratings_online(type):
 
     for bot in available_bots:
         result = get_user_rating(bot, type)
-        print(f'BOT {result[0]}: {result[1]} in {type}.')
         if result is not None:
             if result[0] not in banned_bots and result[1] is not None and result[2] != True and result[3] != True:
                 user_arr.append(result)
+                print(f'BOT {result[0]}: {result[1]} in {type}')
 
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
 
