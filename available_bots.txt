@@ -3,6 +3,7 @@ AXWChessBot
 Abuziddin-BOT
 AivanJ10
 AjedrezChamberi
+Anand_bot
 Annie_Archy
 ArasanX
 ArduChessBot
@@ -99,6 +100,7 @@ ResoluteBot
 RigorousMoron
 RosyBot
 RoundMoundOfRebounds
+Ruchess_r
 SF_NNUE2
 SaxtonEngine
 SepBot
@@ -119,6 +121,7 @@ ToromBot
 ToromLc0
 Trollfish-Bot
 TuksuBot
+Tundra4
 TurtleBot
 UltimateL
 UltimateVariants
@@ -136,6 +139,7 @@ YellowFlash_v2
 YoBot_v2
 YourSparringBot
 Zagreus_Engine
+ZomevBot
 actual_magnus
 admete_bot
 anti-bot
@@ -170,6 +174,7 @@ honzovy-sachy-2
 jangine
 kireevi
 knucklefish
+kulubot
 likeawizard-bot
 maia1
 maia5
@@ -187,6 +192,7 @@ odonata-bot
 pangubot
 pawn_git
 pawnrobot
+piglet_engine
 redtail-zero
 requinBOT
 rudim-bot
@@ -206,5 +212,6 @@ turochamp-2ply
 uochess
 verylowsodium-bot
 yeoldwiz
+yowCapablanca
 zeekat
 zulu_bot

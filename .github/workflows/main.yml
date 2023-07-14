@@ -11,8 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PAT }}
       - name: Set up Python '3.11'
         uses: actions/setup-python@v4
         with:
@@ -22,7 +20,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       - name: Update leaderboard
-        run: python bot_leaderboard.py
+        run: python3 bot_leaderboard.py
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
