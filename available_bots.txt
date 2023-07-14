@@ -12,6 +12,7 @@ BRAINLEARN11_NNUE
 Babibot
 BelaBot
 BetaTree
+Bot-31795
 BulletEnforcer
 CHoMPBoT
 CatNail
@@ -25,6 +26,7 @@ DQN-chess
 DaniilDubovBot
 DavidsGuterBot
 DeepLLaMA
+Depth1Bot
 Dr4x0n
 ELO_1500
 EchoBot
@@ -45,6 +47,7 @@ G0thamB0t
 GarboBot
 Genetic_Chess_Bot
 Gravy1
+GucciBot
 HistoryExplorer
 HulkBot
 Humaia
@@ -52,6 +55,7 @@ Humaia-Strong
 Hyperopic
 Intron014
 JustinBot
+KhepriChess
 KnightlessKid
 LISEBOT
 LazyBot
@@ -64,6 +68,7 @@ Lurch_1
 Lynx_BOT
 MaxtheDog
 Menganti
+MrChessTheBot
 Nakshatra3
 Nc3Nc6Bot
 NichtEliasBot
@@ -84,6 +89,7 @@ RaspFish
 ReinforcementTrial
 ResoluteBot
 RigorousMoron
+RosyBot
 RoundMoundOfRebounds
 SF_NNUE2
 SaxtonEngine
@@ -95,6 +101,7 @@ StreamerVSChat
 StupidChessRobot
 SxCapture
 SxRandom
+TRGBot
 TheMatrix2025
 TheMatrix2029
 TheYoBots
@@ -112,6 +119,7 @@ Viet_BOT
 Virutor
 WasterNew
 Weiawaga
+WilliamEngine
 WorstFish
 YellowFlash_v2
 YoBot_v2

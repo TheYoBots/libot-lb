@@ -59,6 +59,7 @@ def get_available_bots():
     with open('available_bots.txt', 'w') as f:
         for bot in available_bots:
             f.write(bot + '\n')
+    print(f"Updated List of Bots")
 
 def get_bot_ratings_online(type):
     banned_bots = get_banned_bots()
@@ -71,6 +72,7 @@ def get_bot_ratings_online(type):
 
     for bot in available_bots:
         result = get_user_rating(bot, type)
+        print(f'BOT {result[0]}: {result[1]} in {type}.')
         if result is not None:
             if result[0] not in banned_bots and result[1] is not None and result[2] != True and result[3] != True:
                 user_arr.append(result)

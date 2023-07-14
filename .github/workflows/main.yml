@@ -29,5 +29,5 @@ jobs:
           git config user.name TheYoBots
           git config user.email 73843275+TheYoBots@users.noreply.github.com
           python3 bot_leaderboard.py
-          git add. && git commit -m "Update Leaderboard"
+          git add . && git commit -m "Update Leaderboard"
           git push --force
