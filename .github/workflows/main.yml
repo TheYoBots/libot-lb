@@ -21,10 +21,14 @@ jobs:
           pip install -r requirements.txt
       - name: Update leaderboard
         run: python3 bot_leaderboard.py
-      - name: Commit & Push files
+      - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "Update Leaderboard"
-          git push --force
+      - name: Push files
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.PAT }}
+          branch: master
