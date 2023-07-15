@@ -101,6 +101,7 @@ Pseudo-0
 Ptit-biscuit
 QueensGamBOT
 RaspFish
+RazanVN
 ReinforcementTrial
 ResoluteBot
 RexherBot
@@ -115,6 +116,7 @@ ShashChess_MsP
 Shineshou90_BOT
 Sparring_Bot
 StockDory
+Stockfish1node
 StreamerVSChat
 StupidChessRobot
 SxCapture
