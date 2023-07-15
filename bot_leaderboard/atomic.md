@@ -11,6 +11,3 @@ Rank|Bot|Rating
 #9|@faith_bot|2115
 #10|@NikitosikVariantsbot|2056
 #11|@pawnrobot|1359
-#12|@FlamingDragon_9000|1331
-#13|@SxRandom|903
-#14|@SxCapture|658

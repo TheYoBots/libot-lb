@@ -8,5 +8,3 @@ Rank|Bot|Rating
 #6|@NikitosikVariantsbot|2295
 #7|@RaspFish|2285
 #8|@pawnrobot|1174
-#9|@SxCapture|1081
-#10|@SxRandom|965

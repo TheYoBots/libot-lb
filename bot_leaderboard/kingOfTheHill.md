@@ -12,5 +12,3 @@ Rank|Bot|Rating
 #10|@chessbot2880|1878
 #11|@DavidsGuterBot|1452
 #12|@pawnrobot|1147
-#13|@SxRandom|907
-#14|@SxCapture|601

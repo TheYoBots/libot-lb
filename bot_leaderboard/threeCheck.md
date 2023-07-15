@@ -13,5 +13,3 @@ Rank|Bot|Rating
 #11|@OpeningsBot|1784
 #12|@DavidsGuterBot|1478
 #13|@pawnrobot|1175
-#14|@SxRandom|674
-#15|@SxCapture|629

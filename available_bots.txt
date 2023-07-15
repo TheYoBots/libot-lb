@@ -24,9 +24,11 @@ ChessChildren
 ChessHunterBot
 ChessVBot
 CodingAdventureBot
+CompletelyRandomBot
 DQN-chess
 DaniilDubovBot
 DavidsGuterBot
+DeepKalle
 DeepLLaMA
 Depth1Bot
 Dr4x0n
@@ -41,6 +43,7 @@ EmptikBotLc0
 EmptikVariantsBot
 EulerBot
 F0rgot
+FataliiBot
 Filipo6900
 FireFishBot
 FishFingersMcGee
@@ -58,6 +61,7 @@ HulkBot
 Humaia
 Humaia-Strong
 Hyperopic
+Inteli5Bot
 Intron014
 Jibbby
 Jobabot
@@ -67,6 +71,7 @@ KnightlessKid
 LISEBOT
 LazyBot
 LazyBotJr
+Leela-test
 LeelaMultiPoss
 LeelaRogue
 LunaChessEngine
@@ -87,6 +92,7 @@ NilatacBot
 OhniBOT
 OpeningsBot
 Phalanx-XXV
+PiqBot
 ProteusSF
 ProteusSF-Godot
 ProteusSF-Open
@@ -97,6 +103,7 @@ QueensGamBOT
 RaspFish
 ReinforcementTrial
 ResoluteBot
+RexherBot
 RigorousMoron
 RosyBot
 RoundMoundOfRebounds
@@ -149,6 +156,7 @@ bekbot
 blundar_bot
 bobandi
 bot-o-tron
+bot2Cwc
 botTideEval
 bot_adario
 caissa-ai
@@ -170,6 +178,7 @@ fishadmiral
 fornax-engine
 grandQ_AI
 halcyonbot
+henryln
 honzovy-sachy
 honzovy-sachy-2
 jangine
@@ -186,6 +195,7 @@ michabay05
 misteick_bot
 monchester
 monke_bot
+morabandbot
 myopic-bot
 notropis
 nukechess-bot
@@ -217,5 +227,4 @@ yeoldwiz
 yowCapablanca
 zeekat
 zulu_bot
-henryln
-morabandbot
+zulu_bot2

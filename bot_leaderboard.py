@@ -86,7 +86,11 @@ def get_bot_ratings_online(type):
                 if d['perfs'][type]['prov'] == True:
                     print("Provisional rating")
                 if d['tosViolation'] == True:
-                    printf("Violated ToS")
+                    print("Violated ToS")
+                if d['perfs'][type]['games'] <= 50:
+                    print("Too few games played")
+                if d['perfs'][type]['rd'] >= 65:
+                    print("High rating deviation")
             except:
                 if result[0] not in banned_bots:
                     user_arr.append(result)

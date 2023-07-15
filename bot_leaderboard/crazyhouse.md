@@ -8,5 +8,3 @@ Rank|Bot|Rating
 #6|@NikitosikVariantsbot|1926
 #7|@chessbot2880|1868
 #8|@pawnrobot|1135
-#9|@SxRandom|808
-#10|@SxCapture|805

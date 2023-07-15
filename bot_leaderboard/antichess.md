@@ -14,11 +14,8 @@ Rank|Bot|Rating
 #12|@Nakshatra3|2564
 #13|@NikitosikVariantsbot|2483
 #14|@faith_bot|2420
-#15|@NilatacBot|2397
-#16|@OpeningsBot|2337
-#17|@anti-bot|2189
-#18|@CatNail|2073
+#15|@NilatacBot|2415
+#16|@OpeningsBot|2319
+#17|@anti-bot|2215
+#18|@CatNail|2039
 #19|@pawnrobot|1886
-#20|@FlamingDragon_9000|1597
-#21|@SxRandom|624
-#22|@SxCapture|600
