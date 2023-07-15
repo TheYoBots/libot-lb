@@ -166,6 +166,7 @@ expositor
 faith_bot
 feeks99
 fibonachi
+fishadmiral
 fornax-engine
 grandQ_AI
 halcyonbot
@@ -204,6 +205,7 @@ schnecken_bot
 simpleEval
 simplexitor
 sixteen-sixty
+stockmac
 timecat
 ttBOT
 turkjs
@@ -215,5 +217,5 @@ yeoldwiz
 yowCapablanca
 zeekat
 zulu_bot
-fishadmiral
-stockmac
+henryln
+morabandbot
