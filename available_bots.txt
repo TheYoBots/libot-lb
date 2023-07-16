@@ -93,6 +93,7 @@ NichtEliasBot
 Nikitosik-ai
 NikitosikVariantsbot
 Nikitosikbot
+NikolaEngine_Lux
 NilatacBot
 OhniBOT
 OpeningsBot

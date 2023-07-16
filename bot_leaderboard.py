@@ -4,6 +4,7 @@ import sys
 import lichess.api
 import json
 import os
+import datetime
 
 def types():
     return [
@@ -45,6 +46,7 @@ def get_user_rating(username):
     return {
         'username': user.get('username'),
         'perfs': user.get('perfs', {}),
+        'seenAt': user.get('seenAt'),
         'tosViolation': user.get('tosViolation')
     }
 
@@ -83,7 +85,9 @@ def get_bot_ratings_online(type):
         try:
             result = [d['username'], d['perfs'][type]['rating']]
             print(f'BOT {result[0]}: {result[1]} in {type}.')
-            try: 
+            try:
+                now = datetime.datetime.utcnow()
+                d['seenAt'] = datetime.datetime.utcfromtimestamp(d['seenAt'] / 1000)
                 if d['perfs'][type]['prov'] == True:
                     print("Provisional rating")
                 if d['tosViolation'] == True:
@@ -92,6 +96,8 @@ def get_bot_ratings_online(type):
                     print("Too few games played")
                 if d['perfs'][type]['rd'] >= 65:
                     print("High rating deviation")
+                if (now - d['seenAt']) > datetime.timedelta(days=7):
+                    print("No games for 1 week")
             except:
                 if result[0] not in banned_bots:
                     user_arr.append(result)

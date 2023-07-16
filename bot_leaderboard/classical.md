@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@LazyBotJr|1828
 #48|@Demolito_L5|1806
 #49|@LeelaRogue|1791
-#50|@maia9|1758
+#50|@maia9|1752
 #51|@Virutor|1704
 #52|@ChessChildren|1701
 #53|@HulkBot|1696
@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@maia5|1592
 #64|@yeoldwiz|1584
 #65|@Jibbby|1577
-#66|@maia1|1544
-#67|@Trollfish-Bot|1543
+#66|@Trollfish-Bot|1543
+#67|@maia1|1534
 #68|@ZE_ROOK|1505
 #69|@sargon-2ply|1418
 #70|@Humaia|1410

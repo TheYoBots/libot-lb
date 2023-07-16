@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@EmptikBot247|2015
 #20|@AivanJ10|2002
 #21|@TheMatrix2029|1992
-#22|@Nikitosik-ai|1966
+#22|@Nikitosik-ai|1965
 #23|@ttBOT|1941
 #24|@Viet-BOT|1917
 #25|@NikitosikVariantsbot|1915
@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@MrChessTheBot|1788
 #28|@OpeningsBot|1701
 #29|@Cheng-4|1621
-#30|@FataliiBot|1477
+#30|@FataliiBot|1467
 #31|@clueless-bot|1441
-#32|@KhepriChess|1285
+#32|@KhepriChess|1294
 #33|@botTideEval|1200
 #34|@Demolito_L5|1146
 #35|@pawnrobot|891
