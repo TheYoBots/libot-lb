@@ -35,6 +35,7 @@ def get_banned_bots():
         'QalatBotEngine',
         'Vaxim2000',
         'Viet-AI',
+        'RexherBot',
         'MedipolUniversity',
         'MustafaYilmazBot'
     ]

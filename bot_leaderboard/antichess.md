@@ -11,11 +11,11 @@ Rank|Bot|Rating
 #9|@RaspFish|2728
 #10|@Viet-BOT|2598
 #11|@chessbot2880|2578
-#12|@Nakshatra3|2565
+#12|@Nakshatra3|2569
 #13|@NikitosikVariantsbot|2483
 #14|@faith_bot|2420
-#15|@NilatacBot|2405
-#16|@OpeningsBot|2332
-#17|@anti-bot|2219
-#18|@CatNail|2030
+#15|@NilatacBot|2398
+#16|@OpeningsBot|2334
+#17|@anti-bot|2226
+#18|@CatNail|2034
 #19|@pawnrobot|1887

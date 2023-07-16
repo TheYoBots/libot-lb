@@ -13,6 +13,7 @@ BLANK_BOT
 BRAINLEARN11_NNUE
 Babibot
 BelaBot
+BestJSEngine
 BetaTree
 Bot-31795
 BulletEnforcer
@@ -24,12 +25,14 @@ ChessChildren
 ChessHunterBot
 ChessVBot
 CodingAdventureBot
+Common_Mover
 CompletelyRandomBot
 DQN-chess
 DaniilDubovBot
 DavidsGuterBot
 DeepKalle
 DeepLLaMA
+Demolito_L5
 Depth1Bot
 Dr4x0n
 ELO_1500
@@ -69,6 +72,7 @@ JustinBot
 KhepriChess
 KnightlessKid
 LISEBOT
+LTChessBot
 LazyBot
 LazyBotJr
 Leela-test
@@ -78,6 +82,7 @@ LunaChessEngine
 Lurch_0
 Lurch_1
 Lynx_BOT
+MECBotChess1
 Mate-AI
 MaxtheDog
 Menganti
@@ -147,6 +152,7 @@ WorstFish
 YellowFlash_v2
 YoBot_v2
 YourSparringBot
+ZE_ROOK
 Zagreus_Engine
 ZomevBot
 actual_magnus
@@ -154,6 +160,7 @@ admete_bot
 anti-bot
 arny_bot
 baby_eubos
+bcbchess
 bekbot
 blundar_bot
 bobandi
@@ -218,6 +225,7 @@ simpleEval
 simplexitor
 sixteen-sixty
 stockmac
+tenborg
 timecat
 ttBOT
 turkjs
@@ -230,7 +238,3 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-bcbchess
-Demolito_L5
-tenborg
-ZE_ROOK
