@@ -1,14 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@VariantsBot|2579
-#2|@EmptikVariantsBot|2436
-#3|@FireFishBOT|2385
-#4|@ToromBot|2306
-#5|@Nikitosikbot|2282
-#6|@RaspFish|2162
-#7|@faith_bot|2026
-#8|@VariantsTop|2014
-#9|@chessbot2880|1895
-#10|@NikitosikVariantsbot|1894
-#11|@DavidsGuterBot|1452
-#12|@pawnrobot|1147
+#1|@Nikitosikbot|2282
+#2|@RaspFish|2162
+#3|@pawnrobot|1167

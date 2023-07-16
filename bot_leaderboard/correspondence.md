@@ -1,14 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2783
-#2|@Viet-BOT|2532
-#3|@Nikitosikbot|2425
-#4|@NikitosikVariantsbot|2211
-#5|@misteick_bot|2064
-#6|@Virutor|1934
-#7|@zeekat|1908
-#8|@Jibbby|1907
-#9|@ChessChildren|1856
-#10|@yeoldwiz|1826
-#11|@G0thamB0t|1186
-#12|@grandQ_AI|977
+#1|@yeoldwiz|1823
+#2|@G0thamB0t|1184

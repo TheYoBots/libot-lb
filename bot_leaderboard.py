@@ -2,9 +2,13 @@ import urllib.request
 import orjson
 import sys
 import lichess.api
+from lichess.format import SINGLE_PGN
 import json
 import os
 import datetime
+import re
+
+TOKEN = os.environ['TOKEN']
 
 def types():
     return [
@@ -37,17 +41,36 @@ def get_banned_bots():
         'Vaxim2000',
         'Viet-AI',
         'RexherBot',
+        'YellowFlash_v2',
+        'Anand_Bot',
         'MedipolUniversity',
         'MustafaYilmazBot'
     ]
 
+def get_user_games(username, type):
+    now = datetime.datetime.utcnow()
+    since = now - datetime.timedelta(days=7)
+    since = int(since.timestamp() * 1000)
+    user = lichess.api.user_games(username, max=1, rated='true', perfType=type, since=since, format=SINGLE_PGN, auth=TOKEN)
+    match = re.search(r'\[UTCDate "(.*?)"\]', user)
+    if match:
+        return match.group(1)
+    else:
+        print(f"BOT {username}: No rated games for 1 week")
+        return "2000.01.01" # random default date
+
 def get_user_rating(username):
-    user = lichess.api.user(username)
+    user = lichess.api.user(username, auth=TOKEN)
+    #last_rated = {}
+    #for i in types():
+    #    last_rated[i] = get_user_games(username, i)
     return {
         'username': user.get('username'),
         'perfs': user.get('perfs', {}),
         'seenAt': user.get('seenAt'),
-        'tosViolation': user.get('tosViolation')
+        'tosViolation': user.get('tosViolation'),
+        'disabled': user.get('disabled')
+        #'lastRated': last_rated
     }
 
 def get_available_bots():
@@ -82,26 +105,31 @@ def get_bot_ratings_online(type):
     count = 1
 
     for d in bot_ratings:
-        try:
-            result = [d['username'], d['perfs'][type]['rating']]
+        perfs = d['perfs'].get(type)
+        if perfs is not None:
+            result = [d['username'], perfs.get('rating')]
             print(f'BOT {result[0]}: {result[1]} in {type}.')
-            try:
-                now = datetime.datetime.utcnow()
-                d['seenAt'] = datetime.datetime.utcfromtimestamp(d['seenAt'] / 1000)
-                if d['perfs'][type]['prov'] == True:
-                    print("Provisional rating")
-                if d['tosViolation'] == True:
-                    print("Violated ToS")
-                if d['perfs'][type]['games'] <= 50:
-                    print("Too few games played")
-                if d['perfs'][type]['rd'] >= 65:
-                    print("High rating deviation")
-                if (now - d['seenAt']) > datetime.timedelta(days=7):
-                    print("No games for 1 week")
-            except:
-                if result[0] not in banned_bots:
-                    user_arr.append(result)
-        except:
+            now = datetime.datetime.utcnow()
+            d['seenAt'] = datetime.datetime.utcfromtimestamp(d['seenAt'] / 1000)
+            if perfs.get('prov', False) == True:
+                print("Provisional rating")
+            elif d.get('tosViolation', False) == True:
+                print("Violated ToS")
+            elif perfs.get('games', 0) <= 50:
+                print("Too few games played")
+            elif perfs.get('rd', 0) >= 65:
+                print("High rating deviation")
+            elif (now - d['seenAt']) > datetime.timedelta(days=7):
+                print("Not active for 1 week")
+            elif result[0] in banned_bots:
+                print("Banned Bot")
+            elif d.get('disabled', False) == True:
+                print("Account Closed")
+            elif get_user_games(result[0], type) != "2000.01.01":
+                user_arr.append(result)
+            else:
+                print(f"BOT {d['username']}: No {type} rating available")
+        else:
             print(f"BOT {d['username']}: No {type} rating available")
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
     with open(get_file_name(type), 'w') as f:

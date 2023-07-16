@@ -12,6 +12,7 @@ AttackingOrDefending
 BLANK_BOT
 BRAINLEARN11_NNUE
 Babibot
+BabyUltimate
 BelaBot
 BestJSEngine
 BetaTree
@@ -44,6 +45,7 @@ EmptikBot247
 EmptikBotEman
 EmptikBotLc0
 EmptikVariantsBot
+EngineHighLvl
 EulerBot
 F0rgot
 FataliiBot
@@ -58,6 +60,7 @@ GarboBot
 Genetic_Chess_Bot
 Gravy1
 GucciBot
+HardRok
 Hien-Vinh_Bot2
 HistoryExplorer
 HulkBot
@@ -71,10 +74,12 @@ Jobabot
 JustinBot
 KhepriChess
 KnightlessKid
+Kwinibot
 LISEBOT
 LTChessBot
 LazyBot
 LazyBotJr
+LeaMoreau
 Leela-test
 LeelaMultiPoss
 LeelaRogue
@@ -97,6 +102,7 @@ NikolaEngine_Lux
 NilatacBot
 OhniBOT
 OpeningsBot
+OziBot
 Phalanx-XXV
 PiqBot
 ProteusSF
@@ -131,12 +137,14 @@ TRGBot
 TheMatrix2025
 TheMatrix2029
 TheYoBots
+TissousleBot
 TorBot
 ToromBot
 ToromLc0
 Trollfish-Bot
 TuksuBot
 Tundra4
+TuroBot
 TurtleBot
 UltimateL
 UltimateVariants
@@ -146,6 +154,7 @@ Viet-AI
 Viet-BOT
 Viet_BOT
 Virutor
+WaspBot
 WasterNew
 Weiawaga
 WilliamEngine
@@ -162,6 +171,7 @@ anti-bot
 arny_bot
 baby_eubos
 bcbchess
+beatrijs-bot
 bekbot
 blundar_bot
 bobandi
@@ -172,12 +182,14 @@ bot_adario
 caissa-ai
 caissa-test
 caissa-x
+caissa_board_test
 charibot
 chat_bot
 chessbot2880
 chessfyBOT
 clueless-bot
 dlvc-bot
+dragobot
 dtsudo
 eubos
 expositor
@@ -192,6 +204,7 @@ henryln
 honzovy-sachy
 honzovy-sachy-2
 jangine
+kayrakropro_BOT
 kireevi
 knucklefish
 kulubot
@@ -209,6 +222,7 @@ morabandbot
 myopic-bot
 notropis
 nukechess-bot
+o9mniej_bot
 odonata-bot
 pangubot
 pawn_git
@@ -225,15 +239,18 @@ schnecken_bot
 simpleEval
 simplexitor
 sixteen-sixty
+sscg13-engine
 stockmac
 tenborg
 timecat
+tomewyrm
 ttBOT
 turkjs
 turochamp-1ply
 turochamp-2ply
 uochess
 verylowsodium-bot
+vvv0rtex_bot
 yeoldwiz
 yowCapablanca
 zeekat
