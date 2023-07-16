@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@RaspFish|2162
 #7|@faith_bot|2026
 #8|@VariantsTop|2014
-#9|@NikitosikVariantsbot|1894
-#10|@chessbot2880|1878
+#9|@chessbot2880|1895
+#10|@NikitosikVariantsbot|1894
 #11|@DavidsGuterBot|1452
 #12|@pawnrobot|1147
