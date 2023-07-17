@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@Nikitosik-ai|1948
 #13|@ChessHunterBot|1875
 #14|@MrChessTheBot|1781
-#15|@OpeningsBot|1698
-#16|@Cheng-4|1634
+#15|@OpeningsBot|1697
+#16|@Cheng-4|1635
 #17|@FataliiBot|1472
 #18|@clueless-bot|1470
 #19|@KhepriChess|1270

@@ -21,10 +21,10 @@ Rank|Bot|Rating
 #19|@MaxtheDog|1961
 #20|@GarboBot|1926
 #21|@Lynx_BOT|1898
-#22|@zeekat|1880
+#22|@zeekat|1875
 #23|@LazyBotJr|1822
 #24|@LeelaRogue|1791
-#25|@maia9|1744
+#25|@maia9|1740
 #26|@ChessChildren|1701
 #27|@Virutor|1700
 #28|@turochamp-2ply|1655
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@maia5|1611
 #32|@sargon-3ply|1610
 #33|@maia1|1550
-#34|@ZE_ROOK|1497
+#34|@ZE_ROOK|1489
 #35|@sargon-2ply|1418
 #36|@Humaia|1410
 #37|@sargon-1ply|1333
