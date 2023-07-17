@@ -12,3 +12,15 @@ pip install -r requirements.txt
 ```bash
 python3 bot_leaderboard.py
 ```
+
+## Rules
+1. Your Bot must not me named in the [Banned Bots List](https://lichess.org/team/banned-of-leaderboard-of-bots) for any of the following reasons:
+   - For "farming" weaker opponents/Bots.
+   - For playing only against human opponents with your Bot.
+   - For playing too often against your other Bots that you own/operate (or "siblings").
+   - Or any other reason for which your named is listed in [this Lichess Team](https://lichess.org/team/banned-of-leaderboard-of-bots).
+2. Your Bot must have played at least 1 rated game in the week in that respective Variant/Game type.
+3. Your Bot must not have Provisional Rating (with a ?) in that respective Variant/Game type.
+4. Your Bot must not have a mark that indicates violation of [Lichess' Terms of Service](https://lichess.org/terms-of-service).
+5. Your Bot must have played at least 50 rated games in that respective Variant/Game type.
+6. Your Bot must have a Rating Deviation (rd) that is strictly less than 65 in that respective Variant/Game type.
