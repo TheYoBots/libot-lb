@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+env:
+  TOKEN: ${{ secrets.TOKEN }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
