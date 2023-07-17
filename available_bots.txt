@@ -256,3 +256,7 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
+hans68Bot
+lucy-bot
+szymvra_bot
+Wahoo_Bot

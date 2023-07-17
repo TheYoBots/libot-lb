@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@MrChessTheBot|1781
 #15|@OpeningsBot|1697
 #16|@Cheng-4|1635
-#17|@FataliiBot|1472
+#17|@FataliiBot|1475
 #18|@clueless-bot|1470
-#19|@KhepriChess|1270
+#19|@KhepriChess|1267
 #20|@Demolito_L5|1119
 #21|@pawnrobot|878
