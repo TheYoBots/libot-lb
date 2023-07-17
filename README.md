@@ -23,4 +23,4 @@ python3 bot_leaderboard.py
 3. Your Bot must not have Provisional Rating (with a ?) in that respective Variant/Game type.
 4. Your Bot must not have a mark that indicates violation of [Lichess' Terms of Service](https://lichess.org/terms-of-service).
 5. Your Bot must have played at least 50 rated games in that respective Variant/Game type.
-6. Your Bot must have a Rating Deviation (rd) that is strictly less than 65 in that respective Variant/Game type.
+6. Your Bot must have a rating deviation lower than 75, in Standard Chess, and lower than 65 in Variants.

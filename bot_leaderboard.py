@@ -117,7 +117,9 @@ def get_bot_ratings_online(type):
                 print("Violated ToS")
             elif perfs.get('games', 0) <= 50:
                 print("Too few games played")
-            elif perfs.get('rd', 0) >= 65:
+            elif type in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 75:
+                print("High rating deviation")
+            elif type not in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 65:
                 print("High rating deviation")
             elif (now - d['seenAt']) > datetime.timedelta(days=7):
                 print("Not active for 1 week")
