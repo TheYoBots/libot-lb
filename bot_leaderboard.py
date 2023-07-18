@@ -136,7 +136,7 @@ def get_bot_ratings_online(type):
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
     with open(get_file_name(type), 'w') as f:
         print("Rank|Bot|Rating", file=f)
-        print("---|---|---", file=f)
+        print("-|-|-", file=f)
         for j in resulting_arr:
             print(f"#{str(count)}|@{j[0]}|{str(j[1])}", file=f)
             count += 1
