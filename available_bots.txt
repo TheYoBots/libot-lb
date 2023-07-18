@@ -154,6 +154,7 @@ Viet-AI
 Viet-BOT
 Viet_BOT
 Virutor
+Wahoo_Bot
 WaspBot
 WasterNew
 Weiawaga
@@ -200,6 +201,7 @@ fishadmiral
 fornax-engine
 grandQ_AI
 halcyonbot
+hans68Bot
 henryln
 honzovy-sachy
 honzovy-sachy-2
@@ -209,6 +211,7 @@ kireevi
 knucklefish
 kulubot
 likeawizard-bot
+lucy-bot
 maia1
 maia5
 maia9
@@ -241,6 +244,7 @@ simplexitor
 sixteen-sixty
 sscg13-engine
 stockmac
+szymvra_bot
 tenborg
 timecat
 tomewyrm
@@ -256,7 +260,4 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-hans68Bot
-lucy-bot
-szymvra_bot
-Wahoo_Bot
+Anduril_Engine
