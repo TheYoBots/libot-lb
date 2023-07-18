@@ -61,16 +61,12 @@ def get_user_games(username, type):
 
 def get_user_rating(username):
     user = lichess.api.user(username, auth=TOKEN)
-    #last_rated = {}
-    #for i in types():
-    #    last_rated[i] = get_user_games(username, i)
     return {
         'username': user.get('username'),
         'perfs': user.get('perfs', {}),
         'seenAt': user.get('seenAt'),
         'tosViolation': user.get('tosViolation'),
         'disabled': user.get('disabled')
-        #'lastRated': last_rated
     }
 
 def get_available_bots():
@@ -136,7 +132,7 @@ def get_bot_ratings_online(type):
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
     with open(get_file_name(type), 'w') as f:
         print("Rank|Bot|Rating", file=f)
-        print("-|-|-", file=f)
+        print("---|---|---", file=f)
         for j in resulting_arr:
             print(f"#{str(count)}|@{j[0]}|{str(j[1])}", file=f)
             count += 1
