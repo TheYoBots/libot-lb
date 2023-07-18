@@ -25,6 +25,7 @@ ChamberiAjedrez
 Cheng-4
 ChessChildren
 ChessHunterBot
+ChessNoobComp
 ChessVBot
 CodingAdventureBot
 Common_Mover
@@ -74,6 +75,7 @@ Jibbby
 Jobabot
 JustinBot
 KhepriChess
+KingsGamBot
 KnightlessKid
 Kwinibot
 LISEBOT
@@ -140,6 +142,7 @@ TheMatrix2029
 TheYoBots
 TissousleBot
 TorBot
+TorBot_v2
 ToromBot
 ToromLc0
 Trollfish-Bot
@@ -150,6 +153,7 @@ TurtleBot
 UltimateL
 UltimateVariants
 VariantsBot
+VariantsONTop
 VariantsTop
 Viet-AI
 Viet-BOT
@@ -166,6 +170,7 @@ YoBot_v2
 YourSparringBot
 ZE_ROOK
 Zagreus_Engine
+ZokBot
 ZomevBot
 actual_magnus
 admete_bot
@@ -224,6 +229,7 @@ monchester
 monke_bot
 morabandbot
 myopic-bot
+notmorphy17-3
 notropis
 nukechess-bot
 o9mniej_bot
@@ -232,6 +238,7 @@ pangubot
 pawn_git
 pawnrobot
 piglet_engine
+pogsauce624
 redtail-zero
 requinBOT
 rudim-bot
@@ -261,4 +268,3 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-TorBot_v2
