@@ -4,6 +4,7 @@ Abuziddin-BOT
 AivanJ10
 AjedrezChamberi
 Anand_bot
+Anduril_Engine
 Annie_Archy
 ArasanX
 ArduChessBot
@@ -260,4 +261,4 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-Anduril_Engine
+TorBot_v2
