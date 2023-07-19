@@ -17,6 +17,7 @@ BabyUltimate
 BelaBot
 BestJSEngine
 BetaTree
+Boris-Trapsky
 Bot-31795
 BulletEnforcer
 CHoMPBoT
@@ -125,6 +126,7 @@ RosyBot
 RoundMoundOfRebounds
 Ruchess_r
 SF_NNUE2
+SamuraiX_v1
 SaxtonEngine
 SepBot
 ShashChess_MsP
@@ -268,5 +270,7 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-Boris-Trapsky
-SamuraiX_v1
+HiarcsFish
+palrishabhEASY
+TESTBOT23
+WhatsANikitosikHUH
