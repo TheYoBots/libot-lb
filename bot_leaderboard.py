@@ -44,12 +44,12 @@ def get_banned_bots():
         'YellowFlash_v2',
         'Anand_Bot',
         'SamuraiX_v1',
-        'MedipolUniversity',
-        'MustafaYilmazBot'
-        'WhatsANikitosikHUH'
+        'WhatsANikitosikHUH',
         'OkayWhyYouReadinThis'
+        'MedipolUniversity',
+        'MustafaYilmazBot',
+        'Nikitosikbot',
         'Nikitosik-ai'
-        'Nikitosikbot'
     ]
 
 def get_user_games(username, type):
