@@ -269,3 +269,4 @@ zeekat
 zulu_bot
 zulu_bot2
 Boris-Trapsky
+SamuraiX_v1

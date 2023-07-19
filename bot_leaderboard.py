@@ -43,6 +43,7 @@ def get_banned_bots():
         'RexherBot',
         'YellowFlash_v2',
         'Anand_Bot',
+        'SamuraiX_v1',
         'MedipolUniversity',
         'MustafaYilmazBot'
     ]
