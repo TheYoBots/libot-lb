@@ -64,6 +64,7 @@ Genetic_Chess_Bot
 Gravy1
 GucciBot
 HardRok
+HiarcsFish
 Hien-Vinh_Bot2
 HistoryExplorer
 HulkBot
@@ -138,6 +139,7 @@ StreamerVSChat
 StupidChessRobot
 SxCapture
 SxRandom
+TESTBOT23
 TRGBot
 TheMatrix2025
 TheMatrix2029
@@ -165,6 +167,7 @@ Wahoo_Bot
 WaspBot
 WasterNew
 Weiawaga
+WhatsANikitosikHUH
 WilliamEngine
 WorstFish
 YellowFlash_v2
@@ -236,6 +239,7 @@ notropis
 nukechess-bot
 o9mniej_bot
 odonata-bot
+palrishabhEASY
 pangubot
 pawn_git
 pawnrobot
@@ -270,7 +274,5 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-HiarcsFish
-palrishabhEASY
-TESTBOT23
-WhatsANikitosikHUH
+ChristopherColomb
+m-i-0
