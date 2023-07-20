@@ -9,6 +9,7 @@ Annie_Archy
 ArasanX
 ArduChessBot
 Arundina
+AshNostromo
 AttackingOrDefending
 BLANK_BOT
 BRAINLEARN11_NNUE
@@ -189,6 +190,7 @@ bekbot
 blundar_bot
 bobandi
 bot-o-tron
+bot1Cwc
 bot2Cwc
 botTideEval
 bot_adario
@@ -276,5 +278,4 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-AshNostromo
-bot1Cwc
+CocopikachuBOT
