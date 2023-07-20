@@ -28,6 +28,7 @@ ChessChildren
 ChessHunterBot
 ChessNoobComp
 ChessVBot
+ChristopherColomb
 CodingAdventureBot
 Common_Mover
 CompletelyRandomBot
@@ -223,6 +224,7 @@ knucklefish
 kulubot
 likeawizard-bot
 lucy-bot
+m-i-0
 maia1
 maia5
 maia9
@@ -274,5 +276,3 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-ChristopherColomb
-m-i-0
