@@ -276,3 +276,5 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
+AshNostromo
+bot1Cwc
