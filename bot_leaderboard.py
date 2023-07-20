@@ -45,7 +45,7 @@ def get_banned_bots():
         'Anand_Bot',
         'SamuraiX_v1',
         'WhatsANikitosikHUH',
-        'OkayWhyYouReadinThis'
+        'OkayWhyYouReadinThis',
         'MedipolUniversity',
         'MustafaYilmazBot',
         'Nikitosikbot',
