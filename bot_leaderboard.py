@@ -49,8 +49,7 @@ def get_banned_bots():
         'MedipolUniversity',
         'MustafaYilmazBot',
         'Nikitosikbot',
-        'Nikitosik-ai',
-        'VariantsONTop'
+        'Nikitosik-ai'
     ]
 
 def get_user_games(username, type):
