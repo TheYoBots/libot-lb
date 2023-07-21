@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@YoBot_v2|2138
+#1|@YoBot_v2|2134
 #2|@TheMatrix2025|2130
 #3|@ToromBot|2113
 #4|@TorBot|2112
-#5|@Shineshou90_BOT|2091
+#5|@Shineshou90_BOT|2092
 #6|@faith_bot|2068
 #7|@chessbot2880|2055
 #8|@RaspFish|2041
@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@EmptikBot247|2015
 #11|@ChessHunterBot|1866
 #12|@MrChessTheBot|1772
-#13|@OpeningsBot|1694
+#13|@OpeningsBot|1696
 #14|@Cheng-4|1633
-#15|@clueless-bot|1505
-#16|@FataliiBot|1417
+#15|@clueless-bot|1508
+#16|@FataliiBot|1415
 #17|@KhepriChess|1316
-#18|@Demolito_L5|1064
+#18|@Demolito_L5|1061
 #19|@pawnrobot|861
