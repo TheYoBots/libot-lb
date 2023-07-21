@@ -48,6 +48,7 @@ def get_banned_bots():
         'OkayWhyYouReadinThis',
         'MedipolUniversity',
         'MustafaYilmazBot',
+        'CodingAdventureBot',
         'Nikitosikbot',
         'Nikitosik-ai'
     ]
