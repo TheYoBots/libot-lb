@@ -96,6 +96,21 @@ def get_available_bots():
             f.write(bot + '\n')
     print(f"Updated List of Bots")
 
+def get_all_bot_ratings():
+    all_bot_ratings = []
+    with open('available_bots.txt', 'r') as f:
+        available_bots = [bot.strip() for bot in f.readlines()]
+
+    for bot in available_bots:
+        result = get_user_rating(bot)
+        if result is not None:
+            all_bot_ratings.append(result)
+            print(f'Getting rating of BOT {result["username"]}')
+
+    with open('bot_leaderboard.json', 'w') as f:
+        json.dump(all_bot_ratings, f)
+    print("Updated bot_leaderboard.json file.")
+
 def get_bot_ratings_online(type):
     banned_bots = get_banned_bots()
 
@@ -144,21 +159,6 @@ def get_bot_ratings_online(type):
             count += 1
 
     print(f"Finished generating leaderboard for {type}")
-
-def get_all_bot_ratings():
-    all_bot_ratings = []
-    with open('available_bots.txt', 'r') as f:
-        available_bots = [bot.strip() for bot in f.readlines()]
-
-    for bot in available_bots:
-        result = get_user_rating(bot)
-        if result is not None:
-            all_bot_ratings.append(result)
-            print(f'Getting rating of BOT {result["username"]}')
-
-    with open('bot_leaderboard.json', 'w') as f:
-        json.dump(all_bot_ratings, f)
-    print("Updated bot_leaderboard.json file.")
 
 if __name__ == "__main__":
     try:

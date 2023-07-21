@@ -1,6 +1,7 @@
 abuziddin-bot
 actual_magnus
 admete_bot
+ai-energy
 aivanj10
 ajedrezchamberi
 aks-mantissa
@@ -101,6 +102,7 @@ fortunechess
 g0thamb0t
 garbobot
 genetic_chess_bot
+ghdes
 grandq_ai
 gravy1
 guccibot
@@ -186,6 +188,7 @@ pawn_git
 pawnrobot
 phalanx-xxv
 piglet_engine
+pingwin_siepacz
 piqbot
 pogsauce624
 proteussf
@@ -249,6 +252,7 @@ torombot
 toromlc0
 trgbot
 trollfish-bot
+tt-challenge
 ttbot
 tuksubot
 tundra4
