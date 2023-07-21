@@ -22,6 +22,7 @@ Boris-Trapsky
 Bot-31795
 BulletEnforcer
 CHoMPBoT
+CVA728_BOT_1
 CatNail
 ChamberiAjedrez
 Cheng-4
@@ -61,6 +62,7 @@ FishFingersMcGee
 Fisk_Bot
 FlamingDragon_9000
 FlounderBot
+FortuneChess
 G0thamB0t
 GarboBot
 Genetic_Chess_Bot
@@ -123,6 +125,7 @@ QueensGamBOT
 RaspFish
 RazanVN
 ReinforcementTrial
+RenegadeEngine
 ResoluteBot
 RexherBot
 RigorousMoron
@@ -130,6 +133,7 @@ RosyBot
 RoundMoundOfRebounds
 Ruchess_r
 SF_NNUE2
+SalvaJuega
 SamuraiX_v1
 SaxtonEngine
 SepBot
@@ -232,6 +236,7 @@ maia1
 maia5
 maia9
 matmoi
+megalodon-bot
 melsh_bot
 michabay05
 misteick_bot
@@ -279,8 +284,6 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-CVA728_BOT_1
-FortuneChess
-megalodon-bot
-RenegadeEngine
-SalvaJuega
+BerntBOT
+FireFishBOT
+Suerberk
