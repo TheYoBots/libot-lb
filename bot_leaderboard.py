@@ -50,7 +50,8 @@ def get_banned_bots():
         'MustafaYilmazBot',
         'CodingAdventureBot',
         'Nikitosikbot',
-        'Nikitosik-ai'
+        'Nikitosik-ai',
+        'GHDES'
     ]
 
 def get_user_games(username, type):
