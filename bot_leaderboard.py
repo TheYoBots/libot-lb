@@ -54,7 +54,7 @@ def get_banned_bots():
         'GHDES'
     ]
 
-def get_user_games(username, type):
+def get_user_last_rated(username, type):
     now = datetime.datetime.utcnow()
     since = now - datetime.timedelta(days=7)
     since = int(since.timestamp() * 1000)
@@ -64,17 +64,7 @@ def get_user_games(username, type):
         return match.group(1)
     else:
         print(f"BOT {username}: No rated games for 1 week")
-        return "2000.01.01" # random default date
-
-def get_user_rating(username):
-    user = lichess.api.user(username, auth=TOKEN)
-    return {
-        'username': user.get('username'),
-        'perfs': user.get('perfs', {}),
-        'seenAt': user.get('seenAt'),
-        'tosViolation': user.get('tosViolation'),
-        'disabled': user.get('disabled')
-    }
+        return "2000.01.01"  # random default date
 
 def get_available_bots():
     available_bots = set()
@@ -102,17 +92,30 @@ def get_all_bot_ratings():
     with open('available_bots.txt', 'r') as f:
         available_bots = [bot.strip() for bot in f.readlines()]
 
-    for bot in available_bots:
-        result = get_user_rating(bot)
-        if result is not None:
-            all_bot_ratings.append(result)
-            print(f'Getting rating of BOT {result["username"]}')
+    batch_size = 100
+    num_batches = (len(available_bots) + batch_size - 1) // batch_size
+
+    for i in range(num_batches):
+        batch_start = i * batch_size
+        batch_end = (i + 1) * batch_size
+        batch_usernames = available_bots[batch_start:batch_end]
+
+        users_list = lichess.api.users_by_ids(batch_usernames)
+
+        for user in users_list:
+            all_bot_ratings.append({
+                'username': user.get('username'),
+                'perfs': user.get('perfs', {}),
+                'seenAt': user.get('seenAt'),
+                'tosViolation': user.get('tosViolation'),
+                'disabled': user.get('disabled')
+            })
 
     with open('bot_leaderboard.json', 'w') as f:
         json.dump(all_bot_ratings, f)
     print("Updated bot_leaderboard.json file.")
 
-def get_bot_ratings_online(type):
+def get_bot_leaderboard(type):
     banned_bots = get_banned_bots()
 
     file_path = os.path.join(os.path.dirname(__file__), 'bot_leaderboard.json')
@@ -145,7 +148,7 @@ def get_bot_ratings_online(type):
                 print("Banned Bot")
             elif d.get('disabled', False) == True:
                 print("Account Closed")
-            elif get_user_games(result[0], type) != "2000.01.01":
+            elif get_user_last_rated(result[0], type) != "2000.01.01":
                 user_arr.append(result)
             else:
                 print(f"BOT {d['username']}: No {type} rating available")
@@ -166,6 +169,6 @@ if __name__ == "__main__":
         get_available_bots()
         get_all_bot_ratings()
         for i in types():
-            get_bot_ratings_online(i)
+            get_bot_leaderboard(i)
     except KeyboardInterrupt:
         sys.exit()
