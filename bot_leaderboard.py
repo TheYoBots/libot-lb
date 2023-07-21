@@ -86,9 +86,9 @@ def get_available_bots():
         with urllib.request.urlopen('https://lichess.org/api/bot/online') as online_bots:
             for i in online_bots:
                 d = orjson.loads(i)
-                if d['username'] not in available_bots:
-                    available_bots.append(d['username'])
-                    print(f"Adding {d['username']} to available bots list")
+                if d['id'] not in available_bots:
+                    available_bots.append(d['id'])
+                    print(f"Adding {d['id']} to available bots list")
     except Exception as e:
         print(e)
     with open('available_bots.txt', 'w') as f:
