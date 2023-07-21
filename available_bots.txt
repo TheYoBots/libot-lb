@@ -30,6 +30,7 @@ ChessHunterBot
 ChessNoobComp
 ChessVBot
 ChristopherColomb
+CocopikachuBOT
 CodingAdventureBot
 Common_Mover
 CompletelyRandomBot
@@ -278,4 +279,8 @@ yowCapablanca
 zeekat
 zulu_bot
 zulu_bot2
-CocopikachuBOT
+CVA728_BOT_1
+FortuneChess
+megalodon-bot
+RenegadeEngine
+SalvaJuega
