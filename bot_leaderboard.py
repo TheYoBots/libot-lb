@@ -51,7 +51,8 @@ def get_banned_bots():
         'CodingAdventureBot',
         'Nikitosikbot',
         'Nikitosik-ai',
-        'GHDES'
+        'GHDES',
+        'caissa-test'
     ]
 
 def get_user_last_rated(username, type):
