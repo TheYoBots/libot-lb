@@ -12,19 +12,8 @@ TOKEN = os.environ['TOKEN']
 
 def types():
     return [
-        'bullet',
-        'blitz',
-        'rapid',
-        'classical',
-        'correspondence',
-        'antichess',
-        'atomic',
-        'chess960',
-        'crazyhouse',
-        'horde',
-        'kingOfTheHill',
-        'racingKings',
-        'threeCheck'
+        'bullet', 'blitz',  'rapid', 'classical', 'correspondence', 'chess960',
+        'antichess', 'atomic', 'crazyhouse', 'horde', 'kingOfTheHill', 'racingKings', 'threeCheck'
     ]
 
 def get_file_name(type):
@@ -32,26 +21,9 @@ def get_file_name(type):
 
 def get_banned_bots():
     return [
-        'caissa-ai',
-        'ProteusSF',
-        'ProteusSF-lite',
-        'ProteusSF-Open',
-        'ProteusSF-Turbo',
-        'QalatBotEngine',
-        'Vaxim2000',
-        'Viet-AI',
-        'RexherBot',
-        'YellowFlash_v2',
-        'Anand_Bot',
-        'SamuraiX_v1',
-        'WhatsANikitosikHUH',
-        'OkayWhyYouReadinThis',
-        'MedipolUniversity',
-        'MustafaYilmazBot',
-        'CodingAdventureBot',
-        'Nikitosikbot',
-        'Nikitosik-ai',
-        'GHDES'
+        'caissa-ai', 'ProteusSF', 'ProteusSF-lite', 'ProteusSF-Open', 'ProteusSF-Turbo', 'QalatBotEngine', 'Vaxim2000', 'Viet-AI', 'RexherBot', 'YellowFlash_v2',  'GHDES', 'Anand_Bot', 'SamuraiX_v1', 'WhatsANikitosikHUH', 'OkayWhyYouReadinThis',
+        'MedipolUniversity', 'MustafaYilmazBot', 'CodingAdventureBot',
+        'Nikitosikbot', 'Nikitosik-ai', 'caissa-test'
     ]
 
 def get_user_last_rated(username, type):
