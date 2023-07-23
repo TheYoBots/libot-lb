@@ -109,6 +109,7 @@ arny_bot
 aromik_s_bot
 artjom_bot
 arundina
+asdfbot2
 ashnostromo
 assasino_legend
 asterix_20k20
@@ -389,6 +390,7 @@ chmod-bot
 chompbot
 christophercolomb
 chunguszero
+clompdev
 cloud_bot
 cloudbot
 cloudbot_v2
@@ -1843,5 +1845,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-asdfbot2
-clompdev
+getfun
+proteussf-extreme
