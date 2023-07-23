@@ -44,13 +44,9 @@ def get_banned_bots():
         'YellowFlash_v2',
         'Anand_Bot',
         'SamuraiX_v1',
-        'WhatsANikitosikHUH',
-        'OkayWhyYouReadinThis',
         'MedipolUniversity',
         'MustafaYilmazBot',
         'CodingAdventureBot',
-        'Nikitosikbot',
-        'Nikitosik-ai',
         'GHDES',
         'caissa-test'
     ]
