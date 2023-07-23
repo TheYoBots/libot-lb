@@ -30,6 +30,7 @@ ajedrezchamberi
 aks-mantissa
 akshadlawanibot
 akul_thotarobot
+alah230
 alehkine_cat
 alejbot
 alexeybot
@@ -1767,6 +1768,7 @@ weiawaga
 weini
 wenndiesoldatbot
 whatsanikitosikhuh
+whitewidowbot
 willbochessengine
 williamengine
 winchess_bot
@@ -1841,5 +1843,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-alah230
-whitewidowbot
+asdfbot2
+clompdev
