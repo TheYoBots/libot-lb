@@ -48,7 +48,8 @@ def get_banned_bots():
         'MustafaYilmazBot',
         'CodingAdventureBot',
         'GHDES',
-        'caissa-test'
+        'caissa-test',
+        'HappyFarmer3000'
     ]
 
 def get_user_last_rated(username, type):
