@@ -591,6 +591,7 @@ fire8n_unoffical
 fireengine
 firefighter-the-b0t
 firefishbot
+firefishbot_v2
 fireofficial
 firstrobot
 fishadmiral
@@ -637,6 +638,7 @@ genericbot
 genetic_chess_bot
 geniusbot
 geraltorivia
+getcr3ampied
 getfun
 geulbot
 ggkedi
@@ -1847,5 +1849,8 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-firefishbot_v2
-getcr3ampied
+bfiedler-bot
+bristol_amogus
+coolman2021
+fib0t
+temporai
