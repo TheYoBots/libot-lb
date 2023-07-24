@@ -637,6 +637,7 @@ genericbot
 genetic_chess_bot
 geniusbot
 geraltorivia
+getfun
 geulbot
 ggkedi
 ghdes
@@ -1279,6 +1280,7 @@ probot_vr_2
 probroman
 professional-bot-021
 proteussf
+proteussf-extreme
 proteussf-godot
 proteussf-lite
 proteussf-open
@@ -1845,5 +1847,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-getfun
-proteussf-extreme
+firefishbot_v2
+getcr3ampied
