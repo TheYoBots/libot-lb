@@ -48,7 +48,7 @@ def get_banned_bots():
         'MustafaYilmazBot',
         'CodingAdventureBot',
         'GHDES',
-        'caissa-test'
+        'caissa-test',
         'HappyFarmer3000'
     ]
 
