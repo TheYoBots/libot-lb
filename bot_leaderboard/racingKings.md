@@ -1,4 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@EmptikVariantsBot|2557
-#2|@RaspFish|2552
+#1|@Nikitosikbot|2571
+#2|@EmptikVariantsBot|2557
+#3|@RaspFish|2555

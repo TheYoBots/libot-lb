@@ -177,6 +177,7 @@ betazerowins
 betterhuman
 betterthanyougm
 bfdzvfsgaergfds
+bfiedler-bot
 bggbro
 bgsbot
 bigbrainernn
@@ -286,6 +287,7 @@ brainypratyush3
 bravestknightbot
 breeze-hot
 breeze_bot
+bristol_amogus
 britbot
 briton
 bruceleela
@@ -408,6 +410,7 @@ combilation
 combuskengine
 common_mover
 completelyrandombot
+coolman2021
 coronamalware
 correspondencebot
 corteka
@@ -584,6 +587,7 @@ featbeweir
 feeks99
 feligamer
 fender_bender
+fib0t
 fibonachi
 fightertristan
 filipo6900
@@ -1581,6 +1585,7 @@ tazo-tush
 teamchelsie
 tekibot
 telefon2232_bot
+temporai
 tenborg
 tensorpupper
 terfly
@@ -1849,8 +1854,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-bfiedler-bot
-bristol_amogus
-coolman2021
-fib0t
-temporai
+botezlivetwitchchat
+guineabot2

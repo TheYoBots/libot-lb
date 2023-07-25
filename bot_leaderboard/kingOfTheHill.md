@@ -1,6 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@EmptikVariantsBot|2441
-#2|@RaspFish|2160
-#3|@DavidsGuterBot|1484
-#4|@pawnrobot|1182
+#2|@Nikitosikbot|2322
+#3|@RaspFish|2129
+#4|@DavidsGuterBot|1484
+#5|@pawnrobot|1182
