@@ -651,6 +651,7 @@ getfun
 geulbot
 ggkedi
 ghdes
+ghostfacebot
 ghostfreak123
 ghosty_347
 gilgameshthebot
@@ -1862,4 +1863,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-ghostfacebot
+bottestjhami
+john_bamp
