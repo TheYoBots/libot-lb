@@ -4,4 +4,4 @@ Rank|Bot|Rating
 #2|@ToromBot|2671
 #3|@Nikitosikbot|2613
 #4|@RaspFish|2560
-#5|@pawnrobot|1394
+#5|@pawnrobot|1392

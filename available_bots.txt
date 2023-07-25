@@ -246,6 +246,7 @@ bot_talbr
 bot_tark
 bot_to_beat
 boteagleeye2021
+botezlivetwitchchat
 botfat_742063
 botgeorge
 botgravity
@@ -678,6 +679,7 @@ grey_wolf3000
 groundshaker
 gslv_and_pslv
 guccibot
+guineabot2
 gun-bot
 h-zero
 haberbot
@@ -1854,5 +1856,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-botezlivetwitchchat
-guineabot2
+boss_of_the_gym_2
+demolito_l6
