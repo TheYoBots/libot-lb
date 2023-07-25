@@ -32,6 +32,7 @@ def get_file_name(type):
 
 def get_banned_bots():
     return [
+        # farming
         'caissa-ai',
         'ProteusSF',
         'ProteusSF-lite',
@@ -42,14 +43,17 @@ def get_banned_bots():
         'Viet-AI',
         'RexherBot',
         'YellowFlash_v2',
-        'Anand_Bot',
+        'Anand_bot',
         'SamuraiX_v1',
-        'MedipolUniversity',
-        'MustafaYilmazBot',
-        'CodingAdventureBot',
+        'WhatsANikitosikHUH',
+        'OkayWhyYouReadinThis',
         'GHDES',
         'caissa-test',
-        'HappyFarmer3000'
+        'HappyFarmer3000',
+        # playing only humans
+        'MedipolUniversity',
+        'MustafaYilmazBot',
+        'CodingAdventureBot'
     ]
 
 def get_user_last_rated(username, type):
