@@ -219,6 +219,7 @@ boom_bot
 boris-trapsky
 bosburp777
 boss_chess_bot
+boss_of_the_gym_2
 bosskomodo
 bot-2564
 bot-31795
@@ -460,6 +461,7 @@ defi-program
 definitelynoteliah
 delocto
 demolito_l5
+demolito_l6
 depth1bot
 depth9
 despacitobot
@@ -1856,5 +1858,7 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-boss_of_the_gym_2
-demolito_l6
+ccrl-clover
+happyfarmer3000
+roberts_child
+thaaron
