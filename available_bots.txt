@@ -325,6 +325,7 @@ catlovergirl7
 catnail
 catninjabot
 cbnguyen_bot
+ccrl-clover
 ccsf
 cdrill
 cdroid
@@ -695,6 +696,7 @@ haluxxchessbot
 hans68bot
 happy_one
 happydeepawali
+happyfarmer3000
 happyplayer_fun2019
 hardrok
 harmonbot
@@ -1365,6 +1367,7 @@ rigorousmoron
 riojacomp
 rishab_bindal
 robbai_3j
+roberts_child
 robloxianbot
 robochess3214
 robocik
@@ -1601,6 +1604,7 @@ testbot666
 teuflbot
 tfrchessclub
 tgnleelabot
+thaaron
 the-chess-king-bot
 the-primer
 the_a_and_d_club
@@ -1858,7 +1862,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-ccrl-clover
-happyfarmer3000
-roberts_child
-thaaron
+ghostfacebot
