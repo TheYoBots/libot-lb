@@ -274,6 +274,7 @@ botsss
 botstockfish09
 botsy
 botted
+bottestjhami
 bottideeval
 bottios
 bottrosian
@@ -827,6 +828,7 @@ jibbby
 jnewberry0502
 jobabot
 johanblunder
+john_bamp
 johnsun
 johnwick_babayoga
 joke_2010
@@ -1863,5 +1865,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-bottestjhami
-john_bamp
+geraldleebetafish
