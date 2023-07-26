@@ -646,6 +646,7 @@ geemc
 genericbot
 genetic_chess_bot
 geniusbot
+geraldleebetafish
 geraltorivia
 getcr3ampied
 getfun
@@ -1865,4 +1866,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-geraldleebetafish
