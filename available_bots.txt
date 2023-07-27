@@ -325,6 +325,7 @@ catbot_14
 catlovergirl7
 catnail
 catninjabot
+catriever
 cbnguyen_bot
 ccrl-clover
 ccsf
@@ -381,6 +382,7 @@ chessfybot
 chesshackerhehe
 chessharmon
 chesshunterbot
+chessler-v4-nnue
 chessmaster6k
 chessmasterbot5
 chessnoobcomp
@@ -1092,6 +1094,7 @@ mininnue
 minula_paranvithana
 mistakebot
 misteick_bot
+misterrengar
 mittens-bot
 mokbot
 mon_robot
@@ -1228,6 +1231,7 @@ ourbot
 overhead_bot
 oxygenospro
 ozibot
+ozinatorbot
 pacman3000
 paddibot
 palisade
@@ -1431,6 +1435,7 @@ schnecken_bot
 scp079
 sea_leopard
 seechessbot
+selflearnbot
 senp4a1_bot
 sepbot
 seppl2019
@@ -1867,8 +1872,6 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-catriever
-chessler-v4-nnue
-misterrengar
-ozinatorbot
-selflearnbot
+chessopenerbot
+good_bot223344
+sharkbotfish

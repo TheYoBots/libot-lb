@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@EmptikVariantsBot|2957
 #2|@Nikitosikbot|2856
 #3|@RaspFish|2731
-#4|@Nakshatra3|2566
-#5|@NilatacBot|2362
+#4|@Nakshatra3|2571
+#5|@NilatacBot|2360
 #6|@OpeningsBot|2287
-#7|@anti-bot|2178
-#8|@CatNail|2076
-#9|@pawnrobot|1864
+#7|@anti-bot|2174
+#8|@CatNail|2091
+#9|@pawnrobot|1854
