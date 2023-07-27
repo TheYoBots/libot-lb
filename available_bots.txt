@@ -386,6 +386,7 @@ chessler-v4-nnue
 chessmaster6k
 chessmasterbot5
 chessnoobcomp
+chessopenerbot
 chessplayer1225
 chesstigerpro
 chesstver
@@ -669,6 +670,7 @@ goldensphere
 goldfish-engine
 gonzobot
 good-game-123
+good_bot223344
 gothamchessbot
 goutambot
 grabdebottom
@@ -1453,6 +1455,7 @@ shaibel123
 shakboy9824453231op
 shallowredfish
 sharkbot
+sharkbotfish
 shashchess2020
 shashchess_msp
 shineshou90_bot
@@ -1872,6 +1875,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-chessopenerbot
-good_bot223344
-sharkbotfish
+hoaboxerchesss
+openbeat
