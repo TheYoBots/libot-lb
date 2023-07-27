@@ -1192,6 +1192,7 @@ normalbulletbot
 normalstockfish
 nosearchtree
 nosezsbot
+not_eragon1234
 notallkonlygames
 notlunarxd
 notmorphy17-3
@@ -1866,4 +1867,8 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-not_eragon1234
+catriever
+chessler-v4-nnue
+misterrengar
+ozinatorbot
+selflearnbot
