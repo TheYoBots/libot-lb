@@ -45,11 +45,11 @@ def get_banned_bots():
         'YellowFlash_v2',
         'Anand_bot',
         'SamuraiX_v1',
-        'WhatsANikitosikHUH',
-        'OkayWhyYouReadinThis',
         'GHDES',
         'caissa-test',
         'HappyFarmer3000',
+        'RandomEngine-AI',
+        'RandomEngine',
         # playing only humans
         'MedipolUniversity',
         'MustafaYilmazBot',
