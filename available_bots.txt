@@ -1634,6 +1634,7 @@ sofcheck
 sohamchessbot
 somebot
 sovereign_bot
+sovereignking
 spaceisbot
 sparrer123
 sparring_bot
@@ -2045,4 +2046,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-sovereignking
