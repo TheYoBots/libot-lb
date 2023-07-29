@@ -50,6 +50,7 @@ def get_banned_bots():
         'GHDES',
         'caissa-test',
         'HappyFarmer3000',
+        'HappyFarmerChallenge',
         # playing only humans
         'MedipolUniversity',
         'MustafaYilmazBot',
