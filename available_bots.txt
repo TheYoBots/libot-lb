@@ -145,6 +145,7 @@ azdad
 b0ngfish
 b0t5_ru13
 b4df1sh
+b4ux1t3s-bot
 babibot
 baby_eubos
 babyelephantbot
@@ -455,6 +456,7 @@ clubinfosc21
 clueless-bot
 cmndr
 cnn_bot
+coconochao_bot
 cocopikachubot
 codingadventurebot
 combilation
@@ -2049,5 +2051,8 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-b4ux1t3s-bot
-coconochao_bot
+cbot801
+ju-ke-box
+mastacticateoriabot
+serversofflinebot
+stockfisch16
