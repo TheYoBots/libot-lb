@@ -666,6 +666,7 @@ fishadmiral
 fishfingersmcgee
 fishm0ley
 fishstock10
+fishstockwr
 fisk_bot
 fjui2
 flagfish
@@ -772,6 +773,7 @@ hans68bot
 happy_one
 happydeepawali
 happyfarmer3000
+happyfarmerchallenge
 happyplayer_fun2019
 hardrok
 harmonbot
@@ -1657,6 +1659,7 @@ starker_bot
 stashbot
 steadyeddieengine
 steadyeddiefish
+stellarbot
 sternenhimmel10
 stobot
 stock_nemo
@@ -2046,6 +2049,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-fishstockwr
-happyfarmerchallenge
-stellarbot
+b4ux1t3s-bot
+coconochao_bot
