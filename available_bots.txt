@@ -360,6 +360,7 @@ catnail
 catninjabot
 catriever
 cbnguyen_bot
+cbot801
 ccrl-clover
 ccsf
 cdreamer
@@ -920,6 +921,7 @@ jonnierman
 jonox
 joshuachessbot
 jpsbot
+ju-ke-box
 judging_entity
 jumbot
 jupiterbot
@@ -1153,6 +1155,7 @@ martianbot
 marvinxbot
 maslenj30
 maslenj5
+mastacticateoriabot
 master_chess1234
 masterb_o_t
 masterbulletarin
@@ -1578,6 +1581,7 @@ seppl2019
 sergiofransiss21
 servan2345
 serverfish
+serversofflinebot
 sewbot
 sf-dev
 sf-nnue
@@ -1668,6 +1672,7 @@ stock_nemo
 stockapibot
 stockatom
 stockdory
+stockfisch16
 stockfish-14-chess
 stockfish-medium
 stockfish-nnue
@@ -2051,8 +2056,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-cbot801
-ju-ke-box
-mastacticateoriabot
-serversofflinebot
-stockfisch16
+melphess
