@@ -598,8 +598,11 @@ emil_v2
 emilia0_0
 emmamaster
 emptedkiller
+emptik-ai
+emptik-ai-2
 emptikbot
 emptikbot247
+emptikbotbrainlearn
 emptikboteman
 emptikbotlc0
 emptikcorrespondence
@@ -660,6 +663,7 @@ fibonachi
 fightertristan
 filipo6900
 fire8n_unoffical
+firebolt194
 fireengine
 firefighter-the-b0t
 firefishbot
@@ -1098,6 +1102,7 @@ lk-stockfish
 loev07
 logregchess
 lol7241bot
+lola-stockfish
 lolchessbot497
 lolchessbot69
 lolnogenerics
@@ -1299,6 +1304,7 @@ nithin-das
 niyazicarlsen
 nmasdfbot
 nnue
+nnue_sf
 nnwithsf
 no-varants-no
 no_username2
@@ -1478,6 +1484,7 @@ randomtree77
 rangebot
 raphbot
 rapid_worldchamp
+rapidbotai
 rapidchessbot
 raspfish
 raubfish_me262
@@ -1831,6 +1838,7 @@ theultimatechzb
 theweakestbot
 theyobots
 thibot
+thicc_gopher
 thousandatom
 threeisthree
 thuban_official

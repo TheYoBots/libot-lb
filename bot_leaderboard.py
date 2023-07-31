@@ -37,7 +37,7 @@ def get_banned_bots():
         with urllib.request.urlopen('https://lichess.org/api/team/banned-of-leaderboard-of-bots') as banned_bots_data:
             data = orjson.loads(banned_bots_data.read())
             description = data.get('description', '')
-            banned_usernames = re.findall(r'@(\w+)', description)
+            banned_usernames = re.findall(r'@([\w-]+)', description)
             banned_bots.update(username.lower() for username in banned_usernames)
 
     except Exception as e:
