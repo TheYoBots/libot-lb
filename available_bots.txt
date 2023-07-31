@@ -134,6 +134,7 @@ attackerbot
 attackingordefending
 aureliuszero
 autokillerzero
+automachess
 ava-chess-engine
 avaochessbot
 averageplayer757
@@ -276,6 +277,8 @@ bot_talbr
 bot_tark
 bot_test333
 bot_to_beat
+botdefoin
+botdefointesting
 boteagleeye2021
 botezlivetwitchchat
 botfat_742063
@@ -306,6 +309,7 @@ botstockfish09
 botsy
 botted
 bottestjhami
+bottestseb
 bottideeval
 bottios
 bottrosian
@@ -499,6 +503,7 @@ danielbot
 daniildubovbot
 danik-killer
 dark_assassin
+dark_cloud_bot
 dark_evil_bot
 darkb0t
 darknode
@@ -576,6 +581,7 @@ eagleeye2021
 earn-4serpendity
 easychessherokubot
 easywingg
+eb-chess
 echobot
 eddybarner393
 edspbot
@@ -603,12 +609,15 @@ emptik-ai-2
 emptikbot
 emptikbot247
 emptikbotbrainlearn
+emptikbotdoofus
 emptikboteman
 emptikbotlc0
+emptikbotoldest
 emptikcorrespondence
 emptikvariantsbot
 emreisci13
 emrysbot
+endogenetic-bot
 endokingsspade
 enduring_leela
 enginehighlvl
@@ -957,6 +966,7 @@ keremcura15r
 kevbot_sf
 kewin1
 khanh-chess-stocfish
+khanhstockfish
 kheprichess
 khoachess
 kiarashfarahmandi
@@ -1070,6 +1080,7 @@ leelazero-uk
 leelazerojj
 leelazerovn
 leelensteinnn
+leella-stockfish
 legendary-ai
 legendarybot1
 legendbot1
@@ -1090,8 +1101,10 @@ lightning_chess_1
 lightning_speedchess
 lightspeed_bot
 likeawizard-bot
+lila-stockfish
 linuxguru_bot0
 lioct
+lionfishbot
 lisa_bot
 lisebot
 liteengine
@@ -1112,6 +1125,7 @@ los-guerreros1
 loseisnotavailablehe
 losing_loser_bot
 losingbot
+lowkeybot
 lozza-bot
 ltchessbot
 lucifercat
@@ -1541,6 +1555,7 @@ ronideniz
 rootengine
 rosybot
 roundmoundofrebounds
+routerbot
 rowbot-stockfish
 royalleela
 rpean_bot
@@ -1602,6 +1617,7 @@ sflite1
 shadicbot
 shaibel123
 shakboy9824453231op
+shallowredbot
 shallowredfish
 sharkbot
 sharkbotfish
