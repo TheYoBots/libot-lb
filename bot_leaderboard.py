@@ -31,34 +31,19 @@ def get_file_name(type):
     return './bot_leaderboard/' + type + '.md'
 
 def get_banned_bots():
-    return [
-        # farming
-        'caissa-ai',
-        'ProteusSF',
-        'ProteusSF-lite',
-        'ProteusSF-Open',
-        'ProteusSF-Turbo',
-        'QalatBotEngine',
-        'Vaxim2000',
-        'Viet-AI',
-        'RexherBot',
-        'YellowFlash_v2',
-        'Anand_bot',
-        'SamuraiX_v1',
-        'WhatsANikitosikHUH',
-        'OkayWhyYouReadinThis',
-        'GHDES',
-        'caissa-test',
-        'HappyFarmer3000',
-        'NikitosikVariantsbot',
-        'RandomEngie',
-        'RandomEngine-AI',
-        'HappyFarmerChallenge',
-        # playing only humans
-        'MedipolUniversity',
-        'MustafaYilmazBot',
-        'CodingAdventureBot'
-    ]
+    banned_bots = set()
+
+    try:
+        with urllib.request.urlopen('https://lichess.org/api/team/banned-of-leaderboard-of-bots') as banned_bots_data:
+            data = orjson.loads(banned_bots_data.read())
+            description = data.get('description', '')
+            banned_usernames = re.findall(r'@(\w+)', description)
+            banned_bots.update(username.lower() for username in banned_usernames)
+
+    except Exception as e:
+        print(f"Error fetching banned bots: {e}")
+
+    return banned_bots
 
 def get_user_last_rated(username, type):
     now = datetime.datetime.utcnow()
@@ -111,6 +96,7 @@ def get_all_bot_ratings():
         for user in users_list:
             all_bot_ratings.append({
                 'username': user.get('username'),
+                'id': user.get('id'),
                 'perfs': user.get('perfs', {}),
                 'seenAt': user.get('seenAt'),
                 'tosViolation': user.get('tosViolation'),
@@ -150,7 +136,7 @@ def get_bot_leaderboard(type):
                 print("High rating deviation")
             elif (now - d['seenAt']) > datetime.timedelta(days=7):
                 print("Not active for 1 week")
-            elif result[0] in banned_bots:
+            elif d['id'] in banned_bots:
                 print("Banned Bot")
             elif d.get('disabled', False) == True:
                 print("Account Closed")

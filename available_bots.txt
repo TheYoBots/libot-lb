@@ -223,6 +223,7 @@ blitzz_bot
 bloody_bone
 blue_bot_one
 blue_lightningdragon
+bluefake
 blundar_bot
 blunder_engine
 blunderbuss-bot
@@ -834,6 +835,7 @@ humanbot_lv1929
 humanteambot
 humbletestbot
 huxzero
+huy-stockfish
 hwh2008
 hx2tooorch
 hydrovolt
@@ -1182,6 +1184,7 @@ mega_bot
 megabeedrillbot
 megalodon-bot
 meisok
+melphess
 melsh_bot
 menganti
 menisciform
@@ -2056,4 +2059,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-melphess
