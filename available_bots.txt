@@ -679,6 +679,7 @@ firefishbot
 firefishbot_v2
 fireofficial
 firstrobot
+fish-engine
 fishadmiral
 fishfingersmcgee
 fishm0ley
@@ -2055,6 +2056,7 @@ yolo_eldiablo15
 you_are_destroyed
 yourbot
 yoursparringbot
+yousafebot
 yowcapablanca
 ytartofattackinchess
 yuetongbot2
@@ -2083,5 +2085,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-fish-engine
-yousafebot
+onionbot
+ultraaggressivebot
