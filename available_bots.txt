@@ -1354,6 +1354,7 @@ omelettechessengine
 omerbot
 omnibot
 onenode
+onionbot
 onlinechessbot
 ooferoofoof_is
 openbeat
@@ -1930,6 +1931,7 @@ ultimatel
 ultimatestockfish
 ultimatevariants
 ultra-bot
+ultraaggressivebot
 ultrabulletbot
 ultramanbulletmast99
 ultronbot
@@ -2085,5 +2087,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-onionbot
-ultraaggressivebot
+gilk260
+stockwishbot
