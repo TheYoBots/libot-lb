@@ -740,6 +740,7 @@ ghostfacebot
 ghostfreak123
 ghosty_347
 gilgameshthebot
+gilk260
 giphy_logo
 goblinbot
 god_teto
@@ -1729,6 +1730,7 @@ stockfishspeed
 stockhalim
 stockmac
 stocksergio
+stockwishbot
 stokcfishbot
 stonefish123
 stonefishengine
@@ -2087,5 +2089,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-gilk260
-stockwishbot
+grozadvijkov
+khanhstockfish2
