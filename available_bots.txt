@@ -771,6 +771,7 @@ greko-bot
 grey_wolf3000
 grey_wolf3000_2
 groundshaker
+grozadvijkov
 gslv_and_pslv
 guccibot
 guineabot2
@@ -789,6 +790,7 @@ halcyonbot
 halux-bot
 haluxxchessbot
 hans68bot
+hansniemannbot
 happy_one
 happydeepawali
 happyfarmer3000
@@ -890,6 +892,7 @@ intron014
 ios_bot
 ipk_mahaweli
 iplayonlyrandom
+iprimese-bot
 irinaengine
 ironbot
 ironman2006
@@ -969,6 +972,7 @@ kevbot_sf
 kewin1
 khanh-chess-stocfish
 khanhstockfish
+khanhstockfish2
 kheprichess
 khoachess
 kiarashfarahmandi
@@ -1065,6 +1069,7 @@ leelagpu
 leelahatena
 leelainstinct
 leelaisbeautiful
+leelalevel5
 leelamultiposs
 leelanice
 leelanicemirror
@@ -1736,6 +1741,7 @@ stonefish123
 stonefishengine
 stonks_fish
 storm_shadow2012
+stormphraxengine
 storng766555
 streamervschat
 striker_bot
@@ -1904,6 +1910,9 @@ tuksubot
 tunder77
 tundra4
 tundrachessengine
+tungjohn
+tungjohnplayingchess
+tungmanhgiang020709
 tunguska_br
 turaatomicabot
 turkbot3
@@ -2040,6 +2049,7 @@ xmetropolanxbanner
 xproxprogamerx
 xx_team_depredador_x
 xxgodxx
+xxistcentury
 xxproychessx1
 xxxtryandtryxxx
 yagizturkiyebot
@@ -2089,5 +2099,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-grozadvijkov
-khanhstockfish2
