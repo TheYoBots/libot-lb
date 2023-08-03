@@ -975,6 +975,7 @@ keremcura15r
 kevbot_sf
 kewin1
 khanh-chess-stocfish
+khanh_bot
 khanhstockfish
 khanhstockfish2
 kheprichess
@@ -1703,6 +1704,7 @@ ssech_bot
 ssehcilx
 st6090
 starker_bot
+starplumberbot
 stashbot
 steadyeddieengine
 steadyeddiefish
