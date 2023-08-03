@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@admin-bot|1188
 #147|@MySecondBot1|1188
 #148|@Ujwal1001|1179
-#149|@pawnrobot|1176
+#149|@pawnrobot|1174
 #150|@Just-a-random-bot|1171
 #151|@Boom_Bot|1155
 #152|@thousandatom|1154
