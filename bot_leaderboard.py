@@ -27,8 +27,8 @@ def types():
         'threeCheck'
     ]
 
-def get_file_name(type):
-    return './bot_leaderboard/' + type + '.md'
+def get_file_name(type, dir):
+    return dir + type + '.md'
 
 def get_banned_bots():
     banned_bots = set()
@@ -107,6 +107,35 @@ def get_all_bot_ratings():
         json.dump(all_bot_ratings, f)
     print("Updated bot_leaderboard.json file.")
 
+def get_unrestricted_bot_leaderboard(type):
+    file_path = os.path.join(os.path.dirname(__file__), 'bot_leaderboard.json')
+    with open(file_path, 'r') as f:
+        bot_ratings = json.load(f)
+
+    user_arr = []
+    count = 1
+
+    for d in bot_ratings:
+        perfs = d['perfs'].get(type)
+        if perfs is not None:
+            result = [d['username'], perfs.get('rating')]
+            print(f'BOT {result[0]}: {result[1]} in {type}.')
+            if perfs.get('games', 0) > 0:
+                user_arr.append(result)
+            else:
+                print(f"BOT {d['username']}: No {type} rating available")
+        else:
+            print(f"BOT {d['username']}: No {type} rating available")
+    resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
+    with open(get_file_name(type, './unrestricted_bot_leaderboard/'), 'w') as f:
+        print("Rank|Bot|Rating", file=f)
+        print("---|---|---", file=f)
+        for j in resulting_arr:
+            print(f"#{str(count)}|@{j[0]}|{str(j[1])}", file=f)
+            count += 1
+
+    print(f"Finished generating unrestricted leaderboard for {type}")
+
 def get_bot_leaderboard(type):
     banned_bots = get_banned_bots()
 
@@ -143,11 +172,11 @@ def get_bot_leaderboard(type):
             elif get_user_last_rated(result[0], type) != "2000.01.01":
                 user_arr.append(result)
             else:
-                print(f"BOT {d['username']}: No {type} rating available")
+                print(f"BOT {d['username']}: Not qualified for {type} leaderboard")
         else:
             print(f"BOT {d['username']}: No {type} rating available")
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
-    with open(get_file_name(type), 'w') as f:
+    with open(get_file_name(type, './bot_leaderboard/'), 'w') as f:
         print("Rank|Bot|Rating", file=f)
         print("---|---|---", file=f)
         for j in resulting_arr:
@@ -161,6 +190,7 @@ if __name__ == "__main__":
         get_available_bots()
         get_all_bot_ratings()
         for i in types():
+            get_unrestricted_bot_leaderboard(i)
             get_bot_leaderboard(i)
     except KeyboardInterrupt:
         sys.exit()

@@ -41,6 +41,7 @@ alah230
 albatros_engine
 alehkine_cat
 alejbot
+aleph_bot_d6
 alexeybot
 alexz55
 alfabot
@@ -705,6 +706,7 @@ freddystehtaufteddy
 friendoftosik2
 fringecases
 fritz_16
+frogskittens_thebot
 frost_fire
 frostbringer
 frozenightengine
@@ -726,6 +728,7 @@ garbobot
 gbcb
 gecko_bot
 geemc
+gegenebot
 genericbot
 genetic_chess_bot
 geniusbot
@@ -918,6 +921,7 @@ jasonbourne77
 jasperbot
 jaymombot
 jbxlcbot
+jchessengine
 je-suis-un-robot
 jeddycoco12345
 jeezuschrist
@@ -1290,6 +1294,7 @@ nakshatra3
 nastmardov
 natbee_bot
 natural-disaster
+naughty-dottie
 nc3nc6bot
 neena-2-bot
 neildandekarbot
@@ -1445,6 +1450,7 @@ polarchessbot
 polaris2bot
 polybot
 popularmoves-bot
+potato-chess-bot
 potato638
 potato_chess
 potatowosky
@@ -1567,6 +1573,7 @@ routerbot
 rowbot-stockfish
 royalleela
 rpean_bot
+rrsimpelbot
 rsvmentor
 rtx3080tibot
 rubinstein1_1xd
@@ -1705,6 +1712,7 @@ stobot
 stock_nemo
 stockapibot
 stockatom
+stockbrotv1
 stockdory
 stockfisch16
 stockfish-14-chess
