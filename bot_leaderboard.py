@@ -8,27 +8,28 @@ import os
 import datetime
 import re
 
-TOKEN = os.environ['TOKEN']
+TOKEN = os.environ.get('TOKEN')
+BATCH_SIZE = 100
+TYPES = [
+    'bullet',
+    'blitz',
+    'rapid',
+    'classical',
+    'correspondence',
+    'antichess',
+    'atomic',
+    'chess960',
+    'crazyhouse',
+    'horde',
+    'kingOfTheHill',
+    'racingKings',
+    'threeCheck'
+]
 
-def types():
-    return [
-        'bullet',
-        'blitz',
-        'rapid',
-        'classical',
-        'correspondence',
-        'antichess',
-        'atomic',
-        'chess960',
-        'crazyhouse',
-        'horde',
-        'kingOfTheHill',
-        'racingKings',
-        'threeCheck'
-    ]
 
 def get_file_name(type, dir):
-    return dir + type + '.md'
+    return os.path.join(dir, f"{type}.md")
+
 
 def get_banned_bots():
     banned_bots = set()
@@ -45,6 +46,7 @@ def get_banned_bots():
 
     return banned_bots
 
+
 def get_user_last_rated(username, type):
     now = datetime.datetime.utcnow()
     since = now - datetime.timedelta(days=7)
@@ -56,6 +58,7 @@ def get_user_last_rated(username, type):
     else:
         print(f"BOT {username}: No rated games for 1 week")
         return "2000.01.01"  # random default date
+
 
 def get_available_bots():
     available_bots = set()
@@ -76,19 +79,19 @@ def get_available_bots():
     with open('available_bots.txt', 'w') as f:
         for bot in available_bots:
             f.write(bot + '\n')
-    print(f"Updated List of Bots")
+    print("Updated List of Bots")
+
 
 def get_all_bot_ratings():
     all_bot_ratings = []
     with open('available_bots.txt', 'r') as f:
         available_bots = [bot.strip() for bot in f.readlines()]
 
-    batch_size = 100
-    num_batches = (len(available_bots) + batch_size - 1) // batch_size
+    num_batches = (len(available_bots) + BATCH_SIZE - 1) // BATCH_SIZE
 
     for i in range(num_batches):
-        batch_start = i * batch_size
-        batch_end = (i + 1) * batch_size
+        batch_start = i * BATCH_SIZE
+        batch_end = (i + 1) * BATCH_SIZE
         batch_usernames = available_bots[batch_start:batch_end]
 
         users_list = lichess.api.users_by_ids(batch_usernames)
@@ -107,36 +110,8 @@ def get_all_bot_ratings():
         json.dump(all_bot_ratings, f)
     print("Updated bot_leaderboard.json file.")
 
-def get_unrestricted_bot_leaderboard(type):
-    file_path = os.path.join(os.path.dirname(__file__), 'bot_leaderboard.json')
-    with open(file_path, 'r') as f:
-        bot_ratings = json.load(f)
 
-    user_arr = []
-    count = 1
-
-    for d in bot_ratings:
-        perfs = d['perfs'].get(type)
-        if perfs is not None:
-            result = [d['username'], perfs.get('rating')]
-            print(f'BOT {result[0]}: {result[1]} in {type}.')
-            if perfs.get('games', 0) > 0:
-                user_arr.append(result)
-            else:
-                print(f"BOT {d['username']}: No {type} rating available")
-        else:
-            print(f"BOT {d['username']}: No {type} rating available")
-    resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
-    with open(get_file_name(type, './unrestricted_bot_leaderboard/'), 'w') as f:
-        print("Rank|Bot|Rating", file=f)
-        print("---|---|---", file=f)
-        for j in resulting_arr:
-            print(f"#{str(count)}|@{j[0]}|{str(j[1])}", file=f)
-            count += 1
-
-    print(f"Finished generating unrestricted leaderboard for {type}")
-
-def get_bot_leaderboard(type):
+def get_bot_leaderboard(type, unrestricted=False):
     banned_bots = get_banned_bots()
 
     file_path = os.path.join(os.path.dirname(__file__), 'bot_leaderboard.json')
@@ -146,51 +121,79 @@ def get_bot_leaderboard(type):
     user_arr = []
     count = 1
 
-    for d in bot_ratings:
-        perfs = d['perfs'].get(type)
-        if perfs is not None:
-            result = [d['username'], perfs.get('rating')]
-            print(f'BOT {result[0]}: {result[1]} in {type}.')
-            now = datetime.datetime.utcnow()
-            d['seenAt'] = datetime.datetime.utcfromtimestamp(d['seenAt'] / 1000)
-            if perfs.get('prov', False) == True:
-                print("Provisional rating")
-            elif d.get('tosViolation', False) == True:
-                print("Violated ToS")
-            elif perfs.get('games', 0) <= 50:
-                print("Too few games played")
-            elif type in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 75:
-                print("High rating deviation")
-            elif type not in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 65:
-                print("High rating deviation")
-            elif (now - d['seenAt']) > datetime.timedelta(days=7):
-                print("Not active for 1 week")
-            elif d['id'] in banned_bots:
-                print("Banned Bot")
-            elif d.get('disabled', False) == True:
-                print("Account Closed")
-            elif get_user_last_rated(result[0], type) != "2000.01.01":
-                user_arr.append(result)
+    if unrestricted:
+        for d in bot_ratings:
+            perfs = d['perfs'].get(type)
+            if perfs is not None:
+                result = [d['username'], perfs.get('rating')]
+                print(f'BOT {result[0]}: {result[1]} in {type}.')
+                if perfs.get('games', 0) > 0:
+                    user_arr.append(result)
+                else:
+                    print(f"BOT {d['username']}: No {type} rating available")
             else:
-                print(f"BOT {d['username']}: Not qualified for {type} leaderboard")
-        else:
-            print(f"BOT {d['username']}: No {type} rating available")
-    resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
-    with open(get_file_name(type, './bot_leaderboard/'), 'w') as f:
-        print("Rank|Bot|Rating", file=f)
-        print("---|---|---", file=f)
-        for j in resulting_arr:
-            print(f"#{str(count)}|@{j[0]}|{str(j[1])}", file=f)
-            count += 1
+                print(f"BOT {d['username']}: No {type} rating available")
 
-    print(f"Finished generating leaderboard for {type}")
+        resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
+        with open(get_file_name(type, './unrestricted_bot_leaderboard/'), 'w') as f:
+            print("Rank|Bot|Rating", file=f)
+            print("---|---|---", file=f)
+            for j in resulting_arr:
+                print(f"#{str(count)}|@{j[0]}|{str(j[1])}", file=f)
+                count += 1
 
-if __name__ == "__main__":
+        print(f"Finished generating unrestricted leaderboard for {type}")
+    else:
+        for d in bot_ratings:
+            perfs = d['perfs'].get(type)
+            if perfs is not None:
+                result = [d['username'], perfs.get('rating')]
+                print(f'BOT {result[0]}: {result[1]} in {type}.')
+                now = datetime.datetime.utcnow()
+                d['seenAt'] = datetime.datetime.utcfromtimestamp(d['seenAt'] / 1000)
+                if perfs.get('prov', False) is True:
+                    print("Provisional rating")
+                elif d.get('tosViolation', False) is True:
+                    print("Violated ToS")
+                elif perfs.get('games', 0) <= 50:
+                    print("Too few games played")
+                elif type in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 75:
+                    print("High rating deviation")
+                elif type not in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 65:
+                    print("High rating deviation")
+                elif (now - d['seenAt']) > datetime.timedelta(days=7):
+                    print("Not active for 1 week")
+                elif d['id'] in banned_bots:
+                    print("Banned Bot")
+                elif d.get('disabled', False) is True:
+                    print("Account Closed")
+                elif get_user_last_rated(result[0], type) != "2000.01.01":
+                    user_arr.append(result)
+                else:
+                    print(f"BOT {d['username']}: Not qualified for {type} leaderboard")
+            else:
+                print(f"BOT {d['username']}: No {type} rating available")
+        resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
+        with open(get_file_name(type, './bot_leaderboard/'), 'w') as f:
+            print("Rank|Bot|Rating", file=f)
+            print("---|---|---", file=f)
+            for j in resulting_arr:
+                print(f"#{str(count)}|@{j[0]}|{str(j[1])}", file=f)
+                count += 1
+
+        print(f"Finished generating leaderboard for {type}")
+
+
+def main():
     try:
         get_available_bots()
         get_all_bot_ratings()
-        for i in types():
-            get_unrestricted_bot_leaderboard(i)
+        for i in TYPES:
+            get_bot_leaderboard(i, unrestricted=True)
             get_bot_leaderboard(i)
     except KeyboardInterrupt:
         sys.exit()
+
+
+if __name__ == "__main__":
+    main()
