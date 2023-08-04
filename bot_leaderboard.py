@@ -129,6 +129,10 @@ def get_bot_leaderboard(type, unrestricted=False):
                 print(f'BOT {result[0]}: {result[1]} in {type}.')
                 if perfs.get('games', 0) > 0:
                     user_arr.append(result)
+                elif d.get('tosViolation', False) == True:
+                    print("Violated ToS")
+                elif d.get('disabled', False) == True:
+                    print("Account Closed")
                 else:
                     print(f"BOT {d['username']}: No {type} rating available")
             else:
