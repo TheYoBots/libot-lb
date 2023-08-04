@@ -404,6 +404,7 @@ chess-freelancer
 chess-otter
 chess-trainer2424
 chess_bot-child
+chess_is_wide
 chess_king2000
 chess_ni_boss
 chess_omar_2009
@@ -466,6 +467,7 @@ cnn_bot
 coconochao_bot
 cocopikachubot
 codingadventurebot
+codingai
 combilation
 combuskengine
 common_mover
@@ -496,6 +498,7 @@ cruelbot
 cruisemissile
 cubeofrubik
 cultr
+currenter_ai
 cva728_bot_1
 dakingsofficialbot
 dangerousride
@@ -1046,6 +1049,7 @@ lc0test
 lc0v24
 lczer0
 leamoreau
+learningchess6_bot
 learningsequence
 lecousindekasparov
 ledzeppelin-bot
@@ -1294,6 +1298,7 @@ naive_chess
 nakshatra3
 nastmardov
 natbee_bot
+natesbot
 natural-disaster
 naughty-dottie
 nc3nc6bot
@@ -1360,6 +1365,7 @@ odonata-bot
 ohnibot
 ok12435
 ok_zabu
+om2022_bot
 om_the_great_bot
 omega-pro
 omelettechessengine

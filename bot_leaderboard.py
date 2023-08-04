@@ -127,7 +127,11 @@ def get_bot_leaderboard(type, unrestricted=False):
             if perfs is not None:
                 result = [d['username'], perfs.get('rating')]
                 print(f'BOT {result[0]}: {result[1]} in {type}.')
-                if perfs.get('games', 0) > 0:
+                if d.get('disabled', False) is True:
+                    print("Account Closed")
+                elif d.get('tosViolation', False) is True:
+                    print("Violated ToS")
+                elif perfs.get('games', 0) > 0:
                     user_arr.append(result)
                 else:
                     print(f"BOT {d['username']}: No {type} rating available")
