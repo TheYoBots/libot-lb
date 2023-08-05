@@ -5,6 +5,7 @@ abhijithhisbot
 abhinav-bot
 abhisun_bot
 abood_alkayyali_02
+abotwith3200rating
 absaks
 abuziddin-bot
 ac-ac-bot
@@ -564,6 +565,7 @@ dragobot
 dragon_1906
 dragon_shadow_bot
 dragonballzfan
+dragonflybot
 drawfish
 drawinone
 dream_bot
@@ -2115,5 +2117,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-abotwith3200rating
-dragonflybot

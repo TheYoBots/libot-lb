@@ -78,9 +78,9 @@ Rank|Bot|Rating
 #76|@NienishiEngine|2304
 #77|@EvenMatchup|2302
 #78|@NilatacBot|2302
-#79|@OpeningsBot|2288
-#80|@GodelEscherBot|2284
-#81|@Dean_Summer_Bot|2279
+#79|@GodelEscherBot|2284
+#80|@Dean_Summer_Bot|2279
+#81|@OpeningsBot|2272
 #82|@Johnsun|2269
 #83|@SkyBlaster|2254
 #84|@mrchessmanager|2240
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@NormalBlitzBulletBot|2205
 #95|@EstmileBot|2200
 #96|@HerokuHasnotplay|2196
-#97|@anti-bot|2190
+#97|@anti-bot|2192
 #98|@Lucror|2178
 #99|@lightspeed_bot|2152
 #100|@AntiChessBot|2142
@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@XXIstCentury|2131
 #103|@PyChessBot|2102
 #104|@TurkiyeHogwartsBOT|2099
-#105|@CatNail|2061
-#106|@ZamuChess|2049
+#105|@ZamuChess|2049
+#106|@CatNail|2044
 #107|@Botzer|2020
 #108|@CloudBotZero|2018
 #109|@B0T5_RU13|2011
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@antichesssss|1964
 #114|@Menganti|1963
 #115|@CloudBOT|1950
-#116|@pawnrobot|1886
+#116|@pawnrobot|1913
 #117|@Crepusculum|1881
 #118|@NoTallkOnlyGames|1871
 #119|@Lumac0|1861
