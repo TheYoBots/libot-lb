@@ -153,6 +153,7 @@ Rank|Bot|Rating
 #151|@Happy_One|1105
 #152|@DespacitoBot|1080
 #153|@ZX-Chess|1063
-#154|@BogoBot|928
-#155|@TheSystem_Bot|905
-#156|@bobandi|780
+#154|@GuineaBot3|972
+#155|@BogoBot|928
+#156|@TheSystem_Bot|905
+#157|@bobandi|780

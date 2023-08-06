@@ -180,4 +180,5 @@ Rank|Bot|Rating
 #178|@bobandi|998
 #179|@JPSBOT|958
 #180|@RSVMentor|862
-#181|@TrashBot|800
+#181|@GuineaBot3|845
+#182|@TrashBot|800

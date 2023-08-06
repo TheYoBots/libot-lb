@@ -554,6 +554,7 @@ dolphin_we_1232
 domi119017
 dominosdominate_hs
 dong_xiao_yuan
+donochessbot
 dorpsgek
 dotzero
 doublecode-bot
@@ -2117,4 +2118,7 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-donochessbot
+guineabot3
+icebolt194
+lildoctorjank
+quaviverbot
