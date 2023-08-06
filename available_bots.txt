@@ -611,6 +611,7 @@ emil_v2
 emilia0_0
 emmamaster
 emptedkiller
+emptik
 emptik-ai
 emptik-ai-2
 emptikbot
@@ -784,6 +785,7 @@ grozadvijkov
 gslv_and_pslv
 guccibot
 guineabot2
+guineabot3
 gun-bot
 h-zero
 h5h5h5h5
@@ -880,6 +882,7 @@ iamstockfish123
 iamthebot1
 iathena
 ibep
+icebolt194
 iceburnengine
 icysharkbot
 idlefish
@@ -1121,6 +1124,7 @@ lightning_speedchess
 lightspeed_bot
 likeawizard-bot
 lila-stockfish
+lildoctorjank
 linuxguru_bot0
 lioct
 lionfishbot
@@ -1495,6 +1499,7 @@ pychessbot
 pyglin
 q-bith
 qalatbotengine
+quaviverbot
 que-encrypt
 que-hyper
 queen_stase_approx
@@ -2118,7 +2123,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-guineabot3
-icebolt194
-lildoctorjank
-quaviverbot
