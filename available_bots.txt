@@ -103,6 +103,7 @@ apollo1414
 apollo314
 apollo_bot
 apollobot
+apotheosis_bot
 appleatebananabot
 apraz
 aqwert123
@@ -179,6 +180,8 @@ bellachess
 benbotolucam
 benmakineyim
 bera_of_bbot
+berlinwallwall
+bernd_der_bot
 berntbot
 bernucchio
 berserkengine
@@ -232,6 +235,7 @@ blunder_engine
 blunderbuss-bot
 bob_the_bot
 bobandi
+bobby-bot
 bobby_fischer_bot
 bobby_fishcer_bot
 bogobot
@@ -641,6 +645,7 @@ ertugruldemir
 esc_bot
 esk18-bot
 estmilebot
+etabetaita
 eubos
 eulerbot
 evenmatchup
@@ -766,6 +771,7 @@ good-game-123
 good_bot223344
 gothamchessbot
 goutambot
+gptplayschess
 grabdebottom
 grand-bot
 grand_mefbartu-bot
@@ -861,6 +867,7 @@ humaia
 humaia-strong
 humanbot_1
 humanbot_lv1929
+humanian
 humanteambot
 humbletestbot
 huxzero
@@ -940,6 +947,7 @@ jellyfischer
 jence
 jeremybot
 jessethefluffydoge
+jest-bot
 jgrizzbt-bot
 jibbby
 jnewberry0502
@@ -953,12 +961,14 @@ joke_2010
 joneca-bot
 jonnierman
 jonox
+joseppegodo
 joshuachessbot
 jpsbot
 ju-ke-box
 judging_entity
 jumbot
 jupiterbot
+juroj
 jussicas
 just-a-random-bot
 just_frankenstein
@@ -973,7 +983,10 @@ kaaaaiiiww
 kablosuz_beyin
 kahunabot
 kapablanca_balls
+karl-bot
 karly64
+karpov_bot
+kasabot
 kasparov_bot
 kasparovbot
 kasparovkarpov_bot
@@ -1216,9 +1229,11 @@ max_bot
 maximumef
 maxthedog
 mayan_mex
+mayhem23111
 mcexpressbot
 mckapran78
 mcyborg
+md211bot
 mecbotchess1
 medipoluniversity
 meetnarangbot
@@ -1390,7 +1405,9 @@ openbot
 opengalaxy
 openingbot
 openingsbot
+openingsexercise
 openingtrainbot
+opentalbot2023
 opldksijfkj
 orcabot
 orctbot
@@ -1644,6 +1661,7 @@ sewbot
 sf-dev
 sf-nnue
 sf12bot
+sf_bot
 sf_nnue2
 sfishchess2021
 sflite1
@@ -2052,6 +2070,7 @@ wirtanen
 wittenbergadmin
 wmatt
 wmwmmmwmwmmmwmwmwmmw
+wolftacticsv1
 wombatengine
 world-best-ninja-jnr
 worldofchampions
@@ -2083,6 +2102,7 @@ yagizturkiyebot
 yakup_0616
 yann-adam
 yasmarin1
+yellowflash-x
 yellowflash_v2
 yellowjackets_bot
 yemmi-bot
@@ -2102,6 +2122,7 @@ yowcapablanca
 ytartofattackinchess
 yuetongbot2
 yukoo-bot
+yz-bot-test
 z-move
 zackes
 zagreus_engine
