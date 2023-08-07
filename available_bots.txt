@@ -434,6 +434,7 @@ chessfybot
 chesshackerhehe
 chessharmon
 chesshunterbot
+chesshyperbot
 chesshyperdragon
 chessler-v4-nnue
 chessmaster6k
@@ -715,6 +716,7 @@ fornax-engine
 fortunechess
 fougade
 fourbot
+frank-triolo-bot
 freddystehtaufteddy
 friendoftosik2
 fringecases
@@ -1620,6 +1622,7 @@ ruchess_r
 rudim-bot
 rust-engine
 rust_lang_chess
+rustbot
 s2rarro
 s_stock
 sacgod1020
@@ -1792,6 +1795,7 @@ streamervschat
 striker_bot
 stringbot
 strongchessengine
+strongmagnuscarlsen
 strudlbot
 stupidchessrobot
 sturddle
