@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@ElPeonElectrico|2549
 #15|@CloudBot_v2|2544
 #16|@KizVariant|2529
-#17|@ToromBot|2512
+#17|@ToromBot|2521
 #18|@RaspFish|2486
 #19|@EmptikBot|2479
 #20|@ESC_BOT|2476
