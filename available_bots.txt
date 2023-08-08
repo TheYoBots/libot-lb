@@ -20,6 +20,7 @@ admin-bot
 ae_test
 aebroadusbotter
 aeternusmaster
+agamed2007
 aggrobot
 agnay_202524
 ahavaisbotting
@@ -254,8 +255,10 @@ bot-31795
 bot-4ku
 bot-botbot
 bot-chocolate
+bot-o-robot-o
 bot-o-tron
 bot-stonger
+bot-testing
 bot-ugurpc
 bot1996123
 bot1cwc
@@ -336,6 +339,7 @@ breeze_bot
 bristol_amogus
 britbot
 briton
+bromiumai
 bruceleela
 brutestrength
 bryan_12345
@@ -350,6 +354,7 @@ butzke_bot
 c0llision
 cabolince
 cactusengine
+cahbot
 caissa-ai
 caissa-test
 caissa-x
@@ -731,6 +736,7 @@ furrybot
 future_chess_pro
 fychess2
 g0thamb0t
+galaxy_guardian
 gam3play3r
 gambit-bot
 gambitengine
@@ -834,6 +840,7 @@ heman36541234578
 henryln
 hermaronline
 hero_cars
+herokuchess
 herokuhasnotplay
 hexahexahexa
 hiarcsfish
@@ -1232,6 +1239,7 @@ maximumef
 maxthedog
 mayan_mex
 mayhem23111
+mc-king-098
 mcexpressbot
 mckapran78
 mcyborg
@@ -1243,6 +1251,7 @@ meetrabot
 meezkool
 mega_bot
 megabeedrillbot
+megabotquan
 megalodon-bot
 meisok
 melphess
@@ -1380,15 +1389,18 @@ nosearchtree
 nosezsbot
 not_eragon1234
 notallkonlygames
+notbotforsure
 notlunarxd
 notmorphy17-3
 notnatebot
 notropis
 nukechess-bot
+number_one1
 nya-vp
 o9mniej_bot
 ochobot
 odonata-bot
+official_bot
 ohnibot
 ok12435
 ok_zabu
@@ -1879,6 +1891,7 @@ the_super_master88
 the_tortoise
 theandroidbot
 theasmfish
+theastrobot
 theawesomebot
 theblueberry
 thebooklogbot
@@ -1955,6 +1968,7 @@ try_to_beat_me_kid
 tt-challenge
 ttbot
 ttc-bot_2
+ttgmxliewrush
 tuksubot
 tunder77
 tundra4
@@ -2151,4 +2165,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-cahbot
