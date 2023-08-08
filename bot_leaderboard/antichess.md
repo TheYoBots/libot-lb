@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Nakshatra3|2520
-#2|@NilatacBot|2319
-#3|@OpeningsBot|2302
-#4|@anti-bot|2113
-#5|@CatNail|2022
-#6|@pawnrobot|1901
+#2|@OpeningsBot|2324
+#3|@NilatacBot|2308
+#4|@anti-bot|2115
+#5|@CatNail|2019
+#6|@pawnrobot|1892
