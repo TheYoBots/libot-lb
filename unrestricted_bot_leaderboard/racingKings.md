@@ -61,10 +61,10 @@ Rank|Bot|Rating
 #59|@Trainspotter|2200
 #60|@Hyper-Stockfish|2189
 #61|@Johnsun|2181
-#62|@OpeningsBot|2178
-#63|@HuxZero|2176
-#64|@AnUtterlyKarBot|2174
-#65|@knight_128|2144
+#62|@HuxZero|2176
+#63|@AnUtterlyKarBot|2174
+#64|@knight_128|2144
+#65|@OpeningsBot|2128
 #66|@Kizburb|2126
 #67|@xiang-qi|2113
 #68|@atomicli|2111

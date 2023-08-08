@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Viet-AI|2880
+#1|@Viet-AI|2914
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
