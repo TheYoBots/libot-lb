@@ -35,6 +35,7 @@ aifun
 aihellobot
 aitron
 aivanj10
+ajatarbot
 ajedrezchamberi
 aks-mantissa
 akshadlawanibot
@@ -1176,6 +1177,7 @@ losingbot
 lowkeybot
 lozza-bot
 ltchessbot
+lucasma8795
 lucifercat
 lucror
 lucy-bot
@@ -1521,6 +1523,7 @@ proteussf-extreme
 proteussf-godot
 proteussf-lite
 proteussf-open
+proteussf-sunrise
 proteussf-turbo
 protocol_2
 proud_tamil_bot
@@ -2167,4 +2170,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-proteussf-sunrise
