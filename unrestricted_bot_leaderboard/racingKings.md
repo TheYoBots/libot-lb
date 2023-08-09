@@ -137,10 +137,10 @@ Rank|Bot|Rating
 #135|@Official_bot|1418
 #136|@Blasting4|1414
 #137|@Botmobile|1413
-#138|@pawnrobot|1407
-#139|@Pawn_Stormer_D4|1404
-#140|@EasyWinGG|1393
-#141|@SLDeadshot22|1389
+#138|@Pawn_Stormer_D4|1404
+#139|@EasyWinGG|1393
+#140|@SLDeadshot22|1389
+#141|@pawnrobot|1383
 #142|@NeilDandekarBot|1373
 #143|@vamos_caballeros|1373
 #144|@BotOfAtomicChess|1369

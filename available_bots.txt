@@ -753,6 +753,7 @@ gegenebot
 genericbot
 genetic_chess_bot
 geniusbot
+geraldbot
 geraldleebetafish
 geraltorivia
 getcr3ampied
@@ -1313,6 +1314,7 @@ mtalofficial
 multichessmcts
 multimodal-int
 mustafayilmazbot
+mustaley
 mxnet-gamemaster
 my_bot
 myakshay1234
@@ -2165,5 +2167,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-geraldbot
-mustaley
+proteussf-sunrise
