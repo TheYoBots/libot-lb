@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@AlfaBot|2797
 #2|@VariantsBot|2759
-#3|@bananaaaaaaaaa_test|2666
-#4|@Viet-AI|2663
+#3|@Viet-AI|2672
+#4|@bananaaaaaaaaa_test|2666
 #5|@FireFishBOT|2661
 #6|@Nikitosikbot|2639
 #7|@MalanChess|2622

@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@VariantsBot|2714
-#2|@AlfaBot|2674
-#3|@EmptikVariantsBot|2671
-#4|@ToromBot|2664
+#1|@ToromBot|2724
+#2|@VariantsBot|2714
+#3|@AlfaBot|2674
+#4|@EmptikVariantsBot|2671
 #5|@Nikitosikbot|2630
 #6|@KizVariant|2597
 #7|@pistol-play|2590

@@ -107,11 +107,11 @@ Rank|Bot|Rating
 #105|@SXDEFENDER|1534
 #106|@Light_To_The_Rescue|1523
 #107|@Z-Move|1495
-#108|@TFRChessClub|1494
-#109|@hyperchessbot1|1493
-#110|@NimsiluBot|1493
-#111|@MagnusCarlsen1507|1492
-#112|@DavidsGuterBot|1489
+#108|@DavidsGuterBot|1494
+#109|@TFRChessClub|1494
+#110|@hyperchessbot1|1493
+#111|@NimsiluBot|1493
+#112|@MagnusCarlsen1507|1492
 #113|@SugarAndSpice|1489
 #114|@rtx3080tibot|1487
 #115|@SUMAL_BRO|1476

@@ -755,6 +755,7 @@ genericbot
 genetic_chess_bot
 geniusbot
 geraldbot
+geraldbot2
 geraldleebetafish
 geraltorivia
 getcr3ampied
@@ -2170,4 +2171,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-geraldbot2
+asimusbot
