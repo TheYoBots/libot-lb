@@ -61,6 +61,7 @@ alouettechessengine
 alpbet0
 alphachess_official
 alphagpt
+alphaleela0
 altair_engine
 alvin-chess-bot
 alvinl22_lbot
@@ -127,6 +128,7 @@ artjom_bot
 arundina
 asdfbot2
 ashnostromo
+asimusbot
 assasino_legend
 asterix_20k20
 atomicandtroll
@@ -135,6 +137,7 @@ atomicchessbot
 atomicli
 atomicvsenginebot
 attackbot
+attackbot2023
 attackerbot
 attackingordefending
 aureliuszero
@@ -459,6 +462,7 @@ chesswinner_56
 chesz_art
 chicken_farmer
 child_beth
+chill4ce
 chlorophyll21111212
 chmod-bot
 chompbot
@@ -615,6 +619,7 @@ elninodiablo
 elo3800
 elo_1500
 elpeonelectrico
+emanchessengine
 emanpurenn
 emanueltavares07bot
 embla
@@ -667,7 +672,9 @@ expositor
 ezwipe
 ezwipebutbetter
 f0rgot
+f1r3bot
 f2xy-chess
+f4st3rbot
 fabriad
 fairgamekavvadias
 fairy-stockfish
@@ -921,6 +928,7 @@ indianchessrobot
 inflames1996
 inteli5bot
 intron014
+invincibot
 ios_bot
 ipk_mahaweli
 iplayonlyrandom
@@ -928,6 +936,7 @@ iprimese-bot
 irinaengine
 ironbot
 ironman2006
+isaac_terminator
 isaacwb_bot
 ishaan080808
 isotopebot
@@ -1057,6 +1066,7 @@ kunju_bot
 kurosaki_higor
 kwinibot
 kybot
+kychess_bot
 kyle_0111
 kylel4266_test
 kysokochage17
@@ -1134,6 +1144,7 @@ legendary-ai
 legendarybot1
 legendbot1
 legendg21
+legiontower
 leightfrengine
 lelaaz
 leojoseph101010
@@ -1495,6 +1506,7 @@ playgea
 playleela
 playleelachess
 playsf
+playwithkomodo
 pleomati1
 pliskengine
 podsni
@@ -1539,6 +1551,7 @@ pychessbot
 pyglin
 q-bith
 qalatbotengine
+qalattop
 quaviverbot
 que-encrypt
 que-hyper
@@ -1552,6 +1565,7 @@ quintiumbotaccount
 quokkabot
 quros
 qwertziop3
+qzrfi
 r-o-b-o-t
 rablitz-test
 racingkingskingsbot
@@ -1904,6 +1918,7 @@ thebooklogbot
 thebossbot
 thebrobot
 thebullybot
+thecheckmatemachine
 thechessmonster09
 theenisbotofficial
 theensemble
@@ -1940,6 +1955,7 @@ ticktocc
 tigrament
 time-player
 timecat
+tiraelsedaibot
 tissouslebot
 tjchessbot
 tmfish
@@ -2171,4 +2187,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-asimusbot
