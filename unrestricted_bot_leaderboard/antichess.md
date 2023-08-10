@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@TorBot|2824
 #10|@Nikitosikbot|2818
 #11|@WennDieSoldatBOT|2818
-#12|@Viet-AI|2809
-#13|@VariantsTop|2765
+#12|@VariantsTop|2765
+#13|@Viet-AI|2765
 #14|@ibep|2733
 #15|@RaspFish|2731
 #16|@lord-bot|2679
@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@Leelabotmaster|2538
 #38|@Dark_evil_bot|2525
 #39|@Bot_AOOP11|2521
-#40|@HyperLitikBOT|2511
-#41|@Nakshatra3|2507
+#40|@Nakshatra3|2513
+#41|@HyperLitikBOT|2511
 #42|@pistol-play|2498
 #43|@NikitosikVariantsbot|2483
 #44|@MrBOThacker|2477
@@ -71,9 +71,9 @@ Rank|Bot|Rating
 #69|@higuyuu67776|2352
 #70|@Karpov_bot|2335
 #71|@TeamChelsie|2331
-#72|@NilatacBot|2326
-#73|@ttBOT|2318
-#74|@AI69|2312
+#72|@ttBOT|2318
+#73|@AI69|2312
+#74|@NilatacBot|2310
 #75|@Kizburb|2307
 #76|@MagicverseBOT|2306
 #77|@abhisun_bot|2305
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@GodelEscherBot|2284
 #81|@Dean_Summer_Bot|2279
 #82|@Johnsun|2269
-#83|@OpeningsBot|2264
+#83|@OpeningsBot|2267
 #84|@SkyBlaster|2254
 #85|@mrchessmanager|2240
 #86|@TurkiyeHogwarts|2240
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@ZamuChess|2049
 #108|@Botzer|2020
 #109|@CloudBotZero|2018
-#110|@CatNail|2017
+#110|@CatNail|2012
 #111|@B0T5_RU13|2011
 #112|@TheLegitLegend|2010
 #113|@CrayyBot|1989
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@antichesssss|1964
 #116|@Menganti|1963
 #117|@CloudBOT|1950
-#118|@pawnrobot|1891
+#118|@pawnrobot|1911
 #119|@Crepusculum|1881
 #120|@NoTallkOnlyGames|1871
 #121|@Lumac0|1861
