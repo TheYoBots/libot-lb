@@ -2187,3 +2187,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
+mr_chess_berserk

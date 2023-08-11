@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
 #3|@ToromBot|2829
-#4|@Coolman2021|2743
+#4|@Coolman2021|2757
 #5|@Nikitosikbot|2734
 #6|@FireFishBOT|2726
 #7|@PepsiForAll|2699
@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@NikitosikVariantsbot|2295
 #13|@AlfaBot|2293
 #14|@Fairy-Stockfish|2289
-#15|@RaspFish|2288
+#15|@RaspFish|2284
 #16|@Kizburb|2276
 #17|@lord-bot|2271
 #18|@ibep|2258
@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@St6090|1191
 #123|@Simpafteur|1188
 #124|@BetaOneBot|1166
-#125|@pawnrobot|1166
+#125|@pawnrobot|1153
 #126|@ZX-Chess|1145
 #127|@alvin-chess-bot|1091
 #128|@GuineaBot2|851
