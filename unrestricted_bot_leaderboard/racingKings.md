@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@lord-bot|2581
 #5|@ToromBot|2571
 #6|@Nikitosikbot|2560
-#7|@RaspFish|2559
-#8|@EmptikVariantsBot|2557
+#7|@EmptikVariantsBot|2557
+#8|@RaspFish|2552
 #9|@FireFishBOT|2547
 #10|@LudwigBOT|2536
 #11|@Coolman2021|2535

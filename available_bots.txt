@@ -1310,6 +1310,7 @@ mp_ind_946
 mphobot
 mr-bob
 mr84aminibot
+mr_chess_berserk
 mr_cook
 mr_ro-bot
 mrbothacker
@@ -2187,4 +2188,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-mr_chess_berserk
+computerstuff
+lordntr
