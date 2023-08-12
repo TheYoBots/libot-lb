@@ -1,3 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@DavidsGuterBot|1494
+#1|@RaspFish|2154
+#2|@DavidsGuterBot|1494

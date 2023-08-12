@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@UnDisstoppableBot|2193
 #31|@Amrobotone|2184
 #32|@HuxZero|2163
-#33|@RaspFish|2152
+#33|@RaspFish|2154
 #34|@Mega_BOT|2148
 #35|@AI69|2143
 #36|@RobotTigerSlav|2136

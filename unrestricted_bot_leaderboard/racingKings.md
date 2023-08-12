@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@Dark_evil_bot|2496
 #13|@mrchessmanager|2494
 #14|@TeamChelsie|2489
-#15|@ToromBot|2485
-#16|@Magnus-BOT|2479
+#15|@Magnus-BOT|2479
+#16|@ToromBot|2465
 #17|@Fairy_Belzedar|2452
 #18|@newengine2022|2448
 #19|@NormalBlitzBulletBot|2435
