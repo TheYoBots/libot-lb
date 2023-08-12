@@ -489,6 +489,7 @@ combilation
 combuskengine
 common_mover
 completelyrandombot
+computerstuff
 cookiecheesychess
 coolman2021
 coronamalware
@@ -1182,6 +1183,7 @@ lolchessbot69
 lolnogenerics
 lord-bot
 lord-chess-bot
+lordntr
 los-guerreros1
 loseisnotavailablehe
 losing_loser_bot
@@ -2188,5 +2190,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-computerstuff
-lordntr
