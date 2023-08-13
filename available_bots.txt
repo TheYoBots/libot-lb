@@ -135,6 +135,7 @@ atomicandtroll
 atomicbot1
 atomicchessbot
 atomicli
+atomicroulettebot
 atomicvsenginebot
 attackbot
 attackbot2023
@@ -165,6 +166,7 @@ badfishchess
 badmodo
 badplayer33
 bagpiperbot
+balancefish
 balbla
 bananaaaaaaaaa_test
 bao-chessvn
@@ -418,6 +420,7 @@ chess-2-bot
 chess-freelancer
 chess-otter
 chess-trainer2424
+chess1000bot
 chess_bot-child
 chess_is_wide
 chess_king2000
@@ -609,6 +612,7 @@ eb-chess
 echobot
 eddybarner393
 edspbot
+eftalbot
 egeytek
 egs1-en001
 einstein_nnue
@@ -742,6 +746,7 @@ frozenightengine
 frozenrook
 funebot
 furrybot
+furryofthewerewolf
 future_chess_pro
 fychess2
 g0thamb0t
@@ -1000,6 +1005,7 @@ justdontflagme
 justdvl_bot
 justinbot
 jwsus
+jzjxzwxp4dpbxg7bot
 k_shi_bot
 kaaaaiiiww
 kablosuz_beyin
@@ -1065,6 +1071,7 @@ kulubot
 kung-fupanda
 kunju_bot
 kurosaki_higor
+kvothechess_bot
 kwinibot
 kybot
 kychess_bot
@@ -1535,6 +1542,7 @@ probot_vr_2
 probroman
 professional-bot-021
 proteussf
+proteussf-aureo
 proteussf-extreme
 proteussf-godot
 proteussf-lite
@@ -1687,6 +1695,7 @@ schachprog
 schnecken_bot
 scp079
 sea_leopard
+seaborg1
 seechessbot
 selflearnbot
 senp4a1_bot
@@ -1900,6 +1909,7 @@ tfrchessclub
 tgnleelabot
 thaaron
 the-chess-king-bot
+the-fastest-bot
 the-primer
 the_a_and_d_club
 the_bot_guy
@@ -2192,5 +2202,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-balancefish
-jzjxzwxp4dpbxg7bot
