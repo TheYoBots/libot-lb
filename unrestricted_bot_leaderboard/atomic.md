@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@AlfaBot|2674
 #3|@EmptikVariantsBot|2671
 #4|@ToromBot|2670
-#5|@Nikitosikbot|2630
+#5|@Nikitosikbot|2635
 #6|@KizVariant|2597
 #7|@pistol-play|2590
 #8|@Coolman2021|2580
@@ -169,7 +169,7 @@ Rank|Bot|Rating
 #167|@SomeBot|1711
 #168|@Grand_MefBartu-BOT|1709
 #169|@Crepusculum|1708
-#170|@OpeningsBot|1701
+#170|@OpeningsBot|1706
 #171|@KuhusBOT|1697
 #172|@CloudBOT|1689
 #173|@TheLegendaryKnight|1689

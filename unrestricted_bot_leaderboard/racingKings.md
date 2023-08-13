@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@FireFishBOT|2547
 #8|@LudwigBOT|2536
 #9|@Coolman2021|2535
-#10|@RaspFish|2517
+#10|@RaspFish|2526
 #11|@TheMatrix2025|2503
 #12|@Dark_evil_bot|2496
 #13|@mrchessmanager|2494

@@ -1586,6 +1586,7 @@ raphbot
 rapid_worldchamp
 rapidbotai
 rapidchessbot
+raspberryisfishy
 raspfish
 raubfish_me262
 ravenengine
@@ -1919,6 +1920,7 @@ theawesomebot
 theblueberry
 thebooklogbot
 thebossbot
+thebotthatlearns
 thebrobot
 thebullybot
 thecheckmatemachine
@@ -2190,5 +2192,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-raspberryisfishy
-thebotthatlearns
+balancefish
+jzjxzwxp4dpbxg7bot
