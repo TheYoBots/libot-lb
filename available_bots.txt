@@ -179,6 +179,7 @@ bbc_bot
 bcbchess
 beatmekiddos
 beatrijs-bot
+begginerbot
 behappy12
 bekbot
 belabot
@@ -235,6 +236,7 @@ blazingsunbot
 blitzz_bot
 bloody_bone
 blue_bot_one
+blue_ice_bot
 blue_lightningdragon
 bluefake
 blundar_bot
@@ -808,6 +810,7 @@ gravy1
 great_bot_7
 greece_bot
 green_tea_ice_cream
+greg0lord-bot
 greko-bot
 grey_wolf3000
 grey_wolf3000_2
@@ -1294,6 +1297,7 @@ mikhailtal_ai
 mikhailtal_jp
 mimmic
 minh_thuyet
+minhduc12
 minic-chess_engine
 minimardi
 mininnue
@@ -1556,6 +1560,7 @@ pseudo-0
 pseudonoixe
 psychedelicatomic
 ptit-biscuit
+purplehunter
 pussaw
 pvice
 pychessbot
@@ -2179,6 +2184,7 @@ yuetongbot2
 yukoo-bot
 yz-bot-test
 z-move
+z5_engine
 zackes
 zagreus_engine
 zahak_engine
