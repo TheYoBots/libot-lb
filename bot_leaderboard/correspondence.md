@@ -1,4 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@zeekat|2119
-#2|@yeoldwiz|1791
+#1|@yeoldwiz|1791

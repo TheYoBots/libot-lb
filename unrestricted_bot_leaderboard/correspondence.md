@@ -245,9 +245,9 @@ Rank|Bot|Rating
 #243|@Chess_Bot-Child|1584
 #244|@FASTCHESSBOT|1584
 #245|@Boom_Bot|1582
-#246|@knight_BOT|1566
-#247|@likeawizard-bot|1565
-#248|@GuineaBot3|1560
+#246|@GuineaBot3|1575
+#247|@knight_BOT|1566
+#248|@likeawizard-bot|1565
 #249|@LegendG21|1546
 #250|@maia9|1545
 #251|@XXIstCentury|1534
