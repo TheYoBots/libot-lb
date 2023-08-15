@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@SkyBlaster|2603
 #3|@Viet-AI|2600
 #4|@lord-bot|2581
-#5|@Nikitosikbot|2560
+#5|@Nikitosikbot|2566
 #6|@EmptikVariantsBot|2557
 #7|@FireFishBOT|2547
 #8|@LudwigBOT|2536
-#9|@Coolman2021|2533
+#9|@Coolman2021|2527
 #10|@RaspFish|2527
 #11|@TheMatrix2025|2503
 #12|@Dark_evil_bot|2496
