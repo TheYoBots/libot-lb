@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@Nikitosikbot|2874
 #3|@RaspFish|2705
 #4|@Nakshatra3|2526
-#5|@NilatacBot|2315
-#6|@OpeningsBot|2197
-#7|@anti-bot|2125
-#8|@CatNail|2037
-#9|@pawnrobot|1873
+#5|@NilatacBot|2301
+#6|@OpeningsBot|2122
+#7|@anti-bot|2121
+#8|@CatNail|2017
+#9|@pawnrobot|1874

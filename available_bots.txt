@@ -2208,3 +2208,7 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
+botequalizer
+j1-chessnost
+shallowengine
+tracer_bot

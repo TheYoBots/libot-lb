@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2798
+#1|@fibonachi|2794
 #2|@H-Zero|2650
-#3|@Viet-BOT|2533
+#3|@Viet-BOT|2546
 #4|@peonasesino71|2512
 #5|@ServerFish|2494
 #6|@TorBot|2475
@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@TungJohn|2126
 #60|@SLDeadshot22|2123
 #61|@LudwigBOT|2120
-#62|@zeekat|2119
-#63|@JuroJ|2117
+#62|@JuroJ|2117
+#63|@zeekat|2117
 #64|@Hien-Vinh_Bot2|2113
 #65|@Abhinav-BOT|2112
 #66|@SUMEETTHEPRO|2107
