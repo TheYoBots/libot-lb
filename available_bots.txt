@@ -177,6 +177,7 @@ battlebot
 bbao23-chess
 bbc_bot
 bcbchess
+beast_engine
 beatmekiddos
 beatrijs-bot
 begginerbot
@@ -476,6 +477,7 @@ christophercolomb
 chunguszero
 clompdev
 cloud_bot
+cloudblower
 cloudbot
 cloudbot_v2
 cloudbotzero
@@ -521,6 +523,7 @@ crocrodile-dev
 cruelbot
 cruisemissile
 cubeofrubik
+cucubot
 cultr
 currenter_ai
 cva728_bot_1
@@ -1427,6 +1430,7 @@ notlunarxd
 notmorphy17-3
 notnatebot
 notropis
+nowinforyoukid
 nukechess-bot
 number_one1
 nya-vp
@@ -2214,4 +2218,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-beast_engine
