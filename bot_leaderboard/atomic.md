@@ -4,4 +4,4 @@ Rank|Bot|Rating
 #2|@Nikitosikbot|2615
 #3|@Coolman2021|2601
 #4|@RaspFish|2535
-#5|@pawnrobot|1381
+#5|@pawnrobot|1377

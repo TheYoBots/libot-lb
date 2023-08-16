@@ -894,6 +894,7 @@ hulk990
 hulkbot
 humaia
 humaia-strong
+human_bot22
 humanbot_1
 humanbot_lv1929
 humanian
@@ -1633,6 +1634,7 @@ rexbot1
 rexherbot
 rezdarservan
 rigorousmoron
+rinestro
 riojacomp
 rishab_bindal
 robbai_3j
@@ -2212,5 +2214,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-human_bot22
-rinestro
+beast_engine
