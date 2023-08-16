@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@Pawn_Stormer_D4|1404
 #141|@EasyWinGG|1393
 #142|@SLDeadshot22|1389
-#143|@pawnrobot|1383
+#143|@pawnrobot|1387
 #144|@NeilDandekarBot|1373
 #145|@vamos_caballeros|1373
 #146|@BotOfAtomicChess|1369

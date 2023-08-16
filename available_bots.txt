@@ -297,6 +297,7 @@ bot_to_beat
 botdefoin
 botdefointesting
 boteagleeye2021
+botequalizer
 botezlivetwitchchat
 botfat_742063
 botgeorge
@@ -958,6 +959,7 @@ ivabot
 iwantedtoplaychess
 ix-aze
 iyihamle-com
+j1-chessnost
 jaimelesmacarons
 jakyllbot
 jallahata
@@ -1721,6 +1723,7 @@ sflite1
 shadicbot
 shaibel123
 shakboy9824453231op
+shallowengine
 shallowredbot
 shallowredfish
 sharkbot
@@ -1990,6 +1993,7 @@ torombot
 toromlc0
 tortademanzana023
 toxic_bot
+tracer_bot
 trainingbot0
 trainspotter
 transformer_chess
@@ -2208,7 +2212,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-botequalizer
-j1-chessnost
-shallowengine
-tracer_bot
+human_bot22
+rinestro
