@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@Corvus-1|2386
 #10|@FireFishBOT|2385
 #11|@Coolman2021|2378
-#12|@Karpov_bot|2359
-#13|@Fairy_Belzedar|2351
+#12|@Fairy_Belzedar|2373
+#13|@Karpov_bot|2359
 #14|@AndromedaSX1|2344
 #15|@ToromBot|2332
 #16|@Viet-AI|2317
@@ -82,11 +82,11 @@ Rank|Bot|Rating
 #80|@STockfishdestroyBot|1825
 #81|@admin-bot|1809
 #82|@The-Fastest-Bot|1809
-#83|@OpeningsBot|1807
-#84|@TheLegitLegend|1804
-#85|@Bot_AOOP11|1802
-#86|@ROBOT_RANDEER2007|1802
-#87|@mrchessmanager|1801
+#83|@TheLegitLegend|1804
+#84|@Bot_AOOP11|1802
+#85|@ROBOT_RANDEER2007|1802
+#86|@mrchessmanager|1801
+#87|@OpeningsBot|1800
 #88|@CloudBotZero|1798
 #89|@AnUtterlyKarBot|1796
 #90|@lord-bot|1793
