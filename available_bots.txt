@@ -2218,3 +2218,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
+amethyst-bot
+painbotpain

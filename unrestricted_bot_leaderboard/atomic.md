@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Fairy_Belzedar|2748
-#2|@VariantsBot|2714
+#1|@VariantsBot|2714
+#2|@ToromBot|2676
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@ToromBot|2668
+#5|@Fairy_Belzedar|2627
 #6|@Nikitosikbot|2615
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@UltronBot|2556
 #11|@Viet-AI|2556
 #12|@NimsiluBot|2535
-#13|@BitExtender128|2526
-#14|@ResoluteBot|2525
-#15|@RaspFish|2523
+#13|@RaspFish|2535
+#14|@BitExtender128|2526
+#15|@ResoluteBot|2525
 #16|@CatBot_14|2514
 #17|@EmptikBot|2507
 #18|@ibep|2498

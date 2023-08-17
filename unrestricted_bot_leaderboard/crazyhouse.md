@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@SkyBlaster|2614
 #14|@Xerus_1|2611
 #15|@Iwantedtoplaychess|2600
-#16|@Fairy_Belzedar|2573
+#16|@Fairy_Belzedar|2585
 #17|@EmptikVariantsBot|2547
 #18|@LudwigBOT|2527
 #19|@X2-ITL|2501
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@lightspeed_bot|2177
 #55|@newengine2022|2171
 #56|@Peaceful4Life|2160
-#57|@RaspFish|2144
+#57|@RaspFish|2142
 #58|@CloudBot_v2|2131
 #59|@Johnsun|2113
 #60|@SixtyFourEngine|2089
