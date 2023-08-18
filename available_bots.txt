@@ -1904,6 +1904,7 @@ ta_2020_bot
 tacticoferoz
 tapobot
 taske-eman
+tasmanrevenge
 tazo-tush
 teamchelsie
 teamleaderbot
@@ -2220,4 +2221,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-tasmanrevenge
+f4st3r-ai
