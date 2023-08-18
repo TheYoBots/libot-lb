@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@ibep|2633
 #13|@SkyBlaster|2614
 #14|@Xerus_1|2611
-#15|@Iwantedtoplaychess|2600
-#16|@Fairy_Belzedar|2585
+#15|@Fairy_Belzedar|2604
+#16|@Iwantedtoplaychess|2600
 #17|@EmptikVariantsBot|2547
 #18|@LudwigBOT|2527
 #19|@X2-ITL|2501
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@lightspeed_bot|2177
 #55|@newengine2022|2171
 #56|@Peaceful4Life|2160
-#57|@RaspFish|2142
+#57|@RaspFish|2139
 #58|@CloudBot_v2|2131
 #59|@Johnsun|2113
 #60|@SixtyFourEngine|2089
@@ -175,9 +175,9 @@ Rank|Bot|Rating
 #173|@ChessPlayer1225|1183
 #174|@Jannik08_FAN|1163
 #175|@BotOfAtomicChess|1153
-#176|@BSergey11-BOT|1149
-#177|@K_Shi_Bot|1149
-#178|@pawnrobot|1141
+#176|@pawnrobot|1152
+#177|@BSergey11-BOT|1149
+#178|@K_Shi_Bot|1149
 #179|@TeamChelsie|1125
 #180|@apollo_bot|1106
 #181|@BogoBot|1099

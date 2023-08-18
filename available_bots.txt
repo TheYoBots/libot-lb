@@ -66,6 +66,7 @@ altair_engine
 alvin-chess-bot
 alvinl22_lbot
 amemebot
+amethyst-bot
 ami_ibr
 amir-bot
 amrobotone
@@ -1473,6 +1474,7 @@ ozibot
 ozinatorbot
 pacman3000
 paddibot
+painbotpain
 palisade
 palrishabh
 palrishabheasy
@@ -2218,5 +2220,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-amethyst-bot
-painbotpain
+tasmanrevenge

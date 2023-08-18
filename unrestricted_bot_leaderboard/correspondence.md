@@ -18,9 +18,9 @@ Rank|Bot|Rating
 #16|@Magnus-BOT|2304
 #17|@Xmas_dragon|2300
 #18|@Ujwal1001|2297
-#19|@mrohCentaur|2285
-#20|@ChamberiAjedrez|2281
-#21|@pawn_git|2272
+#19|@pawn_git|2295
+#20|@mrohCentaur|2285
+#21|@ChamberiAjedrez|2281
 #22|@Cheng-4|2269
 #23|@nukechess-bot|2244
 #24|@GarboBot|2241
@@ -336,8 +336,8 @@ Rank|Bot|Rating
 #334|@TuroBot|1189
 #335|@BetaTree|1181
 #336|@sudobot_chess|1140
-#337|@G0thamB0t|1133
-#338|@ertugruldemir|1131
+#337|@ertugruldemir|1131
+#338|@G0thamB0t|1131
 #339|@szuwar8716|1116
 #340|@B4ux1t3s-Bot|1109
 #341|@AXWChessBot|1096

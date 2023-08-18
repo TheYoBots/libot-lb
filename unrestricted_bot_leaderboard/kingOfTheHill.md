@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@VariantsBot|2579
 #4|@KizVariant|2521
 #5|@Fairy-Stockfish|2486
-#6|@EmptikVariantsBot|2441
-#7|@Fairy_Belzedar|2441
+#6|@Fairy_Belzedar|2482
+#7|@EmptikVariantsBot|2441
 #8|@ElPeonElectrico|2414
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@UnDisstoppableBot|2193
 #31|@Amrobotone|2184
 #32|@HuxZero|2163
-#33|@RaspFish|2154
-#34|@Mega_BOT|2148
+#33|@Mega_BOT|2148
+#34|@RaspFish|2148
 #35|@AI69|2143
 #36|@RobotTigerSlav|2136
 #37|@pistol-play|2121
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@MyNameIsSpeedy|1226
 #146|@Bottios|1223
 #147|@RSVMentor|1196
-#148|@pawnrobot|1179
+#148|@pawnrobot|1178
 #149|@Boom_Bot|1176
 #150|@TrashBot|1168
 #151|@shakboy9824453231op|1152
