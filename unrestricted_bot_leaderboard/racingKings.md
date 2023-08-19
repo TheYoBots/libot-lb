@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@lord-bot|2581
 #5|@Nikitosikbot|2566
 #6|@EmptikVariantsBot|2557
-#7|@FireFishBOT|2547
-#8|@Fairy_Belzedar|2544
+#7|@Fairy_Belzedar|2554
+#8|@FireFishBOT|2547
 #9|@LudwigBOT|2536
 #10|@Coolman2021|2527
 #11|@RaspFish|2526
@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@xiang-qi|2113
 #70|@atomicli|2111
 #71|@Trumpfor2O2O|2103
-#72|@OpeningsBot|2075
-#73|@CloudBOT|2073
+#72|@CloudBOT|2073
+#73|@OpeningsBot|2069
 #74|@JustDontFlagMe|2048
 #75|@Stockfish-MEDIUM|2043
 #76|@Crepusculum|2036

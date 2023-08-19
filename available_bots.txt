@@ -528,6 +528,7 @@ cucubot
 cultr
 currenter_ai
 cva728_bot_1
+czesc-bot
 dakingsofficialbot
 dangerousride
 dangkhoi2805
@@ -2222,4 +2223,6 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-czesc-bot
+compraptor
+rookierobot
+youtube_bot223344

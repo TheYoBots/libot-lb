@@ -11,10 +11,10 @@ Rank|Bot|Rating
 #9|@PepsiForAll|2702
 #10|@GilgameshTheBot|2697
 #11|@ResoluteBot|2668
-#12|@ibep|2633
-#13|@SkyBlaster|2614
-#14|@Xerus_1|2611
-#15|@Fairy_Belzedar|2604
+#12|@Fairy_Belzedar|2636
+#13|@ibep|2633
+#14|@SkyBlaster|2614
+#15|@Xerus_1|2611
 #16|@Iwantedtoplaychess|2600
 #17|@EmptikVariantsBot|2547
 #18|@LudwigBOT|2527
@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@YoBot_v2|2394
 #28|@CloudBOT|2393
 #29|@NienishiEngine|2392
-#30|@ToromBot|2371
-#31|@EagleEye2021|2365
+#30|@EagleEye2021|2365
+#31|@ToromBot|2364
 #32|@KingfishX|2347
 #33|@chesshyperbot|2344
 #34|@NimsiluBot|2333
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@lightspeed_bot|2177
 #55|@newengine2022|2171
 #56|@Peaceful4Life|2160
-#57|@RaspFish|2139
+#57|@RaspFish|2137
 #58|@CloudBot_v2|2131
 #59|@Johnsun|2113
 #60|@SixtyFourEngine|2089

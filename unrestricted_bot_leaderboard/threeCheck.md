@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@AlfaBot|2797
 #2|@VariantsBot|2759
-#3|@Viet-AI|2672
-#4|@bananaaaaaaaaa_test|2666
-#5|@FireFishBOT|2661
+#3|@FireFishBOT|2680
+#4|@Viet-AI|2672
+#5|@bananaaaaaaaaa_test|2666
 #6|@Nikitosikbot|2639
 #7|@MalanChess|2622
 #8|@VariantsTop|2619
@@ -14,10 +14,10 @@ Rank|Bot|Rating
 #12|@Viet-BOT|2555
 #13|@ElPeonElectrico|2549
 #14|@CloudBot_v2|2544
-#15|@ToromBot|2536
+#15|@Fairy_Belzedar|2533
 #16|@KizVariant|2529
 #17|@RaspFish|2529
-#18|@Fairy_Belzedar|2523
+#18|@ToromBot|2520
 #19|@EmptikBot|2479
 #20|@ESC_BOT|2476
 #21|@Less_of_a_threat|2469
