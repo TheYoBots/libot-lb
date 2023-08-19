@@ -6,11 +6,11 @@ Rank|Bot|Rating
 #4|@Shineshou90_BOT|2115
 #5|@ToromBot|2115
 #6|@YoBot_v2|2109
-#7|@RaspFish|2094
+#7|@RaspFish|2091
 #8|@faith_bot|2063
-#9|@MrChessTheBot|1876
-#10|@FrozenightEngine|1871
-#11|@OpeningsBot|1743
+#9|@MrChessTheBot|1880
+#10|@FrozenightEngine|1872
+#11|@OpeningsBot|1738
 #12|@Cheng-4|1717
 #13|@clueless-bot|1487
 #14|@FataliiBot|1421

@@ -686,6 +686,7 @@ ezwipebutbetter
 f0rgot
 f1r3bot
 f2xy-chess
+f4st3r-ai
 f4st3rbot
 fabriad
 fairgamekavvadias
@@ -2221,4 +2222,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-f4st3r-ai
+czesc-bot

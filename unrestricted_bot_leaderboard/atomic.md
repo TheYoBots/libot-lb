@@ -4,14 +4,14 @@ Rank|Bot|Rating
 #2|@ToromBot|2676
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@Fairy_Belzedar|2615
-#6|@Nikitosikbot|2615
+#5|@Nikitosikbot|2615
+#6|@Fairy_Belzedar|2606
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
 #9|@pistol-play|2590
 #10|@UltronBot|2556
 #11|@Viet-AI|2556
-#12|@RaspFish|2538
+#12|@RaspFish|2541
 #13|@NimsiluBot|2535
 #14|@BitExtender128|2526
 #15|@ResoluteBot|2525
