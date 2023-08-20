@@ -8,12 +8,11 @@ Rank|Bot|Rating
 #6|@RaspFish|2091
 #7|@faith_bot|2063
 #8|@MrChessTheBot|1880
-#9|@FrozenightEngine|1868
-#10|@OpeningsBot|1751
-#11|@Cheng-4|1709
+#9|@FrozenightEngine|1872
+#10|@OpeningsBot|1759
+#11|@Cheng-4|1700
 #12|@clueless-bot|1487
 #13|@FataliiBot|1421
 #14|@Demolito_L5|1151
 #15|@Demolito_L6|1120
-#16|@Dummyette|1085
-#17|@pawnrobot|876
+#16|@pawnrobot|876

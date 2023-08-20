@@ -2226,3 +2226,7 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
+ajedrezarbot
+duchessai
+giffibot
+imporver-engine
