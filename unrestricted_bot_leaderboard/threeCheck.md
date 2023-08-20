@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@FireFishBOT|2680
 #4|@Viet-AI|2672
 #5|@bananaaaaaaaaa_test|2666
-#6|@Nikitosikbot|2639
-#7|@MalanChess|2622
+#6|@MalanChess|2622
+#7|@Nikitosikbot|2621
 #8|@VariantsTop|2619
 #9|@LoseisnotAvailablehe|2613
 #10|@EmptikVariantsBot|2588
@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@Viet-BOT|2555
 #13|@ElPeonElectrico|2549
 #14|@CloudBot_v2|2544
-#15|@Fairy_Belzedar|2533
+#15|@RaspFish|2540
 #16|@KizVariant|2529
-#17|@RaspFish|2529
+#17|@Fairy_Belzedar|2525
 #18|@ToromBot|2520
 #19|@EmptikBot|2479
 #20|@ESC_BOT|2476
@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@ResoluteBot|2150
 #40|@ZhangirKhanBOT|2148
 #41|@Mega_BOT|2146
-#42|@SimplerEval|2142
-#43|@Bot_AOOP11|2141
-#44|@Bobby_Fischer_BOT|2138
+#42|@Bot_AOOP11|2141
+#43|@Bobby_Fischer_BOT|2138
+#44|@SimplerEval|2138
 #45|@TheMatrix2025|2138
 #46|@abhisun_bot|2129
 #47|@NienishiEngine|2124

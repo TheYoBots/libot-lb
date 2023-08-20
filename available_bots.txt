@@ -498,6 +498,7 @@ combilation
 combuskengine
 common_mover
 completelyrandombot
+compraptor
 computerstuff
 cookiecheesychess
 coolman2021
@@ -1664,6 +1665,7 @@ rodeobot
 romobot
 ronaldduckbot
 ronideniz
+rookierobot
 rootengine
 rosybot
 roundmoundofrebounds
@@ -2193,6 +2195,7 @@ you_are_destroyed
 yourbot
 yoursparringbot
 yousafebot
+youtube_bot223344
 yowcapablanca
 ytartofattackinchess
 yuetongbot2
@@ -2223,6 +2226,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-compraptor
-rookierobot
-youtube_bot223344

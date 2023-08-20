@@ -1,7 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2657
-#2|@Nikitosikbot|2615
-#3|@Coolman2021|2601
-#4|@RaspFish|2542
-#5|@pawnrobot|1372
+#2|@Fairy_Belzedar|2640
+#3|@Nikitosikbot|2611
+#4|@Coolman2021|2601
+#5|@RaspFish|2551
+#6|@pawnrobot|1372

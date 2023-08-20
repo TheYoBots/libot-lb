@@ -160,8 +160,8 @@ Rank|Bot|Rating
 #158|@mroh_raspi|1874
 #159|@KleinerTiger2|1872
 #160|@Official_bot|1872
-#161|@blue_lightningdragon|1867
-#162|@FrozenightEngine|1864
+#161|@FrozenightEngine|1868
+#162|@blue_lightningdragon|1867
 #163|@XMetropolanXBanner|1864
 #164|@SkyAttacker|1863
 #165|@Tundra4|1853
@@ -201,8 +201,8 @@ Rank|Bot|Rating
 #199|@Fairy-Stockfish|1755
 #200|@BishoP-BOT|1752
 #201|@XXIstCentury|1752
-#202|@MikhailTal_AI|1750
-#203|@OpeningsBot|1750
+#202|@OpeningsBot|1751
+#203|@MikhailTal_AI|1750
 #204|@Ch4rl3s|1748
 #205|@DxrkOnBot|1746
 #206|@spaceisbot|1744
@@ -212,8 +212,8 @@ Rank|Bot|Rating
 #210|@Viridithas|1720
 #211|@stockfish12_Johan|1717
 #212|@TungJohn|1714
-#213|@Cheng-4|1713
-#214|@TeamChelsie|1712
+#213|@TeamChelsie|1712
+#214|@Cheng-4|1709
 #215|@fantasticbot|1699
 #216|@Peaceful4Life|1694
 #217|@Crepusculum|1693

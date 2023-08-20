@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@VariantsBot|2754
 #8|@LoseisnotAvailablehe|2735
 #9|@PepsiForAll|2702
-#10|@GilgameshTheBot|2697
-#11|@ResoluteBot|2668
-#12|@Fairy_Belzedar|2636
+#10|@Fairy_Belzedar|2701
+#11|@GilgameshTheBot|2697
+#12|@ResoluteBot|2668
 #13|@ibep|2633
 #14|@SkyBlaster|2614
 #15|@Xerus_1|2611
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@Leelabotmaster|2458
 #23|@ElPeonElectrico|2454
 #24|@abhisun_bot|2444
-#25|@Nikitosikbot|2438
-#26|@pistol-play|2437
+#25|@pistol-play|2437
+#26|@Nikitosikbot|2422
 #27|@YoBot_v2|2394
 #28|@CloudBOT|2393
 #29|@NienishiEngine|2392
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@lightspeed_bot|2177
 #55|@newengine2022|2171
 #56|@Peaceful4Life|2160
-#57|@RaspFish|2137
+#57|@RaspFish|2136
 #58|@CloudBot_v2|2131
 #59|@Johnsun|2113
 #60|@SixtyFourEngine|2089
@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@ZamuChess|1460
 #134|@MyNameIsSpeedy|1459
 #135|@Trumpfor2O2O|1458
-#136|@asdfbot2|1448
-#137|@SimplerEval|1445
+#136|@SimplerEval|1456
+#137|@asdfbot2|1448
 #138|@thousandatom|1445
 #139|@TorBot|1436
 #140|@Rapid_WorldChamp|1432
@@ -173,9 +173,9 @@ Rank|Bot|Rating
 #171|@FluffBallCuddly|1191
 #172|@heatseeker223|1191
 #173|@ChessPlayer1225|1183
-#174|@Jannik08_FAN|1163
-#175|@BotOfAtomicChess|1153
-#176|@pawnrobot|1152
+#174|@pawnrobot|1172
+#175|@Jannik08_FAN|1163
+#176|@BotOfAtomicChess|1153
 #177|@BSergey11-BOT|1149
 #178|@K_Shi_Bot|1149
 #179|@TeamChelsie|1125

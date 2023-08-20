@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Nikitosikbot|2438
-#2|@RaspFish|2137
+#1|@Nikitosikbot|2422
+#2|@RaspFish|2136
