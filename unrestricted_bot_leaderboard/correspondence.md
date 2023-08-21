@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2805
+#1|@fibonachi|2806
 #2|@H-Zero|2650
 #3|@Viet-BOT|2546
 #4|@Nikitosikbot|2525
@@ -83,8 +83,8 @@ Rank|Bot|Rating
 #81|@Chess_ni_BOSS|2080
 #82|@ajedrezarBOT|2079
 #83|@BitByByte|2077
-#84|@GucciBot|2074
-#85|@zeekat|2074
+#84|@zeekat|2075
+#85|@GucciBot|2074
 #86|@HyperLitikBOT|2073
 #87|@pistol-play|2071
 #88|@StockfishPower|2065
@@ -346,5 +346,6 @@ Rank|Bot|Rating
 #344|@StashBot|1075
 #345|@Light_To_The_Rescue|1057
 #346|@mustaley|973
-#347|@grandQ_AI|927
-#348|@BogoBot|865
+#347|@BerserkRandomMover|970
+#348|@grandQ_AI|946
+#349|@BogoBot|865

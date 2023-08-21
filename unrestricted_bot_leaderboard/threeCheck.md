@@ -147,8 +147,8 @@ Rank|Bot|Rating
 #145|@heatseeker223|1191
 #146|@admin-bot|1188
 #147|@Ujwal1001|1179
-#148|@pawnrobot|1172
-#149|@Just-a-random-bot|1171
+#148|@Just-a-random-bot|1171
+#149|@pawnrobot|1171
 #150|@Boom_Bot|1155
 #151|@thousandatom|1154
 #152|@ClubAjedrezChileno|1152

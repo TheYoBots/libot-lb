@@ -136,9 +136,9 @@ Rank|Bot|Rating
 #134|@ZamuChess|1460
 #135|@MyNameIsSpeedy|1459
 #136|@Trumpfor2O2O|1458
-#137|@asdfbot2|1448
-#138|@thousandatom|1445
-#139|@SimplerEval|1439
+#137|@SimplerEval|1451
+#138|@asdfbot2|1448
+#139|@thousandatom|1445
 #140|@TorBot|1436
 #141|@Rapid_WorldChamp|1432
 #142|@MagnusCarlsen1507|1431
@@ -174,8 +174,8 @@ Rank|Bot|Rating
 #172|@FluffBallCuddly|1191
 #173|@heatseeker223|1191
 #174|@ChessPlayer1225|1183
-#175|@pawnrobot|1172
-#176|@Jannik08_FAN|1163
+#175|@Jannik08_FAN|1163
+#176|@pawnrobot|1161
 #177|@BotOfAtomicChess|1153
 #178|@BSergey11-BOT|1149
 #179|@K_Shi_Bot|1149

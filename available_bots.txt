@@ -36,6 +36,7 @@ aihellobot
 aitron
 aivanj10
 ajatarbot
+ajedrezarbot
 ajedrezchamberi
 aks-mantissa
 akshadlawanibot
@@ -605,6 +606,7 @@ drunkenmasterengine
 dsukrect
 dtsudo
 ducc0
+duchessai
 dumb_fish
 dummyette
 dundu
@@ -789,6 +791,7 @@ ghdes
 ghostfacebot
 ghostfreak123
 ghosty_347
+giffibot
 gilgameshthebot
 gilk260
 giphy_logo
@@ -939,6 +942,7 @@ ilk_turk_bot
 imitation-net
 immortaldwirz
 imnotpro1906_beta
+imporver-engine
 impossiblewin
 imreallynotabot
 inanisbot
@@ -2226,7 +2230,6 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-ajedrezarbot
-duchessai
-giffibot
-imporver-engine
+aidenbot
+berserkrandommover
+dinora

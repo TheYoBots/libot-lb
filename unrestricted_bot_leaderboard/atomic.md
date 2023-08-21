@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@EmptikVariantsBot|2671
 #4|@ToromBot|2657
 #5|@Fairy_Belzedar|2628
-#6|@Nikitosikbot|2618
+#6|@Nikitosikbot|2615
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
 #9|@pistol-play|2590
@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@the_checkmating_bot|1855
 #145|@StrongChessEngine|1852
 #146|@david9426_bot|1849
-#147|@OpeningsBot|1848
-#148|@Bbao23-chess|1846
+#147|@Bbao23-chess|1846
+#148|@SimplerEval|1845
 #149|@HumanBOT_lv1929|1844
 #150|@bananaaaaaaaaa_test|1843
 #151|@Lucror|1841
@@ -155,7 +155,7 @@ Rank|Bot|Rating
 #153|@CloudBotZero|1837
 #154|@CHESS1000BOT|1829
 #155|@Storm_Shadow2012|1825
-#156|@SimplerEval|1819
+#156|@OpeningsBot|1822
 #157|@ReallyCrazyBOT|1816
 #158|@Sternenhimmel10|1811
 #159|@PowerOnBot|1806
@@ -260,7 +260,7 @@ Rank|Bot|Rating
 #258|@anonymous5612|1384
 #259|@SLvov-bot|1359
 #260|@ChessBotHere|1351
-#261|@pawnrobot|1349
+#261|@pawnrobot|1345
 #262|@TheBullyBot|1339
 #263|@AveragePlayer757|1337
 #264|@mertovic119|1337

@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@SkyBlaster|2603
 #3|@Viet-AI|2600
 #4|@lord-bot|2581
-#5|@Nikitosikbot|2565
+#5|@Nikitosikbot|2561
 #6|@Fairy_Belzedar|2559
 #7|@EmptikVariantsBot|2557
 #8|@FireFishBOT|2547
@@ -142,9 +142,9 @@ Rank|Bot|Rating
 #140|@Blasting4|1414
 #141|@Botmobile|1413
 #142|@Pawn_Stormer_D4|1404
-#143|@EasyWinGG|1393
-#144|@SLDeadshot22|1389
-#145|@pawnrobot|1387
+#143|@pawnrobot|1394
+#144|@EasyWinGG|1393
+#145|@SLDeadshot22|1389
 #146|@NeilDandekarBot|1373
 #147|@vamos_caballeros|1373
 #148|@BotOfAtomicChess|1369

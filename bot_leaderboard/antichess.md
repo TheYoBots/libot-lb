@@ -4,10 +4,9 @@ Rank|Bot|Rating
 #2|@Coolman2021|2879
 #3|@ToromBot|2876
 #4|@Nikitosikbot|2842
-#5|@RaspFish|2717
-#6|@Nakshatra3|2526
-#7|@NilatacBot|2270
-#8|@OpeningsBot|2212
-#9|@anti-bot|2141
-#10|@CatNail|1990
-#11|@pawnrobot|1860
+#5|@RaspFish|2727
+#6|@NilatacBot|2270
+#7|@OpeningsBot|2201
+#8|@anti-bot|2132
+#9|@CatNail|1988
+#10|@pawnrobot|1859
