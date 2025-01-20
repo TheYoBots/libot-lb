@@ -6,7 +6,6 @@ css_styles = """
   <title> Lichess Bot Leaderboard </title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script async src="https://stats.chessnibble.com/script.js" data-website-id="8205b599-208b-4d50-be05-5a4bb2f3775d"></script>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
   <link rel="icon" href="https://raw.githubusercontent.com/TheYoBots/libot-lb/master/images/favicon.ico" type="image/x-icon" />
