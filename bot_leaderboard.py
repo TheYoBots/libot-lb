@@ -31,6 +31,7 @@ def get_file_name(type, dir):
     return os.path.join(dir, f"{type}.md")
 
 
+"""
 def get_banned_bots():
     banned_bots = set()
 
@@ -45,7 +46,7 @@ def get_banned_bots():
         print(f"Error fetching banned bots: {e}")
 
     return banned_bots
-
+"""
 
 def get_user_last_rated(username, type):
     now = datetime.datetime.utcnow()
@@ -112,7 +113,7 @@ def get_all_bot_ratings():
 
 
 def get_bot_leaderboard(type, unrestricted=False):
-    banned_bots = get_banned_bots()
+#   banned_bots = get_banned_bots()
 
     file_path = os.path.join(os.path.dirname(__file__), 'bot_leaderboard.json')
     with open(file_path, 'r') as f:
@@ -151,8 +152,8 @@ def get_bot_leaderboard(type, unrestricted=False):
                         print("High rating deviation")
                     elif (now - d['seenAt']) > datetime.timedelta(days=7):
                         print("Not active for 1 week")
-                    elif d['id'] in banned_bots:
-                        print("Banned Bot")
+#                   elif d['id'] in banned_bots:
+#                       print("Banned Bot")
                     elif d.get('disabled', False) is True:
                         print("Account Closed")
                     elif get_user_last_rated(result[0], type) != "2000.01.01":

@@ -1,3 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@pawnrobot|1174
+#1|@OpeningsBot|2017
+#2|@MinOpponentMoves|851

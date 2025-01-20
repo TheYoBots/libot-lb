@@ -1,2 +1,4 @@
 orjson==3.9.2
 python-lichess==0.10
+flask==2.2.5
+gunicorn==21.2.0

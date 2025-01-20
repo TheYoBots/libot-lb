@@ -1,1 +1,9 @@
 bot_leaderboard.json
+*_leaderboard/*.html
+__pycache__
+gunicorn_config.py
+update_lb.sh
+commit_push.sh
+gpg_fix.sh
+cron_check.sh
+*.log
