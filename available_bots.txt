@@ -374,6 +374,7 @@ botkajmen
 botkinghunter
 botkingteam33
 botmertens
+botmgmg
 botmikhailtal
 botmobile
 botnuevageneracion
@@ -2736,4 +2737,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-botmgmg
+admonitor
+pawnocchio_bot
+partner3615diago
