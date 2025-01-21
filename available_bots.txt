@@ -17,6 +17,7 @@ actual_magnus
 adathefury
 admete_bot
 admin-bot
+admonitor
 ae_test
 aebroadusbotter
 aeternusmaster
@@ -1824,6 +1825,7 @@ panda_engine
 pangubot
 parrotfish1
 parth_dhage_2
+partner3615diago
 passivebot
 patientjellyfish
 patriciabot
@@ -1832,6 +1834,7 @@ paulmorphybot
 pawn-bot
 pawn_git
 pawn_stormer_d4
+pawnocchio_bot
 pawnrobot
 pdfprizebot
 peaceful4life
@@ -2737,6 +2740,9 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-admonitor
-pawnocchio_bot
-partner3615diago
+calcili
+alphaminustwo
+ganapaengine
+kingbobiv
+eliteay17_aichess
+nishythebot

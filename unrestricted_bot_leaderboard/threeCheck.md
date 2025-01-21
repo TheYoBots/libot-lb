@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@Magnus-BOT|2084
 #58|@Xerus_1|2070
 #59|@ROBOT_RANDEER2007|2059
-#60|@Resolved-Bot|2026
-#61|@OpeningsBot|2017
+#60|@OpeningsBot|2034
+#61|@Resolved-Bot|2026
 #62|@firstrobot|2003
 #63|@Hyper-Stockfish|1986
 #64|@GodelEscherBot|1974

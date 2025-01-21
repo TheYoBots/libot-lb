@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Viet-AI|2915
 #3|@NimsiluBot|2901
 #4|@Fairy_Belzedar|2857
-#5|@ToromBot|2830
+#5|@ToromBot|2834
 #6|@Nikitosikbot_v2|2823
 #7|@Coolman2021|2757
 #8|@FireFishBOT|2726
@@ -140,6 +140,6 @@ Rank|Bot|Rating
 #138|@ZX-Chess|1145
 #139|@duythong1402|1120
 #140|@alvin-chess-bot|1091
-#141|@MinOpponentMoves|962
+#141|@MinOpponentMoves|963
 #142|@GuineaBot2|851
 #143|@Ramses-Chess|800
