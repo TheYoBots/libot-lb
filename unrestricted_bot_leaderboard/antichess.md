@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@Bot_AOOP11|2521
 #53|@HyperLitikBOT|2511
 #54|@pistol-play|2498
-#55|@Nakshatra3|2483
+#55|@Nakshatra3|2485
 #56|@MrBOThacker|2477
 #57|@hauptschuleBOT|2475
 #58|@Alehkine_cat|2474
@@ -93,8 +93,8 @@ Rank|Bot|Rating
 #91|@GodelEscherBot|2284
 #92|@Dean_Summer_Bot|2279
 #93|@Johnsun|2269
-#94|@SkyBlaster|2254
-#95|@anti-bot|2248
+#94|@anti-bot|2263
+#95|@SkyBlaster|2254
 #96|@mrchessmanager|2240
 #97|@TurkiyeHogwarts|2240
 #98|@EagleEye2021|2235
