@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@Xmas_dragon|2300
 #29|@Ujwal1001|2297
 #30|@robiachess|2295
-#31|@mrohCentaur|2285
-#32|@OpeningsBot|2284
+#31|@OpeningsBot|2287
+#32|@mrohCentaur|2285
 #33|@Toodfish|2273
 #34|@Cheng-4|2269
 #35|@Blue_Mongoose|2249
@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@BigBrainen|1970
 #127|@BritBot|1970
 #128|@Test_God_50_BOT|1965
-#129|@matmoi|1963
+#129|@matmoi|1958
 #130|@WMatt|1958
 #131|@Primer-Bot|1956
 #132|@SohamChessBot|1956
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Official_bot|1857
 #155|@Boris-Trapsky|1853
 #156|@natural-disaster|1853
-#157|@Jibbby|1841
+#157|@Jibbby|1840
 #158|@Rinestro|1837
 #159|@OurBot|1836
 #160|@Aromik_s_bot|1831

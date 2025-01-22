@@ -78,6 +78,7 @@ alphabotical
 alphachess_official
 alphagpt
 alphaleela0
+alphaminustwo
 altair8000
 altair_engine
 alvin-chess-bot
@@ -450,6 +451,7 @@ caissa-x
 caissa_board_test
 caissachessengine
 caissaix
+calcili
 calciumbot
 calliopean_account
 callmecool
@@ -778,6 +780,7 @@ electricboy6-bot
 elephantgambitengine
 elfinsbot
 elite-bot
+eliteay17_aichess
 eliteleela
 eliteleela23
 elmichess
@@ -948,6 +951,7 @@ gambitengine
 game-bot
 gameromanbot
 gamingrun
+ganapaengine
 gapple_2
 gapple_classical
 garamdharam
@@ -1293,6 +1297,7 @@ kimchi_bot
 kimchiengine
 king-forward-bot
 king12345678910bot
+kingbobiv
 kingfishbot
 kingfishx
 kingjonathanbot
@@ -1734,6 +1739,7 @@ nimsilubot
 nine8765432one
 nineteenthcentury
 nirvanachessbot
+nishythebot
 nithin-das
 niyazicarlsen
 nmasdfbot
@@ -2740,9 +2746,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-calcili
-alphaminustwo
-ganapaengine
-kingbobiv
-eliteay17_aichess
-nishythebot
+kirinchessbot
