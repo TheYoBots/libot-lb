@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@YoBot_v2|1984
 #122|@maello_bot|1981
 #123|@Virutor|1980
-#124|@zeekat|1977
+#124|@zeekat|1980
 #125|@Bobby_Fishcer_Bot|1976
 #126|@BigBrainen|1970
 #127|@BritBot|1970
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Official_bot|1857
 #155|@Boris-Trapsky|1853
 #156|@natural-disaster|1853
-#157|@Jibbby|1840
+#157|@Jibbby|1843
 #158|@Rinestro|1837
 #159|@OurBot|1836
 #160|@Aromik_s_bot|1831

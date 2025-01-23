@@ -517,6 +517,7 @@ chess-otter
 chess-trainer2424
 chess1000bot
 chess_bot-child
+chess_inator_bot
 chess_is_wide
 chess_king2000
 chess_ni_boss
@@ -2750,4 +2751,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chess_inator_bot
+alphazher0
