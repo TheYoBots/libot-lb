@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@NimsiluBot|2569
 #11|@Nikitosikbot_v2|2567
-#12|@ToromBot|2566
+#12|@ToromBot|2563
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -315,7 +315,7 @@ Rank|Bot|Rating
 #313|@ZX-Chess|946
 #314|@BogoBot|945
 #315|@thousandatom|865
-#316|@MinOpponentMoves|849
+#316|@MinOpponentMoves|848
 #317|@bfdzvfsgaergfds|800
 #318|@TheThanosBot|696
 #319|@BetaOneBot|690

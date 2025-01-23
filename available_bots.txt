@@ -766,6 +766,7 @@ earthybot
 easychessherokubot
 easytutorialbot
 easywingg
+eatngo
 eb-chess
 echo-4
 echobot
@@ -773,6 +774,7 @@ eddybarner393
 edobot
 edspbot
 eftalbot
+egebakken_bot
 egeytek
 egs1-en001
 einstein_nnue
@@ -1075,6 +1077,7 @@ hellochess27
 hellraiser99
 heman36541234578
 henryln
+herathherath
 hermaronline
 hero_cars
 herokuchess
@@ -2747,6 +2750,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-herathherath
-egebakken_bot
-eatngo
+chess_inator_bot
