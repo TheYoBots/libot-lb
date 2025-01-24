@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@PolyBOT|1945
 #77|@bananaaaaaaaaa_test|1942
 #78|@chessbot2880|1921
-#79|@Galaxy_Guardian|1920
-#80|@AndromedaSX1|1919
+#79|@AndromedaSX1|1919
+#80|@Galaxy_Guardian|1913
 #81|@PetersBot|1911
 #82|@Dean_Summer_Bot|1898
 #83|@azdad|1895

@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@KizVariant|2597
 #8|@Nikitosik-ai|2592
 #9|@pistol-play|2590
-#10|@NimsiluBot|2569
-#11|@Nikitosikbot_v2|2567
-#12|@ToromBot|2566
+#10|@ToromBot|2570
+#11|@NimsiluBot|2569
+#12|@Nikitosikbot_v2|2567
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540

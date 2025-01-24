@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@SkyBlaster|2603
 #5|@Viet-AI|2600
 #6|@lord-bot|2581
-#7|@ToromBot|2576
+#7|@ToromBot|2578
 #8|@Fairy_Belzedar|2559
 #9|@EmptikVariantsBot|2557
 #10|@FireFishBOT|2547
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@Johnsun|2181
 #71|@HuxZero|2176
 #72|@AnUtterlyKarBot|2174
-#73|@OpeningsBot|2159
+#73|@OpeningsBot|2169
 #74|@knight_128|2144
 #75|@Kizburb|2126
 #76|@mc-king-098|2124

@@ -79,6 +79,7 @@ alphachess_official
 alphagpt
 alphaleela0
 alphaminustwo
+alphazher0
 altair8000
 altair_engine
 alvin-chess-bot
@@ -2751,4 +2752,7 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-alphazher0
+turncoatengine
+humuhumunukunukuapu
+flying-dutchman-bot
+kyreds_pet
