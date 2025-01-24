@@ -918,6 +918,7 @@ flip_boi_is_good_boi
 flixbot
 flounderbot
 fluffballcuddly
+flying-dutchman-bot
 flying-rebel
 fn_waldi
 for9e
@@ -1130,6 +1131,7 @@ humanian
 humanteambot
 humbletestbot
 hummus-bot
+humuhumunukunukuapu
 huxzero
 huy-stockfish
 hwh2008
@@ -1350,6 +1352,7 @@ kybot
 kychess_bot
 kyle_0111
 kylel4266_test
+kyreds_pet
 kysokochage17
 kysoplayscrazyhouse
 l_47
@@ -2531,6 +2534,7 @@ turkishbaklava
 turkiyehogwarts
 turkiyehogwartsbot
 turkjs
+turncoatengine
 turobot
 turochamp-1ply
 turochamp-2ply
@@ -2752,7 +2756,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-turncoatengine
-humuhumunukunukuapu
-flying-dutchman-bot
-kyreds_pet

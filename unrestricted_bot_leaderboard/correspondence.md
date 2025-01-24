@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@magnusglad_bot|2465
 #15|@EmptikBot|2454
 #16|@Viet-BOT|2448
-#17|@F0rgot|2434
-#18|@BitByByte|2430
+#17|@BitByByte|2437
+#18|@F0rgot|2434
 #19|@HulkBot|2387
 #20|@MehFish|2376
 #21|@Mega_BOT|2371
@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@Xmas_dragon|2300
 #29|@Ujwal1001|2297
 #30|@robiachess|2295
-#31|@OpeningsBot|2287
-#32|@mrohCentaur|2285
+#31|@mrohCentaur|2285
+#32|@OpeningsBot|2282
 #33|@Toodfish|2273
 #34|@Cheng-4|2269
 #35|@Blue_Mongoose|2249
