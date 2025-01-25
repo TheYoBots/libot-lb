@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@MasterofChessBOT800|1391
 #138|@HiddeNL|1385
 #139|@apraz|1383
-#140|@pawnrobot|1350
+#140|@pawnrobot|1369
 #141|@Bottios|1323
 #142|@Harry_Potterz|1316
 #143|@allvariants|1310
@@ -169,4 +169,4 @@ Rank|Bot|Rating
 #167|@GuineaBot3|972
 #168|@BogoBot|928
 #169|@TheSystem_Bot|905
-#170|@MinOpponentMoves|851
+#170|@MinOpponentMoves|862

@@ -53,8 +53,8 @@ Rank|Bot|Rating
 #51|@Dark_evil_bot|2525
 #52|@Bot_AOOP11|2521
 #53|@HyperLitikBOT|2511
-#54|@pistol-play|2498
-#55|@Nakshatra3|2490
+#54|@Nakshatra3|2506
+#55|@pistol-play|2498
 #56|@MrBOThacker|2477
 #57|@hauptschuleBOT|2475
 #58|@Alehkine_cat|2474
@@ -101,14 +101,14 @@ Rank|Bot|Rating
 #99|@Hyper-Stockfish|2230
 #100|@CocopikachuBOT|2226
 #101|@TungJohn|2225
-#102|@OpeningsBot|2223
-#103|@Good-Game-123|2221
+#102|@Good-Game-123|2221
+#103|@OpeningsBot|2220
 #104|@The-Fastest-Bot|2218
 #105|@All_Except_Chess960|2214
 #106|@SaturnBot|2214
 #107|@xDmanBOT|2214
 #108|@YellowFlash_v2|2214
-#109|@anti-bot|2210
+#109|@anti-bot|2213
 #110|@CoderDen732|2207
 #111|@NormalBlitzBulletBot|2205
 #112|@EstmileBot|2200
@@ -258,7 +258,7 @@ Rank|Bot|Rating
 #256|@PranavChessBot|1212
 #257|@Toxic_Bot|1202
 #258|@DespacitoBot|1175
-#259|@MinOpponentMoves|1171
+#259|@MinOpponentMoves|1168
 #260|@BogoBot|1155
 #261|@thousandatom|1146
 #262|@Green_Tea_Ice_Cream|1107

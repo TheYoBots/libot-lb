@@ -68,11 +68,11 @@ Rank|Bot|Rating
 #66|@higuyuu67776|2200
 #67|@Nobody11892|2200
 #68|@Trainspotter|2200
-#69|@Hyper-Stockfish|2189
-#70|@Johnsun|2181
-#71|@HuxZero|2176
-#72|@AnUtterlyKarBot|2174
-#73|@OpeningsBot|2169
+#69|@OpeningsBot|2195
+#70|@Hyper-Stockfish|2189
+#71|@Johnsun|2181
+#72|@HuxZero|2176
+#73|@AnUtterlyKarBot|2174
 #74|@knight_128|2144
 #75|@Kizburb|2126
 #76|@mc-king-098|2124
@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@TheLegendaryKnight|1468
 #139|@Bbao23-chess|1455
 #140|@Epiano_Bot|1447
-#141|@pawnrobot|1442
+#141|@pawnrobot|1440
 #142|@The_A_and_D_Club|1429
 #143|@Official_bot|1418
 #144|@Blasting4|1414
@@ -176,4 +176,4 @@ Rank|Bot|Rating
 #174|@BogoBot|1074
 #175|@Simpafteur|1069
 #176|@ZX-Chess|982
-#177|@MinOpponentMoves|619
+#177|@MinOpponentMoves|618
