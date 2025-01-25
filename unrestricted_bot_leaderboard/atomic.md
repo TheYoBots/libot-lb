@@ -266,9 +266,9 @@ Rank|Bot|Rating
 #264|@Trumpfor2O2O|1386
 #265|@DrunkenMasterEngine|1385
 #266|@anonymous5612|1384
-#267|@SLvov-bot|1359
-#268|@ChessBotHere|1351
-#269|@pawnrobot|1349
+#267|@pawnrobot|1370
+#268|@SLvov-bot|1359
+#269|@ChessBotHere|1351
 #270|@kazakhfirstbot|1340
 #271|@TheBullyBot|1339
 #272|@AveragePlayer757|1337

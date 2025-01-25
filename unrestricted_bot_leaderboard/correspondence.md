@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@magnusglad_bot|2465
 #15|@EmptikBot|2454
 #16|@Viet-BOT|2448
-#17|@BitByByte|2437
+#17|@BitByByte|2444
 #18|@F0rgot|2434
 #19|@HulkBot|2387
 #20|@MehFish|2376
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Ujwal1001|2297
 #30|@robiachess|2295
 #31|@mrohCentaur|2285
-#32|@OpeningsBot|2281
+#32|@OpeningsBot|2278
 #33|@Toodfish|2273
 #34|@Cheng-4|2269
 #35|@Blue_Mongoose|2249
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@honzovy-sachy|2002
 #119|@TESTBOT23|2000
 #120|@Zer0_Tw0|1992
-#121|@zeekat|1987
+#121|@zeekat|1991
 #122|@YoBot_v2|1984
 #123|@maello_bot|1981
 #124|@Virutor|1980
@@ -169,9 +169,9 @@ Rank|Bot|Rating
 #167|@BetaOneBot|1792
 #168|@MagicHacker123|1792
 #169|@maia5|1792
-#170|@RadianceEngine|1790
-#171|@JPSBOT|1789
-#172|@Nicholaswb_BOT|1788
+#170|@JPSBOT|1789
+#171|@Nicholaswb_BOT|1788
+#172|@RadianceEngine|1788
 #173|@Heman36541234578|1786
 #174|@Variantenkoning|1781
 #175|@caissa-ai|1773

@@ -1482,6 +1482,7 @@ lizzardbot
 lk-stockfish
 loev07
 loevbot
+logosengine
 logregchess
 lol7241bot
 lola-stockfish
@@ -2756,4 +2757,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-logosengine
+untrained4406
+matecheckcapture

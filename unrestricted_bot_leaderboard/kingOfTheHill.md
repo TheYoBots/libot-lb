@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@CoderDen732|1621
 #108|@Breeze-Hot|1606
 #109|@Just-a-random-bot|1604
-#110|@DavidsGuterBot|1569
-#111|@Epiano_Bot|1567
+#110|@Epiano_Bot|1567
+#111|@DavidsGuterBot|1564
 #112|@Toxic_Bot|1541
 #113|@SXDEFENDER|1534
 #114|@Light_To_The_Rescue|1523
@@ -142,10 +142,10 @@ Rank|Bot|Rating
 #140|@allvariants|1348
 #141|@BinaryBrain|1341
 #142|@THEANDROIDBOT|1317
-#143|@Challengeme2anything|1307
-#144|@NoTallkOnlyGames|1291
-#145|@jasans_bot|1268
-#146|@pawnrobot|1265
+#143|@pawnrobot|1309
+#144|@Challengeme2anything|1307
+#145|@NoTallkOnlyGames|1291
+#146|@jasans_bot|1268
 #147|@ChessChipBot|1258
 #148|@Hrant_Petrosyan_BOT|1258
 #149|@HiddeNL|1242
