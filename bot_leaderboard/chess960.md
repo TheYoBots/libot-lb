@@ -3,11 +3,11 @@ Rank|Bot|Rating
 #1|@ToromBot|2334
 #2|@PetersBot|2312
 #3|@RaspFish|2289
-#4|@OpeningsBot|2092
-#5|@pawn_git|2012
-#6|@Cheng-4|1899
-#7|@pawnocchio_bot|1726
-#8|@FataliiBot|1667
+#4|@OpeningsBot|2089
+#5|@pawn_git|2014
+#6|@Cheng-4|1905
+#7|@pawnocchio_bot|1718
+#8|@FataliiBot|1665
 #9|@Demolito_L6|1444
 #10|@Demolito_L5|1268
 #11|@Rodent-IV|1216

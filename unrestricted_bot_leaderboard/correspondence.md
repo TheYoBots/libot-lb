@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Ujwal1001|2297
 #30|@robiachess|2295
 #31|@mrohCentaur|2285
-#32|@OpeningsBot|2278
+#32|@OpeningsBot|2281
 #33|@Toodfish|2273
 #34|@Cheng-4|2269
 #35|@Blue_Mongoose|2249
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@honzovy-sachy|2002
 #119|@TESTBOT23|2000
 #120|@Zer0_Tw0|1992
-#121|@zeekat|1991
+#121|@zeekat|1988
 #122|@YoBot_v2|1984
 #123|@maello_bot|1981
 #124|@Virutor|1980
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Official_bot|1857
 #155|@Boris-Trapsky|1853
 #156|@natural-disaster|1853
-#157|@Jibbby|1841
+#157|@Jibbby|1839
 #158|@Rinestro|1837
 #159|@OurBot|1836
 #160|@Aromik_s_bot|1831

@@ -1576,6 +1576,7 @@ masterofchessbot800
 mate-ai
 mate_bot
 mateai
+matecheckcapture
 materialisoverrated
 matmoi
 matrix-ai
@@ -2571,6 +2572,7 @@ undisstoppablebot
 unhappydefender
 unrated_bot
 unrevealed-bot
+untrained4406
 uochess
 uras21
 usachess_time
@@ -2757,5 +2759,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-untrained4406
-matecheckcapture
+rdi_bot
+maxthedog-esp32
+constructivist
