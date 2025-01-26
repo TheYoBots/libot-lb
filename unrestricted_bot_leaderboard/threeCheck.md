@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@Yemmi-Yemmi|1702
 #101|@clueless-bot|1685
 #102|@NormalBulletBot|1657
-#103|@DavidsGuterBot|1643
+#103|@DavidsGuterBot|1652
 #104|@the_checkmating_bot|1643
 #105|@CoderDen732|1639
 #106|@Botkingteam33|1633
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@MasterofChessBOT800|1391
 #138|@HiddeNL|1385
 #139|@apraz|1383
-#140|@pawnrobot|1380
+#140|@pawnrobot|1371
 #141|@Bottios|1323
 #142|@Harry_Potterz|1316
 #143|@allvariants|1310
@@ -169,4 +169,4 @@ Rank|Bot|Rating
 #167|@GuineaBot3|972
 #168|@BogoBot|928
 #169|@TheSystem_Bot|905
-#170|@MinOpponentMoves|862
+#170|@MinOpponentMoves|875

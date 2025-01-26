@@ -1,4 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2237
-#2|@MinOpponentMoves|618
+#1|@RaspFish|2521
+#2|@OpeningsBot|2239
+#3|@MateCheckCapture|1706
+#4|@MinOpponentMoves|618

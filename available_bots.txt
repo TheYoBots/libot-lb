@@ -610,6 +610,7 @@ completelyrandombot
 compraptor
 compressor-bot
 computerstuff
+constructivist
 cookiecheesychess
 coolman2021
 coralinebot
@@ -1585,6 +1586,7 @@ max_bot
 maximumef
 maxoul-bot
 maxthedog
+maxthedog-esp32
 maxwellonlc
 mayan_mex
 mayhem23111
@@ -2017,6 +2019,7 @@ rayking311
 razanvn
 razu123
 rchessbot
+rdi_bot
 re-bot
 realchessengine
 reallybadplayerbot
@@ -2759,6 +2762,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-rdi_bot
-maxthedog-esp32
-constructivist
+redsquirrelbot
