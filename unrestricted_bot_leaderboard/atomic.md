@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
-#18|@RaspFish|2517
-#19|@CatBot_14|2514
-#20|@EmptikBot|2510
+#18|@CatBot_14|2514
+#19|@EmptikBot|2510
+#20|@RaspFish|2503
 #21|@ibep|2498
 #22|@firstrobot|2485
 #23|@ShredderGrizzly|2479
@@ -315,8 +315,9 @@ Rank|Bot|Rating
 #313|@ZX-Chess|946
 #314|@BogoBot|945
 #315|@thousandatom|865
-#316|@MinOpponentMoves|862
+#316|@MinOpponentMoves|861
 #317|@bfdzvfsgaergfds|800
-#318|@TheThanosBot|696
-#319|@BetaOneBot|690
-#320|@Ujwal1001|600
+#318|@MateCheckCapture|736
+#319|@TheThanosBot|696
+#320|@BetaOneBot|690
+#321|@Ujwal1001|600

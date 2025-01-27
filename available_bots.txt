@@ -2027,6 +2027,7 @@ reallycrazybot
 recontinue
 redengine
 redlight_07
+redsquirrelbot
 redtail-zero
 reggieokevin
 reinforcementtrial
@@ -2762,4 +2763,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-redsquirrelbot

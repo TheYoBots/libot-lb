@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@ChessVBOT|2531
 #13|@Coolman2021|2527
 #14|@EmptikBot|2526
-#15|@RaspFish|2521
+#15|@RaspFish|2517
 #16|@Nebulogic|2514
 #17|@SCP079|2513
 #18|@NimsiluBot|2500
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@ESC_BOT|2253
 #58|@relevantproblem|2251
 #59|@GodelEscherBot|2244
-#60|@OpeningsBot|2239
+#60|@OpeningsBot|2243
 #61|@ResoluteBot|2225
 #62|@XXIstCentury|2225
 #63|@Resolved-Bot|2223
@@ -114,10 +114,10 @@ Rank|Bot|Rating
 #112|@Rishab_Bindal|1739
 #113|@GgKedi|1729
 #114|@SLvov-bot|1710
-#115|@MateCheckCapture|1706
-#116|@Aravdadhaniabot|1701
-#117|@PowerOnBot|1701
-#118|@Chess_omar_2009|1698
+#115|@Aravdadhaniabot|1701
+#116|@PowerOnBot|1701
+#117|@Chess_omar_2009|1698
+#118|@MateCheckCapture|1693
 #119|@JEDDYCOCO12345|1692
 #120|@Harry_Potterz|1674
 #121|@XXXTryandTryXXX|1674
@@ -177,4 +177,4 @@ Rank|Bot|Rating
 #175|@BogoBot|1074
 #176|@Simpafteur|1069
 #177|@ZX-Chess|982
-#178|@MinOpponentMoves|618
+#178|@MinOpponentMoves|617

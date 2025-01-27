@@ -2,11 +2,11 @@ Rank|Bot|Rating
 ---|---|---
 #1|@PetersBot|2319
 #2|@RaspFish|2289
-#3|@OpeningsBot|2089
+#3|@OpeningsBot|2086
 #4|@pawn_git|2018
-#5|@Cheng-4|1913
-#6|@pawnocchio_bot|1728
-#7|@FataliiBot|1644
+#5|@Cheng-4|1934
+#6|@pawnocchio_bot|1713
+#7|@FataliiBot|1636
 #8|@Demolito_L6|1444
 #9|@Demolito_L5|1268
 #10|@Rodent-IV|1216
