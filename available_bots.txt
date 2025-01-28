@@ -917,6 +917,7 @@ flaxen_uci
 flaying-rebel
 flip_boi_is_good_boi
 flixbot
+flompiebot
 flounderbot
 fluffballcuddly
 flying-dutchman-bot
@@ -943,6 +944,7 @@ frozenrook
 fruity23
 funebot
 funeddy-robotik
+funnsams_bot
 furrybot
 furryofthewerewolf
 future_chess_pro
@@ -2763,5 +2765,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-flompiebot
-funnsams_bot

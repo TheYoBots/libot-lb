@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@ESC_BOT|2253
 #58|@relevantproblem|2251
 #59|@GodelEscherBot|2244
-#60|@OpeningsBot|2243
+#60|@OpeningsBot|2228
 #61|@ResoluteBot|2225
 #62|@XXIstCentury|2225
 #63|@Resolved-Bot|2223
@@ -124,10 +124,10 @@ Rank|Bot|Rating
 #122|@Challenger_crazy|1652
 #123|@ROBOT_RANDEER2007|1651
 #124|@Heman36541234578|1647
-#125|@MateCheckCapture|1581
-#126|@HiddeNL|1573
-#127|@TheSystem_Bot|1572
-#128|@QuickLiquid|1555
+#125|@HiddeNL|1573
+#126|@TheSystem_Bot|1572
+#127|@QuickLiquid|1555
+#128|@MateCheckCapture|1537
 #129|@faith_bot|1514
 #130|@CoderDen732|1507
 #131|@TorBot|1498

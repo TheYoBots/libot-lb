@@ -3,10 +3,10 @@ Rank|Bot|Rating
 #1|@PetersBot|2319
 #2|@RaspFish|2289
 #3|@OpeningsBot|2086
-#4|@pawn_git|2018
-#5|@Cheng-4|1957
-#6|@pawnocchio_bot|1706
-#7|@FataliiBot|1619
+#4|@pawn_git|2021
+#5|@Cheng-4|1973
+#6|@pawnocchio_bot|1722
+#7|@FataliiBot|1584
 #8|@Demolito_L6|1444
 #9|@Demolito_L5|1268
 #10|@Rodent-IV|1216
@@ -14,4 +14,4 @@ Rank|Bot|Rating
 #12|@Demolito_L3|896
 #13|@princhess_policy_bot|807
 #14|@pawnrobot|667
-#15|@MinOpponentMoves|547
+#15|@MinOpponentMoves|534
