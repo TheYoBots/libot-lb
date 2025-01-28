@@ -2765,3 +2765,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+sunfish-c
+colinbot
+vrnts_colinbot
