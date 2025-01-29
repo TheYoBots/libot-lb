@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Alehkine_cat|2312
 #47|@Dean_Summer_Bot|2305
 #48|@PsychedelicAtomic|2296
-#49|@vrnts_colinbot|2286
+#49|@vrnts_colinbot|2287
 #50|@AndromedaSX1|2284
 #51|@BGSBot|2272
 #52|@AtomicVsEngineBot|2268
@@ -318,7 +318,7 @@ Rank|Bot|Rating
 #316|@BogoBot|945
 #317|@MateCheckCapture|891
 #318|@thousandatom|865
-#319|@MinOpponentMoves|858
+#319|@MinOpponentMoves|820
 #320|@bfdzvfsgaergfds|800
 #321|@TheThanosBot|696
 #322|@BetaOneBot|690

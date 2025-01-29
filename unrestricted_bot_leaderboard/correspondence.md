@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@Viet-AI|2471
 #15|@magnusglad_bot|2465
 #16|@EmptikBot|2454
-#17|@Viet-BOT|2448
-#18|@BitByByte|2444
+#17|@BitByByte|2451
+#18|@Viet-BOT|2448
 #19|@F0rgot|2434
 #20|@HulkBot|2387
 #21|@MehFish|2376
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@Ujwal1001|2297
 #31|@robiachess|2295
 #32|@mrohCentaur|2285
-#33|@OpeningsBot|2284
+#33|@OpeningsBot|2280
 #34|@pawnocchio_bot|2278
 #35|@Toodfish|2273
 #36|@Cheng-4|2269

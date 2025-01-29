@@ -60,10 +60,10 @@ Rank|Bot|Rating
 #58|@ESC_BOT|2253
 #59|@relevantproblem|2251
 #60|@GodelEscherBot|2244
-#61|@ResoluteBot|2225
-#62|@XXIstCentury|2225
-#63|@Resolved-Bot|2223
-#64|@OpeningsBot|2222
+#61|@OpeningsBot|2230
+#62|@ResoluteBot|2225
+#63|@XXIstCentury|2225
+#64|@Resolved-Bot|2223
 #65|@HerokuHasnotplay|2215
 #66|@Zer0_Tw0|2210
 #67|@AIAlphaAI|2200
@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@HiddeNL|1573
 #127|@TheSystem_Bot|1572
 #128|@QuickLiquid|1555
-#129|@MateCheckCapture|1521
+#129|@MateCheckCapture|1520
 #130|@faith_bot|1514
 #131|@CoderDen732|1507
 #132|@TorBot|1498
@@ -178,4 +178,4 @@ Rank|Bot|Rating
 #176|@BogoBot|1074
 #177|@Simpafteur|1069
 #178|@ZX-Chess|982
-#179|@MinOpponentMoves|617
+#179|@MinOpponentMoves|615

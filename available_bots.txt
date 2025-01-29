@@ -1502,6 +1502,7 @@ loseisnotavailablehe
 losing_loser_bot
 losingbot
 louischess48-6k
+lowfish
 lowkeybot
 lozza-bot
 ltchessbot
@@ -2768,4 +2769,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lowfish
