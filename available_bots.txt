@@ -600,6 +600,7 @@ codfishbot
 codingadventurebot
 codingadventuresback
 codingai
+colinbot
 combilation
 combuskengine
 comeback_bot
@@ -2339,6 +2340,7 @@ sultan_seferli_4c-74
 sumal_bro
 sumeetthepro
 sun_bird
+sunfish-c
 sunfish-engine
 sunfish_rs
 sunrise-reflections
@@ -2629,6 +2631,7 @@ volkchessengine
 volterbot
 votechess
 votemymove
+vrnts_colinbot
 vvv0rtex_bot
 w1z4rd_b0t
 w_a_l_d_e_m_a_r
@@ -2765,6 +2768,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sunfish-c
-colinbot
-vrnts_colinbot
+lowfish

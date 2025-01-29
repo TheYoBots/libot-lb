@@ -25,8 +25,8 @@ Rank|Bot|Rating
 #23|@Less_of_a_threat|2469
 #24|@NormalBlitzBulletBot|2463
 #25|@ttBOT|2462
-#26|@faith_bot|2447
-#27|@RaspFish|2442
+#26|@RaspFish|2448
+#27|@faith_bot|2447
 #28|@ChessVBOT|2430
 #29|@NimsiluBot|2422
 #30|@Nikitosik-ai|2405
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@CocopikachuBOT|2274
 #39|@YoBot_v2|2257
 #40|@TheMatrix2025|2251
-#41|@vrnts_colinbot|2237
+#41|@vrnts_colinbot|2231
 #42|@Vinh_VariantsBot|2215
 #43|@Kizburb|2214
 #44|@xiang-qi|2207
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@Magnus-BOT|2084
 #59|@Xerus_1|2070
 #60|@ROBOT_RANDEER2007|2059
-#61|@OpeningsBot|2030
+#61|@OpeningsBot|2031
 #62|@Resolved-Bot|2026
 #63|@firstrobot|2003
 #64|@Hyper-Stockfish|1986
@@ -106,8 +106,8 @@ Rank|Bot|Rating
 #104|@the_checkmating_bot|1643
 #105|@CoderDen732|1639
 #106|@Botkingteam33|1633
-#107|@jasans_bot|1621
-#108|@DavidsGuterBot|1620
+#107|@DavidsGuterBot|1625
+#108|@jasans_bot|1621
 #109|@newengine2022|1588
 #110|@knight_128|1563
 #111|@Alehkine_cat|1549
@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@MasterofChessBOT800|1391
 #139|@HiddeNL|1385
 #140|@apraz|1383
-#141|@pawnrobot|1376
+#141|@pawnrobot|1371
 #142|@Bottios|1323
 #143|@Harry_Potterz|1316
 #144|@allvariants|1310

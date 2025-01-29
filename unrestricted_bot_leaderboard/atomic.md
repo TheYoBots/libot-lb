@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@Alehkine_cat|2312
 #47|@Dean_Summer_Bot|2305
 #48|@PsychedelicAtomic|2296
-#49|@AndromedaSX1|2284
-#50|@vrnts_colinbot|2280
+#49|@vrnts_colinbot|2286
+#50|@AndromedaSX1|2284
 #51|@BGSBot|2272
 #52|@AtomicVsEngineBot|2268
 #53|@xiang-qi|2268
@@ -112,9 +112,9 @@ Rank|Bot|Rating
 #110|@Karpov_bot|2069
 #111|@alvinl22_LBot|2068
 #112|@Simpafteur|2062
-#113|@OpeningsBot|2061
-#114|@Vinnikk|2061
-#115|@XXIstCentury|2061
+#113|@Vinnikk|2061
+#114|@XXIstCentury|2061
+#115|@OpeningsBot|2058
 #116|@azdad|2047
 #117|@Less_of_a_threat|2047
 #118|@MagnusCarlsen1507|2037
