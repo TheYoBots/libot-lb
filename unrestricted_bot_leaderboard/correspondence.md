@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@H-Zero|2650
 #6|@PetersBot|2571
 #7|@pawn_git|2553
-#8|@peonasesino71|2512
-#9|@ChamberiAjedrez|2500
+#8|@ChamberiAjedrez|2524
+#9|@peonasesino71|2512
 #10|@ServerFish|2494
 #11|@colinbot|2492
 #12|@Bingo202|2484
@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@Viet-AI|2471
 #15|@magnusglad_bot|2465
 #16|@EmptikBot|2454
-#17|@BitByByte|2451
-#18|@Viet-BOT|2448
+#17|@Viet-BOT|2448
+#18|@BitByByte|2445
 #19|@F0rgot|2434
 #20|@HulkBot|2387
 #21|@MehFish|2376

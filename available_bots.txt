@@ -930,6 +930,7 @@ fornax-engine
 fortunechess
 fougade
 fourbot
+foxchessbot
 frank-triolo-bot
 freddystehtaufteddy
 freddyybot
@@ -2769,4 +2770,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-foxchessbot
+liteofthenewyear
+natto-bot

@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@YoBot_v2|2394
 #27|@CloudBOT|2393
 #28|@NienishiEngine|2392
-#29|@RaspFish|2386
+#29|@RaspFish|2387
 #30|@EagleEye2021|2365
 #31|@KingfishX|2347
 #32|@chesshyperbot|2344
@@ -37,13 +37,13 @@ Rank|Bot|Rating
 #35|@catalanbotI|2307
 #36|@Yemmi-Yemmi|2305
 #37|@Nikitosikbot_v2|2302
-#38|@TheMatrix2029|2291
-#39|@Nikitosik-ai|2290
-#40|@Alehkine_cat|2283
-#41|@iplayonlyrandom|2282
-#42|@NormalBlitzBulletBot|2278
-#43|@TheMatrix2025|2278
-#44|@ToromBot|2278
+#38|@ToromBot|2292
+#39|@TheMatrix2029|2291
+#40|@Nikitosik-ai|2290
+#41|@Alehkine_cat|2283
+#42|@iplayonlyrandom|2282
+#43|@NormalBlitzBulletBot|2278
+#44|@TheMatrix2025|2278
 #45|@MalanChess|2273
 #46|@BitExtender128|2272
 #47|@NimsiluBot|2269
@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@PetersBot|1911
 #82|@Dean_Summer_Bot|1898
 #83|@azdad|1895
-#84|@vrnts_colinbot|1890
+#84|@vrnts_colinbot|1891
 #85|@The-Fastest-Bot|1885
 #86|@XXIstCentury|1875
 #87|@ChessBot3021|1872
@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@sauwkhamari|1741
 #107|@TJchessBot|1741
 #108|@Stockfish-MEDIUM|1717
-#109|@OpeningsBot|1714
+#109|@OpeningsBot|1701
 #110|@Lili-Variants|1698
 #111|@Lightning_SpeedChess|1696
 #112|@B0T5_RU13|1683
