@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@UltimateVariants|2978
 #5|@Nikitosikbot_v2|2964
 #6|@EmptikVariantsBot|2957
-#7|@ToromBot|2937
+#7|@ToromBot|2945
 #8|@Coolman2021|2879
 #9|@UltronBot|2859
 #10|@Nikitosik-ai|2839
@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@SCP079|2662
 #28|@MalanChess|2638
 #29|@colinbot|2636
-#30|@vrnts_colinbot|2628
-#31|@Kizbuurb|2621
+#30|@Kizbuurb|2621
+#31|@vrnts_colinbot|2621
 #32|@KingfishX|2612
 #33|@Khanh_Bot|2611
 #34|@bananaaaaaaaaa_test|2608
@@ -95,10 +95,10 @@ Rank|Bot|Rating
 #93|@GodelEscherBot|2284
 #94|@Dean_Summer_Bot|2279
 #95|@Johnsun|2269
-#96|@anti-bot|2261
-#97|@SkyBlaster|2254
-#98|@mrchessmanager|2240
-#99|@TurkiyeHogwarts|2240
+#96|@SkyBlaster|2254
+#97|@mrchessmanager|2240
+#98|@TurkiyeHogwarts|2240
+#99|@anti-bot|2237
 #100|@EagleEye2021|2235
 #101|@chesshyperbot|2234
 #102|@OpeningsBot|2233
@@ -263,7 +263,7 @@ Rank|Bot|Rating
 #261|@MinOpponentMoves|1175
 #262|@BogoBot|1155
 #263|@thousandatom|1146
-#264|@MateCheckCapture|1117
+#264|@MateCheckCapture|1133
 #265|@Green_Tea_Ice_Cream|1107
 #266|@Md211bot|1107
 #267|@The_dragon_bot|1076

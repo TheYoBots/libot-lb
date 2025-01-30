@@ -3,11 +3,11 @@ Rank|Bot|Rating
 #1|@colinbot|2347
 #2|@PetersBot|2322
 #3|@magnusglad_bot|2103
-#4|@OpeningsBot|2079
-#5|@pawn_git|2026
-#6|@Cheng-4|2003
-#7|@pawnocchio_bot|1727
-#8|@FataliiBot|1541
+#4|@OpeningsBot|2080
+#5|@pawn_git|2021
+#6|@Cheng-4|2010
+#7|@pawnocchio_bot|1710
+#8|@FataliiBot|1543
 #9|@Demolito_L6|1444
 #10|@Demolito_L5|1268
 #11|@Rodent-IV|1216

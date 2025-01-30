@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@SkyBlaster|2603
 #5|@Viet-AI|2600
 #6|@lord-bot|2581
-#7|@ToromBot|2578
+#7|@ToromBot|2573
 #8|@Fairy_Belzedar|2559
 #9|@EmptikVariantsBot|2557
 #10|@FireFishBOT|2547
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Bobby_Fischer_BOT|2430
 #30|@NienishiEngine|2428
 #31|@LoseisnotAvailablehe|2424
-#32|@vrnts_colinbot|2411
+#32|@vrnts_colinbot|2414
 #33|@KizVariant|2410
 #34|@Nikitosikbot_v2|2408
 #35|@VariantsTop|2405
@@ -128,8 +128,8 @@ Rank|Bot|Rating
 #126|@HiddeNL|1573
 #127|@TheSystem_Bot|1572
 #128|@QuickLiquid|1555
-#129|@MateCheckCapture|1520
-#130|@faith_bot|1514
+#129|@faith_bot|1514
+#130|@MateCheckCapture|1510
 #131|@CoderDen732|1507
 #132|@TorBot|1498
 #133|@KnightsArmour|1494

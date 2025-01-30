@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
 #12|@Coolman2021|2378
-#13|@ToromBot|2369
+#13|@ToromBot|2372
 #14|@Karpov_bot|2359
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@KingfishX|2066
 #52|@ChessVBOT|2065
 #53|@NimsiluBot|2058
-#54|@vrnts_colinbot|2050
+#54|@vrnts_colinbot|2048
 #55|@Hyper-Stockfish|2044
 #56|@Kizbuurb|2035
 #57|@CloudBot_v2|2027
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@Breeze-Hot|1606
 #110|@Just-a-random-bot|1604
 #111|@Epiano_Bot|1567
-#112|@DavidsGuterBot|1552
+#112|@DavidsGuterBot|1558
 #113|@Toxic_Bot|1541
 #114|@SXDEFENDER|1534
 #115|@Light_To_The_Rescue|1523
@@ -142,8 +142,8 @@ Rank|Bot|Rating
 #140|@VedanthS-Bot|1353
 #141|@allvariants|1348
 #142|@BinaryBrain|1341
-#143|@pawnrobot|1317
-#144|@THEANDROIDBOT|1317
+#143|@THEANDROIDBOT|1317
+#144|@pawnrobot|1310
 #145|@Challengeme2anything|1307
 #146|@NoTallkOnlyGames|1291
 #147|@jasans_bot|1268
@@ -167,5 +167,5 @@ Rank|Bot|Rating
 #165|@thousandatom|970
 #166|@MinOpponentMoves|955
 #167|@BogoBot|946
-#168|@MateCheckCapture|892
+#168|@MateCheckCapture|890
 #169|@GuineaBot2|884
