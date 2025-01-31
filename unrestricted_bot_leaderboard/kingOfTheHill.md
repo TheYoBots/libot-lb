@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@bananaaaaaaaaa_test|2269
 #23|@Bobby_Fischer_BOT|2267
 #24|@lord-bot|2258
-#25|@RaspFish|2242
+#25|@RaspFish|2248
 #26|@YoBot_v2|2242
 #27|@ResoluteBot|2233
 #28|@ttBOT|2230
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@KingfishX|2066
 #52|@ChessVBOT|2065
 #53|@NimsiluBot|2058
-#54|@vrnts_colinbot|2051
+#54|@vrnts_colinbot|2052
 #55|@Hyper-Stockfish|2044
 #56|@Kizbuurb|2035
 #57|@CloudBot_v2|2027
@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@MistakeBOT|1886
 #82|@EagleEye2021|1880
 #83|@Galaxy_Guardian|1876
-#84|@OpeningsBot|1874
+#84|@OpeningsBot|1869
 #85|@xiang-qi|1868
 #86|@que-hyper|1865
 #87|@relevantproblem|1857
@@ -110,8 +110,8 @@ Rank|Bot|Rating
 #108|@CoderDen732|1621
 #109|@Breeze-Hot|1606
 #110|@Just-a-random-bot|1604
-#111|@Epiano_Bot|1567
-#112|@DavidsGuterBot|1564
+#111|@DavidsGuterBot|1568
+#112|@Epiano_Bot|1567
 #113|@Toxic_Bot|1541
 #114|@SXDEFENDER|1534
 #115|@Light_To_The_Rescue|1523
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@BinaryBrain|1341
 #143|@THEANDROIDBOT|1317
 #144|@Challengeme2anything|1307
-#145|@pawnrobot|1301
+#145|@pawnrobot|1295
 #146|@NoTallkOnlyGames|1291
 #147|@jasans_bot|1268
 #148|@ChessChipBot|1258

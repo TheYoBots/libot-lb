@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@PetersBot|2322
 #3|@magnusglad_bot|2103
 #4|@OpeningsBot|2079
-#5|@pawn_git|2021
-#6|@Cheng-4|2017
-#7|@pawnocchio_bot|1711
-#8|@FataliiBot|1544
+#5|@pawn_git|2025
+#6|@Cheng-4|2024
+#7|@pawnocchio_bot|1724
+#8|@FataliiBot|1520
 #9|@Demolito_L6|1444
 #10|@Demolito_L5|1268
 #11|@Rodent-IV|1216

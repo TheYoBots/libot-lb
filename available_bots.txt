@@ -1479,6 +1479,7 @@ lionfishbot
 lisa_bot
 lisebot
 liteengine
+liteofthenewyear
 littlegreenmanbot
 littlejennyren
 littlepatricia
@@ -1714,6 +1715,7 @@ narratingsince86
 nastmardov
 natbee_bot
 natesbot
+natto-bot
 natural-disaster
 naughty-dottie
 nc3nc6bot
@@ -2770,5 +2772,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-liteofthenewyear
-natto-bot

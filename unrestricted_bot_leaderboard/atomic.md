@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@KizVariant|2597
 #8|@Nikitosik-ai|2592
 #9|@pistol-play|2590
-#10|@ToromBot|2573
+#10|@ToromBot|2575
 #11|@NimsiluBot|2569
 #12|@Nikitosikbot_v2|2567
 #13|@UltronBot|2556
@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@Alehkine_cat|2312
 #47|@Dean_Summer_Bot|2305
 #48|@PsychedelicAtomic|2296
-#49|@vrnts_colinbot|2287
-#50|@AndromedaSX1|2284
+#49|@AndromedaSX1|2284
+#50|@vrnts_colinbot|2284
 #51|@BGSBot|2272
 #52|@AtomicVsEngineBot|2268
 #53|@xiang-qi|2268
@@ -318,7 +318,7 @@ Rank|Bot|Rating
 #316|@BogoBot|945
 #317|@thousandatom|865
 #318|@MinOpponentMoves|842
-#319|@MateCheckCapture|839
+#319|@MateCheckCapture|834
 #320|@bfdzvfsgaergfds|800
 #321|@TheThanosBot|696
 #322|@BetaOneBot|690
