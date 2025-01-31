@@ -82,8 +82,8 @@ Rank|Bot|Rating
 #80|@Galaxy_Guardian|1913
 #81|@PetersBot|1911
 #82|@Dean_Summer_Bot|1898
-#83|@azdad|1895
-#84|@vrnts_colinbot|1892
+#83|@vrnts_colinbot|1897
+#84|@azdad|1895
 #85|@The-Fastest-Bot|1885
 #86|@XXIstCentury|1875
 #87|@ChessBot3021|1872
@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@TJchessBot|1741
 #108|@Stockfish-MEDIUM|1717
 #109|@Lili-Variants|1698
-#110|@OpeningsBot|1697
-#111|@Lightning_SpeedChess|1696
+#110|@Lightning_SpeedChess|1696
+#111|@OpeningsBot|1693
 #112|@B0T5_RU13|1683
 #113|@FASTCHESSBOT|1666
 #114|@SipsonsamsonBOT|1665
@@ -179,7 +179,7 @@ Rank|Bot|Rating
 #177|@Grand_MefBartu-BOT|1200
 #178|@FluffBallCuddly|1191
 #179|@heatseeker223|1191
-#180|@pawnrobot|1188
+#180|@pawnrobot|1185
 #181|@ChessPlayer1225|1183
 #182|@Jannik08_FAN|1163
 #183|@BSergey11-BOT|1149
@@ -192,8 +192,8 @@ Rank|Bot|Rating
 #190|@ZX-Chess|1011
 #191|@magnusglad_bot|998
 #192|@JPSBOT|958
-#193|@RSVMentor|862
-#194|@MateCheckCapture|847
+#193|@MateCheckCapture|909
+#194|@RSVMentor|862
 #195|@GuineaBot3|845
 #196|@TrashBot|800
 #197|@MinOpponentMoves|738

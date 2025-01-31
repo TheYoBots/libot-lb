@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@UltimateVariants|2978
 #5|@Nikitosikbot_v2|2964
 #6|@EmptikVariantsBot|2957
-#7|@ToromBot|2922
+#7|@ToromBot|2927
 #8|@Coolman2021|2879
 #9|@UltronBot|2859
 #10|@Nikitosik-ai|2839
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@TheMatrix2025|2666
 #27|@SCP079|2662
 #28|@MalanChess|2638
-#29|@vrnts_colinbot|2638
+#29|@vrnts_colinbot|2637
 #30|@colinbot|2636
 #31|@Kizbuurb|2621
 #32|@KingfishX|2612
@@ -98,13 +98,13 @@ Rank|Bot|Rating
 #96|@SkyBlaster|2254
 #97|@mrchessmanager|2240
 #98|@TurkiyeHogwarts|2240
-#99|@anti-bot|2236
-#100|@OpeningsBot|2236
-#101|@EagleEye2021|2235
-#102|@chesshyperbot|2234
-#103|@Hyper-Stockfish|2230
-#104|@CocopikachuBOT|2226
-#105|@TungJohn|2225
+#99|@OpeningsBot|2236
+#100|@EagleEye2021|2235
+#101|@chesshyperbot|2234
+#102|@Hyper-Stockfish|2230
+#103|@CocopikachuBOT|2226
+#104|@TungJohn|2225
+#105|@anti-bot|2222
 #106|@Good-Game-123|2221
 #107|@The-Fastest-Bot|2218
 #108|@All_Except_Chess960|2214
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@antichesssss|1964
 #134|@Menganti|1963
 #135|@CloudBOT|1950
-#136|@pawnrobot|1933
+#136|@pawnrobot|1939
 #137|@Crepusculum|1881
 #138|@NoTallkOnlyGames|1871
 #139|@Lumac0|1861
@@ -259,7 +259,7 @@ Rank|Bot|Rating
 #257|@chicken_farmer|1241
 #258|@PranavChessBot|1212
 #259|@Toxic_Bot|1202
-#260|@MinOpponentMoves|1183
+#260|@MinOpponentMoves|1187
 #261|@DespacitoBot|1175
 #262|@BogoBot|1155
 #263|@thousandatom|1146

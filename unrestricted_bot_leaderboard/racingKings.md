@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@TheMatrix2025|2484
 #23|@Magnus-BOT|2479
 #24|@newengine2022|2473
-#25|@vrnts_colinbot|2460
+#25|@vrnts_colinbot|2462
 #26|@CocopikachuBOT|2451
 #27|@Fairy-Stockfish|2438
 #28|@NormalBlitzBulletBot|2435
@@ -62,8 +62,8 @@ Rank|Bot|Rating
 #60|@GodelEscherBot|2244
 #61|@ResoluteBot|2225
 #62|@XXIstCentury|2225
-#63|@OpeningsBot|2224
-#64|@Resolved-Bot|2223
+#63|@Resolved-Bot|2223
+#64|@OpeningsBot|2221
 #65|@HerokuHasnotplay|2215
 #66|@Zer0_Tw0|2210
 #67|@AIAlphaAI|2200
@@ -139,10 +139,10 @@ Rank|Bot|Rating
 #137|@ahmet-botahmet|1471
 #138|@Variantenkoning|1471
 #139|@TheLegendaryKnight|1468
-#140|@MateCheckCapture|1460
-#141|@Bbao23-chess|1455
-#142|@Epiano_Bot|1447
-#143|@pawnrobot|1440
+#140|@Bbao23-chess|1455
+#141|@Epiano_Bot|1447
+#142|@pawnrobot|1440
+#143|@MateCheckCapture|1437
 #144|@The_A_and_D_Club|1429
 #145|@Official_bot|1418
 #146|@Blasting4|1414
