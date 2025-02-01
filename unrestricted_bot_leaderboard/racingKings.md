@@ -63,9 +63,9 @@ Rank|Bot|Rating
 #61|@ResoluteBot|2225
 #62|@XXIstCentury|2225
 #63|@Resolved-Bot|2223
-#64|@OpeningsBot|2221
-#65|@HerokuHasnotplay|2215
-#66|@Zer0_Tw0|2210
+#64|@HerokuHasnotplay|2215
+#65|@Zer0_Tw0|2210
+#66|@OpeningsBot|2205
 #67|@AIAlphaAI|2200
 #68|@higuyuu67776|2200
 #69|@Nobody11892|2200
@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@Bbao23-chess|1455
 #141|@Epiano_Bot|1447
 #142|@pawnrobot|1440
-#143|@MateCheckCapture|1437
+#143|@MateCheckCapture|1434
 #144|@The_A_and_D_Club|1429
 #145|@Official_bot|1418
 #146|@Blasting4|1414
@@ -178,4 +178,4 @@ Rank|Bot|Rating
 #176|@BogoBot|1074
 #177|@Simpafteur|1069
 #178|@ZX-Chess|982
-#179|@MinOpponentMoves|615
+#179|@MinOpponentMoves|612

@@ -3,6 +3,6 @@ Rank|Bot|Rating
 #1|@ToromBot|2560
 #2|@RaspFish|2509
 #3|@vrnts_colinbot|2462
-#4|@OpeningsBot|2221
-#5|@MateCheckCapture|1437
-#6|@MinOpponentMoves|615
+#4|@OpeningsBot|2205
+#5|@MateCheckCapture|1434
+#6|@MinOpponentMoves|612

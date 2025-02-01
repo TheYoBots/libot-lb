@@ -101,10 +101,10 @@ Rank|Bot|Rating
 #99|@OpeningsBot|2236
 #100|@EagleEye2021|2235
 #101|@chesshyperbot|2234
-#102|@Hyper-Stockfish|2230
-#103|@CocopikachuBOT|2226
-#104|@TungJohn|2225
-#105|@anti-bot|2222
+#102|@anti-bot|2231
+#103|@Hyper-Stockfish|2230
+#104|@CocopikachuBOT|2226
+#105|@TungJohn|2225
 #106|@Good-Game-123|2221
 #107|@The-Fastest-Bot|2218
 #108|@All_Except_Chess960|2214
