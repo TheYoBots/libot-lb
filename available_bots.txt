@@ -2742,6 +2742,7 @@ yuetongbot2
 yukoo-bot
 yuligpro5
 yumaree
+yumyum-bot
 yz-bot-test
 z-move
 z5_engine
@@ -2772,4 +2773,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-yumyum-bot
+evolve_bot
+motor-0

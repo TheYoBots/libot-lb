@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2911
+#1|@fibonachi|2913
 #2|@MaggiChess16|2806
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@CorrespondenceBot|2353
 #24|@duchessAI|2344
 #25|@HansNiemannBot|2338
-#26|@pawnocchio_bot|2319
+#26|@pawnocchio_bot|2333
 #27|@bekbot|2307
 #28|@IAMSTOCKFISH123|2305
 #29|@Magnus-BOT|2304
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Bobby_Fishcer_Bot|1976
 #128|@BigBrainen|1970
 #129|@BritBot|1970
-#130|@matmoi|1970
+#130|@matmoi|1966
 #131|@Test_God_50_BOT|1965
 #132|@WMatt|1958
 #133|@Primer-Bot|1956
@@ -279,8 +279,8 @@ Rank|Bot|Rating
 #277|@entebot|1523
 #278|@LeelaNice|1520
 #279|@eubos|1518
-#280|@HerathHerath|1516
-#281|@MistakeBOT|1515
+#280|@MistakeBOT|1515
+#281|@HerathHerath|1508
 #282|@FelixLeonidovich|1505
 #283|@Chen_BOT|1500
 #284|@kylel4266_test|1500
