@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@OpeningsBot|2079
 #5|@Cheng-4|2030
 #6|@pawn_git|2028
-#7|@pawnocchio_bot|1710
-#8|@FataliiBot|1531
+#7|@pawnocchio_bot|1720
+#8|@FataliiBot|1521
 #9|@Rodent-IV|1212
 #10|@pawnrobot|673
 #11|@MinOpponentMoves|528

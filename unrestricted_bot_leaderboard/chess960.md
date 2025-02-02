@@ -276,11 +276,11 @@ Rank|Bot|Rating
 #274|@clueless-bot|1737
 #275|@Magnus-BOT|1733
 #276|@Velvet-Engine|1732
-#277|@EnyoBot|1717
-#278|@stockfish12_Johan|1717
-#279|@TungJohn|1714
-#280|@TeamChelsie|1712
-#281|@pawnocchio_bot|1710
+#277|@pawnocchio_bot|1720
+#278|@EnyoBot|1717
+#279|@stockfish12_Johan|1717
+#280|@TungJohn|1714
+#281|@TeamChelsie|1712
 #282|@fantasticbot|1699
 #283|@Peaceful4Life|1694
 #284|@Crepusculum|1693
@@ -321,8 +321,8 @@ Rank|Bot|Rating
 #319|@Variantenkoning|1534
 #320|@anarchychess-bot|1532
 #321|@beststockfish16|1532
-#322|@FataliiBot|1531
-#323|@XiDM|1525
+#322|@XiDM|1525
+#323|@FataliiBot|1521
 #324|@david9426_bot|1517
 #325|@LioCT|1516
 #326|@YourSparringBot|1503

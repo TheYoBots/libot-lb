@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@Mega_BOT|2371
 #23|@CorrespondenceBot|2353
 #24|@duchessAI|2344
-#25|@HansNiemannBot|2338
-#26|@pawnocchio_bot|2333
+#25|@pawnocchio_bot|2341
+#26|@HansNiemannBot|2338
 #27|@bekbot|2307
 #28|@IAMSTOCKFISH123|2305
 #29|@Magnus-BOT|2304
@@ -162,7 +162,7 @@ Rank|Bot|Rating
 #160|@OurBot|1836
 #161|@Aromik_s_bot|1831
 #162|@BestJSEngine|1826
-#163|@Jibbby|1825
+#163|@Jibbby|1824
 #164|@Black_Knight2006|1815
 #165|@Hoplites|1813
 #166|@Sub_Bot|1808
@@ -280,8 +280,8 @@ Rank|Bot|Rating
 #278|@LeelaNice|1520
 #279|@eubos|1518
 #280|@MistakeBOT|1515
-#281|@HerathHerath|1508
-#282|@FelixLeonidovich|1505
+#281|@FelixLeonidovich|1505
+#282|@HerathHerath|1505
 #283|@Chen_BOT|1500
 #284|@kylel4266_test|1500
 #285|@NiceToHitYou2000|1500

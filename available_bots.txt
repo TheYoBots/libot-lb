@@ -848,6 +848,7 @@ evenmatchup
 evernow
 evg3n413429
 evilfreak
+evolve_bot
 ewhgdvjeafd
 expectedoutcome
 expecto_patronum_the
@@ -1660,6 +1661,7 @@ morphbot
 mostactive
 motevakelbot
 mothersdaymang0
+motor-0
 moutonai
 mp_ind_946
 mphobot
@@ -2773,5 +2775,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-evolve_bot
-motor-0
+cleobot
