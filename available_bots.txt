@@ -579,6 +579,7 @@ chompbot
 christophercolomb
 chunguszero
 cizme
+cleobot
 clompdev
 cloud_bot
 cloudblower
@@ -2775,4 +2776,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cleobot
+projecthuman
+chessosity
