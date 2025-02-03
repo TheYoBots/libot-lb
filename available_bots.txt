@@ -1800,6 +1800,7 @@ nowinforyoukid
 nukechess-bot
 number_one1
 nya-vp
+nyaabot
 o9mniej_bot
 obsidianchessengine
 occhessadvanced
@@ -2778,4 +2779,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nyaabot

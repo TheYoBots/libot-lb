@@ -110,8 +110,8 @@ Rank|Bot|Rating
 #108|@SaturnBot|2214
 #109|@xDmanBOT|2214
 #110|@YellowFlash_v2|2214
-#111|@anti-bot|2213
-#112|@CoderDen732|2207
+#111|@CoderDen732|2207
+#112|@anti-bot|2206
 #113|@NormalBlitzBulletBot|2205
 #114|@EstmileBot|2200
 #115|@HerokuHasnotplay|2196
