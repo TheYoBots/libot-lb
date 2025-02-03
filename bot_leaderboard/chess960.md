@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@PetersBot|2320
 #3|@magnusglad_bot|2103
 #4|@OpeningsBot|2079
-#5|@Cheng-4|2030
-#6|@pawn_git|2028
-#7|@pawnocchio_bot|1727
-#8|@FataliiBot|1514
-#9|@Rodent-IV|1212
-#10|@pawnrobot|673
+#5|@pawn_git|2036
+#6|@Cheng-4|2030
+#7|@pawnocchio_bot|1742
+#8|@FataliiBot|1499
+#9|@Rodent-IV|1208
+#10|@pawnrobot|671
 #11|@MinOpponentMoves|528

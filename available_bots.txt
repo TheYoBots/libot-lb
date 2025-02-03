@@ -556,6 +556,7 @@ chessmasterbot5
 chessmasterofin2012
 chessnoobcomp
 chessopenerbot
+chessosity
 chessplayer1225
 chesstango_bot
 chesster-rubenstein
@@ -1945,6 +1946,7 @@ probot123567
 probot_vr_2
 probroman
 professional-bot-021
+projecthuman
 prometheus-bot
 proteussf
 proteussf-aureo
@@ -2776,5 +2778,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-projecthuman
-chessosity
+nyaabot

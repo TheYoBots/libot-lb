@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@KizVariant|2597
 #8|@Nikitosik-ai|2592
 #9|@pistol-play|2590
-#10|@ToromBot|2578
+#10|@ToromBot|2580
 #11|@NimsiluBot|2569
 #12|@Nikitosikbot_v2|2567
 #13|@UltronBot|2556
@@ -268,7 +268,7 @@ Rank|Bot|Rating
 #266|@Trumpfor2O2O|1386
 #267|@DrunkenMasterEngine|1385
 #268|@anonymous5612|1384
-#269|@pawnrobot|1374
+#269|@pawnrobot|1367
 #270|@SLvov-bot|1359
 #271|@ChessBotHere|1351
 #272|@kazakhfirstbot|1340

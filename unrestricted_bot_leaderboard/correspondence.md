@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
 #5|@H-Zero|2650
-#6|@PetersBot|2571
+#6|@PetersBot|2584
 #7|@pawn_git|2553
 #8|@ChamberiAjedrez|2524
 #9|@peonasesino71|2512
@@ -116,12 +116,12 @@ Rank|Bot|Rating
 #114|@duythong1402|2025
 #115|@kybot|2025
 #116|@MalanChess|2020
-#117|@RoyalLeela|2014
-#118|@SchachProg|2010
-#119|@ElPeonElectrico|2004
-#120|@honzovy-sachy|2002
-#121|@TESTBOT23|2000
-#122|@zeekat|1995
+#117|@zeekat|2018
+#118|@RoyalLeela|2014
+#119|@SchachProg|2010
+#120|@ElPeonElectrico|2004
+#121|@honzovy-sachy|2002
+#122|@TESTBOT23|2000
 #123|@Zer0_Tw0|1992
 #124|@YoBot_v2|1984
 #125|@maello_bot|1981
