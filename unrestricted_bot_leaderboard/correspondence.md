@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2913
+#1|@fibonachi|2914
 #2|@MaggiChess16|2806
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@StrongMagnusCarlsen|2027
 #114|@duythong1402|2025
 #115|@kybot|2025
-#116|@MalanChess|2020
-#117|@zeekat|2018
+#116|@zeekat|2021
+#117|@MalanChess|2020
 #118|@RoyalLeela|2014
 #119|@SchachProg|2010
 #120|@ElPeonElectrico|2004

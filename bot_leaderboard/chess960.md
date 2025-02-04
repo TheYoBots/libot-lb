@@ -6,10 +6,10 @@ Rank|Bot|Rating
 #4|@RaspFish|2288
 #5|@magnusglad_bot|2103
 #6|@OpeningsBot|2079
-#7|@pawn_git|2039
+#7|@pawn_git|2044
 #8|@Cheng-4|2033
-#9|@pawnocchio_bot|1747
-#10|@FataliiBot|1492
-#11|@Rodent-IV|1205
-#12|@pawnrobot|675
+#9|@pawnocchio_bot|1721
+#10|@FataliiBot|1527
+#11|@Rodent-IV|1196
+#12|@pawnrobot|673
 #13|@MinOpponentMoves|527

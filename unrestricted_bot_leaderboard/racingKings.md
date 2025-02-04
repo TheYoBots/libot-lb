@@ -73,10 +73,10 @@ Rank|Bot|Rating
 #71|@Johnsun|2181
 #72|@HuxZero|2176
 #73|@AnUtterlyKarBot|2174
-#74|@OpeningsBot|2174
-#75|@knight_128|2144
-#76|@Kizburb|2126
-#77|@mc-king-098|2124
+#74|@knight_128|2144
+#75|@Kizburb|2126
+#76|@mc-king-098|2124
+#77|@OpeningsBot|2119
 #78|@xiang-qi|2113
 #79|@atomicli|2111
 #80|@Trumpfor2O2O|2103
@@ -153,7 +153,7 @@ Rank|Bot|Rating
 #151|@vamos_caballeros|1373
 #152|@Los-Guerreros1|1364
 #153|@knight_BOT|1352
-#154|@MateCheckCapture|1349
+#154|@MateCheckCapture|1343
 #155|@Toxic_Bot|1338
 #156|@KevBot_SF|1335
 #157|@LegendaryBot1|1333

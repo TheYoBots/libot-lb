@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@UltimateVariants|2978
 #5|@Nikitosikbot_v2|2964
 #6|@EmptikVariantsBot|2957
-#7|@ToromBot|2927
+#7|@ToromBot|2928
 #8|@Coolman2021|2879
 #9|@UltronBot|2859
 #10|@Nikitosik-ai|2839
@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@xDmanBOT|2214
 #110|@YellowFlash_v2|2214
 #111|@CoderDen732|2207
-#112|@anti-bot|2206
-#113|@NormalBlitzBulletBot|2205
+#112|@NormalBlitzBulletBot|2205
+#113|@anti-bot|2201
 #114|@EstmileBot|2200
 #115|@HerokuHasnotplay|2196
 #116|@Lucror|2178

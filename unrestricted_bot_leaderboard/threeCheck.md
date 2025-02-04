@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@CoderDen732|1639
 #106|@Botkingteam33|1633
 #107|@jasans_bot|1621
-#108|@DavidsGuterBot|1610
+#108|@DavidsGuterBot|1615
 #109|@newengine2022|1588
 #110|@knight_128|1563
 #111|@Alehkine_cat|1549
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@Kyle_0111|1421
 #135|@azdad|1420
 #136|@Peaceful4Life|1412
-#137|@pawnrobot|1411
+#137|@pawnrobot|1406
 #138|@RochadeSchachzeitung|1392
 #139|@MasterofChessBOT800|1391
 #140|@HiddeNL|1385
