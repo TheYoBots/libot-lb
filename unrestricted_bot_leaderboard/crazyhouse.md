@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@catalanbotI|2307
 #37|@Yemmi-Yemmi|2305
 #38|@Nikitosikbot_v2|2302
-#39|@ToromBot|2292
+#39|@ToromBot|2295
 #40|@Nikitosik-ai|2290
 #41|@Alehkine_cat|2283
 #42|@iplayonlyrandom|2282
@@ -79,12 +79,12 @@ Rank|Bot|Rating
 #77|@bananaaaaaaaaa_test|1942
 #78|@chessbot2880|1921
 #79|@AndromedaSX1|1919
-#80|@colinbot|1919
-#81|@Galaxy_Guardian|1913
-#82|@PetersBot|1911
-#83|@Dean_Summer_Bot|1898
-#84|@vrnts_colinbot|1897
-#85|@azdad|1895
+#80|@Galaxy_Guardian|1913
+#81|@PetersBot|1911
+#82|@Dean_Summer_Bot|1898
+#83|@vrnts_colinbot|1897
+#84|@azdad|1895
+#85|@colinbot|1892
 #86|@The-Fastest-Bot|1885
 #87|@XXIstCentury|1875
 #88|@ChessBot3021|1872

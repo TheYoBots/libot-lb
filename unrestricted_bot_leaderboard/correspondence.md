@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@magnusglad_bot|2465
 #16|@EmptikBot|2454
 #17|@Viet-BOT|2448
-#18|@BitByByte|2445
+#18|@BitByByte|2440
 #19|@F0rgot|2434
 #20|@HulkBot|2387
 #21|@MehFish|2376
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@Ujwal1001|2297
 #32|@robiachess|2295
 #33|@mrohCentaur|2285
-#34|@OpeningsBot|2277
+#34|@OpeningsBot|2281
 #35|@Toodfish|2273
 #36|@Cheng-4|2269
 #37|@Blue_Mongoose|2249
@@ -162,9 +162,9 @@ Rank|Bot|Rating
 #160|@OurBot|1836
 #161|@Aromik_s_bot|1831
 #162|@BestJSEngine|1826
-#163|@Jibbby|1822
-#164|@Black_Knight2006|1815
-#165|@Hoplites|1813
+#163|@Black_Knight2006|1815
+#164|@Hoplites|1813
+#165|@Jibbby|1812
 #166|@Sub_Bot|1808
 #167|@DrMeowMeow|1800
 #168|@stockfish12_Johan|1798
@@ -209,10 +209,10 @@ Rank|Bot|Rating
 #207|@ELO_1500|1706
 #208|@knight_128|1705
 #209|@HotLeela|1702
-#210|@RoundMoundOfRebounds|1699
-#211|@ACC_Bot|1696
-#212|@thousandatom|1692
-#213|@ArcaBOT|1688
+#210|@ACC_Bot|1696
+#211|@thousandatom|1692
+#212|@ArcaBOT|1688
+#213|@RoundMoundOfRebounds|1688
 #214|@B4dF1sh|1687
 #215|@The_dragon_bot|1687
 #216|@DeepKalle|1681

@@ -257,9 +257,9 @@ Rank|Bot|Rating
 #255|@MeetNarangBOT|1287
 #256|@KaTHHHH|1264
 #257|@chicken_farmer|1241
-#258|@MinOpponentMoves|1212
-#259|@PranavChessBot|1212
-#260|@Toxic_Bot|1202
+#258|@PranavChessBot|1212
+#259|@Toxic_Bot|1202
+#260|@MinOpponentMoves|1188
 #261|@DespacitoBot|1175
 #262|@BogoBot|1155
 #263|@thousandatom|1146

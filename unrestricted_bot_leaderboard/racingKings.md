@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@lord-bot|2581
 #7|@Fairy_Belzedar|2559
 #8|@EmptikVariantsBot|2557
-#9|@ToromBot|2551
+#9|@ToromBot|2552
 #10|@FireFishBOT|2547
 #11|@LudwigBOT|2536
 #12|@ChessVBOT|2531
@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@xiang-qi|2113
 #79|@atomicli|2111
 #80|@Trumpfor2O2O|2103
-#81|@OpeningsBot|2102
+#81|@OpeningsBot|2101
 #82|@PetersTestBot|2081
 #83|@CloudBOT|2073
 #84|@JustDontFlagMe|2048
