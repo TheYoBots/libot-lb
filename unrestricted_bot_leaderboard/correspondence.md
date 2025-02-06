@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@Xmas_dragon|2300
 #31|@Ujwal1001|2297
 #32|@robiachess|2295
-#33|@OpeningsBot|2288
+#33|@OpeningsBot|2289
 #34|@mrohCentaur|2285
 #35|@Toodfish|2273
 #36|@Cheng-4|2269
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@Los-Guerreros1|1935
 #138|@TheLegendaryKnight|1935
 #139|@chicken_farmer|1926
-#140|@zeekat|1924
+#140|@zeekat|1926
 #141|@yowCapablanca|1914
 #142|@Simpafteur|1912
 #143|@TrolliumBot|1894
