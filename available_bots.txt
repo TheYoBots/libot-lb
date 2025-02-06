@@ -95,6 +95,7 @@ amudhanchess
 amudhanhyperbot
 amx_ac_48
 ana-ka-bot
+anachoviicarpov
 anampersand
 anand_bot
 anarchychess-bot
@@ -2779,4 +2780,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-anachoviicarpov

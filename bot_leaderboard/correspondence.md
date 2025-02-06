@@ -1,4 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2281
-#2|@zeekat|1914
+#1|@BitByByte|2435
+#2|@OpeningsBot|2288
+#3|@zeekat|1924

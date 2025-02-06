@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@magnusglad_bot|2465
 #16|@EmptikBot|2454
 #17|@Viet-BOT|2448
-#18|@BitByByte|2440
+#18|@BitByByte|2435
 #19|@F0rgot|2434
 #20|@HulkBot|2387
 #21|@MehFish|2376
@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@Xmas_dragon|2300
 #31|@Ujwal1001|2297
 #32|@robiachess|2295
-#33|@mrohCentaur|2285
-#34|@OpeningsBot|2281
+#33|@OpeningsBot|2288
+#34|@mrohCentaur|2285
 #35|@Toodfish|2273
 #36|@Cheng-4|2269
 #37|@Blue_Mongoose|2249
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@BigBrainen|1970
 #128|@BritBot|1970
 #129|@Test_God_50_BOT|1965
-#130|@matmoi|1962
+#130|@matmoi|1958
 #131|@WMatt|1958
 #132|@Primer-Bot|1956
 #133|@SohamChessBot|1956
@@ -139,8 +139,8 @@ Rank|Bot|Rating
 #137|@Los-Guerreros1|1935
 #138|@TheLegendaryKnight|1935
 #139|@chicken_farmer|1926
-#140|@yowCapablanca|1914
-#141|@zeekat|1914
+#140|@zeekat|1924
+#141|@yowCapablanca|1914
 #142|@Simpafteur|1912
 #143|@TrolliumBot|1894
 #144|@honzovy-sachy-2|1892
@@ -164,7 +164,7 @@ Rank|Bot|Rating
 #162|@BestJSEngine|1826
 #163|@Black_Knight2006|1815
 #164|@Hoplites|1813
-#165|@Jibbby|1812
+#165|@Jibbby|1810
 #166|@Sub_Bot|1808
 #167|@DrMeowMeow|1800
 #168|@stockfish12_Johan|1798
@@ -174,7 +174,7 @@ Rank|Bot|Rating
 #172|@JPSBOT|1789
 #173|@Nicholaswb_BOT|1788
 #174|@Heman36541234578|1786
-#175|@RadianceEngine|1783
+#175|@RadianceEngine|1781
 #176|@Variantenkoning|1781
 #177|@caissa-ai|1773
 #178|@Ymin_dragon|1773

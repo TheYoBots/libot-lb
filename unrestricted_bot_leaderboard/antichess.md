@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@YellowFlash_v2|2214
 #111|@CoderDen732|2207
 #112|@NormalBlitzBulletBot|2205
-#113|@anti-bot|2201
+#113|@anti-bot|2202
 #114|@EstmileBot|2200
 #115|@HerokuHasnotplay|2196
 #116|@Lucror|2178
