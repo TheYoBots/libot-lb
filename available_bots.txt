@@ -2702,6 +2702,7 @@ x2-itl
 xadreco
 xbbjp
 xbot_team-x
+xchessay
 xd_47
 xdmanbot
 xenog
@@ -2780,4 +2781,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-xchessay
+dumbotai

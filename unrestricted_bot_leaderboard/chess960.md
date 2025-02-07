@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@Nishythebot|2427
 #2|@Nezh-BOT|2347
-#3|@FatihMertBOT|2343
-#4|@colinbot|2340
+#3|@colinbot|2346
+#4|@FatihMertBOT|2343
 #5|@blue_ice_bot|2338
 #6|@ToromBot|2336
 #7|@tomlesspit|2334
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@Phoenix_Engine|2293
 #20|@ttBOT|2291
 #21|@Puztel-bot|2285
-#22|@RaspFish|2284
+#22|@RaspFish|2278
 #23|@ChessBot2156|2275
 #24|@Bobby_Fischer_BOT|2273
 #25|@AMemeBot|2271
@@ -107,9 +107,9 @@ Rank|Bot|Rating
 #105|@UnDisstoppableBot|2090
 #106|@Lila-Stockfish|2089
 #107|@gc1bot|2084
-#108|@cheeseNet|2081
-#109|@Mittens-Bot|2081
-#110|@OpeningsBot|2081
+#108|@OpeningsBot|2082
+#109|@cheeseNet|2081
+#110|@Mittens-Bot|2081
 #111|@Vinh_VariantsBot|2076
 #112|@mrohBOT|2074
 #113|@Nebulogic|2067
@@ -308,7 +308,7 @@ Rank|Bot|Rating
 #306|@NeuralAbyss|1608
 #307|@STockfishdestroyBot|1601
 #308|@Lucror|1595
-#309|@FataliiBot|1591
+#309|@FataliiBot|1594
 #310|@HotLeela|1589
 #311|@M07002|1589
 #312|@EftalBot|1587
@@ -361,7 +361,7 @@ Rank|Bot|Rating
 #359|@embla|1375
 #360|@PiratesBot|1373
 #361|@hjhjhjhjhjhj|1370
-#362|@RootEngine|1369
+#362|@RootEngine|1362
 #363|@KhepriChess|1361
 #364|@theoden8_uci|1352
 #365|@bestchessbot|1347
@@ -429,7 +429,7 @@ Rank|Bot|Rating
 #427|@WaspBot|798
 #428|@LeelaWeak|735
 #429|@FelixLeonidovich|730
-#430|@pawnrobot|656
-#431|@MateCheckCapture|581
+#430|@pawnrobot|659
+#431|@MateCheckCapture|557
 #432|@MinOpponentMoves|530
 #433|@konaz|400

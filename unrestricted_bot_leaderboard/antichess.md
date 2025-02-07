@@ -27,9 +27,9 @@ Rank|Bot|Rating
 #25|@LoseisnotAvailablehe|2677
 #26|@AntichessAnalyzer|2673
 #27|@SCP079|2662
-#28|@MalanChess|2638
-#29|@vrnts_colinbot|2637
-#30|@colinbot|2633
+#28|@colinbot|2642
+#29|@MalanChess|2638
+#30|@vrnts_colinbot|2637
 #31|@Kizbuurb|2621
 #32|@KingfishX|2612
 #33|@Khanh_Bot|2611
@@ -93,7 +93,7 @@ Rank|Bot|Rating
 #91|@BromiumAI|2302
 #92|@EvenMatchup|2302
 #93|@GodelEscherBot|2284
-#94|@OpeningsBot|2281
+#94|@OpeningsBot|2282
 #95|@Dean_Summer_Bot|2279
 #96|@Johnsun|2269
 #97|@SkyBlaster|2254
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@antichesssss|1964
 #134|@Menganti|1963
 #135|@CloudBOT|1950
-#136|@pawnrobot|1943
+#136|@pawnrobot|1941
 #137|@Crepusculum|1881
 #138|@NoTallkOnlyGames|1871
 #139|@Lumac0|1861
