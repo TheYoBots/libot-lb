@@ -758,6 +758,7 @@ ducc0
 duchessai
 dumb_by_abulmo-bot
 dumb_fish
+dumbotai
 dummyette
 dundu
 duythong1402
@@ -2781,4 +2782,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dumbotai
+weissbot
+zeputikkubot
+yuki_bot

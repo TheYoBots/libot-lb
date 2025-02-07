@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@Coolman2021|2378
 #13|@Karpov_bot|2359
 #14|@AndromedaSX1|2344
-#15|@TheMatrix2025|2339
-#16|@Viet-AI|2317
-#17|@Fairy_Belzedar|2316
+#15|@Viet-AI|2317
+#16|@Fairy_Belzedar|2316
+#17|@TheMatrix2025|2308
 #18|@MalanChess|2292
 #19|@Nikitosik-ai|2288
 #20|@LudwigBOT|2281
@@ -28,10 +28,10 @@ Rank|Bot|Rating
 #26|@YoBot_v2|2242
 #27|@ResoluteBot|2233
 #28|@ttBOT|2230
-#29|@Magnus-BOT|2224
-#30|@Stockfish-MEDIUM|2224
-#31|@SkyBlaster|2220
-#32|@colinbot|2201
+#29|@colinbot|2226
+#30|@Magnus-BOT|2224
+#31|@Stockfish-MEDIUM|2224
+#32|@SkyBlaster|2220
 #33|@PowerOnBot|2195
 #34|@UnDisstoppableBot|2193
 #35|@Amrobotone|2184
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@EagleEye2021|1880
 #84|@Galaxy_Guardian|1876
 #85|@xiang-qi|1868
-#86|@OpeningsBot|1867
+#86|@OpeningsBot|1866
 #87|@que-hyper|1865
 #88|@relevantproblem|1857
 #89|@Botzer|1851
@@ -168,5 +168,5 @@ Rank|Bot|Rating
 #166|@thousandatom|970
 #167|@BogoBot|946
 #168|@MinOpponentMoves|943
-#169|@MateCheckCapture|906
+#169|@MateCheckCapture|898
 #170|@GuineaBot2|884

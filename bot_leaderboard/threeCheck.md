@@ -1,7 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@vrnts_colinbot|2266
-#2|@OpeningsBot|2007
-#3|@DavidsGuterBot|1590
-#4|@pawnrobot|1431
-#5|@MinOpponentMoves|981
+#1|@OpeningsBot|2007
+#2|@DavidsGuterBot|1600
+#3|@pawnrobot|1421
+#4|@MinOpponentMoves|980
