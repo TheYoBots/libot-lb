@@ -2667,6 +2667,7 @@ weaklean
 weakstash
 weiawaga
 weini
+weissbot
 wejbek
 wenndiesoldatbot
 weyyyyyyyyyyyyyyyyyy
@@ -2748,6 +2749,7 @@ youtube_bot223344
 yowcapablanca
 ytartofattackinchess
 yuetongbot2
+yuki_bot
 yukoo-bot
 yuligpro5
 yumaree
@@ -2765,6 +2767,7 @@ zamuchess
 zas_en_toda_la_boca
 ze_rook
 zeekat
+zeputikkubot
 zer0_tw0
 zermixalot
 zeroesandones
@@ -2782,6 +2785,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-weissbot
-zeputikkubot
-yuki_bot
+brettcomputer
