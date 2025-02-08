@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@xiang-qi|2113
 #79|@atomicli|2111
 #80|@Trumpfor2O2O|2103
-#81|@OpeningsBot|2087
+#81|@OpeningsBot|2086
 #82|@PetersTestBot|2081
 #83|@CloudBOT|2073
 #84|@JustDontFlagMe|2048
@@ -170,9 +170,9 @@ Rank|Bot|Rating
 #168|@ElFinsBoT|1238
 #169|@mertovic119|1232
 #170|@jasans_bot|1220
-#171|@MateCheckCapture|1200
-#172|@Happy_One|1196
-#173|@XiDM|1181
+#171|@Happy_One|1196
+#172|@XiDM|1181
+#173|@MateCheckCapture|1178
 #174|@Hrant_Petrosyan_BOT|1152
 #175|@BetaOneBot|1141
 #176|@GuineaBot2|1141

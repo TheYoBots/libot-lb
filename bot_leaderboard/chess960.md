@@ -9,9 +9,10 @@ Rank|Bot|Rating
 #7|@WeissBot|2071
 #8|@Cheng-4|2033
 #9|@pawn_git|2033
-#10|@pawnocchio_bot|1717
-#11|@FataliiBot|1602
-#12|@Rodent-IV|1186
-#13|@princhess_policy_bot|794
-#14|@pawnrobot|659
-#15|@MinOpponentMoves|534
+#10|@pawnocchio_bot|1725
+#11|@FataliiBot|1601
+#12|@RootEngine|1301
+#13|@Rodent-IV|1204
+#14|@princhess_policy_bot|770
+#15|@pawnrobot|665
+#16|@MinOpponentMoves|543

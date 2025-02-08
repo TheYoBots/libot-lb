@@ -55,10 +55,10 @@ Rank|Bot|Rating
 #53|@UltronBot|2197
 #54|@Viet-BOT|2185
 #55|@lightspeed_bot|2177
-#56|@ChessVBOT|2168
-#57|@Peaceful4Life|2160
-#58|@SCP079|2156
-#59|@TheMatrix2025|2140
+#56|@TheMatrix2025|2176
+#57|@ChessVBOT|2168
+#58|@Peaceful4Life|2160
+#59|@SCP079|2156
 #60|@CloudBot_v2|2131
 #61|@Johnsun|2113
 #62|@SixtyFourEngine|2089
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@Dean_Summer_Bot|1898
 #83|@vrnts_colinbot|1897
 #84|@azdad|1895
-#85|@colinbot|1887
+#85|@colinbot|1893
 #86|@The-Fastest-Bot|1885
 #87|@XXIstCentury|1875
 #88|@ChessBot3021|1872
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@Stockfish-MEDIUM|1717
 #110|@Lili-Variants|1698
 #111|@Lightning_SpeedChess|1696
-#112|@OpeningsBot|1692
+#112|@OpeningsBot|1688
 #113|@B0T5_RU13|1683
 #114|@FASTCHESSBOT|1666
 #115|@SipsonsamsonBOT|1665
@@ -197,4 +197,4 @@ Rank|Bot|Rating
 #195|@GuineaBot3|845
 #196|@MateCheckCapture|844
 #197|@TrashBot|800
-#198|@MinOpponentMoves|745
+#198|@MinOpponentMoves|744

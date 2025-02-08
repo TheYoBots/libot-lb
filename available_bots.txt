@@ -419,6 +419,7 @@ bread_engine
 breadeater_engine
 breeze-hot
 breeze_bot
+brettcomputer
 bristol_amogus
 britbot
 briton
@@ -2785,4 +2786,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-brettcomputer

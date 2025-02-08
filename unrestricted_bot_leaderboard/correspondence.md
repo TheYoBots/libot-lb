@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2915
+#1|@fibonachi|2916
 #2|@MaggiChess16|2806
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@Thera_Engine|1955
 #134|@matmoi|1954
 #135|@BOTsharpchess|1952
-#136|@zeekat|1940
+#136|@zeekat|1943
 #137|@ZE_ROOK|1938
 #138|@Los-Guerreros1|1935
 #139|@TheLegendaryKnight|1935
