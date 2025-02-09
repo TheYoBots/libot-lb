@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@SCP079|2662
 #28|@MalanChess|2638
 #29|@vrnts_colinbot|2637
-#30|@colinbot|2622
+#30|@colinbot|2628
 #31|@Kizbuurb|2621
 #32|@KingfishX|2612
 #33|@Khanh_Bot|2611
@@ -100,9 +100,9 @@ Rank|Bot|Rating
 #98|@mrchessmanager|2240
 #99|@TurkiyeHogwarts|2240
 #100|@EagleEye2021|2235
-#101|@chesshyperbot|2234
-#102|@Hyper-Stockfish|2230
-#103|@anti-bot|2229
+#101|@anti-bot|2234
+#102|@chesshyperbot|2234
+#103|@Hyper-Stockfish|2230
 #104|@CocopikachuBOT|2226
 #105|@TungJohn|2225
 #106|@Good-Game-123|2221
