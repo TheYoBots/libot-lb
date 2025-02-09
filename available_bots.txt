@@ -779,6 +779,7 @@ eatngo
 eb-chess
 echo-4
 echobot
+ed_dev_bot
 eddybarner393
 edobot
 edspbot
@@ -2786,4 +2787,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ed_dev_bot
+viictorya
