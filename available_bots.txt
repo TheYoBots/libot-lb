@@ -2630,6 +2630,7 @@ viet-ai
 viet-bot
 viet_bot
 vigneshjohanbot
+viictorya
 vimbot
 vinh_variantsbot
 vinnikk
@@ -2787,4 +2788,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-viictorya
+mocheezero
+anmols99

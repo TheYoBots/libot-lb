@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@vrnts_colinbot|1897
 #84|@azdad|1895
 #85|@The-Fastest-Bot|1885
-#86|@colinbot|1883
+#86|@colinbot|1884
 #87|@XXIstCentury|1875
 #88|@ChessBot3021|1872
 #89|@CocopikachuBOT|1868
@@ -180,7 +180,7 @@ Rank|Bot|Rating
 #178|@Grand_MefBartu-BOT|1200
 #179|@FluffBallCuddly|1191
 #180|@heatseeker223|1191
-#181|@pawnrobot|1185
+#181|@pawnrobot|1184
 #182|@ChessPlayer1225|1183
 #183|@Jannik08_fan|1163
 #184|@BSergey11-BOT|1149
@@ -197,4 +197,4 @@ Rank|Bot|Rating
 #195|@GuineaBot3|845
 #196|@MateCheckCapture|840
 #197|@TrashBot|800
-#198|@MinOpponentMoves|744
+#198|@MinOpponentMoves|759

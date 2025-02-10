@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@ResoluteBot|2525
 #18|@CatBot_14|2514
 #19|@EmptikBot|2510
-#20|@RaspFish|2506
-#21|@ibep|2498
+#20|@ibep|2498
+#21|@RaspFish|2488
 #22|@firstrobot|2485
 #23|@ShredderGrizzly|2479
 #24|@NormalBulletBot|2474
@@ -269,8 +269,8 @@ Rank|Bot|Rating
 #267|@DrunkenMasterEngine|1385
 #268|@anonymous5612|1384
 #269|@SLvov-bot|1359
-#270|@pawnrobot|1355
-#271|@ChessBotHere|1351
+#270|@ChessBotHere|1351
+#271|@pawnrobot|1348
 #272|@kazakhfirstbot|1340
 #273|@TheBullyBot|1339
 #274|@AveragePlayer757|1337
@@ -318,7 +318,7 @@ Rank|Bot|Rating
 #316|@BogoBot|945
 #317|@thousandatom|865
 #318|@MinOpponentMoves|859
-#319|@MateCheckCapture|810
+#319|@MateCheckCapture|805
 #320|@bfdzvfsgaergfds|800
 #321|@TheThanosBot|696
 #322|@BetaOneBot|690

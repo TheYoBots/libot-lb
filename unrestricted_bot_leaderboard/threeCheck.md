@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@CoderDen732|1639
 #107|@Botkingteam33|1633
 #108|@jasans_bot|1621
-#109|@DavidsGuterBot|1607
+#109|@DavidsGuterBot|1612
 #110|@newengine2022|1588
 #111|@knight_128|1563
 #112|@Alehkine_cat|1549
@@ -127,9 +127,9 @@ Rank|Bot|Rating
 #125|@Bobby_Fishcer_Bot|1458
 #126|@BOT-2021|1453
 #127|@bfdzvfsgaergfds|1444
-#128|@pawnrobot|1444
-#129|@VedanthS-Bot|1443
-#130|@Botyuliirma|1442
+#128|@VedanthS-Bot|1443
+#129|@Botyuliirma|1442
+#130|@pawnrobot|1440
 #131|@Simpafteur|1440
 #132|@MeezKool|1438
 #133|@Nobody11892|1434
