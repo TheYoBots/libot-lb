@@ -41,11 +41,11 @@ Rank|Bot|Rating
 #39|@YoBot_v2|2019
 #40|@ESC_BOT|2016
 #41|@lightspeed_bot|2010
-#42|@The-Fastest-Bot|2000
-#43|@Mega_BOT|1986
-#44|@vrnts_colinbot|1932
-#45|@Magnus-BOT|1923
-#46|@TheMatrix2025|1922
+#42|@TheMatrix2025|2010
+#43|@The-Fastest-Bot|2000
+#44|@Mega_BOT|1986
+#45|@vrnts_colinbot|1932
+#46|@Magnus-BOT|1923
 #47|@MalanChess|1921
 #48|@NormalBlitzBulletBot|1915
 #49|@XXIstCentury|1902
@@ -56,9 +56,9 @@ Rank|Bot|Rating
 #54|@TeamChelsie|1869
 #55|@B0T5_RU13|1852
 #56|@Lili-Variants|1846
-#57|@Breeze-Hot|1809
-#58|@GodelEscherBot|1805
-#59|@colinbot|1804
+#57|@colinbot|1813
+#58|@Breeze-Hot|1809
+#59|@GodelEscherBot|1805
 #60|@Yemmi-Yemmi|1799
 #61|@thibot|1789
 #62|@chessbot2880|1788
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@Botzer|1772
 #68|@CloudBOT|1758
 #69|@CocopikachuBOT|1757
-#70|@OpeningsBot|1751
+#70|@OpeningsBot|1743
 #71|@Heman36541234578|1741
 #72|@Vinh_VariantsBot|1741
 #73|@AndromedaSX1|1740
@@ -145,6 +145,6 @@ Rank|Bot|Rating
 #143|@duythong1402|1120
 #144|@alvin-chess-bot|1091
 #145|@MinOpponentMoves|936
-#146|@MateCheckCapture|915
+#146|@MateCheckCapture|930
 #147|@GuineaBot2|851
 #148|@Ramses-Chess|800

@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@ChessVBOT|2531
 #13|@Coolman2021|2527
 #14|@EmptikBot|2526
-#15|@Nebulogic|2514
-#16|@RaspFish|2513
+#15|@RaspFish|2517
+#16|@Nebulogic|2514
 #17|@SCP079|2513
 #18|@NimsiluBot|2500
 #19|@Dark_evil_bot|2496
@@ -25,8 +25,8 @@ Rank|Bot|Rating
 #23|@newengine2022|2473
 #24|@vrnts_colinbot|2462
 #25|@CocopikachuBOT|2451
-#26|@TheMatrix2025|2451
-#27|@Fairy-Stockfish|2438
+#26|@Fairy-Stockfish|2438
+#27|@TheMatrix2025|2436
 #28|@NormalBlitzBulletBot|2435
 #29|@MyNameIsWhatLOL|2432
 #30|@Bobby_Fischer_BOT|2430
@@ -44,9 +44,9 @@ Rank|Bot|Rating
 #42|@EvenMatchup|2336
 #43|@ibep|2333
 #44|@CloudBot_v2|2331
-#45|@ElPeonElectrico|2326
-#46|@chessbot2880|2323
-#47|@colinbot|2321
+#45|@colinbot|2330
+#46|@ElPeonElectrico|2326
+#47|@chessbot2880|2323
 #48|@Bot_AOOP11|2314
 #49|@KingfishX|2312
 #50|@Viet-BOT|2312
@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@Johnsun|2181
 #73|@HuxZero|2176
 #74|@AnUtterlyKarBot|2174
-#75|@OpeningsBot|2147
-#76|@knight_128|2144
+#75|@knight_128|2144
+#76|@OpeningsBot|2137
 #77|@Kizburb|2126
 #78|@mc-king-098|2124
 #79|@xiang-qi|2113

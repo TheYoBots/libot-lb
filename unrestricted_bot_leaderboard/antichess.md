@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@Nam-Robot|2537
 #53|@Dark_evil_bot|2525
 #54|@Bot_AOOP11|2521
-#55|@HyperLitikBOT|2511
-#56|@Nakshatra3|2509
+#55|@Nakshatra3|2516
+#56|@HyperLitikBOT|2511
 #57|@pistol-play|2498
 #58|@MrBOThacker|2477
 #59|@hauptschuleBOT|2475
@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@EvenMatchup|2302
 #93|@GodelEscherBot|2284
 #94|@Dean_Summer_Bot|2279
-#95|@OpeningsBot|2278
+#95|@OpeningsBot|2275
 #96|@Johnsun|2269
 #97|@SkyBlaster|2254
 #98|@mrchessmanager|2240
@@ -110,8 +110,8 @@ Rank|Bot|Rating
 #108|@SaturnBot|2214
 #109|@xDmanBOT|2214
 #110|@YellowFlash_v2|2214
-#111|@anti-bot|2209
-#112|@CoderDen732|2207
+#111|@CoderDen732|2207
+#112|@anti-bot|2205
 #113|@NormalBlitzBulletBot|2205
 #114|@EstmileBot|2200
 #115|@TheMatrix2029|2200
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@antichesssss|1964
 #135|@Menganti|1963
 #136|@CloudBOT|1950
-#137|@pawnrobot|1938
+#137|@pawnrobot|1935
 #138|@Crepusculum|1881
 #139|@NoTallkOnlyGames|1871
 #140|@Lumac0|1861
@@ -272,9 +272,9 @@ Rank|Bot|Rating
 #270|@katzebot|1016
 #271|@ZX-Chess|1000
 #272|@Epiano_Bot|986
-#273|@MateCheckCapture|961
-#274|@BetaOneBot|954
-#275|@Lozza-Bot|954
+#273|@BetaOneBot|954
+#274|@Lozza-Bot|954
+#275|@MateCheckCapture|948
 #276|@Stockfish-MEDIUM|944
 #277|@potato638|886
 #278|@KuhusBOT|822

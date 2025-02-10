@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@magnusglad_bot|2465
 #16|@EmptikBot|2454
 #17|@Viet-BOT|2448
-#18|@BitByByte|2442
+#18|@BitByByte|2444
 #19|@F0rgot|2434
 #20|@HulkBot|2387
 #21|@MehFish|2376

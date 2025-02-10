@@ -109,6 +109,7 @@ andscacs1
 anduril_engine
 angela_ce
 angryofficepanda
+anmols99
 annie_archy
 annieedison
 annihilatoru47333
@@ -1650,6 +1651,7 @@ misterrengar
 mittens-bot
 mittensthechessb0t
 mkad-106_bot
+mocheezero
 mochi_bot
 mokbot
 mon_robot
@@ -2788,5 +2790,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mocheezero
-anmols99
