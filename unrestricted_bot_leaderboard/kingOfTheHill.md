@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
 #12|@Coolman2021|2378
-#13|@Karpov_bot|2359
-#14|@AndromedaSX1|2344
-#15|@TheMatrix2025|2331
+#13|@TheMatrix2025|2360
+#14|@Karpov_bot|2359
+#15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@ttBOT|2230
 #29|@Magnus-BOT|2224
 #30|@Stockfish-MEDIUM|2224
-#31|@colinbot|2221
-#32|@SkyBlaster|2220
+#31|@SkyBlaster|2220
+#32|@colinbot|2201
 #33|@PowerOnBot|2195
 #34|@UnDisstoppableBot|2193
 #35|@Amrobotone|2184
@@ -85,8 +85,8 @@ Rank|Bot|Rating
 #83|@EagleEye2021|1880
 #84|@Galaxy_Guardian|1876
 #85|@xiang-qi|1868
-#86|@que-hyper|1865
-#87|@OpeningsBot|1863
+#86|@OpeningsBot|1866
+#87|@que-hyper|1865
 #88|@relevantproblem|1857
 #89|@Botzer|1851
 #90|@B0T5_RU13|1835

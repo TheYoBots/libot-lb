@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@NimsiluBot|2269
 #47|@Bobby_Fischer_BOT|2251
 #48|@Mega_BOT|2240
-#49|@Coolman2021|2219
-#50|@TheMatrix2025|2203
+#49|@TheMatrix2025|2224
+#50|@Coolman2021|2219
 #51|@xiang-qi|2203
 #52|@MyNameIsWhatLOL|2200
 #53|@Zer0_Tw0|2200
@@ -81,10 +81,10 @@ Rank|Bot|Rating
 #79|@AndromedaSX1|1919
 #80|@Galaxy_Guardian|1913
 #81|@PetersBot|1911
-#82|@colinbot|1903
-#83|@Dean_Summer_Bot|1898
-#84|@vrnts_colinbot|1897
-#85|@azdad|1895
+#82|@Dean_Summer_Bot|1898
+#83|@vrnts_colinbot|1897
+#84|@azdad|1895
+#85|@colinbot|1892
 #86|@The-Fastest-Bot|1885
 #87|@XXIstCentury|1875
 #88|@ChessBot3021|1872
@@ -197,4 +197,4 @@ Rank|Bot|Rating
 #195|@GuineaBot3|845
 #196|@MateCheckCapture|831
 #197|@TrashBot|800
-#198|@MinOpponentMoves|759
+#198|@MinOpponentMoves|751
