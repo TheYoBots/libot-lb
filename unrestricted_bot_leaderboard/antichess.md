@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@chesshyperbot|2234
 #102|@Hyper-Stockfish|2230
 #103|@CocopikachuBOT|2226
-#104|@anti-bot|2225
-#105|@TungJohn|2225
+#104|@TungJohn|2225
+#105|@anti-bot|2223
 #106|@Good-Game-123|2221
 #107|@The-Fastest-Bot|2218
 #108|@All_Except_Chess960|2214
@@ -274,8 +274,8 @@ Rank|Bot|Rating
 #272|@Epiano_Bot|986
 #273|@BetaOneBot|954
 #274|@Lozza-Bot|954
-#275|@MateCheckCapture|948
-#276|@Stockfish-MEDIUM|944
+#275|@Stockfish-MEDIUM|944
+#276|@MateCheckCapture|943
 #277|@potato638|886
 #278|@KuhusBOT|822
 #279|@BotSSS|800

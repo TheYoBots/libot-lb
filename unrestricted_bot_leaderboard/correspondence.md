@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@TungJohn|2126
 #71|@SLDeadshot22|2123
 #72|@LudwigBOT|2120
-#73|@RootEngine|2119
+#73|@RootEngine|2120
 #74|@JuroJ|2117
 #75|@Hien-Vinh_Bot2|2113
 #76|@Abhinav-BOT|2112

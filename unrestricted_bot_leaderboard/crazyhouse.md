@@ -23,9 +23,9 @@ Rank|Bot|Rating
 #21|@Fairy-Stockfish|2464
 #22|@Leelabotmaster|2458
 #23|@ElPeonElectrico|2454
-#24|@abhisun_bot|2444
-#25|@pistol-play|2437
-#26|@TheMatrix2029|2427
+#24|@TheMatrix2029|2448
+#25|@abhisun_bot|2444
+#26|@pistol-play|2437
 #27|@YoBot_v2|2394
 #28|@CloudBOT|2393
 #29|@NienishiEngine|2392
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@Dean_Summer_Bot|1898
 #83|@vrnts_colinbot|1897
 #84|@azdad|1895
-#85|@colinbot|1892
+#85|@colinbot|1889
 #86|@The-Fastest-Bot|1885
 #87|@XXIstCentury|1875
 #88|@ChessBot3021|1872
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@NightStarFox|1243
 #177|@Happy_One|1223
 #178|@Grand_MefBartu-BOT|1200
-#179|@pawnrobot|1196
+#179|@pawnrobot|1195
 #180|@FluffBallCuddly|1191
 #181|@heatseeker223|1191
 #182|@ChessPlayer1225|1183
@@ -191,10 +191,10 @@ Rank|Bot|Rating
 #189|@BogoBot|1099
 #190|@jasans_bot|1045
 #191|@ZX-Chess|1011
-#192|@magnusglad_bot|998
+#192|@magnusglad_bot|997
 #193|@JPSBOT|958
-#194|@RSVMentor|862
-#195|@GuineaBot3|845
-#196|@MateCheckCapture|831
+#194|@MateCheckCapture|935
+#195|@RSVMentor|862
+#196|@GuineaBot3|845
 #197|@TrashBot|800
-#198|@MinOpponentMoves|751
+#198|@MinOpponentMoves|749

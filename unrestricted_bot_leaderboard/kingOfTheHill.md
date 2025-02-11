@@ -20,10 +20,10 @@ Rank|Bot|Rating
 #18|@MalanChess|2292
 #19|@Nikitosik-ai|2288
 #20|@LudwigBOT|2281
-#21|@LoseisnotAvailablehe|2274
-#22|@bananaaaaaaaaa_test|2269
-#23|@Bobby_Fischer_BOT|2267
-#24|@RaspFish|2266
+#21|@RaspFish|2276
+#22|@LoseisnotAvailablehe|2274
+#23|@bananaaaaaaaaa_test|2269
+#24|@Bobby_Fischer_BOT|2267
 #25|@lord-bot|2258
 #26|@YoBot_v2|2242
 #27|@ResoluteBot|2233
@@ -31,10 +31,10 @@ Rank|Bot|Rating
 #29|@Magnus-BOT|2224
 #30|@Stockfish-MEDIUM|2224
 #31|@SkyBlaster|2220
-#32|@colinbot|2201
-#33|@PowerOnBot|2195
-#34|@UnDisstoppableBot|2193
-#35|@Amrobotone|2184
+#32|@PowerOnBot|2195
+#33|@UnDisstoppableBot|2193
+#34|@Amrobotone|2184
+#35|@colinbot|2179
 #36|@HuxZero|2163
 #37|@Mega_BOT|2148
 #38|@AI69|2143
@@ -169,4 +169,4 @@ Rank|Bot|Rating
 #167|@BogoBot|946
 #168|@MinOpponentMoves|917
 #169|@GuineaBot2|884
-#170|@MateCheckCapture|875
+#170|@MateCheckCapture|871
