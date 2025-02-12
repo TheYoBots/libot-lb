@@ -19,10 +19,10 @@ Rank|Bot|Rating
 #17|@Viet-BOT|2448
 #18|@BitByByte|2444
 #19|@F0rgot|2434
-#20|@HulkBot|2387
-#21|@MehFish|2376
-#22|@Mega_BOT|2371
-#23|@pawnocchio_bot|2359
+#20|@pawnocchio_bot|2400
+#21|@HulkBot|2387
+#22|@MehFish|2376
+#23|@Mega_BOT|2371
 #24|@CorrespondenceBot|2353
 #25|@duchessAI|2344
 #26|@HansNiemannBot|2338
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@Xmas_dragon|2300
 #31|@Ujwal1001|2297
 #32|@robiachess|2295
-#33|@OpeningsBot|2294
+#33|@OpeningsBot|2288
 #34|@Quanticade|2286
 #35|@mrohCentaur|2285
 #36|@Toodfish|2273
@@ -134,9 +134,9 @@ Rank|Bot|Rating
 #132|@Primer-Bot|1956
 #133|@SohamChessBot|1956
 #134|@Thera_Engine|1955
-#135|@BOTsharpchess|1952
-#136|@matmoi|1951
-#137|@zeekat|1944
+#135|@zeekat|1955
+#136|@BOTsharpchess|1952
+#137|@matmoi|1947
 #138|@ZE_ROOK|1938
 #139|@Los-Guerreros1|1935
 #140|@TheLegendaryKnight|1935

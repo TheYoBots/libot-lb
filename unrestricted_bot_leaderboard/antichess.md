@@ -96,9 +96,9 @@ Rank|Bot|Rating
 #94|@GodelEscherBot|2284
 #95|@Dean_Summer_Bot|2279
 #96|@OpeningsBot|2275
-#97|@Johnsun|2269
-#98|@SkyBlaster|2254
-#99|@anti-bot|2250
+#97|@anti-bot|2270
+#98|@Johnsun|2269
+#99|@SkyBlaster|2254
 #100|@mrchessmanager|2240
 #101|@TurkiyeHogwarts|2240
 #102|@EagleEye2021|2235
@@ -275,7 +275,7 @@ Rank|Bot|Rating
 #273|@BetaOneBot|954
 #274|@Lozza-Bot|954
 #275|@Stockfish-MEDIUM|944
-#276|@MateCheckCapture|943
+#276|@MateCheckCapture|926
 #277|@potato638|886
 #278|@KuhusBOT|822
 #279|@BotSSS|800

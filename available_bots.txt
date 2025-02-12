@@ -288,6 +288,7 @@ blackmat_leela2
 blackrider_bot
 blackrood
 blank_bot
+blankasbot1
 blasting4
 blaubarschbube44
 blauer-rausch
@@ -606,6 +607,7 @@ codingadventurebot
 codingadventuresback
 codingai
 colinbot
+colossusbot
 combilation
 combuskengine
 comeback_bot
@@ -1640,6 +1642,7 @@ mimmic
 minh_thuyet
 minhduc12
 minic-chess_engine
+minichessbot
 minimardi
 mininnue
 minopponentmoves
@@ -2790,6 +2793,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-colossusbot
-blankasbot1
-minichessbot

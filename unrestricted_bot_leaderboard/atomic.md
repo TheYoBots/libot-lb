@@ -319,7 +319,7 @@ Rank|Bot|Rating
 #317|@MinOpponentMoves|887
 #318|@thousandatom|865
 #319|@bfdzvfsgaergfds|800
-#320|@MateCheckCapture|771
+#320|@MateCheckCapture|734
 #321|@TheThanosBot|696
 #322|@BetaOneBot|690
 #323|@Ujwal1001|600
