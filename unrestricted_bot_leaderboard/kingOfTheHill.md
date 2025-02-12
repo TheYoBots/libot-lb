@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@Challengeme2anything|1307
 #146|@NoTallkOnlyGames|1291
 #147|@jasans_bot|1268
-#148|@pawnrobot|1263
+#148|@pawnrobot|1262
 #149|@ChessChipBot|1258
 #150|@Hrant_Petrosyan_BOT|1258
 #151|@HiddeNL|1242

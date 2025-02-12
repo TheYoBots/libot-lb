@@ -2790,3 +2790,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+colossusbot
+blankasbot1
+minichessbot
