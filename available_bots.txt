@@ -1338,6 +1338,7 @@ knight-to-c-sharp
 knight_128
 knight_bot
 knightlesskid
+knightlight_engine
 knightsarmour
 knucklefish
 knyazik_1
@@ -2793,4 +2794,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-knightlight_engine

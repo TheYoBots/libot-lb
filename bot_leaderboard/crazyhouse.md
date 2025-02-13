@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@OpeningsBot|1680
-#2|@MateCheckCapture|917
+#2|@MateCheckCapture|915

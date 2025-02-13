@@ -179,4 +179,4 @@ Rank|Bot|Rating
 #177|@MateCheckCapture|1070
 #178|@Simpafteur|1069
 #179|@ZX-Chess|982
-#180|@MinOpponentMoves|631
+#180|@MinOpponentMoves|624

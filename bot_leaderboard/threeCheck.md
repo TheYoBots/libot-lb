@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@OpeningsBot|1991
-#2|@DavidsGuterBot|1614
-#3|@pawnrobot|1437
+#2|@DavidsGuterBot|1626
+#3|@pawnrobot|1426
 #4|@MateCheckCapture|933
-#5|@MinOpponentMoves|915
+#5|@MinOpponentMoves|908
