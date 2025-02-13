@@ -96,8 +96,8 @@ Rank|Bot|Rating
 #94|@GodelEscherBot|2284
 #95|@Dean_Summer_Bot|2279
 #96|@OpeningsBot|2275
-#97|@anti-bot|2270
-#98|@Johnsun|2269
+#97|@Johnsun|2269
+#98|@anti-bot|2259
 #99|@SkyBlaster|2254
 #100|@mrchessmanager|2240
 #101|@TurkiyeHogwarts|2240

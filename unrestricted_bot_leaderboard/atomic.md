@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@NimsiluBot|2569
 #11|@Nikitosikbot_v2|2567
-#12|@ToromBot|2560
+#12|@ToromBot|2564
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -277,8 +277,8 @@ Rank|Bot|Rating
 #275|@Sanjana_Kambala-BOT|1337
 #276|@knight_128|1336
 #277|@DobbyBot|1334
-#278|@pawnrobot|1333
-#279|@The_A_and_D_Club|1332
+#278|@The_A_and_D_Club|1332
+#279|@pawnrobot|1331
 #280|@NOTBOTFORSURE|1327
 #281|@TheSystem_Bot|1318
 #282|@PROBROMAN|1317

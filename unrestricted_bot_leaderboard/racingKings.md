@@ -176,7 +176,7 @@ Rank|Bot|Rating
 #174|@BetaOneBot|1141
 #175|@GuineaBot2|1141
 #176|@BogoBot|1074
-#177|@MateCheckCapture|1072
+#177|@MateCheckCapture|1070
 #178|@Simpafteur|1069
 #179|@ZX-Chess|982
 #180|@MinOpponentMoves|631
