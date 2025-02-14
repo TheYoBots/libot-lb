@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@Johnsun|2181
 #73|@HuxZero|2176
 #74|@AnUtterlyKarBot|2174
-#75|@OpeningsBot|2147
+#75|@OpeningsBot|2162
 #76|@knight_128|2144
 #77|@Kizburb|2126
 #78|@mc-king-098|2124

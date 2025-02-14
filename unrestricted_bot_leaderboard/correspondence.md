@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@TESTBOT23|2000
 #123|@Zer0_Tw0|1992
 #124|@YoBot_v2|1984
-#125|@zeekat|1983
+#125|@zeekat|1984
 #126|@maello_bot|1981
 #127|@Virutor|1980
 #128|@Bobby_Fishcer_Bot|1976
