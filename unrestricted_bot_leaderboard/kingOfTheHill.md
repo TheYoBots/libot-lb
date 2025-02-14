@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@THEANDROIDBOT|1317
 #145|@Challengeme2anything|1307
 #146|@NoTallkOnlyGames|1291
-#147|@jasans_bot|1268
-#148|@pawnrobot|1262
+#147|@pawnrobot|1289
+#148|@jasans_bot|1268
 #149|@ChessChipBot|1258
 #150|@Hrant_Petrosyan_BOT|1258
 #151|@HiddeNL|1242
@@ -167,6 +167,6 @@ Rank|Bot|Rating
 #165|@Jannik08_fan|993
 #166|@thousandatom|970
 #167|@BogoBot|946
-#168|@MinOpponentMoves|915
+#168|@MinOpponentMoves|914
 #169|@GuineaBot2|884
 #170|@MateCheckCapture|871

@@ -102,10 +102,10 @@ Rank|Bot|Rating
 #100|@TurkiyeHogwarts|2240
 #101|@EagleEye2021|2235
 #102|@chesshyperbot|2234
-#103|@anti-bot|2230
-#104|@Hyper-Stockfish|2230
-#105|@CocopikachuBOT|2226
-#106|@TungJohn|2225
+#103|@Hyper-Stockfish|2230
+#104|@CocopikachuBOT|2226
+#105|@TungJohn|2225
+#106|@anti-bot|2224
 #107|@Good-Game-123|2221
 #108|@The-Fastest-Bot|2218
 #109|@All_Except_Chess960|2214

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2916
+#1|@fibonachi|2917
 #2|@MaggiChess16|2806
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@honzovy-sachy|2002
 #122|@TESTBOT23|2000
 #123|@Zer0_Tw0|1992
-#124|@YoBot_v2|1984
-#125|@zeekat|1984
+#124|@zeekat|1986
+#125|@YoBot_v2|1984
 #126|@maello_bot|1981
 #127|@Virutor|1980
 #128|@Bobby_Fishcer_Bot|1976
@@ -167,9 +167,9 @@ Rank|Bot|Rating
 #165|@Hoplites|1813
 #166|@Sub_Bot|1808
 #167|@DrMeowMeow|1800
-#168|@stockfish12_Johan|1798
-#169|@BetaOneBot|1792
-#170|@Jibbby|1792
+#168|@Jibbby|1799
+#169|@stockfish12_Johan|1798
+#170|@BetaOneBot|1792
 #171|@MagicHacker123|1792
 #172|@maia5|1792
 #173|@JPSBOT|1789
@@ -372,6 +372,6 @@ Rank|Bot|Rating
 #370|@mustaley|973
 #371|@BerserkRandomMover|963
 #372|@G0thamB0t|954
-#373|@grandQ_AI|876
+#373|@grandQ_AI|870
 #374|@GuineaBot|866
 #375|@BogoBot|865
