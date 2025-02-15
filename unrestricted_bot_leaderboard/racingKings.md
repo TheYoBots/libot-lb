@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@SkyBlaster|2603
 #5|@Viet-AI|2600
 #6|@lord-bot|2581
-#7|@ToromBot|2568
+#7|@ToromBot|2570
 #8|@Fairy_Belzedar|2559
 #9|@EmptikVariantsBot|2557
 #10|@FireFishBOT|2547
@@ -176,7 +176,7 @@ Rank|Bot|Rating
 #174|@BetaOneBot|1141
 #175|@GuineaBot2|1141
 #176|@BogoBot|1074
-#177|@MateCheckCapture|1070
+#177|@MateCheckCapture|1069
 #178|@Simpafteur|1069
 #179|@ZX-Chess|982
-#180|@MinOpponentMoves|631
+#180|@MinOpponentMoves|629

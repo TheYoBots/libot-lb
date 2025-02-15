@@ -119,11 +119,11 @@ Rank|Bot|Rating
 #117|@MalanChess|2020
 #118|@RoyalLeela|2014
 #119|@SchachProg|2010
-#120|@ElPeonElectrico|2004
-#121|@honzovy-sachy|2002
-#122|@TESTBOT23|2000
-#123|@Zer0_Tw0|1992
-#124|@zeekat|1986
+#120|@zeekat|2008
+#121|@ElPeonElectrico|2004
+#122|@honzovy-sachy|2002
+#123|@TESTBOT23|2000
+#124|@Zer0_Tw0|1992
 #125|@YoBot_v2|1984
 #126|@maello_bot|1981
 #127|@Virutor|1980

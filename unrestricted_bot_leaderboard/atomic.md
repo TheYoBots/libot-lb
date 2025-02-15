@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@NimsiluBot|2569
 #11|@Nikitosikbot_v2|2567
-#12|@ToromBot|2564
+#12|@ToromBot|2565
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@CatBot_14|2514
 #19|@EmptikBot|2510
 #20|@ibep|2498
-#21|@RaspFish|2488
-#22|@firstrobot|2485
+#21|@firstrobot|2485
+#22|@RaspFish|2482
 #23|@ShredderGrizzly|2479
 #24|@NormalBulletBot|2474
 #25|@LoseisnotAvailablehe|2466
@@ -319,7 +319,7 @@ Rank|Bot|Rating
 #317|@MinOpponentMoves|895
 #318|@thousandatom|865
 #319|@bfdzvfsgaergfds|800
-#320|@MateCheckCapture|733
+#320|@MateCheckCapture|717
 #321|@TheThanosBot|696
 #322|@BetaOneBot|690
 #323|@Ujwal1001|600
