@@ -108,8 +108,8 @@ Rank|Bot|Rating
 #106|@Sharkbot|2095
 #107|@DrSmartBugs|2077
 #108|@Einstein_NNUE|2072
-#109|@OpeningsBot|2072
-#110|@Dark_evil_bot|2071
+#109|@Dark_evil_bot|2071
+#110|@OpeningsBot|2071
 #111|@Karpov_bot|2069
 #112|@alvinl22_LBot|2068
 #113|@Simpafteur|2062
@@ -316,7 +316,7 @@ Rank|Bot|Rating
 #314|@TheLegitLegend2|1032
 #315|@ZX-Chess|946
 #316|@BogoBot|945
-#317|@MinOpponentMoves|895
+#317|@MinOpponentMoves|907
 #318|@thousandatom|865
 #319|@bfdzvfsgaergfds|800
 #320|@MateCheckCapture|717

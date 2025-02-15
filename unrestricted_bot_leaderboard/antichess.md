@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@WennDieSoldatBOT|2818
 #14|@lord-bot|2789
 #15|@FireFishBOT|2785
-#16|@RaspFish|2773
+#16|@RaspFish|2777
 #17|@VariantsTop|2765
 #18|@Viet-AI|2765
 #19|@NimsiluBot|2757
@@ -95,7 +95,7 @@ Rank|Bot|Rating
 #93|@EvenMatchup|2302
 #94|@GodelEscherBot|2284
 #95|@Dean_Summer_Bot|2279
-#96|@OpeningsBot|2275
+#96|@OpeningsBot|2278
 #97|@Johnsun|2269
 #98|@SkyBlaster|2254
 #99|@mrchessmanager|2240
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@NormalBlitzBulletBot|2205
 #114|@EstmileBot|2200
 #115|@HerokuHasnotplay|2196
-#116|@anti-bot|2190
+#116|@anti-bot|2192
 #117|@Lucror|2178
 #118|@lightspeed_bot|2152
 #119|@AntiChessBot|2142
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@antichesssss|1964
 #135|@Menganti|1963
 #136|@CloudBOT|1950
-#137|@pawnrobot|1931
+#137|@pawnrobot|1924
 #138|@Crepusculum|1881
 #139|@NoTallkOnlyGames|1871
 #140|@Lumac0|1861
@@ -261,7 +261,7 @@ Rank|Bot|Rating
 #259|@PranavChessBot|1212
 #260|@Toxic_Bot|1202
 #261|@DespacitoBot|1175
-#262|@MinOpponentMoves|1171
+#262|@MinOpponentMoves|1170
 #263|@BogoBot|1155
 #264|@thousandatom|1146
 #265|@Green_Tea_Ice_Cream|1107
