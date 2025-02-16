@@ -365,6 +365,8 @@ bot_tark
 bot_test333
 bot_to_beat
 botacik
+botalex3n
+botalexnc
 botdefoin
 botdefointesting
 boteagleeye2021
@@ -2796,5 +2798,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-botalexnc
-botalex3n
+meiron04
