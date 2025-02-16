@@ -19,9 +19,9 @@ Rank|Bot|Rating
 #17|@ResoluteBot|2525
 #18|@CatBot_14|2514
 #19|@EmptikBot|2510
-#20|@ibep|2498
-#21|@firstrobot|2485
-#22|@RaspFish|2482
+#20|@RaspFish|2505
+#21|@ibep|2498
+#22|@firstrobot|2485
 #23|@ShredderGrizzly|2479
 #24|@NormalBulletBot|2474
 #25|@LoseisnotAvailablehe|2466

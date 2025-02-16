@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@robiachess|2295
 #33|@Quanticade|2286
 #34|@mrohCentaur|2285
-#35|@OpeningsBot|2281
-#36|@Toodfish|2273
+#35|@Toodfish|2273
+#36|@OpeningsBot|2271
 #37|@Cheng-4|2269
 #38|@Blue_Mongoose|2249
 #39|@nukechess-bot|2244
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@MalanChess|2020
 #118|@RoyalLeela|2014
 #119|@SchachProg|2010
-#120|@zeekat|2008
+#120|@zeekat|2005
 #121|@ElPeonElectrico|2004
 #122|@honzovy-sachy|2002
 #123|@TESTBOT23|2000
@@ -163,11 +163,11 @@ Rank|Bot|Rating
 #161|@OurBot|1836
 #162|@Aromik_s_bot|1831
 #163|@BestJSEngine|1826
-#164|@Black_Knight2006|1815
-#165|@Hoplites|1813
-#166|@Sub_Bot|1808
-#167|@DrMeowMeow|1800
-#168|@Jibbby|1799
+#164|@Jibbby|1823
+#165|@Black_Knight2006|1815
+#166|@Hoplites|1813
+#167|@Sub_Bot|1808
+#168|@DrMeowMeow|1800
 #169|@stockfish12_Johan|1798
 #170|@BetaOneBot|1792
 #171|@MagicHacker123|1792
@@ -175,7 +175,7 @@ Rank|Bot|Rating
 #173|@JPSBOT|1789
 #174|@Nicholaswb_BOT|1788
 #175|@Heman36541234578|1786
-#176|@RadianceEngine|1786
+#176|@RadianceEngine|1784
 #177|@Variantenkoning|1781
 #178|@caissa-ai|1773
 #179|@Ymin_dragon|1773

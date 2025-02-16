@@ -1578,6 +1578,7 @@ marcsterk07
 mariana-031
 mario_5o
 marlia123456
+marsbot
 martianbot
 marvinxbot
 maslenj30
@@ -1947,6 +1948,7 @@ pranavchessbot
 pranavisthebest
 preferencesbookmove
 prestonh
+preunpatching-bot
 priessnitz
 primer-bot
 princhess_bot
@@ -2794,5 +2796,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-marsbot
-preunpatching-bot
+botalexnc
+botalex3n
