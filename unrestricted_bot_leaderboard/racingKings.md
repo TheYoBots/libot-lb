@@ -61,7 +61,7 @@ Rank|Bot|Rating
 #59|@ESC_BOT|2253
 #60|@relevantproblem|2251
 #61|@GodelEscherBot|2244
-#62|@OpeningsBot|2232
+#62|@OpeningsBot|2226
 #63|@ResoluteBot|2225
 #64|@XXIstCentury|2225
 #65|@Resolved-Bot|2223

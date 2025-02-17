@@ -13,13 +13,13 @@ Rank|Bot|Rating
 #11|@Nikitosikbot_v2|2567
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@ToromBot|2544
+#14|@ToromBot|2546
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
 #18|@CatBot_14|2514
-#19|@EmptikBot|2510
-#20|@RaspFish|2505
+#19|@RaspFish|2514
+#20|@EmptikBot|2510
 #21|@ibep|2498
 #22|@firstrobot|2485
 #23|@ShredderGrizzly|2479

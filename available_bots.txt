@@ -365,6 +365,8 @@ bot_tark
 bot_test333
 bot_to_beat
 botacik
+botalex1n
+botalex2n
 botalex3n
 botalexnc
 botdefoin
@@ -2799,5 +2801,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-botalex2n
-botalex1n
+yukaribot
+terconari
+botalexcandidatom

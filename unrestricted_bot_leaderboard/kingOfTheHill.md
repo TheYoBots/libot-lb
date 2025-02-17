@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@MistakeBOT|1886
 #83|@EagleEye2021|1880
 #84|@Galaxy_Guardian|1876
-#85|@OpeningsBot|1869
+#85|@OpeningsBot|1871
 #86|@xiang-qi|1868
 #87|@que-hyper|1865
 #88|@relevantproblem|1857
@@ -146,7 +146,7 @@ Rank|Bot|Rating
 #144|@THEANDROIDBOT|1317
 #145|@Challengeme2anything|1307
 #146|@NoTallkOnlyGames|1291
-#147|@pawnrobot|1281
+#147|@pawnrobot|1279
 #148|@jasans_bot|1268
 #149|@ChessChipBot|1258
 #150|@Hrant_Petrosyan_BOT|1258

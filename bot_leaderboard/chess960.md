@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@colinbot|2340
-#2|@ToromBot|2329
+#2|@ToromBot|2331
 #3|@PetersBot|2293
 #4|@RaspFish|2276
 #5|@Nimfish|2137
@@ -10,12 +10,11 @@ Rank|Bot|Rating
 #8|@pawn_git|2010
 #9|@PatriciaBot|1986
 #10|@pawnocchio_bot|1869
-#11|@Cheng-4|1865
+#11|@Cheng-4|1867
 #12|@ColossusBOT|1684
-#13|@FataliiBot|1568
+#13|@FataliiBot|1565
 #14|@RootEngine|1366
-#15|@Rodent-IV|1110
-#16|@princhess_policy_bot|776
-#17|@pawnrobot|679
-#18|@MinOpponentMoves|576
-#19|@MateCheckCapture|461
+#15|@Rodent-IV|1113
+#16|@pawnrobot|675
+#17|@MinOpponentMoves|576
+#18|@MateCheckCapture|457
