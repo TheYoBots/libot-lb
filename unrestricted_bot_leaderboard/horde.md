@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@VariantsBot|3019
-#2|@Viet-AI|2915
-#3|@ToromBot|2914
+#2|@ToromBot|2917
+#3|@Viet-AI|2915
 #4|@NimsiluBot|2901
 #5|@Fairy_Belzedar|2857
 #6|@Nikitosikbot_v2|2823

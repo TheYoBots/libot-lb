@@ -180,9 +180,9 @@ Rank|Bot|Rating
 #178|@Grand_MefBartu-BOT|1200
 #179|@FluffBallCuddly|1191
 #180|@heatseeker223|1191
-#181|@pawnrobot|1188
-#182|@ChessPlayer1225|1183
-#183|@Jannik08_fan|1163
+#181|@ChessPlayer1225|1183
+#182|@Jannik08_fan|1163
+#183|@pawnrobot|1153
 #184|@BSergey11-BOT|1149
 #185|@K_Shi_Bot|1149
 #186|@TeamChelsie|1125
@@ -193,7 +193,7 @@ Rank|Bot|Rating
 #191|@ZX-Chess|1011
 #192|@magnusglad_bot|997
 #193|@JPSBOT|958
-#194|@MateCheckCapture|917
+#194|@MateCheckCapture|925
 #195|@RSVMentor|862
 #196|@GuineaBot3|845
 #197|@TrashBot|800

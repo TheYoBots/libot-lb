@@ -1625,6 +1625,7 @@ megabeedrillbot
 megabotquan
 megalodon-bot
 mehfish
+meiron04
 meisok
 melphess
 melsh_bot
@@ -2798,4 +2799,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-meiron04
+botalex2n
+botalex1n

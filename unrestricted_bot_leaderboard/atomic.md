@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@NimsiluBot|2569
 #11|@Nikitosikbot_v2|2567
-#12|@ToromBot|2565
-#13|@UltronBot|2556
-#14|@Viet-AI|2556
+#12|@UltronBot|2556
+#13|@Viet-AI|2556
+#14|@ToromBot|2544
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
