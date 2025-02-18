@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@Yemmi-Yemmi|1702
 #103|@clueless-bot|1685
 #104|@NormalBulletBot|1657
-#105|@DavidsGuterBot|1648
+#105|@DavidsGuterBot|1653
 #106|@the_checkmating_bot|1643
 #107|@CoderDen732|1639
 #108|@Botkingteam33|1633
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@Kyle_0111|1421
 #136|@azdad|1420
 #137|@Peaceful4Life|1412
-#138|@pawnrobot|1401
+#138|@pawnrobot|1398
 #139|@RochadeSchachzeitung|1392
 #140|@MasterofChessBOT800|1391
 #141|@HiddeNL|1385

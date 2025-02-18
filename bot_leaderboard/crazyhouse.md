@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MateCheckCapture|925
+#1|@MateCheckCapture|933

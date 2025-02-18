@@ -368,6 +368,7 @@ botacik
 botalex1n
 botalex2n
 botalex3n
+botalexcandidatom
 botalexnc
 botdefoin
 botdefointesting
@@ -2414,6 +2415,7 @@ telefon2232_bot
 temporai
 tenborg
 tensorpupper
+terconari
 terfly
 terminator_xe
 terrariabot
@@ -2765,6 +2767,7 @@ youtube_bot223344
 yowcapablanca
 ytartofattackinchess
 yuetongbot2
+yukaribot
 yuki_bot
 yukoo-bot
 yuligpro5
@@ -2801,6 +2804,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-yukaribot
-terconari
-botalexcandidatom
+torch3
+botalexmi
+botalexm
