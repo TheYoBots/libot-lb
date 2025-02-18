@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@GodelEscherBot|2244
 #62|@ResoluteBot|2225
 #63|@XXIstCentury|2225
-#64|@OpeningsBot|2223
-#65|@Resolved-Bot|2223
+#64|@Resolved-Bot|2223
+#65|@OpeningsBot|2216
 #66|@HerokuHasnotplay|2215
 #67|@Zer0_Tw0|2210
 #68|@AIAlphaAI|2200

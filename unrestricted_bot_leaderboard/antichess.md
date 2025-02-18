@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@WennDieSoldatBOT|2818
 #14|@lord-bot|2789
 #15|@FireFishBOT|2785
-#16|@RaspFish|2777
+#16|@RaspFish|2782
 #17|@VariantsTop|2765
 #18|@Viet-AI|2765
 #19|@NimsiluBot|2757
@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@Nam-Robot|2537
 #53|@Dark_evil_bot|2525
 #54|@Bot_AOOP11|2521
-#55|@Nakshatra3|2513
-#56|@HyperLitikBOT|2511
+#55|@HyperLitikBOT|2511
+#56|@Nakshatra3|2509
 #57|@pistol-play|2498
 #58|@MrBOThacker|2477
 #59|@hauptschuleBOT|2475
@@ -100,11 +100,11 @@ Rank|Bot|Rating
 #98|@SkyBlaster|2254
 #99|@mrchessmanager|2240
 #100|@TurkiyeHogwarts|2240
-#101|@anti-bot|2237
-#102|@EagleEye2021|2235
-#103|@chesshyperbot|2234
-#104|@Hyper-Stockfish|2230
-#105|@CocopikachuBOT|2226
+#101|@EagleEye2021|2235
+#102|@chesshyperbot|2234
+#103|@Hyper-Stockfish|2230
+#104|@CocopikachuBOT|2226
+#105|@anti-bot|2225
 #106|@TungJohn|2225
 #107|@Good-Game-123|2221
 #108|@The-Fastest-Bot|2218

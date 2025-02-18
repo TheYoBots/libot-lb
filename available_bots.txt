@@ -369,6 +369,8 @@ botalex1n
 botalex2n
 botalex3n
 botalexcandidatom
+botalexm
+botalexmi
 botalexnc
 botdefoin
 botdefointesting
@@ -2529,6 +2531,7 @@ topple
 torbot
 torbot_sl
 torbot_v2
+torch3
 tornejoscapdesetmana
 torombot
 toromlc0
@@ -2804,6 +2807,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-torch3
-botalexmi
-botalexm
+botalexcandidatem
+botalexgrandmaster
+humantrainedbot

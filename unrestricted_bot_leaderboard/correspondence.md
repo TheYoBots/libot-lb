@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2918
+#1|@fibonachi|2921
 #2|@MaggiChess16|2806
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
@@ -8,12 +8,12 @@ Rank|Bot|Rating
 #6|@PetersBot|2584
 #7|@pawn_git|2561
 #8|@peonasesino71|2512
-#9|@ServerFish|2494
-#10|@colinbot|2492
-#11|@Bingo202|2484
-#12|@TorBot|2475
-#13|@Viet-AI|2471
-#14|@ChamberiAjedrez|2470
+#9|@ChamberiAjedrez|2495
+#10|@ServerFish|2494
+#11|@colinbot|2492
+#12|@Bingo202|2484
+#13|@TorBot|2475
+#14|@Viet-AI|2471
 #15|@magnusglad_bot|2465
 #16|@EmptikBot|2454
 #17|@Viet-BOT|2448
@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@Quanticade|2286
 #34|@mrohCentaur|2285
 #35|@Toodfish|2273
-#36|@OpeningsBot|2271
-#37|@Cheng-4|2269
+#36|@Cheng-4|2269
+#37|@OpeningsBot|2267
 #38|@Blue_Mongoose|2249
 #39|@nukechess-bot|2244
 #40|@SicilianViper|2243
