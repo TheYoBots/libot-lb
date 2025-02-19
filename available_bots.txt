@@ -368,7 +368,9 @@ botacik
 botalex1n
 botalex2n
 botalex3n
+botalexcandidatem
 botalexcandidatom
+botalexgrandmaster
 botalexm
 botalexmi
 botalexnc
@@ -1151,6 +1153,7 @@ humanbot_1
 humanbot_lv1929
 humanian
 humanteambot
+humantrainedbot
 humbletestbot
 hummus-bot
 humuhumunukunukuapu
@@ -2807,6 +2810,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-botalexcandidatem
-botalexgrandmaster
-humantrainedbot

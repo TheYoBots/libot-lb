@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@Quanticade|2286
 #34|@mrohCentaur|2285
 #35|@Toodfish|2273
-#36|@Cheng-4|2269
-#37|@OpeningsBot|2267
+#36|@OpeningsBot|2271
+#37|@Cheng-4|2269
 #38|@Blue_Mongoose|2249
 #39|@nukechess-bot|2244
 #40|@SicilianViper|2243
@@ -120,8 +120,8 @@ Rank|Bot|Rating
 #118|@MalanChess|2020
 #119|@RoyalLeela|2014
 #120|@SchachProg|2010
-#121|@zeekat|2005
-#122|@ElPeonElectrico|2004
+#121|@ElPeonElectrico|2004
+#122|@zeekat|2003
 #123|@honzovy-sachy|2002
 #124|@TESTBOT23|2000
 #125|@Zer0_Tw0|1992
@@ -162,8 +162,8 @@ Rank|Bot|Rating
 #160|@natural-disaster|1853
 #161|@Rinestro|1837
 #162|@OurBot|1836
-#163|@Jibbby|1833
-#164|@Aromik_s_bot|1831
+#163|@Aromik_s_bot|1831
+#164|@Jibbby|1831
 #165|@BestJSEngine|1826
 #166|@Black_Knight2006|1815
 #167|@Hoplites|1813
