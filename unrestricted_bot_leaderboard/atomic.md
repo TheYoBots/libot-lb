@@ -13,12 +13,12 @@ Rank|Bot|Rating
 #11|@Nikitosikbot_v2|2567
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@ToromBot|2546
+#14|@ToromBot|2542
 #15|@ttBOT|2540
-#16|@BitExtender128|2526
-#17|@ResoluteBot|2525
-#18|@CatBot_14|2514
-#19|@RaspFish|2514
+#16|@RaspFish|2527
+#17|@BitExtender128|2526
+#18|@ResoluteBot|2525
+#19|@CatBot_14|2514
 #20|@EmptikBot|2510
 #21|@ibep|2498
 #22|@firstrobot|2485
@@ -318,7 +318,7 @@ Rank|Bot|Rating
 #316|@MinOpponentMoves|907
 #317|@thousandatom|865
 #318|@bfdzvfsgaergfds|800
-#319|@MateCheckCapture|714
+#319|@MateCheckCapture|724
 #320|@TheThanosBot|696
 #321|@BetaOneBot|690
 #322|@Ujwal1001|600

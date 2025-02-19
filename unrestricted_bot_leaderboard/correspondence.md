@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Nikitosik-ai|2714
 #5|@H-Zero|2650
 #6|@PetersBot|2584
-#7|@pawn_git|2561
+#7|@pawn_git|2568
 #8|@peonasesino71|2512
 #9|@ChamberiAjedrez|2495
 #10|@ServerFish|2494
@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@Quanticade|2286
 #34|@mrohCentaur|2285
 #35|@Toodfish|2273
-#36|@OpeningsBot|2271
-#37|@Cheng-4|2269
+#36|@Cheng-4|2269
+#37|@OpeningsBot|2269
 #38|@Blue_Mongoose|2249
 #39|@nukechess-bot|2244
 #40|@SicilianViper|2243

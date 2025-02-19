@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@BetaOneBot|954
 #273|@Lozza-Bot|954
 #274|@Stockfish-MEDIUM|944
-#275|@MateCheckCapture|925
+#275|@MateCheckCapture|920
 #276|@potato638|886
 #277|@KuhusBOT|822
 #278|@BotSSS|800

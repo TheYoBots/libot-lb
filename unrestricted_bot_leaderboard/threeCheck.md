@@ -168,6 +168,6 @@ Rank|Bot|Rating
 #166|@ZX-Chess|1063
 #167|@GuineaBot3|972
 #168|@BogoBot|928
-#169|@MinOpponentMoves|907
-#170|@MateCheckCapture|906
-#171|@TheSystem_Bot|905
+#169|@TheSystem_Bot|905
+#170|@MinOpponentMoves|904
+#171|@MateCheckCapture|887
