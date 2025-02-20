@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@bananaaaaaaaaa_test|1942
 #78|@chessbot2880|1921
 #79|@AndromedaSX1|1919
-#80|@Galaxy_Guardian|1913
+#80|@Galaxy_Guardian|1919
 #81|@PetersBot|1911
 #82|@Dean_Summer_Bot|1898
 #83|@vrnts_colinbot|1897
@@ -192,8 +192,8 @@ Rank|Bot|Rating
 #190|@ZX-Chess|1011
 #191|@magnusglad_bot|997
 #192|@JPSBOT|958
-#193|@MateCheckCapture|884
+#193|@MateCheckCapture|864
 #194|@RSVMentor|862
 #195|@GuineaBot3|845
-#196|@MinOpponentMoves|832
+#196|@MinOpponentMoves|831
 #197|@TrashBot|800

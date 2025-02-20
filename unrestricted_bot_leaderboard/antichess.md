@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@EagleEye2021|2235
 #101|@chesshyperbot|2234
 #102|@Hyper-Stockfish|2230
-#103|@anti-bot|2227
+#103|@anti-bot|2229
 #104|@CocopikachuBOT|2226
 #105|@TungJohn|2225
 #106|@Good-Game-123|2221
@@ -274,9 +274,9 @@ Rank|Bot|Rating
 #272|@BetaOneBot|954
 #273|@Lozza-Bot|954
 #274|@Stockfish-MEDIUM|944
-#275|@MateCheckCapture|920
-#276|@potato638|886
-#277|@KuhusBOT|822
-#278|@BotSSS|800
-#279|@Ujwal1001|800
+#275|@potato638|886
+#276|@KuhusBOT|822
+#277|@BotSSS|800
+#278|@Ujwal1001|800
+#279|@MateCheckCapture|680
 #280|@queen_stase_approx|631

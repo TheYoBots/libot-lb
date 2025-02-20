@@ -222,11 +222,11 @@ Rank|Bot|Rating
 #220|@Chess_omar_2009|1575
 #221|@Pineapple-Friendly|1569
 #222|@Bottios|1563
-#223|@AntarticAnonymous|1553
-#224|@HiddeNL|1551
-#225|@knight_BOT|1539
-#226|@que-hyper|1539
-#227|@katzebot|1538
+#223|@katzebot|1563
+#224|@AntarticAnonymous|1553
+#225|@HiddeNL|1551
+#226|@knight_BOT|1539
+#227|@que-hyper|1539
 #228|@VedanthS-Bot|1538
 #229|@NEENA-2-BOT|1529
 #230|@PyChessBot|1527
@@ -318,7 +318,7 @@ Rank|Bot|Rating
 #316|@MinOpponentMoves|900
 #317|@thousandatom|865
 #318|@bfdzvfsgaergfds|800
-#319|@MateCheckCapture|717
-#320|@TheThanosBot|696
-#321|@BetaOneBot|690
+#319|@TheThanosBot|696
+#320|@BetaOneBot|690
+#321|@MateCheckCapture|690
 #322|@Ujwal1001|600

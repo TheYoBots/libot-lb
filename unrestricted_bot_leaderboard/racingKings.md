@@ -60,9 +60,9 @@ Rank|Bot|Rating
 #58|@ESC_BOT|2253
 #59|@relevantproblem|2251
 #60|@GodelEscherBot|2244
-#61|@OpeningsBot|2233
-#62|@ResoluteBot|2225
-#63|@XXIstCentury|2225
+#61|@ResoluteBot|2225
+#62|@XXIstCentury|2225
+#63|@OpeningsBot|2224
 #64|@Resolved-Bot|2223
 #65|@HerokuHasnotplay|2215
 #66|@Zer0_Tw0|2210
@@ -176,6 +176,6 @@ Rank|Bot|Rating
 #174|@GuineaBot2|1141
 #175|@BogoBot|1074
 #176|@Simpafteur|1069
-#177|@MateCheckCapture|1046
+#177|@MateCheckCapture|1011
 #178|@ZX-Chess|982
 #179|@MinOpponentMoves|640
