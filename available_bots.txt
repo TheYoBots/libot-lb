@@ -2519,6 +2519,7 @@ tiraelsedaibot
 tissouslebot
 tjchessbot
 tkgue
+tle-of-water
 tmfish
 tobegen
 tokenstealer
@@ -2810,4 +2811,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-tle-of-water
