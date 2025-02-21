@@ -1649,6 +1649,7 @@ micahmoore
 michabay05
 middlegame_engine
 midnightbot
+midnyght
 mikhailtal_ai
 mikhailtal_jp
 mimmic
@@ -2811,4 +2812,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-midnyght
