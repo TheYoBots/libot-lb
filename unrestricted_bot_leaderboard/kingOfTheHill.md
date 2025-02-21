@@ -84,8 +84,8 @@ Rank|Bot|Rating
 #82|@MistakeBOT|1886
 #83|@EagleEye2021|1880
 #84|@Galaxy_Guardian|1876
-#85|@OpeningsBot|1874
-#86|@xiang-qi|1868
+#85|@xiang-qi|1868
+#86|@OpeningsBot|1866
 #87|@que-hyper|1865
 #88|@relevantproblem|1857
 #89|@Botzer|1851

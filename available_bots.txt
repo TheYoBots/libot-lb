@@ -2812,3 +2812,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+stockfish_13-1
+matrixmovebot80
