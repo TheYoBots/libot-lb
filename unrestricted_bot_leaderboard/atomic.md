@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@SugarAndSpice|2102
 #105|@Botzer|2097
 #106|@Sharkbot|2095
-#107|@OpeningsBot|2081
+#107|@OpeningsBot|2083
 #108|@DrSmartBugs|2077
 #109|@Einstein_NNUE|2072
 #110|@Dark_evil_bot|2071
@@ -219,10 +219,10 @@ Rank|Bot|Rating
 #217|@JustAnother_BOT|1589
 #218|@OpLdksijfKJ|1589
 #219|@PROBOT123567|1589
-#220|@Chess_omar_2009|1575
-#221|@Pineapple-Friendly|1569
-#222|@Bottios|1563
-#223|@katzebot|1563
+#220|@katzebot|1582
+#221|@Chess_omar_2009|1575
+#222|@Pineapple-Friendly|1569
+#223|@Bottios|1563
 #224|@AntarticAnonymous|1553
 #225|@HiddeNL|1551
 #226|@knight_BOT|1539
@@ -315,7 +315,7 @@ Rank|Bot|Rating
 #313|@TheLegitLegend2|1032
 #314|@ZX-Chess|946
 #315|@BogoBot|945
-#316|@MinOpponentMoves|909
+#316|@MinOpponentMoves|906
 #317|@thousandatom|865
 #318|@bfdzvfsgaergfds|800
 #319|@TheThanosBot|696

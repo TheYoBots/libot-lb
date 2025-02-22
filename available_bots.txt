@@ -1609,6 +1609,7 @@ matecheckcapture
 materialisoverrated
 matmoi
 matrix-ai
+matrixmovebot80
 mattaberk-bot
 max_bot
 maximumef
@@ -2318,6 +2319,7 @@ stockfish1node
 stockfish2021
 stockfish224
 stockfish9-fullpower
+stockfish_13-1
 stockfish_dev
 stockfish_i7
 stockfish_johan
@@ -2812,5 +2814,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-stockfish_13-1
-matrixmovebot80
+thinkingpileorubbish
+corr_sunfish
