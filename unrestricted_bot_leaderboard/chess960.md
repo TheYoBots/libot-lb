@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@gc1bot|2084
 #110|@cheeseNet|2081
 #111|@Mittens-Bot|2081
-#112|@OpeningsBot|2077
-#113|@Vinh_VariantsBot|2076
+#112|@Vinh_VariantsBot|2076
+#113|@OpeningsBot|2075
 #114|@mrohBOT|2074
 #115|@WeissBot|2071
 #116|@Nebulogic|2067
@@ -140,9 +140,9 @@ Rank|Bot|Rating
 #138|@pistol-play|2032
 #139|@CrayyBot|2030
 #140|@Hagfish|2030
-#141|@Coolman2021|2028
-#142|@HiarcsFish|2028
-#143|@PatriciaBot|2027
+#141|@PatriciaBot|2029
+#142|@Coolman2021|2028
+#143|@HiarcsFish|2028
 #144|@Beyondcomprehension|2024
 #145|@EmptikBot247|2022
 #146|@DeepChessEngine|2020
@@ -156,8 +156,8 @@ Rank|Bot|Rating
 #154|@CarlsenCantBeatMe|2009
 #155|@vodkabot|2008
 #156|@chessbot2880|2007
-#157|@pawn_git|2006
-#158|@HyperLitikBOT|2005
+#157|@HyperLitikBOT|2005
+#158|@pawn_git|2005
 #159|@HiddeNL|2004
 #160|@fougade|2003
 #161|@AivanJ10|2002
@@ -209,9 +209,9 @@ Rank|Bot|Rating
 #207|@Viet-BOT|1917
 #208|@EndoKingsSpade|1911
 #209|@WennDieSoldatBOT|1910
-#210|@StockfishPower|1909
-#211|@ProteusSF|1903
-#212|@pawnocchio_bot|1902
+#210|@pawnocchio_bot|1909
+#211|@StockfishPower|1909
+#212|@ProteusSF|1903
 #213|@RobotTigerSlav|1902
 #214|@Leelabotmaster|1895
 #215|@Maximumef|1895
@@ -238,7 +238,7 @@ Rank|Bot|Rating
 #236|@PerseveranceRover|1851
 #237|@Sovereign_bot|1851
 #238|@TheEnsemble|1851
-#239|@Cheng-4|1849
+#239|@Cheng-4|1845
 #240|@Test_God_50_BOT|1843
 #241|@GodelEscherBot|1837
 #242|@Lili-Variants|1834
@@ -314,7 +314,7 @@ Rank|Bot|Rating
 #312|@lightspeed_bot|1571
 #313|@XXXTryandTryXXX|1569
 #314|@itsafakeusername2k1|1562
-#315|@FataliiBot|1546
+#315|@FataliiBot|1547
 #316|@jumbot|1545
 #317|@Less_of_a_threat|1542
 #318|@Just-a-random-bot|1541
@@ -352,7 +352,7 @@ Rank|Bot|Rating
 #350|@camel_bot|1421
 #351|@TheSystem_Bot|1416
 #352|@jasans_bot|1396
-#353|@ThinkingPileORubbish|1392
+#353|@ThinkingPileORubbish|1394
 #354|@NienishiEngine|1388
 #355|@All_Except_Chess960|1387
 #356|@B0T5_RU13|1385
@@ -406,9 +406,9 @@ Rank|Bot|Rating
 #404|@alan_bot|1134
 #405|@Light_To_The_Rescue|1126
 #406|@ZX-Chess|1119
-#407|@Jobabot|1110
-#408|@Dummyette|1107
-#409|@Rodent-IV|1105
+#407|@Rodent-IV|1113
+#408|@Jobabot|1110
+#409|@Dummyette|1107
 #410|@Demolito_L4|1103
 #411|@LeElaGuess|1049
 #412|@SneakyBot21|1025
@@ -431,5 +431,5 @@ Rank|Bot|Rating
 #429|@LeelaWeak|735
 #430|@FelixLeonidovich|730
 #431|@pawnrobot|674
-#432|@MinOpponentMoves|570
+#432|@MinOpponentMoves|567
 #433|@konaz|400

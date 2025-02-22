@@ -92,11 +92,11 @@ Rank|Bot|Rating
 #90|@NienishiEngine|2304
 #91|@BromiumAI|2302
 #92|@EvenMatchup|2302
-#93|@GodelEscherBot|2284
-#94|@Dean_Summer_Bot|2279
-#95|@OpeningsBot|2274
-#96|@Johnsun|2269
-#97|@anti-bot|2255
+#93|@anti-bot|2296
+#94|@GodelEscherBot|2284
+#95|@Dean_Summer_Bot|2279
+#96|@OpeningsBot|2274
+#97|@Johnsun|2269
 #98|@SkyBlaster|2254
 #99|@mrchessmanager|2240
 #100|@TurkiyeHogwarts|2240
@@ -261,8 +261,8 @@ Rank|Bot|Rating
 #259|@Toxic_Bot|1202
 #260|@DespacitoBot|1175
 #261|@BogoBot|1155
-#262|@thousandatom|1146
-#263|@MinOpponentMoves|1138
+#262|@MinOpponentMoves|1155
+#263|@thousandatom|1146
 #264|@Green_Tea_Ice_Cream|1107
 #265|@Md211bot|1107
 #266|@The_dragon_bot|1076
