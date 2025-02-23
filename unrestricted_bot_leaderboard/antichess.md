@@ -92,9 +92,9 @@ Rank|Bot|Rating
 #90|@NienishiEngine|2304
 #91|@BromiumAI|2302
 #92|@EvenMatchup|2302
-#93|@anti-bot|2284
-#94|@GodelEscherBot|2284
-#95|@Dean_Summer_Bot|2279
+#93|@GodelEscherBot|2284
+#94|@Dean_Summer_Bot|2279
+#95|@anti-bot|2276
 #96|@OpeningsBot|2274
 #97|@Johnsun|2269
 #98|@SkyBlaster|2254
@@ -259,9 +259,9 @@ Rank|Bot|Rating
 #257|@chicken_farmer|1241
 #258|@PranavChessBot|1212
 #259|@Toxic_Bot|1202
-#260|@DespacitoBot|1175
-#261|@BogoBot|1155
-#262|@MinOpponentMoves|1155
+#260|@MinOpponentMoves|1183
+#261|@DespacitoBot|1175
+#262|@BogoBot|1155
 #263|@thousandatom|1146
 #264|@Green_Tea_Ice_Cream|1107
 #265|@Md211bot|1107
@@ -278,4 +278,5 @@ Rank|Bot|Rating
 #276|@KuhusBOT|822
 #277|@BotSSS|800
 #278|@Ujwal1001|800
-#279|@queen_stase_approx|631
+#279|@MateCheckCapture|675
+#280|@queen_stase_approx|631

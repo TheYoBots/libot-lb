@@ -297,8 +297,8 @@ Rank|Bot|Rating
 #295|@PolyBOT|1481
 #296|@YagizTurkiyeBOT|1476
 #297|@MRT23|1469
-#298|@TheSystem_Bot|1466
-#299|@katzebot|1464
+#298|@katzebot|1468
+#299|@TheSystem_Bot|1466
 #300|@Mate-AI|1454
 #301|@dtsudo|1449
 #302|@CheezyGlizzyEater|1444
@@ -373,6 +373,6 @@ Rank|Bot|Rating
 #371|@mustaley|973
 #372|@BerserkRandomMover|963
 #373|@G0thamB0t|954
-#374|@grandQ_AI|871
+#374|@grandQ_AI|886
 #375|@GuineaBot|866
 #376|@BogoBot|865

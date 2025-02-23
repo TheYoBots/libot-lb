@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Nikitosikbot_v2|2567
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@ToromBot|2542
+#14|@ToromBot|2543
 #15|@ttBOT|2540
 #16|@RaspFish|2536
 #17|@BitExtender128|2526
@@ -315,9 +315,10 @@ Rank|Bot|Rating
 #313|@TheLegitLegend2|1032
 #314|@ZX-Chess|946
 #315|@BogoBot|945
-#316|@MinOpponentMoves|926
+#316|@MinOpponentMoves|923
 #317|@thousandatom|865
 #318|@bfdzvfsgaergfds|800
 #319|@TheThanosBot|696
 #320|@BetaOneBot|690
-#321|@Ujwal1001|600
+#321|@MateCheckCapture|680
+#322|@Ujwal1001|600

@@ -350,6 +350,7 @@ bot8983
 bot_adario
 bot_aoop11
 bot_aoop9_2
+bot_astral
 bot_awsome_stockfish
 bot_bot_bot_robot
 bot_elvisthecat
@@ -2816,4 +2817,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bot_astral
+hchessbot
+cinder-bot
