@@ -227,8 +227,8 @@ Rank|Bot|Rating
 #225|@KleinerTiger2|1872
 #226|@Official_bot|1872
 #227|@blue_lightningdragon|1867
-#228|@XMetropolanXBanner|1864
-#229|@Cheng-4|1863
+#228|@Cheng-4|1865
+#229|@XMetropolanXBanner|1864
 #230|@SkyAttacker|1863
 #231|@newengine2022|1858
 #232|@dumb_by_abulmo-bot|1857
@@ -404,8 +404,8 @@ Rank|Bot|Rating
 #402|@WeakBot|1151
 #403|@St6090|1149
 #404|@alan_bot|1134
-#405|@Light_To_The_Rescue|1126
-#406|@Rodent-IV|1124
+#405|@Rodent-IV|1127
+#406|@Light_To_The_Rescue|1126
 #407|@ZX-Chess|1119
 #408|@Jobabot|1110
 #409|@Dummyette|1107
@@ -430,7 +430,7 @@ Rank|Bot|Rating
 #428|@princhess_policy_bot|776
 #429|@LeelaWeak|735
 #430|@FelixLeonidovich|730
-#431|@pawnrobot|674
-#432|@MinOpponentMoves|590
+#431|@pawnrobot|670
+#432|@MinOpponentMoves|588
 #433|@MateCheckCapture|479
 #434|@konaz|400

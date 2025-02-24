@@ -593,6 +593,7 @@ chokefish
 chompbot
 christophercolomb
 chunguszero
+cinder-bot
 cizme
 cleobot
 clompdev
@@ -1097,6 +1098,7 @@ having_a_blunderfult
 havocbot
 hawaiibot
 hawke_bot
+hchessbot
 heatseeker223
 heckerbot
 heckno2021
@@ -2817,5 +2819,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-hchessbot
-cinder-bot

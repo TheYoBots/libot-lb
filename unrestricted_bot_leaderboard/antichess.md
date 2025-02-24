@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@EvenMatchup|2302
 #93|@GodelEscherBot|2284
 #94|@Dean_Summer_Bot|2279
-#95|@anti-bot|2276
+#95|@anti-bot|2277
 #96|@OpeningsBot|2274
 #97|@Johnsun|2269
 #98|@SkyBlaster|2254

@@ -10,10 +10,10 @@ Rank|Bot|Rating
 #8|@PatriciaBot|2037
 #9|@pawn_git|2022
 #10|@pawnocchio_bot|1878
-#11|@Cheng-4|1863
+#11|@Cheng-4|1865
 #12|@FataliiBot|1564
 #13|@littlePatricia|1311
-#14|@Rodent-IV|1124
-#15|@pawnrobot|674
-#16|@MinOpponentMoves|590
+#14|@Rodent-IV|1127
+#15|@pawnrobot|670
+#16|@MinOpponentMoves|588
 #17|@MateCheckCapture|479

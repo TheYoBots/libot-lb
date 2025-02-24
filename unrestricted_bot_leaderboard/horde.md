@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@AndromedaSX1|1740
 #73|@dream_bot|1739
 #74|@YoBot_v1|1739
-#75|@OpeningsBot|1736
+#75|@OpeningsBot|1738
 #76|@ChessChildren|1730
 #77|@Johnsun|1721
 #78|@Viet-BOT|1720
@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@Nicholaswb_BOT|1288
 #126|@AEBROADUSBOTTER|1279
 #127|@ReallyCrazyBOT|1279
-#128|@pawnrobot|1274
+#128|@pawnrobot|1272
 #129|@AbhijithHISBot|1258
 #130|@Humuhumunukunukuapu|1258
 #131|@Jannik08_fan|1258
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@ZX-Chess|1145
 #143|@duythong1402|1120
 #144|@alvin-chess-bot|1091
-#145|@MinOpponentMoves|958
+#145|@MinOpponentMoves|955
 #146|@MateCheckCapture|885
 #147|@GuineaBot2|851
 #148|@Ramses-Chess|800
