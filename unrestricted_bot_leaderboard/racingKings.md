@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@higuyuu67776|2200
 #68|@Nobody11892|2200
 #69|@Trainspotter|2200
-#70|@Hyper-Stockfish|2189
-#71|@OpeningsBot|2187
+#70|@OpeningsBot|2199
+#71|@Hyper-Stockfish|2189
 #72|@Johnsun|2181
 #73|@HuxZero|2176
 #74|@AnUtterlyKarBot|2174

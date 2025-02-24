@@ -104,11 +104,11 @@ Rank|Bot|Rating
 #102|@PetersTestBot|2096
 #103|@TorBot_SL|2094
 #104|@Shineshou90_BOT|2093
-#105|@UnDisstoppableBot|2090
-#106|@Lila-Stockfish|2089
-#107|@magnusglad_bot|2088
-#108|@OpeningsBot|2085
-#109|@gc1bot|2084
+#105|@OpeningsBot|2091
+#106|@UnDisstoppableBot|2090
+#107|@Lila-Stockfish|2089
+#108|@gc1bot|2084
+#109|@magnusglad_bot|2082
 #110|@cheeseNet|2081
 #111|@Mittens-Bot|2081
 #112|@Vinh_VariantsBot|2076
@@ -404,8 +404,8 @@ Rank|Bot|Rating
 #402|@WeakBot|1151
 #403|@St6090|1149
 #404|@alan_bot|1134
-#405|@Rodent-IV|1127
-#406|@Light_To_The_Rescue|1126
+#405|@Light_To_The_Rescue|1126
+#406|@Rodent-IV|1123
 #407|@ZX-Chess|1119
 #408|@Jobabot|1110
 #409|@Dummyette|1107
@@ -430,7 +430,7 @@ Rank|Bot|Rating
 #428|@princhess_policy_bot|776
 #429|@LeelaWeak|735
 #430|@FelixLeonidovich|730
-#431|@pawnrobot|670
-#432|@MinOpponentMoves|588
+#431|@pawnrobot|665
+#432|@MinOpponentMoves|596
 #433|@MateCheckCapture|479
 #434|@konaz|400

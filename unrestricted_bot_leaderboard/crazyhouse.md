@@ -196,4 +196,4 @@ Rank|Bot|Rating
 #194|@RSVMentor|862
 #195|@GuineaBot3|845
 #196|@TrashBot|800
-#197|@MinOpponentMoves|773
+#197|@MinOpponentMoves|772
