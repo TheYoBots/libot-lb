@@ -1642,6 +1642,7 @@ meiron04
 meisok
 melphess
 melsh_bot
+meltd0wn
 menganti
 menisciform
 meow_robot
@@ -2819,4 +2820,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-meltd0wn
+vatsal_1123_bot

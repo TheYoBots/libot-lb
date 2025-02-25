@@ -65,11 +65,11 @@ Rank|Bot|Rating
 #63|@Resolved-Bot|2223
 #64|@HerokuHasnotplay|2215
 #65|@Zer0_Tw0|2210
-#66|@AIAlphaAI|2200
-#67|@higuyuu67776|2200
-#68|@Nobody11892|2200
-#69|@Trainspotter|2200
-#70|@OpeningsBot|2199
+#66|@OpeningsBot|2208
+#67|@AIAlphaAI|2200
+#68|@higuyuu67776|2200
+#69|@Nobody11892|2200
+#70|@Trainspotter|2200
 #71|@Hyper-Stockfish|2189
 #72|@Johnsun|2181
 #73|@HuxZero|2176
@@ -178,4 +178,4 @@ Rank|Bot|Rating
 #176|@Simpafteur|1069
 #177|@MateCheckCapture|1011
 #178|@ZX-Chess|982
-#179|@MinOpponentMoves|634
+#179|@MinOpponentMoves|609

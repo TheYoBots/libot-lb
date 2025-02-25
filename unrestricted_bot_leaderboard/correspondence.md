@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@robiachess|2295
 #33|@Quanticade|2286
 #34|@mrohCentaur|2285
-#35|@OpeningsBot|2279
+#35|@OpeningsBot|2282
 #36|@Toodfish|2273
 #37|@Cheng-4|2269
 #38|@Blue_Mongoose|2249
@@ -73,12 +73,12 @@ Rank|Bot|Rating
 #71|@SLDeadshot22|2123
 #72|@LudwigBOT|2120
 #73|@RootEngine|2120
-#74|@corr_sunfish|2117
-#75|@JuroJ|2117
-#76|@Hien-Vinh_Bot2|2113
-#77|@Abhinav-BOT|2112
-#78|@SUMEETTHEPRO|2107
-#79|@Botdefoin|2103
+#74|@JuroJ|2117
+#75|@Hien-Vinh_Bot2|2113
+#76|@Abhinav-BOT|2112
+#77|@SUMEETTHEPRO|2107
+#78|@Botdefoin|2103
+#79|@corr_sunfish|2103
 #80|@beatmekiddos|2101
 #81|@BEHAppy12|2101
 #82|@BotezLiveTwitchChat|2101
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@BestJSEngine|1826
 #165|@Black_Knight2006|1815
 #166|@Hoplites|1813
-#167|@Jibbby|1813
+#167|@Jibbby|1812
 #168|@Sub_Bot|1808
 #169|@DrMeowMeow|1800
 #170|@stockfish12_Johan|1798
@@ -375,4 +375,4 @@ Rank|Bot|Rating
 #373|@G0thamB0t|954
 #374|@GuineaBot|866
 #375|@BogoBot|865
-#376|@grandQ_AI|826
+#376|@grandQ_AI|820
