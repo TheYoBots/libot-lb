@@ -4,4 +4,4 @@ Rank|Bot|Rating
 #2|@DavidsGuterBot|1641
 #3|@pawnrobot|1410
 #4|@MateCheckCapture|923
-#5|@MinOpponentMoves|900
+#5|@MinOpponentMoves|902

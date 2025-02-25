@@ -2641,6 +2641,7 @@ variantsbot
 variantsontop
 variantstop
 varianttourneysbot
+vatsal_1123_bot
 vaxim2000
 vcap_bot
 vedanths-bot
@@ -2820,4 +2821,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-vatsal_1123_bot
+sandybot
