@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@VariantsTop|2765
 #18|@Viet-AI|2765
 #19|@NimsiluBot|2757
-#20|@TheMatrix2025|2747
+#20|@TheMatrix2025|2748
 #21|@ibep|2733
 #22|@Lili-Variants|2693
 #23|@buffFishNet|2692
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@antichesssss|1964
 #134|@Menganti|1963
 #135|@CloudBOT|1950
-#136|@pawnrobot|1938
+#136|@pawnrobot|1940
 #137|@Crepusculum|1881
 #138|@NoTallkOnlyGames|1871
 #139|@Lumac0|1861
@@ -259,7 +259,7 @@ Rank|Bot|Rating
 #257|@chicken_farmer|1241
 #258|@PranavChessBot|1212
 #259|@Toxic_Bot|1202
-#260|@MinOpponentMoves|1181
+#260|@MinOpponentMoves|1180
 #261|@DespacitoBot|1175
 #262|@BogoBot|1155
 #263|@thousandatom|1146

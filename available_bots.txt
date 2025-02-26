@@ -2608,6 +2608,7 @@ uber_waltigent
 ucbot
 ucibot
 ugonjinji
+uiagbot
 ujwal1001
 ukbot
 ultimatel
@@ -2691,6 +2692,7 @@ wandabot
 wandaofdevonshire
 wandathewise
 wandererofchess
+wardnbot
 waspbot
 waspbot2023
 wasternew
@@ -2822,5 +2824,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-uiagbot
-wardnbot
+ia_horus
+sacrificialsage
+syrinx-bot
