@@ -2153,6 +2153,7 @@ samuraix_v1
 samuraix_v2
 samwchess2022
 sanayiyeverinbeni
+sandybot
 sanjana_kambala-bot
 santana64
 sarbazbot
@@ -2821,4 +2822,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sandybot
+uiagbot
+wardnbot

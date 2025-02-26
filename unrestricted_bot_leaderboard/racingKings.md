@@ -62,10 +62,10 @@ Rank|Bot|Rating
 #60|@GodelEscherBot|2244
 #61|@ResoluteBot|2225
 #62|@XXIstCentury|2225
-#63|@Resolved-Bot|2223
-#64|@HerokuHasnotplay|2215
-#65|@Zer0_Tw0|2210
-#66|@OpeningsBot|2208
+#63|@OpeningsBot|2224
+#64|@Resolved-Bot|2223
+#65|@HerokuHasnotplay|2215
+#66|@Zer0_Tw0|2210
 #67|@AIAlphaAI|2200
 #68|@higuyuu67776|2200
 #69|@Nobody11892|2200

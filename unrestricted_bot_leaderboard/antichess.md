@@ -94,9 +94,9 @@ Rank|Bot|Rating
 #92|@EvenMatchup|2302
 #93|@GodelEscherBot|2284
 #94|@Dean_Summer_Bot|2279
-#95|@OpeningsBot|2270
-#96|@Johnsun|2269
-#97|@anti-bot|2257
+#95|@anti-bot|2272
+#96|@OpeningsBot|2270
+#97|@Johnsun|2269
 #98|@SkyBlaster|2254
 #99|@mrchessmanager|2240
 #100|@TurkiyeHogwarts|2240
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@antichesssss|1964
 #134|@Menganti|1963
 #135|@CloudBOT|1950
-#136|@pawnrobot|1926
+#136|@pawnrobot|1938
 #137|@Crepusculum|1881
 #138|@NoTallkOnlyGames|1871
 #139|@Lumac0|1861
