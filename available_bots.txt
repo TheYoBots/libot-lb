@@ -1176,6 +1176,7 @@ i3_1115g4
 i3_5005u
 i7_stockfish
 i_-alphazero-_i
+ia_horus
 iambotlol
 iamdadda96
 iamstockfish123
@@ -2142,6 +2143,7 @@ rustypigeon
 s2rarro
 s_stock
 sacgod1020
+sacrificialsage
 safrad-3
 sai_srihith
 sakunia
@@ -2410,6 +2412,7 @@ sxdrawbetter
 sxdrawworse
 sxrandom
 symnium
+syrinx-bot
 sysroot
 syzygybrain_bot
 szuwar8716
@@ -2824,6 +2827,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ia_horus
-sacrificialsage
-syrinx-bot
+integralbot

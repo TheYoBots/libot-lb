@@ -83,8 +83,8 @@ Rank|Bot|Rating
 #81|@PetersTestBot|1890
 #82|@MistakeBOT|1886
 #83|@EagleEye2021|1880
-#84|@Galaxy_Guardian|1876
-#85|@OpeningsBot|1876
+#84|@OpeningsBot|1879
+#85|@Galaxy_Guardian|1876
 #86|@xiang-qi|1868
 #87|@que-hyper|1865
 #88|@relevantproblem|1857
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@CoderDen732|1621
 #110|@Breeze-Hot|1606
 #111|@Just-a-random-bot|1604
-#112|@DavidsGuterBot|1576
+#112|@DavidsGuterBot|1574
 #113|@Epiano_Bot|1567
 #114|@Toxic_Bot|1541
 #115|@SXDEFENDER|1534
@@ -169,4 +169,5 @@ Rank|Bot|Rating
 #167|@BogoBot|946
 #168|@GuineaBot2|884
 #169|@MinOpponentMoves|866
-#170|@MateCheckCapture|795
+#170|@SacrificialSage|800
+#171|@MateCheckCapture|795

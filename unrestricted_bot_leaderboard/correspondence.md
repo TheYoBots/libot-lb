@@ -216,7 +216,7 @@ Rank|Bot|Rating
 #214|@ArcaBOT|1688
 #215|@B4dF1sh|1687
 #216|@The_dragon_bot|1687
-#217|@RoundMoundOfRebounds|1685
+#217|@RoundMoundOfRebounds|1682
 #218|@DeepKalle|1681
 #219|@IUseStockfish|1679
 #220|@MontyPythonFlying|1679

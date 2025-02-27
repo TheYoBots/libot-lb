@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@Yemmi-Yemmi|1702
 #103|@clueless-bot|1685
 #104|@NormalBulletBot|1657
-#105|@DavidsGuterBot|1644
+#105|@DavidsGuterBot|1656
 #106|@the_checkmating_bot|1643
 #107|@CoderDen732|1639
 #108|@Botkingteam33|1633
