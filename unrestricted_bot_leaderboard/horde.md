@@ -125,7 +125,7 @@ Rank|Bot|Rating
 #123|@weaklean|1338
 #124|@BinaryBrain|1299
 #125|@Nicholaswb_BOT|1288
-#126|@pawnrobot|1281
+#126|@pawnrobot|1280
 #127|@AEBROADUSBOTTER|1279
 #128|@ReallyCrazyBOT|1279
 #129|@AbhijithHISBot|1258
