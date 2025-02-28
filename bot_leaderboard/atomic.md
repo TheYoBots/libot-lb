@@ -4,5 +4,4 @@ Rank|Bot|Rating
 #2|@RaspFish|2525
 #3|@OpeningsBot|2083
 #4|@pawnrobot|1350
-#5|@MinOpponentMoves|916
-#6|@MateCheckCapture|680
+#5|@MinOpponentMoves|906

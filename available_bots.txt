@@ -364,6 +364,7 @@ bot_swana
 bot_talbr
 bot_tark
 bot_test333
+bot_tfwc
 bot_to_beat
 botacik
 botalex1n
@@ -692,6 +693,7 @@ dark_cloud_bot
 dark_evil_bot
 darkb0t
 darknode
+darkonbot
 dartfish-engine
 daverobot
 david9426_bot
@@ -861,6 +863,7 @@ esc_bot
 esk18-bot
 estmilebot
 etabetaita
+eternal-spring
 eubos
 eulerbot
 european_chess_bot
@@ -2416,6 +2419,7 @@ symnium
 syrinx-bot
 sysroot
 syzygybrain_bot
+szachowymentorl996
 szuwar8716
 szymvra_bot
 t3000
@@ -2828,7 +2832,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-szachowymentorl996
-darkonbot
-bot_tfwc
-eternal-spring
+alexnajax_fan
