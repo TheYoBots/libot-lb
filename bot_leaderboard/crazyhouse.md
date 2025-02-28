@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@MateCheckCapture|862
-#2|@MinOpponentMoves|786
+#2|@MinOpponentMoves|782

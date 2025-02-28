@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@SkyBlaster|2603
 #5|@Viet-AI|2600
 #6|@lord-bot|2581
-#7|@ToromBot|2576
+#7|@ToromBot|2571
 #8|@Fairy_Belzedar|2559
 #9|@EmptikVariantsBot|2557
 #10|@FireFishBOT|2547
@@ -61,11 +61,11 @@ Rank|Bot|Rating
 #59|@ESC_BOT|2253
 #60|@relevantproblem|2251
 #61|@GodelEscherBot|2244
-#62|@OpeningsBot|2244
-#63|@ResoluteBot|2225
-#64|@XXIstCentury|2225
-#65|@Resolved-Bot|2223
-#66|@HerokuHasnotplay|2215
+#62|@ResoluteBot|2225
+#63|@XXIstCentury|2225
+#64|@Resolved-Bot|2223
+#65|@HerokuHasnotplay|2215
+#66|@OpeningsBot|2212
 #67|@Zer0_Tw0|2210
 #68|@AIAlphaAI|2200
 #69|@higuyuu67776|2200
@@ -179,4 +179,4 @@ Rank|Bot|Rating
 #177|@Simpafteur|1069
 #178|@MateCheckCapture|1011
 #179|@ZX-Chess|982
-#180|@MinOpponentMoves|649
+#180|@MinOpponentMoves|645

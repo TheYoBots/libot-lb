@@ -58,6 +58,7 @@ aleph_bot_d6
 aleph_engine
 alexagarry-bot
 alexeybot
+alexnajax_fan
 alexvis
 alexz55
 alfabot
@@ -2832,4 +2833,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-alexnajax_fan

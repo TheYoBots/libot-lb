@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@SkyBlaster|2220
 #32|@PowerOnBot|2195
 #33|@UnDisstoppableBot|2193
-#34|@Amrobotone|2184
-#35|@colinbot|2179
+#34|@colinbot|2188
+#35|@Amrobotone|2184
 #36|@HuxZero|2163
 #37|@Mega_BOT|2148
 #38|@AI69|2143
@@ -83,8 +83,8 @@ Rank|Bot|Rating
 #81|@PetersTestBot|1890
 #82|@MistakeBOT|1886
 #83|@EagleEye2021|1880
-#84|@OpeningsBot|1879
-#85|@Galaxy_Guardian|1876
+#84|@Galaxy_Guardian|1876
+#85|@OpeningsBot|1876
 #86|@xiang-qi|1868
 #87|@que-hyper|1865
 #88|@relevantproblem|1857
