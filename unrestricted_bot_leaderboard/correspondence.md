@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2924
+#1|@fibonachi|2925
 #2|@MaggiChess16|2806
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
 #5|@H-Zero|2650
 #6|@PetersBot|2584
-#7|@pawn_git|2571
+#7|@pawn_git|2578
 #8|@peonasesino71|2512
 #9|@ChamberiAjedrez|2495
 #10|@ServerFish|2494
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@mrohCentaur|2285
 #35|@Toodfish|2273
 #36|@Cheng-4|2269
-#37|@OpeningsBot|2260
+#37|@OpeningsBot|2258
 #38|@Blue_Mongoose|2249
 #39|@nukechess-bot|2244
 #40|@SicilianViper|2243
@@ -54,10 +54,10 @@ Rank|Bot|Rating
 #52|@AbhijithHISBot|2201
 #53|@HerokuHasnotplay|2196
 #54|@Digi-bot|2192
-#55|@GothamChessBot|2183
-#56|@Nowinforyoukid|2177
-#57|@WeakStash|2177
-#58|@corr_sunfish|2175
+#55|@corr_sunfish|2188
+#56|@GothamChessBot|2183
+#57|@Nowinforyoukid|2177
+#58|@WeakStash|2177
 #59|@NormalBulletBot|2172
 #60|@Apotheosis_Bot|2170
 #61|@mrohBOT|2158
@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@honzovy-sachy|2002
 #123|@TESTBOT23|2000
 #124|@Zer0_Tw0|1992
-#125|@zeekat|1991
+#125|@zeekat|1987
 #126|@YoBot_v2|1984
 #127|@maello_bot|1981
 #128|@Virutor|1980

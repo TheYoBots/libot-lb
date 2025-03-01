@@ -19,9 +19,9 @@ Rank|Bot|Rating
 #17|@VariantsTop|2765
 #18|@Viet-AI|2765
 #19|@NimsiluBot|2757
-#20|@TheMatrix2025|2748
-#21|@ibep|2733
-#22|@SacrificialSage|2710
+#20|@TheMatrix2029|2757
+#21|@TheMatrix2025|2748
+#22|@ibep|2733
 #23|@Lili-Variants|2693
 #24|@buffFishNet|2692
 #25|@LoseisnotAvailablehe|2677
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@Kizbuurb|2621
 #33|@KingfishX|2612
 #34|@bananaaaaaaaaa_test|2608
-#35|@TheMatrix2029|2608
-#36|@IAMSTOCKFISH123|2603
+#35|@IAMSTOCKFISH123|2603
+#36|@SacrificialSage|2603
 #37|@ChessBot3021|2599
 #38|@Viet-BOT|2598
 #39|@firstrobot|2593
@@ -96,8 +96,8 @@ Rank|Bot|Rating
 #94|@GodelEscherBot|2284
 #95|@Dean_Summer_Bot|2279
 #96|@Johnsun|2269
-#97|@OpeningsBot|2266
-#98|@anti-bot|2262
+#97|@anti-bot|2267
+#98|@OpeningsBot|2256
 #99|@SkyBlaster|2254
 #100|@mrchessmanager|2240
 #101|@TurkiyeHogwarts|2240
@@ -258,7 +258,7 @@ Rank|Bot|Rating
 #256|@MeetNarangBOT|1287
 #257|@KaTHHHH|1264
 #258|@chicken_farmer|1241
-#259|@MinOpponentMoves|1226
+#259|@MinOpponentMoves|1229
 #260|@PranavChessBot|1212
 #261|@Toxic_Bot|1202
 #262|@DespacitoBot|1175

@@ -32,9 +32,9 @@ Rank|Bot|Rating
 #30|@Bobby_Fischer_BOT|2136
 #31|@jasans_bot|2116
 #32|@xiang-qi|2115
-#33|@KingfishX|2081
-#34|@iplayonlyrandom|2075
-#35|@TheMatrix2025|2062
+#33|@TheMatrix2025|2104
+#34|@KingfishX|2081
+#35|@iplayonlyrandom|2075
 #36|@Bot_AOOP11|2050
 #37|@Galaxy_Guardian|2045
 #38|@Resolved-Bot|2045
@@ -58,10 +58,10 @@ Rank|Bot|Rating
 #56|@B0T5_RU13|1852
 #57|@SacrificialSage|1852
 #58|@Lili-Variants|1846
-#59|@Breeze-Hot|1809
-#60|@GodelEscherBot|1805
-#61|@Yemmi-Yemmi|1799
-#62|@colinbot|1790
+#59|@colinbot|1814
+#60|@Breeze-Hot|1809
+#61|@GodelEscherBot|1805
+#62|@Yemmi-Yemmi|1799
 #63|@thibot|1789
 #64|@chessbot2880|1788
 #65|@RobotTigerSlav|1781
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@AndromedaSX1|1740
 #74|@dream_bot|1739
 #75|@YoBot_v1|1739
-#76|@OpeningsBot|1734
-#77|@ChessChildren|1730
+#76|@ChessChildren|1730
+#77|@OpeningsBot|1722
 #78|@Johnsun|1721
 #79|@Viet-BOT|1720
 #80|@HiddeNL|1708
@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@Nicholaswb_BOT|1288
 #127|@AEBROADUSBOTTER|1279
 #128|@ReallyCrazyBOT|1279
-#129|@pawnrobot|1276
+#129|@pawnrobot|1274
 #130|@AbhijithHISBot|1258
 #131|@Humuhumunukunukuapu|1258
 #132|@Jannik08_fan|1258
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@ZX-Chess|1145
 #144|@duythong1402|1120
 #145|@alvin-chess-bot|1091
-#146|@MinOpponentMoves|967
+#146|@MinOpponentMoves|973
 #147|@MateCheckCapture|885
 #148|@GuineaBot2|851
 #149|@Ramses-Chess|800
