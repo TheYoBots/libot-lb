@@ -169,5 +169,5 @@ Rank|Bot|Rating
 #167|@thousandatom|970
 #168|@BogoBot|946
 #169|@GuineaBot2|884
-#170|@MinOpponentMoves|871
+#170|@MinOpponentMoves|868
 #171|@MateCheckCapture|795

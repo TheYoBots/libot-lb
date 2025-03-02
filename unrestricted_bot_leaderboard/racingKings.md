@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@ChessVBOT|2531
 #13|@Coolman2021|2527
 #14|@EmptikBot|2526
-#15|@RaspFish|2517
+#15|@RaspFish|2523
 #16|@Nebulogic|2514
 #17|@SCP079|2513
 #18|@NimsiluBot|2500
@@ -28,10 +28,10 @@ Rank|Bot|Rating
 #26|@Fairy-Stockfish|2438
 #27|@NormalBlitzBulletBot|2435
 #28|@MyNameIsWhatLOL|2432
-#29|@SacrificialSage|2431
-#30|@Bobby_Fischer_BOT|2430
-#31|@NienishiEngine|2428
-#32|@LoseisnotAvailablehe|2424
+#29|@Bobby_Fischer_BOT|2430
+#30|@NienishiEngine|2428
+#31|@LoseisnotAvailablehe|2424
+#32|@SacrificialSage|2412
 #33|@KizVariant|2410
 #34|@Nikitosikbot_v2|2408
 #35|@VariantsTop|2405
@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@XXIstCentury|2225
 #64|@Resolved-Bot|2223
 #65|@HerokuHasnotplay|2215
-#66|@OpeningsBot|2210
-#67|@Zer0_Tw0|2210
+#66|@Zer0_Tw0|2210
+#67|@OpeningsBot|2208
 #68|@AIAlphaAI|2200
 #69|@higuyuu67776|2200
 #70|@Nobody11892|2200
