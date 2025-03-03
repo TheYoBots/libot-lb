@@ -316,7 +316,7 @@ Rank|Bot|Rating
 #314|@TheLegitLegend2|1032
 #315|@ZX-Chess|946
 #316|@BogoBot|945
-#317|@MinOpponentMoves|884
+#317|@MinOpponentMoves|883
 #318|@thousandatom|865
 #319|@bfdzvfsgaergfds|800
 #320|@TheThanosBot|696

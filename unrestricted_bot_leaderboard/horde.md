@@ -58,9 +58,9 @@ Rank|Bot|Rating
 #56|@B0T5_RU13|1852
 #57|@Lili-Variants|1846
 #58|@colinbot|1814
-#59|@Breeze-Hot|1809
-#60|@GodelEscherBot|1805
-#61|@SacrificialSage|1801
+#59|@SacrificialSage|1813
+#60|@Breeze-Hot|1809
+#61|@GodelEscherBot|1805
 #62|@Yemmi-Yemmi|1799
 #63|@thibot|1789
 #64|@chessbot2880|1788
@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@Nicholaswb_BOT|1288
 #127|@AEBROADUSBOTTER|1279
 #128|@ReallyCrazyBOT|1279
-#129|@pawnrobot|1274
+#129|@pawnrobot|1276
 #130|@AbhijithHISBot|1258
 #131|@Humuhumunukunukuapu|1258
 #132|@Jannik08_fan|1258
