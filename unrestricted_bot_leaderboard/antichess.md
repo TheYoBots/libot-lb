@@ -93,8 +93,8 @@ Rank|Bot|Rating
 #91|@NienishiEngine|2304
 #92|@BromiumAI|2302
 #93|@EvenMatchup|2302
-#94|@anti-bot|2287
-#95|@GodelEscherBot|2284
+#94|@GodelEscherBot|2284
+#95|@anti-bot|2281
 #96|@Dean_Summer_Bot|2279
 #97|@Johnsun|2269
 #98|@OpeningsBot|2256

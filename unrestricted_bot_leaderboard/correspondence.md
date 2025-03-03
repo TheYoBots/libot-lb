@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@mrohCentaur|2285
 #35|@Toodfish|2273
 #36|@Cheng-4|2269
-#37|@OpeningsBot|2258
+#37|@OpeningsBot|2259
 #38|@Blue_Mongoose|2249
 #39|@nukechess-bot|2244
 #40|@SicilianViper|2243
@@ -119,10 +119,10 @@ Rank|Bot|Rating
 #117|@kybot|2025
 #118|@MalanChess|2020
 #119|@RoyalLeela|2014
-#120|@SchachProg|2010
-#121|@ElPeonElectrico|2004
-#122|@honzovy-sachy|2002
-#123|@zeekat|2002
+#120|@zeekat|2014
+#121|@SchachProg|2010
+#122|@ElPeonElectrico|2004
+#123|@honzovy-sachy|2002
 #124|@TESTBOT23|2000
 #125|@Zer0_Tw0|1992
 #126|@YoBot_v2|1984
@@ -173,9 +173,9 @@ Rank|Bot|Rating
 #171|@MagicHacker123|1792
 #172|@maia5|1792
 #173|@JPSBOT|1789
-#174|@RadianceEngine|1789
-#175|@Nicholaswb_BOT|1788
-#176|@Heman36541234578|1786
+#174|@Nicholaswb_BOT|1788
+#175|@Heman36541234578|1786
+#176|@RadianceEngine|1786
 #177|@Variantenkoning|1781
 #178|@caissa-ai|1773
 #179|@Ymin_dragon|1773
@@ -268,7 +268,7 @@ Rank|Bot|Rating
 #266|@FASTCHESSBOT|1584
 #267|@Boom_Bot|1582
 #268|@Wahoo_Bot|1575
-#269|@wardnbot|1572
+#269|@wardnbot|1575
 #270|@Genetic_Chess_Bot|1571
 #271|@knight_BOT|1566
 #272|@likeawizard-bot|1565
@@ -305,7 +305,7 @@ Rank|Bot|Rating
 #303|@ReallyBadPlayerBot|1428
 #304|@LuciferCat|1426
 #305|@JupiterBot|1421
-#306|@katzebot|1419
+#306|@katzebot|1416
 #307|@sunfish_rs|1414
 #308|@emptedkiller|1413
 #309|@WaspBot|1410
