@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@BromiumAI|2302
 #93|@EvenMatchup|2302
 #94|@GodelEscherBot|2284
-#95|@anti-bot|2281
+#95|@anti-bot|2283
 #96|@Dean_Summer_Bot|2279
 #97|@Johnsun|2269
 #98|@OpeningsBot|2256
@@ -256,8 +256,8 @@ Rank|Bot|Rating
 #254|@Official_bot|1301
 #255|@GuineaBot3|1297
 #256|@MeetNarangBOT|1287
-#257|@KaTHHHH|1264
-#258|@MinOpponentMoves|1250
+#257|@MinOpponentMoves|1270
+#258|@KaTHHHH|1264
 #259|@chicken_farmer|1241
 #260|@PranavChessBot|1212
 #261|@Toxic_Bot|1202

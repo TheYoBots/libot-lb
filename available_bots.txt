@@ -726,6 +726,7 @@ dezchickenwings
 dgt-ai
 dgt-test
 diepx
+diffusearchv0
 diggydiggyhole
 digi-bot
 dinkelhuber
@@ -1847,6 +1848,7 @@ ofish-fast
 ohnibot
 ok12435
 ok_zabu
+olympuscz
 om2022_bot
 om_the_great_bot
 omega-pro
@@ -2835,5 +2837,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-diffusearchv0
-olympuscz
