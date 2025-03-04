@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Resolved-Bot|2026
 #63|@SacrificialSage|2004
 #64|@firstrobot|2003
-#65|@OpeningsBot|1988
+#65|@OpeningsBot|1995
 #66|@Hyper-Stockfish|1986
 #67|@GodelEscherBot|1974
 #68|@XXIstCentury|1973
@@ -108,8 +108,8 @@ Rank|Bot|Rating
 #106|@the_checkmating_bot|1643
 #107|@CoderDen732|1639
 #108|@Botkingteam33|1633
-#109|@jasans_bot|1621
-#110|@DavidsGuterBot|1618
+#109|@DavidsGuterBot|1622
+#110|@jasans_bot|1621
 #111|@newengine2022|1588
 #112|@knight_128|1563
 #113|@Alehkine_cat|1549
@@ -131,8 +131,8 @@ Rank|Bot|Rating
 #129|@Botyuliirma|1442
 #130|@Simpafteur|1440
 #131|@MeezKool|1438
-#132|@pawnrobot|1435
-#133|@Nobody11892|1434
+#132|@Nobody11892|1434
+#133|@pawnrobot|1431
 #134|@TheWeakestBot|1431
 #135|@BKriviBOT|1427
 #136|@Kyle_0111|1421
@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@DespacitoBot|1080
 #167|@ZX-Chess|1063
 #168|@GuineaBot3|972
-#169|@MinOpponentMoves|935
+#169|@MinOpponentMoves|936
 #170|@BogoBot|928
 #171|@MateCheckCapture|923
 #172|@TheSystem_Bot|905

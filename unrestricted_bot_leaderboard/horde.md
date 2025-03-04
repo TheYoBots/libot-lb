@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@VariantsBot|3019
-#2|@ToromBot|2917
+#2|@ToromBot|2918
 #3|@Viet-AI|2915
 #4|@NimsiluBot|2901
 #5|@Fairy_Belzedar|2857
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@ZX-Chess|1145
 #144|@duythong1402|1120
 #145|@alvin-chess-bot|1091
-#146|@MinOpponentMoves|971
+#146|@MinOpponentMoves|974
 #147|@MateCheckCapture|885
 #148|@GuineaBot2|851
 #149|@Ramses-Chess|800

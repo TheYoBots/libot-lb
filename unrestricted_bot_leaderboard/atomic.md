@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@SugarAndSpice|2102
 #105|@Botzer|2097
 #106|@Sharkbot|2095
-#107|@OpeningsBot|2082
+#107|@OpeningsBot|2089
 #108|@DrSmartBugs|2077
 #109|@Einstein_NNUE|2072
 #110|@Dark_evil_bot|2071
@@ -316,7 +316,7 @@ Rank|Bot|Rating
 #314|@TheLegitLegend2|1032
 #315|@ZX-Chess|946
 #316|@BogoBot|945
-#317|@MinOpponentMoves|892
+#317|@MinOpponentMoves|887
 #318|@thousandatom|865
 #319|@bfdzvfsgaergfds|800
 #320|@TheThanosBot|696
