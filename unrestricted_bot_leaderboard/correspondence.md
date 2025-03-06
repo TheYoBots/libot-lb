@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
 #5|@H-Zero|2650
-#6|@PetersBot|2584
-#7|@pawn_git|2578
+#6|@pawn_git|2585
+#7|@PetersBot|2584
 #8|@SacrificialSage|2519
 #9|@peonasesino71|2512
 #10|@ChamberiAjedrez|2495
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@mrohCentaur|2285
 #36|@Toodfish|2273
 #37|@Cheng-4|2269
-#38|@OpeningsBot|2258
+#38|@OpeningsBot|2259
 #39|@Blue_Mongoose|2249
 #40|@nukechess-bot|2244
 #41|@SicilianViper|2243
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@CocopikachuBOT|2036
 #114|@HyperPhoenix21|2035
 #115|@EmptikCorrespondence|2031
-#116|@zeekat|2030
+#116|@zeekat|2028
 #117|@StrongMagnusCarlsen|2027
 #118|@duythong1402|2025
 #119|@kybot|2025

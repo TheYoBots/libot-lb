@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@AntichessAnalyzer|2673
 #27|@SCP079|2662
 #28|@ttBOT|2653
-#29|@colinbot|2643
+#29|@colinbot|2648
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
 #32|@Kizbuurb|2621
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@ESC_BOT|2394
 #77|@CatBot_14|2393
 #78|@NormalBulletBot|2393
-#79|@anti-bot|2369
+#79|@anti-bot|2382
 #80|@Resolved-Bot|2369
 #81|@Trumpfor2O2O|2366
 #82|@HuxZero|2361
@@ -97,7 +97,7 @@ Rank|Bot|Rating
 #95|@GodelEscherBot|2284
 #96|@Dean_Summer_Bot|2279
 #97|@Johnsun|2269
-#98|@OpeningsBot|2256
+#98|@OpeningsBot|2254
 #99|@SkyBlaster|2254
 #100|@mrchessmanager|2240
 #101|@TurkiyeHogwarts|2240
@@ -143,9 +143,9 @@ Rank|Bot|Rating
 #141|@Pineapple-Friendly|1858
 #142|@MyNameIsWhatLOL|1826
 #143|@Bot2000|1807
-#144|@Emil_V2|1789
-#145|@bot1996123|1787
-#146|@SriLankaChess|1777
+#144|@SriLankaChess|1800
+#145|@Emil_V2|1789
+#146|@bot1996123|1787
 #147|@Yemmi-Yemmi|1774
 #148|@MyNameIsSpeedy|1773
 #149|@Just-a-random-bot|1772
@@ -256,8 +256,8 @@ Rank|Bot|Rating
 #254|@Official_bot|1301
 #255|@GuineaBot3|1297
 #256|@MeetNarangBOT|1287
-#257|@MinOpponentMoves|1268
-#258|@KaTHHHH|1264
+#257|@KaTHHHH|1264
+#258|@MinOpponentMoves|1260
 #259|@chicken_farmer|1241
 #260|@PranavChessBot|1212
 #261|@Toxic_Bot|1202
