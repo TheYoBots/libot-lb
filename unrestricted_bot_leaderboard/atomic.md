@@ -262,8 +262,8 @@ Rank|Bot|Rating
 #260|@MrMolotov|1436
 #261|@BOSS_CHESS_BOT|1431
 #262|@shakboy9824453231op|1420
-#263|@bunny_2021|1413
-#264|@pawnrobot|1405
+#263|@pawnrobot|1416
+#264|@bunny_2021|1413
 #265|@Butzke_BOT|1401
 #266|@MartianBot|1386
 #267|@Trumpfor2O2O|1386

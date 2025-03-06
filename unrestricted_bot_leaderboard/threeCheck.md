@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@Xerus_1|2070
 #61|@ROBOT_RANDEER2007|2059
 #62|@Resolved-Bot|2026
-#63|@SacrificialSage|2004
+#63|@SacrificialSage|2026
 #64|@firstrobot|2003
 #65|@OpeningsBot|1997
 #66|@Hyper-Stockfish|1986
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@CoderDen732|1639
 #108|@Botkingteam33|1633
 #109|@jasans_bot|1621
-#110|@DavidsGuterBot|1611
+#110|@DavidsGuterBot|1614
 #111|@newengine2022|1588
 #112|@knight_128|1563
 #113|@Alehkine_cat|1549
@@ -129,9 +129,9 @@ Rank|Bot|Rating
 #127|@bfdzvfsgaergfds|1444
 #128|@VedanthS-Bot|1443
 #129|@Botyuliirma|1442
-#130|@pawnrobot|1441
-#131|@Simpafteur|1440
-#132|@MeezKool|1438
+#130|@Simpafteur|1440
+#131|@MeezKool|1438
+#132|@pawnrobot|1437
 #133|@Nobody11892|1434
 #134|@TheWeakestBot|1431
 #135|@BKriviBOT|1427

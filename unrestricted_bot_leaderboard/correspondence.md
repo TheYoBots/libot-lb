@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@mrohCentaur|2285
 #36|@Toodfish|2273
 #37|@Cheng-4|2269
-#38|@OpeningsBot|2259
+#38|@OpeningsBot|2261
 #39|@Blue_Mongoose|2249
 #40|@nukechess-bot|2244
 #41|@SicilianViper|2243
@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@ZE_ROOK|1938
 #140|@Los-Guerreros1|1935
 #141|@TheLegendaryKnight|1935
-#142|@matmoi|1932
+#142|@matmoi|1927
 #143|@chicken_farmer|1926
 #144|@yowCapablanca|1914
 #145|@Simpafteur|1912
