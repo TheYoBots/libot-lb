@@ -2066,6 +2066,7 @@ ravenengine_depth2
 ravenliteengine
 raveonette-bot
 ravingcrab
+ray-bot
 raybotchess123
 rayking311
 razanvn
@@ -2081,6 +2082,7 @@ redengine
 redlight_07
 redsquirrelbot
 redtail-zero
+refutemygambit
 reggieokevin
 reinforcementtrial
 relevantproblem
@@ -2838,5 +2840,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ray-bot
-refutemygambit

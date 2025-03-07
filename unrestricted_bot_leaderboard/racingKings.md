@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@Nobody11892|2200
 #70|@Trainspotter|2200
 #71|@Hyper-Stockfish|2189
-#72|@OpeningsBot|2182
+#72|@OpeningsBot|2184
 #73|@Johnsun|2181
 #74|@HuxZero|2176
 #75|@AnUtterlyKarBot|2174
@@ -179,4 +179,4 @@ Rank|Bot|Rating
 #177|@Simpafteur|1069
 #178|@MateCheckCapture|1011
 #179|@ZX-Chess|982
-#180|@MinOpponentMoves|646
+#180|@MinOpponentMoves|642

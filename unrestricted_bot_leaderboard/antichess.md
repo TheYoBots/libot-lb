@@ -78,9 +78,9 @@ Rank|Bot|Rating
 #76|@ESC_BOT|2394
 #77|@CatBot_14|2393
 #78|@NormalBulletBot|2393
-#79|@anti-bot|2384
-#80|@Resolved-Bot|2369
-#81|@Trumpfor2O2O|2366
+#79|@Resolved-Bot|2369
+#80|@Trumpfor2O2O|2366
+#81|@anti-bot|2363
 #82|@HuxZero|2361
 #83|@Less_of_a_threat|2357
 #84|@Viet_BOT|2354
@@ -257,8 +257,8 @@ Rank|Bot|Rating
 #255|@GuineaBot3|1297
 #256|@MeetNarangBOT|1287
 #257|@KaTHHHH|1264
-#258|@MinOpponentMoves|1260
-#259|@chicken_farmer|1241
+#258|@chicken_farmer|1241
+#259|@MinOpponentMoves|1234
 #260|@PranavChessBot|1212
 #261|@Toxic_Bot|1202
 #262|@DespacitoBot|1175
