@@ -37,10 +37,10 @@ Rank|Bot|Rating
 #35|@VariantsTop|2405
 #36|@The-Fastest-Bot|2402
 #37|@lightspeed_bot|2396
-#38|@TheMatrix2025|2393
-#39|@thibot|2393
-#40|@Jussicas|2373
-#41|@Lili-Variants|2357
+#38|@thibot|2393
+#39|@Jussicas|2373
+#40|@Lili-Variants|2357
+#41|@TheMatrix2025|2351
 #42|@Viet_BOT|2344
 #43|@EvenMatchup|2336
 #44|@ibep|2333
