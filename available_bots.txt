@@ -1850,6 +1850,7 @@ ohnibot
 ok12435
 ok_zabu
 olympuscz
+olympusdragoncz
 om2022_bot
 om_the_great_bot
 omega-pro
@@ -2840,4 +2841,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-olympusdragoncz
+pseudo-1

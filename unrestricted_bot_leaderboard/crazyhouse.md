@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Lightning_SpeedChess|1696
 #112|@B0T5_RU13|1683
 #113|@OpeningsBot|1680
-#114|@SacrificialSage|1667
+#114|@SacrificialSage|1676
 #115|@FASTCHESSBOT|1666
 #116|@SipsonsamsonBOT|1665
 #117|@MistakeBOT|1655
@@ -191,10 +191,10 @@ Rank|Bot|Rating
 #189|@BogoBot|1099
 #190|@jasans_bot|1045
 #191|@ZX-Chess|1011
-#192|@magnusglad_bot|984
+#192|@magnusglad_bot|981
 #193|@JPSBOT|958
 #194|@MateCheckCapture|862
 #195|@RSVMentor|862
 #196|@GuineaBot3|845
-#197|@MinOpponentMoves|816
+#197|@MinOpponentMoves|808
 #198|@TrashBot|800

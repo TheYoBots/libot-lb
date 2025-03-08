@@ -5,9 +5,9 @@ Rank|Bot|Rating
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
 #5|@H-Zero|2650
-#6|@Alexnajax_Fan|2595
-#7|@pawn_git|2585
-#8|@PetersBot|2575
+#6|@pawn_git|2585
+#7|@PetersBot|2577
+#8|@Alexnajax_Fan|2538
 #9|@SacrificialSage|2519
 #10|@peonasesino71|2512
 #11|@ChamberiAjedrez|2495
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@mrohCentaur|2285
 #37|@Toodfish|2273
 #38|@Cheng-4|2269
-#39|@OpeningsBot|2259
+#39|@OpeningsBot|2263
 #40|@Blue_Mongoose|2249
 #41|@nukechess-bot|2244
 #42|@SicilianViper|2243
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@CocopikachuBOT|2036
 #115|@HyperPhoenix21|2035
 #116|@EmptikCorrespondence|2031
-#117|@zeekat|2031
+#117|@zeekat|2030
 #118|@StrongMagnusCarlsen|2027
 #119|@duythong1402|2025
 #120|@kybot|2025
@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@ZE_ROOK|1938
 #141|@Los-Guerreros1|1935
 #142|@TheLegendaryKnight|1935
-#143|@matmoi|1927
+#143|@matmoi|1933
 #144|@chicken_farmer|1926
 #145|@yowCapablanca|1914
 #146|@Simpafteur|1912
@@ -189,7 +189,7 @@ Rank|Bot|Rating
 #187|@LogosEngine|1760
 #188|@Bot413522|1758
 #189|@EDSPBOT|1758
-#190|@RadianceEngine|1755
+#190|@RadianceEngine|1746
 #191|@AngryOfficePanda|1745
 #192|@anytimemode|1741
 #193|@Bot2000|1741
@@ -240,7 +240,7 @@ Rank|Bot|Rating
 #238|@LeelaWeak|1655
 #239|@TesT-Z|1655
 #240|@anti-human-bot|1653
-#241|@wardnbot|1651
+#241|@wardnbot|1653
 #242|@Loev07|1650
 #243|@Nobody11892|1650
 #244|@TheChessMonster09|1650
