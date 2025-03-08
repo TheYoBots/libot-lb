@@ -2003,6 +2003,7 @@ protocol_2
 proud_tamil_bot
 proustagm
 pseudo-0
+pseudo-1
 pseudonoixe
 psychedelicatomic
 ptit-biscuit
@@ -2841,4 +2842,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-pseudo-1

@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MinOpponentMoves|808
+#1|@MinOpponentMoves|811

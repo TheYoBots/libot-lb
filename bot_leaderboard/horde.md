@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|1722
-#2|@MinOpponentMoves|994
+#1|@OpeningsBot|1719
+#2|@MinOpponentMoves|991

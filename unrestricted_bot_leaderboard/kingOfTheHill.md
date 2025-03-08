@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@MalanChess|2292
 #19|@Nikitosik-ai|2288
 #20|@LudwigBOT|2281
-#21|@RaspFish|2279
+#21|@RaspFish|2280
 #22|@LoseisnotAvailablehe|2274
 #23|@bananaaaaaaaaa_test|2269
 #24|@Bobby_Fischer_BOT|2267
@@ -85,8 +85,8 @@ Rank|Bot|Rating
 #83|@PetersTestBot|1890
 #84|@MistakeBOT|1886
 #85|@EagleEye2021|1880
-#86|@xiang-qi|1868
-#87|@OpeningsBot|1865
+#86|@OpeningsBot|1868
+#87|@xiang-qi|1868
 #88|@que-hyper|1865
 #89|@relevantproblem|1857
 #90|@Botzer|1851
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Breeze-Hot|1606
 #112|@Just-a-random-bot|1604
 #113|@Epiano_Bot|1567
-#114|@DavidsGuterBot|1560
+#114|@DavidsGuterBot|1558
 #115|@Toxic_Bot|1541
 #116|@SXDEFENDER|1534
 #117|@Light_To_The_Rescue|1523

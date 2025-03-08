@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@DespacitoBot|1080
 #167|@ZX-Chess|1063
 #168|@GuineaBot3|972
-#169|@MinOpponentMoves|954
+#169|@MinOpponentMoves|953
 #170|@BogoBot|928
 #171|@MateCheckCapture|923
 #172|@TheSystem_Bot|905
