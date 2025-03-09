@@ -127,9 +127,9 @@ Rank|Bot|Rating
 #125|@weaklean|1338
 #126|@BinaryBrain|1299
 #127|@Nicholaswb_BOT|1288
-#128|@AEBROADUSBOTTER|1279
-#129|@ReallyCrazyBOT|1279
-#130|@pawnrobot|1276
+#128|@pawnrobot|1280
+#129|@AEBROADUSBOTTER|1279
+#130|@ReallyCrazyBOT|1279
 #131|@AbhijithHISBot|1258
 #132|@Humuhumunukunukuapu|1258
 #133|@Jannik08_fan|1258
@@ -146,7 +146,7 @@ Rank|Bot|Rating
 #144|@ZX-Chess|1145
 #145|@duythong1402|1120
 #146|@alvin-chess-bot|1091
-#147|@MinOpponentMoves|991
+#147|@MinOpponentMoves|987
 #148|@MateCheckCapture|885
 #149|@GuineaBot2|851
 #150|@Ramses-Chess|800

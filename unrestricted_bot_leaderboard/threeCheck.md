@@ -107,8 +107,8 @@ Rank|Bot|Rating
 #105|@NormalBulletBot|1657
 #106|@the_checkmating_bot|1643
 #107|@CoderDen732|1639
-#108|@Botkingteam33|1633
-#109|@DavidsGuterBot|1629
+#108|@DavidsGuterBot|1634
+#109|@Botkingteam33|1633
 #110|@jasans_bot|1621
 #111|@newengine2022|1588
 #112|@knight_128|1563
@@ -134,9 +134,9 @@ Rank|Bot|Rating
 #132|@Nobody11892|1434
 #133|@TheWeakestBot|1431
 #134|@BKriviBOT|1427
-#135|@pawnrobot|1422
-#136|@Kyle_0111|1421
-#137|@azdad|1420
+#135|@Kyle_0111|1421
+#136|@azdad|1420
+#137|@pawnrobot|1417
 #138|@Peaceful4Life|1412
 #139|@RochadeSchachzeitung|1392
 #140|@MasterofChessBOT800|1391

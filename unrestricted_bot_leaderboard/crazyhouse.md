@@ -111,9 +111,9 @@ Rank|Bot|Rating
 #109|@Stockfish-MEDIUM|1717
 #110|@Lili-Variants|1698
 #111|@Lightning_SpeedChess|1696
-#112|@B0T5_RU13|1683
-#113|@OpeningsBot|1680
-#114|@SacrificialSage|1676
+#112|@SacrificialSage|1696
+#113|@B0T5_RU13|1683
+#114|@OpeningsBot|1680
 #115|@FASTCHESSBOT|1666
 #116|@SipsonsamsonBOT|1665
 #117|@MistakeBOT|1655
@@ -181,8 +181,8 @@ Rank|Bot|Rating
 #179|@FluffBallCuddly|1191
 #180|@heatseeker223|1191
 #181|@ChessPlayer1225|1183
-#182|@pawnrobot|1166
-#183|@Jannik08_fan|1163
+#182|@Jannik08_fan|1163
+#183|@pawnrobot|1163
 #184|@BSergey11-BOT|1149
 #185|@K_Shi_Bot|1149
 #186|@TeamChelsie|1125

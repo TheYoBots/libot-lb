@@ -47,11 +47,11 @@ Rank|Bot|Rating
 #45|@colinbot|2331
 #46|@ElPeonElectrico|2326
 #47|@chessbot2880|2323
-#48|@TheMatrix2025|2321
-#49|@Bot_AOOP11|2314
-#50|@KingfishX|2312
-#51|@Viet-BOT|2312
-#52|@IAMSTOCKFISH123|2307
+#48|@Bot_AOOP11|2314
+#49|@KingfishX|2312
+#50|@Viet-BOT|2312
+#51|@IAMSTOCKFISH123|2307
+#52|@TheMatrix2025|2299
 #53|@NormalBulletBot|2291
 #54|@YoBot_v2|2287
 #55|@AlfaBot|2278
@@ -179,4 +179,4 @@ Rank|Bot|Rating
 #177|@Simpafteur|1069
 #178|@MateCheckCapture|1011
 #179|@ZX-Chess|982
-#180|@MinOpponentMoves|640
+#180|@MinOpponentMoves|639

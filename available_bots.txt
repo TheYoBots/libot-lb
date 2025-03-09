@@ -2842,3 +2842,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+lamanodetal
+shocky_bot

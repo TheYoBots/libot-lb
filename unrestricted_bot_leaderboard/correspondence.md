@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@mrohCentaur|2285
 #37|@Toodfish|2273
 #38|@Cheng-4|2269
-#39|@OpeningsBot|2263
+#39|@OpeningsBot|2266
 #40|@Blue_Mongoose|2249
 #41|@nukechess-bot|2244
 #42|@SicilianViper|2243
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@CocopikachuBOT|2036
 #115|@HyperPhoenix21|2035
 #116|@EmptikCorrespondence|2031
-#117|@zeekat|2030
-#118|@StrongMagnusCarlsen|2027
+#117|@StrongMagnusCarlsen|2027
+#118|@zeekat|2027
 #119|@duythong1402|2025
 #120|@kybot|2025
 #121|@MalanChess|2020

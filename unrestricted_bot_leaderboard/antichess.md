@@ -83,9 +83,9 @@ Rank|Bot|Rating
 #81|@HuxZero|2361
 #82|@Less_of_a_threat|2357
 #83|@Viet_BOT|2354
-#84|@anti-bot|2352
-#85|@higuyuu67776|2352
-#86|@Karpov_bot|2335
+#84|@higuyuu67776|2352
+#85|@Karpov_bot|2335
+#86|@anti-bot|2331
 #87|@TeamChelsie|2331
 #88|@AI69|2312
 #89|@Kizburb|2307
@@ -99,8 +99,8 @@ Rank|Bot|Rating
 #97|@Johnsun|2269
 #98|@SkyBlaster|2254
 #99|@mrchessmanager|2240
-#100|@TurkiyeHogwarts|2240
-#101|@OpeningsBot|2236
+#100|@OpeningsBot|2240
+#101|@TurkiyeHogwarts|2240
 #102|@EagleEye2021|2235
 #103|@chesshyperbot|2234
 #104|@Hyper-Stockfish|2230
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@BetaZ|1973
 #134|@antichesssss|1964
 #135|@Menganti|1963
-#136|@pawnrobot|1959
+#136|@pawnrobot|1955
 #137|@CloudBOT|1950
 #138|@Crepusculum|1881
 #139|@NoTallkOnlyGames|1871
@@ -258,8 +258,8 @@ Rank|Bot|Rating
 #256|@MeetNarangBOT|1287
 #257|@KaTHHHH|1264
 #258|@chicken_farmer|1241
-#259|@MinOpponentMoves|1229
-#260|@PranavChessBot|1212
+#259|@PranavChessBot|1212
+#260|@MinOpponentMoves|1210
 #261|@Toxic_Bot|1202
 #262|@DespacitoBot|1175
 #263|@BogoBot|1155
