@@ -1399,6 +1399,7 @@ ladoga_engine
 ladybugbot
 laira_z
 lalis1
+lamanodetal
 lapischesszero
 lastwill
 laurin03
@@ -2230,6 +2231,7 @@ shashchessbot
 shashchesspower
 shineshou90_bot
 shirozer0
+shocky_bot
 shreddergrizzly
 shulkerbot
 shumilovleela
@@ -2842,5 +2844,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lamanodetal
-shocky_bot
+lightofthenewyear
+alphafish_zero

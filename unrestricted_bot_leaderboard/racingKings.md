@@ -51,9 +51,9 @@ Rank|Bot|Rating
 #49|@KingfishX|2312
 #50|@Viet-BOT|2312
 #51|@IAMSTOCKFISH123|2307
-#52|@TheMatrix2025|2299
-#53|@NormalBulletBot|2291
-#54|@YoBot_v2|2287
+#52|@NormalBulletBot|2291
+#53|@YoBot_v2|2287
+#54|@TheMatrix2025|2282
 #55|@AlfaBot|2278
 #56|@Mega_BOT|2264
 #57|@MalanChess|2261
@@ -179,4 +179,4 @@ Rank|Bot|Rating
 #177|@Simpafteur|1069
 #178|@MateCheckCapture|1011
 #179|@ZX-Chess|982
-#180|@MinOpponentMoves|639
+#180|@MinOpponentMoves|637

@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@Pineapple-Friendly|1937
 #77|@azdad|1936
 #78|@HyperLitikBOT|1930
-#79|@SacrificialSage|1914
-#80|@Galaxy_Guardian|1907
+#79|@Galaxy_Guardian|1921
+#80|@SacrificialSage|1914
 #81|@DrSmartBugs|1904
 #82|@Variantenkoning|1892
 #83|@PetersTestBot|1890
