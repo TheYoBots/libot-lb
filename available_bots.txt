@@ -396,6 +396,7 @@ botmertens
 botmgmg
 botmikhailtal
 botmobile
+botnickal
 botnuevageneracion
 botofatomicchess
 botpr0
@@ -1023,6 +1024,7 @@ gilk260
 giphy_logo
 giuliaai
 gladius_bot
+gnu4u
 goblinbot
 goboter
 god_teto
@@ -2846,5 +2848,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-botnickal
-gnu4u
+ukraine-team-creator
+olympusevolvedcz

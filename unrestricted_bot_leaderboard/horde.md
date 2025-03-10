@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@UltronBot|2199
 #27|@Trumpfor2O2O|2162
 #28|@ResoluteBot|2155
-#29|@Karpov_bot|2145
-#30|@TheMatrix2025|2144
+#29|@TheMatrix2025|2155
+#30|@Karpov_bot|2145
 #31|@Bobby_Fischer_BOT|2136
 #32|@jasans_bot|2116
 #33|@xiang-qi|2115
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@dream_bot|1739
 #75|@YoBot_v1|1739
 #76|@ChessChildren|1730
-#77|@OpeningsBot|1726
+#77|@OpeningsBot|1724
 #78|@Johnsun|1721
 #79|@Viet-BOT|1720
 #80|@HiddeNL|1708

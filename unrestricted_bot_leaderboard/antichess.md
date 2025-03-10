@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@higuyuu67776|2352
 #85|@Karpov_bot|2335
 #86|@TeamChelsie|2331
-#87|@anti-bot|2324
+#87|@anti-bot|2327
 #88|@AI69|2312
 #89|@Kizburb|2307
 #90|@MagicverseBOT|2306
@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@BetaZ|1973
 #134|@antichesssss|1964
 #135|@Menganti|1963
-#136|@pawnrobot|1951
-#137|@CloudBOT|1950
+#136|@CloudBOT|1950
+#137|@pawnrobot|1939
 #138|@Crepusculum|1881
 #139|@NoTallkOnlyGames|1871
 #140|@Lumac0|1861

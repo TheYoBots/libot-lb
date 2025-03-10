@@ -9,13 +9,13 @@ Rank|Bot|Rating
 #7|@KizVariant|2597
 #8|@Nikitosik-ai|2592
 #9|@pistol-play|2590
-#10|@ToromBot|2577
+#10|@ToromBot|2582
 #11|@NimsiluBot|2569
 #12|@Nikitosikbot_v2|2567
-#13|@UltronBot|2556
-#14|@Viet-AI|2556
-#15|@ttBOT|2540
-#16|@RaspFish|2527
+#13|@RaspFish|2564
+#14|@UltronBot|2556
+#15|@Viet-AI|2556
+#16|@ttBOT|2540
 #17|@BitExtender128|2526
 #18|@ResoluteBot|2525
 #19|@CatBot_14|2514
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@SugarAndSpice|2102
 #105|@Botzer|2097
 #106|@Sharkbot|2095
-#107|@OpeningsBot|2087
+#107|@OpeningsBot|2086
 #108|@DrSmartBugs|2077
 #109|@Einstein_NNUE|2072
 #110|@Dark_evil_bot|2071

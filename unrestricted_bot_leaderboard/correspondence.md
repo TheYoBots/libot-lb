@@ -17,10 +17,10 @@ Rank|Bot|Rating
 #15|@TorBot|2475
 #16|@Viet-AI|2471
 #17|@magnusglad_bot|2465
-#18|@EmptikBot|2454
-#19|@Viet-BOT|2448
-#20|@BitByByte|2444
-#21|@pawnocchio_bot|2438
+#18|@pawnocchio_bot|2457
+#19|@EmptikBot|2454
+#20|@Viet-BOT|2448
+#21|@BitByByte|2444
 #22|@F0rgot|2434
 #23|@HulkBot|2387
 #24|@MehFish|2376
@@ -118,9 +118,9 @@ Rank|Bot|Rating
 #116|@HyperPhoenix21|2035
 #117|@EmptikCorrespondence|2031
 #118|@StrongMagnusCarlsen|2027
-#119|@zeekat|2027
-#120|@duythong1402|2025
-#121|@kybot|2025
+#119|@duythong1402|2025
+#120|@kybot|2025
+#121|@zeekat|2023
 #122|@MalanChess|2020
 #123|@RoyalLeela|2014
 #124|@SchachProg|2010
