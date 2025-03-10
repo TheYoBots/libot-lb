@@ -77,6 +77,7 @@ alouettechessengine
 alpbet0
 alphabotical
 alphachess_official
+alphafish_zero
 alphagpt
 alphaleela0
 alphaminustwo
@@ -1497,6 +1498,7 @@ lifishbot
 light_to_the_rescue
 lightning_chess_1
 lightning_speedchess
+lightofthenewyear
 lightspeed_bot
 likeawizard-bot
 lila-stockfish
@@ -2844,5 +2846,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lightofthenewyear
-alphafish_zero
+botnickal
+gnu4u

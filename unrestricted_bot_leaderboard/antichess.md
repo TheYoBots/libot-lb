@@ -34,11 +34,11 @@ Rank|Bot|Rating
 #32|@Kizbuurb|2621
 #33|@KingfishX|2612
 #34|@bananaaaaaaaaa_test|2608
-#35|@IAMSTOCKFISH123|2603
-#36|@ChessBot3021|2599
-#37|@Viet-BOT|2598
-#38|@firstrobot|2593
-#39|@SacrificialSage|2593
+#35|@SacrificialSage|2606
+#36|@IAMSTOCKFISH123|2603
+#37|@ChessBot3021|2599
+#38|@Viet-BOT|2598
+#39|@firstrobot|2593
 #40|@AIAlphaAI|2589
 #41|@WilliamGAsaad|2584
 #42|@ElPeonElectrico|2568
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@higuyuu67776|2352
 #85|@Karpov_bot|2335
 #86|@TeamChelsie|2331
-#87|@anti-bot|2327
+#87|@anti-bot|2324
 #88|@AI69|2312
 #89|@Kizburb|2307
 #90|@MagicverseBOT|2306
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@BetaZ|1973
 #134|@antichesssss|1964
 #135|@Menganti|1963
-#136|@pawnrobot|1955
+#136|@pawnrobot|1951
 #137|@CloudBOT|1950
 #138|@Crepusculum|1881
 #139|@NoTallkOnlyGames|1871
@@ -260,7 +260,7 @@ Rank|Bot|Rating
 #258|@chicken_farmer|1241
 #259|@PranavChessBot|1212
 #260|@Toxic_Bot|1202
-#261|@MinOpponentMoves|1189
+#261|@MinOpponentMoves|1201
 #262|@DespacitoBot|1175
 #263|@BogoBot|1155
 #264|@thousandatom|1146

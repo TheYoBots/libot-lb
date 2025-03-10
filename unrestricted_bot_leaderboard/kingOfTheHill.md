@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@Pineapple-Friendly|1937
 #77|@azdad|1936
 #78|@HyperLitikBOT|1930
-#79|@Galaxy_Guardian|1921
-#80|@SacrificialSage|1914
+#79|@SacrificialSage|1925
+#80|@Galaxy_Guardian|1921
 #81|@DrSmartBugs|1904
 #82|@Variantenkoning|1892
 #83|@PetersTestBot|1890
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Breeze-Hot|1606
 #112|@Just-a-random-bot|1604
 #113|@Epiano_Bot|1567
-#114|@DavidsGuterBot|1558
+#114|@DavidsGuterBot|1552
 #115|@Toxic_Bot|1541
 #116|@SXDEFENDER|1534
 #117|@Light_To_The_Rescue|1523
@@ -148,9 +148,9 @@ Rank|Bot|Rating
 #146|@Challengeme2anything|1307
 #147|@NoTallkOnlyGames|1291
 #148|@jasans_bot|1268
-#149|@ChessChipBot|1258
-#150|@Hrant_Petrosyan_BOT|1258
-#151|@pawnrobot|1257
+#149|@pawnrobot|1263
+#150|@ChessChipBot|1258
+#151|@Hrant_Petrosyan_BOT|1258
 #152|@HiddeNL|1242
 #153|@knight_128|1233
 #154|@MyNameIsSpeedy|1226
