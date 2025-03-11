@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2267
-#2|@zeekat|2017
+#1|@OpeningsBot|2266
+#2|@zeekat|2014

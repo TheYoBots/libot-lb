@@ -852,6 +852,7 @@ emrysbot
 endogenetic-bot
 endokingsspade
 enduring_leela
+energyofbeingbot
 engasaad-bot
 enginehighlvl
 enginuous
@@ -878,6 +879,7 @@ evg3n413429
 evilfreak
 evolve_bot
 ewhgdvjeafd
+exogenetic-bot
 expectedoutcome
 expecto_patronum_the
 experimental_bot_01
@@ -1520,6 +1522,7 @@ liteofthenewyear
 littlegreenmanbot
 littlejennyren
 littlepatricia
+littlesamsun
 littletony
 lizzardbot
 lk-stockfish
@@ -2850,6 +2853,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-littlesamsun
-exogenetic-bot
-energyofbeingbot

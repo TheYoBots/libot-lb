@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@higuyuu67776|2352
 #85|@Karpov_bot|2335
 #86|@TeamChelsie|2331
-#87|@anti-bot|2321
+#87|@anti-bot|2327
 #88|@AI69|2312
 #89|@Kizburb|2307
 #90|@MagicverseBOT|2306
@@ -98,8 +98,8 @@ Rank|Bot|Rating
 #96|@Dean_Summer_Bot|2279
 #97|@Johnsun|2269
 #98|@SkyBlaster|2254
-#99|@mrchessmanager|2240
-#100|@OpeningsBot|2240
+#99|@OpeningsBot|2244
+#100|@mrchessmanager|2240
 #101|@TurkiyeHogwarts|2240
 #102|@EagleEye2021|2235
 #103|@chesshyperbot|2234
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@antichesssss|1964
 #135|@Menganti|1963
 #136|@CloudBOT|1950
-#137|@pawnrobot|1939
+#137|@pawnrobot|1935
 #138|@Crepusculum|1881
 #139|@NoTallkOnlyGames|1871
 #140|@Lumac0|1861
@@ -260,8 +260,8 @@ Rank|Bot|Rating
 #258|@chicken_farmer|1241
 #259|@PranavChessBot|1212
 #260|@Toxic_Bot|1202
-#261|@MinOpponentMoves|1176
-#262|@DespacitoBot|1175
+#261|@DespacitoBot|1175
+#262|@MinOpponentMoves|1174
 #263|@BogoBot|1155
 #264|@thousandatom|1146
 #265|@Green_Tea_Ice_Cream|1107
