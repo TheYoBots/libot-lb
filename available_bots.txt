@@ -1856,6 +1856,7 @@ ok12435
 ok_zabu
 olympuscz
 olympusdragoncz
+olympusevolvedcz
 om2022_bot
 om_the_great_bot
 omega-pro
@@ -2634,6 +2635,7 @@ ugonjinji
 uiagbot
 ujwal1001
 ukbot
+ukraine-team-creator
 ultimatel
 ultimatestockfish
 ultimatevariants
@@ -2848,5 +2850,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ukraine-team-creator
-olympusevolvedcz
+littlesamsun
+exogenetic-bot
+energyofbeingbot

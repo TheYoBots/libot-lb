@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
 #3|@NimsiluBot|2901
-#4|@ToromBot|2897
+#4|@ToromBot|2900
 #5|@Fairy_Belzedar|2857
 #6|@Nikitosikbot_v2|2823
 #7|@Coolman2021|2757
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@dream_bot|1739
 #75|@YoBot_v1|1739
 #76|@ChessChildren|1730
-#77|@OpeningsBot|1724
+#77|@OpeningsBot|1728
 #78|@Johnsun|1721
 #79|@Viet-BOT|1720
 #80|@HiddeNL|1708
