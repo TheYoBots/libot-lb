@@ -31,9 +31,9 @@ Rank|Bot|Rating
 #29|@Magnus-BOT|2224
 #30|@Stockfish-MEDIUM|2224
 #31|@SkyBlaster|2220
-#32|@PowerOnBot|2195
-#33|@UnDisstoppableBot|2193
-#34|@colinbot|2188
+#32|@colinbot|2198
+#33|@PowerOnBot|2195
+#34|@UnDisstoppableBot|2193
 #35|@Amrobotone|2184
 #36|@HuxZero|2163
 #37|@Mega_BOT|2148
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@PetersTestBot|1890
 #84|@MistakeBOT|1886
 #85|@EagleEye2021|1880
-#86|@OpeningsBot|1871
+#86|@OpeningsBot|1868
 #87|@xiang-qi|1868
 #88|@que-hyper|1865
 #89|@relevantproblem|1857
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Breeze-Hot|1606
 #112|@Just-a-random-bot|1604
 #113|@Epiano_Bot|1567
-#114|@DavidsGuterBot|1547
+#114|@DavidsGuterBot|1545
 #115|@Toxic_Bot|1541
 #116|@SXDEFENDER|1534
 #117|@Light_To_The_Rescue|1523
@@ -148,8 +148,8 @@ Rank|Bot|Rating
 #146|@THEANDROIDBOT|1317
 #147|@Challengeme2anything|1307
 #148|@NoTallkOnlyGames|1291
-#149|@jasans_bot|1268
-#150|@pawnrobot|1266
+#149|@pawnrobot|1269
+#150|@jasans_bot|1268
 #151|@ChessChipBot|1258
 #152|@Hrant_Petrosyan_BOT|1258
 #153|@HiddeNL|1242

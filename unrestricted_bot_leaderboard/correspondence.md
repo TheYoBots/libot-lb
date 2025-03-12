@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@mrohCentaur|2285
 #37|@Toodfish|2273
 #38|@Cheng-4|2269
-#39|@OpeningsBot|2266
+#39|@OpeningsBot|2268
 #40|@Blue_Mongoose|2249
 #41|@Shocky_BOT|2245
 #42|@nukechess-bot|2244
@@ -379,4 +379,4 @@ Rank|Bot|Rating
 #377|@G0thamB0t|954
 #378|@GuineaBot|866
 #379|@BogoBot|865
-#380|@grandQ_AI|826
+#380|@grandQ_AI|825

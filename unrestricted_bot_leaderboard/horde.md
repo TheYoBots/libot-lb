@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
 #3|@NimsiluBot|2901
-#4|@ToromBot|2900
+#4|@ToromBot|2888
 #5|@Fairy_Belzedar|2857
 #6|@Nikitosikbot_v2|2823
 #7|@Coolman2021|2757
@@ -26,9 +26,9 @@ Rank|Bot|Rating
 #24|@CloudBot_v2|2252
 #25|@ElPeonElectrico|2203
 #26|@UltronBot|2199
-#27|@Trumpfor2O2O|2162
-#28|@ResoluteBot|2155
-#29|@TheMatrix2025|2155
+#27|@TheMatrix2025|2173
+#28|@Trumpfor2O2O|2162
+#29|@ResoluteBot|2155
 #30|@Karpov_bot|2145
 #31|@Bobby_Fischer_BOT|2136
 #32|@jasans_bot|2116
@@ -57,8 +57,8 @@ Rank|Bot|Rating
 #55|@TeamChelsie|1869
 #56|@B0T5_RU13|1852
 #57|@Lili-Variants|1846
-#58|@SacrificialSage|1815
-#59|@colinbot|1814
+#58|@colinbot|1845
+#59|@SacrificialSage|1815
 #60|@Breeze-Hot|1809
 #61|@GodelEscherBot|1805
 #62|@Yemmi-Yemmi|1799
@@ -76,9 +76,9 @@ Rank|Bot|Rating
 #74|@dream_bot|1739
 #75|@YoBot_v1|1739
 #76|@ChessChildren|1730
-#77|@OpeningsBot|1728
-#78|@Johnsun|1721
-#79|@Viet-BOT|1720
+#77|@Johnsun|1721
+#78|@Viet-BOT|1720
+#79|@OpeningsBot|1713
 #80|@HiddeNL|1708
 #81|@chesshyperbot|1702
 #82|@CoderDen732|1700
