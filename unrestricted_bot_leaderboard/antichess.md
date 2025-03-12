@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@ChessVBOT|2829
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
-#15|@RaspFish|2803
+#15|@RaspFish|2813
 #16|@lord-bot|2789
 #17|@FireFishBOT|2785
 #18|@VariantsTop|2765
@@ -22,9 +22,9 @@ Rank|Bot|Rating
 #20|@NimsiluBot|2757
 #21|@TheMatrix2025|2742
 #22|@ibep|2733
-#23|@colinbot|2703
-#24|@Lili-Variants|2693
-#25|@buffFishNet|2692
+#23|@Lili-Variants|2693
+#24|@buffFishNet|2692
+#25|@colinbot|2687
 #26|@LoseisnotAvailablehe|2677
 #27|@AntichessAnalyzer|2673
 #28|@SCP079|2662
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@higuyuu67776|2352
 #85|@Karpov_bot|2335
 #86|@TeamChelsie|2331
-#87|@anti-bot|2315
+#87|@anti-bot|2318
 #88|@AI69|2312
 #89|@Kizburb|2307
 #90|@MagicverseBOT|2306
