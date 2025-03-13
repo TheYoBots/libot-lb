@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@Quanticade|2286
 #36|@mrohCentaur|2285
 #37|@Toodfish|2273
-#38|@Cheng-4|2269
-#39|@OpeningsBot|2268
+#38|@OpeningsBot|2270
+#39|@Cheng-4|2269
 #40|@Blue_Mongoose|2249
 #41|@Shocky_BOT|2245
 #42|@nukechess-bot|2244
@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@BigBrainen|1970
 #134|@BritBot|1970
 #135|@Test_God_50_BOT|1965
-#136|@matmoi|1961
-#137|@WMatt|1958
+#136|@WMatt|1958
+#137|@matmoi|1956
 #138|@Primer-Bot|1956
 #139|@SohamChessBot|1956
 #140|@Thera_Engine|1955

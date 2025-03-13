@@ -1857,6 +1857,7 @@ ofish-fast
 ohnibot
 ok12435
 ok_zabu
+olympusalexandriacz
 olympuscz
 olympusdragoncz
 olympusevolvedcz
@@ -2853,4 +2854,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-olympusalexandriacz

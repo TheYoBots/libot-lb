@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
-#18|@RaspFish|2293
+#18|@RaspFish|2303
 #19|@MalanChess|2292
 #20|@Nikitosik-ai|2288
 #21|@LudwigBOT|2281
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@PowerOnBot|2195
 #33|@UnDisstoppableBot|2193
 #34|@Amrobotone|2184
-#35|@colinbot|2177
-#36|@HuxZero|2163
+#35|@HuxZero|2163
+#36|@colinbot|2160
 #37|@Mega_BOT|2148
 #38|@AI69|2143
 #39|@RobotTigerSlav|2136
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Breeze-Hot|1606
 #112|@Just-a-random-bot|1604
 #113|@Epiano_Bot|1567
-#114|@DavidsGuterBot|1547
+#114|@DavidsGuterBot|1549
 #115|@Toxic_Bot|1541
 #116|@SXDEFENDER|1534
 #117|@Light_To_The_Rescue|1523
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@Challengeme2anything|1307
 #148|@NoTallkOnlyGames|1291
 #149|@jasans_bot|1268
-#150|@pawnrobot|1266
+#150|@pawnrobot|1263
 #151|@ChessChipBot|1258
 #152|@Hrant_Petrosyan_BOT|1258
 #153|@HiddeNL|1242

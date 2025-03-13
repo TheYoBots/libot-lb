@@ -139,9 +139,9 @@ Rank|Bot|Rating
 #137|@Lili-Variants|1943
 #138|@HappyDeepawali|1941
 #139|@EagleEye2021|1935
-#140|@hjhjhjhjhjhj|1923
-#141|@FyChess2|1921
-#142|@colinbot|1917
+#140|@colinbot|1927
+#141|@hjhjhjhjhjhj|1923
+#142|@FyChess2|1921
 #143|@PetersBot|1914
 #144|@B4dF1sh|1903
 #145|@Isotopebot|1900
@@ -220,8 +220,8 @@ Rank|Bot|Rating
 #218|@OpLdksijfKJ|1589
 #219|@PROBOT123567|1589
 #220|@Chess_omar_2009|1575
-#221|@katzebot|1573
-#222|@Pineapple-Friendly|1569
+#221|@Pineapple-Friendly|1569
+#222|@katzebot|1568
 #223|@Bottios|1563
 #224|@AntarticAnonymous|1553
 #225|@HiddeNL|1551
@@ -263,8 +263,8 @@ Rank|Bot|Rating
 #261|@MrMolotov|1436
 #262|@BOSS_CHESS_BOT|1431
 #263|@shakboy9824453231op|1420
-#264|@pawnrobot|1416
-#265|@bunny_2021|1413
+#264|@bunny_2021|1413
+#265|@pawnrobot|1405
 #266|@Butzke_BOT|1401
 #267|@MartianBot|1386
 #268|@Trumpfor2O2O|1386
@@ -319,7 +319,7 @@ Rank|Bot|Rating
 #317|@ZX-Chess|946
 #318|@BogoBot|945
 #319|@thousandatom|865
-#320|@MinOpponentMoves|828
+#320|@MinOpponentMoves|842
 #321|@bfdzvfsgaergfds|800
 #322|@TheThanosBot|696
 #323|@BetaOneBot|690

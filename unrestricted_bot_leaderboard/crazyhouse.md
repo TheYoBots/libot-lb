@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@ElPeonElectrico|2454
 #25|@abhisun_bot|2444
 #26|@pistol-play|2437
-#27|@RaspFish|2397
+#27|@RaspFish|2400
 #28|@YoBot_v2|2394
 #29|@CloudBOT|2393
 #30|@NienishiEngine|2392
@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@PyChessBot|1978
 #73|@ESC_BOT|1966
 #74|@mrchessmanager|1962
-#75|@colinbot|1949
-#76|@Hyper-Stockfish|1947
+#75|@Hyper-Stockfish|1947
+#76|@colinbot|1945
 #77|@PolyBOT|1945
 #78|@bananaaaaaaaaa_test|1942
 #79|@chessbot2880|1921
