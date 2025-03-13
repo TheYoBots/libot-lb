@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
 #3|@NimsiluBot|2901
-#4|@ToromBot|2889
+#4|@ToromBot|2878
 #5|@Fairy_Belzedar|2857
 #6|@Nikitosikbot_v2|2823
 #7|@Coolman2021|2757
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@TeamChelsie|1869
 #56|@B0T5_RU13|1852
 #57|@Lili-Variants|1846
-#58|@colinbot|1840
+#58|@colinbot|1842
 #59|@SacrificialSage|1815
 #60|@Breeze-Hot|1809
 #61|@GodelEscherBot|1805
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Nicholaswb_BOT|1288
 #128|@AEBROADUSBOTTER|1279
 #129|@ReallyCrazyBOT|1279
-#130|@pawnrobot|1274
+#130|@pawnrobot|1273
 #131|@AbhijithHISBot|1258
 #132|@Humuhumunukunukuapu|1258
 #133|@Jannik08_fan|1258
@@ -146,7 +146,7 @@ Rank|Bot|Rating
 #144|@ZX-Chess|1145
 #145|@duythong1402|1120
 #146|@alvin-chess-bot|1091
-#147|@MinOpponentMoves|987
+#147|@MinOpponentMoves|991
 #148|@MateCheckCapture|885
 #149|@GuineaBot2|851
 #150|@Ramses-Chess|800

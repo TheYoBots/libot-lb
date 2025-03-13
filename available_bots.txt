@@ -2854,3 +2854,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+bravebot
+rybkaoldengine
+strategemx

@@ -194,8 +194,8 @@ Rank|Bot|Rating
 #192|@ZX-Chess|1011
 #193|@magnusglad_bot|981
 #194|@JPSBOT|958
-#195|@MateCheckCapture|862
-#196|@RSVMentor|862
-#197|@GuineaBot3|845
-#198|@MinOpponentMoves|837
+#195|@MinOpponentMoves|869
+#196|@MateCheckCapture|862
+#197|@RSVMentor|862
+#198|@GuineaBot3|845
 #199|@TrashBot|800
