@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@thibot|2393
 #39|@Jussicas|2373
 #40|@Lili-Variants|2357
-#41|@Viet_BOT|2344
-#42|@colinbot|2340
+#41|@colinbot|2351
+#42|@Viet_BOT|2344
 #43|@EvenMatchup|2336
 #44|@ibep|2333
 #45|@CloudBot_v2|2331
@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@higuyuu67776|2200
 #69|@Nobody11892|2200
 #70|@Trainspotter|2200
-#71|@OpeningsBot|2191
-#72|@Hyper-Stockfish|2189
+#71|@Hyper-Stockfish|2189
+#72|@OpeningsBot|2187
 #73|@Johnsun|2181
 #74|@HuxZero|2176
 #75|@AnUtterlyKarBot|2174
@@ -179,4 +179,4 @@ Rank|Bot|Rating
 #177|@Simpafteur|1069
 #178|@MateCheckCapture|1011
 #179|@ZX-Chess|982
-#180|@MinOpponentMoves|632
+#180|@MinOpponentMoves|575

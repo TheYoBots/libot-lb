@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@ChessVBOT|2829
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
-#15|@RaspFish|2796
+#15|@RaspFish|2805
 #16|@lord-bot|2789
 #17|@FireFishBOT|2785
 #18|@TheMatrix2025|2775
@@ -22,9 +22,9 @@ Rank|Bot|Rating
 #20|@Viet-AI|2765
 #21|@NimsiluBot|2757
 #22|@ibep|2733
-#23|@colinbot|2698
-#24|@Lili-Variants|2693
-#25|@buffFishNet|2692
+#23|@Lili-Variants|2693
+#24|@buffFishNet|2692
+#25|@colinbot|2684
 #26|@LoseisnotAvailablehe|2677
 #27|@AntichessAnalyzer|2673
 #28|@SCP079|2662
@@ -86,8 +86,8 @@ Rank|Bot|Rating
 #84|@higuyuu67776|2352
 #85|@Karpov_bot|2335
 #86|@TeamChelsie|2331
-#87|@anti-bot|2325
-#88|@AI69|2312
+#87|@AI69|2312
+#88|@anti-bot|2310
 #89|@Kizburb|2307
 #90|@MagicverseBOT|2306
 #91|@abhisun_bot|2305
@@ -259,8 +259,8 @@ Rank|Bot|Rating
 #257|@MeetNarangBOT|1287
 #258|@KaTHHHH|1264
 #259|@chicken_farmer|1241
-#260|@MinOpponentMoves|1218
-#261|@PranavChessBot|1212
+#260|@PranavChessBot|1212
+#261|@MinOpponentMoves|1204
 #262|@Toxic_Bot|1202
 #263|@DespacitoBot|1175
 #264|@BogoBot|1155

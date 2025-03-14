@@ -73,9 +73,9 @@ Rank|Bot|Rating
 #71|@Magnus-BOT|1986
 #72|@PyChessBot|1978
 #73|@ESC_BOT|1966
-#74|@mrchessmanager|1962
-#75|@Hyper-Stockfish|1947
-#76|@colinbot|1945
+#74|@colinbot|1962
+#75|@mrchessmanager|1962
+#76|@Hyper-Stockfish|1947
 #77|@PolyBOT|1945
 #78|@bananaaaaaaaaa_test|1942
 #79|@chessbot2880|1921
@@ -112,9 +112,9 @@ Rank|Bot|Rating
 #110|@Lili-Variants|1698
 #111|@Lightning_SpeedChess|1696
 #112|@B0T5_RU13|1683
-#113|@OpeningsBot|1670
-#114|@FASTCHESSBOT|1666
-#115|@SipsonsamsonBOT|1665
+#113|@FASTCHESSBOT|1666
+#114|@SipsonsamsonBOT|1665
+#115|@OpeningsBot|1662
 #116|@MistakeBOT|1655
 #117|@Isaacwb_BOT|1640
 #118|@SacrificialSage|1629
@@ -194,8 +194,8 @@ Rank|Bot|Rating
 #192|@ZX-Chess|1011
 #193|@magnusglad_bot|981
 #194|@JPSBOT|958
-#195|@MinOpponentMoves|869
-#196|@MateCheckCapture|862
-#197|@RSVMentor|862
+#195|@MateCheckCapture|862
+#196|@RSVMentor|862
+#197|@MinOpponentMoves|849
 #198|@GuineaBot3|845
 #199|@TrashBot|800

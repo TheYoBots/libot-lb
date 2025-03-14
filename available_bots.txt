@@ -430,6 +430,7 @@ brainlearn11_nnue
 brainofish
 brainstorm_bot
 brainypratyush3
+bravebot
 bravestknightbot
 bread_engine
 breadeater_engine
@@ -2162,6 +2163,7 @@ rust-engine
 rust_lang_chess
 rustbot
 rustypigeon
+rybkaoldengine
 s2rarro
 s_stock
 sacgod1020
@@ -2382,6 +2384,7 @@ stoqfish
 storm_shadow2012
 stormphraxengine
 storng766555
+strategemx
 strawberrycupcakee
 streamervschat
 striker_bot
@@ -2854,6 +2857,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bravebot
-rybkaoldengine
-strategemx
+intuitive_ai

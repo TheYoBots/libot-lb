@@ -138,8 +138,8 @@ Rank|Bot|Rating
 #136|@atomicli|1951
 #137|@Lili-Variants|1943
 #138|@HappyDeepawali|1941
-#139|@EagleEye2021|1935
-#140|@colinbot|1927
+#139|@colinbot|1937
+#140|@EagleEye2021|1935
 #141|@hjhjhjhjhjhj|1923
 #142|@FyChess2|1921
 #143|@PetersBot|1914
@@ -214,7 +214,7 @@ Rank|Bot|Rating
 #212|@NoTallkOnlyGames|1610
 #213|@ahmet-botahmet|1607
 #214|@Challengeme2anything|1605
-#215|@katzebot|1599
+#215|@katzebot|1594
 #216|@JustDontFlagMe|1593
 #217|@admin-bot|1592
 #218|@JustAnother_BOT|1589
@@ -319,7 +319,7 @@ Rank|Bot|Rating
 #317|@ZX-Chess|946
 #318|@BogoBot|945
 #319|@thousandatom|865
-#320|@MinOpponentMoves|847
+#320|@MinOpponentMoves|845
 #321|@bfdzvfsgaergfds|800
 #322|@TheThanosBot|696
 #323|@BetaOneBot|690

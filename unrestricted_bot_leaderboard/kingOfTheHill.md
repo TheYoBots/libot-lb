@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@PowerOnBot|2195
 #33|@UnDisstoppableBot|2193
 #34|@Amrobotone|2184
-#35|@HuxZero|2163
-#36|@colinbot|2160
+#35|@colinbot|2169
+#36|@HuxZero|2163
 #37|@Mega_BOT|2148
 #38|@AI69|2143
 #39|@RobotTigerSlav|2136
@@ -85,9 +85,9 @@ Rank|Bot|Rating
 #83|@PetersTestBot|1890
 #84|@MistakeBOT|1886
 #85|@EagleEye2021|1880
-#86|@OpeningsBot|1868
-#87|@xiang-qi|1868
-#88|@que-hyper|1865
+#86|@xiang-qi|1868
+#87|@que-hyper|1865
+#88|@OpeningsBot|1864
 #89|@relevantproblem|1857
 #90|@Botzer|1851
 #91|@B0T5_RU13|1835
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Breeze-Hot|1606
 #112|@Just-a-random-bot|1604
 #113|@Epiano_Bot|1567
-#114|@DavidsGuterBot|1551
+#114|@DavidsGuterBot|1555
 #115|@Toxic_Bot|1541
 #116|@SXDEFENDER|1534
 #117|@Light_To_The_Rescue|1523
@@ -149,9 +149,9 @@ Rank|Bot|Rating
 #147|@Challengeme2anything|1307
 #148|@NoTallkOnlyGames|1291
 #149|@jasans_bot|1268
-#150|@pawnrobot|1261
-#151|@ChessChipBot|1258
-#152|@Hrant_Petrosyan_BOT|1258
+#150|@ChessChipBot|1258
+#151|@Hrant_Petrosyan_BOT|1258
+#152|@pawnrobot|1255
 #153|@HiddeNL|1242
 #154|@knight_128|1233
 #155|@MyNameIsSpeedy|1226
@@ -170,5 +170,5 @@ Rank|Bot|Rating
 #168|@thousandatom|970
 #169|@BogoBot|946
 #170|@GuineaBot2|884
-#171|@MinOpponentMoves|852
+#171|@MinOpponentMoves|851
 #172|@MateCheckCapture|795
