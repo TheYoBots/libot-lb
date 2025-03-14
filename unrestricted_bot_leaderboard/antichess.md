@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@ibep|2733
 #23|@Lili-Variants|2693
 #24|@buffFishNet|2692
-#25|@colinbot|2684
+#25|@colinbot|2685
 #26|@LoseisnotAvailablehe|2677
 #27|@AntichessAnalyzer|2673
 #28|@SCP079|2662
@@ -84,10 +84,10 @@ Rank|Bot|Rating
 #82|@Less_of_a_threat|2357
 #83|@Viet_BOT|2354
 #84|@higuyuu67776|2352
-#85|@Karpov_bot|2335
-#86|@TeamChelsie|2331
-#87|@AI69|2312
-#88|@anti-bot|2310
+#85|@anti-bot|2345
+#86|@Karpov_bot|2335
+#87|@TeamChelsie|2331
+#88|@AI69|2312
 #89|@Kizburb|2307
 #90|@MagicverseBOT|2306
 #91|@abhisun_bot|2305
@@ -260,7 +260,7 @@ Rank|Bot|Rating
 #258|@KaTHHHH|1264
 #259|@chicken_farmer|1241
 #260|@PranavChessBot|1212
-#261|@MinOpponentMoves|1204
+#261|@MinOpponentMoves|1207
 #262|@Toxic_Bot|1202
 #263|@DespacitoBot|1175
 #264|@BogoBot|1155

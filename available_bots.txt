@@ -1220,6 +1220,7 @@ integralbot
 integralmathbot
 inteli5bot
 intron014
+intuitive_ai
 invincibot
 ios_bot
 ipk_mahaweli
@@ -2857,4 +2858,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-intuitive_ai
+knightowlbot

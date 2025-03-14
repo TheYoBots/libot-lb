@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@ChessVBOT|2168
 #57|@Peaceful4Life|2160
 #58|@SCP079|2156
-#59|@TheMatrix2025|2155
-#60|@CloudBot_v2|2131
+#59|@CloudBot_v2|2131
+#60|@TheMatrix2025|2115
 #61|@Johnsun|2113
 #62|@SixtyFourEngine|2089
 #63|@relevantproblem|2077
@@ -71,9 +71,9 @@ Rank|Bot|Rating
 #69|@thibot|2032
 #70|@Less_of_a_threat|2025
 #71|@Magnus-BOT|1986
-#72|@PyChessBot|1978
-#73|@ESC_BOT|1966
-#74|@colinbot|1962
+#72|@colinbot|1979
+#73|@PyChessBot|1978
+#74|@ESC_BOT|1966
 #75|@mrchessmanager|1962
 #76|@Hyper-Stockfish|1947
 #77|@PolyBOT|1945

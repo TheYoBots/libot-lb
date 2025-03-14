@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@Nikitosik-ai|2698
 #4|@SkyBlaster|2603
 #5|@Viet-AI|2600
-#6|@ToromBot|2585
-#7|@lord-bot|2581
+#6|@lord-bot|2581
+#7|@ToromBot|2577
 #8|@Fairy_Belzedar|2559
 #9|@EmptikVariantsBot|2557
 #10|@FireFishBOT|2547
@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@lightspeed_bot|2396
 #38|@thibot|2393
 #39|@Jussicas|2373
-#40|@Lili-Variants|2357
-#41|@colinbot|2351
+#40|@colinbot|2361
+#41|@Lili-Variants|2357
 #42|@Viet_BOT|2344
 #43|@EvenMatchup|2336
 #44|@ibep|2333
@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@Nobody11892|2200
 #70|@Trainspotter|2200
 #71|@Hyper-Stockfish|2189
-#72|@OpeningsBot|2187
+#72|@OpeningsBot|2184
 #73|@Johnsun|2181
 #74|@HuxZero|2176
 #75|@AnUtterlyKarBot|2174
@@ -179,4 +179,4 @@ Rank|Bot|Rating
 #177|@Simpafteur|1069
 #178|@MateCheckCapture|1011
 #179|@ZX-Chess|982
-#180|@MinOpponentMoves|575
+#180|@MinOpponentMoves|569
