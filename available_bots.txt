@@ -2115,6 +2115,7 @@ rezdarservan
 rigorousmoron
 rinestro
 rinestrotal
+riobot
 riojacomp
 riptorn
 rishab_bindal
@@ -2859,4 +2860,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-riobot
+fipsi_x
+che_domi
+vpbot
