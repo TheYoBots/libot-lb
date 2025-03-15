@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@TeamChelsie|1869
 #56|@B0T5_RU13|1852
 #57|@Lili-Variants|1846
-#58|@colinbot|1842
+#58|@colinbot|1828
 #59|@SacrificialSage|1815
 #60|@Breeze-Hot|1809
 #61|@GodelEscherBot|1805
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@ChessChildren|1730
 #77|@Johnsun|1721
 #78|@Viet-BOT|1720
-#79|@OpeningsBot|1713
+#79|@OpeningsBot|1719
 #80|@HiddeNL|1708
 #81|@chesshyperbot|1702
 #82|@CoderDen732|1700

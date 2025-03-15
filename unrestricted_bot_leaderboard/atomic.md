@@ -136,9 +136,9 @@ Rank|Bot|Rating
 #134|@AEBROADUSBOTTER|1958
 #135|@AtomicRouletteBot|1955
 #136|@atomicli|1951
-#137|@Lili-Variants|1943
-#138|@HappyDeepawali|1941
-#139|@colinbot|1937
+#137|@colinbot|1946
+#138|@Lili-Variants|1943
+#139|@HappyDeepawali|1941
 #140|@EagleEye2021|1935
 #141|@hjhjhjhjhjhj|1923
 #142|@FyChess2|1921
@@ -214,9 +214,9 @@ Rank|Bot|Rating
 #212|@NoTallkOnlyGames|1610
 #213|@ahmet-botahmet|1607
 #214|@Challengeme2anything|1605
-#215|@katzebot|1594
-#216|@JustDontFlagMe|1593
-#217|@admin-bot|1592
+#215|@JustDontFlagMe|1593
+#216|@admin-bot|1592
+#217|@katzebot|1590
 #218|@JustAnother_BOT|1589
 #219|@OpLdksijfKJ|1589
 #220|@PROBOT123567|1589

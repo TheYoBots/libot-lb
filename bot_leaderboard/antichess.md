@@ -1,6 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@anti-bot|2345
-#2|@OpeningsBot|2244
-#3|@pawnrobot|1939
-#4|@MinOpponentMoves|1207
+#1|@Nakshatra3|2485
+#2|@anti-bot|2341
+#3|@OpeningsBot|2250
+#4|@pawnrobot|1939
+#5|@MinOpponentMoves|1181

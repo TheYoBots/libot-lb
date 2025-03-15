@@ -196,6 +196,6 @@ Rank|Bot|Rating
 #194|@JPSBOT|958
 #195|@MateCheckCapture|862
 #196|@RSVMentor|862
-#197|@MinOpponentMoves|849
+#197|@MinOpponentMoves|847
 #198|@GuineaBot3|845
 #199|@TrashBot|800

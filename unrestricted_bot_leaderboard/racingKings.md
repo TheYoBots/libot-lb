@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@FireFishBOT|2547
 #11|@LudwigBOT|2536
 #12|@ChessVBOT|2531
-#13|@Coolman2021|2527
-#14|@EmptikBot|2526
-#15|@RaspFish|2524
+#13|@RaspFish|2529
+#14|@Coolman2021|2527
+#15|@EmptikBot|2526
 #16|@Nebulogic|2514
 #17|@SCP079|2513
 #18|@NimsiluBot|2500
@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@lightspeed_bot|2396
 #38|@thibot|2393
 #39|@Jussicas|2373
-#40|@colinbot|2361
-#41|@Lili-Variants|2357
+#40|@Lili-Variants|2357
+#41|@colinbot|2344
 #42|@Viet_BOT|2344
 #43|@EvenMatchup|2336
 #44|@ibep|2333
@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@Nobody11892|2200
 #70|@Trainspotter|2200
 #71|@Hyper-Stockfish|2189
-#72|@OpeningsBot|2184
+#72|@OpeningsBot|2186
 #73|@Johnsun|2181
 #74|@HuxZero|2176
 #75|@AnUtterlyKarBot|2174

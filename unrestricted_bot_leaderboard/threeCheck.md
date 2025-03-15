@@ -36,9 +36,9 @@ Rank|Bot|Rating
 #34|@Zer0_Tw0|2332
 #35|@LudwigBOT|2304
 #36|@lord-bot|2300
-#37|@TheMatrix2025|2291
+#37|@TheMatrix2025|2290
 #38|@KingfishX|2285
-#39|@colinbot|2283
+#39|@colinbot|2284
 #40|@The-Fastest-Bot|2277
 #41|@CocopikachuBOT|2274
 #42|@vrnts_colinbot|2266
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@Kyle_0111|1421
 #136|@azdad|1420
 #137|@Peaceful4Life|1412
-#138|@pawnrobot|1399
+#138|@pawnrobot|1398
 #139|@RochadeSchachzeitung|1392
 #140|@MasterofChessBOT800|1391
 #141|@HiddeNL|1385
@@ -167,7 +167,7 @@ Rank|Bot|Rating
 #165|@Happy_One|1105
 #166|@DespacitoBot|1080
 #167|@ZX-Chess|1063
-#168|@MinOpponentMoves|985
+#168|@MinOpponentMoves|981
 #169|@GuineaBot3|972
 #170|@BogoBot|928
 #171|@MateCheckCapture|923
