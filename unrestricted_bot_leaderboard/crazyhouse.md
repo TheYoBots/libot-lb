@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@Jussicas|2035
 #69|@thibot|2032
 #70|@Less_of_a_threat|2025
-#71|@Magnus-BOT|1986
-#72|@colinbot|1981
+#71|@colinbot|1987
+#72|@Magnus-BOT|1986
 #73|@PyChessBot|1978
 #74|@ESC_BOT|1966
 #75|@mrchessmanager|1962
@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@B0T5_RU13|1683
 #113|@FASTCHESSBOT|1666
 #114|@SipsonsamsonBOT|1665
-#115|@OpeningsBot|1658
-#116|@MistakeBOT|1655
+#115|@MistakeBOT|1655
+#116|@OpeningsBot|1655
 #117|@Isaacwb_BOT|1640
 #118|@SacrificialSage|1629
 #119|@SriLankaChess|1623

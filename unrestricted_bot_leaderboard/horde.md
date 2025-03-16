@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@TeamChelsie|1869
 #56|@B0T5_RU13|1852
 #57|@Lili-Variants|1846
-#58|@colinbot|1828
+#58|@colinbot|1831
 #59|@SacrificialSage|1815
 #60|@Breeze-Hot|1809
 #61|@GodelEscherBot|1805
@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@Nicholaswb_BOT|1288
 #130|@AEBROADUSBOTTER|1279
 #131|@ReallyCrazyBOT|1279
-#132|@pawnrobot|1273
+#132|@pawnrobot|1271
 #133|@AbhijithHISBot|1258
 #134|@Humuhumunukunukuapu|1258
 #135|@Jannik08_fan|1258

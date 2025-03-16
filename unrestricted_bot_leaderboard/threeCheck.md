@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@CocopikachuBOT|2274
 #41|@vrnts_colinbot|2266
 #42|@YoBot_v2|2257
-#43|@colinbot|2241
+#43|@colinbot|2242
 #44|@Vinh_VariantsBot|2215
 #45|@Kizburb|2214
 #46|@xiang-qi|2207
@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@SUMEETTHEPRO|1708
 #103|@Yemmi-Yemmi|1702
 #104|@clueless-bot|1685
-#105|@DavidsGuterBot|1657
-#106|@NormalBulletBot|1657
+#105|@NormalBulletBot|1657
+#106|@DavidsGuterBot|1650
 #107|@the_checkmating_bot|1643
 #108|@CoderDen732|1639
 #109|@Botkingteam33|1633
@@ -137,9 +137,9 @@ Rank|Bot|Rating
 #135|@Kyle_0111|1421
 #136|@azdad|1420
 #137|@Peaceful4Life|1412
-#138|@RochadeSchachzeitung|1392
-#139|@MasterofChessBOT800|1391
-#140|@pawnrobot|1391
+#138|@pawnrobot|1399
+#139|@RochadeSchachzeitung|1392
+#140|@MasterofChessBOT800|1391
 #141|@HiddeNL|1385
 #142|@apraz|1383
 #143|@Bottios|1323
@@ -167,7 +167,7 @@ Rank|Bot|Rating
 #165|@Happy_One|1105
 #166|@DespacitoBot|1080
 #167|@ZX-Chess|1063
-#168|@MinOpponentMoves|1019
+#168|@MinOpponentMoves|999
 #169|@GuineaBot3|972
 #170|@BogoBot|928
 #171|@MateCheckCapture|923

@@ -514,6 +514,7 @@ chamberiajedrez
 charibot
 charlesbot
 chat_bot
+che_domi
 cheakykoala
 checkbro_official
 checkmate-ai
@@ -924,6 +925,7 @@ fib0t
 fibonachi
 fightertristan
 filipo6900
+fipsi_x
 fire8n_unoffical
 fireball-64
 firebolt194
@@ -2715,6 +2717,7 @@ volkchessengine
 volterbot
 votechess
 votemymove
+vpbot
 vrnts_colinbot
 vvv0rtex_bot
 w1z4rd_b0t
@@ -2860,6 +2863,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-fipsi_x
-che_domi
-vpbot
+aldogamer001_bot
+alphamovebot

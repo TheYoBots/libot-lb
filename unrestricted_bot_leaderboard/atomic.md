@@ -5,12 +5,12 @@ Rank|Bot|Rating
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
 #5|@Fairy_Belzedar|2628
-#6|@Coolman2021|2601
-#7|@KizVariant|2597
-#8|@Nikitosik-ai|2592
-#9|@pistol-play|2590
-#10|@ToromBot|2586
-#11|@RaspFish|2572
+#6|@ToromBot|2616
+#7|@Coolman2021|2601
+#8|@KizVariant|2597
+#9|@Nikitosik-ai|2592
+#10|@pistol-play|2590
+#11|@RaspFish|2580
 #12|@NimsiluBot|2569
 #13|@Nikitosikbot_v2|2567
 #14|@UltronBot|2556
@@ -121,8 +121,8 @@ Rank|Bot|Rating
 #119|@HuxZero|2035
 #120|@EasyWinGG|2032
 #121|@Kizbuurb|2024
-#122|@ESC_BOT|2011
-#123|@colinbot|2008
+#122|@colinbot|2019
+#123|@ESC_BOT|2011
 #124|@are_bots_good|2006
 #125|@Breeze-Hot|2006
 #126|@CatBot329|2000
@@ -219,7 +219,7 @@ Rank|Bot|Rating
 #217|@JustAnother_BOT|1589
 #218|@OpLdksijfKJ|1589
 #219|@PROBOT123567|1589
-#220|@katzebot|1587
+#220|@katzebot|1582
 #221|@Chess_omar_2009|1575
 #222|@Pineapple-Friendly|1569
 #223|@Bottios|1563
@@ -319,7 +319,7 @@ Rank|Bot|Rating
 #317|@ZX-Chess|946
 #318|@BogoBot|945
 #319|@thousandatom|865
-#320|@MinOpponentMoves|856
+#320|@MinOpponentMoves|837
 #321|@bfdzvfsgaergfds|800
 #322|@TheThanosBot|696
 #323|@BetaOneBot|690
