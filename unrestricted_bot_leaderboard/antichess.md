@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@higuyuu67776|2352
 #85|@Karpov_bot|2335
 #86|@TeamChelsie|2331
-#87|@anti-bot|2326
+#87|@anti-bot|2328
 #88|@AI69|2312
 #89|@Kizburb|2307
 #90|@MagicverseBOT|2306
@@ -259,9 +259,9 @@ Rank|Bot|Rating
 #257|@MeetNarangBOT|1287
 #258|@KaTHHHH|1264
 #259|@chicken_farmer|1241
-#260|@MinOpponentMoves|1226
-#261|@PranavChessBot|1212
-#262|@Toxic_Bot|1202
+#260|@PranavChessBot|1212
+#261|@Toxic_Bot|1202
+#262|@MinOpponentMoves|1200
 #263|@DespacitoBot|1175
 #264|@BogoBot|1155
 #265|@thousandatom|1146

@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@lightspeed_bot|2396
 #38|@thibot|2393
 #39|@Jussicas|2373
-#40|@OpeningsBot|2363
+#40|@OpeningsBot|2367
 #41|@Lili-Variants|2357
 #42|@colinbot|2344
 #43|@Viet_BOT|2344
@@ -179,4 +179,4 @@ Rank|Bot|Rating
 #177|@Simpafteur|1069
 #178|@MateCheckCapture|1011
 #179|@ZX-Chess|982
-#180|@MinOpponentMoves|589
+#180|@MinOpponentMoves|586

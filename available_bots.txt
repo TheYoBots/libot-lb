@@ -51,6 +51,7 @@ akul_thotarobot
 alah230
 alan_bot
 albatros_engine
+aldogamer001_bot
 alehkine_cat
 alejbot
 alemor64
@@ -81,6 +82,7 @@ alphafish_zero
 alphagpt
 alphaleela0
 alphaminustwo
+alphamovebot
 alphazher0
 altair8000
 altair_engine
@@ -2863,5 +2865,7 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-aldogamer001_bot
-alphamovebot
+anindiananand
+bright_vega
+duckybot
+olympuslizardcz

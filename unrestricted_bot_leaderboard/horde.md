@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@TeamChelsie|1869
 #56|@B0T5_RU13|1852
 #57|@Lili-Variants|1846
-#58|@colinbot|1831
+#58|@colinbot|1845
 #59|@SacrificialSage|1815
 #60|@Breeze-Hot|1809
 #61|@GodelEscherBot|1805
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@ChessChildren|1730
 #77|@Johnsun|1721
 #78|@Viet-BOT|1720
-#79|@OpeningsBot|1719
+#79|@OpeningsBot|1712
 #80|@HiddeNL|1708
 #81|@chesshyperbot|1702
 #82|@CoderDen732|1700
@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@Nicholaswb_BOT|1288
 #130|@AEBROADUSBOTTER|1279
 #131|@ReallyCrazyBOT|1279
-#132|@pawnrobot|1271
+#132|@pawnrobot|1263
 #133|@AbhijithHISBot|1258
 #134|@Humuhumunukunukuapu|1258
 #135|@Jannik08_fan|1258
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@ZX-Chess|1145
 #147|@duythong1402|1120
 #148|@alvin-chess-bot|1091
-#149|@MinOpponentMoves|1005
+#149|@MinOpponentMoves|1008
 #150|@MateCheckCapture|885
 #151|@GuineaBot2|851
 #152|@Ramses-Chess|800
