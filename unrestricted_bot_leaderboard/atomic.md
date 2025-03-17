@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@Simpafteur|2062
 #113|@Vinnikk|2061
 #114|@XXIstCentury|2061
-#115|@azdad|2047
-#116|@colinbot|2047
+#115|@colinbot|2051
+#116|@azdad|2047
 #117|@Less_of_a_threat|2047
 #118|@OpeningsBot|2045
 #119|@MagnusCarlsen1507|2037
@@ -220,7 +220,7 @@ Rank|Bot|Rating
 #218|@JustAnother_BOT|1589
 #219|@OpLdksijfKJ|1589
 #220|@PROBOT123567|1589
-#221|@katzebot|1579
+#221|@katzebot|1577
 #222|@Chess_omar_2009|1575
 #223|@Pineapple-Friendly|1569
 #224|@Bottios|1563
@@ -319,7 +319,7 @@ Rank|Bot|Rating
 #317|@ZX-Chess|946
 #318|@BogoBot|945
 #319|@thousandatom|865
-#320|@MinOpponentMoves|808
+#320|@MinOpponentMoves|805
 #321|@bfdzvfsgaergfds|800
 #322|@TheThanosBot|696
 #323|@BetaOneBot|690
