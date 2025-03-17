@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@chesshyperbot|2344
 #34|@EmptikBot|2332
 #35|@lord-bot|2329
-#36|@catalanbotI|2307
-#37|@ToromBot|2306
+#36|@ToromBot|2310
+#37|@catalanbotI|2307
 #38|@Yemmi-Yemmi|2305
 #39|@Nikitosikbot_v2|2302
 #40|@Nikitosik-ai|2290
@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@Jussicas|2035
 #69|@thibot|2032
 #70|@Less_of_a_threat|2025
-#71|@colinbot|1989
-#72|@Magnus-BOT|1986
+#71|@Magnus-BOT|1986
+#72|@colinbot|1983
 #73|@PyChessBot|1978
 #74|@ESC_BOT|1966
 #75|@mrchessmanager|1962
@@ -197,5 +197,5 @@ Rank|Bot|Rating
 #195|@MateCheckCapture|862
 #196|@RSVMentor|862
 #197|@GuineaBot3|845
-#198|@MinOpponentMoves|810
+#198|@MinOpponentMoves|801
 #199|@TrashBot|800

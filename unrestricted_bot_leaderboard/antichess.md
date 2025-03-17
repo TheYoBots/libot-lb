@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@AlfaBot|2541
 #51|@Leelabotmaster|2538
 #52|@Nam-Robot|2537
-#53|@SacrificialSage|2533
+#53|@SacrificialSage|2535
 #54|@Dark_evil_bot|2525
 #55|@Bot_AOOP11|2521
 #56|@HyperLitikBOT|2511
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@higuyuu67776|2352
 #85|@Karpov_bot|2335
 #86|@TeamChelsie|2331
-#87|@anti-bot|2328
+#87|@anti-bot|2321
 #88|@AI69|2312
 #89|@Kizburb|2307
 #90|@MagicverseBOT|2306
@@ -98,7 +98,7 @@ Rank|Bot|Rating
 #96|@Dean_Summer_Bot|2279
 #97|@Johnsun|2269
 #98|@SkyBlaster|2254
-#99|@OpeningsBot|2246
+#99|@OpeningsBot|2247
 #100|@mrchessmanager|2240
 #101|@TurkiyeHogwarts|2240
 #102|@EagleEye2021|2235
