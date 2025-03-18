@@ -1783,6 +1783,7 @@ neena-2-bot
 neildandekarbot
 nemesisbot
 nemorinobot
+neohuman
 neonciv
 neuralabyss
 neuralactivity
@@ -2869,4 +2870,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-neohuman

@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@NimsiluBot|2757
 #21|@TheMatrix2025|2735
 #22|@ibep|2733
-#23|@colinbot|2701
+#23|@colinbot|2710
 #24|@Lili-Variants|2693
 #25|@buffFishNet|2692
 #26|@LoseisnotAvailablehe|2677
@@ -52,9 +52,9 @@ Rank|Bot|Rating
 #50|@AlfaBot|2541
 #51|@Leelabotmaster|2538
 #52|@Nam-Robot|2537
-#53|@SacrificialSage|2535
-#54|@Dark_evil_bot|2525
-#55|@Bot_AOOP11|2521
+#53|@Dark_evil_bot|2525
+#54|@Bot_AOOP11|2521
+#55|@SacrificialSage|2512
 #56|@HyperLitikBOT|2511
 #57|@pistol-play|2498
 #58|@Nakshatra3|2490
@@ -86,8 +86,8 @@ Rank|Bot|Rating
 #84|@higuyuu67776|2352
 #85|@Karpov_bot|2335
 #86|@TeamChelsie|2331
-#87|@anti-bot|2313
-#88|@AI69|2312
+#87|@AI69|2312
+#88|@anti-bot|2307
 #89|@Kizburb|2307
 #90|@MagicverseBOT|2306
 #91|@abhisun_bot|2305
@@ -136,10 +136,10 @@ Rank|Bot|Rating
 #134|@antichesssss|1964
 #135|@Menganti|1963
 #136|@CloudBOT|1950
-#137|@SriLankaChess|1913
+#137|@SriLankaChess|1919
 #138|@Crepusculum|1881
 #139|@NoTallkOnlyGames|1871
-#140|@pawnrobot|1871
+#140|@pawnrobot|1864
 #141|@Lumac0|1861
 #142|@Pineapple-Friendly|1858
 #143|@MyNameIsWhatLOL|1826
@@ -261,7 +261,7 @@ Rank|Bot|Rating
 #259|@chicken_farmer|1241
 #260|@PranavChessBot|1212
 #261|@Toxic_Bot|1202
-#262|@MinOpponentMoves|1193
+#262|@MinOpponentMoves|1188
 #263|@DespacitoBot|1175
 #264|@BogoBot|1155
 #265|@thousandatom|1146
