@@ -41,11 +41,11 @@ Rank|Bot|Rating
 #39|@Jussicas|2373
 #40|@Lili-Variants|2357
 #41|@colinbot|2349
-#42|@OpeningsBot|2345
-#43|@Viet_BOT|2344
-#44|@EvenMatchup|2336
-#45|@ibep|2333
-#46|@CloudBot_v2|2331
+#42|@Viet_BOT|2344
+#43|@EvenMatchup|2336
+#44|@ibep|2333
+#45|@CloudBot_v2|2331
+#46|@OpeningsBot|2331
 #47|@ElPeonElectrico|2326
 #48|@chessbot2880|2323
 #49|@Bot_AOOP11|2314

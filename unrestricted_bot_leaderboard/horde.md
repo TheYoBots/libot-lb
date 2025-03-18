@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
-#12|@RaspFish|2529
+#12|@RaspFish|2530
 #13|@EmptikVariantsBot|2402
 #14|@EmptikBot|2378
 #15|@LoseisnotAvailablehe|2369
@@ -55,9 +55,9 @@ Rank|Bot|Rating
 #53|@mrchessmanager|1888
 #54|@TheMatrix2029|1884
 #55|@TeamChelsie|1869
-#56|@B0T5_RU13|1852
-#57|@Lili-Variants|1846
-#58|@colinbot|1845
+#56|@colinbot|1858
+#57|@B0T5_RU13|1852
+#58|@Lili-Variants|1846
 #59|@SacrificialSage|1815
 #60|@Breeze-Hot|1809
 #61|@GodelEscherBot|1805
@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@ChessChildren|1730
 #77|@Johnsun|1721
 #78|@Viet-BOT|1720
-#79|@OpeningsBot|1712
-#80|@HiddeNL|1708
+#79|@HiddeNL|1708
+#80|@OpeningsBot|1705
 #81|@chesshyperbot|1702
 #82|@CoderDen732|1700
 #83|@relevantproblem|1667

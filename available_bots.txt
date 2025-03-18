@@ -2869,3 +2869,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+neohuman

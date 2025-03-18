@@ -36,11 +36,11 @@ Rank|Bot|Rating
 #34|@Amrobotone|2184
 #35|@HuxZero|2163
 #36|@Mega_BOT|2148
-#37|@colinbot|2147
-#38|@AI69|2143
-#39|@RobotTigerSlav|2136
-#40|@pistol-play|2121
-#41|@firstrobot|2114
+#37|@AI69|2143
+#38|@RobotTigerSlav|2136
+#39|@pistol-play|2121
+#40|@firstrobot|2114
+#41|@colinbot|2112
 #42|@NormalBulletBot|2109
 #43|@GodelEscherBot|2092
 #44|@Johnsun|2091
@@ -84,8 +84,8 @@ Rank|Bot|Rating
 #82|@Variantenkoning|1892
 #83|@PetersTestBot|1890
 #84|@MistakeBOT|1886
-#85|@EagleEye2021|1880
-#86|@OpeningsBot|1868
+#85|@OpeningsBot|1885
+#86|@EagleEye2021|1880
 #87|@xiang-qi|1868
 #88|@que-hyper|1865
 #89|@relevantproblem|1857
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Breeze-Hot|1606
 #112|@Just-a-random-bot|1604
 #113|@Epiano_Bot|1567
-#114|@DavidsGuterBot|1557
+#114|@DavidsGuterBot|1554
 #115|@Toxic_Bot|1541
 #116|@SXDEFENDER|1534
 #117|@Light_To_The_Rescue|1523
@@ -170,5 +170,5 @@ Rank|Bot|Rating
 #168|@thousandatom|970
 #169|@BogoBot|946
 #170|@GuineaBot2|884
-#171|@MinOpponentMoves|801
+#171|@MinOpponentMoves|796
 #172|@MateCheckCapture|795
