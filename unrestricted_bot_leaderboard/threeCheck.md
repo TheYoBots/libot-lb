@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@Coolman2021|2568
 #13|@Viet-BOT|2555
 #14|@ElPeonElectrico|2549
-#15|@CloudBot_v2|2544
-#16|@Fairy_Belzedar|2544
-#17|@ToromBot|2541
+#15|@ToromBot|2549
+#16|@CloudBot_v2|2544
+#17|@Fairy_Belzedar|2544
 #18|@KizVariant|2529
 #19|@Nikitosikbot_v2|2529
 #20|@SCP079|2526
@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@KingfishX|2285
 #39|@The-Fastest-Bot|2277
 #40|@CocopikachuBOT|2274
-#41|@colinbot|2269
-#42|@vrnts_colinbot|2266
+#41|@vrnts_colinbot|2266
+#42|@colinbot|2263
 #43|@YoBot_v2|2257
 #44|@Vinh_VariantsBot|2215
 #45|@Kizburb|2214
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Resolved-Bot|2026
 #63|@SacrificialSage|2026
 #64|@firstrobot|2003
-#65|@OpeningsBot|1995
+#65|@OpeningsBot|1998
 #66|@Hyper-Stockfish|1986
 #67|@GodelEscherBot|1974
 #68|@XXIstCentury|1973
@@ -105,7 +105,7 @@ Rank|Bot|Rating
 #103|@Yemmi-Yemmi|1702
 #104|@clueless-bot|1685
 #105|@NormalBulletBot|1657
-#106|@DavidsGuterBot|1646
+#106|@DavidsGuterBot|1653
 #107|@the_checkmating_bot|1643
 #108|@CoderDen732|1639
 #109|@Botkingteam33|1633
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@Kyle_0111|1421
 #136|@azdad|1420
 #137|@Peaceful4Life|1412
-#138|@pawnrobot|1401
+#138|@pawnrobot|1392
 #139|@RochadeSchachzeitung|1392
 #140|@MasterofChessBOT800|1391
 #141|@HiddeNL|1385
@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@DespacitoBot|1080
 #167|@ZX-Chess|1063
 #168|@GuineaBot3|972
-#169|@MinOpponentMoves|970
+#169|@MinOpponentMoves|968
 #170|@BogoBot|928
 #171|@MateCheckCapture|923
 #172|@TheSystem_Bot|905
