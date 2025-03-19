@@ -2870,3 +2870,7 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+berserk12-x
+shallowguessbot
+dragon-komodo
+olympusplentycz

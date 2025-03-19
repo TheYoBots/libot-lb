@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@SUMEETTHEPRO|1708
 #103|@Yemmi-Yemmi|1702
 #104|@clueless-bot|1685
-#105|@NormalBulletBot|1657
-#106|@DavidsGuterBot|1653
+#105|@DavidsGuterBot|1657
+#106|@NormalBulletBot|1657
 #107|@the_checkmating_bot|1643
 #108|@CoderDen732|1639
 #109|@Botkingteam33|1633
@@ -137,9 +137,9 @@ Rank|Bot|Rating
 #135|@Kyle_0111|1421
 #136|@azdad|1420
 #137|@Peaceful4Life|1412
-#138|@pawnrobot|1392
-#139|@RochadeSchachzeitung|1392
-#140|@MasterofChessBOT800|1391
+#138|@RochadeSchachzeitung|1392
+#139|@MasterofChessBOT800|1391
+#140|@pawnrobot|1388
 #141|@HiddeNL|1385
 #142|@apraz|1383
 #143|@Bottios|1323
@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@DespacitoBot|1080
 #167|@ZX-Chess|1063
 #168|@GuineaBot3|972
-#169|@MinOpponentMoves|968
+#169|@MinOpponentMoves|971
 #170|@BogoBot|928
 #171|@MateCheckCapture|923
 #172|@TheSystem_Bot|905

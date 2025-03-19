@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@Nicholaswb_BOT|1288
 #130|@AEBROADUSBOTTER|1279
 #131|@ReallyCrazyBOT|1279
-#132|@pawnrobot|1260
+#132|@pawnrobot|1265
 #133|@AbhijithHISBot|1258
 #134|@Humuhumunukunukuapu|1258
 #135|@Jannik08_fan|1258
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@ZX-Chess|1145
 #147|@duythong1402|1120
 #148|@alvin-chess-bot|1091
-#149|@MinOpponentMoves|1013
+#149|@MinOpponentMoves|1019
 #150|@MateCheckCapture|885
 #151|@GuineaBot2|851
 #152|@Ramses-Chess|800
