@@ -78,10 +78,10 @@ Rank|Bot|Rating
 #76|@Hyper-Stockfish|1947
 #77|@PolyBOT|1945
 #78|@bananaaaaaaaaa_test|1942
-#79|@chessbot2880|1921
-#80|@AndromedaSX1|1919
-#81|@Galaxy_Guardian|1919
-#82|@colinbot|1916
+#79|@colinbot|1922
+#80|@chessbot2880|1921
+#81|@AndromedaSX1|1919
+#82|@Galaxy_Guardian|1919
 #83|@PetersBot|1911
 #84|@Dean_Summer_Bot|1898
 #85|@vrnts_colinbot|1897
@@ -114,9 +114,9 @@ Rank|Bot|Rating
 #112|@Lili-Variants|1698
 #113|@Lightning_SpeedChess|1696
 #114|@B0T5_RU13|1683
-#115|@OpeningsBot|1667
-#116|@FASTCHESSBOT|1666
-#117|@SipsonsamsonBOT|1665
+#115|@FASTCHESSBOT|1666
+#116|@SipsonsamsonBOT|1665
+#117|@OpeningsBot|1662
 #118|@MistakeBOT|1655
 #119|@Isaacwb_BOT|1640
 #120|@SriLankaChess|1623
@@ -200,4 +200,4 @@ Rank|Bot|Rating
 #198|@RSVMentor|862
 #199|@GuineaBot3|845
 #200|@TrashBot|800
-#201|@MinOpponentMoves|782
+#201|@MinOpponentMoves|792
