@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@Alexnajax_Fan|2538
 #9|@SacrificialSage|2519
 #10|@peonasesino71|2512
-#11|@ChamberiAjedrez|2495
+#11|@ChamberiAjedrez|2496
 #12|@ServerFish|2494
 #13|@colinbot|2492
 #14|@Bingo202|2484
@@ -122,8 +122,8 @@ Rank|Bot|Rating
 #120|@kybot|2025
 #121|@MalanChess|2020
 #122|@RoyalLeela|2014
-#123|@zeekat|2014
-#124|@SchachProg|2010
+#123|@SchachProg|2010
+#124|@zeekat|2009
 #125|@ElPeonElectrico|2004
 #126|@honzovy-sachy|2002
 #127|@TESTBOT23|2000

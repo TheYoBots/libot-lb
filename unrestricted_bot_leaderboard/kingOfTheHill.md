@@ -42,11 +42,11 @@ Rank|Bot|Rating
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
 #42|@GodelEscherBot|2092
-#43|@Johnsun|2091
-#44|@Jussicas|2086
-#45|@Kizburb|2086
-#46|@Dean_Summer_Bot|2085
-#47|@colinbot|2080
+#43|@colinbot|2091
+#44|@Johnsun|2091
+#45|@Jussicas|2086
+#46|@Kizburb|2086
+#47|@Dean_Summer_Bot|2085
 #48|@ibep|2078
 #49|@Lili-Variants|2078
 #50|@Xerus_1|2076
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@HyperLitikBOT|1930
 #80|@SacrificialSage|1925
 #81|@DrSmartBugs|1904
-#82|@OpeningsBot|1901
+#82|@OpeningsBot|1895
 #83|@Variantenkoning|1892
 #84|@PetersTestBot|1890
 #85|@MistakeBOT|1886

@@ -246,6 +246,7 @@ bernstein-4ply
 berntbot
 bernucchio
 berserk-test
+berserk12-x
 berserkengine
 berserkrandommover
 best_bot_king_bot
@@ -765,6 +766,7 @@ dqn-chess
 dr0p_m1c
 dr4x0n
 dragobot
+dragon-komodo
 dragon-komodo_1
 dragon_1906
 dragon_shadow_bot
@@ -1873,6 +1875,7 @@ olympuscz
 olympusdragoncz
 olympusevolvedcz
 olympuslizardcz
+olympusplentycz
 om2022_bot
 om_the_great_bot
 omega-pro
@@ -2242,6 +2245,7 @@ shadicbot
 shaibel123
 shakboy9824453231op
 shallowengine
+shallowguessbot
 shallowlearnbot
 shallowredbot
 shallowredfish
@@ -2870,7 +2874,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-berserk12-x
-shallowguessbot
-dragon-komodo
-olympusplentycz
