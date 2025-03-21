@@ -410,6 +410,7 @@ bots8you
 botsaffel
 botsecretbot
 botsharpchess
+botshubham
 botshura
 botsimulator
 botsky16
@@ -2874,4 +2875,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-botshubham
