@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@pistol-play|2121
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
-#42|@GodelEscherBot|2092
-#43|@Johnsun|2091
-#44|@colinbot|2087
+#42|@colinbot|2097
+#43|@GodelEscherBot|2092
+#44|@Johnsun|2091
 #45|@Jussicas|2086
 #46|@Kizburb|2086
 #47|@Dean_Summer_Bot|2085
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
 #82|@DrSmartBugs|1904
-#83|@OpeningsBot|1898
+#83|@OpeningsBot|1895
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
 #86|@MistakeBOT|1886
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Just-a-random-bot|1604
 #114|@Epiano_Bot|1567
 #115|@Ramses-Chess|1566
-#116|@DavidsGuterBot|1549
+#116|@DavidsGuterBot|1548
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
