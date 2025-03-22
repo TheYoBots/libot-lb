@@ -41,14 +41,14 @@ Rank|Bot|Rating
 #39|@thibot|2393
 #40|@Jussicas|2373
 #41|@Lili-Variants|2357
-#42|@colinbot|2353
-#43|@Viet_BOT|2344
+#42|@Viet_BOT|2344
+#43|@colinbot|2340
 #44|@EvenMatchup|2336
 #45|@ibep|2333
-#46|@CloudBot_v2|2331
-#47|@ElPeonElectrico|2326
-#48|@chessbot2880|2323
-#49|@TheMatrix2025|2319
+#46|@TheMatrix2025|2332
+#47|@CloudBot_v2|2331
+#48|@ElPeonElectrico|2326
+#49|@chessbot2880|2323
 #50|@Bot_AOOP11|2314
 #51|@KingfishX|2312
 #52|@Viet-BOT|2312
@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@chesshyperbot|2259
 #60|@ESC_BOT|2253
 #61|@relevantproblem|2251
-#62|@OpeningsBot|2245
-#63|@GodelEscherBot|2244
+#62|@GodelEscherBot|2244
+#63|@OpeningsBot|2236
 #64|@ResoluteBot|2225
 #65|@XXIstCentury|2225
 #66|@Resolved-Bot|2223
@@ -183,4 +183,4 @@ Rank|Bot|Rating
 #181|@MateCheckCapture|1011
 #182|@littlesamsun|996
 #183|@ZX-Chess|982
-#184|@MinOpponentMoves|593
+#184|@MinOpponentMoves|592

@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@pistol-play|2121
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
-#42|@GodelEscherBot|2092
-#43|@colinbot|2091
+#42|@colinbot|2100
+#43|@GodelEscherBot|2092
 #44|@Johnsun|2091
 #45|@Jussicas|2086
 #46|@Kizburb|2086
@@ -82,8 +82,8 @@ Rank|Bot|Rating
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
 #82|@DrSmartBugs|1904
-#83|@OpeningsBot|1895
-#84|@Variantenkoning|1892
+#83|@Variantenkoning|1892
+#84|@OpeningsBot|1890
 #85|@PetersTestBot|1890
 #86|@MistakeBOT|1886
 #87|@EagleEye2021|1880
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Just-a-random-bot|1604
 #114|@Epiano_Bot|1567
 #115|@Ramses-Chess|1566
-#116|@DavidsGuterBot|1550
+#116|@DavidsGuterBot|1556
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
@@ -150,9 +150,9 @@ Rank|Bot|Rating
 #148|@Challengeme2anything|1307
 #149|@NoTallkOnlyGames|1291
 #150|@jasans_bot|1268
-#151|@pawnrobot|1260
-#152|@ChessChipBot|1258
-#153|@Hrant_Petrosyan_BOT|1258
+#151|@ChessChipBot|1258
+#152|@Hrant_Petrosyan_BOT|1258
+#153|@pawnrobot|1253
 #154|@HiddeNL|1242
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
@@ -172,4 +172,4 @@ Rank|Bot|Rating
 #170|@BogoBot|946
 #171|@GuineaBot2|884
 #172|@MateCheckCapture|795
-#173|@MinOpponentMoves|763
+#173|@MinOpponentMoves|757

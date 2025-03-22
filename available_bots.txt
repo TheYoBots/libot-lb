@@ -175,6 +175,7 @@ asimusbot
 aspyfish
 assasino_legend
 asterix_20k20
+atemmax_bot
 atomic_chess_bot
 atomicandtroll
 atomicbot1
@@ -991,6 +992,7 @@ funeddy-robotik
 funnsams_bot
 furrybot
 furryofthewerewolf
+furyengine
 future_chess_pro
 fychess2
 fychess_bot
@@ -2875,5 +2877,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-furyengine
-atemmax_bot
+ruka-chess

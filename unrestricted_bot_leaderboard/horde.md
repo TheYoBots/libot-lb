@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@ZX-Chess|1145
 #148|@duythong1402|1120
 #149|@alvin-chess-bot|1091
-#150|@MinOpponentMoves|1011
+#150|@MinOpponentMoves|1035
 #151|@MateCheckCapture|885
 #152|@GuineaBot2|851
 #153|@Ramses-Chess|800
