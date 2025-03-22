@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@EmptikVariantsBot|2443
 #6|@Nikitosikbot_v2|2435
 #7|@ElPeonElectrico|2414
-#8|@ToromBot|2404
+#8|@ToromBot|2411
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@TheMatrix2025|2360
 #14|@Karpov_bot|2359
 #15|@AndromedaSX1|2344
-#16|@RaspFish|2317
-#17|@Viet-AI|2317
-#18|@Fairy_Belzedar|2316
+#16|@Viet-AI|2317
+#17|@Fairy_Belzedar|2316
+#18|@RaspFish|2310
 #19|@MalanChess|2292
 #20|@Nikitosik-ai|2288
 #21|@LudwigBOT|2281
@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@pistol-play|2121
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
-#42|@colinbot|2097
-#43|@GodelEscherBot|2092
+#42|@GodelEscherBot|2092
+#43|@colinbot|2091
 #44|@Johnsun|2091
 #45|@Jussicas|2086
 #46|@Kizburb|2086
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Just-a-random-bot|1604
 #114|@Epiano_Bot|1567
 #115|@Ramses-Chess|1566
-#116|@DavidsGuterBot|1548
+#116|@DavidsGuterBot|1550
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
@@ -150,9 +150,9 @@ Rank|Bot|Rating
 #148|@Challengeme2anything|1307
 #149|@NoTallkOnlyGames|1291
 #150|@jasans_bot|1268
-#151|@ChessChipBot|1258
-#152|@Hrant_Petrosyan_BOT|1258
-#153|@pawnrobot|1247
+#151|@pawnrobot|1260
+#152|@ChessChipBot|1258
+#153|@Hrant_Petrosyan_BOT|1258
 #154|@HiddeNL|1242
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
@@ -172,4 +172,4 @@ Rank|Bot|Rating
 #170|@BogoBot|946
 #171|@GuineaBot2|884
 #172|@MateCheckCapture|795
-#173|@MinOpponentMoves|777
+#173|@MinOpponentMoves|763

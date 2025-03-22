@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
-#12|@RaspFish|2517
+#12|@RaspFish|2478
 #13|@EmptikVariantsBot|2402
 #14|@EmptikBot|2378
 #15|@LoseisnotAvailablehe|2369
@@ -27,8 +27,8 @@ Rank|Bot|Rating
 #25|@ElPeonElectrico|2203
 #26|@UltronBot|2199
 #27|@Trumpfor2O2O|2162
-#28|@ResoluteBot|2155
-#29|@TheMatrix2025|2146
+#28|@TheMatrix2025|2159
+#29|@ResoluteBot|2155
 #30|@Karpov_bot|2145
 #31|@Bobby_Fischer_BOT|2136
 #32|@jasans_bot|2116
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@TheMatrix2029|1884
 #55|@TeamChelsie|1869
 #56|@B0T5_RU13|1852
-#57|@colinbot|1852
+#57|@colinbot|1847
 #58|@Lili-Variants|1846
 #59|@SacrificialSage|1815
 #60|@Breeze-Hot|1809
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@ChessChildren|1730
 #77|@Johnsun|1721
 #78|@Viet-BOT|1720
-#79|@OpeningsBot|1718
+#79|@OpeningsBot|1710
 #80|@HiddeNL|1708
 #81|@chesshyperbot|1702
 #82|@CoderDen732|1700
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@ZX-Chess|1145
 #148|@duythong1402|1120
 #149|@alvin-chess-bot|1091
-#150|@MinOpponentMoves|1016
+#150|@MinOpponentMoves|1011
 #151|@MateCheckCapture|885
 #152|@GuineaBot2|851
 #153|@Ramses-Chess|800

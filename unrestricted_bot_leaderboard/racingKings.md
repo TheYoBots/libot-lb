@@ -56,12 +56,12 @@ Rank|Bot|Rating
 #54|@NormalBulletBot|2291
 #55|@YoBot_v2|2287
 #56|@AlfaBot|2278
-#57|@OpeningsBot|2267
-#58|@Mega_BOT|2264
-#59|@MalanChess|2261
-#60|@chesshyperbot|2259
-#61|@ESC_BOT|2253
-#62|@relevantproblem|2251
+#57|@Mega_BOT|2264
+#58|@MalanChess|2261
+#59|@chesshyperbot|2259
+#60|@ESC_BOT|2253
+#61|@relevantproblem|2251
+#62|@OpeningsBot|2245
 #63|@GodelEscherBot|2244
 #64|@ResoluteBot|2225
 #65|@XXIstCentury|2225
@@ -183,4 +183,4 @@ Rank|Bot|Rating
 #181|@MateCheckCapture|1011
 #182|@littlesamsun|996
 #183|@ZX-Chess|982
-#184|@MinOpponentMoves|594
+#184|@MinOpponentMoves|593

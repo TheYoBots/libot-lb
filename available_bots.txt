@@ -2875,3 +2875,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+furyengine
+atemmax_bot
