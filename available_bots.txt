@@ -687,6 +687,7 @@ cubeofrubik
 cucubot
 cultr
 currenter_ai
+cuteparakeet
 cva728_bot_1
 cxrmt
 czech-bot
@@ -2051,6 +2052,7 @@ q-bith
 qalatbotengine
 qalattop
 qchessv2
+quackstrike
 quanticade
 quaviverbot
 que-encrypt
@@ -2878,5 +2880,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-quackstrike
-cuteparakeet
+vladeabot

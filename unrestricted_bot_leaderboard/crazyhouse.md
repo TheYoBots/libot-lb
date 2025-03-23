@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@heatseeker223|1191
 #184|@ChessPlayer1225|1183
 #185|@Jannik08_fan|1163
-#186|@pawnrobot|1160
+#186|@pawnrobot|1158
 #187|@BSergey11-BOT|1149
 #188|@K_Shi_Bot|1149
 #189|@TeamChelsie|1125
@@ -200,4 +200,4 @@ Rank|Bot|Rating
 #198|@RSVMentor|862
 #199|@GuineaBot3|845
 #200|@TrashBot|800
-#201|@MinOpponentMoves|788
+#201|@MinOpponentMoves|793
