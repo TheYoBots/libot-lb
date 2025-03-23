@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@CloudBot_v2|2252
 #25|@ElPeonElectrico|2203
 #26|@UltronBot|2199
-#27|@Trumpfor2O2O|2162
-#28|@TheMatrix2025|2159
+#27|@TheMatrix2025|2173
+#28|@Trumpfor2O2O|2162
 #29|@ResoluteBot|2155
 #30|@Karpov_bot|2145
 #31|@Bobby_Fischer_BOT|2136
@@ -52,11 +52,11 @@ Rank|Bot|Rating
 #50|@AnUtterlyKarBot|1901
 #51|@azdad|1901
 #52|@newengine2022|1901
-#53|@mrchessmanager|1888
-#54|@TheMatrix2029|1884
-#55|@TeamChelsie|1869
-#56|@B0T5_RU13|1852
-#57|@colinbot|1847
+#53|@colinbot|1899
+#54|@mrchessmanager|1888
+#55|@TheMatrix2029|1884
+#56|@TeamChelsie|1869
+#57|@B0T5_RU13|1852
 #58|@Lili-Variants|1846
 #59|@SacrificialSage|1815
 #60|@Breeze-Hot|1809
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@ChessChildren|1730
 #77|@Johnsun|1721
 #78|@Viet-BOT|1720
-#79|@OpeningsBot|1710
+#79|@OpeningsBot|1713
 #80|@HiddeNL|1708
 #81|@chesshyperbot|1702
 #82|@CoderDen732|1700
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@Nicholaswb_BOT|1288
 #131|@AEBROADUSBOTTER|1279
 #132|@ReallyCrazyBOT|1279
-#133|@pawnrobot|1268
+#133|@pawnrobot|1262
 #134|@AbhijithHISBot|1258
 #135|@Humuhumunukunukuapu|1258
 #136|@Jannik08_fan|1258
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@ZX-Chess|1145
 #148|@duythong1402|1120
 #149|@alvin-chess-bot|1091
-#150|@MinOpponentMoves|1035
+#150|@MinOpponentMoves|1045
 #151|@MateCheckCapture|885
 #152|@GuineaBot2|851
 #153|@Ramses-Chess|800

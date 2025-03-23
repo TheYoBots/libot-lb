@@ -41,12 +41,12 @@ Rank|Bot|Rating
 #39|@thibot|2393
 #40|@Jussicas|2373
 #41|@Lili-Variants|2357
-#42|@Viet_BOT|2344
-#43|@colinbot|2340
+#42|@TheMatrix2025|2344
+#43|@Viet_BOT|2344
 #44|@EvenMatchup|2336
 #45|@ibep|2333
-#46|@TheMatrix2025|2332
-#47|@CloudBot_v2|2331
+#46|@CloudBot_v2|2331
+#47|@colinbot|2329
 #48|@ElPeonElectrico|2326
 #49|@chessbot2880|2323
 #50|@Bot_AOOP11|2314
@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@ESC_BOT|2253
 #61|@relevantproblem|2251
 #62|@GodelEscherBot|2244
-#63|@OpeningsBot|2236
+#63|@OpeningsBot|2229
 #64|@ResoluteBot|2225
 #65|@XXIstCentury|2225
 #66|@Resolved-Bot|2223

@@ -27,10 +27,10 @@ Rank|Bot|Rating
 #25|@ElPeonElectrico|2454
 #26|@abhisun_bot|2444
 #27|@pistol-play|2437
-#28|@RaspFish|2407
-#29|@YoBot_v2|2394
-#30|@CloudBOT|2393
-#31|@NienishiEngine|2392
+#28|@YoBot_v2|2394
+#29|@CloudBOT|2393
+#30|@NienishiEngine|2392
+#31|@RaspFish|2391
 #32|@EagleEye2021|2365
 #33|@KingfishX|2347
 #34|@chesshyperbot|2344
@@ -75,9 +75,9 @@ Rank|Bot|Rating
 #73|@PyChessBot|1978
 #74|@ESC_BOT|1966
 #75|@mrchessmanager|1962
-#76|@Hyper-Stockfish|1947
-#77|@PolyBOT|1945
-#78|@colinbot|1944
+#76|@colinbot|1949
+#77|@Hyper-Stockfish|1947
+#78|@PolyBOT|1945
 #79|@bananaaaaaaaaa_test|1942
 #80|@chessbot2880|1921
 #81|@AndromedaSX1|1919
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@B0T5_RU13|1683
 #115|@FASTCHESSBOT|1666
 #116|@SipsonsamsonBOT|1665
-#117|@OpeningsBot|1659
+#117|@OpeningsBot|1656
 #118|@MistakeBOT|1655
 #119|@Isaacwb_BOT|1640
 #120|@SriLankaChess|1623
@@ -200,4 +200,4 @@ Rank|Bot|Rating
 #198|@RSVMentor|862
 #199|@GuineaBot3|845
 #200|@TrashBot|800
-#201|@MinOpponentMoves|792
+#201|@MinOpponentMoves|788

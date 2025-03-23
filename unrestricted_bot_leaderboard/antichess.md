@@ -98,7 +98,7 @@ Rank|Bot|Rating
 #96|@Dean_Summer_Bot|2279
 #97|@Johnsun|2269
 #98|@SkyBlaster|2254
-#99|@anti-bot|2245
+#99|@anti-bot|2252
 #100|@OpeningsBot|2243
 #101|@mrchessmanager|2240
 #102|@TurkiyeHogwarts|2240
@@ -263,9 +263,9 @@ Rank|Bot|Rating
 #261|@PranavChessBot|1212
 #262|@Toxic_Bot|1202
 #263|@DespacitoBot|1175
-#264|@BogoBot|1155
-#265|@thousandatom|1146
-#266|@MinOpponentMoves|1139
+#264|@MinOpponentMoves|1162
+#265|@BogoBot|1155
+#266|@thousandatom|1146
 #267|@Green_Tea_Ice_Cream|1107
 #268|@Md211bot|1107
 #269|@The_dragon_bot|1076

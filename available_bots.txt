@@ -2176,6 +2176,7 @@ rubysbot
 ruchess_r
 rudim-bot
 rudolph-bot
+ruka-chess
 rust-bot
 rust-engine
 rust_lang_chess
@@ -2877,4 +2878,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ruka-chess
+quackstrike
+cuteparakeet
