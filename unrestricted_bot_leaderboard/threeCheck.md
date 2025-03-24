@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@Resolved-Bot|2026
 #64|@SacrificialSage|2026
 #65|@firstrobot|2003
-#66|@OpeningsBot|1993
+#66|@OpeningsBot|1999
 #67|@Hyper-Stockfish|1986
 #68|@GodelEscherBot|1974
 #69|@XXIstCentury|1973
@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@Happy_One|1105
 #167|@DespacitoBot|1080
 #168|@ZX-Chess|1063
-#169|@MinOpponentMoves|981
+#169|@MinOpponentMoves|1004
 #170|@GuineaBot3|972
 #171|@BogoBot|928
 #172|@MateCheckCapture|923

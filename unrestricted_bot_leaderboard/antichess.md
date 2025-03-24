@@ -53,9 +53,9 @@ Rank|Bot|Rating
 #51|@AlfaBot|2541
 #52|@Leelabotmaster|2538
 #53|@Nam-Robot|2537
-#54|@Dark_evil_bot|2525
-#55|@Bot_AOOP11|2521
-#56|@Nakshatra3|2519
+#54|@Nakshatra3|2527
+#55|@Dark_evil_bot|2525
+#56|@Bot_AOOP11|2521
 #57|@HyperLitikBOT|2511
 #58|@pistol-play|2498
 #59|@MrBOThacker|2477
@@ -97,8 +97,8 @@ Rank|Bot|Rating
 #95|@GodelEscherBot|2284
 #96|@Dean_Summer_Bot|2279
 #97|@Johnsun|2269
-#98|@SkyBlaster|2254
-#99|@anti-bot|2247
+#98|@anti-bot|2265
+#99|@SkyBlaster|2254
 #100|@OpeningsBot|2243
 #101|@mrchessmanager|2240
 #102|@TurkiyeHogwarts|2240
@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@SriLankaChess|1923
 #139|@Crepusculum|1881
 #140|@NoTallkOnlyGames|1871
-#141|@pawnrobot|1864
+#141|@pawnrobot|1869
 #142|@Lumac0|1861
 #143|@Pineapple-Friendly|1858
 #144|@MyNameIsWhatLOL|1826
@@ -264,7 +264,7 @@ Rank|Bot|Rating
 #262|@Toxic_Bot|1202
 #263|@DespacitoBot|1175
 #264|@BogoBot|1155
-#265|@MinOpponentMoves|1154
+#265|@MinOpponentMoves|1149
 #266|@thousandatom|1146
 #267|@Green_Tea_Ice_Cream|1107
 #268|@Md211bot|1107

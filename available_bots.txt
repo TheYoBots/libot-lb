@@ -2729,6 +2729,7 @@ vishynotanand_thebot
 vive_2_chess_pro
 vividmind
 vlad_777_0
+vladeabot
 vodkabot
 volkchessengine
 volterbot
@@ -2880,4 +2881,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-vladeabot
+zimbabwean_chessbot
