@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@Mega_BOT|2148
 #37|@AI69|2143
 #38|@RobotTigerSlav|2136
-#39|@colinbot|2127
+#39|@colinbot|2134
 #40|@pistol-play|2121
 #41|@firstrobot|2114
 #42|@NormalBulletBot|2109
@@ -83,8 +83,8 @@ Rank|Bot|Rating
 #81|@SacrificialSage|1925
 #82|@DrSmartBugs|1904
 #83|@Variantenkoning|1892
-#84|@OpeningsBot|1890
-#85|@PetersTestBot|1890
+#84|@PetersTestBot|1890
+#85|@OpeningsBot|1889
 #86|@MistakeBOT|1886
 #87|@EagleEye2021|1880
 #88|@xiang-qi|1868
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Just-a-random-bot|1604
 #114|@Epiano_Bot|1567
 #115|@Ramses-Chess|1566
-#116|@DavidsGuterBot|1556
+#116|@DavidsGuterBot|1554
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523

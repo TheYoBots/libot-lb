@@ -2875,10 +2875,11 @@ zeynep001
 zgroupbot
 zhangirkhanbot
 ziansnake
+zimbabwean_chessbot
 zokbot
 zomevbot
 zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-zimbabwean_chessbot
+robocidebot

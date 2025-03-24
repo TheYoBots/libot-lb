@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@ChessVBOT|2168
 #58|@Peaceful4Life|2160
 #59|@SCP079|2156
-#60|@CloudBot_v2|2131
-#61|@TheMatrix2025|2121
+#60|@TheMatrix2025|2139
+#61|@CloudBot_v2|2131
 #62|@Johnsun|2113
 #63|@SixtyFourEngine|2089
 #64|@relevantproblem|2077
