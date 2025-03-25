@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@SriLankaChess|1923
 #139|@Crepusculum|1881
 #140|@NoTallkOnlyGames|1871
-#141|@pawnrobot|1867
+#141|@pawnrobot|1862
 #142|@Lumac0|1861
 #143|@Pineapple-Friendly|1858
 #144|@MyNameIsWhatLOL|1826
@@ -264,7 +264,7 @@ Rank|Bot|Rating
 #262|@Toxic_Bot|1202
 #263|@DespacitoBot|1175
 #264|@BogoBot|1155
-#265|@MinOpponentMoves|1149
+#265|@MinOpponentMoves|1154
 #266|@thousandatom|1146
 #267|@Green_Tea_Ice_Cream|1107
 #268|@Md211bot|1107

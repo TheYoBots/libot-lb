@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2301
+#1|@OpeningsBot|2289
 #2|@wardnbot|1737
 #3|@Jibbby|1684

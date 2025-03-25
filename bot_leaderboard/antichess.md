@@ -6,5 +6,5 @@ Rank|Bot|Rating
 #4|@OpeningsBot|2250
 #5|@anti-bot|2243
 #6|@SriLankaChess|1923
-#7|@pawnrobot|1867
-#8|@MinOpponentMoves|1149
+#7|@pawnrobot|1862
+#8|@MinOpponentMoves|1154

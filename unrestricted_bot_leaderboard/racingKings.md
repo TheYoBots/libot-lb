@@ -65,9 +65,9 @@ Rank|Bot|Rating
 #63|@ResoluteBot|2225
 #64|@XXIstCentury|2225
 #65|@Resolved-Bot|2223
-#66|@OpeningsBot|2221
-#67|@HerokuHasnotplay|2215
-#68|@Zer0_Tw0|2210
+#66|@HerokuHasnotplay|2215
+#67|@Zer0_Tw0|2210
+#68|@OpeningsBot|2202
 #69|@AIAlphaAI|2200
 #70|@Berserk12-X|2200
 #71|@higuyuu67776|2200
@@ -183,4 +183,4 @@ Rank|Bot|Rating
 #181|@MateCheckCapture|1011
 #182|@littlesamsun|996
 #183|@ZX-Chess|982
-#184|@MinOpponentMoves|643
+#184|@MinOpponentMoves|636

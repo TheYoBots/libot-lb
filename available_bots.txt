@@ -2142,6 +2142,7 @@ robiachess
 roblox_destroyer
 robloxianbot
 robochess3214
+robocidebot
 robocik
 roboshroom
 robot-chaniru_perera
@@ -2882,4 +2883,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-robocidebot
+hybot
