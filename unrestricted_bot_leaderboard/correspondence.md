@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@Xmas_dragon|2300
 #33|@Ujwal1001|2297
 #34|@robiachess|2295
-#35|@OpeningsBot|2289
+#35|@OpeningsBot|2294
 #36|@Quanticade|2286
 #37|@mrohCentaur|2285
 #38|@Toodfish|2273
@@ -53,11 +53,11 @@ Rank|Bot|Rating
 #51|@LeelaZero-UK|2226
 #52|@Abuziddin-BOT|2219
 #53|@AbhijithHISBot|2201
-#54|@Shocky_BOT|2200
-#55|@HerokuHasnotplay|2196
-#56|@Digi-bot|2192
-#57|@GothamChessBot|2183
-#58|@Nowinforyoukid|2177
+#54|@HerokuHasnotplay|2196
+#55|@Digi-bot|2192
+#56|@GothamChessBot|2183
+#57|@Nowinforyoukid|2177
+#58|@Shocky_BOT|2177
 #59|@WeakStash|2177
 #60|@NormalBulletBot|2172
 #61|@Apotheosis_Bot|2170
@@ -245,7 +245,7 @@ Rank|Bot|Rating
 #243|@Nobody11892|1650
 #244|@TheChessMonster09|1650
 #245|@EagleEye2021|1648
-#246|@RoundMoundOfRebounds|1638
+#246|@RoundMoundOfRebounds|1636
 #247|@BlackCatEngine|1634
 #248|@TheAwesomeBot|1634
 #249|@Ramses-Chess|1630

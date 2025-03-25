@@ -1189,6 +1189,7 @@ huxzero
 huy-stockfish
 hwh2008
 hx2tooorch
+hybot
 hydrovolt
 hyper-stockfish
 hyper_chess4679
@@ -2883,4 +2884,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-hybot
+unimark
+cutesnowman

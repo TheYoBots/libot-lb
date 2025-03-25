@@ -313,10 +313,10 @@ Rank|Bot|Rating
 #311|@magnusglad_bot|1101
 #312|@tuxbot9000|1101
 #313|@bobby-bot|1085
-#314|@MinOpponentMoves|1083
-#315|@Official_bot|1082
-#316|@ZokBot|1073
-#317|@alvin-chess-bot|1067
+#314|@Official_bot|1082
+#315|@ZokBot|1073
+#316|@alvin-chess-bot|1067
+#317|@MinOpponentMoves|1058
 #318|@FabriAd|1053
 #319|@TheLegitLegend2|1032
 #320|@ZX-Chess|946

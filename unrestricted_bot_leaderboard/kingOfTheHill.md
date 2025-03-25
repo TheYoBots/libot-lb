@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@knight_128|1233
 #155|@MyNameIsSpeedy|1226
 #156|@Bottios|1223
-#157|@pawnrobot|1220
+#157|@pawnrobot|1223
 #158|@RSVMentor|1196
 #159|@Boom_Bot|1176
 #160|@TrashBot|1168
