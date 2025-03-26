@@ -2891,3 +2891,6 @@ zx-chess
 firebot_pl
 alwaysplaymystery
 alice-cesarina
+intelcorei7sf
+stockfish161pro
+stockfishpro-2025
