@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
-#18|@MalanChess|2292
-#19|@RaspFish|2289
+#18|@RaspFish|2298
+#19|@MalanChess|2292
 #20|@Nikitosik-ai|2288
 #21|@LudwigBOT|2281
 #22|@LoseisnotAvailablehe|2274
@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@HuxZero|2163
 #36|@Mega_BOT|2148
 #37|@AI69|2143
-#38|@colinbot|2137
-#39|@RobotTigerSlav|2136
+#38|@RobotTigerSlav|2136
+#39|@colinbot|2135
 #40|@pistol-play|2121
 #41|@firstrobot|2114
 #42|@NormalBulletBot|2109
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
 #82|@DrSmartBugs|1904
-#83|@OpeningsBot|1894
+#83|@OpeningsBot|1893
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
 #86|@MistakeBOT|1886
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Just-a-random-bot|1604
 #114|@Epiano_Bot|1567
 #115|@Ramses-Chess|1566
-#116|@DavidsGuterBot|1549
+#116|@DavidsGuterBot|1548
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@knight_128|1233
 #155|@MyNameIsSpeedy|1226
 #156|@Bottios|1223
-#157|@pawnrobot|1223
+#157|@pawnrobot|1217
 #158|@RSVMentor|1196
 #159|@Boom_Bot|1176
 #160|@TrashBot|1168

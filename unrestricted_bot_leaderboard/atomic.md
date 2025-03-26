@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@SCP079|2259
 #58|@Johnsun|2257
 #59|@YoBot_v2|2243
-#60|@MalanChess|2238
-#61|@TheMatrix2025|2238
+#60|@TheMatrix2025|2240
+#61|@MalanChess|2238
 #62|@STockfishdestroyBot|2227
 #63|@Kizburb|2220
 #64|@MagnusCarlsenTheBOT|2215
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@Vinnikk|2061
 #115|@XXIstCentury|2061
 #116|@colinbot|2057
-#117|@OpeningsBot|2054
+#117|@OpeningsBot|2048
 #118|@azdad|2047
 #119|@Less_of_a_threat|2047
 #120|@MagnusCarlsen1507|2037
@@ -225,7 +225,7 @@ Rank|Bot|Rating
 #223|@Chess_omar_2009|1575
 #224|@Pineapple-Friendly|1569
 #225|@Bottios|1563
-#226|@katzebot|1562
+#226|@katzebot|1561
 #227|@AntarticAnonymous|1553
 #228|@HiddeNL|1551
 #229|@Alexnajax_Fan|1544
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@anonymous5612|1384
 #272|@SLvov-bot|1359
 #273|@ChessBotHere|1351
-#274|@pawnrobot|1342
+#274|@pawnrobot|1344
 #275|@kazakhfirstbot|1340
 #276|@TheBullyBot|1339
 #277|@AveragePlayer757|1337
@@ -316,7 +316,7 @@ Rank|Bot|Rating
 #314|@Official_bot|1082
 #315|@ZokBot|1073
 #316|@alvin-chess-bot|1067
-#317|@MinOpponentMoves|1058
+#317|@MinOpponentMoves|1065
 #318|@FabriAd|1053
 #319|@TheLegitLegend2|1032
 #320|@ZX-Chess|946

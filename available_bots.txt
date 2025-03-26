@@ -688,6 +688,7 @@ cucubot
 cultr
 currenter_ai
 cuteparakeet
+cutesnowman
 cva728_bot_1
 cxrmt
 czech-bot
@@ -2681,6 +2682,7 @@ unbecomingerik
 unbornbot
 undisstoppablebot
 unhappydefender
+unimark
 unrated_bot
 unrevealed-bot
 untrained4406
@@ -2884,5 +2886,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-unimark
-cutesnowman
+nalwald
+athena-bot
