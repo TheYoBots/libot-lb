@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@lightspeed_bot|2010
 #43|@The-Fastest-Bot|2000
 #44|@Mega_BOT|1986
-#45|@colinbot|1938
+#45|@colinbot|1939
 #46|@vrnts_colinbot|1932
 #47|@Magnus-BOT|1923
 #48|@MalanChess|1921

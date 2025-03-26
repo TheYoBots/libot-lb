@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@chesshyperbot|2344
 #35|@EmptikBot|2332
 #36|@lord-bot|2329
-#37|@ToromBot|2318
+#37|@ToromBot|2321
 #38|@catalanbotI|2307
 #39|@Yemmi-Yemmi|2305
 #40|@Nikitosikbot_v2|2302
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@Hyper-Stockfish|1947
 #77|@PolyBOT|1945
 #78|@bananaaaaaaaaa_test|1942
-#79|@colinbot|1942
+#79|@colinbot|1940
 #80|@chessbot2880|1921
 #81|@AndromedaSX1|1919
 #82|@Galaxy_Guardian|1919

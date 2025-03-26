@@ -168,8 +168,8 @@ Rank|Bot|Rating
 #166|@Happy_One|1105
 #167|@DespacitoBot|1080
 #168|@ZX-Chess|1063
-#169|@MinOpponentMoves|985
-#170|@GuineaBot3|972
+#169|@GuineaBot3|972
+#170|@MinOpponentMoves|967
 #171|@BogoBot|928
 #172|@MateCheckCapture|923
 #173|@TheSystem_Bot|905

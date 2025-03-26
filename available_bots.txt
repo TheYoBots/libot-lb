@@ -176,6 +176,7 @@ aspyfish
 assasino_legend
 asterix_20k20
 atemmax_bot
+athena-bot
 atomic_chess_bot
 atomicandtroll
 atomicbot1
@@ -1775,6 +1776,7 @@ nagasakihero
 nagranis
 naive_chess
 nakshatra3
+nalwald
 nam-robot
 nam-stockfish
 narratingsince86
@@ -2886,5 +2888,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nalwald
-athena-bot
+firebot_pl
+alwaysplaymystery
+alice-cesarina
