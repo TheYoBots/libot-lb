@@ -66,8 +66,8 @@ Rank|Bot|Rating
 #64|@XXIstCentury|2225
 #65|@Resolved-Bot|2223
 #66|@HerokuHasnotplay|2215
-#67|@Zer0_Tw0|2210
-#68|@OpeningsBot|2209
+#67|@OpeningsBot|2210
+#68|@Zer0_Tw0|2210
 #69|@AIAlphaAI|2200
 #70|@Berserk12-X|2200
 #71|@higuyuu67776|2200

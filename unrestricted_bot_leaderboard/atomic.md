@@ -317,7 +317,7 @@ Rank|Bot|Rating
 #315|@Official_bot|1082
 #316|@ZokBot|1073
 #317|@alvin-chess-bot|1067
-#318|@MinOpponentMoves|1059
+#318|@MinOpponentMoves|1058
 #319|@FabriAd|1053
 #320|@TheLegitLegend2|1032
 #321|@ZX-Chess|946

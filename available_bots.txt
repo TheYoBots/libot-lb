@@ -64,6 +64,7 @@ alexvis
 alexz55
 alfabot
 aliabdelaalchess
+alice-cesarina
 alightbot
 all_except_chess960
 allgames_bot
@@ -88,6 +89,7 @@ altair8000
 altair_engine
 alvin-chess-bot
 alvinl22_lbot
+alwaysplaymystery
 amemebot
 amethyst-bot
 amethysthce
@@ -941,6 +943,7 @@ fipsi_x
 fire8n_unoffical
 fireball-64
 firebolt194
+firebot_pl
 fireengine
 firefighter-the-b0t
 firefishbot
@@ -1234,6 +1237,7 @@ indianchessrobot
 inflames1996
 integralbot
 integralmathbot
+intelcorei7sf
 inteli5bot
 intron014
 intuitive_ai
@@ -2375,6 +2379,7 @@ stockfish10chess
 stockfish122
 stockfish12_johan
 stockfish13-nnue
+stockfish161pro
 stockfish16_2023
 stockfish1node
 stockfish2021
@@ -2395,6 +2400,7 @@ stockfishjs
 stockfishlevel_8
 stockfishofficial
 stockfishpower
+stockfishpro-2025
 stockfishpro-bot
 stockfishrtx3050
 stockfishspeed
@@ -2888,9 +2894,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-firebot_pl
-alwaysplaymystery
-alice-cesarina
-intelcorei7sf
-stockfish161pro
-stockfishpro-2025

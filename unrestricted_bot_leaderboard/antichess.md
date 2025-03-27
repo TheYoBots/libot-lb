@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@ibep|2733
 #25|@Lili-Variants|2693
 #26|@buffFishNet|2692
-#27|@LoseisnotAvailablehe|2677
-#28|@colinbot|2675
+#27|@colinbot|2677
+#28|@LoseisnotAvailablehe|2677
 #29|@AntichessAnalyzer|2673
 #30|@SCP079|2662
 #31|@MalanChess|2638
@@ -94,11 +94,11 @@ Rank|Bot|Rating
 #92|@NienishiEngine|2304
 #93|@BromiumAI|2302
 #94|@EvenMatchup|2302
-#95|@anti-bot|2289
+#95|@anti-bot|2294
 #96|@GodelEscherBot|2284
 #97|@Dean_Summer_Bot|2279
-#98|@Johnsun|2269
-#99|@OpeningsBot|2258
+#98|@OpeningsBot|2270
+#99|@Johnsun|2269
 #100|@SkyBlaster|2254
 #101|@mrchessmanager|2240
 #102|@TurkiyeHogwarts|2240
@@ -264,7 +264,7 @@ Rank|Bot|Rating
 #262|@Toxic_Bot|1202
 #263|@DespacitoBot|1175
 #264|@BogoBot|1155
-#265|@MinOpponentMoves|1151
+#265|@MinOpponentMoves|1149
 #266|@thousandatom|1146
 #267|@Green_Tea_Ice_Cream|1107
 #268|@Md211bot|1107

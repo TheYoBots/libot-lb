@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@ROBOT_RANDEER2007|2059
 #63|@Resolved-Bot|2026
 #64|@SacrificialSage|2026
-#65|@OpeningsBot|2007
+#65|@OpeningsBot|2011
 #66|@firstrobot|2003
 #67|@Hyper-Stockfish|1986
 #68|@GodelEscherBot|1974
