@@ -35,10 +35,10 @@ Rank|Bot|Rating
 #33|@Viet_BOT|2367
 #34|@BraveBot|2349
 #35|@Zer0_Tw0|2332
-#36|@TheMatrix2025|2314
+#36|@TheMatrix2025|2317
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
-#39|@colinbot|2293
+#39|@colinbot|2297
 #40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@ROBOT_RANDEER2007|2059
 #63|@Resolved-Bot|2026
 #64|@SacrificialSage|2026
-#65|@OpeningsBot|2011
+#65|@OpeningsBot|2008
 #66|@firstrobot|2003
 #67|@Hyper-Stockfish|1986
 #68|@GodelEscherBot|1974
@@ -105,7 +105,7 @@ Rank|Bot|Rating
 #103|@SUMEETTHEPRO|1708
 #104|@Yemmi-Yemmi|1702
 #105|@clueless-bot|1685
-#106|@DavidsGuterBot|1670
+#106|@DavidsGuterBot|1665
 #107|@NormalBulletBot|1657
 #108|@the_checkmating_bot|1643
 #109|@CoderDen732|1639
@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@MasterofChessBOT800|1391
 #141|@HiddeNL|1385
 #142|@apraz|1383
-#143|@pawnrobot|1363
+#143|@pawnrobot|1370
 #144|@Bottios|1323
 #145|@Harry_Potterz|1316
 #146|@allvariants|1310
@@ -169,7 +169,7 @@ Rank|Bot|Rating
 #167|@DespacitoBot|1080
 #168|@ZX-Chess|1063
 #169|@GuineaBot3|972
-#170|@MinOpponentMoves|967
+#170|@MinOpponentMoves|966
 #171|@BogoBot|928
 #172|@MateCheckCapture|923
 #173|@TheSystem_Bot|905
