@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@Fairy_Belzedar|2559
 #9|@EmptikVariantsBot|2557
 #10|@FireFishBOT|2547
-#11|@RaspFish|2541
-#12|@LudwigBOT|2536
+#11|@LudwigBOT|2536
+#12|@RaspFish|2536
 #13|@ChessVBOT|2531
 #14|@Coolman2021|2527
 #15|@BraveBot|2526
@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@thibot|2393
 #40|@Jussicas|2373
 #41|@Lili-Variants|2357
-#42|@colinbot|2351
-#43|@Viet_BOT|2344
-#44|@TheMatrix2025|2343
+#42|@TheMatrix2025|2350
+#43|@colinbot|2348
+#44|@Viet_BOT|2344
 #45|@EvenMatchup|2336
 #46|@ibep|2333
 #47|@CloudBot_v2|2331
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@Johnsun|2181
 #75|@HuxZero|2176
 #76|@AnUtterlyKarBot|2174
-#77|@OpeningsBot|2168
+#77|@OpeningsBot|2165
 #78|@knight_128|2144
 #79|@Kizburb|2126
 #80|@mc-king-098|2124
@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@Bbao23-chess|1455
 #145|@Epiano_Bot|1447
 #146|@The_A_and_D_Club|1429
-#147|@pawnrobot|1425
-#148|@Official_bot|1418
+#147|@Official_bot|1418
+#148|@pawnrobot|1415
 #149|@Blasting4|1414
 #150|@Botmobile|1413
 #151|@Pawn_Stormer_D4|1404
