@@ -17,11 +17,11 @@ Rank|Bot|Rating
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
-#18|@RaspFish|2298
-#19|@MalanChess|2292
-#20|@Nikitosik-ai|2288
-#21|@LudwigBOT|2281
-#22|@LoseisnotAvailablehe|2274
+#18|@MalanChess|2292
+#19|@Nikitosik-ai|2288
+#20|@LudwigBOT|2281
+#21|@LoseisnotAvailablehe|2274
+#22|@RaspFish|2273
 #23|@bananaaaaaaaaa_test|2269
 #24|@Bobby_Fischer_BOT|2267
 #25|@lord-bot|2258
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@knight_128|1233
 #155|@MyNameIsSpeedy|1226
 #156|@Bottios|1223
-#157|@pawnrobot|1213
+#157|@pawnrobot|1205
 #158|@RSVMentor|1196
 #159|@Boom_Bot|1176
 #160|@TrashBot|1168
@@ -172,4 +172,4 @@ Rank|Bot|Rating
 #170|@BogoBot|946
 #171|@GuineaBot2|884
 #172|@MateCheckCapture|795
-#173|@MinOpponentMoves|771
+#173|@MinOpponentMoves|764

@@ -1668,6 +1668,7 @@ mcyborg
 md211bot
 mecbotchess1
 medipoluniversity
+medvbn
 meetnarangbot
 meetrabot
 meezkool
@@ -2323,6 +2324,7 @@ smartieandyou
 smoking_python
 smoothrotation
 sneakybot21
+soccerbot
 sofcheck
 sohamchessbot
 solidor59
@@ -2894,5 +2896,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-soccerbot
-medvbn

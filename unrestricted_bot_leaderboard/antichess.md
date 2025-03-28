@@ -10,9 +10,9 @@ Rank|Bot|Rating
 #8|@Coolman2021|2879
 #9|@TheMatrix2029|2866
 #10|@UltronBot|2859
-#11|@RaspFish|2844
-#12|@BraveBot|2842
-#13|@Nikitosik-ai|2839
+#11|@BraveBot|2842
+#12|@Nikitosik-ai|2839
+#13|@RaspFish|2837
 #14|@ChessVBOT|2829
 #15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@EvenMatchup|2302
 #95|@GodelEscherBot|2284
 #96|@Dean_Summer_Bot|2279
-#97|@anti-bot|2278
+#97|@anti-bot|2273
 #98|@OpeningsBot|2270
 #99|@Johnsun|2269
 #100|@SkyBlaster|2254
@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@Crepusculum|1881
 #140|@NoTallkOnlyGames|1871
 #141|@Lumac0|1861
-#142|@pawnrobot|1860
+#142|@pawnrobot|1859
 #143|@Pineapple-Friendly|1858
 #144|@MyNameIsWhatLOL|1826
 #145|@Bot2000|1807
@@ -263,7 +263,7 @@ Rank|Bot|Rating
 #261|@PranavChessBot|1212
 #262|@Toxic_Bot|1202
 #263|@DespacitoBot|1175
-#264|@MinOpponentMoves|1156
+#264|@MinOpponentMoves|1161
 #265|@BogoBot|1155
 #266|@thousandatom|1146
 #267|@Green_Tea_Ice_Cream|1107

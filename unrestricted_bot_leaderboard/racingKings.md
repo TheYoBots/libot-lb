@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@Fairy_Belzedar|2559
 #9|@EmptikVariantsBot|2557
 #10|@FireFishBOT|2547
-#11|@RaspFish|2542
+#11|@RaspFish|2541
 #12|@LudwigBOT|2536
 #13|@ChessVBOT|2531
 #14|@Coolman2021|2527
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@thibot|2393
 #40|@Jussicas|2373
 #41|@Lili-Variants|2357
-#42|@colinbot|2347
+#42|@colinbot|2351
 #43|@Viet_BOT|2344
 #44|@TheMatrix2025|2343
 #45|@EvenMatchup|2336
@@ -74,9 +74,9 @@ Rank|Bot|Rating
 #72|@Trainspotter|2200
 #73|@Hyper-Stockfish|2189
 #74|@Johnsun|2181
-#75|@OpeningsBot|2177
-#76|@HuxZero|2176
-#77|@AnUtterlyKarBot|2174
+#75|@HuxZero|2176
+#76|@AnUtterlyKarBot|2174
+#77|@OpeningsBot|2168
 #78|@knight_128|2144
 #79|@Kizburb|2126
 #80|@mc-king-098|2124
@@ -145,8 +145,8 @@ Rank|Bot|Rating
 #143|@TheLegendaryKnight|1468
 #144|@Bbao23-chess|1455
 #145|@Epiano_Bot|1447
-#146|@pawnrobot|1430
-#147|@The_A_and_D_Club|1429
+#146|@The_A_and_D_Club|1429
+#147|@pawnrobot|1425
 #148|@Official_bot|1418
 #149|@Blasting4|1414
 #150|@Botmobile|1413
@@ -184,4 +184,4 @@ Rank|Bot|Rating
 #182|@MateCheckCapture|1011
 #183|@littlesamsun|996
 #184|@ZX-Chess|982
-#185|@MinOpponentMoves|631
+#185|@MinOpponentMoves|630

@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@YoBot_v2|2394
 #29|@CloudBOT|2393
 #30|@NienishiEngine|2392
-#31|@RaspFish|2384
+#31|@RaspFish|2371
 #32|@EagleEye2021|2365
 #33|@KingfishX|2347
 #34|@chesshyperbot|2344
@@ -56,10 +56,10 @@ Rank|Bot|Rating
 #54|@UltronBot|2197
 #55|@Viet-BOT|2185
 #56|@lightspeed_bot|2177
-#57|@TheMatrix2025|2177
-#58|@ChessVBOT|2168
-#59|@Peaceful4Life|2160
-#60|@SCP079|2156
+#57|@ChessVBOT|2168
+#58|@Peaceful4Life|2160
+#59|@SCP079|2156
+#60|@TheMatrix2025|2137
 #61|@CloudBot_v2|2131
 #62|@Johnsun|2113
 #63|@SixtyFourEngine|2089
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@FASTCHESSBOT|1666
 #116|@SipsonsamsonBOT|1665
 #117|@MistakeBOT|1655
-#118|@OpeningsBot|1653
+#118|@OpeningsBot|1651
 #119|@Isaacwb_BOT|1640
 #120|@SriLankaChess|1623
 #121|@Viet_BOT|1617
@@ -201,4 +201,4 @@ Rank|Bot|Rating
 #199|@RSVMentor|862
 #200|@GuineaBot3|845
 #201|@TrashBot|800
-#202|@MinOpponentMoves|796
+#202|@MinOpponentMoves|790
