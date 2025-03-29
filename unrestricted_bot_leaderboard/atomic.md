@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@ToromBot|2644
+#5|@ToromBot|2647
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@pistol-play|2590
 #11|@NimsiluBot|2569
 #12|@Nikitosikbot_v2|2567
-#13|@RaspFish|2556
+#13|@RaspFish|2559
 #14|@UltronBot|2556
 #15|@Viet-AI|2556
 #16|@ttBOT|2540
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@Simpafteur|2062
 #115|@Vinnikk|2061
 #116|@XXIstCentury|2061
-#117|@azdad|2047
-#118|@colinbot|2047
+#117|@colinbot|2049
+#118|@azdad|2047
 #119|@Less_of_a_threat|2047
 #120|@MagnusCarlsen1507|2037
 #121|@HuxZero|2035
@@ -229,10 +229,10 @@ Rank|Bot|Rating
 #227|@AntarticAnonymous|1553
 #228|@HiddeNL|1551
 #229|@Alexnajax_Fan|1544
-#230|@katzebot|1539
-#231|@knight_BOT|1539
-#232|@que-hyper|1539
-#233|@VedanthS-Bot|1538
+#230|@knight_BOT|1539
+#231|@que-hyper|1539
+#232|@VedanthS-Bot|1538
+#233|@katzebot|1535
 #234|@NEENA-2-BOT|1529
 #235|@PyChessBot|1527
 #236|@DespacitoBot|1519
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@anonymous5612|1384
 #273|@SLvov-bot|1359
 #274|@ChessBotHere|1351
-#275|@pawnrobot|1345
+#275|@pawnrobot|1341
 #276|@kazakhfirstbot|1340
 #277|@TheBullyBot|1339
 #278|@AveragePlayer757|1337
@@ -319,7 +319,7 @@ Rank|Bot|Rating
 #317|@alvin-chess-bot|1067
 #318|@FabriAd|1053
 #319|@TheLegitLegend2|1032
-#320|@MinOpponentMoves|965
+#320|@MinOpponentMoves|997
 #321|@ZX-Chess|946
 #322|@BogoBot|945
 #323|@thousandatom|865
