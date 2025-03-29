@@ -716,6 +716,7 @@ daverobot
 david9426_bot
 davidsguterbot
 dbce
+dcaibot
 dean_summer_bot
 debugbot
 deepchessengine
@@ -2896,4 +2897,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dcaibot
+chess_learning_ai

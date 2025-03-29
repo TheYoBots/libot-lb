@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
 #5|@H-Zero|2650
-#6|@pawn_git|2607
-#7|@PetersBot|2577
+#6|@pawn_git|2613
+#7|@PetersBot|2582
 #8|@Alexnajax_Fan|2538
 #9|@SacrificialSage|2519
 #10|@peonasesino71|2512
@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@TESTBOT23|2000
 #127|@GarboBot|1992
 #128|@Zer0_Tw0|1992
-#129|@matmoi|1989
+#129|@matmoi|1984
 #130|@YoBot_v2|1984
 #131|@maello_bot|1981
 #132|@Virutor|1980
@@ -219,7 +219,7 @@ Rank|Bot|Rating
 #217|@ArcaBOT|1688
 #218|@B4dF1sh|1687
 #219|@The_dragon_bot|1687
-#220|@Jibbby|1684
+#220|@Jibbby|1683
 #221|@DeepKalle|1681
 #222|@IUseStockfish|1679
 #223|@MontyPythonFlying|1679
@@ -245,12 +245,12 @@ Rank|Bot|Rating
 #243|@Nobody11892|1650
 #244|@TheChessMonster09|1650
 #245|@EagleEye2021|1648
-#246|@RoundMoundOfRebounds|1635
-#247|@BlackCatEngine|1634
-#248|@TheAwesomeBot|1634
-#249|@Ramses-Chess|1630
-#250|@Bobby_Fischer_BOT|1627
-#251|@ChessPlayer1225|1624
+#246|@BlackCatEngine|1634
+#247|@TheAwesomeBot|1634
+#248|@Ramses-Chess|1630
+#249|@Bobby_Fischer_BOT|1627
+#250|@ChessPlayer1225|1624
+#251|@RoundMoundOfRebounds|1624
 #252|@Wirtanen|1620
 #253|@bestchessbot|1618
 #254|@Rishab_Bindal|1618
