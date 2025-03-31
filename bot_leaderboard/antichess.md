@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2803
-#2|@colinbot|2698
+#1|@RaspFish|2810
+#2|@colinbot|2693
 #3|@Nakshatra3|2537
 #4|@OpeningsBot|2264
-#5|@anti-bot|2171
+#5|@anti-bot|2188
 #6|@SriLankaChess|1925
-#7|@pawnrobot|1882
-#8|@MinOpponentMoves|1046
+#7|@pawnrobot|1885
+#8|@MinOpponentMoves|1050

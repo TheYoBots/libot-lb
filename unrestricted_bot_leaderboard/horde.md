@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@NimsiluBot|2901
 #4|@Fairy_Belzedar|2857
 #5|@Nikitosikbot_v2|2823
-#6|@ToromBot|2765
+#6|@ToromBot|2759
 #7|@Coolman2021|2757
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@chessbot2880|1923
 #47|@Magnus-BOT|1923
 #48|@MalanChess|1921
-#49|@NormalBlitzBulletBot|1915
-#50|@colinbot|1910
+#49|@colinbot|1916
+#50|@NormalBlitzBulletBot|1915
 #51|@XXIstCentury|1902
 #52|@AnUtterlyKarBot|1901
 #53|@azdad|1901
@@ -76,9 +76,9 @@ Rank|Bot|Rating
 #74|@dream_bot|1739
 #75|@YoBot_v1|1739
 #76|@ChessChildren|1730
-#77|@OpeningsBot|1724
-#78|@Johnsun|1721
-#79|@Viet-BOT|1720
+#77|@Johnsun|1721
+#78|@Viet-BOT|1720
+#79|@OpeningsBot|1719
 #80|@HiddeNL|1708
 #81|@chesshyperbot|1702
 #82|@CoderDen732|1700
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@PowerOnBot|1258
 #136|@xDmanBOT|1258
 #137|@yobmef|1258
-#138|@pawnrobot|1250
+#138|@pawnrobot|1254
 #139|@TheSystem_Bot|1218
 #140|@GuineaBot3|1212
 #141|@admin-bot|1209
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@ZX-Chess|1145
 #147|@duythong1402|1120
 #148|@alvin-chess-bot|1091
-#149|@MinOpponentMoves|1026
+#149|@MinOpponentMoves|1027
 #150|@MateCheckCapture|885
 #151|@GuineaBot2|851
 #152|@Ramses-Chess|800

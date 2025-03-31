@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@pistol-play|2590
 #11|@NimsiluBot|2569
 #12|@Nikitosikbot_v2|2567
-#13|@RaspFish|2559
+#13|@RaspFish|2560
 #14|@UltronBot|2556
 #15|@Viet-AI|2556
 #16|@ttBOT|2540
@@ -45,9 +45,9 @@ Rank|Bot|Rating
 #43|@The-Fastest-Bot|2314
 #44|@Alehkine_cat|2312
 #45|@Dean_Summer_Bot|2305
-#46|@PsychedelicAtomic|2296
-#47|@AndromedaSX1|2284
-#48|@Stockfish-MEDIUM|2282
+#46|@Stockfish-MEDIUM|2305
+#47|@PsychedelicAtomic|2296
+#48|@AndromedaSX1|2284
 #49|@vrnts_colinbot|2281
 #50|@TheMatrix2029|2278
 #51|@BGSBot|2272
@@ -119,10 +119,10 @@ Rank|Bot|Rating
 #117|@azdad|2047
 #118|@Less_of_a_threat|2047
 #119|@MagnusCarlsen1507|2037
-#120|@colinbot|2035
-#121|@HuxZero|2035
-#122|@EasyWinGG|2032
-#123|@OpeningsBot|2032
+#120|@HuxZero|2035
+#121|@EasyWinGG|2032
+#122|@OpeningsBot|2032
+#123|@colinbot|2031
 #124|@Kizbuurb|2024
 #125|@ESC_BOT|2011
 #126|@are_bots_good|2006
@@ -226,7 +226,7 @@ Rank|Bot|Rating
 #224|@Chess_omar_2009|1575
 #225|@Pineapple-Friendly|1569
 #226|@Bottios|1563
-#227|@katzebot|1559
+#227|@katzebot|1557
 #228|@AntarticAnonymous|1553
 #229|@HiddeNL|1551
 #230|@Alexnajax_Fan|1544
@@ -272,8 +272,8 @@ Rank|Bot|Rating
 #270|@Trumpfor2O2O|1386
 #271|@DrunkenMasterEngine|1385
 #272|@anonymous5612|1384
-#273|@SLvov-bot|1359
-#274|@pawnrobot|1358
+#273|@pawnrobot|1370
+#274|@SLvov-bot|1359
 #275|@ChessBotHere|1351
 #276|@kazakhfirstbot|1340
 #277|@TheBullyBot|1339
@@ -319,7 +319,7 @@ Rank|Bot|Rating
 #317|@alvin-chess-bot|1067
 #318|@FabriAd|1053
 #319|@TheLegitLegend2|1032
-#320|@MinOpponentMoves|978
+#320|@MinOpponentMoves|952
 #321|@ZX-Chess|946
 #322|@BogoBot|945
 #323|@thousandatom|865

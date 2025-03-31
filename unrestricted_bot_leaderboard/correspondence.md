@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2941
+#1|@fibonachi|2947
 #2|@MaggiChess16|2806
 #3|@AjedrezChamberi|2716
 #4|@Nikitosik-ai|2714
@@ -307,8 +307,8 @@ Rank|Bot|Rating
 #305|@CheezyGlizzyEater|1444
 #306|@ReallyBadPlayerBot|1428
 #307|@LuciferCat|1426
-#308|@katzebot|1425
-#309|@JupiterBot|1421
+#308|@JupiterBot|1421
+#309|@katzebot|1414
 #310|@sunfish_rs|1414
 #311|@emptedkiller|1413
 #312|@WaspBot|1410

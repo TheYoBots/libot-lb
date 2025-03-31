@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@MalanChess|2292
 #19|@Nikitosik-ai|2288
 #20|@LudwigBOT|2281
-#21|@RaspFish|2275
+#21|@RaspFish|2281
 #22|@LoseisnotAvailablehe|2274
 #23|@bananaaaaaaaaa_test|2269
 #24|@Bobby_Fischer_BOT|2267
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@Jussicas|2086
 #45|@Kizburb|2086
 #46|@Dean_Summer_Bot|2085
-#47|@colinbot|2080
+#47|@colinbot|2081
 #48|@ibep|2078
 #49|@Lili-Variants|2078
 #50|@Xerus_1|2076
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
-#82|@OpeningsBot|1919
+#82|@OpeningsBot|1914
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
@@ -172,4 +172,4 @@ Rank|Bot|Rating
 #170|@BogoBot|946
 #171|@GuineaBot2|884
 #172|@MateCheckCapture|795
-#173|@MinOpponentMoves|759
+#173|@MinOpponentMoves|758
