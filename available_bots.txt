@@ -832,6 +832,7 @@ elephantgambitengine
 elfinsbot
 elite-bot
 eliteay17_aichess
+eliteexperimental
 eliteleela
 eliteleela23
 elmichess
@@ -2898,4 +2899,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-eliteexperimental
