@@ -2479,6 +2479,7 @@ sxdraw
 sxdrawbetter
 sxdrawworse
 sxrandom
+sylvestrec
 symnium
 syrinx-bot
 sysroot
@@ -2902,4 +2903,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sylvestrec
+olympusberserkcz

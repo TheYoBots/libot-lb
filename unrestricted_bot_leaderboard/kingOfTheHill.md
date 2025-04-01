@@ -25,12 +25,12 @@ Rank|Bot|Rating
 #23|@bananaaaaaaaaa_test|2269
 #24|@Bobby_Fischer_BOT|2267
 #25|@lord-bot|2258
-#26|@YoBot_v2|2242
-#27|@ResoluteBot|2233
-#28|@ttBOT|2230
-#29|@Magnus-BOT|2224
-#30|@SkyBlaster|2220
-#31|@Stockfish-MEDIUM|2212
+#26|@Stockfish-MEDIUM|2252
+#27|@YoBot_v2|2242
+#28|@ResoluteBot|2233
+#29|@ttBOT|2230
+#30|@Magnus-BOT|2224
+#31|@SkyBlaster|2220
 #32|@PowerOnBot|2195
 #33|@UnDisstoppableBot|2193
 #34|@Amrobotone|2184
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@Jussicas|2086
 #45|@Kizburb|2086
 #46|@Dean_Summer_Bot|2085
-#47|@colinbot|2081
+#47|@colinbot|2080
 #48|@ibep|2078
 #49|@Lili-Variants|2078
 #50|@Xerus_1|2076
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
-#82|@OpeningsBot|1914
+#82|@OpeningsBot|1908
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
@@ -172,4 +172,4 @@ Rank|Bot|Rating
 #170|@BogoBot|946
 #171|@GuineaBot2|884
 #172|@MateCheckCapture|795
-#173|@MinOpponentMoves|763
+#173|@MinOpponentMoves|764

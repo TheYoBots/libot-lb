@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@Jussicas|2373
 #41|@TheMatrix2025|2368
 #42|@Lili-Variants|2357
-#43|@colinbot|2344
+#43|@colinbot|2348
 #44|@Viet_BOT|2344
 #45|@EvenMatchup|2336
 #46|@chessbot2880|2334
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@Johnsun|2181
 #75|@HuxZero|2176
 #76|@AnUtterlyKarBot|2174
-#77|@OpeningsBot|2170
+#77|@OpeningsBot|2159
 #78|@knight_128|2144
 #79|@Kizburb|2126
 #80|@mc-king-098|2124
@@ -184,4 +184,4 @@ Rank|Bot|Rating
 #182|@MateCheckCapture|1011
 #183|@littlesamsun|996
 #184|@ZX-Chess|982
-#185|@MinOpponentMoves|668
+#185|@MinOpponentMoves|658
