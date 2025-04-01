@@ -67,9 +67,9 @@ Rank|Bot|Rating
 #65|@SacrificialSage|2026
 #66|@firstrobot|2003
 #67|@Hyper-Stockfish|1986
-#68|@GodelEscherBot|1974
-#69|@XXIstCentury|1973
-#70|@OpeningsBot|1969
+#68|@OpeningsBot|1976
+#69|@GodelEscherBot|1974
+#70|@XXIstCentury|1973
 #71|@mrchessmanager|1963
 #72|@Botzer|1961
 #73|@lightspeed_bot|1951
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@SUMEETTHEPRO|1708
 #105|@Yemmi-Yemmi|1702
 #106|@clueless-bot|1685
-#107|@DavidsGuterBot|1660
+#107|@DavidsGuterBot|1663
 #108|@NormalBulletBot|1657
 #109|@the_checkmating_bot|1643
 #110|@CoderDen732|1639
@@ -143,7 +143,7 @@ Rank|Bot|Rating
 #141|@MasterofChessBOT800|1391
 #142|@HiddeNL|1385
 #143|@apraz|1383
-#144|@pawnrobot|1370
+#144|@pawnrobot|1367
 #145|@Bottios|1323
 #146|@Harry_Potterz|1316
 #147|@allvariants|1310
@@ -171,6 +171,6 @@ Rank|Bot|Rating
 #169|@ZX-Chess|1063
 #170|@GuineaBot3|972
 #171|@BogoBot|928
-#172|@MinOpponentMoves|924
-#173|@MateCheckCapture|923
+#172|@MateCheckCapture|923
+#173|@MinOpponentMoves|922
 #174|@TheSystem_Bot|905

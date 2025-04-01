@@ -137,6 +137,7 @@ anton_bot
 antonbot
 anutterlykarbot
 anytimemode
+apbp
 apollo1414
 apollo314
 apollo_bot
@@ -589,6 +590,7 @@ chessnoobcomp
 chessopenerbot
 chessosity
 chessplayer1225
+chesssenseengine
 chesstango_bot
 chesster-rubenstein
 chesstigerpro
@@ -957,6 +959,7 @@ fish-engine
 fishadmiral
 fishfingersmcgee
 fishm0ley
+fishstein
 fishstock10
 fishstockwr
 fisk_bot
@@ -2899,6 +2902,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-apbp
-fishstein
-chesssenseengine
+sylvestrec

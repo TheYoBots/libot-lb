@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@colinbot|2693
 #3|@Nakshatra3|2537
 #4|@OpeningsBot|2264
-#5|@anti-bot|2188
+#5|@anti-bot|2184
 #6|@SriLankaChess|1925
-#7|@pawnrobot|1885
-#8|@MinOpponentMoves|1050
+#7|@pawnrobot|1911
+#8|@MinOpponentMoves|1071

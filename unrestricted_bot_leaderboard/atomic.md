@@ -119,10 +119,10 @@ Rank|Bot|Rating
 #117|@azdad|2047
 #118|@Less_of_a_threat|2047
 #119|@MagnusCarlsen1507|2037
-#120|@HuxZero|2035
-#121|@EasyWinGG|2032
-#122|@OpeningsBot|2032
-#123|@colinbot|2031
+#120|@colinbot|2035
+#121|@HuxZero|2035
+#122|@EasyWinGG|2032
+#123|@OpeningsBot|2032
 #124|@Kizbuurb|2024
 #125|@ESC_BOT|2011
 #126|@are_bots_good|2006
@@ -319,9 +319,9 @@ Rank|Bot|Rating
 #317|@alvin-chess-bot|1067
 #318|@FabriAd|1053
 #319|@TheLegitLegend2|1032
-#320|@MinOpponentMoves|952
-#321|@ZX-Chess|946
-#322|@BogoBot|945
+#320|@ZX-Chess|946
+#321|@BogoBot|945
+#322|@MinOpponentMoves|945
 #323|@thousandatom|865
 #324|@bfdzvfsgaergfds|800
 #325|@TheThanosBot|696
