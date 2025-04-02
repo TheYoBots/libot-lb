@@ -1890,6 +1890,7 @@ ohnibot
 ok12435
 ok_zabu
 olympusalexandriacz
+olympusberserkcz
 olympuscz
 olympusdragoncz
 olympusevolvedcz
@@ -2903,4 +2904,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-olympusberserkcz
+grzechu86

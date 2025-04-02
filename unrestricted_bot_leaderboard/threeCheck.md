@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@Nikitosikbot_v2|2529
 #19|@SCP079|2526
 #20|@Fairy-Stockfish|2484
-#21|@ToromBot|2479
+#21|@ToromBot|2480
 #22|@ESC_BOT|2476
 #23|@Less_of_a_threat|2469
 #24|@NormalBlitzBulletBot|2463
@@ -29,12 +29,12 @@ Rank|Bot|Rating
 #27|@faith_bot|2447
 #28|@chessbot2880|2439
 #29|@ChessVBOT|2430
-#30|@RaspFish|2426
-#31|@NimsiluBot|2422
+#30|@NimsiluBot|2422
+#31|@RaspFish|2412
 #32|@Nikitosik-ai|2405
 #33|@Viet_BOT|2367
-#34|@BraveBot|2349
-#35|@colinbot|2334
+#34|@colinbot|2353
+#35|@BraveBot|2349
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
@@ -68,11 +68,11 @@ Rank|Bot|Rating
 #66|@firstrobot|2003
 #67|@Hyper-Stockfish|1986
 #68|@GodelEscherBot|1974
-#69|@OpeningsBot|1974
-#70|@XXIstCentury|1973
+#69|@XXIstCentury|1973
+#70|@OpeningsBot|1971
 #71|@mrchessmanager|1963
 #72|@Botzer|1961
-#73|@Stockfish-MEDIUM|1953
+#73|@Stockfish-MEDIUM|1958
 #74|@lightspeed_bot|1951
 #75|@pistol-play|1939
 #76|@PROBOT123567|1936
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@SUMEETTHEPRO|1708
 #105|@Yemmi-Yemmi|1702
 #106|@clueless-bot|1685
-#107|@DavidsGuterBot|1660
+#107|@DavidsGuterBot|1664
 #108|@NormalBulletBot|1657
 #109|@the_checkmating_bot|1643
 #110|@CoderDen732|1639
@@ -143,7 +143,7 @@ Rank|Bot|Rating
 #141|@MasterofChessBOT800|1391
 #142|@HiddeNL|1385
 #143|@apraz|1383
-#144|@pawnrobot|1365
+#144|@pawnrobot|1367
 #145|@Bottios|1323
 #146|@Harry_Potterz|1316
 #147|@allvariants|1310
@@ -172,5 +172,5 @@ Rank|Bot|Rating
 #170|@GuineaBot3|972
 #171|@BogoBot|928
 #172|@MateCheckCapture|923
-#173|@MinOpponentMoves|921
+#173|@MinOpponentMoves|914
 #174|@TheSystem_Bot|905

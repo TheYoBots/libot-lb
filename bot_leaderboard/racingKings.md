@@ -4,5 +4,5 @@ Rank|Bot|Rating
 #2|@RaspFish|2533
 #3|@TheMatrix2025|2368
 #4|@colinbot|2348
-#5|@OpeningsBot|2159
-#6|@MinOpponentMoves|658
+#5|@OpeningsBot|2149
+#6|@MinOpponentMoves|655
