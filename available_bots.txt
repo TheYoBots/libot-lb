@@ -2811,6 +2811,7 @@ wombatengine
 world-best-ninja-jnr
 worldofchampions
 worldplayer035bot
+worst_colinbot
 worstbotever123
 worstfish
 worstfish_test
@@ -2905,4 +2906,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-worst_colinbot
+chelanger-bot

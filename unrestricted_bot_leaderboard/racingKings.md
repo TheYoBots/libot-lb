@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@Jussicas|2373
 #41|@TheMatrix2025|2368
 #42|@Lili-Variants|2357
-#43|@colinbot|2348
+#43|@colinbot|2352
 #44|@Viet_BOT|2344
 #45|@EvenMatchup|2336
 #46|@chessbot2880|2334
@@ -77,7 +77,7 @@ Rank|Bot|Rating
 #75|@HuxZero|2176
 #76|@AnUtterlyKarBot|2174
 #77|@knight_128|2144
-#78|@OpeningsBot|2141
+#78|@OpeningsBot|2138
 #79|@Kizburb|2126
 #80|@mc-king-098|2124
 #81|@xiang-qi|2113
