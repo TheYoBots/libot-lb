@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@XXIstCentury|2061
 #117|@azdad|2047
 #118|@Less_of_a_threat|2047
-#119|@colinbot|2039
+#119|@colinbot|2043
 #120|@MagnusCarlsen1507|2037
 #121|@HuxZero|2035
 #122|@EasyWinGG|2032
@@ -321,7 +321,7 @@ Rank|Bot|Rating
 #319|@TheLegitLegend2|1032
 #320|@ZX-Chess|946
 #321|@BogoBot|945
-#322|@MinOpponentMoves|899
+#322|@MinOpponentMoves|898
 #323|@thousandatom|865
 #324|@bfdzvfsgaergfds|800
 #325|@TheThanosBot|696

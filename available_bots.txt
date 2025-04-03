@@ -1091,6 +1091,7 @@ grogros_zero
 groundshaker
 grozadvijkov
 gryndor
+grzechu86
 gslv_and_pslv
 guccibot
 guineabot
@@ -2904,4 +2905,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-grzechu86
+worst_colinbot
