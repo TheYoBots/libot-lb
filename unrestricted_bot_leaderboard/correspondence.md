@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@robiachess|2295
 #36|@Quanticade|2286
 #37|@mrohCentaur|2285
-#38|@OpeningsBot|2279
+#38|@OpeningsBot|2281
 #39|@Toodfish|2273
 #40|@Cheng-4|2269
 #41|@Blue_Mongoose|2249
@@ -127,8 +127,8 @@ Rank|Bot|Rating
 #125|@zeekat|2004
 #126|@honzovy-sachy|2002
 #127|@TESTBOT23|2000
-#128|@GarboBot|1997
-#129|@Zer0_Tw0|1992
+#128|@Zer0_Tw0|1992
+#129|@GarboBot|1989
 #130|@matmoi|1984
 #131|@YoBot_v2|1984
 #132|@maello_bot|1981

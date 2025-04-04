@@ -616,6 +616,7 @@ chunguszero
 cinder-bot
 cizme
 cleobot
+cleoengine
 clompdev
 cloud_bot
 cloudblower
@@ -2907,4 +2908,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cleoengine
+demolito_l2

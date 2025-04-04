@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@EmptikVariantsBot|2443
 #6|@Nikitosikbot_v2|2435
 #7|@ElPeonElectrico|2414
-#8|@ToromBot|2400
+#8|@ToromBot|2403
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -33,15 +33,15 @@ Rank|Bot|Rating
 #31|@PowerOnBot|2195
 #32|@UnDisstoppableBot|2193
 #33|@Amrobotone|2184
-#34|@HuxZero|2163
-#35|@Stockfish-MEDIUM|2149
+#34|@Stockfish-MEDIUM|2183
+#35|@HuxZero|2163
 #36|@Mega_BOT|2148
 #37|@AI69|2143
 #38|@RobotTigerSlav|2136
 #39|@pistol-play|2121
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
-#42|@colinbot|2101
+#42|@colinbot|2092
 #43|@GodelEscherBot|2092
 #44|@Johnsun|2091
 #45|@Jussicas|2086
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
-#82|@OpeningsBot|1908
+#82|@OpeningsBot|1907
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
@@ -172,4 +172,4 @@ Rank|Bot|Rating
 #170|@BogoBot|946
 #171|@GuineaBot2|884
 #172|@MateCheckCapture|795
-#173|@MinOpponentMoves|759
+#173|@MinOpponentMoves|746
