@@ -189,7 +189,7 @@ Rank|Bot|Rating
 #187|@Jannik08_fan|1163
 #188|@BSergey11-BOT|1149
 #189|@K_Shi_Bot|1149
-#190|@pawnrobot|1138
+#190|@pawnrobot|1137
 #191|@TeamChelsie|1125
 #192|@kazakhfirstbot|1119
 #193|@apollo_bot|1106

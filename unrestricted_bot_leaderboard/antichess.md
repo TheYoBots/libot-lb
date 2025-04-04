@@ -113,9 +113,9 @@ Rank|Bot|Rating
 #111|@SaturnBot|2214
 #112|@xDmanBOT|2214
 #113|@YellowFlash_v2|2214
-#114|@CoderDen732|2207
-#115|@NormalBlitzBulletBot|2205
-#116|@anti-bot|2204
+#114|@anti-bot|2208
+#115|@CoderDen732|2207
+#116|@NormalBlitzBulletBot|2205
 #117|@EstmileBot|2200
 #118|@HerokuHasnotplay|2196
 #119|@Lucror|2178
@@ -269,7 +269,7 @@ Rank|Bot|Rating
 #267|@Green_Tea_Ice_Cream|1107
 #268|@Md211bot|1107
 #269|@The_dragon_bot|1076
-#270|@MinOpponentMoves|1046
+#270|@MinOpponentMoves|1073
 #271|@Boom_Bot|1044
 #272|@Mega_BOT|1032
 #273|@katzebot|1016

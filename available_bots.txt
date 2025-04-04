@@ -537,6 +537,7 @@ cheesenet
 cheesepizza2363
 cheezebot
 cheezyglizzyeater
+chelanger-bot
 chen_bot
 chen_sbot
 cheng-4
@@ -2906,4 +2907,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chelanger-bot
+cleoengine

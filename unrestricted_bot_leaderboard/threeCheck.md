@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@KizVariant|2529
 #18|@Nikitosikbot_v2|2529
 #19|@SCP079|2526
-#20|@Fairy-Stockfish|2484
-#21|@ToromBot|2480
+#20|@ToromBot|2491
+#21|@Fairy-Stockfish|2484
 #22|@ESC_BOT|2476
 #23|@Less_of_a_threat|2469
 #24|@NormalBlitzBulletBot|2463
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@Nikitosik-ai|2405
 #33|@Viet_BOT|2367
 #34|@BraveBot|2349
-#35|@colinbot|2347
+#35|@colinbot|2345
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
@@ -69,10 +69,10 @@ Rank|Bot|Rating
 #67|@Hyper-Stockfish|1986
 #68|@GodelEscherBot|1974
 #69|@XXIstCentury|1973
-#70|@Stockfish-MEDIUM|1971
-#71|@OpeningsBot|1969
-#72|@mrchessmanager|1963
-#73|@Botzer|1961
+#70|@OpeningsBot|1969
+#71|@mrchessmanager|1963
+#72|@Botzer|1961
+#73|@Stockfish-MEDIUM|1954
 #74|@lightspeed_bot|1951
 #75|@pistol-play|1939
 #76|@PROBOT123567|1936
@@ -172,5 +172,5 @@ Rank|Bot|Rating
 #170|@GuineaBot3|972
 #171|@BogoBot|928
 #172|@MateCheckCapture|923
-#173|@MinOpponentMoves|908
+#173|@MinOpponentMoves|916
 #174|@TheSystem_Bot|905
