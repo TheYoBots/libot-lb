@@ -2496,6 +2496,7 @@ t3000
 ta_2020_bot
 ta_alexopoulakia
 tacticoferoz
+taleelavshumans
 tapobot
 taske-eman
 tasmanrevenge
@@ -2909,4 +2910,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-taleelavshumans
+akubot

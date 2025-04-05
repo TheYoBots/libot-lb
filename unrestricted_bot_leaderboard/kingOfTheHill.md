@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
-#82|@OpeningsBot|1907
+#82|@OpeningsBot|1916
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
@@ -172,4 +172,4 @@ Rank|Bot|Rating
 #170|@BogoBot|946
 #171|@GuineaBot2|884
 #172|@MateCheckCapture|795
-#173|@MinOpponentMoves|746
+#173|@MinOpponentMoves|735

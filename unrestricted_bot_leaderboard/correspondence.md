@@ -193,11 +193,11 @@ Rank|Bot|Rating
 #191|@Bot413522|1758
 #192|@EDSPBOT|1758
 #193|@AngryOfficePanda|1745
-#194|@anytimemode|1741
-#195|@Bot2000|1741
-#196|@Jaymombot|1741
-#197|@Ssech_BOT|1741
-#198|@wardnbot|1741
+#194|@wardnbot|1744
+#195|@anytimemode|1741
+#196|@Bot2000|1741
+#197|@Jaymombot|1741
+#198|@Ssech_BOT|1741
 #199|@DragonflyBOT|1740
 #200|@noobic_bot|1735
 #201|@Uras21|1735
@@ -308,8 +308,8 @@ Rank|Bot|Rating
 #306|@CheezyGlizzyEater|1444
 #307|@ReallyBadPlayerBot|1428
 #308|@LuciferCat|1426
-#309|@katzebot|1422
-#310|@JupiterBot|1421
+#309|@JupiterBot|1421
+#310|@katzebot|1418
 #311|@sunfish_rs|1414
 #312|@emptedkiller|1413
 #313|@WaspBot|1410
