@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@TheMatrix2025|2368
 #4|@colinbot|2351
 #5|@OpeningsBot|2121
-#6|@MinOpponentMoves|644
+#6|@MinOpponentMoves|643

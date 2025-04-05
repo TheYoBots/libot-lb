@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@robiachess|2295
 #36|@Quanticade|2286
 #37|@mrohCentaur|2285
-#38|@OpeningsBot|2281
+#38|@OpeningsBot|2285
 #39|@Toodfish|2273
 #40|@Cheng-4|2269
 #41|@Blue_Mongoose|2249
@@ -129,10 +129,10 @@ Rank|Bot|Rating
 #127|@TESTBOT23|2000
 #128|@Zer0_Tw0|1992
 #129|@GarboBot|1989
-#130|@matmoi|1984
-#131|@YoBot_v2|1984
-#132|@maello_bot|1981
-#133|@Virutor|1980
+#130|@YoBot_v2|1984
+#131|@maello_bot|1981
+#132|@Virutor|1980
+#133|@matmoi|1979
 #134|@Bobby_Fishcer_Bot|1976
 #135|@BigBrainen|1970
 #136|@BritBot|1970
@@ -158,8 +158,8 @@ Rank|Bot|Rating
 #156|@PiratesBot|1876
 #157|@Yukoo-BOT|1876
 #158|@beststockfish16|1875
-#159|@RadianceEngine|1874
-#160|@RoboTal|1874
+#159|@RoboTal|1874
+#160|@RadianceEngine|1872
 #161|@TheMatrix2025|1872
 #162|@ViVe_2_chess_pro|1869
 #163|@Official_bot|1857
