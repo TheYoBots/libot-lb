@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@pistol-play|2121
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
-#42|@colinbot|2092
+#42|@colinbot|2098
 #43|@GodelEscherBot|2092
 #44|@Johnsun|2091
 #45|@Jussicas|2086
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
-#82|@OpeningsBot|1916
+#82|@OpeningsBot|1911
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
@@ -117,8 +117,8 @@ Rank|Bot|Rating
 #115|@Epiano_Bot|1567
 #116|@Ramses-Chess|1566
 #117|@Toxic_Bot|1541
-#118|@SXDEFENDER|1534
-#119|@DavidsGuterBot|1533
+#118|@DavidsGuterBot|1537
+#119|@SXDEFENDER|1534
 #120|@Light_To_The_Rescue|1523
 #121|@Z-Move|1495
 #122|@TFRChessClub|1494
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@MyNameIsSpeedy|1226
 #157|@Bottios|1223
 #158|@RSVMentor|1196
-#159|@pawnrobot|1190
+#159|@pawnrobot|1189
 #160|@Boom_Bot|1176
 #161|@TrashBot|1168
 #162|@shakboy9824453231op|1152
@@ -173,4 +173,4 @@ Rank|Bot|Rating
 #171|@BogoBot|946
 #172|@GuineaBot2|884
 #173|@MateCheckCapture|795
-#174|@MinOpponentMoves|734
+#174|@MinOpponentMoves|729
