@@ -47,6 +47,7 @@ ajedrezarbot
 ajedrezchamberi
 aks-mantissa
 akshadlawanibot
+akubot
 akul_thotarobot
 alah230
 alan_bot
@@ -2910,4 +2911,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-akubot

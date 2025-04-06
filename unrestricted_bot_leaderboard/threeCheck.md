@@ -70,9 +70,9 @@ Rank|Bot|Rating
 #68|@Hyper-Stockfish|1986
 #69|@GodelEscherBot|1974
 #70|@XXIstCentury|1973
-#71|@mrchessmanager|1963
-#72|@Botzer|1961
-#73|@Stockfish-MEDIUM|1958
+#71|@Stockfish-MEDIUM|1968
+#72|@mrchessmanager|1963
+#73|@Botzer|1961
 #74|@lightspeed_bot|1951
 #75|@pistol-play|1939
 #76|@PROBOT123567|1936
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@SUMEETTHEPRO|1708
 #105|@Yemmi-Yemmi|1702
 #106|@clueless-bot|1685
-#107|@DavidsGuterBot|1660
+#107|@DavidsGuterBot|1658
 #108|@NormalBulletBot|1657
 #109|@the_checkmating_bot|1643
 #110|@CoderDen732|1639
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@DespacitoBot|1080
 #169|@ZX-Chess|1063
 #170|@GuineaBot3|972
-#171|@MinOpponentMoves|939
-#172|@BogoBot|928
+#171|@BogoBot|928
+#172|@MinOpponentMoves|925
 #173|@MateCheckCapture|923
 #174|@TheSystem_Bot|905
