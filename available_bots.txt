@@ -1727,6 +1727,7 @@ mkad-106_bot
 mocheezero
 mochi_bot
 mokbot
+moment-that-inspires
 mon_robot
 monchester
 monikaai
@@ -1753,6 +1754,7 @@ mr84aminibot
 mr_chess_berserk
 mr_cook
 mr_ro-bot
+mr_sandbar
 mrbothacker
 mrburnto4kill
 mrcalvabot
@@ -2061,6 +2063,7 @@ ptit-biscuit
 puffinbot
 pure-eman
 purplehunter
+purwani
 pussaw
 puztel-bot
 pvice
@@ -2914,6 +2917,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-moment-that-inspires
-purwani
-mr_sandbar
+matewithrook_sf17dev
+vixen_is_very_cool
+byteknightengine
