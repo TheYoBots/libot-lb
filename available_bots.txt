@@ -1949,6 +1949,7 @@ partner3615diago
 passivebot
 patientjellyfish
 patriciabot
+patung
 paul_morphine_bot
 paulmorphybot
 pawn-bot
@@ -2226,6 +2227,7 @@ sandybot
 sanjana_kambala-bot
 santana64
 sarbazbot
+sardinebot
 sargon-1ply
 sargon-2ply
 sargon-3ply
@@ -2784,6 +2786,7 @@ watcher31_bot
 waterbirdchess
 waterspoutx
 wax_bot
+wayang
 weakbot
 weaklean
 weakstash
@@ -2911,6 +2914,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-patung
-wayang
-sardinebot
+moment-that-inspires
+purwani
+mr_sandbar
