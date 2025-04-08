@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@IAMSTOCKFISH123|2305
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
-#35|@Ujwal1001|2297
-#36|@OpeningsBot|2296
+#35|@OpeningsBot|2299
+#36|@Ujwal1001|2297
 #37|@robiachess|2295
 #38|@Quanticade|2286
 #39|@mrohCentaur|2285
@@ -134,7 +134,7 @@ Rank|Bot|Rating
 #132|@maello_bot|1981
 #133|@Virutor|1980
 #134|@Bobby_Fishcer_Bot|1976
-#135|@matmoi|1975
+#135|@matmoi|1971
 #136|@BigBrainen|1970
 #137|@BritBot|1970
 #138|@Test_God_50_BOT|1965
@@ -161,8 +161,8 @@ Rank|Bot|Rating
 #159|@beststockfish16|1875
 #160|@RoboTal|1874
 #161|@TheMatrix2025|1872
-#162|@RadianceEngine|1870
-#163|@ViVe_2_chess_pro|1869
+#162|@ViVe_2_chess_pro|1869
+#163|@RadianceEngine|1868
 #164|@Official_bot|1857
 #165|@Boris-Trapsky|1853
 #166|@natural-disaster|1853

@@ -471,6 +471,7 @@ bunny_2021
 bushbowl
 bushycamper
 butzke_bot
+byteknightengine
 c0llision
 cabolince
 cactusengine
@@ -1660,6 +1661,7 @@ mate_bot
 mateai
 matecheckcapture
 materialisoverrated
+matewithrook_sf17dev
 matmoi
 matrix-ai
 matrixmovebot80
@@ -2761,6 +2763,7 @@ virutor
 vishynotanand_thebot
 vive_2_chess_pro
 vividmind
+vixen_is_very_cool
 vlad_777_0
 vladeabot
 vodkabot
@@ -2917,6 +2920,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-matewithrook_sf17dev
-vixen_is_very_cool
-byteknightengine
