@@ -348,6 +348,7 @@ bot-stonger
 bot-testing
 bot-ugurpc
 bot-variants
+bot-whiteworm
 bot1996123
 bot1cwc
 bot2000
@@ -2920,4 +2921,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bot-whiteworm

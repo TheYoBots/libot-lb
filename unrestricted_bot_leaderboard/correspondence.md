@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@pawn_git|2588
 #8|@PetersBot|2582
 #9|@Alexnajax_Fan|2538
-#10|@Moment-That-Inspires|2528
+#10|@Moment-That-Inspires|2530
 #11|@SacrificialSage|2519
 #12|@peonasesino71|2512
 #13|@ChamberiAjedrez|2507
@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
 #35|@Ujwal1001|2297
-#36|@robiachess|2295
-#37|@OpeningsBot|2290
+#36|@OpeningsBot|2296
+#37|@robiachess|2295
 #38|@Quanticade|2286
 #39|@mrohCentaur|2285
 #40|@Toodfish|2273
@@ -50,11 +50,11 @@ Rank|Bot|Rating
 #48|@DrSmartBugs|2230
 #49|@Jobabot|2229
 #50|@ttBOT|2229
-#51|@Shocky_BOT|2228
-#52|@Bot_of_jotim431|2227
-#53|@Tundra4|2227
-#54|@LeelaZero-UK|2226
-#55|@Abuziddin-BOT|2219
+#51|@Bot_of_jotim431|2227
+#52|@Tundra4|2227
+#53|@LeelaZero-UK|2226
+#54|@Abuziddin-BOT|2219
+#55|@Shocky_BOT|2207
 #56|@AbhijithHISBot|2201
 #57|@HerokuHasnotplay|2196
 #58|@Digi-bot|2192
