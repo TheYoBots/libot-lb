@@ -38,8 +38,8 @@ Rank|Bot|Rating
 #36|@AI69|2143
 #37|@RobotTigerSlav|2136
 #38|@pistol-play|2121
-#39|@firstrobot|2114
-#40|@colinbot|2112
+#39|@colinbot|2114
+#40|@firstrobot|2114
 #41|@NormalBulletBot|2109
 #42|@GodelEscherBot|2092
 #43|@Johnsun|2091
@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@Epiano_Bot|1567
 #117|@Ramses-Chess|1566
 #118|@Toxic_Bot|1541
-#119|@DavidsGuterBot|1535
+#119|@DavidsGuterBot|1534
 #120|@SXDEFENDER|1534
 #121|@Light_To_The_Rescue|1523
 #122|@Z-Move|1495
@@ -174,4 +174,4 @@ Rank|Bot|Rating
 #172|@BogoBot|946
 #173|@GuineaBot2|884
 #174|@MateCheckCapture|795
-#175|@MinOpponentMoves|708
+#175|@MinOpponentMoves|705

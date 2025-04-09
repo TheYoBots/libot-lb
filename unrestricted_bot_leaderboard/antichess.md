@@ -110,12 +110,12 @@ Rank|Bot|Rating
 #108|@Good-Game-123|2221
 #109|@The-Fastest-Bot|2218
 #110|@All_Except_Chess960|2214
-#111|@anti-bot|2214
-#112|@SaturnBot|2214
-#113|@xDmanBOT|2214
-#114|@YellowFlash_v2|2214
-#115|@CoderDen732|2207
-#116|@NormalBlitzBulletBot|2205
+#111|@SaturnBot|2214
+#112|@xDmanBOT|2214
+#113|@YellowFlash_v2|2214
+#114|@CoderDen732|2207
+#115|@NormalBlitzBulletBot|2205
+#116|@anti-bot|2202
 #117|@EstmileBot|2200
 #118|@HerokuHasnotplay|2196
 #119|@Lucror|2178
@@ -268,7 +268,7 @@ Rank|Bot|Rating
 #266|@thousandatom|1146
 #267|@Green_Tea_Ice_Cream|1107
 #268|@Md211bot|1107
-#269|@MinOpponentMoves|1086
+#269|@MinOpponentMoves|1083
 #270|@The_dragon_bot|1076
 #271|@Boom_Bot|1044
 #272|@Mega_BOT|1032

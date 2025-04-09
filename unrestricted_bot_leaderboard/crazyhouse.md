@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@YoBot_v2|2394
 #29|@CloudBOT|2393
 #30|@NienishiEngine|2392
-#31|@RaspFish|2384
+#31|@RaspFish|2391
 #32|@EagleEye2021|2365
 #33|@ToromBot|2353
 #34|@KingfishX|2347
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@Dean_Summer_Bot|1898
 #84|@vrnts_colinbot|1897
 #85|@azdad|1895
-#86|@colinbot|1891
+#86|@colinbot|1887
 #87|@The-Fastest-Bot|1885
 #88|@XXIstCentury|1875
 #89|@ChessBot3021|1872
@@ -93,14 +93,14 @@ Rank|Bot|Rating
 #91|@legendbot1|1866
 #92|@MyNameIsSpeeedy|1861
 #93|@Bot_AOOP11|1858
-#94|@AnUtterlyKarBot|1829
-#95|@Dong_Xiao_Yuan|1829
-#96|@SugarAndSpice|1828
-#97|@HumanBOT_lv1929|1808
-#98|@rayking311|1808
-#99|@RobotTigerSlav|1805
-#100|@bot1996123|1800
-#101|@Stockfish-MEDIUM|1790
+#94|@Stockfish-MEDIUM|1834
+#95|@AnUtterlyKarBot|1829
+#96|@Dong_Xiao_Yuan|1829
+#97|@SugarAndSpice|1828
+#98|@HumanBOT_lv1929|1808
+#99|@rayking311|1808
+#100|@RobotTigerSlav|1805
+#101|@bot1996123|1800
 #102|@Botzer|1787
 #103|@HyperLitikBOT|1778
 #104|@EstmileBot|1777
@@ -117,8 +117,8 @@ Rank|Bot|Rating
 #115|@FASTCHESSBOT|1666
 #116|@SipsonsamsonBOT|1665
 #117|@MistakeBOT|1655
-#118|@OpeningsBot|1647
-#119|@Isaacwb_BOT|1640
+#118|@Isaacwb_BOT|1640
+#119|@OpeningsBot|1639
 #120|@SriLankaChess|1623
 #121|@Viet_BOT|1617
 #122|@david9426_bot|1611
@@ -203,4 +203,4 @@ Rank|Bot|Rating
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@TrashBot|800
-#204|@MinOpponentMoves|774
+#204|@MinOpponentMoves|767

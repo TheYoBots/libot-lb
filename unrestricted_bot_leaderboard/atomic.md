@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@ToromBot|2638
+#5|@ToromBot|2641
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -323,7 +323,7 @@ Rank|Bot|Rating
 #321|@ZX-Chess|946
 #322|@BogoBot|945
 #323|@thousandatom|865
-#324|@MinOpponentMoves|825
+#324|@MinOpponentMoves|831
 #325|@bfdzvfsgaergfds|800
 #326|@TheThanosBot|696
 #327|@BetaOneBot|690
