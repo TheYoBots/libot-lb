@@ -115,9 +115,9 @@ Rank|Bot|Rating
 #113|@YellowFlash_v2|2214
 #114|@CoderDen732|2207
 #115|@NormalBlitzBulletBot|2205
-#116|@anti-bot|2202
-#117|@EstmileBot|2200
-#118|@HerokuHasnotplay|2196
+#116|@EstmileBot|2200
+#117|@HerokuHasnotplay|2196
+#118|@anti-bot|2187
 #119|@Lucror|2178
 #120|@lightspeed_bot|2152
 #121|@AntiChessBot|2142
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@Menganti|1963
 #138|@CloudBOT|1950
 #139|@SriLankaChess|1925
-#140|@pawnrobot|1911
+#140|@pawnrobot|1919
 #141|@Crepusculum|1881
 #142|@NoTallkOnlyGames|1871
 #143|@Lumac0|1861
@@ -268,8 +268,8 @@ Rank|Bot|Rating
 #266|@thousandatom|1146
 #267|@Green_Tea_Ice_Cream|1107
 #268|@Md211bot|1107
-#269|@MinOpponentMoves|1083
-#270|@The_dragon_bot|1076
+#269|@The_dragon_bot|1076
+#270|@MinOpponentMoves|1074
 #271|@Boom_Bot|1044
 #272|@Mega_BOT|1032
 #273|@katzebot|1016

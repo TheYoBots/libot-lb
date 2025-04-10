@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@MyNameIsSpeedy|1226
 #158|@Bottios|1223
 #159|@RSVMentor|1196
-#160|@pawnrobot|1184
+#160|@pawnrobot|1180
 #161|@Boom_Bot|1176
 #162|@TrashBot|1168
 #163|@shakboy9824453231op|1152
