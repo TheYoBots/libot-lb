@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@ToromBot|2641
+#5|@ToromBot|2635
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@Nikitosikbot_v2|2567
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
-#15|@RaspFish|2553
+#15|@RaspFish|2544
 #16|@ttBOT|2540
 #17|@BitExtender128|2526
 #18|@ResoluteBot|2525
@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@LudwigBOT|2339
 #41|@newengine2022|2337
 #42|@NotNateBot|2336
-#43|@Stockfish-MEDIUM|2334
+#43|@Stockfish-MEDIUM|2315
 #44|@The-Fastest-Bot|2314
 #45|@Alehkine_cat|2312
 #46|@Dean_Summer_Bot|2305
@@ -120,9 +120,9 @@ Rank|Bot|Rating
 #118|@azdad|2047
 #119|@Less_of_a_threat|2047
 #120|@MagnusCarlsen1507|2037
-#121|@HuxZero|2035
-#122|@EasyWinGG|2032
-#123|@colinbot|2029
+#121|@colinbot|2036
+#122|@HuxZero|2035
+#123|@EasyWinGG|2032
 #124|@Kizbuurb|2024
 #125|@ESC_BOT|2011
 #126|@are_bots_good|2006
@@ -227,7 +227,7 @@ Rank|Bot|Rating
 #225|@Pineapple-Friendly|1569
 #226|@Bottios|1563
 #227|@AntarticAnonymous|1553
-#228|@katzebot|1553
+#228|@katzebot|1552
 #229|@HiddeNL|1551
 #230|@Alexnajax_Fan|1544
 #231|@knight_BOT|1539
@@ -273,8 +273,8 @@ Rank|Bot|Rating
 #271|@Trumpfor2O2O|1386
 #272|@DrunkenMasterEngine|1385
 #273|@anonymous5612|1384
-#274|@SLvov-bot|1359
-#275|@pawnrobot|1354
+#274|@pawnrobot|1378
+#275|@SLvov-bot|1359
 #276|@ChessBotHere|1351
 #277|@kazakhfirstbot|1340
 #278|@TheBullyBot|1339
@@ -323,7 +323,7 @@ Rank|Bot|Rating
 #321|@ZX-Chess|946
 #322|@BogoBot|945
 #323|@thousandatom|865
-#324|@MinOpponentMoves|852
+#324|@MinOpponentMoves|859
 #325|@bfdzvfsgaergfds|800
 #326|@TheThanosBot|696
 #327|@BetaOneBot|690

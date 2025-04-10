@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@H-Zero|2650
 #7|@pawn_git|2588
 #8|@PetersBot|2582
-#9|@Alexnajax_Fan|2538
-#10|@Moment-That-Inspires|2530
+#9|@Moment-That-Inspires|2540
+#10|@Alexnajax_Fan|2538
 #11|@SacrificialSage|2519
 #12|@peonasesino71|2512
 #13|@ChamberiAjedrez|2507
