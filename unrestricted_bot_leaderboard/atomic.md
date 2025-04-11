@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@Trumpfor2O2O|1386
 #272|@DrunkenMasterEngine|1385
 #273|@anonymous5612|1384
-#274|@pawnrobot|1378
+#274|@pawnrobot|1377
 #275|@SLvov-bot|1359
 #276|@ChessBotHere|1351
 #277|@kazakhfirstbot|1340
@@ -322,8 +322,8 @@ Rank|Bot|Rating
 #320|@TheLegitLegend2|1032
 #321|@ZX-Chess|946
 #322|@BogoBot|945
-#323|@thousandatom|865
-#324|@MinOpponentMoves|859
+#323|@MinOpponentMoves|887
+#324|@thousandatom|865
 #325|@bfdzvfsgaergfds|800
 #326|@TheThanosBot|696
 #327|@BetaOneBot|690

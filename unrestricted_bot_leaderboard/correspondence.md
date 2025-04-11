@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@H-Zero|2650
 #7|@pawn_git|2588
 #8|@PetersBot|2582
-#9|@Moment-That-Inspires|2540
-#10|@Alexnajax_Fan|2538
+#9|@Alexnajax_Fan|2544
+#10|@Moment-That-Inspires|2540
 #11|@SacrificialSage|2519
 #12|@peonasesino71|2512
 #13|@ChamberiAjedrez|2507
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@IAMSTOCKFISH123|2305
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
-#35|@Ujwal1001|2297
-#36|@OpeningsBot|2296
+#35|@OpeningsBot|2299
+#36|@Ujwal1001|2297
 #37|@robiachess|2295
 #38|@Quanticade|2286
 #39|@mrohCentaur|2285
@@ -130,10 +130,10 @@ Rank|Bot|Rating
 #128|@TESTBOT23|2000
 #129|@Zer0_Tw0|1992
 #130|@YoBot_v2|1984
-#131|@GarboBot|1982
-#132|@maello_bot|1981
-#133|@Virutor|1980
-#134|@Bobby_Fishcer_Bot|1976
+#131|@maello_bot|1981
+#132|@Virutor|1980
+#133|@Bobby_Fishcer_Bot|1976
+#134|@GarboBot|1973
 #135|@matmoi|1971
 #136|@BigBrainen|1970
 #137|@BritBot|1970

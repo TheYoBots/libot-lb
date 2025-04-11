@@ -1886,6 +1886,7 @@ novagcc
 nowinforyoukid
 nukechess-bot
 number_one1
+nuttchess_bot
 nya-vp
 nyaabot
 o9mniej_bot
@@ -2019,6 +2020,7 @@ polaris2bot
 polochon-bot
 polybot
 popularmoves-bot
+positionalai
 postbot
 postbotr
 potato-chess-bot
@@ -2921,5 +2923,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nuttchess_bot
-positionalai

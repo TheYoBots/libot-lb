@@ -79,9 +79,9 @@ Rank|Bot|Rating
 #77|@Resolved-Bot|1942
 #78|@Pineapple-Friendly|1937
 #79|@azdad|1936
-#80|@HyperLitikBOT|1930
-#81|@SacrificialSage|1925
-#82|@OpeningsBot|1910
+#80|@OpeningsBot|1932
+#81|@HyperLitikBOT|1930
+#82|@SacrificialSage|1925
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
@@ -159,8 +159,8 @@ Rank|Bot|Rating
 #157|@MyNameIsSpeedy|1226
 #158|@Bottios|1223
 #159|@RSVMentor|1196
-#160|@pawnrobot|1180
-#161|@Boom_Bot|1176
+#160|@Boom_Bot|1176
+#161|@pawnrobot|1176
 #162|@TrashBot|1168
 #163|@shakboy9824453231op|1152
 #164|@GuineaBot3|1121

@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@Dean_Summer_Bot|1898
 #84|@vrnts_colinbot|1897
 #85|@azdad|1895
-#86|@colinbot|1887
+#86|@colinbot|1894
 #87|@The-Fastest-Bot|1885
 #88|@XXIstCentury|1875
 #89|@ChessBot3021|1872
@@ -93,12 +93,12 @@ Rank|Bot|Rating
 #91|@legendbot1|1866
 #92|@MyNameIsSpeeedy|1861
 #93|@Bot_AOOP11|1858
-#94|@Stockfish-MEDIUM|1834
-#95|@AnUtterlyKarBot|1829
-#96|@Dong_Xiao_Yuan|1829
-#97|@SugarAndSpice|1828
-#98|@HumanBOT_lv1929|1808
-#99|@rayking311|1808
+#94|@AnUtterlyKarBot|1829
+#95|@Dong_Xiao_Yuan|1829
+#96|@SugarAndSpice|1828
+#97|@HumanBOT_lv1929|1808
+#98|@rayking311|1808
+#99|@Stockfish-MEDIUM|1807
 #100|@RobotTigerSlav|1805
 #101|@bot1996123|1800
 #102|@Botzer|1787
