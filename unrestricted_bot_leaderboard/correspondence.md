@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@bekbot|2307
 #32|@IAMSTOCKFISH123|2305
 #33|@Magnus-BOT|2304
-#34|@Xmas_dragon|2300
-#35|@OpeningsBot|2299
+#34|@OpeningsBot|2304
+#35|@Xmas_dragon|2300
 #36|@Ujwal1001|2297
 #37|@robiachess|2295
 #38|@Quanticade|2286
@@ -54,10 +54,10 @@ Rank|Bot|Rating
 #52|@Tundra4|2227
 #53|@LeelaZero-UK|2226
 #54|@Abuziddin-BOT|2219
-#55|@Shocky_BOT|2207
-#56|@AbhijithHISBot|2201
-#57|@HerokuHasnotplay|2196
-#58|@Digi-bot|2192
+#55|@AbhijithHISBot|2201
+#56|@HerokuHasnotplay|2196
+#57|@Digi-bot|2192
+#58|@Shocky_BOT|2189
 #59|@GothamChessBot|2183
 #60|@Nowinforyoukid|2177
 #61|@WeakStash|2177
