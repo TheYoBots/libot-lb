@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@CloudBOT|2393
 #31|@NienishiEngine|2392
 #32|@EagleEye2021|2365
-#33|@ToromBot|2353
+#33|@ToromBot|2357
 #34|@KingfishX|2347
 #35|@chesshyperbot|2344
 #36|@EmptikBot|2332
@@ -116,9 +116,9 @@ Rank|Bot|Rating
 #114|@B0T5_RU13|1683
 #115|@FASTCHESSBOT|1666
 #116|@SipsonsamsonBOT|1665
-#117|@MistakeBOT|1655
-#118|@Isaacwb_BOT|1640
-#119|@OpeningsBot|1631
+#117|@OpeningsBot|1657
+#118|@MistakeBOT|1655
+#119|@Isaacwb_BOT|1640
 #120|@SriLankaChess|1623
 #121|@Viet_BOT|1617
 #122|@david9426_bot|1611
@@ -203,4 +203,4 @@ Rank|Bot|Rating
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@TrashBot|800
-#204|@MinOpponentMoves|751
+#204|@MinOpponentMoves|748

@@ -99,8 +99,8 @@ Rank|Bot|Rating
 #97|@Dean_Summer_Bot|2279
 #98|@Johnsun|2269
 #99|@SkyBlaster|2254
-#100|@mrchessmanager|2240
-#101|@OpeningsBot|2240
+#100|@OpeningsBot|2248
+#101|@mrchessmanager|2240
 #102|@TurkiyeHogwarts|2240
 #103|@EagleEye2021|2235
 #104|@chesshyperbot|2234
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@Menganti|1963
 #138|@CloudBOT|1950
 #139|@SriLankaChess|1925
-#140|@pawnrobot|1912
+#140|@pawnrobot|1916
 #141|@Crepusculum|1881
 #142|@NoTallkOnlyGames|1871
 #143|@Lumac0|1861
@@ -268,8 +268,8 @@ Rank|Bot|Rating
 #266|@thousandatom|1146
 #267|@Green_Tea_Ice_Cream|1107
 #268|@Md211bot|1107
-#269|@MinOpponentMoves|1078
-#270|@The_dragon_bot|1076
+#269|@The_dragon_bot|1076
+#270|@MinOpponentMoves|1062
 #271|@Boom_Bot|1044
 #272|@Mega_BOT|1032
 #273|@katzebot|1016

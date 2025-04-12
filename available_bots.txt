@@ -1718,6 +1718,7 @@ minic-chess_engine
 minichessbot
 minimardi
 mininnue
+minipositionalai
 minopponentmoves
 minula_paranvithana
 misere-fish
@@ -2923,4 +2924,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-minipositionalai
+craksys_ai
+b0red_bot

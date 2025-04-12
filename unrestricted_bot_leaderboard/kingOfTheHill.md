@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@Resolved-Bot|1942
 #78|@Pineapple-Friendly|1937
 #79|@azdad|1936
-#80|@HyperLitikBOT|1930
-#81|@OpeningsBot|1927
+#80|@OpeningsBot|1931
+#81|@HyperLitikBOT|1930
 #82|@SacrificialSage|1925
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
@@ -174,4 +174,4 @@ Rank|Bot|Rating
 #172|@BogoBot|946
 #173|@GuineaBot2|884
 #174|@MateCheckCapture|795
-#175|@MinOpponentMoves|703
+#175|@MinOpponentMoves|702
