@@ -34,14 +34,14 @@ Rank|Bot|Rating
 #32|@UnDisstoppableBot|2193
 #33|@Amrobotone|2184
 #34|@HuxZero|2163
-#35|@Stockfish-MEDIUM|2162
-#36|@Mega_BOT|2148
-#37|@AI69|2143
-#38|@RobotTigerSlav|2136
+#35|@Mega_BOT|2148
+#36|@AI69|2143
+#37|@RobotTigerSlav|2136
+#38|@Stockfish-MEDIUM|2135
 #39|@pistol-play|2121
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
-#42|@colinbot|2094
+#42|@colinbot|2104
 #43|@GodelEscherBot|2092
 #44|@Johnsun|2091
 #45|@Jussicas|2086
@@ -174,4 +174,4 @@ Rank|Bot|Rating
 #172|@BogoBot|946
 #173|@GuineaBot2|884
 #174|@MateCheckCapture|795
-#175|@MinOpponentMoves|702
+#175|@MinOpponentMoves|697

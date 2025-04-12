@@ -206,6 +206,7 @@ axwchessbot
 azdad
 b-the-bot
 b0ngfish
+b0red_bot
 b0t5_ru13
 b4df1sh
 b4ux1t3s-bot
@@ -671,6 +672,7 @@ cpu2006
 cpu2010
 crabchess
 crabstick-engine
+craksys_ai
 crappybot
 craytox
 crayybot
@@ -2924,5 +2926,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-craksys_ai
-b0red_bot
