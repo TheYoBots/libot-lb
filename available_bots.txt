@@ -837,6 +837,7 @@ egebakken_bot
 egeytek
 egs1-en001
 einstein_nnue
+eleanor98
 electricboy6-bot
 elephantgambitengine
 elfinsbot
@@ -2926,4 +2927,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-eleanor98

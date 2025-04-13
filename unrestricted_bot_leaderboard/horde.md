@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
-#12|@RaspFish|2474
+#12|@RaspFish|2475
 #13|@EmptikVariantsBot|2402
 #14|@EmptikBot|2378
 #15|@LoseisnotAvailablehe|2369
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@newengine2022|1901
 #54|@mrchessmanager|1888
 #55|@TheMatrix2029|1884
-#56|@colinbot|1879
+#56|@colinbot|1880
 #57|@TeamChelsie|1869
 #58|@B0T5_RU13|1852
 #59|@Lili-Variants|1846
@@ -130,13 +130,13 @@ Rank|Bot|Rating
 #128|@Nicholaswb_BOT|1288
 #129|@AEBROADUSBOTTER|1279
 #130|@ReallyCrazyBOT|1279
-#131|@AbhijithHISBot|1258
-#132|@Humuhumunukunukuapu|1258
-#133|@Jannik08_fan|1258
-#134|@PowerOnBot|1258
-#135|@xDmanBOT|1258
-#136|@yobmef|1258
-#137|@pawnrobot|1247
+#131|@pawnrobot|1263
+#132|@AbhijithHISBot|1258
+#133|@Humuhumunukunukuapu|1258
+#134|@Jannik08_fan|1258
+#135|@PowerOnBot|1258
+#136|@xDmanBOT|1258
+#137|@yobmef|1258
 #138|@TheSystem_Bot|1218
 #139|@GuineaBot3|1212
 #140|@admin-bot|1209
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@duythong1402|1120
 #147|@alvin-chess-bot|1091
 #148|@Alexnajax_Fan|1066
-#149|@MinOpponentMoves|1025
+#149|@MinOpponentMoves|1023
 #150|@MateCheckCapture|885
 #151|@GuineaBot2|851
 #152|@Ramses-Chess|800

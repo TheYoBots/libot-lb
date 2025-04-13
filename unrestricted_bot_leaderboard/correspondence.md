@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Nikitosik-ai|2714
 #6|@H-Zero|2650
 #7|@pawn_git|2588
-#8|@PetersBot|2582
+#8|@PetersBot|2583
 #9|@Alexnajax_Fan|2544
 #10|@Moment-That-Inspires|2540
 #11|@SacrificialSage|2519

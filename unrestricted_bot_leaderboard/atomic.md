@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@ToromBot|2636
+#5|@ToromBot|2637
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -299,11 +299,11 @@ Rank|Bot|Rating
 #297|@NarratingSince86|1258
 #298|@rayking311|1258
 #299|@XiDM|1241
-#300|@littlesamsun|1217
-#301|@GuineaBot3|1215
-#302|@kidobot2911|1202
-#303|@Lozza-Bot|1198
-#304|@ElFinsBoT|1191
+#300|@GuineaBot3|1215
+#301|@kidobot2911|1202
+#302|@Lozza-Bot|1198
+#303|@ElFinsBoT|1191
+#304|@littlesamsun|1190
 #305|@GuineaBot2|1173
 #306|@clrsrc_lc0|1168
 #307|@Jaymombot|1166
@@ -322,7 +322,7 @@ Rank|Bot|Rating
 #320|@TheLegitLegend2|1032
 #321|@ZX-Chess|946
 #322|@BogoBot|945
-#323|@MinOpponentMoves|875
+#323|@MinOpponentMoves|901
 #324|@thousandatom|865
 #325|@bfdzvfsgaergfds|800
 #326|@TheThanosBot|696

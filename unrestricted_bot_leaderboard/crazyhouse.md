@@ -84,16 +84,16 @@ Rank|Bot|Rating
 #82|@PetersBot|1911
 #83|@Dean_Summer_Bot|1898
 #84|@vrnts_colinbot|1897
-#85|@azdad|1895
-#86|@colinbot|1894
+#85|@colinbot|1896
+#86|@azdad|1895
 #87|@The-Fastest-Bot|1885
 #88|@XXIstCentury|1875
 #89|@ChessBot3021|1872
 #90|@CocopikachuBOT|1868
 #91|@legendbot1|1866
-#92|@MyNameIsSpeeedy|1861
-#93|@Bot_AOOP11|1858
-#94|@Stockfish-MEDIUM|1857
+#92|@Stockfish-MEDIUM|1863
+#93|@MyNameIsSpeeedy|1861
+#94|@Bot_AOOP11|1858
 #95|@AnUtterlyKarBot|1829
 #96|@Dong_Xiao_Yuan|1829
 #97|@SugarAndSpice|1828
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@B0T5_RU13|1683
 #115|@FASTCHESSBOT|1666
 #116|@SipsonsamsonBOT|1665
-#117|@OpeningsBot|1661
+#117|@OpeningsBot|1657
 #118|@MistakeBOT|1655
 #119|@Isaacwb_BOT|1640
 #120|@SriLankaChess|1623
@@ -204,4 +204,4 @@ Rank|Bot|Rating
 #202|@RSVMentor|862
 #203|@GuineaBot3|845
 #204|@TrashBot|800
-#205|@MinOpponentMoves|744
+#205|@MinOpponentMoves|743
