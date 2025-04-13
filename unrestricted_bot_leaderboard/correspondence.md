@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@bekbot|2307
 #32|@IAMSTOCKFISH123|2305
 #33|@Magnus-BOT|2304
-#34|@OpeningsBot|2304
+#34|@OpeningsBot|2300
 #35|@Xmas_dragon|2300
 #36|@Ujwal1001|2297
 #37|@robiachess|2295
@@ -308,9 +308,9 @@ Rank|Bot|Rating
 #306|@dtsudo|1449
 #307|@CheezyGlizzyEater|1444
 #308|@ReallyBadPlayerBot|1428
-#309|@LuciferCat|1426
-#310|@JupiterBot|1421
-#311|@katzebot|1418
+#309|@katzebot|1426
+#310|@LuciferCat|1426
+#311|@JupiterBot|1421
 #312|@sunfish_rs|1414
 #313|@emptedkiller|1413
 #314|@WaspBot|1410

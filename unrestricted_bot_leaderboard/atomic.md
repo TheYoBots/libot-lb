@@ -298,8 +298,8 @@ Rank|Bot|Rating
 #296|@Mr-Bob|1258
 #297|@NarratingSince86|1258
 #298|@rayking311|1258
-#299|@littlesamsun|1252
-#300|@XiDM|1241
+#299|@XiDM|1241
+#300|@littlesamsun|1217
 #301|@GuineaBot3|1215
 #302|@kidobot2911|1202
 #303|@Lozza-Bot|1198
@@ -322,7 +322,7 @@ Rank|Bot|Rating
 #320|@TheLegitLegend2|1032
 #321|@ZX-Chess|946
 #322|@BogoBot|945
-#323|@MinOpponentMoves|870
+#323|@MinOpponentMoves|875
 #324|@thousandatom|865
 #325|@bfdzvfsgaergfds|800
 #326|@TheThanosBot|696

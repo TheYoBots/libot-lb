@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@Botzer|1772
 #69|@CloudBOT|1758
 #70|@CocopikachuBOT|1757
-#71|@OpeningsBot|1757
+#71|@OpeningsBot|1749
 #72|@Heman36541234578|1741
 #73|@Vinh_VariantsBot|1741
 #74|@AndromedaSX1|1740
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@duythong1402|1120
 #147|@alvin-chess-bot|1091
 #148|@Alexnajax_Fan|1066
-#149|@MinOpponentMoves|1033
+#149|@MinOpponentMoves|1025
 #150|@MateCheckCapture|885
 #151|@GuineaBot2|851
 #152|@Ramses-Chess|800
