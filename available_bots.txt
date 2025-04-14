@@ -2927,3 +2927,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+humanoid_2200
+humanoid_1800

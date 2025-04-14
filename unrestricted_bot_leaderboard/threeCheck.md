@@ -31,11 +31,11 @@ Rank|Bot|Rating
 #29|@ChessVBOT|2430
 #30|@NimsiluBot|2422
 #31|@Nikitosik-ai|2405
-#32|@RaspFish|2398
+#32|@RaspFish|2385
 #33|@Viet_BOT|2367
 #34|@BraveBot|2349
 #35|@Zer0_Tw0|2332
-#36|@colinbot|2313
+#36|@colinbot|2324
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
 #39|@KingfishX|2285
@@ -67,8 +67,8 @@ Rank|Bot|Rating
 #65|@Resolved-Bot|2026
 #66|@SacrificialSage|2026
 #67|@firstrobot|2003
-#68|@OpeningsBot|1992
-#69|@Hyper-Stockfish|1986
+#68|@Hyper-Stockfish|1986
+#69|@OpeningsBot|1982
 #70|@GodelEscherBot|1974
 #71|@XXIstCentury|1973
 #72|@mrchessmanager|1963
@@ -87,12 +87,12 @@ Rank|Bot|Rating
 #85|@Galaxy_Guardian|1884
 #86|@MagicHacker123|1865
 #87|@Johnsun|1863
-#88|@chesshyperbot|1846
-#89|@HumanBOT_lv1929|1844
-#90|@szuwar8716|1844
-#91|@B0T5_RU13|1841
-#92|@Pineapple-Friendly|1837
-#93|@SriLankaChess|1822
+#88|@SriLankaChess|1854
+#89|@chesshyperbot|1846
+#90|@HumanBOT_lv1929|1844
+#91|@szuwar8716|1844
+#92|@B0T5_RU13|1841
+#93|@Pineapple-Friendly|1837
 #94|@CloudBotZero|1818
 #95|@TeamChelsie|1818
 #96|@Storm_Shadow2012|1817
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@Yemmi-Yemmi|1702
 #106|@clueless-bot|1685
 #107|@NormalBulletBot|1657
-#108|@DavidsGuterBot|1655
+#108|@DavidsGuterBot|1653
 #109|@the_checkmating_bot|1643
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
@@ -143,7 +143,7 @@ Rank|Bot|Rating
 #141|@MasterofChessBOT800|1391
 #142|@HiddeNL|1385
 #143|@apraz|1383
-#144|@pawnrobot|1349
+#144|@pawnrobot|1347
 #145|@Bottios|1323
 #146|@TTC-BOT_2|1322
 #147|@Harry_Potterz|1316
@@ -174,4 +174,4 @@ Rank|Bot|Rating
 #172|@BogoBot|928
 #173|@MateCheckCapture|923
 #174|@TheSystem_Bot|905
-#175|@MinOpponentMoves|883
+#175|@MinOpponentMoves|893
