@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@mc-king-098|2124
 #80|@xiang-qi|2113
 #81|@atomicli|2111
-#82|@OpeningsBot|2106
+#82|@OpeningsBot|2103
 #83|@Trumpfor2O2O|2103
 #84|@PetersTestBot|2081
 #85|@CloudBOT|2073

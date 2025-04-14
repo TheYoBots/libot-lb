@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@pistol-play|2121
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
-#42|@colinbot|2092
+#42|@colinbot|2095
 #43|@GodelEscherBot|2092
 #44|@Johnsun|2091
 #45|@Jussicas|2086
@@ -91,8 +91,8 @@ Rank|Bot|Rating
 #89|@que-hyper|1865
 #90|@relevantproblem|1857
 #91|@Botzer|1851
-#92|@AldoGamer001_Bot|1835
-#93|@B0T5_RU13|1835
+#92|@B0T5_RU13|1835
+#93|@AldoGamer001_Bot|1825
 #94|@STockfishdestroyBot|1825
 #95|@admin-bot|1809
 #96|@The-Fastest-Bot|1809
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@Toxic_Bot|1541
 #119|@SXDEFENDER|1534
 #120|@Light_To_The_Rescue|1523
-#121|@DavidsGuterBot|1520
+#121|@DavidsGuterBot|1517
 #122|@Z-Move|1495
 #123|@TFRChessClub|1494
 #124|@hyperchessbot1|1493
