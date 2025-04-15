@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@OpeningsBot|1982
 #4|@DavidsGuterBot|1653
 #5|@pawnrobot|1347
-#6|@MinOpponentMoves|893
+#6|@MinOpponentMoves|886

@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@morphbot|1035
 #170|@Jannik08_fan|993
 #171|@thousandatom|970
-#172|@BogoBot|946
-#173|@GuineaBot2|884
-#174|@MateCheckCapture|795
-#175|@MinOpponentMoves|693
+#172|@MinOpponentMoves|952
+#173|@BogoBot|946
+#174|@GuineaBot2|884
+#175|@MateCheckCapture|795

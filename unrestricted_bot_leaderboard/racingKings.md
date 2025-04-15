@@ -80,9 +80,9 @@ Rank|Bot|Rating
 #78|@Kizburb|2126
 #79|@mc-king-098|2124
 #80|@xiang-qi|2113
-#81|@atomicli|2111
-#82|@Trumpfor2O2O|2103
-#83|@OpeningsBot|2098
+#81|@OpeningsBot|2112
+#82|@atomicli|2111
+#83|@Trumpfor2O2O|2103
 #84|@PetersTestBot|2081
 #85|@CloudBOT|2073
 #86|@JustDontFlagMe|2048
@@ -104,11 +104,11 @@ Rank|Bot|Rating
 #102|@Just-a-random-bot|1816
 #103|@Galaxy_Guardian|1812
 #104|@Lila-Stockfish|1812
-#105|@SriLankaChess|1800
-#106|@SUMEETTHEPRO|1795
-#107|@Botzer|1794
-#108|@david9426_bot|1790
-#109|@DrSmartBugs|1790
+#105|@SUMEETTHEPRO|1795
+#106|@Botzer|1794
+#107|@david9426_bot|1790
+#108|@DrSmartBugs|1790
+#109|@SriLankaChess|1784
 #110|@YoBot_v1|1782
 #111|@Bot2000|1767
 #112|@B0T5_RU13|1749
@@ -184,4 +184,4 @@ Rank|Bot|Rating
 #182|@MateCheckCapture|1011
 #183|@littlesamsun|996
 #184|@ZX-Chess|982
-#185|@MinOpponentMoves|617
+#185|@MinOpponentMoves|615

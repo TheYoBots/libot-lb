@@ -1201,6 +1201,8 @@ human_bot22
 humanbot_1
 humanbot_lv1929
 humanian
+humanoid_1800
+humanoid_2200
 humanteambot
 humantrainedbot
 humbletestbot
@@ -2927,5 +2929,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-humanoid_2200
-humanoid_1800
