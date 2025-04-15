@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@pistol-play|2121
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
-#42|@colinbot|2095
+#42|@colinbot|2096
 #43|@GodelEscherBot|2092
 #44|@Johnsun|2091
 #45|@Jussicas|2086
@@ -159,8 +159,8 @@ Rank|Bot|Rating
 #157|@MyNameIsSpeedy|1226
 #158|@Bottios|1223
 #159|@RSVMentor|1196
-#160|@Boom_Bot|1176
-#161|@pawnrobot|1176
+#160|@pawnrobot|1179
+#161|@Boom_Bot|1176
 #162|@TrashBot|1168
 #163|@shakboy9824453231op|1152
 #164|@GuineaBot3|1121
@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@morphbot|1035
 #170|@Jannik08_fan|993
 #171|@thousandatom|970
-#172|@MinOpponentMoves|952
-#173|@BogoBot|946
+#172|@BogoBot|946
+#173|@MinOpponentMoves|936
 #174|@GuineaBot2|884
 #175|@MateCheckCapture|795

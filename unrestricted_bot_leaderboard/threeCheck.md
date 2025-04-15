@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@Viet_BOT|2367
 #34|@BraveBot|2349
 #35|@Zer0_Tw0|2332
-#36|@colinbot|2324
+#36|@colinbot|2326
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
 #39|@KingfishX|2285
@@ -68,7 +68,7 @@ Rank|Bot|Rating
 #66|@SacrificialSage|2026
 #67|@firstrobot|2003
 #68|@Hyper-Stockfish|1986
-#69|@OpeningsBot|1982
+#69|@OpeningsBot|1980
 #70|@GodelEscherBot|1974
 #71|@XXIstCentury|1973
 #72|@mrchessmanager|1963

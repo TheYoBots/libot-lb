@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@ibep|2733
 #25|@Lili-Variants|2693
 #26|@buffFishNet|2692
-#27|@colinbot|2689
+#27|@colinbot|2690
 #28|@LoseisnotAvailablehe|2677
 #29|@AntichessAnalyzer|2673
 #30|@SCP079|2662
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@CoderDen732|2207
 #115|@NormalBlitzBulletBot|2205
 #116|@EstmileBot|2200
-#117|@anti-bot|2198
-#118|@HerokuHasnotplay|2196
+#117|@HerokuHasnotplay|2196
+#118|@anti-bot|2191
 #119|@Lucror|2178
 #120|@lightspeed_bot|2152
 #121|@AntiChessBot|2142
@@ -138,8 +138,8 @@ Rank|Bot|Rating
 #136|@antichesssss|1964
 #137|@Menganti|1963
 #138|@CloudBOT|1950
-#139|@SriLankaChess|1925
-#140|@pawnrobot|1922
+#139|@pawnrobot|1925
+#140|@SriLankaChess|1925
 #141|@Crepusculum|1881
 #142|@NoTallkOnlyGames|1871
 #143|@Lumac0|1861
@@ -271,8 +271,8 @@ Rank|Bot|Rating
 #269|@The_dragon_bot|1076
 #270|@Boom_Bot|1044
 #271|@Mega_BOT|1032
-#272|@MinOpponentMoves|1022
-#273|@katzebot|1016
+#272|@katzebot|1016
+#273|@MinOpponentMoves|1013
 #274|@ZX-Chess|1000
 #275|@Epiano_Bot|986
 #276|@BetaOneBot|954
