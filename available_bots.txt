@@ -2929,3 +2929,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+expnosearchbot
+roxy_migurdia16
+uci_shadowfax

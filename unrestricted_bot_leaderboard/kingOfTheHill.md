@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@pistol-play|2121
 #40|@firstrobot|2114
 #41|@NormalBulletBot|2109
-#42|@colinbot|2096
+#42|@colinbot|2101
 #43|@GodelEscherBot|2092
 #44|@Johnsun|2091
 #45|@Jussicas|2086
@@ -79,10 +79,10 @@ Rank|Bot|Rating
 #77|@Resolved-Bot|1942
 #78|@Pineapple-Friendly|1937
 #79|@azdad|1936
-#80|@OpeningsBot|1931
-#81|@HyperLitikBOT|1930
-#82|@SacrificialSage|1925
-#83|@DrSmartBugs|1904
+#80|@HyperLitikBOT|1930
+#81|@SacrificialSage|1925
+#82|@DrSmartBugs|1904
+#83|@OpeningsBot|1902
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
 #86|@MistakeBOT|1886
@@ -158,8 +158,8 @@ Rank|Bot|Rating
 #156|@knight_128|1233
 #157|@MyNameIsSpeedy|1226
 #158|@Bottios|1223
-#159|@RSVMentor|1196
-#160|@pawnrobot|1179
+#159|@pawnrobot|1205
+#160|@RSVMentor|1196
 #161|@Boom_Bot|1176
 #162|@TrashBot|1168
 #163|@shakboy9824453231op|1152
@@ -172,6 +172,6 @@ Rank|Bot|Rating
 #170|@Jannik08_fan|993
 #171|@thousandatom|970
 #172|@BogoBot|946
-#173|@MinOpponentMoves|936
+#173|@MinOpponentMoves|933
 #174|@GuineaBot2|884
 #175|@MateCheckCapture|795

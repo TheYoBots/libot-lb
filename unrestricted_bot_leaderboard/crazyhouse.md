@@ -195,7 +195,7 @@ Rank|Bot|Rating
 #193|@kazakhfirstbot|1119
 #194|@apollo_bot|1106
 #195|@BogoBot|1099
-#196|@pawnrobot|1082
+#196|@pawnrobot|1075
 #197|@jasans_bot|1045
 #198|@ZX-Chess|1011
 #199|@magnusglad_bot|979
@@ -204,4 +204,4 @@ Rank|Bot|Rating
 #202|@RSVMentor|862
 #203|@GuineaBot3|845
 #204|@TrashBot|800
-#205|@MinOpponentMoves|732
+#205|@MinOpponentMoves|741
