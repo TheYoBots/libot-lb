@@ -913,6 +913,7 @@ exogenetic-bot
 expectedoutcome
 expecto_patronum_the
 experimental_bot_01
+expnosearchbot
 exponentbot
 expositor
 ezwipe
@@ -2201,6 +2202,7 @@ rosybot
 roundmoundofrebounds
 routerbot
 rowbot-stockfish
+roxy_migurdia16
 royalleela
 rpean_bot
 rrsimpelbot
@@ -2702,6 +2704,7 @@ tyrannix
 tyrcho-bot
 uber_waltigent
 ucbot
+uci_shadowfax
 ucibot
 ugonjinji
 uiagbot
@@ -2929,6 +2932,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-expnosearchbot
-roxy_migurdia16
-uci_shadowfax
+ilovecatgirl
