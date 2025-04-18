@@ -269,8 +269,8 @@ Rank|Bot|Rating
 #267|@bunny_2021|1413
 #268|@TTC-BOT_2|1410
 #269|@Butzke_BOT|1401
-#270|@pawnrobot|1401
-#271|@MartianBot|1386
+#270|@MartianBot|1386
+#271|@pawnrobot|1386
 #272|@Trumpfor2O2O|1386
 #273|@DrunkenMasterEngine|1385
 #274|@anonymous5612|1384
@@ -309,8 +309,8 @@ Rank|Bot|Rating
 #307|@Jaymombot|1166
 #308|@SipsonsamsonBOT|1161
 #309|@Happy_One|1138
-#310|@MinOpponentMoves|1125
-#311|@Pawn_Stormer_D4|1124
+#310|@Pawn_Stormer_D4|1124
+#311|@MinOpponentMoves|1114
 #312|@the_nicholas_bot|1110
 #313|@MyNameIsSpeedy|1108
 #314|@magnusglad_bot|1101

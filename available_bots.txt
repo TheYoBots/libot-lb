@@ -1245,6 +1245,7 @@ igridzchessbot
 iguana_dev
 ihatecastling
 ilk_turk_bot
+ilovecatgirl
 imitation-net
 immortaldwirz
 imnotpro1906_beta
@@ -2932,4 +2933,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ilovecatgirl
