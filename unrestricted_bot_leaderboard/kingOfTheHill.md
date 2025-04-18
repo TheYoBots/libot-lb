@@ -158,14 +158,14 @@ Rank|Bot|Rating
 #156|@knight_128|1233
 #157|@MyNameIsSpeedy|1226
 #158|@Bottios|1223
-#159|@pawnrobot|1205
+#159|@pawnrobot|1203
 #160|@RSVMentor|1196
 #161|@Boom_Bot|1176
 #162|@TrashBot|1168
 #163|@shakboy9824453231op|1152
 #164|@GuineaBot3|1121
 #165|@DespacitoBot|1094
-#166|@MinOpponentMoves|1087
+#166|@MinOpponentMoves|1080
 #167|@ZokBot|1076
 #168|@Happy_One|1074
 #169|@ZX-Chess|1059
