@@ -1571,6 +1571,7 @@ lizzardbot
 lk-stockfish
 loev07
 loevbot
+logic_lancer
 logosengine
 logregchess
 lol7241bot
@@ -2933,4 +2934,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-logic_lancer
+sohilbot
+byte-knight

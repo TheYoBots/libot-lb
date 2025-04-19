@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@ToromBot|2640
+#5|@ToromBot|2642
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@The-Fastest-Bot|2314
 #44|@Alehkine_cat|2312
 #45|@Dean_Summer_Bot|2305
-#46|@PsychedelicAtomic|2296
-#47|@Stockfish-MEDIUM|2290
+#46|@Stockfish-MEDIUM|2302
+#47|@PsychedelicAtomic|2296
 #48|@AndromedaSX1|2284
 #49|@vrnts_colinbot|2281
 #50|@TheMatrix2029|2278
@@ -269,8 +269,8 @@ Rank|Bot|Rating
 #267|@bunny_2021|1413
 #268|@TTC-BOT_2|1410
 #269|@Butzke_BOT|1401
-#270|@MartianBot|1386
-#271|@pawnrobot|1386
+#270|@pawnrobot|1401
+#271|@MartianBot|1386
 #272|@Trumpfor2O2O|1386
 #273|@DrunkenMasterEngine|1385
 #274|@anonymous5612|1384
@@ -317,9 +317,9 @@ Rank|Bot|Rating
 #315|@bobby-bot|1085
 #316|@Official_bot|1082
 #317|@ZokBot|1073
-#318|@MinOpponentMoves|1069
-#319|@alvin-chess-bot|1067
-#320|@FabriAd|1053
+#318|@alvin-chess-bot|1067
+#319|@FabriAd|1053
+#320|@MinOpponentMoves|1042
 #321|@TheLegitLegend2|1032
 #322|@ZX-Chess|946
 #323|@BogoBot|945
