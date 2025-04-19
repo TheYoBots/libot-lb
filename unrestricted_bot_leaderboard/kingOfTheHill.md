@@ -165,7 +165,7 @@ Rank|Bot|Rating
 #163|@shakboy9824453231op|1152
 #164|@GuineaBot3|1121
 #165|@DespacitoBot|1094
-#166|@MinOpponentMoves|1080
+#166|@MinOpponentMoves|1083
 #167|@ZokBot|1076
 #168|@Happy_One|1074
 #169|@ZX-Chess|1059

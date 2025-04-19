@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@ElPeonElectrico|2454
 #26|@abhisun_bot|2444
 #27|@pistol-play|2437
-#28|@RaspFish|2423
+#28|@RaspFish|2424
 #29|@YoBot_v2|2394
 #30|@CloudBOT|2393
 #31|@NienishiEngine|2392
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@AndromedaSX1|1919
 #81|@Galaxy_Guardian|1919
 #82|@PetersBot|1911
-#83|@colinbot|1902
+#83|@colinbot|1901
 #84|@Dean_Summer_Bot|1898
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
@@ -93,7 +93,7 @@ Rank|Bot|Rating
 #91|@legendbot1|1866
 #92|@MyNameIsSpeeedy|1861
 #93|@Bot_AOOP11|1858
-#94|@Stockfish-MEDIUM|1837
+#94|@Stockfish-MEDIUM|1845
 #95|@AnUtterlyKarBot|1829
 #96|@Dong_Xiao_Yuan|1829
 #97|@SugarAndSpice|1828
@@ -204,4 +204,4 @@ Rank|Bot|Rating
 #202|@RSVMentor|862
 #203|@GuineaBot3|845
 #204|@TrashBot|800
-#205|@MinOpponentMoves|692
+#205|@MinOpponentMoves|694

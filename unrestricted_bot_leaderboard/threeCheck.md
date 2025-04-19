@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@KizVariant|2529
 #18|@Nikitosikbot_v2|2529
 #19|@SCP079|2526
-#20|@ToromBot|2501
+#20|@ToromBot|2511
 #21|@Fairy-Stockfish|2484
 #22|@ESC_BOT|2476
 #23|@Less_of_a_threat|2469
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@Viet_BOT|2367
 #34|@BraveBot|2349
 #35|@Zer0_Tw0|2332
-#36|@colinbot|2317
+#36|@colinbot|2313
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
 #39|@KingfishX|2285
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@Yemmi-Yemmi|1702
 #106|@clueless-bot|1685
 #107|@NormalBulletBot|1657
-#108|@DavidsGuterBot|1653
+#108|@DavidsGuterBot|1652
 #109|@the_checkmating_bot|1643
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633

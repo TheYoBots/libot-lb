@@ -473,6 +473,7 @@ bunny_2021
 bushbowl
 bushycamper
 butzke_bot
+byte-knight
 byteknightengine
 c0llision
 cabolince
@@ -2359,6 +2360,7 @@ sneakybot21
 soccerbot
 sofcheck
 sohamchessbot
+sohilbot
 solidor59
 solistabot
 somebot
@@ -2934,5 +2936,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sohilbot
-byte-knight
+recklessengine
