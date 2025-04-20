@@ -1240,6 +1240,7 @@ iceburnengine
 icysharkbot
 idlefish
 iextrav
+ifelmejordeajedrez
 igel-bot
 igel_engine
 igridzchessbot
@@ -2937,4 +2938,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ifelmejordeajedrez

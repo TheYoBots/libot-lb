@@ -5,13 +5,13 @@ Rank|Bot|Rating
 #3|@Nikitosik-ai|2698
 #4|@SkyBlaster|2603
 #5|@Viet-AI|2600
-#6|@ToromBot|2586
+#6|@ToromBot|2591
 #7|@lord-bot|2581
 #8|@Fairy_Belzedar|2559
 #9|@EmptikVariantsBot|2557
 #10|@FireFishBOT|2547
-#11|@RaspFish|2539
-#12|@LudwigBOT|2536
+#11|@LudwigBOT|2536
+#12|@RaspFish|2536
 #13|@ChessVBOT|2531
 #14|@Coolman2021|2527
 #15|@BraveBot|2526
@@ -184,4 +184,4 @@ Rank|Bot|Rating
 #182|@MateCheckCapture|1011
 #183|@littlesamsun|996
 #184|@ZX-Chess|982
-#185|@MinOpponentMoves|625
+#185|@MinOpponentMoves|618

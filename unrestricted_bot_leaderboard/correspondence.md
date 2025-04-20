@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@AjedrezChamberi|2710
 #6|@H-Zero|2650
 #7|@PetersBot|2583
-#8|@Moment-That-Inspires|2579
-#9|@pawn_git|2575
-#10|@Alexnajax_Fan|2544
+#8|@pawn_git|2578
+#9|@Moment-That-Inspires|2573
+#10|@Alexnajax_Fan|2549
 #11|@SacrificialSage|2519
 #12|@peonasesino71|2512
 #13|@ChamberiAjedrez|2507
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@CocopikachuBOT|2036
 #120|@HyperPhoenix21|2035
 #121|@EmptikCorrespondence|2031
-#122|@GarboBot|2029
+#122|@GarboBot|2031
 #123|@StrongMagnusCarlsen|2027
 #124|@duythong1402|2025
 #125|@kybot|2025
@@ -220,8 +220,8 @@ Rank|Bot|Rating
 #218|@knight_128|1705
 #219|@HotLeela|1702
 #220|@ACC_Bot|1696
-#221|@thousandatom|1692
-#222|@Jibbby|1690
+#221|@Jibbby|1694
+#222|@thousandatom|1692
 #223|@ArcaBOT|1688
 #224|@B4dF1sh|1687
 #225|@The_dragon_bot|1687
