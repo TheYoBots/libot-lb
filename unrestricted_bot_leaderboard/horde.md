@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Fairy_Belzedar|2857
 #5|@Nikitosikbot_v2|2823
 #6|@Coolman2021|2757
-#7|@ToromBot|2751
+#7|@ToromBot|2740
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@PowerOnBot|1258
 #135|@xDmanBOT|1258
 #136|@yobmef|1258
-#137|@pawnrobot|1239
+#137|@pawnrobot|1237
 #138|@TheSystem_Bot|1218
 #139|@GuineaBot3|1212
 #140|@admin-bot|1209
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@duythong1402|1120
 #147|@alvin-chess-bot|1091
 #148|@Alexnajax_Fan|1066
-#149|@MinOpponentMoves|999
+#149|@MinOpponentMoves|1002
 #150|@MateCheckCapture|885
 #151|@GuineaBot2|851
 #152|@Ramses-Chess|800

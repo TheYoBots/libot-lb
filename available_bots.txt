@@ -2149,6 +2149,7 @@ re-bot
 realchessengine
 reallybadplayerbot
 reallycrazybot
+recklessengine
 recontinue
 redengine
 redlight_07
@@ -2936,4 +2937,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-recklessengine
+ifelmejordeajedrez
