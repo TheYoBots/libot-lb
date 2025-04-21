@@ -97,10 +97,10 @@ Rank|Bot|Rating
 #95|@ZhangirKhanBOT|2093
 #96|@allvariants|2091
 #97|@sf_bot|2088
-#98|@Pro-Python-BOT|2084
-#99|@Chess_ni_BOSS|2080
-#100|@ajedrezarBOT|2079
-#101|@Humanoid_1800|2078
+#98|@Humanoid_1800|2086
+#99|@Pro-Python-BOT|2084
+#100|@Chess_ni_BOSS|2080
+#101|@ajedrezarBOT|2079
 #102|@GucciBot|2074
 #103|@HyperLitikBOT|2073
 #104|@pistol-play|2071
