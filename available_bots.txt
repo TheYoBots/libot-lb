@@ -807,6 +807,7 @@ dtsudo
 ducc0
 duchessai
 duckybot
+dumap
 dumb_by_abulmo-bot
 dumb_fish
 dumbotai
@@ -1928,6 +1929,7 @@ onenode
 oneversusmany
 onionbot
 onlinechessbot
+oo7_bot
 ooferoofoof_is
 openbeat
 openbot
@@ -2939,5 +2941,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-oo7_bot
-dumap
+encrustant
+alphadeepchess
+neurosocute

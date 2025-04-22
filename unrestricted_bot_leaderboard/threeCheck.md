@@ -73,11 +73,11 @@ Rank|Bot|Rating
 #71|@mrchessmanager|1963
 #72|@Botzer|1961
 #73|@lightspeed_bot|1951
-#74|@pistol-play|1939
-#75|@PROBOT123567|1936
-#76|@PetersTestBot|1935
-#77|@Lila-Stockfish|1917
-#78|@AldoGamer001_Bot|1915
+#74|@AldoGamer001_Bot|1947
+#75|@pistol-play|1939
+#76|@PROBOT123567|1936
+#77|@PetersTestBot|1935
+#78|@Lila-Stockfish|1917
 #79|@SkyBlaster|1913
 #80|@HyperLitikBOT|1908
 #81|@Lili-Variants|1906
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@Yemmi-Yemmi|1702
 #106|@clueless-bot|1685
 #107|@NormalBulletBot|1657
-#108|@DavidsGuterBot|1652
+#108|@DavidsGuterBot|1649
 #109|@the_checkmating_bot|1643
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
@@ -172,6 +172,6 @@ Rank|Bot|Rating
 #170|@ZX-Chess|1063
 #171|@GuineaBot3|972
 #172|@BogoBot|928
-#173|@MateCheckCapture|923
-#174|@MinOpponentMoves|921
+#173|@MinOpponentMoves|927
+#174|@MateCheckCapture|923
 #175|@TheSystem_Bot|905
