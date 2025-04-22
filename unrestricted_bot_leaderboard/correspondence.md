@@ -96,8 +96,8 @@ Rank|Bot|Rating
 #94|@TheAstroBot|2101
 #95|@ZhangirKhanBOT|2093
 #96|@allvariants|2091
-#97|@sf_bot|2088
-#98|@Humanoid_1800|2086
+#97|@Humanoid_1800|2090
+#98|@sf_bot|2088
 #99|@Pro-Python-BOT|2084
 #100|@Chess_ni_BOSS|2080
 #101|@ajedrezarBOT|2079

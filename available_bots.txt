@@ -2154,6 +2154,7 @@ recklessengine
 recontinue
 redengine
 redlight_07
+redpandabot
 redsquirrelbot
 redtail-zero
 refutemygambit
@@ -2938,4 +2939,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-redpandabot
+oo7_bot
+dumap
