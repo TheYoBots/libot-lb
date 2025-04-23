@@ -669,6 +669,9 @@ corvus-1
 cosettebot
 cosmic64
 cowboy_time
+cpu1990
+cpu1994
+cpu1998
 cpu2002
 cpu2006
 cpu2010
@@ -2944,6 +2947,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cpu1990
-cpu1994
-cpu1998
+rce-bot
+alexnajax_v2
