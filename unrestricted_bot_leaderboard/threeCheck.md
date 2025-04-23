@@ -70,10 +70,10 @@ Rank|Bot|Rating
 #68|@OpeningsBot|1978
 #69|@GodelEscherBot|1974
 #70|@XXIstCentury|1973
-#71|@mrchessmanager|1963
-#72|@Botzer|1961
-#73|@lightspeed_bot|1951
-#74|@AldoGamer001_Bot|1947
+#71|@AldoGamer001_Bot|1971
+#72|@mrchessmanager|1963
+#73|@Botzer|1961
+#74|@lightspeed_bot|1951
 #75|@pistol-play|1939
 #76|@PROBOT123567|1936
 #77|@PetersTestBot|1935
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@Yemmi-Yemmi|1702
 #106|@clueless-bot|1685
 #107|@NormalBulletBot|1657
-#108|@DavidsGuterBot|1649
+#108|@DavidsGuterBot|1646
 #109|@the_checkmating_bot|1643
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@DespacitoBot|1080
 #170|@ZX-Chess|1063
 #171|@GuineaBot3|972
-#172|@BogoBot|928
-#173|@MinOpponentMoves|927
+#172|@MinOpponentMoves|938
+#173|@BogoBot|928
 #174|@MateCheckCapture|923
 #175|@TheSystem_Bot|905

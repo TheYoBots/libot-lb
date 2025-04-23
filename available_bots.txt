@@ -80,6 +80,7 @@ alouettechessengine
 alpbet0
 alphabotical
 alphachess_official
+alphadeepchess
 alphafish_zero
 alphagpt
 alphaleela0
@@ -881,6 +882,7 @@ emptikvariantsbot
 emptikweak
 emreisci13
 emrysbot
+encrustant
 endogenetic-bot
 endokingsspade
 enduring_leela
@@ -1832,6 +1834,7 @@ neuralabyss
 neuralactivity
 neuralknight1500
 neuralleela
+neurosocute
 neuroticbishop
 new-tie
 newengine2022
@@ -2941,6 +2944,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-encrustant
-alphadeepchess
-neurosocute
+cpu1990
+cpu1994
+cpu1998

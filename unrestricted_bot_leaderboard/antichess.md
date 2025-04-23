@@ -95,9 +95,9 @@ Rank|Bot|Rating
 #93|@NienishiEngine|2304
 #94|@BromiumAI|2302
 #95|@EvenMatchup|2302
-#96|@GodelEscherBot|2284
-#97|@Dean_Summer_Bot|2279
-#98|@anti-bot|2278
+#96|@anti-bot|2284
+#97|@GodelEscherBot|2284
+#98|@Dean_Summer_Bot|2279
 #99|@Johnsun|2269
 #100|@SkyBlaster|2254
 #101|@mrchessmanager|2240
@@ -271,8 +271,8 @@ Rank|Bot|Rating
 #269|@The_dragon_bot|1076
 #270|@Boom_Bot|1044
 #271|@Mega_BOT|1032
-#272|@katzebot|1016
-#273|@MinOpponentMoves|1004
+#272|@MinOpponentMoves|1021
+#273|@katzebot|1016
 #274|@ZX-Chess|1000
 #275|@Epiano_Bot|986
 #276|@BetaOneBot|954

@@ -167,7 +167,7 @@ Rank|Bot|Rating
 #165|@DespacitoBot|1094
 #166|@ZokBot|1076
 #167|@Happy_One|1074
-#168|@MinOpponentMoves|1068
+#168|@MinOpponentMoves|1065
 #169|@ZX-Chess|1059
 #170|@morphbot|1035
 #171|@Jannik08_fan|993
