@@ -99,8 +99,8 @@ Rank|Bot|Rating
 #97|@GodelEscherBot|2284
 #98|@Dean_Summer_Bot|2279
 #99|@Johnsun|2269
-#100|@SkyBlaster|2254
-#101|@anti-bot|2249
+#100|@anti-bot|2256
+#101|@SkyBlaster|2254
 #102|@mrchessmanager|2240
 #103|@TurkiyeHogwarts|2240
 #104|@OpeningsBot|2236
@@ -270,7 +270,7 @@ Rank|Bot|Rating
 #268|@Md211bot|1107
 #269|@The_dragon_bot|1076
 #270|@Boom_Bot|1044
-#271|@MinOpponentMoves|1042
+#271|@MinOpponentMoves|1036
 #272|@Mega_BOT|1032
 #273|@katzebot|1016
 #274|@ZX-Chess|1000

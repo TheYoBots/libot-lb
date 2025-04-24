@@ -320,7 +320,7 @@ Rank|Bot|Rating
 #318|@alvin-chess-bot|1067
 #319|@FabriAd|1053
 #320|@TheLegitLegend2|1032
-#321|@MinOpponentMoves|1004
+#321|@MinOpponentMoves|1020
 #322|@ZX-Chess|946
 #323|@BogoBot|945
 #324|@thousandatom|865

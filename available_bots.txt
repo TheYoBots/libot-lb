@@ -61,6 +61,7 @@ aleph_engine
 alexagarry-bot
 alexeybot
 alexnajax_fan
+alexnajax_v2
 alexvis
 alexz55
 alfabot
@@ -2152,6 +2153,7 @@ raybotchess123
 rayking311
 razanvn
 razu123
+rce-bot
 rchessbot
 rdi_bot
 re-bot
@@ -2947,5 +2949,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-rce-bot
-alexnajax_v2
+noqueenbot
