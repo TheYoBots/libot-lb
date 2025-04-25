@@ -190,11 +190,11 @@ Rank|Bot|Rating
 #188|@Jannik08_fan|1163
 #189|@BSergey11-BOT|1149
 #190|@K_Shi_Bot|1149
-#191|@TeamChelsie|1125
-#192|@kazakhfirstbot|1119
-#193|@apollo_bot|1106
-#194|@BogoBot|1099
-#195|@pawnrobot|1074
+#191|@pawnrobot|1127
+#192|@TeamChelsie|1125
+#193|@kazakhfirstbot|1119
+#194|@apollo_bot|1106
+#195|@BogoBot|1099
 #196|@jasans_bot|1045
 #197|@ZX-Chess|1011
 #198|@magnusglad_bot|979
@@ -203,4 +203,4 @@ Rank|Bot|Rating
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@TrashBot|800
-#204|@MinOpponentMoves|709
+#204|@MinOpponentMoves|707

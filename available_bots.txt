@@ -2066,6 +2066,7 @@ probot123567
 probot_vr_2
 probroman
 professional-bot-021
+project-shashchess
 projecthuman
 prometheus-bot
 proteussf
@@ -2950,4 +2951,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-project-shashchess

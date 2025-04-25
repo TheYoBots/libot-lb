@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@EmptikVariantsBot|2443
 #6|@Nikitosikbot_v2|2435
 #7|@ElPeonElectrico|2414
-#8|@ToromBot|2400
+#8|@ToromBot|2406
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -46,9 +46,9 @@ Rank|Bot|Rating
 #44|@Jussicas|2086
 #45|@Kizburb|2086
 #46|@Dean_Summer_Bot|2085
-#47|@colinbot|2079
-#48|@ibep|2078
-#49|@Lili-Variants|2078
+#47|@ibep|2078
+#48|@Lili-Variants|2078
+#49|@colinbot|2077
 #50|@Xerus_1|2076
 #51|@newengine2022|2071
 #52|@vrnts_colinbot|2068
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
 #157|@Bottios|1223
-#158|@pawnrobot|1207
+#158|@pawnrobot|1199
 #159|@RSVMentor|1196
 #160|@Boom_Bot|1176
 #161|@TrashBot|1168
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@DespacitoBot|1094
 #165|@ZokBot|1076
 #166|@Happy_One|1074
-#167|@MinOpponentMoves|1060
+#167|@MinOpponentMoves|1073
 #168|@ZX-Chess|1059
 #169|@morphbot|1035
 #170|@Jannik08_fan|993

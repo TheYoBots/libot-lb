@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@Vetinari_Computer|2152
 #71|@mrchessmanager|2143
 #72|@corr_sunfish|2138
-#73|@GonzoBOT|2134
-#74|@Humanoid_1800|2130
+#73|@Humanoid_1800|2135
+#74|@GonzoBOT|2134
 #75|@Phalanx-XXV|2129
 #76|@Pseudo-0|2128
 #77|@AntarticAnonymous|2127
