@@ -31,10 +31,10 @@ Rank|Bot|Rating
 #29|@ChessVBOT|2430
 #30|@NimsiluBot|2422
 #31|@Nikitosik-ai|2405
-#32|@RaspFish|2397
+#32|@RaspFish|2405
 #33|@Viet_BOT|2367
 #34|@Zer0_Tw0|2332
-#35|@colinbot|2319
+#35|@colinbot|2316
 #36|@LudwigBOT|2304
 #37|@lord-bot|2300
 #38|@KingfishX|2285
@@ -61,7 +61,7 @@ Rank|Bot|Rating
 #59|@Magnus-BOT|2084
 #60|@Xerus_1|2070
 #61|@ROBOT_RANDEER2007|2059
-#62|@Stockfish-MEDIUM|2045
+#62|@Stockfish-MEDIUM|2039
 #63|@Resolved-Bot|2026
 #64|@SacrificialSage|2026
 #65|@firstrobot|2003
@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@DespacitoBot|1080
 #170|@ZX-Chess|1063
 #171|@GuineaBot3|972
-#172|@MinOpponentMoves|943
+#172|@MinOpponentMoves|946
 #173|@BogoBot|928
 #174|@MateCheckCapture|923
 #175|@TheSystem_Bot|905

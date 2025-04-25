@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@Alehkine_cat|2312
 #45|@Dean_Summer_Bot|2305
 #46|@PsychedelicAtomic|2296
-#47|@Stockfish-MEDIUM|2286
+#47|@Stockfish-MEDIUM|2294
 #48|@AndromedaSX1|2284
 #49|@vrnts_colinbot|2281
 #50|@TheMatrix2029|2278
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Simpafteur|2062
 #114|@Vinnikk|2061
 #115|@XXIstCentury|2061
-#116|@colinbot|2057
+#116|@colinbot|2054
 #117|@azdad|2047
 #118|@Less_of_a_threat|2047
 #119|@OpeningsBot|2045
@@ -227,8 +227,8 @@ Rank|Bot|Rating
 #225|@Pineapple-Friendly|1569
 #226|@Bottios|1563
 #227|@AntarticAnonymous|1553
-#228|@katzebot|1552
-#229|@HiddeNL|1551
+#228|@HiddeNL|1551
+#229|@katzebot|1551
 #230|@Alexnajax_Fan|1544
 #231|@knight_BOT|1539
 #232|@que-hyper|1539
@@ -320,7 +320,7 @@ Rank|Bot|Rating
 #318|@alvin-chess-bot|1067
 #319|@FabriAd|1053
 #320|@TheLegitLegend2|1032
-#321|@MinOpponentMoves|994
+#321|@MinOpponentMoves|986
 #322|@ZX-Chess|946
 #323|@BogoBot|945
 #324|@thousandatom|865

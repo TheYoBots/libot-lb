@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@EmptikVariantsBot|2957
 #8|@Coolman2021|2879
 #9|@TheMatrix2029|2866
-#10|@RaspFish|2861
-#11|@UltronBot|2859
+#10|@UltronBot|2859
+#11|@RaspFish|2856
 #12|@Nikitosik-ai|2839
 #13|@ChessVBOT|2829
 #14|@TorBot|2824
@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@Lili-Variants|2693
 #25|@buffFishNet|2692
 #26|@LoseisnotAvailablehe|2677
-#27|@AntichessAnalyzer|2673
-#28|@colinbot|2672
+#27|@colinbot|2676
+#28|@AntichessAnalyzer|2673
 #29|@SCP079|2662
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
@@ -96,8 +96,8 @@ Rank|Bot|Rating
 #94|@BromiumAI|2302
 #95|@EvenMatchup|2302
 #96|@GodelEscherBot|2284
-#97|@Dean_Summer_Bot|2279
-#98|@anti-bot|2269
+#97|@anti-bot|2281
+#98|@Dean_Summer_Bot|2279
 #99|@Johnsun|2269
 #100|@SkyBlaster|2254
 #101|@mrchessmanager|2240

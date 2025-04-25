@@ -31,9 +31,9 @@ Rank|Bot|Rating
 #29|@Magnus-BOT|2224
 #30|@SkyBlaster|2220
 #31|@PowerOnBot|2195
-#32|@UnDisstoppableBot|2193
-#33|@Amrobotone|2184
-#34|@Stockfish-MEDIUM|2172
+#32|@Stockfish-MEDIUM|2195
+#33|@UnDisstoppableBot|2193
+#34|@Amrobotone|2184
 #35|@HuxZero|2163
 #36|@Mega_BOT|2148
 #37|@AI69|2143
@@ -48,10 +48,10 @@ Rank|Bot|Rating
 #46|@Dean_Summer_Bot|2085
 #47|@ibep|2078
 #48|@Lili-Variants|2078
-#49|@colinbot|2077
-#50|@Xerus_1|2076
-#51|@newengine2022|2071
-#52|@vrnts_colinbot|2068
+#49|@Xerus_1|2076
+#50|@newengine2022|2071
+#51|@vrnts_colinbot|2068
+#52|@colinbot|2066
 #53|@KingfishX|2066
 #54|@ChessVBOT|2065
 #55|@NimsiluBot|2058
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
 #157|@Bottios|1223
-#158|@pawnrobot|1199
+#158|@pawnrobot|1202
 #159|@RSVMentor|1196
 #160|@Boom_Bot|1176
 #161|@TrashBot|1168
