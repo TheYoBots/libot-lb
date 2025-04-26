@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@ESC_BOT|2394
 #78|@CatBot_14|2393
 #79|@NormalBulletBot|2393
-#80|@AldoGamer001_Bot|2376
-#81|@anti-bot|2374
+#80|@anti-bot|2391
+#81|@AldoGamer001_Bot|2376
 #82|@Resolved-Bot|2369
 #83|@Trumpfor2O2O|2366
 #84|@HuxZero|2361

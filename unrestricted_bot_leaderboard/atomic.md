@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@The-Fastest-Bot|2314
 #44|@Alehkine_cat|2312
 #45|@Dean_Summer_Bot|2305
-#46|@PsychedelicAtomic|2296
-#47|@Stockfish-MEDIUM|2294
+#46|@Stockfish-MEDIUM|2302
+#47|@PsychedelicAtomic|2296
 #48|@AndromedaSX1|2284
 #49|@vrnts_colinbot|2281
 #50|@TheMatrix2029|2278
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Simpafteur|2062
 #114|@Vinnikk|2061
 #115|@XXIstCentury|2061
-#116|@colinbot|2054
+#116|@colinbot|2050
 #117|@azdad|2047
 #118|@Less_of_a_threat|2047
 #119|@OpeningsBot|2045
@@ -320,7 +320,7 @@ Rank|Bot|Rating
 #318|@alvin-chess-bot|1067
 #319|@FabriAd|1053
 #320|@TheLegitLegend2|1032
-#321|@MinOpponentMoves|1019
+#321|@MinOpponentMoves|1027
 #322|@ZX-Chess|946
 #323|@BogoBot|945
 #324|@thousandatom|865

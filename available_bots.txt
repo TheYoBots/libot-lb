@@ -842,6 +842,7 @@ edspbot
 eftalbot
 egebakken_bot
 egeytek
+eggnog-chess-engine
 egs1-en001
 einstein_nnue
 eleanor98
@@ -2188,6 +2189,7 @@ rigorousmoron
 rinestro
 rinestrotal
 riobot
+riobotjr
 riojacomp
 riptorn
 rishab_bindal
@@ -2951,5 +2953,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-eggnog-chess-engine
-riobotjr

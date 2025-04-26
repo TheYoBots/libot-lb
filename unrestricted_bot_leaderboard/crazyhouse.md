@@ -85,11 +85,11 @@ Rank|Bot|Rating
 #83|@Dean_Summer_Bot|1898
 #84|@vrnts_colinbot|1897
 #85|@azdad|1895
-#86|@colinbot|1887
-#87|@Stockfish-MEDIUM|1885
-#88|@The-Fastest-Bot|1885
-#89|@XXIstCentury|1875
-#90|@ChessBot3021|1872
+#86|@colinbot|1894
+#87|@The-Fastest-Bot|1885
+#88|@XXIstCentury|1875
+#89|@ChessBot3021|1872
+#90|@Stockfish-MEDIUM|1869
 #91|@CocopikachuBOT|1868
 #92|@legendbot1|1866
 #93|@MyNameIsSpeeedy|1861
