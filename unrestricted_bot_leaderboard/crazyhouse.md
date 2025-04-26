@@ -85,9 +85,9 @@ Rank|Bot|Rating
 #83|@Dean_Summer_Bot|1898
 #84|@vrnts_colinbot|1897
 #85|@azdad|1895
-#86|@Stockfish-MEDIUM|1885
-#87|@The-Fastest-Bot|1885
-#88|@colinbot|1884
+#86|@colinbot|1887
+#87|@Stockfish-MEDIUM|1885
+#88|@The-Fastest-Bot|1885
 #89|@XXIstCentury|1875
 #90|@ChessBot3021|1872
 #91|@CocopikachuBOT|1868
@@ -190,8 +190,8 @@ Rank|Bot|Rating
 #188|@Jannik08_fan|1163
 #189|@BSergey11-BOT|1149
 #190|@K_Shi_Bot|1149
-#191|@pawnrobot|1127
-#192|@TeamChelsie|1125
+#191|@TeamChelsie|1125
+#192|@pawnrobot|1120
 #193|@kazakhfirstbot|1119
 #194|@apollo_bot|1106
 #195|@BogoBot|1099
@@ -203,4 +203,4 @@ Rank|Bot|Rating
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@TrashBot|800
-#204|@MinOpponentMoves|705
+#204|@MinOpponentMoves|709

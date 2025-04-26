@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@Xerus_1|2076
 #50|@newengine2022|2071
 #51|@vrnts_colinbot|2068
-#52|@colinbot|2066
+#52|@colinbot|2067
 #53|@KingfishX|2066
 #54|@ChessVBOT|2065
 #55|@NimsiluBot|2058
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
-#120|@DavidsGuterBot|1509
+#120|@DavidsGuterBot|1508
 #121|@Z-Move|1495
 #122|@TFRChessClub|1494
 #123|@hyperchessbot1|1493
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@DespacitoBot|1094
 #165|@ZokBot|1076
 #166|@Happy_One|1074
-#167|@MinOpponentMoves|1073
+#167|@MinOpponentMoves|1065
 #168|@ZX-Chess|1059
 #169|@morphbot|1035
 #170|@Jannik08_fan|993
