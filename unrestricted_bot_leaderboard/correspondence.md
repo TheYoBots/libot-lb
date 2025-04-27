@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@WennDieSoldatBOT|2156
 #69|@david9426_bot|2153
 #70|@Vetinari_Computer|2152
-#71|@mrchessmanager|2143
-#72|@Humanoid_1800|2141
+#71|@Humanoid_1800|2145
+#72|@mrchessmanager|2143
 #73|@corr_sunfish|2138
 #74|@GonzoBOT|2134
 #75|@Phalanx-XXV|2129

@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@colinbot|1894
-#2|@MinOpponentMoves|709
+#1|@colinbot|1886
+#2|@MinOpponentMoves|696
