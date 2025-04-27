@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@Fairy-Stockfish|2486
 #5|@EmptikVariantsBot|2443
 #6|@Nikitosikbot_v2|2435
-#7|@ElPeonElectrico|2414
-#8|@ToromBot|2411
+#7|@ToromBot|2416
+#8|@ElPeonElectrico|2414
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
-#18|@RaspFish|2304
+#18|@RaspFish|2315
 #19|@MalanChess|2292
 #20|@Nikitosik-ai|2288
 #21|@LudwigBOT|2281
@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@SkyBlaster|2220
 #31|@PowerOnBot|2195
 #32|@UnDisstoppableBot|2193
-#33|@Stockfish-MEDIUM|2189
-#34|@Amrobotone|2184
+#33|@Amrobotone|2184
+#34|@Stockfish-MEDIUM|2184
 #35|@HuxZero|2163
 #36|@Mega_BOT|2148
 #37|@AI69|2143
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@vrnts_colinbot|2068
 #52|@KingfishX|2066
 #53|@ChessVBOT|2065
-#54|@colinbot|2065
+#54|@colinbot|2059
 #55|@NimsiluBot|2058
 #56|@Hyper-Stockfish|2044
 #57|@Kizbuurb|2035
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
-#120|@DavidsGuterBot|1500
+#120|@DavidsGuterBot|1503
 #121|@Z-Move|1495
 #122|@TFRChessClub|1494
 #123|@hyperchessbot1|1493
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
 #157|@Bottios|1223
-#158|@pawnrobot|1199
+#158|@pawnrobot|1201
 #159|@RSVMentor|1196
 #160|@Boom_Bot|1176
 #161|@TrashBot|1168
@@ -166,8 +166,8 @@ Rank|Bot|Rating
 #164|@DespacitoBot|1094
 #165|@ZokBot|1076
 #166|@Happy_One|1074
-#167|@MinOpponentMoves|1061
-#168|@ZX-Chess|1059
+#167|@ZX-Chess|1059
+#168|@MinOpponentMoves|1057
 #169|@morphbot|1035
 #170|@Jannik08_fan|993
 #171|@thousandatom|970

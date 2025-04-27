@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@ResoluteBot|2525
 #18|@CatBot_14|2514
 #19|@EmptikBot|2510
-#20|@ibep|2498
-#21|@RaspFish|2495
+#20|@RaspFish|2501
+#21|@ibep|2498
 #22|@firstrobot|2485
 #23|@ShredderGrizzly|2479
 #24|@NormalBulletBot|2474
@@ -320,7 +320,7 @@ Rank|Bot|Rating
 #318|@alvin-chess-bot|1067
 #319|@FabriAd|1053
 #320|@TheLegitLegend2|1032
-#321|@MinOpponentMoves|1031
+#321|@MinOpponentMoves|1003
 #322|@ZX-Chess|946
 #323|@BogoBot|945
 #324|@thousandatom|865
