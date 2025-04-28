@@ -2247,6 +2247,7 @@ rybkaoldengine
 s2rarro
 s_stock
 sacgod1020
+sacrificebot
 sacrificialsage
 safrad-3
 sai_srihith
@@ -2953,4 +2954,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sacrificebot

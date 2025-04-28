@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2963
+#1|@fibonachi|2964
 #2|@Grzechu86|2852
 #3|@MaggiChess16|2806
 #4|@Nikitosik-ai|2714
@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@WennDieSoldatBOT|2156
 #69|@david9426_bot|2153
 #70|@Vetinari_Computer|2152
-#71|@Humanoid_1800|2145
+#71|@Humanoid_1800|2150
 #72|@mrchessmanager|2143
 #73|@corr_sunfish|2138
 #74|@GonzoBOT|2134

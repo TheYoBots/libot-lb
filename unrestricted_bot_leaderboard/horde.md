@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@duythong1402|1120
 #146|@alvin-chess-bot|1091
 #147|@Alexnajax_Fan|1066
-#148|@MinOpponentMoves|988
+#148|@MinOpponentMoves|1013
 #149|@MateCheckCapture|885
 #150|@GuineaBot2|851
 #151|@Ramses-Chess|800
