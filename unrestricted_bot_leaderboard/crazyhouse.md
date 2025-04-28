@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@YoBot_v2|2394
 #30|@CloudBOT|2393
 #31|@NienishiEngine|2392
-#32|@EagleEye2021|2365
-#33|@ToromBot|2359
+#32|@ToromBot|2383
+#33|@EagleEye2021|2365
 #34|@KingfishX|2347
 #35|@chesshyperbot|2344
 #36|@EmptikBot|2332
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@Dean_Summer_Bot|1898
 #84|@vrnts_colinbot|1897
 #85|@azdad|1895
-#86|@colinbot|1885
+#86|@colinbot|1886
 #87|@Stockfish-MEDIUM|1885
 #88|@The-Fastest-Bot|1885
 #89|@XXIstCentury|1875

@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@Nikitosikbot_v2|2964
 #7|@EmptikVariantsBot|2957
 #8|@Coolman2021|2879
-#9|@RaspFish|2866
+#9|@RaspFish|2870
 #10|@TheMatrix2029|2866
 #11|@UltronBot|2859
 #12|@Nikitosik-ai|2839
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@buffFishNet|2692
 #26|@LoseisnotAvailablehe|2677
 #27|@AntichessAnalyzer|2673
-#28|@colinbot|2673
+#28|@colinbot|2670
 #29|@SCP079|2662
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
@@ -79,10 +79,10 @@ Rank|Bot|Rating
 #77|@ESC_BOT|2394
 #78|@CatBot_14|2393
 #79|@NormalBulletBot|2393
-#80|@anti-bot|2371
-#81|@Resolved-Bot|2369
-#82|@Trumpfor2O2O|2366
-#83|@HuxZero|2361
+#80|@Resolved-Bot|2369
+#81|@Trumpfor2O2O|2366
+#82|@HuxZero|2361
+#83|@anti-bot|2359
 #84|@AldoGamer001_Bot|2358
 #85|@Less_of_a_threat|2357
 #86|@Viet_BOT|2354
@@ -270,7 +270,7 @@ Rank|Bot|Rating
 #268|@The_dragon_bot|1076
 #269|@Boom_Bot|1044
 #270|@Mega_BOT|1032
-#271|@MinOpponentMoves|1032
+#271|@MinOpponentMoves|1031
 #272|@katzebot|1016
 #273|@ZX-Chess|1000
 #274|@Epiano_Bot|986

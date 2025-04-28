@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@KizVariant|2529
 #18|@Nikitosikbot_v2|2529
 #19|@SCP079|2526
-#20|@ToromBot|2496
+#20|@ToromBot|2505
 #21|@Fairy-Stockfish|2484
 #22|@ESC_BOT|2476
 #23|@Less_of_a_threat|2469
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@RaspFish|2400
 #33|@Viet_BOT|2367
 #34|@Zer0_Tw0|2332
-#35|@colinbot|2321
+#35|@colinbot|2317
 #36|@LudwigBOT|2304
 #37|@lord-bot|2300
 #38|@KingfishX|2285

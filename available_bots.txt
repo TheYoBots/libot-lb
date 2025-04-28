@@ -2954,3 +2954,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+obi-pawnkenobot
+bot_stockfish13
