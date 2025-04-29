@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@ttBOT|2230
 #29|@Magnus-BOT|2224
 #30|@SkyBlaster|2220
-#31|@PowerOnBot|2195
-#32|@Stockfish-MEDIUM|2194
+#31|@Stockfish-MEDIUM|2202
+#32|@PowerOnBot|2195
 #33|@UnDisstoppableBot|2193
 #34|@Amrobotone|2184
 #35|@HuxZero|2163
@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@KingfishX|2066
 #53|@ChessVBOT|2065
 #54|@NimsiluBot|2058
-#55|@colinbot|2056
+#55|@colinbot|2052
 #56|@Hyper-Stockfish|2044
 #57|@Kizbuurb|2035
 #58|@CloudBot_v2|2027

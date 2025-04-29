@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@lord-bot|2581
 #7|@Fairy_Belzedar|2559
 #8|@EmptikVariantsBot|2557
-#9|@RaspFish|2552
+#9|@RaspFish|2555
 #10|@FireFishBOT|2547
 #11|@LudwigBOT|2536
-#12|@ToromBot|2533
-#13|@ChessVBOT|2531
+#12|@ChessVBOT|2531
+#13|@ToromBot|2529
 #14|@Coolman2021|2527
 #15|@EmptikBot|2526
 #16|@Nebulogic|2514
