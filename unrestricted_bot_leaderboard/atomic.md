@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@ResoluteBot|2525
 #18|@CatBot_14|2514
 #19|@EmptikBot|2510
-#20|@RaspFish|2501
+#20|@RaspFish|2503
 #21|@ibep|2498
 #22|@firstrobot|2485
 #23|@ShredderGrizzly|2479
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Simpafteur|2062
 #114|@Vinnikk|2061
 #115|@XXIstCentury|2061
-#116|@colinbot|2059
+#116|@colinbot|2057
 #117|@azdad|2047
 #118|@Less_of_a_threat|2047
 #119|@OpeningsBot|2045
@@ -228,7 +228,7 @@ Rank|Bot|Rating
 #226|@Bottios|1563
 #227|@AntarticAnonymous|1553
 #228|@HiddeNL|1551
-#229|@katzebot|1548
+#229|@katzebot|1547
 #230|@Alexnajax_Fan|1544
 #231|@knight_BOT|1539
 #232|@que-hyper|1539
@@ -320,7 +320,7 @@ Rank|Bot|Rating
 #318|@alvin-chess-bot|1067
 #319|@FabriAd|1053
 #320|@TheLegitLegend2|1032
-#321|@MinOpponentMoves|1012
+#321|@MinOpponentMoves|1008
 #322|@ZX-Chess|946
 #323|@BogoBot|945
 #324|@thousandatom|865

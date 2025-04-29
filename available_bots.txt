@@ -376,6 +376,7 @@ bot_master_1359
 bot_mcbotface
 bot_of_jotim431
 bot_prueba_xd
+bot_stockfish13
 bot_swana
 bot_talbr
 bot_tark
@@ -1911,6 +1912,7 @@ nuttchess_bot
 nya-vp
 nyaabot
 o9mniej_bot
+obi-pawnkenobot
 obsidianchessengine
 occhessadvanced
 ochobot
@@ -2954,5 +2956,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-obi-pawnkenobot
-bot_stockfish13

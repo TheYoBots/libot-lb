@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@newengine2022|1901
 #54|@mrchessmanager|1888
 #55|@TheMatrix2029|1884
-#56|@colinbot|1881
+#56|@colinbot|1882
 #57|@TeamChelsie|1869
 #58|@B0T5_RU13|1852
 #59|@Lili-Variants|1846
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@duythong1402|1120
 #146|@alvin-chess-bot|1091
 #147|@Alexnajax_Fan|1066
-#148|@MinOpponentMoves|1012
+#148|@MinOpponentMoves|1021
 #149|@MateCheckCapture|885
 #150|@GuineaBot2|851
 #151|@Ramses-Chess|800
