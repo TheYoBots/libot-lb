@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@Happy_One|1074
 #167|@ZX-Chess|1059
 #168|@morphbot|1035
-#169|@MinOpponentMoves|1024
+#169|@MinOpponentMoves|1017
 #170|@Jannik08_fan|993
 #171|@thousandatom|970
 #172|@BogoBot|946

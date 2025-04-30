@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2947
+#1|@fibonachi|2948
 #2|@Grzechu86|2852
 #3|@MaggiChess16|2806
 #4|@Nikitosik-ai|2714
@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@H-Zero|2650
 #7|@PetersBot|2583
 #8|@pawn_git|2578
-#9|@Moment-That-Inspires|2573
+#9|@Moment-That-Inspires|2575
 #10|@Alexnajax_Fan|2549
 #11|@SacrificialSage|2519
 #12|@peonasesino71|2512
