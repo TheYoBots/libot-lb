@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@RaspFish|2396
 #33|@Viet_BOT|2367
 #34|@Zer0_Tw0|2332
-#35|@colinbot|2324
+#35|@colinbot|2325
 #36|@LudwigBOT|2304
 #37|@lord-bot|2300
 #38|@KingfishX|2285
@@ -143,12 +143,12 @@ Rank|Bot|Rating
 #141|@MasterofChessBOT800|1391
 #142|@HiddeNL|1385
 #143|@apraz|1383
-#144|@pawnrobot|1335
-#145|@Bottios|1323
-#146|@TTC-BOT_2|1322
-#147|@Harry_Potterz|1316
-#148|@allvariants|1310
-#149|@NoTallkOnlyGames|1293
+#144|@Bottios|1323
+#145|@TTC-BOT_2|1322
+#146|@Harry_Potterz|1316
+#147|@allvariants|1310
+#148|@NoTallkOnlyGames|1293
+#149|@pawnrobot|1288
 #150|@Light_To_The_Rescue|1277
 #151|@Sanjana_Kambala-BOT|1273
 #152|@TheLegendaryKnight|1272

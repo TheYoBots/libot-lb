@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
-#12|@RaspFish|2478
+#12|@RaspFish|2479
 #13|@EmptikVariantsBot|2402
 #14|@EmptikBot|2378
 #15|@LoseisnotAvailablehe|2369
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@PowerOnBot|1258
 #134|@xDmanBOT|1258
 #135|@yobmef|1258
-#136|@pawnrobot|1243
+#136|@pawnrobot|1242
 #137|@TheSystem_Bot|1218
 #138|@GuineaBot3|1212
 #139|@admin-bot|1209

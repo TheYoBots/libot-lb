@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@Karpov_bot|2359
 #14|@TheMatrix2025|2346
 #15|@AndromedaSX1|2344
-#16|@Viet-AI|2317
-#17|@Fairy_Belzedar|2316
-#18|@RaspFish|2315
+#16|@RaspFish|2320
+#17|@Viet-AI|2317
+#18|@Fairy_Belzedar|2316
 #19|@MalanChess|2292
 #20|@Nikitosik-ai|2288
 #21|@LudwigBOT|2281
@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@KingfishX|2066
 #53|@ChessVBOT|2065
 #54|@NimsiluBot|2058
-#55|@colinbot|2052
+#55|@colinbot|2049
 #56|@Hyper-Stockfish|2044
 #57|@Kizbuurb|2035
 #58|@CloudBot_v2|2027
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
 #157|@Bottios|1223
-#158|@pawnrobot|1204
+#158|@pawnrobot|1219
 #159|@RSVMentor|1196
 #160|@Boom_Bot|1176
 #161|@TrashBot|1168
