@@ -52,8 +52,8 @@ Rank|Bot|Rating
 #50|@AlfaBot|2541
 #51|@Leelabotmaster|2538
 #52|@Nam-Robot|2537
-#53|@Dark_evil_bot|2525
-#54|@Nakshatra3|2522
+#53|@Nakshatra3|2526
+#54|@Dark_evil_bot|2525
 #55|@Bot_AOOP11|2521
 #56|@HyperLitikBOT|2511
 #57|@pistol-play|2498
@@ -88,7 +88,7 @@ Rank|Bot|Rating
 #86|@higuyuu67776|2352
 #87|@Karpov_bot|2335
 #88|@TeamChelsie|2331
-#89|@anti-bot|2330
+#89|@anti-bot|2321
 #90|@AI69|2312
 #91|@Kizburb|2307
 #92|@MagicverseBOT|2306
@@ -268,7 +268,7 @@ Rank|Bot|Rating
 #266|@Green_Tea_Ice_Cream|1107
 #267|@Md211bot|1107
 #268|@The_dragon_bot|1076
-#269|@MinOpponentMoves|1055
+#269|@MinOpponentMoves|1072
 #270|@Boom_Bot|1044
 #271|@Mega_BOT|1032
 #272|@katzebot|1016

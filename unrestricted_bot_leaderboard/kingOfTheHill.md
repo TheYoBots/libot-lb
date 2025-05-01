@@ -30,10 +30,10 @@ Rank|Bot|Rating
 #28|@ttBOT|2230
 #29|@Magnus-BOT|2224
 #30|@SkyBlaster|2220
-#31|@Stockfish-MEDIUM|2202
-#32|@PowerOnBot|2195
-#33|@UnDisstoppableBot|2193
-#34|@Amrobotone|2184
+#31|@PowerOnBot|2195
+#32|@UnDisstoppableBot|2193
+#33|@Amrobotone|2184
+#34|@Stockfish-MEDIUM|2183
 #35|@HuxZero|2163
 #36|@Mega_BOT|2148
 #37|@AI69|2143
@@ -53,8 +53,8 @@ Rank|Bot|Rating
 #51|@vrnts_colinbot|2068
 #52|@KingfishX|2066
 #53|@ChessVBOT|2065
-#54|@NimsiluBot|2058
-#55|@colinbot|2049
+#54|@colinbot|2060
+#55|@NimsiluBot|2058
 #56|@Hyper-Stockfish|2044
 #57|@Kizbuurb|2035
 #58|@CloudBot_v2|2027
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
-#120|@DavidsGuterBot|1509
+#120|@DavidsGuterBot|1508
 #121|@Z-Move|1495
 #122|@TFRChessClub|1494
 #123|@hyperchessbot1|1493
