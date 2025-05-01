@@ -147,8 +147,8 @@ Rank|Bot|Rating
 #145|@TTC-BOT_2|1322
 #146|@Harry_Potterz|1316
 #147|@allvariants|1310
-#148|@NoTallkOnlyGames|1293
-#149|@pawnrobot|1288
+#148|@pawnrobot|1296
+#149|@NoTallkOnlyGames|1293
 #150|@Light_To_The_Rescue|1277
 #151|@Sanjana_Kambala-BOT|1273
 #152|@TheLegendaryKnight|1272
@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@DespacitoBot|1080
 #170|@ZX-Chess|1063
 #171|@GuineaBot3|972
-#172|@MinOpponentMoves|940
+#172|@MinOpponentMoves|934
 #173|@BogoBot|928
 #174|@MateCheckCapture|923
 #175|@TheSystem_Bot|905

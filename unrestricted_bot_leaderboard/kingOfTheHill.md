@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
-#120|@DavidsGuterBot|1506
+#120|@DavidsGuterBot|1509
 #121|@Z-Move|1495
 #122|@TFRChessClub|1494
 #123|@hyperchessbot1|1493
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
 #157|@Bottios|1223
-#158|@pawnrobot|1219
+#158|@pawnrobot|1217
 #159|@RSVMentor|1196
 #160|@Boom_Bot|1176
 #161|@TrashBot|1168
@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@Happy_One|1074
 #167|@ZX-Chess|1059
 #168|@morphbot|1035
-#169|@MinOpponentMoves|1017
+#169|@MinOpponentMoves|1011
 #170|@Jannik08_fan|993
 #171|@thousandatom|970
 #172|@BogoBot|946

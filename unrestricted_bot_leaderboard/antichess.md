@@ -268,7 +268,7 @@ Rank|Bot|Rating
 #266|@Green_Tea_Ice_Cream|1107
 #267|@Md211bot|1107
 #268|@The_dragon_bot|1076
-#269|@MinOpponentMoves|1064
+#269|@MinOpponentMoves|1055
 #270|@Boom_Bot|1044
 #271|@Mega_BOT|1032
 #272|@katzebot|1016

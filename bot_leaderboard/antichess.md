@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@Nakshatra3|2522
 #4|@anti-bot|2330
 #5|@pawnrobot|1919
-#6|@MinOpponentMoves|1064
+#6|@MinOpponentMoves|1055
