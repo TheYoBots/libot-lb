@@ -1190,6 +1190,7 @@ hokmah-bot
 holzerich
 homemade223
 honggphat2006
+honkurandom
 honzovy-sachy
 honzovy-sachy-2
 hoon_bot
@@ -2957,4 +2958,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-honkurandom
+canary_colinbot
