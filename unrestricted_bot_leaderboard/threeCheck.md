@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@RaspFish|2396
 #33|@Viet_BOT|2367
 #34|@Zer0_Tw0|2332
-#35|@colinbot|2329
+#35|@colinbot|2330
 #36|@LudwigBOT|2304
 #37|@lord-bot|2300
 #38|@KingfishX|2285
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@clueless-bot|1685
 #106|@NormalBulletBot|1657
 #107|@the_checkmating_bot|1643
-#108|@DavidsGuterBot|1642
+#108|@DavidsGuterBot|1641
 #109|@CoderDen732|1639
 #110|@Botkingteam33|1633
 #111|@jasans_bot|1621
@@ -172,6 +172,6 @@ Rank|Bot|Rating
 #170|@ZX-Chess|1063
 #171|@GuineaBot3|972
 #172|@BogoBot|928
-#173|@MinOpponentMoves|924
-#174|@MateCheckCapture|923
+#173|@MateCheckCapture|923
+#174|@MinOpponentMoves|915
 #175|@TheSystem_Bot|905

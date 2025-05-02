@@ -496,6 +496,7 @@ calliopean_account
 callmecool
 calvin_bot
 camel_bot
+canary_colinbot
 caps-bot
 capturebot
 carlsenbot
@@ -2958,4 +2959,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-canary_colinbot
+matrioshka_brain
+jkiddingbot

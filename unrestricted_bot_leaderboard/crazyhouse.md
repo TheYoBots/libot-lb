@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@The-Fastest-Bot|1885
 #88|@XXIstCentury|1875
 #89|@ChessBot3021|1872
-#90|@colinbot|1871
+#90|@colinbot|1872
 #91|@CocopikachuBOT|1868
 #92|@legendbot1|1866
 #93|@MyNameIsSpeeedy|1861
@@ -203,4 +203,4 @@ Rank|Bot|Rating
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@TrashBot|800
-#204|@MinOpponentMoves|706
+#204|@MinOpponentMoves|705
