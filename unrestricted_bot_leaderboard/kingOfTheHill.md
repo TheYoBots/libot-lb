@@ -43,11 +43,11 @@ Rank|Bot|Rating
 #41|@NormalBulletBot|2109
 #42|@GodelEscherBot|2092
 #43|@Johnsun|2091
-#44|@Jussicas|2086
-#45|@Kizburb|2086
-#46|@Dean_Summer_Bot|2085
-#47|@ibep|2078
-#48|@Lili-Variants|2078
+#44|@Lili-Variants|2089
+#45|@Jussicas|2086
+#46|@Kizburb|2086
+#47|@Dean_Summer_Bot|2085
+#48|@ibep|2078
 #49|@Xerus_1|2076
 #50|@newengine2022|2071
 #51|@vrnts_colinbot|2068
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
-#120|@DavidsGuterBot|1514
+#120|@DavidsGuterBot|1513
 #121|@Z-Move|1495
 #122|@TFRChessClub|1494
 #123|@hyperchessbot1|1493
@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@Happy_One|1074
 #167|@ZX-Chess|1059
 #168|@morphbot|1035
-#169|@MinOpponentMoves|1009
+#169|@MinOpponentMoves|1008
 #170|@Jannik08_fan|993
 #171|@thousandatom|970
 #172|@BogoBot|946

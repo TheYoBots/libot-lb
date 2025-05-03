@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@LeelaChessTest|2172
 #64|@NormalBulletBot|2172
 #65|@Apotheosis_Bot|2170
-#66|@Humanoid_1800|2162
+#66|@Humanoid_1800|2165
 #67|@mrohBOT|2158
 #68|@dbce|2156
 #69|@WennDieSoldatBOT|2156

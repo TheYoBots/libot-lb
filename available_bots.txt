@@ -1324,6 +1324,7 @@ jessethefluffydoge
 jest-bot
 jgrizzbt-bot
 jibbby
+jkiddingbot
 jmjansen_aus_bot
 jnewberry0502
 joannp38_pedantic
@@ -1686,6 +1687,7 @@ matecheckcapture
 materialisoverrated
 matewithrook_sf17dev
 matmoi
+matrioshka_brain
 matrix-ai
 matrixmovebot80
 mattaberk-bot
@@ -2959,5 +2961,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-matrioshka_brain
-jkiddingbot
+aconcaguabot
