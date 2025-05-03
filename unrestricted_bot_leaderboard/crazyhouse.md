@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@YoBot_v2|2394
 #30|@CloudBOT|2393
 #31|@NienishiEngine|2392
-#32|@ToromBot|2383
+#32|@ToromBot|2384
 #33|@EagleEye2021|2365
 #34|@KingfishX|2347
 #35|@chesshyperbot|2344
@@ -87,9 +87,9 @@ Rank|Bot|Rating
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
 #87|@The-Fastest-Bot|1885
-#88|@XXIstCentury|1875
-#89|@ChessBot3021|1872
-#90|@colinbot|1872
+#88|@colinbot|1875
+#89|@XXIstCentury|1875
+#90|@ChessBot3021|1872
 #91|@CocopikachuBOT|1868
 #92|@legendbot1|1866
 #93|@MyNameIsSpeeedy|1861
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@B0T5_RU13|1683
 #115|@FASTCHESSBOT|1666
 #116|@SipsonsamsonBOT|1665
-#117|@OpeningsBot|1659
-#118|@MistakeBOT|1655
+#117|@MistakeBOT|1655
+#118|@OpeningsBot|1654
 #119|@Isaacwb_BOT|1640
 #120|@SriLankaChess|1623
 #121|@Viet_BOT|1617
@@ -160,7 +160,7 @@ Rank|Bot|Rating
 #158|@Itzmoi6g19|1425
 #159|@xDmanBOT|1419
 #160|@Official_bot|1414
-#161|@wayang|1411
+#161|@Wayang|1411
 #162|@are_bots_good|1367
 #163|@GothamChessBot|1358
 #164|@XiDM|1351
@@ -203,4 +203,4 @@ Rank|Bot|Rating
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@TrashBot|800
-#204|@MinOpponentMoves|715
+#204|@MinOpponentMoves|714

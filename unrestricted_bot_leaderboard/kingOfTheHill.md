@@ -81,11 +81,11 @@ Rank|Bot|Rating
 #79|@HyperLitikBOT|1930
 #80|@SacrificialSage|1925
 #81|@DrSmartBugs|1904
-#82|@OpeningsBot|1902
-#83|@Variantenkoning|1892
-#84|@PetersTestBot|1890
-#85|@MistakeBOT|1886
-#86|@EagleEye2021|1880
+#82|@Variantenkoning|1892
+#83|@PetersTestBot|1890
+#84|@MistakeBOT|1886
+#85|@EagleEye2021|1880
+#86|@OpeningsBot|1877
 #87|@xiang-qi|1868
 #88|@que-hyper|1865
 #89|@relevantproblem|1857
@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@Happy_One|1074
 #167|@ZX-Chess|1059
 #168|@morphbot|1035
-#169|@MinOpponentMoves|1008
+#169|@MinOpponentMoves|999
 #170|@Jannik08_fan|993
 #171|@thousandatom|970
 #172|@BogoBot|946

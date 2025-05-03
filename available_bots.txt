@@ -13,6 +13,7 @@ acc_bot
 acceleratedlearner
 accountbot
 achessboarduino
+aconcaguabot
 actual_magnus
 adathefury
 admete_bot
@@ -2961,4 +2962,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-aconcaguabot
+honeyfried
+chessiter666_bot

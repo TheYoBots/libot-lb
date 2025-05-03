@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
 #18|@CatBot_14|2514
-#19|@EmptikBot|2510
-#20|@RaspFish|2509
+#19|@RaspFish|2512
+#20|@EmptikBot|2510
 #21|@ibep|2498
 #22|@firstrobot|2485
 #23|@ShredderGrizzly|2479
@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@LudwigBOT|2339
 #41|@newengine2022|2337
 #42|@NotNateBot|2336
-#43|@Stockfish-MEDIUM|2327
+#43|@Stockfish-MEDIUM|2332
 #44|@The-Fastest-Bot|2314
 #45|@Alehkine_cat|2312
 #46|@Dean_Summer_Bot|2305
@@ -117,10 +117,10 @@ Rank|Bot|Rating
 #115|@XXIstCentury|2061
 #116|@azdad|2047
 #117|@Less_of_a_threat|2047
-#118|@OpeningsBot|2045
-#119|@colinbot|2038
-#120|@MagnusCarlsen1507|2037
-#121|@HuxZero|2035
+#118|@OpeningsBot|2043
+#119|@MagnusCarlsen1507|2037
+#120|@HuxZero|2035
+#121|@colinbot|2033
 #122|@EasyWinGG|2032
 #123|@Kizbuurb|2024
 #124|@ESC_BOT|2011
@@ -323,7 +323,7 @@ Rank|Bot|Rating
 #321|@ZX-Chess|946
 #322|@BogoBot|945
 #323|@thousandatom|865
-#324|@MinOpponentMoves|858
+#324|@MinOpponentMoves|863
 #325|@bfdzvfsgaergfds|800
 #326|@TheThanosBot|696
 #327|@BetaOneBot|690

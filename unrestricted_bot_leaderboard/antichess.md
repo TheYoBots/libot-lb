@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@Karpov_bot|2335
 #88|@TeamChelsie|2331
 #89|@AI69|2312
-#90|@anti-bot|2309
+#90|@anti-bot|2307
 #91|@Kizburb|2307
 #92|@MagicverseBOT|2306
 #93|@abhisun_bot|2305
@@ -265,9 +265,9 @@ Rank|Bot|Rating
 #263|@DespacitoBot|1175
 #264|@BogoBot|1155
 #265|@thousandatom|1146
-#266|@Green_Tea_Ice_Cream|1107
-#267|@Md211bot|1107
-#268|@MinOpponentMoves|1090
+#266|@MinOpponentMoves|1113
+#267|@Green_Tea_Ice_Cream|1107
+#268|@Md211bot|1107
 #269|@The_dragon_bot|1076
 #270|@Boom_Bot|1044
 #271|@Mega_BOT|1032
