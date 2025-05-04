@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@Karpov_bot|2359
 #14|@TheMatrix2025|2346
 #15|@AndromedaSX1|2344
-#16|@RaspFish|2322
+#16|@RaspFish|2327
 #17|@Viet-AI|2317
 #18|@Fairy_Belzedar|2316
 #19|@MalanChess|2292
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@PowerOnBot|2195
 #32|@UnDisstoppableBot|2193
 #33|@Amrobotone|2184
-#34|@Stockfish-MEDIUM|2183
+#34|@Stockfish-MEDIUM|2174
 #35|@HuxZero|2163
 #36|@Mega_BOT|2148
 #37|@AI69|2143
@@ -51,9 +51,9 @@ Rank|Bot|Rating
 #49|@Xerus_1|2076
 #50|@newengine2022|2071
 #51|@vrnts_colinbot|2068
-#52|@KingfishX|2066
-#53|@ChessVBOT|2065
-#54|@colinbot|2061
+#52|@colinbot|2067
+#53|@KingfishX|2066
+#54|@ChessVBOT|2065
 #55|@NimsiluBot|2058
 #56|@Hyper-Stockfish|2044
 #57|@Kizbuurb|2035
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@PetersTestBot|1890
 #84|@MistakeBOT|1886
 #85|@EagleEye2021|1880
-#86|@OpeningsBot|1877
+#86|@OpeningsBot|1872
 #87|@xiang-qi|1868
 #88|@que-hyper|1865
 #89|@relevantproblem|1857
@@ -169,8 +169,8 @@ Rank|Bot|Rating
 #167|@ZX-Chess|1059
 #168|@morphbot|1035
 #169|@Jannik08_fan|993
-#170|@MinOpponentMoves|984
-#171|@thousandatom|970
+#170|@thousandatom|970
+#171|@MinOpponentMoves|950
 #172|@BogoBot|946
 #173|@SacrificeBot|934
 #174|@GuineaBot2|884

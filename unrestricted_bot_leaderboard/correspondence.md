@@ -311,8 +311,8 @@ Rank|Bot|Rating
 #309|@Mate-AI|1454
 #310|@dtsudo|1449
 #311|@CheezyGlizzyEater|1444
-#312|@ReallyBadPlayerBot|1428
-#313|@katzebot|1426
+#312|@katzebot|1433
+#313|@ReallyBadPlayerBot|1428
 #314|@LuciferCat|1426
 #315|@JupiterBot|1421
 #316|@sunfish_rs|1414
