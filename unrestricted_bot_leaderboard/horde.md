@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Fairy_Belzedar|2857
 #5|@Nikitosikbot_v2|2823
 #6|@Coolman2021|2757
-#7|@ToromBot|2741
+#7|@ToromBot|2742
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@newengine2022|1901
 #54|@mrchessmanager|1888
 #55|@TheMatrix2029|1884
-#56|@colinbot|1883
+#56|@colinbot|1869
 #57|@TeamChelsie|1869
 #58|@B0T5_RU13|1852
 #59|@Lili-Variants|1846
@@ -70,12 +70,12 @@ Rank|Bot|Rating
 #68|@Botzer|1772
 #69|@CloudBOT|1758
 #70|@CocopikachuBOT|1757
-#71|@Heman36541234578|1741
-#72|@Vinh_VariantsBot|1741
-#73|@AndromedaSX1|1740
-#74|@dream_bot|1739
-#75|@YoBot_v1|1739
-#76|@OpeningsBot|1734
+#71|@OpeningsBot|1747
+#72|@Heman36541234578|1741
+#73|@Vinh_VariantsBot|1741
+#74|@AndromedaSX1|1740
+#75|@dream_bot|1739
+#76|@YoBot_v1|1739
 #77|@ChessChildren|1730
 #78|@Johnsun|1721
 #79|@Viet-BOT|1720
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@duythong1402|1120
 #146|@alvin-chess-bot|1091
 #147|@Alexnajax_Fan|1066
-#148|@MinOpponentMoves|1029
+#148|@MinOpponentMoves|1006
 #149|@MateCheckCapture|885
 #150|@GuineaBot2|851
 #151|@Ramses-Chess|800

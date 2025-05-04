@@ -591,6 +591,7 @@ chessharmon
 chesshunterbot
 chesshyperbot
 chesshyperdragon
+chessiter666_bot
 chessler-v4-nnue
 chessloser2021_bot
 chessly-bot
@@ -1191,6 +1192,7 @@ hokmah
 hokmah-bot
 holzerich
 homemade223
+honeyfried
 honggphat2006
 honkurandom
 honzovy-sachy
@@ -2962,5 +2964,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-honeyfried
-chessiter666_bot
