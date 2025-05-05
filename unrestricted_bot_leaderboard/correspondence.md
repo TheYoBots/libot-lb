@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@AjedrezChamberi|2710
 #6|@H-Zero|2650
 #7|@Moment-That-Inspires|2600
-#8|@PetersBot|2583
-#9|@pawn_git|2579
+#8|@pawn_git|2589
+#9|@PetersBot|2583
 #10|@Alexnajax_Fan|2549
 #11|@SacrificialSage|2519
 #12|@peonasesino71|2512
@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@CorrespondenceBot|2353
 #29|@duchessAI|2344
 #30|@HansNiemannBot|2338
-#31|@OpeningsBot|2315
+#31|@OpeningsBot|2312
 #32|@bekbot|2307
 #33|@IAMSTOCKFISH123|2305
 #34|@Magnus-BOT|2304

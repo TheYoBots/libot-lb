@@ -25,8 +25,8 @@ Rank|Bot|Rating
 #23|@NimsiluBot|2725
 #24|@Lili-Variants|2693
 #25|@buffFishNet|2692
-#26|@LoseisnotAvailablehe|2677
-#27|@colinbot|2676
+#26|@colinbot|2679
+#27|@LoseisnotAvailablehe|2677
 #28|@AntichessAnalyzer|2673
 #29|@SCP079|2662
 #30|@MalanChess|2638
@@ -88,9 +88,9 @@ Rank|Bot|Rating
 #86|@higuyuu67776|2352
 #87|@Karpov_bot|2335
 #88|@TeamChelsie|2331
-#89|@anti-bot|2320
-#90|@AI69|2312
-#91|@Kizburb|2307
+#89|@AI69|2312
+#90|@Kizburb|2307
+#91|@anti-bot|2306
 #92|@MagicverseBOT|2306
 #93|@abhisun_bot|2305
 #94|@NienishiEngine|2304

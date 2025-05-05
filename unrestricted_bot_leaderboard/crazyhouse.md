@@ -81,13 +81,13 @@ Rank|Bot|Rating
 #79|@chessbot2880|1932
 #80|@AndromedaSX1|1919
 #81|@Galaxy_Guardian|1919
-#82|@Stockfish-MEDIUM|1914
-#83|@PetersBot|1911
+#82|@PetersBot|1911
+#83|@Stockfish-MEDIUM|1911
 #84|@Dean_Summer_Bot|1898
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
 #87|@The-Fastest-Bot|1885
-#88|@colinbot|1879
+#88|@colinbot|1880
 #89|@XXIstCentury|1875
 #90|@ChessBot3021|1872
 #91|@CocopikachuBOT|1868

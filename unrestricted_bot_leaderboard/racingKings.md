@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@thibot|2393
 #39|@Jussicas|2373
 #40|@TheMatrix2025|2368
-#41|@colinbot|2359
+#41|@colinbot|2361
 #42|@Lili-Variants|2357
 #43|@Viet_BOT|2344
 #44|@EvenMatchup|2336
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@knight_128|2144
 #77|@Kizburb|2126
 #78|@mc-king-098|2124
-#79|@OpeningsBot|2121
+#79|@OpeningsBot|2118
 #80|@xiang-qi|2113
 #81|@atomicli|2111
 #82|@Trumpfor2O2O|2103

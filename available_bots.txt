@@ -842,6 +842,7 @@ echo-4
 echobot
 ed_dev_bot
 eddybarner393
+edgard_loomis
 edobot
 edspbot
 eftalbot
@@ -2418,6 +2419,7 @@ ssech_bot
 sseh-c
 ssehcilx
 st6090
+stallion_eas
 starfaith
 starker_bot
 starplumberbot
@@ -2966,5 +2968,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-edgard_loomis
-stallion_eas
+konstantin_stepabot

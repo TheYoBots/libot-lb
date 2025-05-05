@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@LudwigBOT|2339
 #41|@newengine2022|2337
 #42|@NotNateBot|2336
-#43|@Stockfish-MEDIUM|2327
+#43|@Stockfish-MEDIUM|2331
 #44|@The-Fastest-Bot|2314
 #45|@Alehkine_cat|2312
 #46|@Dean_Summer_Bot|2305
@@ -119,8 +119,8 @@ Rank|Bot|Rating
 #117|@Less_of_a_threat|2047
 #118|@OpeningsBot|2043
 #119|@MagnusCarlsen1507|2037
-#120|@colinbot|2036
-#121|@HuxZero|2035
+#120|@HuxZero|2035
+#121|@colinbot|2034
 #122|@EasyWinGG|2032
 #123|@Kizbuurb|2024
 #124|@ESC_BOT|2011
@@ -266,7 +266,7 @@ Rank|Bot|Rating
 #264|@MrMolotov|1436
 #265|@BOSS_CHESS_BOT|1431
 #266|@shakboy9824453231op|1420
-#267|@pawnrobot|1417
+#267|@pawnrobot|1414
 #268|@bunny_2021|1413
 #269|@TTC-BOT_2|1410
 #270|@Butzke_BOT|1401
