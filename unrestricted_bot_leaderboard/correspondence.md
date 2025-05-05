@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@NormalBulletBot|2172
 #64|@Apotheosis_Bot|2170
 #65|@Humanoid_2200|2168
-#66|@Humanoid_1800|2159
+#66|@Humanoid_1800|2163
 #67|@mrohBOT|2158
 #68|@dbce|2156
 #69|@WennDieSoldatBOT|2156

@@ -206,6 +206,7 @@ awesome32
 awesome_stockfish
 ax2xb2
 axwchessbot
+ayodia
 azdad
 b-the-bot
 b0ngfish
@@ -2472,6 +2473,7 @@ stockhalim
 stockmac
 stocksergio
 stocksquidv2
+stockweak
 stockwishbot
 stokcfishbot
 stonefish123
@@ -2964,5 +2966,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-stockweak
-ayodia
+edgard_loomis
+stallion_eas

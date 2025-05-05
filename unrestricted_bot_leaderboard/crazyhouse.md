@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@ElPeonElectrico|2454
 #26|@abhisun_bot|2444
 #27|@pistol-play|2437
-#28|@RaspFish|2424
+#28|@RaspFish|2425
 #29|@YoBot_v2|2394
 #30|@CloudBOT|2393
 #31|@NienishiEngine|2392
@@ -114,10 +114,10 @@ Rank|Bot|Rating
 #112|@Lili-Variants|1698
 #113|@Lightning_SpeedChess|1696
 #114|@B0T5_RU13|1683
-#115|@FASTCHESSBOT|1666
-#116|@SipsonsamsonBOT|1665
-#117|@MistakeBOT|1655
-#118|@OpeningsBot|1649
+#115|@OpeningsBot|1676
+#116|@FASTCHESSBOT|1666
+#117|@SipsonsamsonBOT|1665
+#118|@MistakeBOT|1655
 #119|@Isaacwb_BOT|1640
 #120|@SriLankaChess|1623
 #121|@Viet_BOT|1617
