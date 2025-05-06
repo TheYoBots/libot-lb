@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@NimsiluBot|2725
 #24|@Lili-Variants|2693
 #25|@buffFishNet|2692
-#26|@colinbot|2679
+#26|@colinbot|2680
 #27|@LoseisnotAvailablehe|2677
 #28|@AntichessAnalyzer|2673
 #29|@SCP079|2662
@@ -95,7 +95,7 @@ Rank|Bot|Rating
 #93|@NienishiEngine|2304
 #94|@BromiumAI|2302
 #95|@EvenMatchup|2302
-#96|@anti-bot|2300
+#96|@anti-bot|2284
 #97|@GodelEscherBot|2284
 #98|@Dean_Summer_Bot|2279
 #99|@Johnsun|2269
@@ -268,7 +268,7 @@ Rank|Bot|Rating
 #266|@thousandatom|1146
 #267|@Green_Tea_Ice_Cream|1107
 #268|@Md211bot|1107
-#269|@MinOpponentMoves|1087
+#269|@MinOpponentMoves|1091
 #270|@The_dragon_bot|1076
 #271|@Boom_Bot|1044
 #272|@Mega_BOT|1032

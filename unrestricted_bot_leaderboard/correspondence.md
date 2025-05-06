@@ -61,10 +61,10 @@ Rank|Bot|Rating
 #59|@GothamChessBot|2183
 #60|@Nowinforyoukid|2177
 #61|@WeakStash|2177
-#62|@LeelaChessTest|2172
-#63|@NormalBulletBot|2172
-#64|@Apotheosis_Bot|2170
-#65|@Humanoid_1800|2170
+#62|@Humanoid_1800|2173
+#63|@LeelaChessTest|2172
+#64|@NormalBulletBot|2172
+#65|@Apotheosis_Bot|2170
 #66|@Humanoid_2200|2168
 #67|@mrohBOT|2158
 #68|@dbce|2156

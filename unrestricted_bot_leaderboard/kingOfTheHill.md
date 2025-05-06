@@ -47,10 +47,10 @@ Rank|Bot|Rating
 #45|@Jussicas|2086
 #46|@Kizburb|2086
 #47|@Dean_Summer_Bot|2085
-#48|@colinbot|2080
-#49|@ibep|2078
-#50|@Xerus_1|2076
-#51|@newengine2022|2071
+#48|@ibep|2078
+#49|@Xerus_1|2076
+#50|@newengine2022|2071
+#51|@colinbot|2069
 #52|@vrnts_colinbot|2068
 #53|@KingfishX|2066
 #54|@ChessVBOT|2065
@@ -84,9 +84,9 @@ Rank|Bot|Rating
 #82|@Variantenkoning|1892
 #83|@PetersTestBot|1890
 #84|@MistakeBOT|1886
-#85|@EagleEye2021|1880
-#86|@xiang-qi|1868
-#87|@OpeningsBot|1867
+#85|@OpeningsBot|1882
+#86|@EagleEye2021|1880
+#87|@xiang-qi|1868
 #88|@que-hyper|1865
 #89|@relevantproblem|1857
 #90|@Botzer|1851
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
 #157|@Bottios|1223
-#158|@pawnrobot|1216
+#158|@pawnrobot|1212
 #159|@RSVMentor|1196
 #160|@Boom_Bot|1176
 #161|@TrashBot|1168
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@morphbot|1035
 #169|@Jannik08_fan|993
 #170|@thousandatom|970
-#171|@MinOpponentMoves|950
+#171|@MinOpponentMoves|952
 #172|@BogoBot|946
 #173|@SacrificeBot|934
 #174|@GuineaBot2|884

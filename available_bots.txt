@@ -860,6 +860,7 @@ eliteay17_aichess
 eliteexperimental
 eliteleela
 eliteleela23
+ellen_replay
 elmichess
 elninodiablo
 elo3800
@@ -2969,4 +2970,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ellen_replay
+andobot
+firetorchv2
+blundernet_engine
