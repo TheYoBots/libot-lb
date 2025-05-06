@@ -265,8 +265,8 @@ Rank|Bot|Rating
 #263|@xDmanBOT|1437
 #264|@MrMolotov|1436
 #265|@BOSS_CHESS_BOT|1431
-#266|@shakboy9824453231op|1420
-#267|@pawnrobot|1414
+#266|@pawnrobot|1423
+#267|@shakboy9824453231op|1420
 #268|@bunny_2021|1413
 #269|@TTC-BOT_2|1410
 #270|@Butzke_BOT|1401

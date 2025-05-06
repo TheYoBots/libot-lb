@@ -1438,6 +1438,7 @@ komodobot
 komodofish12
 komorebi_bot
 konaz
+konstantin_stepabot
 kopyto_dev
 kostasvl-bot
 kqrbnpkqrbnp
@@ -2968,4 +2969,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-konstantin_stepabot
+ellen_replay
