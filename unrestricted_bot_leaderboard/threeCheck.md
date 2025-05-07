@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@Nikitosik-ai|2405
 #32|@RaspFish|2393
 #33|@Viet_BOT|2367
-#34|@colinbot|2342
+#34|@colinbot|2345
 #35|@Zer0_Tw0|2332
 #36|@LudwigBOT|2304
 #37|@lord-bot|2300
@@ -66,8 +66,8 @@ Rank|Bot|Rating
 #64|@firstrobot|2003
 #65|@Stockfish-MEDIUM|1990
 #66|@Hyper-Stockfish|1986
-#67|@OpeningsBot|1978
-#68|@GodelEscherBot|1974
+#67|@GodelEscherBot|1974
+#68|@OpeningsBot|1973
 #69|@XXIstCentury|1973
 #70|@mrchessmanager|1963
 #71|@Botzer|1961

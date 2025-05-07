@@ -111,6 +111,7 @@ anand_bot
 anarchychess-bot
 anatalio
 ancil
+andobot
 andrewk2k_bot
 andrewyxzbot
 andromedasx1
@@ -321,6 +322,7 @@ bluefake
 blundar_bot
 blunder_engine
 blunderbuss-bot
+blundernet_engine
 bob_the_bot
 bobandi
 bobby-bot
@@ -980,6 +982,7 @@ firefighter-the-b0t
 firefishbot
 firefishbot_v2
 fireofficial
+firetorchv2
 firstrobot
 fish-engine
 fishadmiral
@@ -2970,6 +2973,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-andobot
-firetorchv2
-blundernet_engine
