@@ -1,8 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2870
-#2|@colinbot|2682
-#3|@Nakshatra3|2530
-#4|@anti-bot|2288
-#5|@pawnrobot|1911
-#6|@MinOpponentMoves|1089
+#2|@colinbot|2683
+#3|@Nakshatra3|2533
+#4|@anti-bot|2277
+#5|@OpeningsBot|2233
+#6|@pawnrobot|1911
+#7|@MinOpponentMoves|1081
