@@ -82,11 +82,11 @@ Rank|Bot|Rating
 #80|@AndromedaSX1|1919
 #81|@Galaxy_Guardian|1919
 #82|@PetersBot|1911
-#83|@Dean_Summer_Bot|1898
-#84|@Stockfish-MEDIUM|1897
+#83|@Stockfish-MEDIUM|1910
+#84|@Dean_Summer_Bot|1898
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
-#87|@colinbot|1895
+#87|@colinbot|1888
 #88|@The-Fastest-Bot|1885
 #89|@XXIstCentury|1875
 #90|@ChessBot3021|1872
@@ -203,4 +203,4 @@ Rank|Bot|Rating
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@TrashBot|800
-#204|@MinOpponentMoves|684
+#204|@MinOpponentMoves|683

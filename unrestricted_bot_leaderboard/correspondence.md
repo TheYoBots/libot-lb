@@ -64,9 +64,9 @@ Rank|Bot|Rating
 #62|@WeakStash|2177
 #63|@LeelaChessTest|2172
 #64|@NormalBulletBot|2172
-#65|@Humanoid_1800|2171
-#66|@Apotheosis_Bot|2170
-#67|@Humanoid_2200|2168
+#65|@Apotheosis_Bot|2170
+#66|@Humanoid_2200|2168
+#67|@Humanoid_1800|2158
 #68|@mrohBOT|2158
 #69|@dbce|2156
 #70|@WennDieSoldatBOT|2156

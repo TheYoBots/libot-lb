@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@HyperLitikBOT|2341
 #40|@LudwigBOT|2339
 #41|@newengine2022|2337
-#42|@NotNateBot|2336
-#43|@Stockfish-MEDIUM|2329
+#42|@Stockfish-MEDIUM|2337
+#43|@NotNateBot|2336
 #44|@The-Fastest-Bot|2314
 #45|@Alehkine_cat|2312
 #46|@Dean_Summer_Bot|2305
@@ -120,9 +120,9 @@ Rank|Bot|Rating
 #118|@MagnusCarlsen1507|2037
 #119|@HuxZero|2035
 #120|@EasyWinGG|2032
-#121|@OpeningsBot|2032
-#122|@colinbot|2029
-#123|@Kizbuurb|2024
+#121|@colinbot|2024
+#122|@Kizbuurb|2024
+#123|@OpeningsBot|2024
 #124|@ESC_BOT|2011
 #125|@are_bots_good|2006
 #126|@Breeze-Hot|2006
@@ -322,8 +322,8 @@ Rank|Bot|Rating
 #320|@TheLegitLegend2|1032
 #321|@ZX-Chess|946
 #322|@BogoBot|945
-#323|@thousandatom|865
-#324|@MinOpponentMoves|857
+#323|@MinOpponentMoves|865
+#324|@thousandatom|865
 #325|@bfdzvfsgaergfds|800
 #326|@TheThanosBot|696
 #327|@BetaOneBot|690

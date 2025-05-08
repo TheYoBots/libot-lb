@@ -741,6 +741,7 @@ davidsguterbot
 dbce
 dcaibot
 dean_summer_bot
+death1234567-hell
 debugbot
 deepchessengine
 deepkalle
@@ -2973,4 +2974,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-death1234567-hell
