@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@EmptikVariantsBot|2557
 #9|@RaspFish|2552
 #10|@FireFishBOT|2547
-#11|@ToromBot|2539
+#11|@ToromBot|2541
 #12|@LudwigBOT|2536
 #13|@ChessVBOT|2531
 #14|@Coolman2021|2527
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@knight_128|2144
 #77|@Kizburb|2126
 #78|@mc-king-098|2124
-#79|@OpeningsBot|2116
+#79|@OpeningsBot|2115
 #80|@xiang-qi|2113
 #81|@atomicli|2111
 #82|@Trumpfor2O2O|2103
@@ -183,4 +183,4 @@ Rank|Bot|Rating
 #181|@MateCheckCapture|1011
 #182|@littlesamsun|996
 #183|@ZX-Chess|982
-#184|@MinOpponentMoves|630
+#184|@MinOpponentMoves|623

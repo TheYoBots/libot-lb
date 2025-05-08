@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@ChessVBOT|2430
 #30|@NimsiluBot|2422
 #31|@Nikitosik-ai|2405
-#32|@RaspFish|2393
+#32|@RaspFish|2394
 #33|@Viet_BOT|2367
 #34|@colinbot|2338
 #35|@Zer0_Tw0|2332
@@ -68,7 +68,7 @@ Rank|Bot|Rating
 #66|@Hyper-Stockfish|1986
 #67|@GodelEscherBot|1974
 #68|@XXIstCentury|1973
-#69|@OpeningsBot|1968
+#69|@OpeningsBot|1966
 #70|@mrchessmanager|1963
 #71|@Botzer|1961
 #72|@Lili-Variants|1955
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@allvariants|1310
 #148|@NoTallkOnlyGames|1293
 #149|@Light_To_The_Rescue|1277
-#150|@pawnrobot|1277
+#150|@pawnrobot|1273
 #151|@Sanjana_Kambala-BOT|1273
 #152|@TheLegendaryKnight|1272
 #153|@EstmileBot|1269

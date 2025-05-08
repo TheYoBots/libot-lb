@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@colinbot|2029
 #4|@katzebot|1545
 #5|@pawnrobot|1423
-#6|@MinOpponentMoves|859
+#6|@MinOpponentMoves|857
