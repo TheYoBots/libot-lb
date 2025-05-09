@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@KizVariant|2529
 #18|@Nikitosikbot_v2|2529
 #19|@SCP079|2526
-#20|@ToromBot|2505
+#20|@ToromBot|2507
 #21|@Fairy-Stockfish|2484
 #22|@ESC_BOT|2476
 #23|@Less_of_a_threat|2469
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@Nikitosik-ai|2405
 #32|@RaspFish|2401
 #33|@Viet_BOT|2367
-#34|@colinbot|2338
+#34|@colinbot|2339
 #35|@Zer0_Tw0|2332
 #36|@LudwigBOT|2304
 #37|@lord-bot|2300
@@ -68,9 +68,9 @@ Rank|Bot|Rating
 #66|@Hyper-Stockfish|1986
 #67|@GodelEscherBot|1974
 #68|@XXIstCentury|1973
-#69|@OpeningsBot|1965
-#70|@mrchessmanager|1963
-#71|@Botzer|1961
+#69|@mrchessmanager|1963
+#70|@Botzer|1961
+#71|@OpeningsBot|1961
 #72|@Lili-Variants|1955
 #73|@lightspeed_bot|1951
 #74|@AldoGamer001_Bot|1940
@@ -108,9 +108,9 @@ Rank|Bot|Rating
 #106|@NormalBulletBot|1657
 #107|@the_checkmating_bot|1643
 #108|@CoderDen732|1639
-#109|@DavidsGuterBot|1635
-#110|@Botkingteam33|1633
-#111|@jasans_bot|1621
+#109|@Botkingteam33|1633
+#110|@jasans_bot|1621
+#111|@DavidsGuterBot|1619
 #112|@newengine2022|1588
 #113|@knight_128|1563
 #114|@Alehkine_cat|1549

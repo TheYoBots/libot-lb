@@ -924,6 +924,7 @@ european_chess_bot
 euwe-chess-engine
 evenmatchup
 evernow
+evevtuber
 evg3n413429
 evilfreak
 evolve_bot
@@ -2974,4 +2975,8 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-evevtuber
+gyatsobot
+invinxibleflxsh
+honkufish
+samat2016_bot
+botsfanclub
