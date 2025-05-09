@@ -3,13 +3,13 @@ Rank|Bot|Rating
 #1|@EmptikBot|3070
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
-#4|@UltimateVariants|2978
-#5|@ToromBot|2977
+#4|@ToromBot|2993
+#5|@UltimateVariants|2978
 #6|@Nikitosikbot_v2|2964
 #7|@EmptikVariantsBot|2957
 #8|@Coolman2021|2879
-#9|@RaspFish|2871
-#10|@TheMatrix2029|2866
+#9|@TheMatrix2029|2866
+#10|@RaspFish|2864
 #11|@UltronBot|2859
 #12|@Nikitosik-ai|2839
 #13|@ChessVBOT|2829
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@buffFishNet|2692
 #26|@LoseisnotAvailablehe|2677
 #27|@AntichessAnalyzer|2673
-#28|@colinbot|2672
+#28|@colinbot|2670
 #29|@SCP079|2662
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
@@ -272,7 +272,7 @@ Rank|Bot|Rating
 #270|@Boom_Bot|1044
 #271|@Mega_BOT|1032
 #272|@katzebot|1016
-#273|@MinOpponentMoves|1002
+#273|@MinOpponentMoves|1001
 #274|@ZX-Chess|1000
 #275|@Epiano_Bot|986
 #276|@BetaOneBot|954

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2938
+#1|@fibonachi|2939
 #2|@Grzechu86|2852
 #3|@MaggiChess16|2806
 #4|@Nikitosik-ai|2714
@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@PetersBot|2583
 #10|@Alexnajax_Fan|2549
 #11|@SacrificialSage|2519
-#12|@peonasesino71|2512
-#13|@ChamberiAjedrez|2509
+#12|@ChamberiAjedrez|2512
+#13|@peonasesino71|2512
 #14|@ServerFish|2494
 #15|@colinbot|2492
 #16|@Bingo202|2484
@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
 #35|@Ujwal1001|2297
-#36|@robiachess|2295
-#37|@OpeningsBot|2293
+#36|@OpeningsBot|2295
+#37|@robiachess|2295
 #38|@Quanticade|2286
 #39|@mrohCentaur|2285
 #40|@eggnog-chess-engine|2275
@@ -137,8 +137,8 @@ Rank|Bot|Rating
 #135|@YoBot_v2|1984
 #136|@maello_bot|1981
 #137|@Virutor|1980
-#138|@matmoi|1977
-#139|@Bobby_Fishcer_Bot|1976
+#138|@Bobby_Fishcer_Bot|1976
+#139|@matmoi|1972
 #140|@BigBrainen|1970
 #141|@BritBot|1970
 #142|@Test_God_50_BOT|1965
@@ -197,9 +197,9 @@ Rank|Bot|Rating
 #195|@LogosEngine|1760
 #196|@Bot413522|1758
 #197|@EDSPBOT|1758
-#198|@AngryOfficePanda|1745
-#199|@wardnbot|1744
-#200|@Jibbby|1743
+#198|@Jibbby|1754
+#199|@AngryOfficePanda|1745
+#200|@wardnbot|1744
 #201|@anytimemode|1741
 #202|@Bot2000|1741
 #203|@Jaymombot|1741
