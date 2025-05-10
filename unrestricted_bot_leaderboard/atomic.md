@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@KingfishX|2369
 #31|@mrchessmanager|2369
 #32|@Resolved-Bot|2363
-#33|@CloudBot_v2|2357
-#34|@Stockfish-MEDIUM|2354
+#33|@Stockfish-MEDIUM|2360
+#34|@CloudBot_v2|2357
 #35|@faith_bot|2353
 #36|@Lila-Stockfish|2350
 #37|@lord-bot|2349
@@ -118,11 +118,11 @@ Rank|Bot|Rating
 #116|@XXIstCentury|2061
 #117|@azdad|2047
 #118|@Less_of_a_threat|2047
-#119|@OpeningsBot|2038
-#120|@MagnusCarlsen1507|2037
-#121|@HuxZero|2035
-#122|@EasyWinGG|2032
-#123|@colinbot|2031
+#119|@MagnusCarlsen1507|2037
+#120|@HuxZero|2035
+#121|@EasyWinGG|2032
+#122|@OpeningsBot|2031
+#123|@colinbot|2027
 #124|@Kizbuurb|2024
 #125|@ESC_BOT|2011
 #126|@are_bots_good|2006
@@ -324,7 +324,7 @@ Rank|Bot|Rating
 #322|@ZX-Chess|946
 #323|@BogoBot|945
 #324|@thousandatom|865
-#325|@MinOpponentMoves|863
+#325|@MinOpponentMoves|859
 #326|@bfdzvfsgaergfds|800
 #327|@TheThanosBot|696
 #328|@BetaOneBot|690
