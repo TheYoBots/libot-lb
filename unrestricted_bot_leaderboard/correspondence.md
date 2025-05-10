@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2940
+#1|@fibonachi|2929
 #2|@Grzechu86|2852
 #3|@MaggiChess16|2806
 #4|@Nikitosik-ai|2714
@@ -192,12 +192,12 @@ Rank|Bot|Rating
 #190|@HeckerBot|1770
 #191|@FuneBot|1768
 #192|@starker_bot|1766
-#193|@Johan201023_Twitch|1764
-#194|@bryan_12345|1762
-#195|@LogosEngine|1760
-#196|@Bot413522|1758
-#197|@EDSPBOT|1758
-#198|@Jibbby|1754
+#193|@Jibbby|1765
+#194|@Johan201023_Twitch|1764
+#195|@bryan_12345|1762
+#196|@LogosEngine|1760
+#197|@Bot413522|1758
+#198|@EDSPBOT|1758
 #199|@AngryOfficePanda|1745
 #200|@wardnbot|1744
 #201|@anytimemode|1741

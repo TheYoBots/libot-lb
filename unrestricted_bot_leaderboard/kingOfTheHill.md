@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@Jannik08_fan|993
 #170|@thousandatom|970
 #171|@BogoBot|946
-#172|@MinOpponentMoves|941
+#172|@MinOpponentMoves|940
 #173|@SacrificeBot|934
 #174|@GuineaBot2|884
 #175|@MateCheckCapture|795

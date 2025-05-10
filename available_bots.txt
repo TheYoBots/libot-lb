@@ -424,6 +424,7 @@ botross
 bots8you
 botsaffel
 botsecretbot
+botsfanclub
 botsharpchess
 botshubham
 botshura
@@ -1130,6 +1131,7 @@ guineabot2
 guineabot3
 guineabot3compact
 gun-bot
+gyatsobot
 gymerduybach
 h-zero
 h5h5h5h5
@@ -1202,6 +1204,7 @@ holzerich
 homemade223
 honeyfried
 honggphat2006
+honkufish
 honkurandom
 honzovy-sachy
 honzovy-sachy-2
@@ -1287,6 +1290,7 @@ inteli5bot
 intron014
 intuitive_ai
 invincibot
+invinxibleflxsh
 ios_bot
 ipk_mahaweli
 iplayonlyrandom
@@ -2274,6 +2278,7 @@ sakunia
 salfachessone
 salmonchess9
 salvajuega
+samat2016_bot
 sampuanbot
 samuraix_v1
 samuraix_v2
@@ -2975,8 +2980,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gyatsobot
-invinxibleflxsh
-honkufish
-samat2016_bot
-botsfanclub

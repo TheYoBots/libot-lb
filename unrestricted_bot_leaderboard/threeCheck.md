@@ -172,6 +172,6 @@ Rank|Bot|Rating
 #170|@ZX-Chess|1063
 #171|@GuineaBot3|972
 #172|@BogoBot|928
-#173|@MinOpponentMoves|926
+#173|@MinOpponentMoves|925
 #174|@MateCheckCapture|923
 #175|@TheSystem_Bot|905
