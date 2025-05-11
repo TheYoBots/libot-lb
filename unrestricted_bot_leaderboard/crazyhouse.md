@@ -114,9 +114,9 @@ Rank|Bot|Rating
 #112|@Lili-Variants|1698
 #113|@Lightning_SpeedChess|1696
 #114|@B0T5_RU13|1683
-#115|@OpeningsBot|1669
-#116|@FASTCHESSBOT|1666
-#117|@SipsonsamsonBOT|1665
+#115|@FASTCHESSBOT|1666
+#116|@SipsonsamsonBOT|1665
+#117|@OpeningsBot|1661
 #118|@MistakeBOT|1655
 #119|@Isaacwb_BOT|1640
 #120|@SriLankaChess|1623
@@ -203,4 +203,4 @@ Rank|Bot|Rating
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@TrashBot|800
-#204|@MinOpponentMoves|666
+#204|@MinOpponentMoves|677

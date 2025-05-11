@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
 #157|@Bottios|1223
-#158|@pawnrobot|1215
+#158|@pawnrobot|1217
 #159|@RSVMentor|1196
 #160|@Boom_Bot|1176
 #161|@TrashBot|1168
@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@Jannik08_fan|993
 #170|@thousandatom|970
 #171|@BogoBot|946
-#172|@SacrificeBot|934
-#173|@MinOpponentMoves|928
+#172|@MinOpponentMoves|936
+#173|@SacrificeBot|934
 #174|@GuineaBot2|884
 #175|@MateCheckCapture|795
