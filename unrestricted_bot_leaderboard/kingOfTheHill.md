@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@EmptikVariantsBot|2443
 #6|@Nikitosikbot_v2|2435
 #7|@ElPeonElectrico|2414
-#8|@ToromBot|2393
+#8|@ToromBot|2398
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -51,9 +51,9 @@ Rank|Bot|Rating
 #49|@Xerus_1|2076
 #50|@newengine2022|2071
 #51|@vrnts_colinbot|2068
-#52|@colinbot|2066
-#53|@KingfishX|2066
-#54|@ChessVBOT|2065
+#52|@KingfishX|2066
+#53|@ChessVBOT|2065
+#54|@colinbot|2065
 #55|@NimsiluBot|2058
 #56|@Hyper-Stockfish|2044
 #57|@Kizbuurb|2035
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@Toxic_Bot|1541
 #118|@SXDEFENDER|1534
 #119|@Light_To_The_Rescue|1523
-#120|@DavidsGuterBot|1510
+#120|@DavidsGuterBot|1504
 #121|@Z-Move|1495
 #122|@TFRChessClub|1494
 #123|@hyperchessbot1|1493
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@knight_128|1233
 #156|@MyNameIsSpeedy|1226
 #157|@Bottios|1223
-#158|@pawnrobot|1209
+#158|@pawnrobot|1215
 #159|@RSVMentor|1196
 #160|@Boom_Bot|1176
 #161|@TrashBot|1168
@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@Jannik08_fan|993
 #170|@thousandatom|970
 #171|@BogoBot|946
-#172|@MinOpponentMoves|937
-#173|@SacrificeBot|934
+#172|@SacrificeBot|934
+#173|@MinOpponentMoves|928
 #174|@GuineaBot2|884
 #175|@MateCheckCapture|795

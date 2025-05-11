@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@KizVariant|2529
 #18|@Nikitosikbot_v2|2529
 #19|@SCP079|2526
-#20|@ToromBot|2507
+#20|@ToromBot|2515
 #21|@Fairy-Stockfish|2484
 #22|@ESC_BOT|2476
 #23|@Less_of_a_threat|2469
@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@Nikitosik-ai|2405
 #32|@RaspFish|2401
 #33|@Viet_BOT|2367
-#34|@colinbot|2339
-#35|@Zer0_Tw0|2332
+#34|@Zer0_Tw0|2332
+#35|@colinbot|2324
 #36|@LudwigBOT|2304
 #37|@lord-bot|2300
 #38|@KingfishX|2285
@@ -56,9 +56,9 @@ Rank|Bot|Rating
 #54|@abhisun_bot|2129
 #55|@NienishiEngine|2124
 #56|@AnUtterlyKarBot|2103
-#57|@Dean_Summer_Bot|2086
-#58|@Magnus-BOT|2084
-#59|@Stockfish-MEDIUM|2076
+#57|@Stockfish-MEDIUM|2098
+#58|@Dean_Summer_Bot|2086
+#59|@Magnus-BOT|2084
 #60|@Xerus_1|2070
 #61|@ROBOT_RANDEER2007|2059
 #62|@Official_bot|2041
@@ -70,9 +70,9 @@ Rank|Bot|Rating
 #68|@XXIstCentury|1973
 #69|@mrchessmanager|1963
 #70|@Botzer|1961
-#71|@OpeningsBot|1961
-#72|@Lili-Variants|1955
-#73|@lightspeed_bot|1951
+#71|@Lili-Variants|1955
+#72|@lightspeed_bot|1951
+#73|@OpeningsBot|1943
 #74|@AldoGamer001_Bot|1940
 #75|@pistol-play|1939
 #76|@PROBOT123567|1936
@@ -173,5 +173,5 @@ Rank|Bot|Rating
 #171|@GuineaBot3|972
 #172|@BogoBot|928
 #173|@MateCheckCapture|923
-#174|@MinOpponentMoves|917
+#174|@MinOpponentMoves|913
 #175|@TheSystem_Bot|905

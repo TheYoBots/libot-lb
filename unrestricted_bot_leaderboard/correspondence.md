@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Nikitosik-ai|2714
 #5|@AjedrezChamberi|2710
 #6|@H-Zero|2650
-#7|@Moment-That-Inspires|2600
+#7|@Moment-That-Inspires|2608
 #8|@pawn_git|2589
 #9|@PetersBot|2583
 #10|@Alexnajax_Fan|2549
@@ -379,8 +379,8 @@ Rank|Bot|Rating
 #377|@szuwar8716|1116
 #378|@AXWChessBot|1096
 #379|@StashBot|1075
-#380|@NoQueenBot|1072
-#381|@Light_To_The_Rescue|1057
+#380|@Light_To_The_Rescue|1057
+#381|@NoQueenBot|1036
 #382|@KateFish|1027
 #383|@B4ux1t3s-Bot|998
 #384|@mustaley|973

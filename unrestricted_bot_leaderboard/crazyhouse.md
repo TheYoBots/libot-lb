@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@CloudBOT|2393
 #31|@NienishiEngine|2392
 #32|@EagleEye2021|2365
-#33|@ToromBot|2351
+#33|@ToromBot|2353
 #34|@KingfishX|2347
 #35|@chesshyperbot|2344
 #36|@EmptikBot|2332
@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@FluffBallCuddly|1191
 #185|@heatseeker223|1191
 #186|@ChessPlayer1225|1183
-#187|@pawnrobot|1179
+#187|@pawnrobot|1178
 #188|@Jannik08_fan|1163
 #189|@BSergey11-BOT|1149
 #190|@K_Shi_Bot|1149
@@ -203,4 +203,4 @@ Rank|Bot|Rating
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@TrashBot|800
-#204|@MinOpponentMoves|670
+#204|@MinOpponentMoves|666

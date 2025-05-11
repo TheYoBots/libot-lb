@@ -403,6 +403,7 @@ boteagleeye2021
 botequalizer
 botezlivetwitchchat
 botfat_742063
+botfromt3m
 botgeorge
 botgravity
 bothesap_7420
@@ -2980,4 +2981,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-botfromt3m
