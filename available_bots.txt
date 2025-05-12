@@ -1383,6 +1383,7 @@ kahunabot
 kalabot
 kamikazefighter
 kapablanca_balls
+karimbot
 karl-bot
 karly64
 karpen-b
@@ -1532,6 +1533,7 @@ leelaguess
 leelahatena
 leelainstinct
 leelaisbeautiful
+leelajester
 leelaknightodds
 leelalevel5
 leelamultiposs
@@ -2981,5 +2983,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-leelajester
-karimbot
+mayhempi_cluster
+seabassengine
+lenya228_bot
