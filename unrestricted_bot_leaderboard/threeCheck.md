@@ -87,11 +87,11 @@ Rank|Bot|Rating
 #85|@MagicHacker123|1865
 #86|@Johnsun|1863
 #87|@SriLankaChess|1854
-#88|@chesshyperbot|1846
-#89|@HumanBOT_lv1929|1844
-#90|@szuwar8716|1844
-#91|@B0T5_RU13|1841
-#92|@AldoGamer001_Bot|1837
+#88|@AldoGamer001_Bot|1851
+#89|@chesshyperbot|1846
+#90|@HumanBOT_lv1929|1844
+#91|@szuwar8716|1844
+#92|@B0T5_RU13|1841
 #93|@Pineapple-Friendly|1837
 #94|@CloudBotZero|1818
 #95|@TeamChelsie|1818
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@CoderDen732|1639
 #110|@Botkingteam33|1633
 #111|@jasans_bot|1621
-#112|@DavidsGuterBot|1619
+#112|@DavidsGuterBot|1615
 #113|@newengine2022|1588
 #114|@knight_128|1563
 #115|@Alehkine_cat|1549
@@ -174,5 +174,5 @@ Rank|Bot|Rating
 #172|@GuineaBot3|972
 #173|@BogoBot|928
 #174|@MateCheckCapture|923
-#175|@MinOpponentMoves|912
+#175|@MinOpponentMoves|921
 #176|@TheSystem_Bot|905

@@ -1566,6 +1566,7 @@ legiontower
 leightfrengine
 lelaaz
 lenschess-com
+lenya228_bot
 leojoseph101010
 leorikbot
 leosbot
@@ -1718,6 +1719,7 @@ maxthedog-esp32
 maxwellonlc
 mayan_mex
 mayhem23111
+mayhempi_cluster
 mc-king-098
 mcexpressbot
 mckapran78
@@ -2314,6 +2316,7 @@ scottbot_maia1100
 scp-1875bot
 scp079
 sea_leopard
+seabassengine
 seaborg1
 seechessbot
 seer-dev
@@ -2983,6 +2986,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mayhempi_cluster
-seabassengine
-lenya228_bot

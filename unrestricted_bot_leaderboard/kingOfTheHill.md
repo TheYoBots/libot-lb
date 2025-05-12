@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@TheMatrix2025|2346
 #15|@AndromedaSX1|2344
 #16|@RaspFish|2327
-#17|@Viet-AI|2317
-#18|@Lenya228_BOT|2317
+#17|@Lenya228_BOT|2317
+#18|@Viet-AI|2317
 #19|@Fairy_Belzedar|2316
 #20|@MalanChess|2292
 #21|@Nikitosik-ai|2288
@@ -173,6 +173,6 @@ Rank|Bot|Rating
 #171|@thousandatom|970
 #172|@BogoBot|946
 #173|@SacrificeBot|934
-#174|@MinOpponentMoves|931
+#174|@MinOpponentMoves|929
 #175|@GuineaBot2|884
 #176|@MateCheckCapture|795

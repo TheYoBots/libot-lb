@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PetersBot|2583
 #10|@Alexnajax_Fan|2549
 #11|@SacrificialSage|2519
-#12|@ChamberiAjedrez|2512
+#12|@ChamberiAjedrez|2513
 #13|@peonasesino71|2512
 #14|@ServerFish|2494
 #15|@colinbot|2492
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@Magnus-BOT|2304
 #35|@Xmas_dragon|2300
 #36|@Ujwal1001|2297
-#37|@OpeningsBot|2295
+#37|@OpeningsBot|2296
 #38|@robiachess|2295
 #39|@Quanticade|2286
 #40|@mrohCentaur|2285

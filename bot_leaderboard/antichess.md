@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@colinbot|2681
 #3|@Nakshatra3|2541
 #4|@OpeningsBot|2217
-#5|@anti-bot|2200
+#5|@anti-bot|2214
 #6|@pawnrobot|1890
-#7|@MinOpponentMoves|1002
+#7|@MinOpponentMoves|1000
