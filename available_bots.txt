@@ -2424,6 +2424,7 @@ spideychess0108
 spirit_crusherii
 spiritofthenewyear
 spitfirebot
+spotlightbot
 square-grass
 squared-chess
 sri_pro_player
@@ -2986,4 +2987,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-spotlightbot
+classic_bot-v2
+thewinnerbetter
