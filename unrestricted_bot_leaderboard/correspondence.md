@@ -380,8 +380,8 @@ Rank|Bot|Rating
 #378|@AXWChessBot|1096
 #379|@StashBot|1075
 #380|@Light_To_The_Rescue|1057
-#381|@NoQueenBot|1032
-#382|@KateFish|1027
+#381|@KateFish|1027
+#382|@NoQueenBot|1027
 #383|@B4ux1t3s-Bot|998
 #384|@mustaley|973
 #385|@BerserkRandomMover|963
