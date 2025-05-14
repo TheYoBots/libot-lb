@@ -216,6 +216,7 @@ b0t5_ru13
 b4df1sh
 b4ux1t3s-bot
 babibot
+baby-bot
 baby_eubos
 babyelephantbot
 babyleela
@@ -1275,6 +1276,7 @@ igridzchessbot
 iguana_dev
 ihatecastling
 ilk_turk_bot
+illuminachessengine
 ilovecatgirl
 imitation-net
 immortaldwirz
@@ -2989,5 +2991,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-illuminachessengine
-baby-bot

@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@Dean_Summer_Bot|1898
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
-#87|@colinbot|1889
+#87|@colinbot|1890
 #88|@Galaxy_Guardian|1885
 #89|@The-Fastest-Bot|1885
 #90|@XXIstCentury|1875
@@ -204,4 +204,4 @@ Rank|Bot|Rating
 #202|@RSVMentor|862
 #203|@GuineaBot3|845
 #204|@TrashBot|800
-#205|@MinOpponentMoves|706
+#205|@MinOpponentMoves|705

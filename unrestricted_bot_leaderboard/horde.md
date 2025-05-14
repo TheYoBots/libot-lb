@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@AnUtterlyKarBot|1901
 #53|@azdad|1901
 #54|@newengine2022|1901
-#55|@colinbot|1888
+#55|@colinbot|1899
 #56|@mrchessmanager|1888
 #57|@TheMatrix2029|1884
 #58|@TeamChelsie|1869
@@ -71,12 +71,12 @@ Rank|Bot|Rating
 #69|@Botzer|1772
 #70|@CloudBOT|1758
 #71|@CocopikachuBOT|1757
-#72|@OpeningsBot|1747
-#73|@Heman36541234578|1741
-#74|@Vinh_VariantsBot|1741
-#75|@AndromedaSX1|1740
-#76|@dream_bot|1739
-#77|@YoBot_v1|1739
+#72|@Heman36541234578|1741
+#73|@Vinh_VariantsBot|1741
+#74|@AndromedaSX1|1740
+#75|@dream_bot|1739
+#76|@YoBot_v1|1739
+#77|@OpeningsBot|1738
 #78|@ChessChildren|1730
 #79|@Johnsun|1721
 #80|@Viet-BOT|1720
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@PowerOnBot|1258
 #135|@xDmanBOT|1258
 #136|@yobmef|1258
-#137|@pawnrobot|1254
+#137|@pawnrobot|1253
 #138|@TheSystem_Bot|1218
 #139|@GuineaBot3|1212
 #140|@admin-bot|1209

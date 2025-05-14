@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@Dean_Summer_Bot|2085
 #49|@ibep|2078
 #50|@Xerus_1|2076
-#51|@colinbot|2071
+#51|@colinbot|2075
 #52|@newengine2022|2071
 #53|@vrnts_colinbot|2068
 #54|@KingfishX|2066
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@Resolved-Bot|1942
 #78|@Pineapple-Friendly|1937
 #79|@azdad|1936
-#80|@OpeningsBot|1935
+#80|@OpeningsBot|1931
 #81|@HyperLitikBOT|1930
 #82|@SacrificialSage|1925
 #83|@DrSmartBugs|1904
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@Toxic_Bot|1541
 #119|@SXDEFENDER|1534
 #120|@Light_To_The_Rescue|1523
-#121|@DavidsGuterBot|1518
+#121|@DavidsGuterBot|1522
 #122|@Z-Move|1495
 #123|@TFRChessClub|1494
 #124|@hyperchessbot1|1493
@@ -154,8 +154,8 @@ Rank|Bot|Rating
 #152|@jasans_bot|1268
 #153|@ChessChipBot|1258
 #154|@Hrant_Petrosyan_BOT|1258
-#155|@pawnrobot|1246
-#156|@HiddeNL|1242
+#155|@HiddeNL|1242
+#156|@pawnrobot|1242
 #157|@knight_128|1233
 #158|@MyNameIsSpeedy|1226
 #159|@Bottios|1223
