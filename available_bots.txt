@@ -631,6 +631,7 @@ christophercolomb
 chunguszero
 cinder-bot
 cizme
+classic_bot-v2
 cleobot
 cleoengine
 clompdev
@@ -2661,6 +2662,7 @@ thethanosbot
 theultimatechzb
 theunrestrictedgod
 theweakestbot
+thewinnerbetter
 theyobots
 thibot
 thicc_gopher
@@ -2987,5 +2989,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-classic_bot-v2
-thewinnerbetter
+illuminachessengine
+baby-bot

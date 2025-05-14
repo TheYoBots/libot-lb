@@ -1,7 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2743
-#2|@colinbot|1882
-#3|@OpeningsBot|1752
-#4|@pawnrobot|1254
-#5|@MinOpponentMoves|987
+#1|@colinbot|1888
+#2|@OpeningsBot|1747
+#3|@pawnrobot|1254
+#4|@MinOpponentMoves|987

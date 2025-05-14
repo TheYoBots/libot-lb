@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@RaspFish|2401
 #33|@Lenya228_BOT|2387
 #34|@Viet_BOT|2367
-#35|@colinbot|2333
+#35|@colinbot|2339
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
@@ -57,9 +57,9 @@ Rank|Bot|Rating
 #55|@abhisun_bot|2129
 #56|@NienishiEngine|2124
 #57|@AnUtterlyKarBot|2103
-#58|@Stockfish-MEDIUM|2093
-#59|@Dean_Summer_Bot|2086
-#60|@Magnus-BOT|2084
+#58|@Dean_Summer_Bot|2086
+#59|@Magnus-BOT|2084
+#60|@Stockfish-MEDIUM|2083
 #61|@Xerus_1|2070
 #62|@ROBOT_RANDEER2007|2059
 #63|@Official_bot|2041
@@ -174,5 +174,5 @@ Rank|Bot|Rating
 #172|@GuineaBot3|972
 #173|@BogoBot|928
 #174|@MateCheckCapture|923
-#175|@TheSystem_Bot|905
-#176|@MinOpponentMoves|892
+#175|@MinOpponentMoves|909
+#176|@TheSystem_Bot|905

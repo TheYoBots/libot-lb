@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2929
+#1|@fibonachi|2930
 #2|@Grzechu86|2852
 #3|@MaggiChess16|2806
 #4|@Nikitosik-ai|2714
@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@NormalBulletBot|2172
 #65|@Apotheosis_Bot|2170
 #66|@Humanoid_2200|2168
-#67|@Humanoid_1800|2158
+#67|@Humanoid_1800|2162
 #68|@mrohBOT|2158
 #69|@dbce|2156
 #70|@WennDieSoldatBOT|2156
