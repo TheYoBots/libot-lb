@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@ChessVBOT|2430
 #31|@NimsiluBot|2422
 #32|@Nikitosik-ai|2405
-#33|@RaspFish|2401
+#33|@RaspFish|2402
 #34|@Lenya228_BOT|2387
 #35|@Viet_BOT|2367
 #36|@colinbot|2340
@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@Lila-Stockfish|1917
 #79|@SkyBlaster|1913
 #80|@HyperLitikBOT|1908
-#81|@OpeningsBot|1903
+#81|@OpeningsBot|1908
 #82|@PowerOnBot|1894
 #83|@CloudBOT|1892
 #84|@BetaZ|1889
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@DavidsGuterBot|1612
+#113|@DavidsGuterBot|1606
 #114|@newengine2022|1588
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
@@ -151,14 +151,14 @@ Rank|Bot|Rating
 #149|@allvariants|1310
 #150|@NoTallkOnlyGames|1293
 #151|@Light_To_The_Rescue|1277
-#152|@pawnrobot|1273
-#153|@Sanjana_Kambala-BOT|1273
-#154|@TheLegendaryKnight|1272
-#155|@EstmileBot|1269
-#156|@Parth_Dhage_2|1258
-#157|@MyNameIsWhatLOL|1256
-#158|@SneakyBot21|1256
-#159|@TORTADEMANZANA023|1233
+#152|@Sanjana_Kambala-BOT|1273
+#153|@TheLegendaryKnight|1272
+#154|@EstmileBot|1269
+#155|@Parth_Dhage_2|1258
+#156|@MyNameIsWhatLOL|1256
+#157|@SneakyBot21|1256
+#158|@TORTADEMANZANA023|1233
+#159|@pawnrobot|1216
 #160|@heatseeker223|1191
 #161|@admin-bot|1188
 #162|@Ujwal1001|1179
@@ -176,4 +176,4 @@ Rank|Bot|Rating
 #174|@BogoBot|928
 #175|@MateCheckCapture|923
 #176|@TheSystem_Bot|905
-#177|@MinOpponentMoves|873
+#177|@MinOpponentMoves|889

@@ -154,8 +154,8 @@ Rank|Bot|Rating
 #152|@jasans_bot|1268
 #153|@ChessChipBot|1258
 #154|@Hrant_Petrosyan_BOT|1258
-#155|@HiddeNL|1242
-#156|@pawnrobot|1242
+#155|@pawnrobot|1258
+#156|@HiddeNL|1242
 #157|@knight_128|1233
 #158|@MyNameIsSpeedy|1226
 #159|@Bottios|1223
@@ -173,6 +173,6 @@ Rank|Bot|Rating
 #171|@thousandatom|970
 #172|@BogoBot|946
 #173|@SacrificeBot|934
-#174|@MinOpponentMoves|923
+#174|@MinOpponentMoves|921
 #175|@GuineaBot2|884
 #176|@MateCheckCapture|795

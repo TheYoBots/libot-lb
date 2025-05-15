@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@Lenya228_BOT|2685
 #4|@AlfaBot|2674
 #5|@EmptikVariantsBot|2671
-#6|@ToromBot|2642
-#7|@Fairy_Belzedar|2628
+#6|@Fairy_Belzedar|2628
+#7|@ToromBot|2628
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
 #10|@Nikitosik-ai|2592
@@ -27,10 +27,10 @@ Rank|Bot|Rating
 #25|@NormalBulletBot|2474
 #26|@LoseisnotAvailablehe|2466
 #27|@PepsiForAll|2448
-#28|@ChessVBOT|2411
-#29|@Fairy-Stockfish|2402
-#30|@abhisun_bot|2384
-#31|@InvinxibleFlxsh|2370
+#28|@InvinxibleFlxsh|2419
+#29|@ChessVBOT|2411
+#30|@Fairy-Stockfish|2402
+#31|@abhisun_bot|2384
 #32|@KingfishX|2369
 #33|@mrchessmanager|2369
 #34|@Resolved-Bot|2363
@@ -110,7 +110,7 @@ Rank|Bot|Rating
 #108|@SugarAndSpice|2102
 #109|@Botzer|2097
 #110|@Sharkbot|2095
-#111|@OpeningsBot|2092
+#111|@OpeningsBot|2088
 #112|@DrSmartBugs|2077
 #113|@Einstein_NNUE|2072
 #114|@Dark_evil_bot|2071
@@ -326,7 +326,7 @@ Rank|Bot|Rating
 #324|@ZX-Chess|946
 #325|@BogoBot|945
 #326|@thousandatom|865
-#327|@MinOpponentMoves|854
+#327|@MinOpponentMoves|847
 #328|@bfdzvfsgaergfds|800
 #329|@TheThanosBot|696
 #330|@BetaOneBot|690
