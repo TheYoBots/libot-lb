@@ -565,6 +565,7 @@ chess-freelancer
 chess-otter
 chess-trainer2424
 chess1000bot
+chess3bot
 chess_bot-child
 chess_inator_bot
 chess_is_wide
@@ -2991,4 +2992,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chess3bot
+gkr_b0t

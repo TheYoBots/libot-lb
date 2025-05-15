@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@The-Fastest-Bot|2402
 #39|@lightspeed_bot|2396
 #40|@thibot|2393
-#41|@colinbot|2375
+#41|@colinbot|2381
 #42|@Jussicas|2373
 #43|@TheMatrix2025|2368
 #44|@Lili-Variants|2357
@@ -77,7 +77,7 @@ Rank|Bot|Rating
 #75|@Johnsun|2181
 #76|@HuxZero|2176
 #77|@AnUtterlyKarBot|2174
-#78|@OpeningsBot|2150
+#78|@OpeningsBot|2145
 #79|@knight_128|2144
 #80|@Kizburb|2126
 #81|@mc-king-098|2124
@@ -185,4 +185,4 @@ Rank|Bot|Rating
 #183|@MateCheckCapture|1011
 #184|@littlesamsun|996
 #185|@ZX-Chess|982
-#186|@MinOpponentMoves|618
+#186|@MinOpponentMoves|617

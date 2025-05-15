@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@Lenya228_BOT|2685
 #4|@AlfaBot|2674
 #5|@EmptikVariantsBot|2671
-#6|@Fairy_Belzedar|2628
-#7|@ToromBot|2628
+#6|@ToromBot|2632
+#7|@Fairy_Belzedar|2628
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
 #10|@Nikitosik-ai|2592
@@ -27,8 +27,8 @@ Rank|Bot|Rating
 #25|@NormalBulletBot|2474
 #26|@LoseisnotAvailablehe|2466
 #27|@PepsiForAll|2448
-#28|@InvinxibleFlxsh|2419
-#29|@ChessVBOT|2411
+#28|@ChessVBOT|2411
+#29|@InvinxibleFlxsh|2406
 #30|@Fairy-Stockfish|2402
 #31|@abhisun_bot|2384
 #32|@KingfishX|2369
@@ -40,9 +40,9 @@ Rank|Bot|Rating
 #38|@lord-bot|2349
 #39|@Viet-BOT|2349
 #40|@NormalBlitzBulletBot|2347
-#41|@HyperLitikBOT|2341
-#42|@LudwigBOT|2339
-#43|@Stockfish-MEDIUM|2338
+#41|@Stockfish-MEDIUM|2347
+#42|@HyperLitikBOT|2341
+#43|@LudwigBOT|2339
 #44|@newengine2022|2337
 #45|@NotNateBot|2336
 #46|@The-Fastest-Bot|2314
@@ -110,10 +110,10 @@ Rank|Bot|Rating
 #108|@SugarAndSpice|2102
 #109|@Botzer|2097
 #110|@Sharkbot|2095
-#111|@OpeningsBot|2088
-#112|@DrSmartBugs|2077
-#113|@Einstein_NNUE|2072
-#114|@Dark_evil_bot|2071
+#111|@DrSmartBugs|2077
+#112|@Einstein_NNUE|2072
+#113|@Dark_evil_bot|2071
+#114|@OpeningsBot|2070
 #115|@Karpov_bot|2069
 #116|@alvinl22_LBot|2068
 #117|@Simpafteur|2062
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@XXIstCentury|2061
 #120|@azdad|2047
 #121|@Less_of_a_threat|2047
-#122|@colinbot|2040
+#122|@colinbot|2038
 #123|@MagnusCarlsen1507|2037
 #124|@HuxZero|2035
 #125|@EasyWinGG|2032
@@ -271,7 +271,7 @@ Rank|Bot|Rating
 #269|@shakboy9824453231op|1420
 #270|@bunny_2021|1413
 #271|@TTC-BOT_2|1410
-#272|@pawnrobot|1406
+#272|@pawnrobot|1405
 #273|@Butzke_BOT|1401
 #274|@MartianBot|1386
 #275|@Trumpfor2O2O|1386
@@ -326,7 +326,7 @@ Rank|Bot|Rating
 #324|@ZX-Chess|946
 #325|@BogoBot|945
 #326|@thousandatom|865
-#327|@MinOpponentMoves|847
+#327|@MinOpponentMoves|831
 #328|@bfdzvfsgaergfds|800
 #329|@TheThanosBot|696
 #330|@BetaOneBot|690
