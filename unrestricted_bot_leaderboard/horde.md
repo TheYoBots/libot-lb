@@ -4,14 +4,14 @@ Rank|Bot|Rating
 #2|@Viet-AI|2915
 #3|@NimsiluBot|2901
 #4|@Fairy_Belzedar|2857
-#5|@Nikitosikbot_v2|2822
+#5|@Nikitosikbot_v2|2827
 #6|@Coolman2021|2757
 #7|@ToromBot|2739
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
-#12|@RaspFish|2479
+#12|@RaspFish|2472
 #13|@EmptikVariantsBot|2402
 #14|@EmptikBot|2378
 #15|@LoseisnotAvailablehe|2369
@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@AnUtterlyKarBot|1901
 #53|@azdad|1901
 #54|@newengine2022|1901
-#55|@colinbot|1890
+#55|@colinbot|1891
 #56|@mrchessmanager|1888
 #57|@TheMatrix2029|1884
 #58|@TeamChelsie|1869
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@PowerOnBot|1258
 #136|@xDmanBOT|1258
 #137|@yobmef|1258
-#138|@pawnrobot|1251
+#138|@pawnrobot|1250
 #139|@TheSystem_Bot|1218
 #140|@GuineaBot3|1212
 #141|@admin-bot|1209
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@alvin-chess-bot|1091
 #149|@FireTorchV2|1068
 #150|@Alexnajax_Fan|1066
-#151|@MinOpponentMoves|975
+#151|@MinOpponentMoves|972
 #152|@MateCheckCapture|885
 #153|@GuineaBot2|851
 #154|@Ramses-Chess|800

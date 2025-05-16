@@ -69,9 +69,9 @@ Rank|Bot|Rating
 #67|@mrohBOT|2158
 #68|@dbce|2156
 #69|@WennDieSoldatBOT|2156
-#70|@david9426_bot|2153
-#71|@Vetinari_Computer|2152
-#72|@Humanoid_1800|2150
+#70|@Humanoid_1800|2154
+#71|@david9426_bot|2153
+#72|@Vetinari_Computer|2152
 #73|@mrchessmanager|2143
 #74|@Official_bot|2140
 #75|@corr_sunfish|2138

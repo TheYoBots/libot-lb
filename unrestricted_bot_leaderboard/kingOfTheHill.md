@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@KizVariant|2521
 #4|@Fairy-Stockfish|2486
 #5|@EmptikVariantsBot|2443
-#6|@Nikitosikbot_v2|2435
+#6|@Nikitosikbot_v2|2431
 #7|@ElPeonElectrico|2414
 #8|@ToromBot|2401
 #9|@Peaceful4Life|2390
@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@HuxZero|2163
 #36|@Mega_BOT|2148
 #37|@AI69|2143
-#38|@Stockfish-MEDIUM|2140
-#39|@RobotTigerSlav|2136
+#38|@RobotTigerSlav|2136
+#39|@Stockfish-MEDIUM|2133
 #40|@pistol-play|2121
 #41|@firstrobot|2114
 #42|@NormalBulletBot|2109
@@ -119,8 +119,8 @@ Rank|Bot|Rating
 #117|@Ramses-Chess|1547
 #118|@Toxic_Bot|1541
 #119|@SXDEFENDER|1534
-#120|@DavidsGuterBot|1525
-#121|@Light_To_The_Rescue|1523
+#120|@Light_To_The_Rescue|1523
+#121|@DavidsGuterBot|1518
 #122|@Z-Move|1495
 #123|@TFRChessClub|1494
 #124|@hyperchessbot1|1493
@@ -152,9 +152,9 @@ Rank|Bot|Rating
 #150|@Challengeme2anything|1307
 #151|@NoTallkOnlyGames|1291
 #152|@jasans_bot|1268
-#153|@ChessChipBot|1258
-#154|@Hrant_Petrosyan_BOT|1258
-#155|@pawnrobot|1254
+#153|@pawnrobot|1260
+#154|@ChessChipBot|1258
+#155|@Hrant_Petrosyan_BOT|1258
 #156|@HiddeNL|1242
 #157|@knight_128|1233
 #158|@MyNameIsSpeedy|1226
@@ -173,6 +173,6 @@ Rank|Bot|Rating
 #171|@thousandatom|970
 #172|@BogoBot|946
 #173|@SacrificeBot|934
-#174|@MinOpponentMoves|907
+#174|@MinOpponentMoves|905
 #175|@GuineaBot2|884
 #176|@MateCheckCapture|795

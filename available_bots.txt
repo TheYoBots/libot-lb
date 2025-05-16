@@ -2678,6 +2678,7 @@ thonny_bot
 thousandatom
 threeisthree
 thuban_official
+thunfisch-bot
 ticktocc
 tigerengine
 tigrament
@@ -2993,4 +2994,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-thunfisch-bot
+nucleargandhibot

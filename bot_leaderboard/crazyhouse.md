@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@OpeningsBot|1668
 #4|@pawnrobot|1177
 #5|@MateCheckCapture|828
-#6|@MinOpponentMoves|736
+#6|@MinOpponentMoves|745
