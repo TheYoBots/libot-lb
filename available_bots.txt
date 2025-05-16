@@ -1086,6 +1086,7 @@ gilgameshthebot
 gilk260
 giphy_logo
 giuliaai
+gkr_b0t
 gladius_bot
 gnu4u
 goblinbot
@@ -2992,4 +2993,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gkr_b0t
+thunfisch-bot
