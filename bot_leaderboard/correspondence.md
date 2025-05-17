@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2318
+#1|@OpeningsBot|2308
 #2|@Humanoid_1800|2154

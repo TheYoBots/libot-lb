@@ -1937,6 +1937,7 @@ notnatebot
 notropis
 novagcc
 nowinforyoukid
+nucleargandhibot
 nukechess-bot
 number_one1
 nuttchess_bot
@@ -2994,4 +2995,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nucleargandhibot
+rookrusty
+hysharp
+andobot-junior

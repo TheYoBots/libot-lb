@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@PowerOnBot|1258
 #136|@xDmanBOT|1258
 #137|@yobmef|1258
-#138|@pawnrobot|1250
+#138|@pawnrobot|1244
 #139|@TheSystem_Bot|1218
 #140|@GuineaBot3|1212
 #141|@admin-bot|1209
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@alvin-chess-bot|1091
 #149|@FireTorchV2|1068
 #150|@Alexnajax_Fan|1066
-#151|@MinOpponentMoves|972
+#151|@MinOpponentMoves|968
 #152|@MateCheckCapture|885
 #153|@GuineaBot2|851
 #154|@Ramses-Chess|800
