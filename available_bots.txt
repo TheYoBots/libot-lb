@@ -112,6 +112,7 @@ anarchychess-bot
 anatalio
 ancil
 andobot
+andobot-junior
 andrewk2k_bot
 andrewyxzbot
 andromedasx1
@@ -1253,6 +1254,7 @@ hyperchessbot1
 hyperlitikbot
 hyperopic
 hyperphoenix21
+hysharp
 i3_1115g4
 i3_5005u
 i7_stockfish
@@ -2251,6 +2253,7 @@ romobot
 ronaldduckbot
 ronideniz
 rookierobot
+rookrusty
 rootengine
 rosybot
 roundmoundofrebounds
@@ -2995,6 +2998,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-rookrusty
-hysharp
-andobot-junior
+goldfinger-bot

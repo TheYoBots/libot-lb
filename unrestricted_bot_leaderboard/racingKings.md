@@ -3,10 +3,10 @@ Rank|Bot|Rating
 #1|@ttBOT|2716
 #2|@VariantsBot|2703
 #3|@Nikitosik-ai|2698
-#4|@Lenya228_BOT|2620
-#5|@SkyBlaster|2603
-#6|@Viet-AI|2600
-#7|@lord-bot|2581
+#4|@SkyBlaster|2603
+#5|@Viet-AI|2600
+#6|@lord-bot|2581
+#7|@Lenya228_BOT|2573
 #8|@Fairy_Belzedar|2559
 #9|@ToromBot|2558
 #10|@EmptikVariantsBot|2557
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@The-Fastest-Bot|2402
 #39|@lightspeed_bot|2396
 #40|@thibot|2393
-#41|@colinbot|2377
+#41|@colinbot|2380
 #42|@Jussicas|2373
 #43|@TheMatrix2025|2368
 #44|@Lili-Variants|2357
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@HuxZero|2176
 #78|@AnUtterlyKarBot|2174
 #79|@knight_128|2144
-#80|@OpeningsBot|2143
+#80|@OpeningsBot|2136
 #81|@Kizburb|2126
 #82|@mc-king-098|2124
 #83|@xiang-qi|2113

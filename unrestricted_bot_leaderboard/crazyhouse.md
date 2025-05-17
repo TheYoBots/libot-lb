@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@chessbot2880|1932
 #82|@AndromedaSX1|1919
 #83|@PetersBot|1911
-#84|@colinbot|1898
+#84|@colinbot|1899
 #85|@Dean_Summer_Bot|1898
 #86|@vrnts_colinbot|1897
 #87|@azdad|1895
@@ -204,4 +204,4 @@ Rank|Bot|Rating
 #202|@GuineaBot3|845
 #203|@MateCheckCapture|828
 #204|@TrashBot|800
-#205|@MinOpponentMoves|756
+#205|@MinOpponentMoves|750
