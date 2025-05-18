@@ -1099,6 +1099,7 @@ goethebot
 golden_swod
 goldenrarebot
 goldensphere
+goldfinger-bot
 goldfish-engine
 gonzobot
 good-game-123
@@ -2998,4 +2999,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-goldfinger-bot
+garntbot
+vvrr

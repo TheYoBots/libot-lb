@@ -54,10 +54,10 @@ Rank|Bot|Rating
 #52|@AnUtterlyKarBot|1901
 #53|@azdad|1901
 #54|@newengine2022|1901
-#55|@colinbot|1891
-#56|@mrchessmanager|1888
-#57|@TheMatrix2029|1884
-#58|@TeamChelsie|1869
+#55|@mrchessmanager|1888
+#56|@TheMatrix2029|1884
+#57|@TeamChelsie|1869
+#58|@colinbot|1867
 #59|@B0T5_RU13|1852
 #60|@Lili-Variants|1846
 #61|@SacrificialSage|1815
@@ -69,9 +69,9 @@ Rank|Bot|Rating
 #67|@XXXTryandTryXXX|1781
 #68|@NormalBulletBot|1774
 #69|@Botzer|1772
-#70|@CloudBOT|1758
-#71|@CocopikachuBOT|1757
-#72|@OpeningsBot|1749
+#70|@OpeningsBot|1772
+#71|@CloudBOT|1758
+#72|@CocopikachuBOT|1757
 #73|@Heman36541234578|1741
 #74|@Vinh_VariantsBot|1741
 #75|@AndromedaSX1|1740
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@alvin-chess-bot|1091
 #149|@FireTorchV2|1068
 #150|@Alexnajax_Fan|1066
-#151|@MinOpponentMoves|970
+#151|@MinOpponentMoves|962
 #152|@MateCheckCapture|885
 #153|@GuineaBot2|851
 #154|@Ramses-Chess|800

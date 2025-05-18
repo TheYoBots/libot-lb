@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@buffFishNet|2692
 #26|@LoseisnotAvailablehe|2677
 #27|@AntichessAnalyzer|2673
-#28|@colinbot|2670
+#28|@colinbot|2672
 #29|@SCP079|2662
 #30|@Lenya228_BOT|2661
 #31|@MalanChess|2638
@@ -102,11 +102,11 @@ Rank|Bot|Rating
 #100|@Dean_Summer_Bot|2279
 #101|@Johnsun|2269
 #102|@SkyBlaster|2254
-#103|@anti-bot|2243
-#104|@mrchessmanager|2240
-#105|@TurkiyeHogwarts|2240
-#106|@EagleEye2021|2235
-#107|@chesshyperbot|2234
+#103|@mrchessmanager|2240
+#104|@TurkiyeHogwarts|2240
+#105|@EagleEye2021|2235
+#106|@chesshyperbot|2234
+#107|@anti-bot|2233
 #108|@Hyper-Stockfish|2230
 #109|@CocopikachuBOT|2226
 #110|@TungJohn|2225
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@EstmileBot|2200
 #120|@HerokuHasnotplay|2196
 #121|@Lucror|2178
-#122|@OpeningsBot|2174
+#122|@OpeningsBot|2178
 #123|@lightspeed_bot|2152
 #124|@AntiChessBot|2142
 #125|@AnUtterlyKarBot|2134
@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@Menganti|1963
 #140|@CloudBOT|1950
 #141|@SriLankaChess|1925
-#142|@pawnrobot|1904
+#142|@pawnrobot|1900
 #143|@Crepusculum|1881
 #144|@NoTallkOnlyGames|1871
 #145|@Lumac0|1861
@@ -269,7 +269,7 @@ Rank|Bot|Rating
 #267|@DespacitoBot|1175
 #268|@BogoBot|1155
 #269|@thousandatom|1146
-#270|@MinOpponentMoves|1120
+#270|@MinOpponentMoves|1115
 #271|@Green_Tea_Ice_Cream|1107
 #272|@Md211bot|1107
 #273|@The_dragon_bot|1076

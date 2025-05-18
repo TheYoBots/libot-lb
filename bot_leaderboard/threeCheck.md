@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2383
-#2|@colinbot|2349
+#1|@RaspFish|2393
+#2|@colinbot|2343
 #3|@Stockfish-MEDIUM|2073
 #4|@OpeningsBot|1907
 #5|@DavidsGuterBot|1606
 #6|@pawnrobot|1216
-#7|@MinOpponentMoves|899
+#7|@MinOpponentMoves|898
