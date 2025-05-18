@@ -1059,6 +1059,7 @@ gapple_2
 gapple_classical
 garamdharam
 garbobot
+garntbot
 gbcb
 gc1bot
 gecko_bot
@@ -2852,6 +2853,7 @@ votechess
 votemymove
 vpbot
 vrnts_colinbot
+vvrr
 vvv0rtex_bot
 w1z4rd_b0t
 w_a_l_d_e_m_a_r
@@ -2999,5 +3001,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-garntbot
-vvrr
+tnt_crecerbot
+nerubatskyi_daniil_v

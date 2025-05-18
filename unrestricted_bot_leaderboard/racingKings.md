@@ -3,15 +3,15 @@ Rank|Bot|Rating
 #1|@ttBOT|2716
 #2|@VariantsBot|2703
 #3|@Nikitosik-ai|2698
-#4|@Lenya228_BOT|2607
-#5|@SkyBlaster|2603
-#6|@Viet-AI|2600
-#7|@lord-bot|2581
+#4|@SkyBlaster|2603
+#5|@Viet-AI|2600
+#6|@lord-bot|2581
+#7|@Lenya228_BOT|2572
 #8|@Fairy_Belzedar|2559
 #9|@ToromBot|2558
 #10|@EmptikVariantsBot|2557
-#11|@InvinxibleFlxsh|2552
-#12|@RaspFish|2548
+#11|@RaspFish|2553
+#12|@InvinxibleFlxsh|2552
 #13|@FireFishBOT|2547
 #14|@LudwigBOT|2536
 #15|@ChessVBOT|2531
@@ -186,4 +186,4 @@ Rank|Bot|Rating
 #184|@MateCheckCapture|1011
 #185|@littlesamsun|996
 #186|@ZX-Chess|982
-#187|@MinOpponentMoves|624
+#187|@MinOpponentMoves|623

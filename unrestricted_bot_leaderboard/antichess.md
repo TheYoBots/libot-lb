@@ -269,7 +269,7 @@ Rank|Bot|Rating
 #267|@DespacitoBot|1175
 #268|@BogoBot|1155
 #269|@thousandatom|1146
-#270|@MinOpponentMoves|1115
+#270|@MinOpponentMoves|1108
 #271|@Green_Tea_Ice_Cream|1107
 #272|@Md211bot|1107
 #273|@The_dragon_bot|1076
