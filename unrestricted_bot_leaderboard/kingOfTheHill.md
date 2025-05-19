@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Jussicas|2086
 #47|@Kizburb|2086
 #48|@Dean_Summer_Bot|2085
-#49|@colinbot|2081
+#49|@colinbot|2082
 #50|@ibep|2078
 #51|@Xerus_1|2076
 #52|@newengine2022|2071
@@ -118,8 +118,8 @@ Rank|Bot|Rating
 #116|@Epiano_Bot|1567
 #117|@Ramses-Chess|1547
 #118|@Toxic_Bot|1541
-#119|@SXDEFENDER|1534
-#120|@DavidsGuterBot|1525
+#119|@DavidsGuterBot|1534
+#120|@SXDEFENDER|1534
 #121|@Light_To_The_Rescue|1523
 #122|@Z-Move|1495
 #123|@TFRChessClub|1494
@@ -152,9 +152,9 @@ Rank|Bot|Rating
 #150|@Challengeme2anything|1307
 #151|@NoTallkOnlyGames|1291
 #152|@jasans_bot|1268
-#153|@pawnrobot|1262
-#154|@ChessChipBot|1258
-#155|@Hrant_Petrosyan_BOT|1258
+#153|@ChessChipBot|1258
+#154|@Hrant_Petrosyan_BOT|1258
+#155|@pawnrobot|1254
 #156|@HiddeNL|1242
 #157|@knight_128|1233
 #158|@MyNameIsSpeedy|1226
@@ -173,6 +173,6 @@ Rank|Bot|Rating
 #171|@thousandatom|970
 #172|@BogoBot|946
 #173|@SacrificeBot|934
-#174|@GuineaBot2|884
-#175|@MinOpponentMoves|875
+#174|@MinOpponentMoves|891
+#175|@GuineaBot2|884
 #176|@MateCheckCapture|795

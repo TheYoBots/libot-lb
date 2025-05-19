@@ -74,9 +74,9 @@ Rank|Bot|Rating
 #72|@Less_of_a_threat|2025
 #73|@Magnus-BOT|1986
 #74|@PyChessBot|1978
-#75|@ESC_BOT|1966
-#76|@mrchessmanager|1962
-#77|@Stockfish-MEDIUM|1951
+#75|@Stockfish-MEDIUM|1969
+#76|@ESC_BOT|1966
+#77|@mrchessmanager|1962
 #78|@Hyper-Stockfish|1947
 #79|@PolyBOT|1945
 #80|@bananaaaaaaaaa_test|1942
@@ -86,9 +86,9 @@ Rank|Bot|Rating
 #84|@Dean_Summer_Bot|1898
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
-#87|@colinbot|1888
-#88|@Galaxy_Guardian|1885
-#89|@The-Fastest-Bot|1885
+#87|@Galaxy_Guardian|1885
+#88|@The-Fastest-Bot|1885
+#89|@colinbot|1877
 #90|@XXIstCentury|1875
 #91|@ChessBot3021|1872
 #92|@CocopikachuBOT|1868
@@ -205,4 +205,4 @@ Rank|Bot|Rating
 #203|@GuineaBot3|845
 #204|@MateCheckCapture|828
 #205|@TrashBot|800
-#206|@MinOpponentMoves|767
+#206|@MinOpponentMoves|765

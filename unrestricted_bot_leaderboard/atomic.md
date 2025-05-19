@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@mrchessmanager|2369
 #34|@Resolved-Bot|2363
 #35|@CloudBot_v2|2357
-#36|@faith_bot|2353
-#37|@Stockfish-MEDIUM|2353
+#36|@Stockfish-MEDIUM|2356
+#37|@faith_bot|2353
 #38|@Lila-Stockfish|2350
 #39|@lord-bot|2349
 #40|@Viet-BOT|2349
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@XXIstCentury|2061
 #120|@azdad|2047
 #121|@Less_of_a_threat|2047
-#122|@colinbot|2041
+#122|@colinbot|2039
 #123|@MagnusCarlsen1507|2037
 #124|@HuxZero|2035
 #125|@EasyWinGG|2032
@@ -272,7 +272,7 @@ Rank|Bot|Rating
 #270|@shakboy9824453231op|1420
 #271|@bunny_2021|1413
 #272|@TTC-BOT_2|1410
-#273|@pawnrobot|1405
+#273|@pawnrobot|1406
 #274|@Butzke_BOT|1401
 #275|@MartianBot|1386
 #276|@Trumpfor2O2O|1386
@@ -328,7 +328,7 @@ Rank|Bot|Rating
 #326|@ZX-Chess|946
 #327|@BogoBot|945
 #328|@thousandatom|865
-#329|@MinOpponentMoves|827
+#329|@MinOpponentMoves|826
 #330|@bfdzvfsgaergfds|800
 #331|@TheThanosBot|696
 #332|@BetaOneBot|690

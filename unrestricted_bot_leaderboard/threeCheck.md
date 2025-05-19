@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@InvinxibleFlxsh|2535
 #19|@KizVariant|2529
 #20|@SCP079|2526
-#21|@ToromBot|2493
-#22|@Fairy-Stockfish|2484
-#23|@ESC_BOT|2476
+#21|@Fairy-Stockfish|2484
+#22|@ESC_BOT|2476
+#23|@ToromBot|2473
 #24|@Less_of_a_threat|2469
 #25|@NormalBlitzBulletBot|2463
 #26|@ttBOT|2461
@@ -32,10 +32,10 @@ Rank|Bot|Rating
 #30|@ChessVBOT|2430
 #31|@NimsiluBot|2422
 #32|@Nikitosik-ai|2405
-#33|@RaspFish|2393
+#33|@RaspFish|2390
 #34|@Lenya228_BOT|2372
 #35|@Viet_BOT|2367
-#36|@colinbot|2343
+#36|@colinbot|2354
 #37|@Zer0_Tw0|2332
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@DavidsGuterBot|1606
+#113|@DavidsGuterBot|1605
 #114|@newengine2022|1588
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
@@ -175,5 +175,5 @@ Rank|Bot|Rating
 #173|@GuineaBot3|972
 #174|@BogoBot|928
 #175|@MateCheckCapture|923
-#176|@MinOpponentMoves|915
+#176|@MinOpponentMoves|920
 #177|@TheSystem_Bot|905
