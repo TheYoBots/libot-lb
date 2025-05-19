@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@MyNameIsWhatLOL|1256
 #157|@SneakyBot21|1256
 #158|@TORTADEMANZANA023|1233
-#159|@pawnrobot|1216
+#159|@pawnrobot|1218
 #160|@heatseeker223|1191
 #161|@admin-bot|1188
 #162|@Ujwal1001|1179
@@ -175,5 +175,5 @@ Rank|Bot|Rating
 #173|@GuineaBot3|972
 #174|@BogoBot|928
 #175|@MateCheckCapture|923
-#176|@TheSystem_Bot|905
-#177|@MinOpponentMoves|894
+#176|@MinOpponentMoves|915
+#177|@TheSystem_Bot|905

@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@PyChessBot|1978
 #75|@ESC_BOT|1966
 #76|@mrchessmanager|1962
-#77|@Stockfish-MEDIUM|1948
+#77|@Stockfish-MEDIUM|1951
 #78|@Hyper-Stockfish|1947
 #79|@PolyBOT|1945
 #80|@bananaaaaaaaaa_test|1942
@@ -205,4 +205,4 @@ Rank|Bot|Rating
 #203|@GuineaBot3|845
 #204|@MateCheckCapture|828
 #205|@TrashBot|800
-#206|@MinOpponentMoves|756
+#206|@MinOpponentMoves|767

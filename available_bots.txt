@@ -1871,6 +1871,7 @@ nemesisbot
 nemorinobot
 neohuman
 neonciv
+nerubatskyi_daniil_v
 neuralabyss
 neuralactivity
 neuralknight1500
@@ -2697,6 +2698,7 @@ tjchessbot
 tkgue
 tle-of-water
 tmfish
+tnt_crecerbot
 tobegen
 tokenstealer
 toluene1140
@@ -3001,5 +3003,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-tnt_crecerbot
-nerubatskyi_daniil_v

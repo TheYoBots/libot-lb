@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@ToromBot|2941
 #3|@colinbot|2672
 #4|@Nakshatra3|2548
-#5|@anti-bot|2233
+#5|@anti-bot|2216
 #6|@OpeningsBot|2178
 #7|@pawnrobot|1900
 #8|@MinOpponentMoves|1108

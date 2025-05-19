@@ -5,5 +5,5 @@ Rank|Bot|Rating
 #3|@Stockfish-MEDIUM|2073
 #4|@OpeningsBot|1907
 #5|@DavidsGuterBot|1606
-#6|@pawnrobot|1216
-#7|@MinOpponentMoves|894
+#6|@pawnrobot|1218
+#7|@MinOpponentMoves|915
