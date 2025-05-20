@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@ElPeonElectrico|2454
 #26|@abhisun_bot|2444
 #27|@pistol-play|2437
-#28|@RaspFish|2395
+#28|@RaspFish|2396
 #29|@YoBot_v2|2394
 #30|@CloudBOT|2393
 #31|@NienishiEngine|2392
@@ -59,10 +59,10 @@ Rank|Bot|Rating
 #57|@ChessVBOT|2168
 #58|@Peaceful4Life|2160
 #59|@SCP079|2156
-#60|@TheMatrix2025|2142
-#61|@CloudBot_v2|2131
-#62|@Johnsun|2113
-#63|@Lenya228_BOT|2111
+#60|@Lenya228_BOT|2152
+#61|@TheMatrix2025|2142
+#62|@CloudBot_v2|2131
+#63|@Johnsun|2113
 #64|@SixtyFourEngine|2089
 #65|@relevantproblem|2077
 #66|@GodelEscherBot|2071
@@ -88,8 +88,8 @@ Rank|Bot|Rating
 #86|@azdad|1895
 #87|@Galaxy_Guardian|1885
 #88|@The-Fastest-Bot|1885
-#89|@colinbot|1877
-#90|@XXIstCentury|1875
+#89|@XXIstCentury|1875
+#90|@colinbot|1874
 #91|@ChessBot3021|1872
 #92|@CocopikachuBOT|1868
 #93|@legendbot1|1866
@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@Grand_MefBartu-BOT|1200
 #185|@FluffBallCuddly|1191
 #186|@heatseeker223|1191
-#187|@pawnrobot|1187
+#187|@pawnrobot|1186
 #188|@ChessPlayer1225|1183
 #189|@Jannik08_fan|1163
 #190|@BSergey11-BOT|1149

@@ -9,14 +9,14 @@ Rank|Bot|Rating
 #7|@InvinxibleFlxsh|2607
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
-#10|@Nikitosik-ai|2592
-#11|@pistol-play|2590
-#12|@ToromBot|2576
+#10|@pistol-play|2590
+#11|@ToromBot|2574
+#12|@Nikitosik-ai|2568
 #13|@Nikitosikbot_v2|2566
 #14|@NimsiluBot|2562
 #15|@UltronBot|2556
 #16|@Viet-AI|2556
-#17|@RaspFish|2554
+#17|@RaspFish|2549
 #18|@ttBOT|2540
 #19|@BitExtender128|2526
 #20|@ResoluteBot|2525
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@mrchessmanager|2369
 #34|@Resolved-Bot|2363
 #35|@CloudBot_v2|2357
-#36|@Stockfish-MEDIUM|2356
+#36|@Stockfish-MEDIUM|2357
 #37|@faith_bot|2353
 #38|@Lila-Stockfish|2350
 #39|@lord-bot|2349
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@XXIstCentury|2061
 #120|@azdad|2047
 #121|@Less_of_a_threat|2047
-#122|@colinbot|2039
+#122|@colinbot|2042
 #123|@MagnusCarlsen1507|2037
 #124|@HuxZero|2035
 #125|@EasyWinGG|2032
@@ -272,8 +272,8 @@ Rank|Bot|Rating
 #270|@shakboy9824453231op|1420
 #271|@bunny_2021|1413
 #272|@TTC-BOT_2|1410
-#273|@pawnrobot|1404
-#274|@Butzke_BOT|1401
+#273|@Butzke_BOT|1401
+#274|@pawnrobot|1400
 #275|@MartianBot|1386
 #276|@Trumpfor2O2O|1386
 #277|@DrunkenMasterEngine|1385
