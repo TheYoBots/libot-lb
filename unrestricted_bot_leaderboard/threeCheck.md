@@ -31,13 +31,13 @@ Rank|Bot|Rating
 #29|@chessbot2880|2439
 #30|@ChessVBOT|2430
 #31|@NimsiluBot|2422
-#32|@Nikitosik-ai|2405
-#33|@RaspFish|2390
-#34|@Lenya228_BOT|2372
-#35|@Viet_BOT|2367
-#36|@colinbot|2354
-#37|@Zer0_Tw0|2332
-#38|@LudwigBOT|2304
+#32|@RaspFish|2415
+#33|@Lenya228_BOT|2372
+#34|@Viet_BOT|2367
+#35|@colinbot|2351
+#36|@Zer0_Tw0|2332
+#37|@LudwigBOT|2304
+#38|@Nikitosik-ai|2303
 #39|@lord-bot|2300
 #40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
@@ -60,8 +60,8 @@ Rank|Bot|Rating
 #58|@AnUtterlyKarBot|2103
 #59|@Dean_Summer_Bot|2086
 #60|@Magnus-BOT|2084
-#61|@Stockfish-MEDIUM|2073
-#62|@Xerus_1|2070
+#61|@Xerus_1|2070
+#62|@Stockfish-MEDIUM|2062
 #63|@ROBOT_RANDEER2007|2059
 #64|@Official_bot|2041
 #65|@Resolved-Bot|2026
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@DavidsGuterBot|1605
+#113|@DavidsGuterBot|1598
 #114|@newengine2022|1588
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
@@ -175,5 +175,5 @@ Rank|Bot|Rating
 #173|@GuineaBot3|972
 #174|@BogoBot|928
 #175|@MateCheckCapture|923
-#176|@MinOpponentMoves|920
+#176|@MinOpponentMoves|919
 #177|@TheSystem_Bot|905

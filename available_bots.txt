@@ -436,6 +436,7 @@ botsky16
 botsss
 botstockfish09
 botsy
+bottdr08
 botted
 bottestjhami
 bottestseb
@@ -3003,4 +3004,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bottdr08
