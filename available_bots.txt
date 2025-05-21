@@ -1092,6 +1092,7 @@ giphy_logo
 giuliaai
 gkr_b0t
 gladius_bot
+gluewinner
 gnu4u
 goblinbot
 goboter
@@ -2150,6 +2151,7 @@ qalattop
 qchessv2
 quackstrike
 quanticade
+quantumknightv1
 quaviverbot
 que-encrypt
 que-hyper
@@ -3007,5 +3009,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gluewinner
-quantumknightv1
