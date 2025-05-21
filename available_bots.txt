@@ -290,6 +290,7 @@ bingo202
 bionic_x
 bird_xx
 bishop-bot
+bishopedcoaching
 bitarena
 bitbitbot
 bitbybyte
@@ -1106,6 +1107,7 @@ goldfish-engine
 gonzobot
 good-game-123
 good_bot223344
+gorinko_fun_bot
 gothamchessbot
 goutambot
 gpt35-turbo-instruct
@@ -1221,6 +1223,7 @@ hoon_bot
 hopebest
 hoplites
 horvix
+hostfish
 hotleela
 houdini14_2
 housjoe
@@ -3004,6 +3007,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-hostfish
-gorinko_fun_bot
-bishopedcoaching
+gluewinner
+quantumknightv1

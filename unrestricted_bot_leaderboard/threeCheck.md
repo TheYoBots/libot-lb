@@ -21,9 +21,9 @@ Rank|Bot|Rating
 #19|@KizVariant|2529
 #20|@SCP079|2526
 #21|@Fairy-Stockfish|2484
-#22|@ESC_BOT|2476
-#23|@Less_of_a_threat|2469
-#24|@ToromBot|2464
+#22|@ToromBot|2478
+#23|@ESC_BOT|2476
+#24|@Less_of_a_threat|2469
 #25|@NormalBlitzBulletBot|2463
 #26|@ttBOT|2461
 #27|@TheMatrix2029|2448
@@ -34,9 +34,9 @@ Rank|Bot|Rating
 #32|@NimsiluBot|2422
 #33|@Lenya228_BOT|2372
 #34|@Viet_BOT|2367
-#35|@Nikitosik-ai|2362
-#36|@colinbot|2342
-#37|@Zer0_Tw0|2332
+#35|@colinbot|2342
+#36|@Zer0_Tw0|2332
+#37|@Nikitosik-ai|2313
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@KingfishX|2285
@@ -60,9 +60,9 @@ Rank|Bot|Rating
 #58|@AnUtterlyKarBot|2103
 #59|@Dean_Summer_Bot|2086
 #60|@Magnus-BOT|2084
-#61|@Xerus_1|2070
-#62|@ROBOT_RANDEER2007|2059
-#63|@Stockfish-MEDIUM|2055
+#61|@Stockfish-MEDIUM|2070
+#62|@Xerus_1|2070
+#63|@ROBOT_RANDEER2007|2059
 #64|@Official_bot|2041
 #65|@Resolved-Bot|2026
 #66|@SacrificialSage|2026
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@MyNameIsWhatLOL|1256
 #157|@SneakyBot21|1256
 #158|@TORTADEMANZANA023|1233
-#159|@pawnrobot|1218
+#159|@pawnrobot|1220
 #160|@heatseeker223|1191
 #161|@admin-bot|1188
 #162|@Ujwal1001|1179
@@ -175,5 +175,5 @@ Rank|Bot|Rating
 #173|@GuineaBot3|972
 #174|@BogoBot|928
 #175|@MateCheckCapture|923
-#176|@MinOpponentMoves|919
+#176|@MinOpponentMoves|917
 #177|@TheSystem_Bot|905

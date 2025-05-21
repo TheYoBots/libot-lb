@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@Ramses-Chess|1547
 #118|@Toxic_Bot|1541
 #119|@SXDEFENDER|1534
-#120|@DavidsGuterBot|1533
+#120|@DavidsGuterBot|1527
 #121|@Light_To_The_Rescue|1523
 #122|@Z-Move|1495
 #123|@TFRChessClub|1494
@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@jasans_bot|1268
 #153|@ChessChipBot|1258
 #154|@Hrant_Petrosyan_BOT|1258
-#155|@pawnrobot|1245
+#155|@pawnrobot|1251
 #156|@HiddeNL|1242
 #157|@knight_128|1233
 #158|@MyNameIsSpeedy|1226

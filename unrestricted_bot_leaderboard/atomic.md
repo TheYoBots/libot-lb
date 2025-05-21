@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
 #10|@pistol-play|2590
-#11|@ToromBot|2574
+#11|@ToromBot|2589
 #12|@Nikitosik-ai|2568
 #13|@Nikitosikbot_v2|2566
 #14|@NimsiluBot|2562
@@ -328,8 +328,8 @@ Rank|Bot|Rating
 #326|@ZX-Chess|946
 #327|@BogoBot|945
 #328|@thousandatom|865
-#329|@MinOpponentMoves|836
-#330|@bfdzvfsgaergfds|800
+#329|@bfdzvfsgaergfds|800
+#330|@MinOpponentMoves|778
 #331|@TheThanosBot|696
 #332|@BetaOneBot|690
 #333|@MateCheckCapture|680

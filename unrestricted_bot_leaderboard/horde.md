@@ -104,9 +104,9 @@ Rank|Bot|Rating
 #102|@mephisto-chess|1500
 #103|@TorBot|1499
 #104|@HerokuHasnotplay|1497
-#105|@InvinxibleFlxsh|1497
-#106|@MagnusCarlsen1507|1497
-#107|@IAMSTOCKFISH123|1496
+#105|@MagnusCarlsen1507|1497
+#106|@IAMSTOCKFISH123|1496
+#107|@InvinxibleFlxsh|1496
 #108|@Rishab_Bindal|1494
 #109|@Jussicas|1483
 #110|@Kizbuurb|1479
