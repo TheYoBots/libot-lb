@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@Viet-AI|2317
 #18|@Fairy_Belzedar|2316
 #19|@RaspFish|2310
-#20|@MalanChess|2292
-#21|@Nikitosik-ai|2286
+#20|@Nikitosik-ai|2300
+#21|@MalanChess|2292
 #22|@LudwigBOT|2281
 #23|@LoseisnotAvailablehe|2274
 #24|@bananaaaaaaaaa_test|2269
@@ -118,8 +118,8 @@ Rank|Bot|Rating
 #116|@Epiano_Bot|1567
 #117|@Ramses-Chess|1547
 #118|@Toxic_Bot|1541
-#119|@SXDEFENDER|1534
-#120|@DavidsGuterBot|1531
+#119|@DavidsGuterBot|1535
+#120|@SXDEFENDER|1534
 #121|@Light_To_The_Rescue|1523
 #122|@Z-Move|1495
 #123|@TFRChessClub|1494
@@ -154,8 +154,8 @@ Rank|Bot|Rating
 #152|@jasans_bot|1268
 #153|@ChessChipBot|1258
 #154|@Hrant_Petrosyan_BOT|1258
-#155|@pawnrobot|1247
-#156|@HiddeNL|1242
+#155|@HiddeNL|1242
+#156|@pawnrobot|1241
 #157|@knight_128|1233
 #158|@MyNameIsSpeedy|1226
 #159|@Bottios|1223
@@ -173,6 +173,6 @@ Rank|Bot|Rating
 #171|@thousandatom|970
 #172|@BogoBot|946
 #173|@SacrificeBot|934
-#174|@MinOpponentMoves|896
+#174|@MinOpponentMoves|900
 #175|@GuineaBot2|884
 #176|@MateCheckCapture|795

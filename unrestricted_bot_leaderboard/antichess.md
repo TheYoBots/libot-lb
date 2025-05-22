@@ -117,8 +117,8 @@ Rank|Bot|Rating
 #115|@YellowFlash_v2|2214
 #116|@CoderDen732|2207
 #117|@NormalBlitzBulletBot|2205
-#118|@EstmileBot|2200
-#119|@anti-bot|2199
+#118|@anti-bot|2200
+#119|@EstmileBot|2200
 #120|@HerokuHasnotplay|2196
 #121|@Lucror|2178
 #122|@OpeningsBot|2178
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@NoTallkOnlyGames|1871
 #144|@Lumac0|1861
 #145|@Pineapple-Friendly|1858
-#146|@pawnrobot|1856
+#146|@pawnrobot|1834
 #147|@Stockfish-MEDIUM|1832
 #148|@MyNameIsWhatLOL|1826
 #149|@Bot2000|1807
@@ -272,7 +272,7 @@ Rank|Bot|Rating
 #270|@thousandatom|1146
 #271|@Green_Tea_Ice_Cream|1107
 #272|@Md211bot|1107
-#273|@MinOpponentMoves|1099
+#273|@MinOpponentMoves|1089
 #274|@The_dragon_bot|1076
 #275|@Boom_Bot|1044
 #276|@Mega_BOT|1032

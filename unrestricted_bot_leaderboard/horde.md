@@ -6,14 +6,14 @@ Rank|Bot|Rating
 #4|@Fairy_Belzedar|2857
 #5|@Nikitosikbot_v2|2827
 #6|@Coolman2021|2757
-#7|@ToromBot|2739
+#7|@ToromBot|2740
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
 #12|@RaspFish|2473
-#13|@EmptikVariantsBot|2402
-#14|@Nerubatskyi_Daniil_v|2382
+#13|@Nerubatskyi_Daniil_v|2406
+#14|@EmptikVariantsBot|2402
 #15|@EmptikBot|2378
 #16|@LoseisnotAvailablehe|2369
 #17|@lord-bot|2362
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@alvin-chess-bot|1091
 #150|@FireTorchV2|1068
 #151|@Alexnajax_Fan|1066
-#152|@MinOpponentMoves|982
+#152|@MinOpponentMoves|975
 #153|@MateCheckCapture|885
 #154|@GuineaBot2|851
 #155|@Ramses-Chess|800
