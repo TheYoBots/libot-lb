@@ -634,6 +634,7 @@ chokefish
 chompbot
 christophercolomb
 chunguszero
+cimille
 cinder-bot
 cizme
 classic_bot-v2
@@ -917,6 +918,7 @@ enoizisop
 entebot
 enyobot
 epiano_bot
+epimetheusbot
 erickdejusu
 ericrosen102
 erobot
@@ -2677,6 +2679,7 @@ theshadowengine
 thesystem_bot
 thethanosbot
 theultimatechzb
+theunforgivingbot
 theunrestrictedgod
 theweakestbot
 thewinnerbetter
@@ -3009,6 +3012,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-epimetheusbot
-theunforgivingbot
-cimille
+peachfruit
+arya1392dr-bot

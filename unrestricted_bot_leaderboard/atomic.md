@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@KizVariant|2597
 #10|@pistol-play|2590
 #11|@Nikitosikbot_v2|2570
-#12|@Nikitosik-ai|2568
-#13|@ToromBot|2567
-#14|@NimsiluBot|2562
+#12|@Nikitosik-ai|2569
+#13|@NimsiluBot|2562
+#14|@ToromBot|2562
 #15|@UltronBot|2556
 #16|@Viet-AI|2556
 #17|@ttBOT|2540
@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@Viet-BOT|2349
 #40|@NormalBlitzBulletBot|2347
 #41|@HyperLitikBOT|2341
-#42|@LudwigBOT|2339
-#43|@newengine2022|2337
-#44|@Stockfish-MEDIUM|2337
+#42|@Stockfish-MEDIUM|2340
+#43|@LudwigBOT|2339
+#44|@newengine2022|2337
 #45|@NotNateBot|2336
 #46|@The-Fastest-Bot|2314
 #47|@Alehkine_cat|2312
@@ -110,8 +110,8 @@ Rank|Bot|Rating
 #108|@SugarAndSpice|2102
 #109|@Botzer|2097
 #110|@Sharkbot|2095
-#111|@colinbot|2078
-#112|@DrSmartBugs|2077
+#111|@DrSmartBugs|2077
+#112|@colinbot|2074
 #113|@Einstein_NNUE|2072
 #114|@Dark_evil_bot|2071
 #115|@Karpov_bot|2069
@@ -328,8 +328,8 @@ Rank|Bot|Rating
 #326|@ZX-Chess|946
 #327|@BogoBot|945
 #328|@thousandatom|865
-#329|@MinOpponentMoves|804
-#330|@bfdzvfsgaergfds|800
+#329|@bfdzvfsgaergfds|800
+#330|@MinOpponentMoves|795
 #331|@TheThanosBot|696
 #332|@BetaOneBot|690
 #333|@MateCheckCapture|680

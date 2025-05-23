@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@VariantsBot|3021
 #5|@UltimateVariants|2978
 #6|@EmptikVariantsBot|2957
-#7|@ToromBot|2954
+#7|@ToromBot|2943
 #8|@Nikitosik-ai|2893
 #9|@Coolman2021|2879
 #10|@RaspFish|2877
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@AntichessAnalyzer|2673
 #28|@SCP079|2662
 #29|@Lenya228_BOT|2661
-#30|@colinbot|2645
+#30|@colinbot|2658
 #31|@MalanChess|2638
 #32|@vrnts_colinbot|2637
 #33|@Kizbuurb|2621
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@NormalBlitzBulletBot|2205
 #118|@EstmileBot|2200
 #119|@HerokuHasnotplay|2196
-#120|@anti-bot|2181
+#120|@anti-bot|2187
 #121|@Lucror|2178
 #122|@OpeningsBot|2178
 #123|@lightspeed_bot|2152
@@ -143,11 +143,11 @@ Rank|Bot|Rating
 #141|@SriLankaChess|1925
 #142|@Crepusculum|1881
 #143|@NoTallkOnlyGames|1871
-#144|@Lumac0|1861
-#145|@Pineapple-Friendly|1858
-#146|@pawnrobot|1834
-#147|@Stockfish-MEDIUM|1832
-#148|@MyNameIsWhatLOL|1826
+#144|@Stockfish-MEDIUM|1868
+#145|@Lumac0|1861
+#146|@Pineapple-Friendly|1858
+#147|@MyNameIsWhatLOL|1826
+#148|@pawnrobot|1826
 #149|@Bot2000|1807
 #150|@Emil_V2|1789
 #151|@bot1996123|1787
@@ -272,7 +272,7 @@ Rank|Bot|Rating
 #270|@thousandatom|1146
 #271|@Green_Tea_Ice_Cream|1107
 #272|@Md211bot|1107
-#273|@MinOpponentMoves|1101
+#273|@MinOpponentMoves|1096
 #274|@The_dragon_bot|1076
 #275|@Boom_Bot|1044
 #276|@Mega_BOT|1032
