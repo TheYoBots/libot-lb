@@ -184,9 +184,9 @@ Rank|Bot|Rating
 #182|@NightStarFox|1243
 #183|@Happy_One|1223
 #184|@Grand_MefBartu-BOT|1200
-#185|@FluffBallCuddly|1191
-#186|@heatseeker223|1191
-#187|@pawnrobot|1186
+#185|@pawnrobot|1198
+#186|@FluffBallCuddly|1191
+#187|@heatseeker223|1191
 #188|@ChessPlayer1225|1183
 #189|@Jannik08_fan|1163
 #190|@BSergey11-BOT|1149
@@ -205,4 +205,4 @@ Rank|Bot|Rating
 #203|@GuineaBot3|845
 #204|@MateCheckCapture|828
 #205|@TrashBot|800
-#206|@MinOpponentMoves|757
+#206|@MinOpponentMoves|761

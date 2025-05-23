@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2933
+#1|@fibonachi|2915
 #2|@Grzechu86|2852
 #3|@MaggiChess16|2806
 #4|@AjedrezChamberi|2716
@@ -209,13 +209,13 @@ Rank|Bot|Rating
 #207|@noobic_bot|1735
 #208|@Uras21|1735
 #209|@walrusbot|1730
-#210|@Viridithas|1722
-#211|@St6090|1721
-#212|@Stockfish-MEDIUM|1721
-#213|@shakboy9824453231op|1720
-#214|@The_Tortoise|1719
-#215|@FluffBallCuddly|1718
-#216|@RoundMoundOfRebounds|1718
+#210|@RoundMoundOfRebounds|1723
+#211|@Viridithas|1722
+#212|@St6090|1721
+#213|@Stockfish-MEDIUM|1721
+#214|@shakboy9824453231op|1720
+#215|@The_Tortoise|1719
+#216|@FluffBallCuddly|1718
 #217|@blundar_bot|1717
 #218|@ImpossibleWin|1716
 #219|@Satyakeswara_BOT|1712
@@ -312,7 +312,7 @@ Rank|Bot|Rating
 #310|@Mate-AI|1454
 #311|@dtsudo|1449
 #312|@CheezyGlizzyEater|1444
-#313|@GyatsoBot|1440
+#313|@GyatsoBot|1435
 #314|@katzebot|1433
 #315|@ReallyBadPlayerBot|1428
 #316|@LuciferCat|1426
