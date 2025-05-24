@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@ToromBot|2500
 #22|@Fairy-Stockfish|2484
 #23|@ESC_BOT|2476
-#24|@RaspFish|2471
+#24|@RaspFish|2474
 #25|@Less_of_a_threat|2469
 #26|@NormalBlitzBulletBot|2463
 #27|@ttBOT|2461
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@NimsiluBot|2422
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
-#37|@colinbot|2331
+#37|@colinbot|2327
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@KingfishX|2285
@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@Magnus-BOT|2084
 #61|@Xerus_1|2070
 #62|@ROBOT_RANDEER2007|2059
-#63|@Stockfish-MEDIUM|2058
+#63|@Stockfish-MEDIUM|2052
 #64|@Official_bot|2041
 #65|@Resolved-Bot|2026
 #66|@SacrificialSage|2026
@@ -162,8 +162,8 @@ Rank|Bot|Rating
 #160|@heatseeker223|1191
 #161|@admin-bot|1188
 #162|@Ujwal1001|1179
-#163|@Just-a-random-bot|1171
-#164|@pawnrobot|1170
+#163|@pawnrobot|1175
+#164|@Just-a-random-bot|1171
 #165|@duythong1402|1165
 #166|@Boom_Bot|1155
 #167|@thousandatom|1154
@@ -175,7 +175,7 @@ Rank|Bot|Rating
 #173|@ZX-Chess|1063
 #174|@GOrInkO_Fun_BOT|992
 #175|@GuineaBot3|972
-#176|@MinOpponentMoves|944
+#176|@MinOpponentMoves|935
 #177|@BogoBot|928
 #178|@TheSystem_Bot|905
 #179|@MateCheckCapture|876

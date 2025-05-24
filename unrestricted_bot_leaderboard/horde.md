@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
 #12|@RaspFish|2474
-#13|@Nerubatskyi_Daniil_v|2451
+#13|@Nerubatskyi_Daniil_v|2471
 #14|@EmptikVariantsBot|2402
 #15|@EmptikBot|2378
 #16|@LoseisnotAvailablehe|2369
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@newengine2022|1901
 #56|@mrchessmanager|1888
 #57|@TheMatrix2029|1884
-#58|@colinbot|1869
+#58|@colinbot|1870
 #59|@TeamChelsie|1869
 #60|@B0T5_RU13|1852
 #61|@Lili-Variants|1846
@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@PowerOnBot|1258
 #137|@xDmanBOT|1258
 #138|@yobmef|1258
-#139|@pawnrobot|1233
+#139|@pawnrobot|1232
 #140|@TheSystem_Bot|1218
 #141|@GuineaBot3|1212
 #142|@admin-bot|1209
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@alvin-chess-bot|1091
 #150|@Alexnajax_Fan|1066
 #151|@FireTorchV2|1066
-#152|@MinOpponentMoves|1007
+#152|@MinOpponentMoves|1002
 #153|@MateCheckCapture|885
 #154|@GuineaBot2|851
 #155|@Ramses-Chess|800
