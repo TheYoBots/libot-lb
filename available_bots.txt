@@ -176,6 +176,7 @@ aromik_s_bot
 artjom_bot
 arundina
 arvyy_bot
+arya1392dr-bot
 asaadbot
 asalfish_15
 asdfbot2
@@ -2034,6 +2035,7 @@ pawnrobot
 pdfprizebot
 peaceful4life
 peach-bot
+peachfruit
 pennywise__it
 peonasesino71
 pepsiforall
@@ -3012,5 +3014,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-peachfruit
-arya1392dr-bot

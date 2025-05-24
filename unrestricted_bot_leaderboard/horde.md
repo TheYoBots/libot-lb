@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
 #12|@RaspFish|2474
-#13|@Nerubatskyi_Daniil_v|2435
+#13|@Nerubatskyi_Daniil_v|2451
 #14|@EmptikVariantsBot|2402
 #15|@EmptikBot|2378
 #16|@LoseisnotAvailablehe|2369
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@alvin-chess-bot|1091
 #150|@Alexnajax_Fan|1066
 #151|@FireTorchV2|1066
-#152|@MinOpponentMoves|976
+#152|@MinOpponentMoves|1007
 #153|@MateCheckCapture|885
 #154|@GuineaBot2|851
 #155|@Ramses-Chess|800
