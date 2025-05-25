@@ -1097,6 +1097,7 @@ gkr_b0t
 gladius_bot
 gluewinner
 gnu4u
+gnupassant
 goblinbot
 goboter
 god_teto
@@ -1443,6 +1444,7 @@ kingjonathanbot
 kingsgambot
 kireevi
 kirinchessbot
+kittenengine
 kiwibot
 kizburb
 kizbuurb
@@ -3014,5 +3016,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gnupassant
-kittenengine

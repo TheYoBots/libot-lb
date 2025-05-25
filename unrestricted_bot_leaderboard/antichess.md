@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@NormalBlitzBulletBot|2205
 #118|@EstmileBot|2200
 #119|@HerokuHasnotplay|2196
-#120|@anti-bot|2180
+#120|@anti-bot|2183
 #121|@Lucror|2178
 #122|@OpeningsBot|2178
 #123|@lightspeed_bot|2152
@@ -270,7 +270,7 @@ Rank|Bot|Rating
 #268|@DespacitoBot|1175
 #269|@BogoBot|1155
 #270|@thousandatom|1146
-#271|@MinOpponentMoves|1121
+#271|@MinOpponentMoves|1113
 #272|@Green_Tea_Ice_Cream|1107
 #273|@Md211bot|1107
 #274|@The_dragon_bot|1076

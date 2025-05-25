@@ -4,6 +4,5 @@ Rank|Bot|Rating
 #2|@RaspFish|2536
 #3|@Stockfish-MEDIUM|2340
 #4|@colinbot|2074
-#5|@OpeningsBot|2062
-#6|@pawnrobot|1390
-#7|@MinOpponentMoves|790
+#5|@pawnrobot|1390
+#6|@MinOpponentMoves|784

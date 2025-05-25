@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@ToromBot|2500
 #22|@Fairy-Stockfish|2484
 #23|@ESC_BOT|2476
-#24|@RaspFish|2474
+#24|@RaspFish|2476
 #25|@Less_of_a_threat|2469
 #26|@NormalBlitzBulletBot|2463
 #27|@ttBOT|2461
@@ -162,7 +162,7 @@ Rank|Bot|Rating
 #160|@heatseeker223|1191
 #161|@admin-bot|1188
 #162|@Ujwal1001|1179
-#163|@pawnrobot|1175
+#163|@pawnrobot|1177
 #164|@Just-a-random-bot|1171
 #165|@duythong1402|1165
 #166|@Boom_Bot|1155
@@ -175,8 +175,8 @@ Rank|Bot|Rating
 #173|@ZX-Chess|1063
 #174|@GOrInkO_Fun_BOT|992
 #175|@GuineaBot3|972
-#176|@MinOpponentMoves|935
-#177|@BogoBot|928
+#176|@BogoBot|928
+#177|@MinOpponentMoves|928
 #178|@TheSystem_Bot|905
 #179|@MateCheckCapture|876
 #180|@BOT_Stockfish13|800
