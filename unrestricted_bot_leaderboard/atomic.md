@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@lord-bot|2349
 #39|@Viet-BOT|2349
 #40|@NormalBlitzBulletBot|2347
-#41|@HyperLitikBOT|2341
-#42|@Stockfish-MEDIUM|2340
+#41|@Stockfish-MEDIUM|2343
+#42|@HyperLitikBOT|2341
 #43|@LudwigBOT|2339
 #44|@newengine2022|2337
 #45|@NotNateBot|2336
@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@Botzer|2097
 #110|@Sharkbot|2095
 #111|@DrSmartBugs|2077
-#112|@colinbot|2074
-#113|@Einstein_NNUE|2072
+#112|@Einstein_NNUE|2072
+#113|@colinbot|2071
 #114|@Dark_evil_bot|2071
 #115|@Karpov_bot|2069
 #116|@alvinl22_LBot|2068
@@ -329,7 +329,7 @@ Rank|Bot|Rating
 #327|@BogoBot|945
 #328|@thousandatom|865
 #329|@bfdzvfsgaergfds|800
-#330|@MinOpponentMoves|784
+#330|@MinOpponentMoves|782
 #331|@TheThanosBot|696
 #332|@BetaOneBot|690
 #333|@MateCheckCapture|680

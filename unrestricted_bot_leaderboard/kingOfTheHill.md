@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Jussicas|2086
 #47|@Kizburb|2086
 #48|@Dean_Summer_Bot|2085
-#49|@colinbot|2080
+#49|@colinbot|2081
 #50|@ibep|2078
 #51|@Xerus_1|2076
 #52|@newengine2022|2071
@@ -173,6 +173,6 @@ Rank|Bot|Rating
 #171|@thousandatom|970
 #172|@BogoBot|946
 #173|@SacrificeBot|934
-#174|@MinOpponentMoves|888
-#175|@GuineaBot2|884
+#174|@GuineaBot2|884
+#175|@MinOpponentMoves|873
 #176|@MateCheckCapture|795

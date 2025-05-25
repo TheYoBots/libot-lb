@@ -3016,3 +3016,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+ilya0510karimvagapov
+almaznv_2bot
+we-friend

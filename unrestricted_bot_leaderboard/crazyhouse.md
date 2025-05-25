@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@NienishiEngine|2392
 #32|@Nikitosikbot_v2|2367
 #33|@EagleEye2021|2365
-#34|@ToromBot|2353
+#34|@ToromBot|2355
 #35|@KingfishX|2347
 #36|@chesshyperbot|2344
 #37|@EmptikBot|2332
@@ -205,4 +205,4 @@ Rank|Bot|Rating
 #203|@GuineaBot3|845
 #204|@MateCheckCapture|828
 #205|@TrashBot|800
-#206|@MinOpponentMoves|755
+#206|@MinOpponentMoves|735
