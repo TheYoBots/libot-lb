@@ -15,10 +15,10 @@ Rank|Bot|Rating
 #13|@Karpov_bot|2359
 #14|@TheMatrix2025|2346
 #15|@AndromedaSX1|2344
-#16|@RaspFish|2322
-#17|@Lenya228_BOT|2317
-#18|@Viet-AI|2317
-#19|@Fairy_Belzedar|2316
+#16|@Lenya228_BOT|2317
+#17|@Viet-AI|2317
+#18|@Fairy_Belzedar|2316
+#19|@RaspFish|2314
 #20|@Nikitosik-ai|2303
 #21|@MalanChess|2292
 #22|@LudwigBOT|2281
@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@UnDisstoppableBot|2193
 #34|@Amrobotone|2184
 #35|@HuxZero|2163
-#36|@Mega_BOT|2148
-#37|@Stockfish-MEDIUM|2144
+#36|@Stockfish-MEDIUM|2152
+#37|@Mega_BOT|2148
 #38|@AI69|2143
 #39|@RobotTigerSlav|2136
 #40|@pistol-play|2121
@@ -48,9 +48,9 @@ Rank|Bot|Rating
 #46|@Jussicas|2086
 #47|@Kizburb|2086
 #48|@Dean_Summer_Bot|2085
-#49|@colinbot|2081
-#50|@ibep|2078
-#51|@Xerus_1|2076
+#49|@ibep|2078
+#50|@Xerus_1|2076
+#51|@colinbot|2073
 #52|@newengine2022|2071
 #53|@vrnts_colinbot|2068
 #54|@KingfishX|2066
@@ -174,5 +174,5 @@ Rank|Bot|Rating
 #172|@BogoBot|946
 #173|@SacrificeBot|934
 #174|@GuineaBot2|884
-#175|@MinOpponentMoves|856
+#175|@MinOpponentMoves|870
 #176|@MateCheckCapture|795

@@ -764,6 +764,7 @@ defi-program
 definitelynoteliah
 delocto
 deltazero_ms
+demolito_l1
 demolito_l2
 demolito_l3
 demolito_l4
@@ -1291,6 +1292,7 @@ igel_engine
 igridzchessbot
 iguana_dev
 ihatecastling
+iliketolose69
 ilk_turk_bot
 illuminachessengine
 ilovecatgirl
@@ -2375,6 +2377,7 @@ shallowredfish
 shalmaneser42
 sharkbot
 sharkbotfish
+sharpsundae
 shashchess2020
 shashchess_msp
 shashchessbot
@@ -3019,6 +3022,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-iliketolose69
-demolito_l1
-sharpsundae
