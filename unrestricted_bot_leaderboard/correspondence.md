@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@fibonachi|2916
 #2|@Grzechu86|2852
 #3|@MaggiChess16|2806
-#4|@AjedrezChamberi|2716
+#4|@AjedrezChamberi|2717
 #5|@Nikitosik-ai|2714
 #6|@H-Zero|2650
 #7|@Moment-That-Inspires|2642
@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PetersBot|2583
 #10|@Alexnajax_Fan|2549
 #11|@SacrificialSage|2519
-#12|@ChamberiAjedrez|2513
+#12|@ChamberiAjedrez|2515
 #13|@peonasesino71|2512
 #14|@ServerFish|2494
 #15|@colinbot|2492
