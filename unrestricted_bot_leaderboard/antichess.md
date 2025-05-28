@@ -128,12 +128,12 @@ Rank|Bot|Rating
 #126|@XXIstCentury|2131
 #127|@PyChessBot|2102
 #128|@TurkiyeHogwartsBOT|2099
-#129|@Stockfish-MEDIUM|2087
+#129|@Stockfish-MEDIUM|2094
 #130|@ZamuChess|2049
-#131|@CatNail|2042
-#132|@Botzer|2020
-#133|@Jussicas|2019
-#134|@CloudBotZero|2018
+#131|@Botzer|2020
+#132|@Jussicas|2019
+#133|@CloudBotZero|2018
+#134|@CatNail|2013
 #135|@B0T5_RU13|2011
 #136|@TheLegitLegend|2010
 #137|@CrayyBot|1989
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@Pineapple-Friendly|1858
 #147|@MyNameIsWhatLOL|1826
 #148|@Bot2000|1807
-#149|@pawnrobot|1793
+#149|@pawnrobot|1791
 #150|@Emil_V2|1789
 #151|@bot1996123|1787
 #152|@Yemmi-Yemmi|1774
@@ -270,7 +270,7 @@ Rank|Bot|Rating
 #268|@DespacitoBot|1175
 #269|@BogoBot|1155
 #270|@thousandatom|1146
-#271|@MinOpponentMoves|1123
+#271|@MinOpponentMoves|1119
 #272|@Green_Tea_Ice_Cream|1107
 #273|@Md211bot|1107
 #274|@The_dragon_bot|1076

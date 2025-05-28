@@ -174,5 +174,5 @@ Rank|Bot|Rating
 #172|@BogoBot|946
 #173|@SacrificeBot|934
 #174|@GuineaBot2|884
-#175|@MinOpponentMoves|866
+#175|@MinOpponentMoves|870
 #176|@MateCheckCapture|795
