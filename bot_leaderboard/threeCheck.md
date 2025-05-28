@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2540
-#2|@RaspFish|2454
+#1|@ToromBot|2523
+#2|@RaspFish|2453
 #3|@Nikitosik-ai|2440
-#4|@colinbot|2303
-#5|@Stockfish-MEDIUM|2071
+#4|@colinbot|2315
+#5|@Stockfish-MEDIUM|2074
 #6|@DavidsGuterBot|1592
 #7|@pawnrobot|1219
 #8|@MateCheckCapture|876

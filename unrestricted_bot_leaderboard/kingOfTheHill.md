@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@Epiano_Bot|1567
 #117|@Ramses-Chess|1547
 #118|@Toxic_Bot|1541
-#119|@DavidsGuterBot|1535
+#119|@DavidsGuterBot|1534
 #120|@SXDEFENDER|1534
 #121|@Light_To_The_Rescue|1523
 #122|@Z-Move|1495

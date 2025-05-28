@@ -2608,6 +2608,7 @@ teamchelsie
 teamleaderbot
 tekibot
 telefon2232_bot
+telemost
 temporai
 tenborg
 tensorpupper
@@ -3023,4 +3024,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-telemost

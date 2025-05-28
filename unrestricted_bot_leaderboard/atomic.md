@@ -273,11 +273,11 @@ Rank|Bot|Rating
 #271|@bunny_2021|1413
 #272|@TTC-BOT_2|1410
 #273|@Butzke_BOT|1401
-#274|@pawnrobot|1388
-#275|@MartianBot|1386
-#276|@Trumpfor2O2O|1386
-#277|@DrunkenMasterEngine|1385
-#278|@anonymous5612|1384
+#274|@MartianBot|1386
+#275|@Trumpfor2O2O|1386
+#276|@DrunkenMasterEngine|1385
+#277|@anonymous5612|1384
+#278|@pawnrobot|1364
 #279|@SLvov-bot|1359
 #280|@ChessBotHere|1351
 #281|@kazakhfirstbot|1340
@@ -328,7 +328,7 @@ Rank|Bot|Rating
 #326|@ZX-Chess|946
 #327|@BogoBot|945
 #328|@thousandatom|865
-#329|@MinOpponentMoves|811
+#329|@MinOpponentMoves|809
 #330|@bfdzvfsgaergfds|800
 #331|@TheThanosBot|696
 #332|@BetaOneBot|690
