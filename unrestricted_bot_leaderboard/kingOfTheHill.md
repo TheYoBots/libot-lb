@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@PowerOnBot|2195
 #33|@UnDisstoppableBot|2193
 #34|@Amrobotone|2184
-#35|@HuxZero|2163
-#36|@Stockfish-MEDIUM|2152
+#35|@Stockfish-MEDIUM|2167
+#36|@HuxZero|2163
 #37|@Mega_BOT|2148
 #38|@AI69|2143
 #39|@RobotTigerSlav|2136
@@ -50,11 +50,11 @@ Rank|Bot|Rating
 #48|@Dean_Summer_Bot|2085
 #49|@ibep|2078
 #50|@Xerus_1|2076
-#51|@colinbot|2071
-#52|@newengine2022|2071
-#53|@vrnts_colinbot|2068
-#54|@KingfishX|2066
-#55|@ChessVBOT|2065
+#51|@newengine2022|2071
+#52|@vrnts_colinbot|2068
+#53|@KingfishX|2066
+#54|@ChessVBOT|2065
+#55|@colinbot|2062
 #56|@NimsiluBot|2058
 #57|@Hyper-Stockfish|2044
 #58|@Kizbuurb|2035

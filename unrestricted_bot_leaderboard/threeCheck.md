@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@ElPeonElectrico|2549
 #17|@CloudBot_v2|2544
 #18|@Fairy_Belzedar|2544
-#19|@ToromBot|2533
+#19|@ToromBot|2538
 #20|@KizVariant|2529
 #21|@SCP079|2526
 #22|@Fairy-Stockfish|2484
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@AnUtterlyKarBot|2103
 #59|@Dean_Summer_Bot|2086
 #60|@Magnus-BOT|2084
-#61|@Stockfish-MEDIUM|2071
+#61|@Stockfish-MEDIUM|2083
 #62|@Xerus_1|2070
 #63|@ROBOT_RANDEER2007|2059
 #64|@Official_bot|2041
