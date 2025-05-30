@@ -567,6 +567,7 @@ chers-engine
 cheskrish
 chess-2-bot
 chess-freelancer
+chess-if
 chess-otter
 chess-trainer2424
 chess1000bot
@@ -3026,4 +3027,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chess-if
+bharat_royals
+yvl-bot

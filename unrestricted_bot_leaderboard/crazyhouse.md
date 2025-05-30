@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@ElPeonElectrico|2454
 #26|@abhisun_bot|2444
 #27|@pistol-play|2437
-#28|@RaspFish|2397
+#28|@RaspFish|2398
 #29|@YoBot_v2|2394
 #30|@CloudBOT|2393
 #31|@NienishiEngine|2392
@@ -204,4 +204,4 @@ Rank|Bot|Rating
 #202|@GuineaBot3|845
 #203|@MateCheckCapture|828
 #204|@TrashBot|800
-#205|@MinOpponentMoves|766
+#205|@MinOpponentMoves|765

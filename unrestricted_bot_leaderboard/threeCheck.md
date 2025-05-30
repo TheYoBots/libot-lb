@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@ElPeonElectrico|2549
 #17|@CloudBot_v2|2544
 #18|@Fairy_Belzedar|2544
-#19|@ToromBot|2537
+#19|@ToromBot|2541
 #20|@KizVariant|2529
 #21|@SCP079|2526
 #22|@Fairy-Stockfish|2484
@@ -30,13 +30,13 @@ Rank|Bot|Rating
 #28|@faith_bot|2447
 #29|@Nikitosik-ai|2440
 #30|@chessbot2880|2439
-#31|@ChessVBOT|2430
-#32|@Lenya228_BOT|2429
-#33|@RaspFish|2428
+#31|@RaspFish|2437
+#32|@ChessVBOT|2430
+#33|@Lenya228_BOT|2429
 #34|@NimsiluBot|2422
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
-#37|@colinbot|2318
+#37|@colinbot|2307
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@KingfishX|2285
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@AnUtterlyKarBot|2103
 #59|@Dean_Summer_Bot|2086
 #60|@Magnus-BOT|2084
-#61|@Stockfish-MEDIUM|2077
+#61|@Stockfish-MEDIUM|2083
 #62|@Xerus_1|2070
 #63|@ROBOT_RANDEER2007|2059
 #64|@Official_bot|2041
@@ -178,5 +178,5 @@ Rank|Bot|Rating
 #176|@BogoBot|928
 #177|@TheSystem_Bot|905
 #178|@MateCheckCapture|876
-#179|@MinOpponentMoves|873
+#179|@MinOpponentMoves|871
 #180|@BOT_Stockfish13|800
