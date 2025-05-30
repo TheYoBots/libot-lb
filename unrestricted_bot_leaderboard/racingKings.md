@@ -182,8 +182,7 @@ Rank|Bot|Rating
 #180|@BetaOneBot|1141
 #181|@GuineaBot2|1141
 #182|@BogoBot|1074
-#183|@Simpafteur|1069
-#184|@MateCheckCapture|1011
-#185|@littlesamsun|996
-#186|@ZX-Chess|982
-#187|@MinOpponentMoves|667
+#183|@MateCheckCapture|1011
+#184|@littlesamsun|996
+#185|@ZX-Chess|982
+#186|@MinOpponentMoves|666

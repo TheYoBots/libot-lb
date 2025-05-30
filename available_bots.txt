@@ -1678,6 +1678,7 @@ maelstrom-chess
 mafybe
 maggichess16
 magic-engine
+magic11bot
 magichacker123
 magicversebot
 magnum_carl
@@ -2408,6 +2409,7 @@ singularity-alpha
 sipsonsamsonbot
 sirius_bot
 sisyphosbeta0
+sisyphus-engine
 sitrik_asit
 sixteen-sixty
 sixtyfourengine
@@ -3024,5 +3026,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-magic11bot
-sisyphus-engine
+chess-if
