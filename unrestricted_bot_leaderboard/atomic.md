@@ -290,9 +290,9 @@ Rank|Bot|Rating
 #288|@NOTBOTFORSURE|1327
 #289|@TheSystem_Bot|1318
 #290|@PROBROMAN|1317
-#291|@pawnrobot|1298
-#292|@Atomicbot1|1294
-#293|@DavidsGuterBot|1287
+#291|@Atomicbot1|1294
+#292|@DavidsGuterBot|1287
+#293|@pawnrobot|1287
 #294|@XXXTryandTryXXX|1280
 #295|@legendbot1|1277
 #296|@PranavChessBot|1273
@@ -328,7 +328,7 @@ Rank|Bot|Rating
 #326|@ZX-Chess|946
 #327|@BogoBot|945
 #328|@thousandatom|865
-#329|@MinOpponentMoves|833
+#329|@MinOpponentMoves|844
 #330|@bfdzvfsgaergfds|800
 #331|@TheThanosBot|696
 #332|@BetaOneBot|690

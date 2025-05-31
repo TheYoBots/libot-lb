@@ -284,6 +284,7 @@ bfdzvfsgaergfds
 bfiedler-bot
 bggbro
 bgsbot
+bharat_royals
 bigbrainen
 bigbrainernn
 bigearschess
@@ -2995,6 +2996,7 @@ yukoo-bot
 yuligpro5
 yumaree
 yumyum-bot
+yvl-bot
 yz-bot-test
 z-move
 z5_engine
@@ -3027,5 +3029,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bharat_royals
-yvl-bot
+theagi
