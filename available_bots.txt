@@ -2648,6 +2648,7 @@ the_nicholas_bot
 the_ruff_rider10
 the_super_master88
 the_tortoise
+theagi
 theandroidbot
 thearstbot
 theasmfish
@@ -3029,4 +3030,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-theagi

@@ -6,4 +6,4 @@ Rank|Bot|Rating
 #4|@Stockfish-MEDIUM|2083
 #5|@DavidsGuterBot|1591
 #6|@pawnrobot|1218
-#7|@MinOpponentMoves|863
+#7|@MinOpponentMoves|848
