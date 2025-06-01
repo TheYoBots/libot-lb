@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@H-Zero|2650
 #7|@Moment-That-Inspires|2642
 #8|@pawn_git|2589
-#9|@PetersBot|2583
+#9|@PetersBot|2565
 #10|@Alexnajax_Fan|2549
 #11|@SacrificialSage|2519
 #12|@ChamberiAjedrez|2515
@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@MehFish|2376
 #27|@Mega_BOT|2371
 #28|@CorrespondenceBot|2353
-#29|@duchessAI|2344
-#30|@Shocky_BOT|2340
+#29|@Shocky_BOT|2352
+#30|@duchessAI|2344
 #31|@HansNiemannBot|2338
 #32|@bekbot|2307
 #33|@IAMSTOCKFISH123|2305
@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@WennDieSoldatBOT|2156
 #70|@david9426_bot|2153
 #71|@Vetinari_Computer|2152
-#72|@mrchessmanager|2143
-#73|@Humanoid_1800|2142
+#72|@Humanoid_1800|2147
+#73|@mrchessmanager|2143
 #74|@Official_bot|2140
 #75|@corr_sunfish|2138
 #76|@GonzoBOT|2134
@@ -169,7 +169,7 @@ Rank|Bot|Rating
 #167|@ViVe_2_chess_pro|1869
 #168|@Boris-Trapsky|1853
 #169|@natural-disaster|1853
-#170|@ayodia|1850
+#170|@ayodia|1847
 #171|@Rinestro|1837
 #172|@OurBot|1836
 #173|@Aromik_s_bot|1831
