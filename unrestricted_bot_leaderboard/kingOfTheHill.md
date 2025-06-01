@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@Karpov_bot|2359
 #14|@TheMatrix2025|2346
 #15|@AndromedaSX1|2344
-#16|@RaspFish|2342
+#16|@RaspFish|2344
 #17|@Lenya228_BOT|2317
 #18|@Viet-AI|2317
 #19|@Fairy_Belzedar|2316
@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@SkyBlaster|2220
 #32|@PowerOnBot|2195
 #33|@UnDisstoppableBot|2193
-#34|@Amrobotone|2184
-#35|@Stockfish-MEDIUM|2181
+#34|@Stockfish-MEDIUM|2187
+#35|@Amrobotone|2184
 #36|@HuxZero|2163
 #37|@Mega_BOT|2148
 #38|@AI69|2143
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@ChessVBOT|2065
 #55|@NimsiluBot|2058
 #56|@Hyper-Stockfish|2044
-#57|@colinbot|2043
+#57|@colinbot|2040
 #58|@Kizbuurb|2035
 #59|@CloudBot_v2|2027
 #60|@faith_bot|2026
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
-#82|@OpeningsBot|1914
+#82|@OpeningsBot|1913
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
@@ -119,8 +119,8 @@ Rank|Bot|Rating
 #117|@Ramses-Chess|1547
 #118|@Toxic_Bot|1541
 #119|@SXDEFENDER|1534
-#120|@DavidsGuterBot|1531
-#121|@Light_To_The_Rescue|1523
+#120|@Light_To_The_Rescue|1523
+#121|@DavidsGuterBot|1522
 #122|@Z-Move|1495
 #123|@TFRChessClub|1494
 #124|@hyperchessbot1|1493
@@ -153,8 +153,8 @@ Rank|Bot|Rating
 #151|@jasans_bot|1268
 #152|@ChessChipBot|1258
 #153|@Hrant_Petrosyan_BOT|1258
-#154|@HiddeNL|1242
-#155|@pawnrobot|1242
+#154|@pawnrobot|1251
+#155|@HiddeNL|1242
 #156|@knight_128|1233
 #157|@MyNameIsSpeedy|1226
 #158|@Bottios|1223
@@ -173,5 +173,5 @@ Rank|Bot|Rating
 #171|@BogoBot|946
 #172|@SacrificeBot|934
 #173|@GuineaBot2|884
-#174|@MinOpponentMoves|873
+#174|@MinOpponentMoves|881
 #175|@MateCheckCapture|795

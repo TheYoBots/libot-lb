@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@Nikitosikbot_v2|2570
 #13|@Nikitosik-ai|2569
-#14|@ToromBot|2568
+#14|@ToromBot|2569
 #15|@NimsiluBot|2562
 #16|@UltronBot|2556
 #17|@Viet-AI|2556
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@mrchessmanager|2369
 #35|@Resolved-Bot|2363
 #36|@CloudBot_v2|2357
-#37|@faith_bot|2353
-#38|@Stockfish-MEDIUM|2352
+#37|@Stockfish-MEDIUM|2355
+#38|@faith_bot|2353
 #39|@Lila-Stockfish|2350
 #40|@lord-bot|2349
 #41|@Viet-BOT|2349
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@OpeningsBot|2062
 #118|@Vinnikk|2061
 #119|@XXIstCentury|2061
-#120|@colinbot|2057
+#120|@colinbot|2053
 #121|@azdad|2047
 #122|@Less_of_a_threat|2047
 #123|@MagnusCarlsen1507|2037
@@ -328,7 +328,7 @@ Rank|Bot|Rating
 #326|@ZX-Chess|946
 #327|@BogoBot|945
 #328|@thousandatom|865
-#329|@MinOpponentMoves|841
+#329|@MinOpponentMoves|832
 #330|@bfdzvfsgaergfds|800
 #331|@TheThanosBot|696
 #332|@BetaOneBot|690
