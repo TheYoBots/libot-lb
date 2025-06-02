@@ -106,10 +106,10 @@ Rank|Bot|Rating
 #104|@TurkiyeHogwarts|2240
 #105|@EagleEye2021|2235
 #106|@chesshyperbot|2234
-#107|@anti-bot|2230
-#108|@Hyper-Stockfish|2230
-#109|@CocopikachuBOT|2226
-#110|@TungJohn|2225
+#107|@Hyper-Stockfish|2230
+#108|@CocopikachuBOT|2226
+#109|@TungJohn|2225
+#110|@anti-bot|2221
 #111|@Good-Game-123|2221
 #112|@The-Fastest-Bot|2218
 #113|@All_Except_Chess960|2214
@@ -269,7 +269,7 @@ Rank|Bot|Rating
 #267|@DespacitoBot|1175
 #268|@BogoBot|1155
 #269|@thousandatom|1146
-#270|@MinOpponentMoves|1110
+#270|@MinOpponentMoves|1114
 #271|@Green_Tea_Ice_Cream|1107
 #272|@Md211bot|1107
 #273|@The_dragon_bot|1076

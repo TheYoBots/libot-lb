@@ -2886,6 +2886,7 @@ w1z4rd_b0t
 w_a_l_d_e_m_a_r
 wahoo_bot
 wakabot
+wakandaforever201212
 walleye_bot
 walrusbot
 wandabot
@@ -3030,4 +3031,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-wakandaforever201212
+facets-untarnished
