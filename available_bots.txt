@@ -959,6 +959,7 @@ f2xy-chess
 f4st3r-ai
 f4st3rb0t
 fabriad
+facets-untarnished
 fairgamekavvadias
 fairy-stockfish
 fairy_belzedar
@@ -3031,4 +3032,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-facets-untarnished
+indi_bot

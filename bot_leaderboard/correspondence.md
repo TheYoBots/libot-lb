@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2296
+#1|@OpeningsBot|2288
 #2|@Humanoid_1800|2140
-#3|@GyatsoBot|1467
+#3|@GyatsoBot|1453

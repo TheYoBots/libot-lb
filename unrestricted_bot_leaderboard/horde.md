@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
-#12|@RaspFish|2480
+#12|@RaspFish|2481
 #13|@Nerubatskyi_Daniil_v|2471
 #14|@EmptikVariantsBot|2402
 #15|@EmptikBot|2378
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@mrchessmanager|1888
 #57|@TheMatrix2029|1884
 #58|@TeamChelsie|1869
-#59|@colinbot|1860
+#59|@colinbot|1868
 #60|@B0T5_RU13|1852
 #61|@Lili-Variants|1846
 #62|@SacrificialSage|1815
@@ -66,9 +66,9 @@ Rank|Bot|Rating
 #64|@GodelEscherBot|1805
 #65|@Yemmi-Yemmi|1799
 #66|@thibot|1789
-#67|@OpeningsBot|1784
-#68|@RobotTigerSlav|1781
-#69|@XXXTryandTryXXX|1781
+#67|@RobotTigerSlav|1781
+#68|@XXXTryandTryXXX|1781
+#69|@OpeningsBot|1777
 #70|@NormalBulletBot|1774
 #71|@Botzer|1772
 #72|@CloudBOT|1758
@@ -132,10 +132,10 @@ Rank|Bot|Rating
 #130|@Nicholaswb_BOT|1288
 #131|@AEBROADUSBOTTER|1279
 #132|@ReallyCrazyBOT|1279
-#133|@pawnrobot|1259
-#134|@AbhijithHISBot|1258
-#135|@Humuhumunukunukuapu|1258
-#136|@Jannik08_fan|1258
+#133|@AbhijithHISBot|1258
+#134|@Humuhumunukunukuapu|1258
+#135|@Jannik08_fan|1258
+#136|@pawnrobot|1258
 #137|@PowerOnBot|1258
 #138|@xDmanBOT|1258
 #139|@yobmef|1258

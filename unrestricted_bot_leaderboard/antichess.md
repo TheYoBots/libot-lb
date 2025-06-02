@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2943
 #8|@Nikitosik-ai|2893
-#9|@RaspFish|2883
+#9|@RaspFish|2887
 #10|@Coolman2021|2879
 #11|@TheMatrix2029|2866
 #12|@UltronBot|2859
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@AntichessAnalyzer|2673
 #28|@SCP079|2662
 #29|@Lenya228_BOT|2661
-#30|@colinbot|2654
+#30|@colinbot|2646
 #31|@MalanChess|2638
 #32|@vrnts_colinbot|2637
 #33|@Kizbuurb|2621
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@ESC_BOT|2394
 #81|@CatBot_14|2393
 #82|@NormalBulletBot|2393
-#83|@NilatacBot|2378
+#83|@NilatacBot|2391
 #84|@Resolved-Bot|2369
 #85|@Trumpfor2O2O|2366
 #86|@HuxZero|2361
@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@Hyper-Stockfish|2230
 #108|@CocopikachuBOT|2226
 #109|@TungJohn|2225
-#110|@anti-bot|2221
-#111|@Good-Game-123|2221
+#110|@Good-Game-123|2221
+#111|@anti-bot|2218
 #112|@The-Fastest-Bot|2218
 #113|@All_Except_Chess960|2214
 #114|@SaturnBot|2214
@@ -126,9 +126,9 @@ Rank|Bot|Rating
 #124|@AntiChessBot|2142
 #125|@AnUtterlyKarBot|2134
 #126|@XXIstCentury|2131
-#127|@CatNail|2119
-#128|@PyChessBot|2102
-#129|@TurkiyeHogwartsBOT|2099
+#127|@PyChessBot|2102
+#128|@TurkiyeHogwartsBOT|2099
+#129|@CatNail|2092
 #130|@Stockfish-MEDIUM|2090
 #131|@ZamuChess|2049
 #132|@Botzer|2020
@@ -269,9 +269,9 @@ Rank|Bot|Rating
 #267|@DespacitoBot|1175
 #268|@BogoBot|1155
 #269|@thousandatom|1146
-#270|@MinOpponentMoves|1114
-#271|@Green_Tea_Ice_Cream|1107
-#272|@Md211bot|1107
+#270|@Green_Tea_Ice_Cream|1107
+#271|@Md211bot|1107
+#272|@MinOpponentMoves|1102
 #273|@The_dragon_bot|1076
 #274|@Boom_Bot|1044
 #275|@Mega_BOT|1032
