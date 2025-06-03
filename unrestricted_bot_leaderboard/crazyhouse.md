@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@Jussicas|2035
 #71|@thibot|2032
 #72|@Less_of_a_threat|2025
-#73|@Stockfish-MEDIUM|1987
+#73|@Stockfish-MEDIUM|1990
 #74|@Magnus-BOT|1986
 #75|@PyChessBot|1978
 #76|@ESC_BOT|1966
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@Lightning_SpeedChess|1696
 #115|@B0T5_RU13|1683
 #116|@FASTCHESSBOT|1666
-#117|@OpeningsBot|1665
-#118|@SipsonsamsonBOT|1665
+#117|@SipsonsamsonBOT|1665
+#118|@OpeningsBot|1662
 #119|@MistakeBOT|1655
 #120|@Isaacwb_BOT|1640
 #121|@SriLankaChess|1623

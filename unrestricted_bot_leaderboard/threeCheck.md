@@ -33,10 +33,10 @@ Rank|Bot|Rating
 #31|@ChessVBOT|2430
 #32|@Lenya228_BOT|2429
 #33|@NimsiluBot|2422
-#34|@RaspFish|2417
+#34|@RaspFish|2409
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
-#37|@colinbot|2316
+#37|@colinbot|2326
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@KingfishX|2285
@@ -60,8 +60,8 @@ Rank|Bot|Rating
 #58|@AnUtterlyKarBot|2103
 #59|@Dean_Summer_Bot|2086
 #60|@Magnus-BOT|2084
-#61|@Stockfish-MEDIUM|2071
-#62|@Xerus_1|2070
+#61|@Xerus_1|2070
+#62|@Stockfish-MEDIUM|2068
 #63|@ROBOT_RANDEER2007|2059
 #64|@Official_bot|2041
 #65|@Resolved-Bot|2026
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@PetersTestBot|1935
 #78|@Lila-Stockfish|1917
 #79|@SkyBlaster|1913
-#80|@OpeningsBot|1910
+#80|@OpeningsBot|1912
 #81|@HyperLitikBOT|1908
 #82|@PowerOnBot|1894
 #83|@CloudBOT|1892
@@ -112,8 +112,8 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@DavidsGuterBot|1588
-#114|@newengine2022|1588
+#113|@newengine2022|1588
+#114|@DavidsGuterBot|1585
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
 #117|@TrashBot|1519
@@ -178,5 +178,5 @@ Rank|Bot|Rating
 #176|@BogoBot|928
 #177|@TheSystem_Bot|905
 #178|@MateCheckCapture|876
-#179|@MinOpponentMoves|825
+#179|@MinOpponentMoves|824
 #180|@BOT_Stockfish13|800

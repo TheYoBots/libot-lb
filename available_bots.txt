@@ -1800,6 +1800,7 @@ misteick_bot
 misterrengar
 mittens-bot
 mittensthechessb0t
+mjchess13
 mkad-106_bot
 mocheezero
 mochi_bot
@@ -3033,4 +3034,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mjchess13
+ar4asd1-bot
