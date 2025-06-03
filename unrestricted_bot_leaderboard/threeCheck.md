@@ -30,13 +30,13 @@ Rank|Bot|Rating
 #28|@faith_bot|2447
 #29|@Nikitosik-ai|2440
 #30|@chessbot2880|2439
-#31|@RaspFish|2433
-#32|@ChessVBOT|2430
-#33|@Lenya228_BOT|2429
-#34|@NimsiluBot|2422
+#31|@ChessVBOT|2430
+#32|@Lenya228_BOT|2429
+#33|@NimsiluBot|2422
+#34|@RaspFish|2417
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
-#37|@colinbot|2311
+#37|@colinbot|2316
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@KingfishX|2285
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@AnUtterlyKarBot|2103
 #59|@Dean_Summer_Bot|2086
 #60|@Magnus-BOT|2084
-#61|@Stockfish-MEDIUM|2077
+#61|@Stockfish-MEDIUM|2071
 #62|@Xerus_1|2070
 #63|@ROBOT_RANDEER2007|2059
 #64|@Official_bot|2041

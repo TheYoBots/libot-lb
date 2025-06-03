@@ -182,8 +182,8 @@ Rank|Bot|Rating
 #180|@ReallyCrazyBOT|1245
 #181|@NightStarFox|1243
 #182|@Happy_One|1223
-#183|@Grand_MefBartu-BOT|1200
-#184|@pawnrobot|1200
+#183|@pawnrobot|1209
+#184|@Grand_MefBartu-BOT|1200
 #185|@FluffBallCuddly|1191
 #186|@heatseeker223|1191
 #187|@ChessPlayer1225|1183

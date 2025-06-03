@@ -1307,6 +1307,7 @@ imporver-engine
 impossiblewin
 imreallynotabot
 inanisbot
+indi_bot
 indianchessrobot
 inflames1996
 integralbot
@@ -3032,4 +3033,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-indi_bot
+mjchess13
