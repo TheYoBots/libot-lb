@@ -213,6 +213,7 @@ ax2xb2
 axwchessbot
 ayodia
 azdad
+azur_pr
 b-the-bot
 b0ngfish
 b0red_bot
@@ -1310,6 +1311,7 @@ imreallynotabot
 inanisbot
 indi_bot
 indianchessrobot
+indianguyplayz
 inflames1996
 integralbot
 integralmathbot
@@ -2750,6 +2752,7 @@ tortademanzana023
 toxic_bot
 tracer_bot
 trainingbot0
+trainingbuddy
 trainspotter
 transformer_chess
 trashbot
@@ -3035,6 +3038,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-azur_pr
-trainingbuddy
-indianguyplayz

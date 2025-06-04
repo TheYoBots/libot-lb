@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@RaspFish|2408
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
-#37|@colinbot|2326
+#37|@colinbot|2316
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@KingfishX|2285
@@ -75,11 +75,11 @@ Rank|Bot|Rating
 #73|@Lili-Variants|1955
 #74|@lightspeed_bot|1951
 #75|@pistol-play|1939
-#76|@PROBOT123567|1936
-#77|@PetersTestBot|1935
-#78|@Lila-Stockfish|1917
-#79|@SkyBlaster|1913
-#80|@OpeningsBot|1912
+#76|@OpeningsBot|1937
+#77|@PROBOT123567|1936
+#78|@PetersTestBot|1935
+#79|@Lila-Stockfish|1917
+#80|@SkyBlaster|1913
 #81|@HyperLitikBOT|1908
 #82|@PowerOnBot|1894
 #83|@CloudBOT|1892
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
 #113|@newengine2022|1588
-#114|@DavidsGuterBot|1585
+#114|@DavidsGuterBot|1582
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
 #117|@TrashBot|1519

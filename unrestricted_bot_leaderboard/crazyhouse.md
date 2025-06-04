@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@Jussicas|2035
 #71|@thibot|2032
 #72|@Less_of_a_threat|2025
-#73|@Stockfish-MEDIUM|1990
-#74|@Magnus-BOT|1986
+#73|@Magnus-BOT|1986
+#74|@Stockfish-MEDIUM|1983
 #75|@PyChessBot|1978
 #76|@ESC_BOT|1966
 #77|@mrchessmanager|1962
@@ -91,9 +91,9 @@ Rank|Bot|Rating
 #89|@XXIstCentury|1875
 #90|@ChessBot3021|1872
 #91|@CocopikachuBOT|1868
-#92|@legendbot1|1866
-#93|@MyNameIsSpeeedy|1861
-#94|@colinbot|1860
+#92|@colinbot|1868
+#93|@legendbot1|1866
+#94|@MyNameIsSpeeedy|1861
 #95|@Bot_AOOP11|1858
 #96|@AnUtterlyKarBot|1829
 #97|@Dong_Xiao_Yuan|1829
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@B0T5_RU13|1683
 #116|@FASTCHESSBOT|1666
 #117|@SipsonsamsonBOT|1665
-#118|@OpeningsBot|1664
+#118|@OpeningsBot|1660
 #119|@MistakeBOT|1655
 #120|@Isaacwb_BOT|1640
 #121|@SriLankaChess|1623
@@ -182,7 +182,7 @@ Rank|Bot|Rating
 #180|@ReallyCrazyBOT|1245
 #181|@NightStarFox|1243
 #182|@Happy_One|1223
-#183|@pawnrobot|1208
+#183|@pawnrobot|1206
 #184|@Grand_MefBartu-BOT|1200
 #185|@FluffBallCuddly|1191
 #186|@heatseeker223|1191
@@ -204,4 +204,4 @@ Rank|Bot|Rating
 #202|@GuineaBot3|845
 #203|@MateCheckCapture|828
 #204|@TrashBot|800
-#205|@MinOpponentMoves|738
+#205|@MinOpponentMoves|736

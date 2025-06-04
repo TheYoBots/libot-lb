@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@NimsiluBot|2562
 #16|@UltronBot|2556
 #17|@Viet-AI|2556
-#18|@RaspFish|2542
+#18|@RaspFish|2543
 #19|@ttBOT|2540
 #20|@BitExtender128|2526
 #21|@ResoluteBot|2525
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@abhisun_bot|2384
 #33|@KingfishX|2369
 #34|@mrchessmanager|2369
-#35|@Resolved-Bot|2363
-#36|@Stockfish-MEDIUM|2361
+#35|@Stockfish-MEDIUM|2366
+#36|@Resolved-Bot|2363
 #37|@CloudBot_v2|2357
 #38|@faith_bot|2353
 #39|@Lila-Stockfish|2350
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@OpeningsBot|2060
 #120|@azdad|2047
 #121|@Less_of_a_threat|2047
-#122|@colinbot|2044
+#122|@colinbot|2038
 #123|@MagnusCarlsen1507|2037
 #124|@HuxZero|2035
 #125|@EasyWinGG|2032
