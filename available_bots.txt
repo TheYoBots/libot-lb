@@ -156,6 +156,7 @@ apraz
 aquaflame
 aquafrenzy
 aqwert123
+ar4asd1-bot
 ara-online
 ararimbelami
 arasanx
@@ -3034,4 +3035,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ar4asd1-bot
+azur_pr
+trainingbuddy
+indianguyplayz

@@ -34,10 +34,10 @@ Rank|Bot|Rating
 #32|@bekbot|2307
 #33|@IAMSTOCKFISH123|2305
 #34|@Magnus-BOT|2304
-#35|@Xmas_dragon|2300
-#36|@Ujwal1001|2297
-#37|@robiachess|2295
-#38|@OpeningsBot|2294
+#35|@OpeningsBot|2304
+#36|@Xmas_dragon|2300
+#37|@Ujwal1001|2297
+#38|@robiachess|2295
 #39|@Quanticade|2286
 #40|@mrohCentaur|2285
 #41|@Toodfish|2273
@@ -96,8 +96,8 @@ Rank|Bot|Rating
 #94|@RonaldDuckBot|2101
 #95|@The_Ruff_Rider10|2101
 #96|@TheAstroBot|2101
-#97|@Humanoid_1800|2096
-#98|@ZhangirKhanBOT|2093
+#97|@ZhangirKhanBOT|2093
+#98|@Humanoid_1800|2092
 #99|@allvariants|2091
 #100|@sf_bot|2088
 #101|@Pro-Python-BOT|2084
@@ -107,9 +107,9 @@ Rank|Bot|Rating
 #105|@HyperLitikBOT|2073
 #106|@pistol-play|2071
 #107|@Trollfish-Bot|2069
-#108|@GarboBot|2068
-#109|@StockfishPower|2065
-#110|@Hyper-Stockfish|2064
+#108|@StockfishPower|2065
+#109|@Hyper-Stockfish|2064
+#110|@GarboBot|2063
 #111|@BotifiedMoyao|2058
 #112|@Dong_Xiao_Yuan|2054
 #113|@DragonBallZFan|2052
@@ -153,7 +153,7 @@ Rank|Bot|Rating
 #151|@TheLegendaryKnight|1935
 #152|@chicken_farmer|1926
 #153|@yowCapablanca|1914
-#154|@RadianceEngine|1908
+#154|@RadianceEngine|1905
 #155|@TrolliumBot|1894
 #156|@honzovy-sachy-2|1892
 #157|@yeoldwiz|1890
@@ -206,8 +206,8 @@ Rank|Bot|Rating
 #204|@Ssech_BOT|1741
 #205|@DragonflyBOT|1740
 #206|@noobic_bot|1735
-#207|@Uras21|1735
-#208|@RoundMoundOfRebounds|1730
+#207|@RoundMoundOfRebounds|1735
+#208|@Uras21|1735
 #209|@walrusbot|1730
 #210|@Viridithas|1722
 #211|@St6090|1721
@@ -307,7 +307,7 @@ Rank|Bot|Rating
 #305|@HerathHerath|1477
 #306|@YagizTurkiyeBOT|1476
 #307|@MRT23|1469
-#308|@GyatsoBot|1466
+#308|@GyatsoBot|1468
 #309|@TheSystem_Bot|1466
 #310|@Mate-AI|1454
 #311|@dtsudo|1449
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@czesc-bot|1291
 #352|@Kapablanca_balls|1291
 #353|@kidobot2911|1284
-#354|@Cimille|1281
+#354|@Cimille|1273
 #355|@TORTADEMANZANA023|1272
 #356|@Blasting4|1258
 #357|@CheakyKoala|1258
