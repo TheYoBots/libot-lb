@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@ttBOT|2716
 #2|@VariantsBot|2703
 #3|@Nikitosik-ai|2645
-#4|@InvinxibleFlxsh|2628
+#4|@InvinxibleFlxsh|2607
 #5|@SkyBlaster|2603
 #6|@Viet-AI|2600
 #7|@lord-bot|2581
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@The-Fastest-Bot|2402
 #39|@lightspeed_bot|2396
 #40|@thibot|2393
-#41|@colinbot|2377
+#41|@colinbot|2380
 #42|@Jussicas|2373
 #43|@TheMatrix2025|2368
 #44|@Lili-Variants|2357
@@ -78,10 +78,10 @@ Rank|Bot|Rating
 #76|@Johnsun|2181
 #77|@HuxZero|2176
 #78|@AnUtterlyKarBot|2174
-#79|@knight_128|2144
-#80|@Kizburb|2126
-#81|@mc-king-098|2124
-#82|@OpeningsBot|2124
+#79|@OpeningsBot|2170
+#80|@knight_128|2144
+#81|@Kizburb|2126
+#82|@mc-king-098|2124
 #83|@xiang-qi|2113
 #84|@atomicli|2111
 #85|@Trumpfor2O2O|2103

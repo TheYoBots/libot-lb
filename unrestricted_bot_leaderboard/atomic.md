@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@NimsiluBot|2562
 #16|@UltronBot|2556
 #17|@Viet-AI|2556
-#18|@RaspFish|2543
+#18|@RaspFish|2544
 #19|@ttBOT|2540
 #20|@BitExtender128|2526
 #21|@ResoluteBot|2525
@@ -292,12 +292,12 @@ Rank|Bot|Rating
 #290|@PROBROMAN|1317
 #291|@Atomicbot1|1294
 #292|@DavidsGuterBot|1287
-#293|@pawnrobot|1280
-#294|@XXXTryandTryXXX|1280
-#295|@legendbot1|1277
-#296|@PranavChessBot|1273
-#297|@SkyBlaster|1269
-#298|@Galaxy_Guardian|1265
+#293|@XXXTryandTryXXX|1280
+#294|@legendbot1|1277
+#295|@PranavChessBot|1273
+#296|@SkyBlaster|1269
+#297|@Galaxy_Guardian|1265
+#298|@pawnrobot|1263
 #299|@Bot-31795|1258
 #300|@Mr-Bob|1258
 #301|@NarratingSince86|1258
@@ -328,7 +328,7 @@ Rank|Bot|Rating
 #326|@ZX-Chess|946
 #327|@BogoBot|945
 #328|@thousandatom|865
-#329|@MinOpponentMoves|815
+#329|@MinOpponentMoves|807
 #330|@bfdzvfsgaergfds|800
 #331|@TheThanosBot|696
 #332|@BetaOneBot|690
