@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@NimsiluBot|2058
 #56|@Hyper-Stockfish|2044
 #57|@Kizbuurb|2035
-#58|@colinbot|2029
+#58|@colinbot|2033
 #59|@CloudBot_v2|2027
 #60|@faith_bot|2026
 #61|@VariantsTop|2014
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
-#82|@OpeningsBot|1919
+#82|@OpeningsBot|1913
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@Ramses-Chess|1547
 #118|@Toxic_Bot|1541
 #119|@SXDEFENDER|1534
-#120|@DavidsGuterBot|1523
+#120|@DavidsGuterBot|1527
 #121|@Light_To_The_Rescue|1523
 #122|@Z-Move|1495
 #123|@TFRChessClub|1494
@@ -153,7 +153,7 @@ Rank|Bot|Rating
 #151|@jasans_bot|1268
 #152|@ChessChipBot|1258
 #153|@Hrant_Petrosyan_BOT|1258
-#154|@pawnrobot|1250
+#154|@pawnrobot|1246
 #155|@HiddeNL|1242
 #156|@knight_128|1233
 #157|@MyNameIsSpeedy|1226
@@ -172,6 +172,6 @@ Rank|Bot|Rating
 #170|@thousandatom|970
 #171|@BogoBot|946
 #172|@SacrificeBot|934
-#173|@MinOpponentMoves|887
+#173|@MinOpponentMoves|895
 #174|@GuineaBot2|884
 #175|@MateCheckCapture|795
