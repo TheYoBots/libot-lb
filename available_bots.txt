@@ -1312,6 +1312,7 @@ inanisbot
 indi_bot
 indianchessrobot
 indianguyplayz
+indibot
 inflames1996
 integralbot
 integralmathbot
@@ -3038,4 +3039,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-indibot
+abotofabotofabot

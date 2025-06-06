@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@FireFishBOT|2385
 #12|@Coolman2021|2378
 #13|@Karpov_bot|2359
-#14|@TheMatrix2025|2346
-#15|@AndromedaSX1|2344
-#16|@RaspFish|2344
+#14|@RaspFish|2348
+#15|@TheMatrix2025|2346
+#16|@AndromedaSX1|2344
 #17|@Lenya228_BOT|2317
 #18|@Viet-AI|2317
 #19|@Fairy_Belzedar|2316
@@ -57,9 +57,9 @@ Rank|Bot|Rating
 #55|@NimsiluBot|2058
 #56|@Hyper-Stockfish|2044
 #57|@Kizbuurb|2035
-#58|@colinbot|2033
-#59|@CloudBot_v2|2027
-#60|@faith_bot|2026
+#58|@CloudBot_v2|2027
+#59|@faith_bot|2026
+#60|@colinbot|2023
 #61|@VariantsTop|2014
 #62|@CocopikachuBOT|2009
 #63|@lightspeed_bot|2007
@@ -80,8 +80,8 @@ Rank|Bot|Rating
 #78|@Pineapple-Friendly|1937
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
-#81|@SacrificialSage|1925
-#82|@OpeningsBot|1913
+#81|@OpeningsBot|1927
+#82|@SacrificialSage|1925
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890

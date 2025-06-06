@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@ChessVBOT|2430
 #32|@Lenya228_BOT|2429
 #33|@NimsiluBot|2422
-#34|@RaspFish|2408
+#34|@RaspFish|2409
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
 #37|@colinbot|2305
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@lightspeed_bot|1951
 #75|@Galaxy_Guardian|1947
 #76|@pistol-play|1939
-#77|@OpeningsBot|1937
+#77|@OpeningsBot|1938
 #78|@PROBOT123567|1936
 #79|@PetersTestBot|1935
 #80|@Lila-Stockfish|1917
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
 #113|@newengine2022|1588
-#114|@DavidsGuterBot|1582
+#114|@DavidsGuterBot|1579
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
 #117|@TrashBot|1519
