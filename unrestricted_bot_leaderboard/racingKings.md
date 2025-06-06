@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@Viet-AI|2600
 #7|@lord-bot|2581
 #8|@Lenya228_BOT|2572
-#9|@RaspFish|2564
+#9|@RaspFish|2565
 #10|@Fairy_Belzedar|2559
 #11|@EmptikVariantsBot|2557
 #12|@ToromBot|2557
@@ -45,12 +45,12 @@ Rank|Bot|Rating
 #43|@TheMatrix2025|2368
 #44|@Lili-Variants|2357
 #45|@Viet_BOT|2344
-#46|@EvenMatchup|2336
-#47|@chessbot2880|2334
-#48|@ibep|2333
-#49|@CloudBot_v2|2331
-#50|@ElPeonElectrico|2326
-#51|@BotsFanClub|2316
+#46|@BotsFanClub|2338
+#47|@EvenMatchup|2336
+#48|@chessbot2880|2334
+#49|@ibep|2333
+#50|@CloudBot_v2|2331
+#51|@ElPeonElectrico|2326
 #52|@Bot_AOOP11|2314
 #53|@KingfishX|2312
 #54|@Viet-BOT|2312
@@ -186,4 +186,4 @@ Rank|Bot|Rating
 #184|@MateCheckCapture|1011
 #185|@littlesamsun|996
 #186|@ZX-Chess|982
-#187|@MinOpponentMoves|725
+#187|@MinOpponentMoves|723

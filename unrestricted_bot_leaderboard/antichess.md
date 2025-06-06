@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@HerokuHasnotplay|2196
 #120|@OpeningsBot|2183
 #121|@Lucror|2178
-#122|@anti-bot|2172
+#122|@anti-bot|2167
 #123|@lightspeed_bot|2152
 #124|@AntiChessBot|2142
 #125|@AnUtterlyKarBot|2134
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Stockfish-MEDIUM|2117
 #128|@PyChessBot|2102
 #129|@TurkiyeHogwartsBOT|2099
-#130|@CatNail|2098
+#130|@CatNail|2092
 #131|@ZamuChess|2049
 #132|@Botzer|2020
 #133|@Jussicas|2019
