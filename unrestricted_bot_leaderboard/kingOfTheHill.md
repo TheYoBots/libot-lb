@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@EmptikVariantsBot|2443
 #6|@Nikitosikbot_v2|2440
 #7|@ElPeonElectrico|2414
-#8|@ToromBot|2412
+#8|@ToromBot|2414
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@Pineapple-Friendly|1937
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
-#81|@OpeningsBot|1927
+#81|@OpeningsBot|1925
 #82|@SacrificialSage|1925
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@Epiano_Bot|1567
 #117|@Ramses-Chess|1547
 #118|@Toxic_Bot|1541
-#119|@DavidsGuterBot|1535
+#119|@DavidsGuterBot|1537
 #120|@SXDEFENDER|1534
 #121|@Light_To_The_Rescue|1523
 #122|@Z-Move|1495
@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@ChessChipBot|1258
 #153|@Hrant_Petrosyan_BOT|1258
 #154|@HiddeNL|1242
-#155|@pawnrobot|1238
+#155|@pawnrobot|1236
 #156|@knight_128|1233
 #157|@MyNameIsSpeedy|1226
 #158|@Bottios|1223
@@ -172,6 +172,6 @@ Rank|Bot|Rating
 #170|@thousandatom|970
 #171|@BogoBot|946
 #172|@SacrificeBot|934
-#173|@MinOpponentMoves|911
+#173|@MinOpponentMoves|920
 #174|@GuineaBot2|884
 #175|@MateCheckCapture|795

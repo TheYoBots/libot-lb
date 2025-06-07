@@ -33,11 +33,11 @@ Rank|Bot|Rating
 #31|@ChessVBOT|2430
 #32|@Lenya228_BOT|2429
 #33|@NimsiluBot|2422
-#34|@RaspFish|2409
+#34|@RaspFish|2413
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
-#37|@colinbot|2305
-#38|@LudwigBOT|2304
+#37|@LudwigBOT|2304
+#38|@colinbot|2302
 #39|@lord-bot|2300
 #40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@lightspeed_bot|1951
 #75|@Galaxy_Guardian|1947
 #76|@pistol-play|1939
-#77|@OpeningsBot|1938
+#77|@OpeningsBot|1936
 #78|@PROBOT123567|1936
 #79|@PetersTestBot|1935
 #80|@Lila-Stockfish|1917
@@ -178,5 +178,5 @@ Rank|Bot|Rating
 #176|@BogoBot|928
 #177|@TheSystem_Bot|905
 #178|@MateCheckCapture|876
-#179|@MinOpponentMoves|807
+#179|@MinOpponentMoves|843
 #180|@BOT_Stockfish13|800
