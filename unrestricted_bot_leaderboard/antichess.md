@@ -119,9 +119,9 @@ Rank|Bot|Rating
 #117|@NormalBlitzBulletBot|2205
 #118|@EstmileBot|2200
 #119|@HerokuHasnotplay|2196
-#120|@anti-bot|2190
+#120|@OpeningsBot|2185
 #121|@Lucror|2178
-#122|@OpeningsBot|2177
+#122|@anti-bot|2177
 #123|@lightspeed_bot|2152
 #124|@AntiChessBot|2142
 #125|@AnUtterlyKarBot|2134
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Stockfish-MEDIUM|2117
 #128|@PyChessBot|2102
 #129|@TurkiyeHogwartsBOT|2099
-#130|@CatNail|2094
+#130|@CatNail|2090
 #131|@ZamuChess|2049
 #132|@Botzer|2020
 #133|@Jussicas|2019
@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@NoTallkOnlyGames|1871
 #145|@Lumac0|1861
 #146|@Pineapple-Friendly|1858
-#147|@MyNameIsWhatLOL|1826
-#148|@pawnrobot|1823
+#147|@pawnrobot|1833
+#148|@MyNameIsWhatLOL|1826
 #149|@Bot2000|1807
 #150|@Emil_V2|1789
 #151|@bot1996123|1787
@@ -275,8 +275,8 @@ Rank|Bot|Rating
 #273|@The_dragon_bot|1076
 #274|@Boom_Bot|1044
 #275|@Mega_BOT|1032
-#276|@katzebot|1016
-#277|@MinOpponentMoves|1005
+#276|@MinOpponentMoves|1021
+#277|@katzebot|1016
 #278|@ZX-Chess|1000
 #279|@Epiano_Bot|986
 #280|@BetaOneBot|954

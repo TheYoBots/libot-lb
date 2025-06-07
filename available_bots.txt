@@ -5,6 +5,7 @@ abhijithhisbot
 abhinav-bot
 abhisun_bot
 abood_alkayyali_02
+abotofabotofabot
 abotwith3200rating
 absaks
 abuziddin-bot
@@ -3039,4 +3040,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-abotofabotofabot

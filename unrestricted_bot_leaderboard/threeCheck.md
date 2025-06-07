@@ -112,8 +112,8 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@newengine2022|1588
-#114|@DavidsGuterBot|1579
+#113|@DavidsGuterBot|1593
+#114|@newengine2022|1588
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
 #117|@TrashBot|1519
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@MyNameIsWhatLOL|1256
 #158|@SneakyBot21|1256
 #159|@TORTADEMANZANA023|1233
-#160|@pawnrobot|1229
+#160|@pawnrobot|1228
 #161|@heatseeker223|1191
 #162|@admin-bot|1188
 #163|@Ujwal1001|1179
@@ -178,5 +178,5 @@ Rank|Bot|Rating
 #176|@BogoBot|928
 #177|@TheSystem_Bot|905
 #178|@MateCheckCapture|876
-#179|@MinOpponentMoves|808
+#179|@MinOpponentMoves|807
 #180|@BOT_Stockfish13|800
