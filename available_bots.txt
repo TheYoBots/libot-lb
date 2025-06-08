@@ -699,6 +699,7 @@ cpu1998
 cpu2002
 cpu2006
 cpu2010
+cr7-suii
 crabchess
 crabstick-engine
 craksys_ai
@@ -3040,4 +3041,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cr7-suii
+gcnbyfaye
