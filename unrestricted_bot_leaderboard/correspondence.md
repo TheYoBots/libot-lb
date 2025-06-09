@@ -36,10 +36,10 @@ Rank|Bot|Rating
 #34|@Magnus-BOT|2304
 #35|@Xmas_dragon|2300
 #36|@Ujwal1001|2297
-#37|@OpeningsBot|2296
-#38|@robiachess|2295
-#39|@Quanticade|2286
-#40|@mrohCentaur|2285
+#37|@robiachess|2295
+#38|@Quanticade|2286
+#39|@mrohCentaur|2285
+#40|@OpeningsBot|2283
 #41|@Toodfish|2273
 #42|@Cheng-4|2269
 #43|@eggnog-chess-engine|2254
@@ -304,7 +304,7 @@ Rank|Bot|Rating
 #302|@Stockfish_i7|1490
 #303|@Jwsus|1485
 #304|@AndrewYXZBot|1484
-#305|@GyatsoBot|1481
+#305|@GyatsoBot|1484
 #306|@PolyBOT|1481
 #307|@HerathHerath|1477
 #308|@YagizTurkiyeBOT|1476
@@ -364,7 +364,7 @@ Rank|Bot|Rating
 #362|@ZX-Chess|1258
 #363|@blitzz_bot|1252
 #364|@Bottios|1251
-#365|@Cimille|1230
+#365|@Cimille|1225
 #366|@Lozza-Bot|1223
 #367|@CallMeCool|1212
 #368|@kireevi|1211

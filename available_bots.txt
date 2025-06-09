@@ -1076,6 +1076,7 @@ garbobot
 garntbot
 gbcb
 gc1bot
+gcnbyfaye
 gecko_bot
 geemc
 gegenebot
@@ -3041,4 +3042,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gcnbyfaye
+cobrachessbot
+simplestbotever
+badgyal9
