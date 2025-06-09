@@ -229,6 +229,7 @@ babyleela
 babyultimate
 baccara_bot
 badfishchess
+badgyal9
 badmodo
 badplayer33
 bagpiperbot
@@ -661,6 +662,7 @@ clubinfosc21
 clueless-bot
 cmndr
 cnn_bot
+cobrachessbot
 coconochao_bot
 cocopikachubot
 coderden732
@@ -2415,6 +2417,7 @@ simpleeval
 simplelearnedbot
 simplelearnerbot
 simplereval
+simplestbotever
 simplexitor
 simplyturtle
 singularity-alpha
@@ -3042,6 +3045,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cobrachessbot
-simplestbotever
-badgyal9
+saltettorrfisk
+somepythonbot

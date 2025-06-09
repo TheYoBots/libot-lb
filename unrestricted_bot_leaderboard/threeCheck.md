@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@lightspeed_bot|1951
 #75|@Galaxy_Guardian|1947
 #76|@pistol-play|1939
-#77|@OpeningsBot|1936
+#77|@OpeningsBot|1938
 #78|@PROBOT123567|1936
 #79|@PetersTestBot|1935
 #80|@Lila-Stockfish|1917
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@DavidsGuterBot|1593
+#113|@DavidsGuterBot|1592
 #114|@newengine2022|1588
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
@@ -178,5 +178,5 @@ Rank|Bot|Rating
 #176|@BogoBot|928
 #177|@TheSystem_Bot|905
 #178|@MateCheckCapture|876
-#179|@MinOpponentMoves|861
+#179|@MinOpponentMoves|853
 #180|@BOT_Stockfish13|800
