@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Shocky_BOT|2372
+#1|@Shocky_BOT|2369
 #2|@OpeningsBot|2280
 #3|@Humanoid_1800|2053
 #4|@GarboBot|2042

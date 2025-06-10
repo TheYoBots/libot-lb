@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@AntichessAnalyzer|2673
 #28|@SCP079|2662
 #29|@Lenya228_BOT|2661
-#30|@colinbot|2644
+#30|@colinbot|2647
 #31|@MalanChess|2638
 #32|@vrnts_colinbot|2637
 #33|@Kizbuurb|2621
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@ESC_BOT|2394
 #81|@CatBot_14|2393
 #82|@NormalBulletBot|2393
-#83|@NilatacBot|2388
+#83|@NilatacBot|2383
 #84|@Resolved-Bot|2369
 #85|@Trumpfor2O2O|2366
 #86|@HuxZero|2361
@@ -117,9 +117,9 @@ Rank|Bot|Rating
 #115|@YellowFlash_v2|2214
 #116|@CoderDen732|2207
 #117|@NormalBlitzBulletBot|2205
-#118|@EstmileBot|2200
-#119|@HerokuHasnotplay|2196
-#120|@anti-bot|2182
+#118|@anti-bot|2203
+#119|@EstmileBot|2200
+#120|@HerokuHasnotplay|2196
 #121|@OpeningsBot|2182
 #122|@Lucror|2178
 #123|@lightspeed_bot|2152
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Stockfish-MEDIUM|2117
 #128|@PyChessBot|2102
 #129|@TurkiyeHogwartsBOT|2099
-#130|@CatNail|2087
+#130|@CatNail|2077
 #131|@ZamuChess|2049
 #132|@Botzer|2020
 #133|@Jussicas|2019
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@Lumac0|1861
 #146|@Endogenetic-Bot|1859
 #147|@Pineapple-Friendly|1858
-#148|@pawnrobot|1828
+#148|@pawnrobot|1841
 #149|@MyNameIsWhatLOL|1826
 #150|@Bot2000|1807
 #151|@Emil_V2|1789

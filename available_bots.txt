@@ -119,6 +119,7 @@ andrewk2k_bot
 andrewyxzbot
 andromedasx1
 andromedazero
+andromonsterfish
 andscacs1
 anduril_engine
 angela_ce
@@ -2255,6 +2256,7 @@ rewasabot
 rexbot1
 rexherbot
 rezdarservan
+richmondonbot
 rigorousmoron
 rinestro
 rinestrotal
@@ -3047,5 +3049,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-richmondonbot
-andromonsterfish
