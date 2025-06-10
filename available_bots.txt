@@ -2325,6 +2325,7 @@ sai_srihith
 sakunia
 salfachessone
 salmonchess9
+saltettorrfisk
 salvajuega
 samat2016_bot
 sampuanbot
@@ -2458,6 +2459,7 @@ sohilbot
 solidor59
 solistabot
 somebot
+somepythonbot
 soreloserbot
 sovereign_bot
 sovereignking
@@ -3045,5 +3047,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-saltettorrfisk
-somepythonbot
+richmondonbot
+andromonsterfish

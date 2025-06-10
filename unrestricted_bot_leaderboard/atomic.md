@@ -331,7 +331,7 @@ Rank|Bot|Rating
 #329|@BogoBot|945
 #330|@thousandatom|865
 #331|@bfdzvfsgaergfds|800
-#332|@MinOpponentMoves|755
+#332|@MinOpponentMoves|757
 #333|@TheThanosBot|696
 #334|@BetaOneBot|690
 #335|@MateCheckCapture|680

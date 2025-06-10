@@ -118,8 +118,8 @@ Rank|Bot|Rating
 #116|@FASTCHESSBOT|1666
 #117|@SipsonsamsonBOT|1665
 #118|@MistakeBOT|1655
-#119|@Isaacwb_BOT|1640
-#120|@OpeningsBot|1640
+#119|@OpeningsBot|1642
+#120|@Isaacwb_BOT|1640
 #121|@SriLankaChess|1623
 #122|@Viet_BOT|1617
 #123|@david9426_bot|1611

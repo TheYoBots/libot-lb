@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@Lili-Variants|1955
 #74|@lightspeed_bot|1951
 #75|@Galaxy_Guardian|1947
-#76|@pistol-play|1939
-#77|@OpeningsBot|1938
+#76|@OpeningsBot|1940
+#77|@pistol-play|1939
 #78|@PROBOT123567|1936
 #79|@PetersTestBot|1935
 #80|@Lila-Stockfish|1917
