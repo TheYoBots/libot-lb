@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@Jussicas|2577
 #13|@Coolman2021|2568
 #14|@InvinxibleFlxsh|2564
-#15|@Viet-BOT|2555
-#16|@ToromBot|2553
+#15|@ToromBot|2557
+#16|@Viet-BOT|2555
 #17|@ElPeonElectrico|2549
 #18|@CloudBot_v2|2544
 #19|@Fairy_Belzedar|2544
@@ -32,13 +32,13 @@ Rank|Bot|Rating
 #30|@chessbot2880|2439
 #31|@ChessVBOT|2430
 #32|@Lenya228_BOT|2429
-#33|@NimsiluBot|2422
-#34|@RaspFish|2413
+#33|@RaspFish|2423
+#34|@NimsiluBot|2422
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
-#38|@colinbot|2302
-#39|@lord-bot|2300
+#38|@lord-bot|2300
+#39|@colinbot|2292
 #40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@Lili-Variants|1955
 #74|@lightspeed_bot|1951
 #75|@Galaxy_Guardian|1947
-#76|@OpeningsBot|1940
-#77|@pistol-play|1939
+#76|@pistol-play|1939
+#77|@OpeningsBot|1937
 #78|@PROBOT123567|1936
 #79|@PetersTestBot|1935
 #80|@Lila-Stockfish|1917
@@ -178,5 +178,5 @@ Rank|Bot|Rating
 #176|@BogoBot|928
 #177|@TheSystem_Bot|905
 #178|@MateCheckCapture|876
-#179|@MinOpponentMoves|836
+#179|@MinOpponentMoves|833
 #180|@BOT_Stockfish13|800

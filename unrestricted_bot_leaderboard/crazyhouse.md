@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@Dean_Summer_Bot|1898
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
-#87|@colinbot|1888
+#87|@colinbot|1891
 #88|@Galaxy_Guardian|1885
 #89|@The-Fastest-Bot|1885
 #90|@XXIstCentury|1875
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@SipsonsamsonBOT|1665
 #118|@MistakeBOT|1655
 #119|@Isaacwb_BOT|1640
-#120|@OpeningsBot|1638
+#120|@OpeningsBot|1634
 #121|@SriLankaChess|1623
 #122|@Viet_BOT|1617
 #123|@david9426_bot|1611

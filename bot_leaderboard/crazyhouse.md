@@ -1,7 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Stockfish-MEDIUM|1983
-#2|@colinbot|1888
-#3|@OpeningsBot|1638
-#4|@pawnrobot|1191
-#5|@MinOpponentMoves|719
+#1|@colinbot|1891
+#2|@OpeningsBot|1634
+#3|@pawnrobot|1191
+#4|@MinOpponentMoves|719
