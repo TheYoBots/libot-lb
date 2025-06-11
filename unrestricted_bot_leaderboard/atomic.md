@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@KizVariant|2597
 #10|@pistol-play|2590
 #11|@Bharat_royals|2575
-#12|@ToromBot|2575
-#13|@Nikitosikbot_v2|2570
-#14|@Nikitosik-ai|2569
+#12|@Nikitosikbot_v2|2570
+#13|@Nikitosik-ai|2569
+#14|@ToromBot|2564
 #15|@NimsiluBot|2562
 #16|@UltronBot|2556
 #17|@Viet-AI|2556
@@ -298,7 +298,7 @@ Rank|Bot|Rating
 #296|@legendbot1|1277
 #297|@PranavChessBot|1273
 #298|@SkyBlaster|1269
-#299|@pawnrobot|1268
+#299|@pawnrobot|1266
 #300|@Galaxy_Guardian|1265
 #301|@Bot-31795|1258
 #302|@Mr-Bob|1258
@@ -330,8 +330,8 @@ Rank|Bot|Rating
 #328|@ZX-Chess|946
 #329|@BogoBot|945
 #330|@thousandatom|865
-#331|@bfdzvfsgaergfds|800
-#332|@MinOpponentMoves|770
+#331|@MinOpponentMoves|801
+#332|@bfdzvfsgaergfds|800
 #333|@TheThanosBot|696
 #334|@BetaOneBot|690
 #335|@MateCheckCapture|680
