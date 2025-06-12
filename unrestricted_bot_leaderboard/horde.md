@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@AnUtterlyKarBot|1901
 #54|@azdad|1901
 #55|@newengine2022|1901
-#56|@colinbot|1890
+#56|@colinbot|1896
 #57|@mrchessmanager|1888
 #58|@TheMatrix2029|1884
 #59|@TeamChelsie|1869
@@ -68,9 +68,9 @@ Rank|Bot|Rating
 #66|@thibot|1789
 #67|@RobotTigerSlav|1781
 #68|@XXXTryandTryXXX|1781
-#69|@OpeningsBot|1776
-#70|@NormalBulletBot|1774
-#71|@Botzer|1772
+#69|@NormalBulletBot|1774
+#70|@Botzer|1772
+#71|@OpeningsBot|1769
 #72|@CloudBOT|1758
 #73|@CocopikachuBOT|1757
 #74|@Heman36541234578|1741

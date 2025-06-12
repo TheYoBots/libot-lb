@@ -197,11 +197,11 @@ Rank|Bot|Rating
 #195|@jasans_bot|1045
 #196|@Official_bot|1027
 #197|@ZX-Chess|1011
-#198|@magnusglad_bot|979
+#198|@magnusglad_bot|978
 #199|@JPSBOT|958
 #200|@FireTorchV2|955
 #201|@RSVMentor|862
 #202|@GuineaBot3|845
 #203|@MateCheckCapture|828
 #204|@TrashBot|800
-#205|@MinOpponentMoves|717
+#205|@MinOpponentMoves|715

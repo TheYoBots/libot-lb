@@ -1911,6 +1911,7 @@ neuralleela
 neurosocute
 neuroticbishop
 new-tie
+newchessengine-ai
 newengine2022
 nexastrat
 nezh-bot
@@ -3051,4 +3052,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-newchessengine-ai

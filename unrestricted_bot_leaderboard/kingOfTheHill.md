@@ -117,8 +117,8 @@ Rank|Bot|Rating
 #115|@Just-a-random-bot|1604
 #116|@Epiano_Bot|1567
 #117|@Ramses-Chess|1547
-#118|@Toxic_Bot|1541
-#119|@DavidsGuterBot|1539
+#118|@DavidsGuterBot|1543
+#119|@Toxic_Bot|1541
 #120|@SXDEFENDER|1534
 #121|@Light_To_The_Rescue|1523
 #122|@Z-Move|1495
@@ -170,8 +170,8 @@ Rank|Bot|Rating
 #168|@morphbot|1035
 #169|@Jannik08_fan|993
 #170|@thousandatom|970
-#171|@MinOpponentMoves|950
-#172|@BogoBot|946
+#171|@BogoBot|946
+#172|@MinOpponentMoves|946
 #173|@SacrificeBot|934
 #174|@GuineaBot2|884
 #175|@MateCheckCapture|795

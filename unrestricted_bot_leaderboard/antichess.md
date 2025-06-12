@@ -99,10 +99,10 @@ Rank|Bot|Rating
 #97|@BromiumAI|2302
 #98|@EvenMatchup|2302
 #99|@GodelEscherBot|2284
-#100|@Dean_Summer_Bot|2279
-#101|@Johnsun|2269
-#102|@SkyBlaster|2254
-#103|@anti-bot|2241
+#100|@anti-bot|2279
+#101|@Dean_Summer_Bot|2279
+#102|@Johnsun|2269
+#103|@SkyBlaster|2254
 #104|@mrchessmanager|2240
 #105|@TurkiyeHogwarts|2240
 #106|@EagleEye2021|2235
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@Green_Tea_Ice_Cream|1107
 #273|@Md211bot|1107
 #274|@The_dragon_bot|1076
-#275|@MinOpponentMoves|1075
+#275|@MinOpponentMoves|1072
 #276|@Boom_Bot|1044
 #277|@Mega_BOT|1032
 #278|@katzebot|1016

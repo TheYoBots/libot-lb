@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@SkyBlaster|2603
 #7|@Viet-AI|2600
 #8|@lord-bot|2581
-#9|@Lenya228_BOT|2572
-#10|@RaspFish|2572
+#9|@RaspFish|2576
+#10|@Lenya228_BOT|2572
 #11|@Fairy_Belzedar|2559
 #12|@EmptikVariantsBot|2557
 #13|@ToromBot|2555
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@The-Fastest-Bot|2402
 #40|@lightspeed_bot|2396
 #41|@thibot|2393
-#42|@colinbot|2378
+#42|@colinbot|2375
 #43|@Jussicas|2373
 #44|@TheMatrix2025|2368
 #45|@Lili-Variants|2357

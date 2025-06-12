@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@ToromBot|2943
 #2|@RaspFish|2909
 #3|@colinbot|2644
-#4|@anti-bot|2241
+#4|@anti-bot|2279
 #5|@OpeningsBot|2199
 #6|@CatNail|2070
 #7|@pawnrobot|1848
-#8|@MinOpponentMoves|1075
+#8|@MinOpponentMoves|1072
