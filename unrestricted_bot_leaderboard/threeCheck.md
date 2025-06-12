@@ -158,8 +158,8 @@ Rank|Bot|Rating
 #156|@Parth_Dhage_2|1258
 #157|@MyNameIsWhatLOL|1256
 #158|@SneakyBot21|1256
-#159|@TORTADEMANZANA023|1233
-#160|@pawnrobot|1228
+#159|@pawnrobot|1240
+#160|@TORTADEMANZANA023|1233
 #161|@heatseeker223|1191
 #162|@admin-bot|1188
 #163|@Ujwal1001|1179
@@ -178,5 +178,5 @@ Rank|Bot|Rating
 #176|@BogoBot|928
 #177|@TheSystem_Bot|905
 #178|@MateCheckCapture|876
-#179|@MinOpponentMoves|833
+#179|@MinOpponentMoves|831
 #180|@BOT_Stockfish13|800

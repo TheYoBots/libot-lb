@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@SipsonsamsonBOT|1665
 #118|@MistakeBOT|1655
 #119|@Isaacwb_BOT|1640
-#120|@OpeningsBot|1634
+#120|@OpeningsBot|1636
 #121|@SriLankaChess|1623
 #122|@Viet_BOT|1617
 #123|@david9426_bot|1611
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@Grand_MefBartu-BOT|1200
 #184|@FluffBallCuddly|1191
 #185|@heatseeker223|1191
-#186|@pawnrobot|1191
+#186|@pawnrobot|1189
 #187|@ChessPlayer1225|1183
 #188|@Jannik08_fan|1163
 #189|@BSergey11-BOT|1149
@@ -204,4 +204,4 @@ Rank|Bot|Rating
 #202|@GuineaBot3|845
 #203|@MateCheckCapture|828
 #204|@TrashBot|800
-#205|@MinOpponentMoves|719
+#205|@MinOpponentMoves|717

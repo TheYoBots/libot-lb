@@ -596,6 +596,7 @@ chessbot3021
 chessbot8051
 chessbot_2004
 chessbothere
+chessbotz-1
 chesschildren
 chesschipbot
 chesscraftbot
@@ -924,6 +925,7 @@ endokingsspade
 enduring_leela
 energyofbeingbot
 engasaad-bot
+enginearg
 enginehighlvl
 enginuous
 enoizisop
@@ -3049,5 +3051,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-enginearg
-chessbotz-1
+newchessengine-ai

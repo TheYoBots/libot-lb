@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@HulkBot|2387
 #26|@MehFish|2376
 #27|@Mega_BOT|2371
-#28|@Shocky_BOT|2364
+#28|@Shocky_BOT|2362
 #29|@CorrespondenceBot|2353
 #30|@duchessAI|2344
 #31|@HansNiemannBot|2338
@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@robiachess|2295
 #38|@Quanticade|2286
 #39|@mrohCentaur|2285
-#40|@OpeningsBot|2282
+#40|@OpeningsBot|2285
 #41|@Toodfish|2273
 #42|@Cheng-4|2269
 #43|@eggnog-chess-engine|2254
@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@TheLegendaryKnight|1935
 #153|@chicken_farmer|1926
 #154|@yowCapablanca|1914
-#155|@RadianceEngine|1901
+#155|@RadianceEngine|1913
 #156|@TrolliumBot|1894
 #157|@honzovy-sachy-2|1892
 #158|@yeoldwiz|1890
@@ -208,8 +208,8 @@ Rank|Bot|Rating
 #206|@Ssech_BOT|1741
 #207|@noobic_bot|1735
 #208|@Uras21|1735
-#209|@walrusbot|1730
-#210|@RoundMoundOfRebounds|1729
+#209|@RoundMoundOfRebounds|1733
+#210|@walrusbot|1730
 #211|@Viridithas|1722
 #212|@St6090|1721
 #213|@Stockfish-MEDIUM|1721
@@ -308,7 +308,7 @@ Rank|Bot|Rating
 #306|@HerathHerath|1477
 #307|@YagizTurkiyeBOT|1476
 #308|@KnightOwlBot|1473
-#309|@GyatsoBot|1471
+#309|@GyatsoBot|1469
 #310|@MRT23|1469
 #311|@TheSystem_Bot|1466
 #312|@Mate-AI|1454
