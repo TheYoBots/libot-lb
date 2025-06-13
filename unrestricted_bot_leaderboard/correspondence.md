@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@TheLegendaryKnight|1935
 #153|@chicken_farmer|1926
 #154|@yowCapablanca|1914
-#155|@RadianceEngine|1910
+#155|@RadianceEngine|1900
 #156|@TrolliumBot|1894
 #157|@honzovy-sachy-2|1892
 #158|@yeoldwiz|1890

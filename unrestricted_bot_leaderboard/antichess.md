@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@AntichessAnalyzer|2673
 #28|@SCP079|2662
 #29|@Lenya228_BOT|2661
-#30|@colinbot|2644
+#30|@colinbot|2643
 #31|@MalanChess|2638
 #32|@vrnts_colinbot|2637
 #33|@Kizbuurb|2621
@@ -54,9 +54,9 @@ Rank|Bot|Rating
 #52|@AlfaBot|2541
 #53|@Leelabotmaster|2538
 #54|@Nam-Robot|2537
-#55|@Dark_evil_bot|2525
-#56|@Bot_AOOP11|2521
-#57|@Nakshatra3|2519
+#55|@Nakshatra3|2532
+#56|@Dark_evil_bot|2525
+#57|@Bot_AOOP11|2521
 #58|@HyperLitikBOT|2511
 #59|@pistol-play|2498
 #60|@MrBOThacker|2477
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@ESC_BOT|2394
 #81|@CatBot_14|2393
 #82|@NormalBulletBot|2393
-#83|@NilatacBot|2383
+#83|@NilatacBot|2375
 #84|@Resolved-Bot|2369
 #85|@Trumpfor2O2O|2366
 #86|@HuxZero|2361
@@ -98,8 +98,8 @@ Rank|Bot|Rating
 #96|@NienishiEngine|2304
 #97|@BromiumAI|2302
 #98|@EvenMatchup|2302
-#99|@GodelEscherBot|2284
-#100|@anti-bot|2279
+#99|@anti-bot|2292
+#100|@GodelEscherBot|2284
 #101|@Dean_Summer_Bot|2279
 #102|@Johnsun|2269
 #103|@SkyBlaster|2254
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@Lumac0|1861
 #146|@Endogenetic-Bot|1859
 #147|@Pineapple-Friendly|1858
-#148|@pawnrobot|1848
+#148|@pawnrobot|1851
 #149|@MyNameIsWhatLOL|1826
 #150|@Bot2000|1807
 #151|@Emil_V2|1789
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@Green_Tea_Ice_Cream|1107
 #273|@Md211bot|1107
 #274|@The_dragon_bot|1076
-#275|@MinOpponentMoves|1072
+#275|@MinOpponentMoves|1051
 #276|@Boom_Bot|1044
 #277|@Mega_BOT|1032
 #278|@katzebot|1016
