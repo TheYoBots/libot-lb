@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@HulkBot|2387
 #26|@MehFish|2376
 #27|@Mega_BOT|2371
-#28|@Shocky_BOT|2362
+#28|@Shocky_BOT|2367
 #29|@CorrespondenceBot|2353
 #30|@duchessAI|2344
 #31|@HansNiemannBot|2338
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@Xmas_dragon|2300
 #36|@Ujwal1001|2297
 #37|@robiachess|2295
-#38|@OpeningsBot|2293
+#38|@OpeningsBot|2287
 #39|@Quanticade|2286
 #40|@mrohCentaur|2285
 #41|@Toodfish|2273

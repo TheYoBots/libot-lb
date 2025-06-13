@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@OpeningsBot|2055
 #4|@colinbot|2027
 #5|@pawnrobot|1266
-#6|@MinOpponentMoves|812
+#6|@MinOpponentMoves|827

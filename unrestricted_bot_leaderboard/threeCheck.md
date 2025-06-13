@@ -38,8 +38,8 @@ Rank|Bot|Rating
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
-#39|@colinbot|2293
-#40|@KingfishX|2285
+#39|@KingfishX|2285
+#40|@colinbot|2283
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
 #43|@TheMatrix2025|2272
@@ -72,11 +72,11 @@ Rank|Bot|Rating
 #70|@XXIstCentury|1973
 #71|@mrchessmanager|1963
 #72|@Botzer|1961
-#73|@Lili-Variants|1955
-#74|@lightspeed_bot|1951
-#75|@Galaxy_Guardian|1947
-#76|@pistol-play|1939
-#77|@OpeningsBot|1937
+#73|@OpeningsBot|1956
+#74|@Lili-Variants|1955
+#75|@lightspeed_bot|1951
+#76|@Galaxy_Guardian|1947
+#77|@pistol-play|1939
 #78|@PROBOT123567|1936
 #79|@PetersTestBot|1935
 #80|@Lila-Stockfish|1917
@@ -178,5 +178,5 @@ Rank|Bot|Rating
 #176|@BogoBot|928
 #177|@TheSystem_Bot|905
 #178|@MateCheckCapture|876
-#179|@MinOpponentMoves|843
+#179|@MinOpponentMoves|856
 #180|@BOT_Stockfish13|800
