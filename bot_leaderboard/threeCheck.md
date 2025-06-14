@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@colinbot|2283
 #4|@DavidsGuterBot|1591
 #5|@pawnrobot|1240
-#6|@MinOpponentMoves|856
+#6|@MinOpponentMoves|862

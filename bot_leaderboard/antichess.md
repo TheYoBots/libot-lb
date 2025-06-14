@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@RaspFish|2909
 #3|@colinbot|2643
 #4|@Nakshatra3|2532
-#5|@anti-bot|2322
+#5|@anti-bot|2318
 #6|@OpeningsBot|2199
-#7|@CatNail|2075
-#8|@pawnrobot|1845
+#7|@CatNail|2078
+#8|@pawnrobot|1842
 #9|@MinOpponentMoves|1052
