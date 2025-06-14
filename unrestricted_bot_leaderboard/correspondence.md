@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@MaggiChess16|2806
 #4|@AjedrezChamberi|2717
 #5|@Nikitosik-ai|2714
-#6|@PetersBot|2695
+#6|@PetersBot|2696
 #7|@Moment-That-Inspires|2677
 #8|@H-Zero|2650
 #9|@pawn_git|2633
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@HulkBot|2387
 #26|@MehFish|2376
 #27|@Mega_BOT|2371
-#28|@Shocky_BOT|2369
+#28|@Shocky_BOT|2354
 #29|@CorrespondenceBot|2353
 #30|@duchessAI|2344
 #31|@HansNiemannBot|2338
@@ -35,11 +35,11 @@ Rank|Bot|Rating
 #33|@IAMSTOCKFISH123|2305
 #34|@Magnus-BOT|2304
 #35|@Xmas_dragon|2300
-#36|@Ujwal1001|2297
-#37|@robiachess|2295
-#38|@Quanticade|2286
-#39|@mrohCentaur|2285
-#40|@OpeningsBot|2282
+#36|@OpeningsBot|2298
+#37|@Ujwal1001|2297
+#38|@robiachess|2295
+#39|@Quanticade|2286
+#40|@mrohCentaur|2285
 #41|@Toodfish|2273
 #42|@Cheng-4|2269
 #43|@eggnog-chess-engine|2254
@@ -176,9 +176,9 @@ Rank|Bot|Rating
 #174|@Aromik_s_bot|1831
 #175|@BestJSEngine|1826
 #176|@Black_Knight2006|1815
-#177|@Hoplites|1813
-#178|@Sub_Bot|1808
-#179|@Jibbby|1801
+#177|@Jibbby|1815
+#178|@Hoplites|1813
+#179|@Sub_Bot|1808
 #180|@DrMeowMeow|1800
 #181|@stockfish12_Johan|1798
 #182|@DragonflyBOT|1796

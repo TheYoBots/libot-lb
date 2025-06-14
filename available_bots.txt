@@ -696,6 +696,7 @@ cortexbot
 corvus-1
 cosettebot
 cosmic64
+cosmicebony
 cowboy_time
 cpu1990
 cpu1994
@@ -2465,6 +2466,7 @@ solidor59
 solistabot
 somebot
 somepythonbot
+sooraj_kumar_p_s
 soreloserbot
 sovereign_bot
 sovereignking
@@ -3052,5 +3054,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cosmicebony
-sooraj_kumar_p_s
+mastrygoold

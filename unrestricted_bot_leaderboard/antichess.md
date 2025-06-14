@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@AntichessAnalyzer|2673
 #28|@SCP079|2662
 #29|@Lenya228_BOT|2661
-#30|@colinbot|2643
+#30|@colinbot|2646
 #31|@MalanChess|2638
 #32|@vrnts_colinbot|2637
 #33|@Kizbuurb|2621
@@ -52,9 +52,9 @@ Rank|Bot|Rating
 #50|@LudwigBOT|2545
 #51|@newengine2022|2545
 #52|@AlfaBot|2541
-#53|@Leelabotmaster|2538
-#54|@Nam-Robot|2537
-#55|@Nakshatra3|2532
+#53|@Nakshatra3|2539
+#54|@Leelabotmaster|2538
+#55|@Nam-Robot|2537
 #56|@Dark_evil_bot|2525
 #57|@Bot_AOOP11|2521
 #58|@HyperLitikBOT|2511
@@ -77,11 +77,11 @@ Rank|Bot|Rating
 #75|@Nithin-das|2420
 #76|@DrSmartBugs|2412
 #77|@AttackingOrDefending|2409
-#78|@AldoGamer001_Bot|2404
-#79|@BitExtender128|2403
-#80|@ESC_BOT|2394
-#81|@CatBot_14|2393
-#82|@NormalBulletBot|2393
+#78|@BitExtender128|2403
+#79|@ESC_BOT|2394
+#80|@CatBot_14|2393
+#81|@NormalBulletBot|2393
+#82|@AldoGamer001_Bot|2376
 #83|@NilatacBot|2375
 #84|@Resolved-Bot|2369
 #85|@Trumpfor2O2O|2366
@@ -91,7 +91,7 @@ Rank|Bot|Rating
 #89|@higuyuu67776|2352
 #90|@Karpov_bot|2335
 #91|@TeamChelsie|2331
-#92|@anti-bot|2318
+#92|@anti-bot|2323
 #93|@AI69|2312
 #94|@Kizburb|2307
 #95|@MagicverseBOT|2306
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@Green_Tea_Ice_Cream|1107
 #273|@Md211bot|1107
 #274|@The_dragon_bot|1076
-#275|@MinOpponentMoves|1052
+#275|@MinOpponentMoves|1054
 #276|@Boom_Bot|1044
 #277|@Mega_BOT|1032
 #278|@katzebot|1016
