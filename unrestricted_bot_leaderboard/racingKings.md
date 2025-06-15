@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@SkyBlaster|2603
 #7|@Viet-AI|2600
 #8|@lord-bot|2581
-#9|@RaspFish|2576
+#9|@RaspFish|2578
 #10|@Lenya228_BOT|2572
 #11|@Fairy_Belzedar|2559
 #12|@EmptikVariantsBot|2557
-#13|@ToromBot|2555
+#13|@ToromBot|2557
 #14|@FireFishBOT|2547
 #15|@LudwigBOT|2536
 #16|@ChessVBOT|2531
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@knight_128|2144
 #81|@Kizburb|2126
 #82|@mc-king-098|2124
-#83|@OpeningsBot|2120
+#83|@OpeningsBot|2118
 #84|@xiang-qi|2113
 #85|@atomicli|2111
 #86|@Trumpfor2O2O|2103

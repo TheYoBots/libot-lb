@@ -549,6 +549,7 @@ chai-chessbot
 challengeme2anything
 challenger_crazy
 chamberiajedrez
+championkitten
 charibot
 charlesbot
 chat_bot
@@ -650,6 +651,7 @@ cizme
 classic_bot-v2
 cleobot
 cleoengine
+clj-bot
 clompdev
 cloud_bot
 cloudblower
@@ -2956,6 +2958,7 @@ wmwmmmwmwmmmwmwmwmmw
 wolftacticsv1
 wolfuhfuhbot
 wombatengine
+woodstyleengine
 world-best-ninja-jnr
 worldofchampions
 worldplayer035bot
@@ -3055,6 +3058,8 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-woodstyleengine
-championkitten
-clj-bot
+mnscp
+mirrormaze-xdk
+rustyrookchessbot
+anonymus-bot
+knightsofthegambit2

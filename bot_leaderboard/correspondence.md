@@ -6,4 +6,4 @@ Rank|Bot|Rating
 #4|@GarboBot|2037
 #5|@RoundMoundOfRebounds|1733
 #6|@GyatsoBot|1469
-#7|@Cimille|1232
+#7|@Cimille|1240
