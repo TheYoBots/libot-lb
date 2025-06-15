@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@ChessVBOT|2065
 #55|@NimsiluBot|2058
 #56|@Hyper-Stockfish|2044
-#57|@colinbot|2036
+#57|@colinbot|2037
 #58|@Kizbuurb|2035
 #59|@CloudBot_v2|2027
 #60|@faith_bot|2026
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@Just-a-random-bot|1604
 #116|@Epiano_Bot|1567
 #117|@Ramses-Chess|1547
-#118|@DavidsGuterBot|1546
+#118|@DavidsGuterBot|1545
 #119|@Toxic_Bot|1541
 #120|@SXDEFENDER|1534
 #121|@Light_To_The_Rescue|1523
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@morphbot|1035
 #169|@Jannik08_fan|993
 #170|@thousandatom|970
-#171|@MinOpponentMoves|954
+#171|@MinOpponentMoves|955
 #172|@BogoBot|946
 #173|@SacrificeBot|934
 #174|@GuineaBot2|884

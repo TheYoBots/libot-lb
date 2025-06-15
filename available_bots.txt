@@ -1741,6 +1741,7 @@ masternoob1600
 masterofatomic
 masterofchessbot1000
 masterofchessbot800
+mastrygoold
 mate-ai
 mate_bot
 mateai
@@ -3054,4 +3055,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mastrygoold
+woodstyleengine
+championkitten
+clj-bot

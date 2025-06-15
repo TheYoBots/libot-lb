@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
 #11|@ttBOT|2584
-#12|@RaspFish|2482
+#12|@RaspFish|2483
 #13|@Nerubatskyi_Daniil_v|2471
 #14|@EmptikVariantsBot|2402
 #15|@EmptikBot|2378
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@Magnus-BOT|1923
 #50|@MalanChess|1921
 #51|@NormalBlitzBulletBot|1915
-#52|@colinbot|1902
+#52|@colinbot|1908
 #53|@XXIstCentury|1902
 #54|@AnUtterlyKarBot|1901
 #55|@azdad|1901
@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@RobotTigerSlav|1781
 #68|@XXXTryandTryXXX|1781
 #69|@NormalBulletBot|1774
-#70|@OpeningsBot|1773
-#71|@Botzer|1772
+#70|@Botzer|1772
+#71|@OpeningsBot|1767
 #72|@CloudBOT|1758
 #73|@CocopikachuBOT|1757
 #74|@Heman36541234578|1741
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@Nicholaswb_BOT|1288
 #131|@AEBROADUSBOTTER|1279
 #132|@ReallyCrazyBOT|1279
-#133|@pawnrobot|1274
+#133|@pawnrobot|1277
 #134|@AbhijithHISBot|1258
 #135|@Humuhumunukunukuapu|1258
 #136|@Jannik08_fan|1258
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@duythong1402|1120
 #148|@alvin-chess-bot|1091
 #149|@Alexnajax_Fan|1066
-#150|@MinOpponentMoves|1024
+#150|@MinOpponentMoves|1017
 #151|@FireTorchV2|1011
 #152|@MateCheckCapture|885
 #153|@GuineaBot2|851
