@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Shocky_BOT|2358
-#2|@OpeningsBot|2296
-#3|@Humanoid_1800|2046
+#1|@Shocky_BOT|2363
+#2|@OpeningsBot|2294
+#3|@Humanoid_1800|2043
 #4|@GarboBot|2037
 #5|@RoundMoundOfRebounds|1733
 #6|@GyatsoBot|1469
-#7|@Cimille|1245
+#7|@Cimille|1269

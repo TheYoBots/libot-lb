@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Fairy_Belzedar|2857
 #5|@Nikitosikbot_v2|2827
 #6|@Coolman2021|2757
-#7|@ToromBot|2731
+#7|@ToromBot|2732
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
 #10|@Nikitosik-ai|2625
@@ -47,10 +47,10 @@ Rank|Bot|Rating
 #45|@The-Fastest-Bot|2000
 #46|@Mega_BOT|1986
 #47|@vrnts_colinbot|1932
-#48|@chessbot2880|1923
-#49|@Magnus-BOT|1923
-#50|@MalanChess|1921
-#51|@colinbot|1918
+#48|@colinbot|1928
+#49|@chessbot2880|1923
+#50|@Magnus-BOT|1923
+#51|@MalanChess|1921
 #52|@NormalBlitzBulletBot|1915
 #53|@XXIstCentury|1902
 #54|@AnUtterlyKarBot|1901
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@Botzer|1772
 #71|@CloudBOT|1758
 #72|@CocopikachuBOT|1757
-#73|@OpeningsBot|1757
+#73|@OpeningsBot|1747
 #74|@Heman36541234578|1741
 #75|@Vinh_VariantsBot|1741
 #76|@AndromedaSX1|1740
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@Nicholaswb_BOT|1288
 #131|@AEBROADUSBOTTER|1279
 #132|@ReallyCrazyBOT|1279
-#133|@pawnrobot|1276
+#133|@pawnrobot|1275
 #134|@AbhijithHISBot|1258
 #135|@Humuhumunukunukuapu|1258
 #136|@Jannik08_fan|1258
@@ -149,8 +149,8 @@ Rank|Bot|Rating
 #147|@duythong1402|1120
 #148|@alvin-chess-bot|1091
 #149|@Alexnajax_Fan|1066
-#150|@MinOpponentMoves|1012
-#151|@FireTorchV2|1011
+#150|@FireTorchV2|1011
+#151|@MinOpponentMoves|1005
 #152|@MateCheckCapture|885
 #153|@GuineaBot2|851
 #154|@RichmondOnBot|834
