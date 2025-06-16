@@ -131,6 +131,7 @@ annieedison
 annihilatoru47333
 anonymous5612
 anonymousbotter
+anonymus-bot
 antarespy
 antarticanonymous
 anti-anti
@@ -1483,6 +1484,7 @@ knightlesskid
 knightlight_engine
 knightowlbot
 knightsarmour
+knightsofthegambit2
 knucklefish
 knyazik_1
 komodo-master
@@ -1810,6 +1812,7 @@ mininnue
 minipositionalai
 minopponentmoves
 minula_paranvithana
+mirrormaze-xdk
 misere-fish
 mistakebot
 misteick_bot
@@ -1818,6 +1821,7 @@ mittens-bot
 mittensthechessb0t
 mjchess13
 mkad-106_bot
+mnscp
 mocheezero
 mochi_bot
 mokbot
@@ -2323,6 +2327,7 @@ rust-engine
 rust_lang_chess
 rustbot
 rustypigeon
+rustyrookchessbot
 rybkaoldengine
 s2rarro
 s_stock
@@ -3058,8 +3063,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mnscp
-mirrormaze-xdk
-rustyrookchessbot
-anonymus-bot
-knightsofthegambit2

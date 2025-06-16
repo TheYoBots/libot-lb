@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@ToromBot|2943
 #2|@RaspFish|2914
 #3|@colinbot|2646
-#4|@Nakshatra3|2542
-#5|@anti-bot|2330
-#6|@OpeningsBot|2199
+#4|@Nakshatra3|2547
+#5|@anti-bot|2320
+#6|@OpeningsBot|2213
 #7|@CatNail|2078
 #8|@pawnrobot|1842
-#9|@MinOpponentMoves|1047
+#9|@MinOpponentMoves|1043
