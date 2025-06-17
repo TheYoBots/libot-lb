@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@DavidsGuterBot|1597
+#113|@DavidsGuterBot|1602
 #114|@newengine2022|1588
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
@@ -146,7 +146,7 @@ Rank|Bot|Rating
 #144|@MasterofChessBOT800|1391
 #145|@HiddeNL|1385
 #146|@apraz|1383
-#147|@clj-bot|1371
+#147|@clj-bot|1354
 #148|@Bottios|1323
 #149|@TTC-BOT_2|1322
 #150|@Harry_Potterz|1316
@@ -178,6 +178,6 @@ Rank|Bot|Rating
 #176|@GuineaBot3|972
 #177|@BogoBot|928
 #178|@TheSystem_Bot|905
-#179|@MinOpponentMoves|885
+#179|@MinOpponentMoves|889
 #180|@MateCheckCapture|876
 #181|@BOT_Stockfish13|800

@@ -991,6 +991,7 @@ fateh_seferli_4d-63
 fathzer-jchess
 fatihmertbot
 fatmoon
+fayefish
 fbot
 featbeweir
 feeks99
@@ -1154,6 +1155,7 @@ greg0lord-bot
 greko-bot
 grey_wolf3000
 grey_wolf3000_2
+grimmerai
 grogros_zero
 groundshaker
 grozadvijkov
@@ -3063,5 +3065,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-fayefish
-grimmerai
+tortoialpha

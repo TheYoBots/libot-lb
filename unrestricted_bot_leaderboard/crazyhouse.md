@@ -206,4 +206,4 @@ Rank|Bot|Rating
 #204|@GuineaBot3|845
 #205|@MateCheckCapture|828
 #206|@TrashBot|800
-#207|@MinOpponentMoves|709
+#207|@MinOpponentMoves|731
