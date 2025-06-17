@@ -2775,6 +2775,7 @@ tornejoscapdesetmana
 torombot
 toromlc0
 tortademanzana023
+tortoialpha
 toxic_bot
 tracer_bot
 trainingbot0
@@ -3065,4 +3066,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-tortoialpha
