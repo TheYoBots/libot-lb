@@ -348,6 +348,10 @@ boller1910
 bongcloudtest
 booktester
 boom_bot
+boosted_maia_1300
+boosted_maia_1500
+boosted_maia_1700
+boosted_maia_1900
 boringfish
 boris-trapsky
 bosburp777
@@ -3066,7 +3070,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-boosted_maia_1300
-boosted_maia_1500
-boosted_maia_1700
-boosted_maia_1900

@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2581
+#1|@RaspFish|2585
 #2|@ToromBot|2562
-#3|@colinbot|2374
+#3|@colinbot|2371
 #4|@OpeningsBot|2116
 #5|@MinOpponentMoves|698
