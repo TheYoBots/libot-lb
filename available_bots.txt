@@ -3066,3 +3066,7 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+boosted_maia_1300
+boosted_maia_1500
+boosted_maia_1700
+boosted_maia_1900
