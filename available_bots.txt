@@ -217,6 +217,7 @@ axwchessbot
 ayodia
 azdad
 azur_pr
+azusayumi
 b-the-bot
 b0ngfish
 b0red_bot
@@ -628,6 +629,7 @@ chessnoobcomp
 chessopenerbot
 chessosity
 chessplayer1225
+chesspolandbot
 chesssenseengine
 chesstango_bot
 chesster-rubenstein
@@ -3070,5 +3072,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chesspolandbot
-azusayumi
+groot123456
