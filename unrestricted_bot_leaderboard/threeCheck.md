@@ -177,7 +177,7 @@ Rank|Bot|Rating
 #175|@GOrInkO_Fun_BOT|992
 #176|@GuineaBot3|972
 #177|@BogoBot|928
-#178|@MinOpponentMoves|907
+#178|@MinOpponentMoves|911
 #179|@TheSystem_Bot|905
 #180|@MateCheckCapture|876
 #181|@BOT_Stockfish13|800

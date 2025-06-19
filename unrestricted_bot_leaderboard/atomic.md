@@ -299,8 +299,8 @@ Rank|Bot|Rating
 #297|@legendbot1|1277
 #298|@PranavChessBot|1273
 #299|@SkyBlaster|1269
-#300|@pawnrobot|1266
-#301|@Galaxy_Guardian|1265
+#300|@Galaxy_Guardian|1265
+#301|@pawnrobot|1261
 #302|@Bot-31795|1258
 #303|@Mr-Bob|1258
 #304|@NarratingSince86|1258
@@ -330,7 +330,7 @@ Rank|Bot|Rating
 #328|@TheLegitLegend2|1032
 #329|@ZX-Chess|946
 #330|@BogoBot|945
-#331|@MinOpponentMoves|875
+#331|@MinOpponentMoves|884
 #332|@thousandatom|865
 #333|@bfdzvfsgaergfds|800
 #334|@TheThanosBot|696

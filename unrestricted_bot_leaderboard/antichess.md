@@ -104,12 +104,12 @@ Rank|Bot|Rating
 #102|@SkyBlaster|2254
 #103|@mrchessmanager|2240
 #104|@TurkiyeHogwarts|2240
-#105|@anti-bot|2236
-#106|@EagleEye2021|2235
-#107|@chesshyperbot|2234
-#108|@Hyper-Stockfish|2230
-#109|@CocopikachuBOT|2226
-#110|@TungJohn|2225
+#105|@EagleEye2021|2235
+#106|@chesshyperbot|2234
+#107|@Hyper-Stockfish|2230
+#108|@CocopikachuBOT|2226
+#109|@TungJohn|2225
+#110|@anti-bot|2222
 #111|@Good-Game-123|2221
 #112|@The-Fastest-Bot|2218
 #113|@All_Except_Chess960|2214
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Stockfish-MEDIUM|2117
 #128|@PyChessBot|2102
 #129|@TurkiyeHogwartsBOT|2099
-#130|@CatNail|2085
+#130|@CatNail|2087
 #131|@ZamuChess|2049
 #132|@Botzer|2020
 #133|@Jussicas|2019
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@Lumac0|1861
 #146|@Endogenetic-Bot|1859
 #147|@Pineapple-Friendly|1858
-#148|@pawnrobot|1851
+#148|@pawnrobot|1848
 #149|@MyNameIsWhatLOL|1826
 #150|@Bot2000|1807
 #151|@Emil_V2|1789
