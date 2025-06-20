@@ -491,6 +491,7 @@ budgetsnorkel
 bufffishnet
 buildabot
 buletten-karl
+bullet_bot_0896
 bulletbotmaster
 bulletchess134
 bulletenforcer
@@ -582,6 +583,7 @@ chess-2-bot
 chess-freelancer
 chess-if
 chess-otter
+chess-trainer-bot
 chess-trainer2424
 chess1000bot
 chess3bot
@@ -774,6 +776,7 @@ dcaibot
 dean_summer_bot
 death1234567-hell
 debugbot
+dechessbot
 deepchessengine
 deepkalle
 deepllama
@@ -799,6 +802,7 @@ devsdabot
 dezchickenwings
 dgt-ai
 dgt-test
+dhiltonxyz
 diepx
 diffusearchv0
 diggydiggyhole
@@ -2884,6 +2888,7 @@ vatsal_1123_bot
 vaxim2000
 vcap_bot
 vedanths-bot
+veer-omega-bot
 velvet-engine
 venujasbt_2008
 venusleela
@@ -3073,8 +3078,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bullet_bot_0896
-veer-omega-bot
-dechessbot
-chess-trainer-bot
-dhiltonxyz
