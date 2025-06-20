@@ -1163,6 +1163,7 @@ grey_wolf3000
 grey_wolf3000_2
 grimmerai
 grogros_zero
+groot123456
 groundshaker
 grozadvijkov
 gryndor
@@ -3072,4 +3073,8 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-groot123456
+bullet_bot_0896
+veer-omega-bot
+dechessbot
+chess-trainer-bot
+dhiltonxyz

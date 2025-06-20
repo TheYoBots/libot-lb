@@ -256,10 +256,10 @@ Rank|Bot|Rating
 #254|@Endogenetic-Bot|1483
 #255|@RSVMentor|1476
 #256|@TheWeakestBot|1476
-#257|@thibot|1470
-#258|@fastandfurious10|1464
-#259|@EDSPBOT|1463
-#260|@Groot123456|1457
+#257|@Groot123456|1474
+#258|@thibot|1470
+#259|@fastandfurious10|1464
+#260|@EDSPBOT|1463
 #261|@Dong_Xiao_Yuan|1454
 #262|@Future_Chess_Pro|1453
 #263|@MyNameIsSpeeedy|1453
@@ -301,7 +301,7 @@ Rank|Bot|Rating
 #299|@PranavChessBot|1273
 #300|@SkyBlaster|1269
 #301|@Galaxy_Guardian|1265
-#302|@pawnrobot|1265
+#302|@pawnrobot|1262
 #303|@Bot-31795|1258
 #304|@Mr-Bob|1258
 #305|@NarratingSince86|1258
@@ -331,8 +331,8 @@ Rank|Bot|Rating
 #329|@TheLegitLegend2|1032
 #330|@ZX-Chess|946
 #331|@BogoBot|945
-#332|@MinOpponentMoves|872
-#333|@thousandatom|865
+#332|@thousandatom|865
+#333|@MinOpponentMoves|863
 #334|@bfdzvfsgaergfds|800
 #335|@TheThanosBot|696
 #336|@BetaOneBot|690
