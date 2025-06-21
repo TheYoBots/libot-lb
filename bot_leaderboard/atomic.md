@@ -4,4 +4,4 @@ Rank|Bot|Rating
 #2|@RaspFish|2533
 #3|@colinbot|2028
 #4|@pawnrobot|1262
-#5|@MinOpponentMoves|861
+#5|@MinOpponentMoves|850

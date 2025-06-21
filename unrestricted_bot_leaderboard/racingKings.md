@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@RaspFish|2585
 #9|@lord-bot|2581
 #10|@Lenya228_BOT|2572
-#11|@ToromBot|2562
+#11|@ToromBot|2565
 #12|@Fairy_Belzedar|2559
 #13|@EmptikVariantsBot|2557
 #14|@FireFishBOT|2547
@@ -188,4 +188,4 @@ Rank|Bot|Rating
 #186|@MateCheckCapture|1011
 #187|@littlesamsun|996
 #188|@ZX-Chess|982
-#189|@MinOpponentMoves|675
+#189|@MinOpponentMoves|671

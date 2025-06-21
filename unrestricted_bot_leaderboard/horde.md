@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Mega_BOT|1986
 #47|@vrnts_colinbot|1932
 #48|@Groot123456|1931
-#49|@colinbot|1928
+#49|@colinbot|1929
 #50|@chessbot2880|1923
 #51|@Magnus-BOT|1923
 #52|@MalanChess|1921
@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@weaklean|1338
 #130|@BinaryBrain|1299
 #131|@Nicholaswb_BOT|1288
-#132|@pawnrobot|1287
+#132|@pawnrobot|1286
 #133|@AEBROADUSBOTTER|1279
 #134|@ReallyCrazyBOT|1279
 #135|@AbhijithHISBot|1258
