@@ -188,4 +188,4 @@ Rank|Bot|Rating
 #186|@MateCheckCapture|1011
 #187|@littlesamsun|996
 #188|@ZX-Chess|982
-#189|@MinOpponentMoves|671
+#189|@MinOpponentMoves|647

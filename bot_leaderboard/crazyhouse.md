@@ -2,5 +2,4 @@ Rank|Bot|Rating
 ---|---|---
 #1|@colinbot|1894
 #2|@OpeningsBot|1644
-#3|@pawnrobot|1199
-#4|@MinOpponentMoves|803
+#3|@MinOpponentMoves|788

@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@MagnusCarlsen1507|2037
 #123|@HuxZero|2035
 #124|@EasyWinGG|2032
-#125|@colinbot|2028
+#125|@colinbot|2027
 #126|@Kizbuurb|2024
 #127|@ESC_BOT|2011
 #128|@are_bots_good|2006
@@ -331,7 +331,7 @@ Rank|Bot|Rating
 #329|@ZX-Chess|946
 #330|@BogoBot|945
 #331|@thousandatom|865
-#332|@MinOpponentMoves|850
+#332|@MinOpponentMoves|827
 #333|@bfdzvfsgaergfds|800
 #334|@TheThanosBot|696
 #335|@BetaOneBot|690

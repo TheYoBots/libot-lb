@@ -1400,6 +1400,7 @@ jmjansen_aus_bot
 jnewberry0502
 joannp38_pedantic
 jobabot
+joeymcnab
 johan201023_twitch
 johanblunder
 john_bamp
@@ -2391,6 +2392,7 @@ seabassengine
 seaborg1
 seechessbot
 seer-dev
+seitogakatsu
 selflearnbot
 sem1rose
 senp4a1_bot
@@ -3078,5 +3080,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-joeymcnab
-seitogakatsu
