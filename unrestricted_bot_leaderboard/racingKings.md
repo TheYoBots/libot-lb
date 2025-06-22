@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@RaspFish|2585
 #9|@lord-bot|2581
 #10|@Lenya228_BOT|2572
-#11|@ToromBot|2565
+#11|@ToromBot|2566
 #12|@Fairy_Belzedar|2559
 #13|@EmptikVariantsBot|2557
 #14|@FireFishBOT|2547
@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@HuxZero|2176
 #79|@AnUtterlyKarBot|2174
 #80|@knight_128|2144
-#81|@OpeningsBot|2129
+#81|@OpeningsBot|2143
 #82|@Kizburb|2126
 #83|@mc-king-098|2124
 #84|@xiang-qi|2113
@@ -132,10 +132,10 @@ Rank|Bot|Rating
 #130|@Challenger_crazy|1652
 #131|@ROBOT_RANDEER2007|1651
 #132|@Heman36541234578|1647
-#133|@Groot123456|1607
-#134|@HiddeNL|1573
-#135|@TheSystem_Bot|1572
-#136|@QuickLiquid|1555
+#133|@HiddeNL|1573
+#134|@TheSystem_Bot|1572
+#135|@QuickLiquid|1555
+#136|@Groot123456|1532
 #137|@faith_bot|1514
 #138|@CoderDen732|1507
 #139|@TorBot|1498
@@ -188,4 +188,4 @@ Rank|Bot|Rating
 #186|@MateCheckCapture|1011
 #187|@littlesamsun|996
 #188|@ZX-Chess|982
-#189|@MinOpponentMoves|647
+#189|@MinOpponentMoves|651

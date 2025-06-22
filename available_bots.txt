@@ -502,6 +502,7 @@ bushbowl
 bushycamper
 butzke_bot
 byte-knight
+bytechessbot
 byteknightengine
 c0llision
 cabolince
@@ -622,6 +623,7 @@ chesshyperbot
 chesshyperdragon
 chessiter666_bot
 chessler-v4-nnue
+chesslionsbestbot
 chessloser2021_bot
 chessly-bot
 chessmaster6k
@@ -2757,6 +2759,7 @@ thuban_official
 thunfisch-bot
 ticktocc
 tigerengine
+tigersbot
 tigrament
 time-player
 timecat
@@ -3080,6 +3083,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bytechessbot
-chesslionsbestbot
-tigersbot

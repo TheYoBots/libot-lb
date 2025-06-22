@@ -100,9 +100,9 @@ Rank|Bot|Rating
 #98|@EvenMatchup|2302
 #99|@GodelEscherBot|2284
 #100|@Dean_Summer_Bot|2279
-#101|@anti-bot|2274
-#102|@Johnsun|2269
-#103|@SkyBlaster|2254
+#101|@Johnsun|2269
+#102|@SkyBlaster|2254
+#103|@anti-bot|2249
 #104|@mrchessmanager|2240
 #105|@TurkiyeHogwarts|2240
 #106|@EagleEye2021|2235
