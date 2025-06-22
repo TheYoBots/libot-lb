@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Nikitosik-ai|2714
 #6|@PetersBot|2696
 #7|@Moment-That-Inspires|2678
-#8|@pawn_git|2656
+#8|@pawn_git|2663
 #9|@H-Zero|2650
 #10|@LeelaZero-UK|2557
 #11|@Alexnajax_Fan|2549
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@MehFish|2376
 #28|@Mega_BOT|2371
 #29|@CorrespondenceBot|2353
-#30|@Shocky_BOT|2352
+#30|@Shocky_BOT|2351
 #31|@duchessAI|2344
 #32|@HansNiemannBot|2338
 #33|@bekbot|2307

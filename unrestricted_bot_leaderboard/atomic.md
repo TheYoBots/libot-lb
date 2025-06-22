@@ -331,7 +331,7 @@ Rank|Bot|Rating
 #329|@ZX-Chess|946
 #330|@BogoBot|945
 #331|@thousandatom|865
-#332|@MinOpponentMoves|827
+#332|@MinOpponentMoves|811
 #333|@bfdzvfsgaergfds|800
 #334|@TheThanosBot|696
 #335|@BetaOneBot|690
