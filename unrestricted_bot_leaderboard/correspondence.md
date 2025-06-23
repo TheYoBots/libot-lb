@@ -178,9 +178,9 @@ Rank|Bot|Rating
 #176|@BestJSEngine|1826
 #177|@Black_Knight2006|1815
 #178|@Hoplites|1813
-#179|@Jibbby|1808
-#180|@Sub_Bot|1808
-#181|@DrMeowMeow|1800
+#179|@Sub_Bot|1808
+#180|@DrMeowMeow|1800
+#181|@Jibbby|1800
 #182|@stockfish12_Johan|1798
 #183|@DragonflyBOT|1796
 #184|@BetaOneBot|1792

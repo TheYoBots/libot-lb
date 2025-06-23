@@ -178,6 +178,7 @@ argentino_50
 armageddon-fish
 arny_bot
 aromik_s_bot
+artisan_bot
 artjom_bot
 arundina
 arvyy_bot
@@ -3083,4 +3084,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-artisan_bot

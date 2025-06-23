@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@UltronBot|2556
 #17|@Viet-AI|2556
 #18|@ttBOT|2540
-#19|@RaspFish|2535
+#19|@RaspFish|2536
 #20|@BitExtender128|2526
 #21|@ResoluteBot|2525
 #22|@CatBot_14|2514
@@ -331,7 +331,7 @@ Rank|Bot|Rating
 #329|@ZX-Chess|946
 #330|@BogoBot|945
 #331|@thousandatom|865
-#332|@MinOpponentMoves|807
+#332|@MinOpponentMoves|818
 #333|@bfdzvfsgaergfds|800
 #334|@TheThanosBot|696
 #335|@BetaOneBot|690
