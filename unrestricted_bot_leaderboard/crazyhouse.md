@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@NienishiEngine|2392
 #32|@Nikitosikbot_v2|2367
 #33|@EagleEye2021|2365
-#34|@ToromBot|2360
+#34|@ToromBot|2362
 #35|@KingfishX|2347
 #36|@chesshyperbot|2344
 #37|@EmptikBot|2332
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@Dean_Summer_Bot|1898
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
-#87|@colinbot|1886
+#87|@colinbot|1885
 #88|@Galaxy_Guardian|1885
 #89|@The-Fastest-Bot|1885
 #90|@XXIstCentury|1875
@@ -150,9 +150,9 @@ Rank|Bot|Rating
 #148|@St6090|1460
 #149|@ZamuChess|1460
 #150|@MyNameIsSpeedy|1459
-#151|@Trumpfor2O2O|1458
-#152|@asdfbot2|1448
-#153|@Groot123456|1447
+#151|@Groot123456|1458
+#152|@Trumpfor2O2O|1458
+#153|@asdfbot2|1448
 #154|@thousandatom|1445
 #155|@TorBot|1436
 #156|@Nebulogic|1435
@@ -185,8 +185,8 @@ Rank|Bot|Rating
 #183|@NightStarFox|1243
 #184|@Happy_One|1223
 #185|@clj-bot|1213
-#186|@pawnrobot|1204
-#187|@Grand_MefBartu-BOT|1200
+#186|@Grand_MefBartu-BOT|1200
+#187|@pawnrobot|1200
 #188|@FluffBallCuddly|1191
 #189|@heatseeker223|1191
 #190|@ChessPlayer1225|1183
