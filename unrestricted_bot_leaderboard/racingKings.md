@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@HuxZero|2176
 #79|@AnUtterlyKarBot|2174
 #80|@knight_128|2144
-#81|@OpeningsBot|2138
+#81|@OpeningsBot|2140
 #82|@Kizburb|2126
 #83|@mc-king-098|2124
 #84|@xiang-qi|2113

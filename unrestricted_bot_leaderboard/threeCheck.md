@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
-#39|@colinbot|2285
+#39|@colinbot|2287
 #40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@mrchessmanager|1963
 #72|@Botzer|1961
 #73|@Lili-Variants|1955
-#74|@OpeningsBot|1955
+#74|@OpeningsBot|1954
 #75|@lightspeed_bot|1951
 #76|@Galaxy_Guardian|1947
 #77|@pistol-play|1939
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@DavidsGuterBot|1595
+#113|@DavidsGuterBot|1593
 #114|@newengine2022|1588
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
@@ -156,11 +156,11 @@ Rank|Bot|Rating
 #154|@Sanjana_Kambala-BOT|1273
 #155|@TheLegendaryKnight|1272
 #156|@EstmileBot|1269
-#157|@clj-bot|1266
-#158|@Parth_Dhage_2|1258
-#159|@MyNameIsWhatLOL|1256
-#160|@SneakyBot21|1256
-#161|@pawnrobot|1236
+#157|@Parth_Dhage_2|1258
+#158|@MyNameIsWhatLOL|1256
+#159|@SneakyBot21|1256
+#160|@pawnrobot|1243
+#161|@clj-bot|1236
 #162|@TORTADEMANZANA023|1233
 #163|@heatseeker223|1191
 #164|@admin-bot|1188
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@GOrInkO_Fun_BOT|992
 #177|@GuineaBot3|972
 #178|@BogoBot|928
-#179|@MinOpponentMoves|909
-#180|@TheSystem_Bot|905
+#179|@TheSystem_Bot|905
+#180|@MinOpponentMoves|904
 #181|@MateCheckCapture|876
 #182|@BOT_Stockfish13|800

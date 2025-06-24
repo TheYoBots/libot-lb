@@ -348,8 +348,8 @@ Rank|Bot|Rating
 #346|@proustagm|1316
 #347|@elninodiablo|1312
 #348|@AKS-Mantissa|1310
-#349|@clj-bot|1307
-#350|@BishoP-BOT|1306
+#349|@BishoP-BOT|1306
+#350|@clj-bot|1306
 #351|@HappyDeepawali|1300
 #352|@heatseeker223|1300
 #353|@vezzickbot|1299

@@ -7,5 +7,5 @@ Rank|Bot|Rating
 #5|@anti-bot|2238
 #6|@OpeningsBot|2220
 #7|@CatNail|2075
-#8|@pawnrobot|1852
+#8|@pawnrobot|1860
 #9|@MinOpponentMoves|1030
