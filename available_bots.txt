@@ -1049,6 +1049,7 @@ flip_boi_is_good_boi
 flixbot
 flompiebot
 flounderbot
+flower-queen
 fluffballcuddly
 flying-dutchman-bot
 flying-rebel
@@ -3084,4 +3085,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-flower-queen
