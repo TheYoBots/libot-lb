@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@UltronBot|2556
 #17|@Viet-AI|2556
 #18|@ttBOT|2540
-#19|@RaspFish|2537
+#19|@RaspFish|2538
 #20|@BitExtender128|2526
 #21|@ResoluteBot|2525
 #22|@CatBot_14|2514
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@OpeningsBot|2046
 #122|@MagnusCarlsen1507|2037
 #123|@HuxZero|2035
-#124|@colinbot|2033
+#124|@colinbot|2032
 #125|@EasyWinGG|2032
 #126|@Kizbuurb|2024
 #127|@ESC_BOT|2011

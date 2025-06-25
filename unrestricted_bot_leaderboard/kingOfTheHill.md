@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@azdad|1936
 #81|@HyperLitikBOT|1930
 #82|@SacrificialSage|1925
-#83|@OpeningsBot|1918
+#83|@OpeningsBot|1920
 #84|@DrSmartBugs|1904
 #85|@Variantenkoning|1892
 #86|@PetersTestBot|1890
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@Epiano_Bot|1567
 #119|@Ramses-Chess|1547
 #120|@Toxic_Bot|1541
-#121|@DavidsGuterBot|1539
+#121|@DavidsGuterBot|1535
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
 #124|@Z-Move|1495
@@ -155,7 +155,7 @@ Rank|Bot|Rating
 #153|@jasans_bot|1268
 #154|@ChessChipBot|1258
 #155|@Hrant_Petrosyan_BOT|1258
-#156|@pawnrobot|1244
+#156|@pawnrobot|1248
 #157|@HiddeNL|1242
 #158|@knight_128|1233
 #159|@MyNameIsSpeedy|1226
@@ -173,7 +173,7 @@ Rank|Bot|Rating
 #171|@Jannik08_fan|993
 #172|@thousandatom|970
 #173|@BogoBot|946
-#174|@clj-bot|943
-#175|@SacrificeBot|934
+#174|@SacrificeBot|934
+#175|@clj-bot|909
 #176|@GuineaBot2|884
 #177|@MateCheckCapture|795

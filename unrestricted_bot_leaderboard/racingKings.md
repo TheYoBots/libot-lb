@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@The-Fastest-Bot|2402
 #40|@lightspeed_bot|2396
 #41|@thibot|2393
-#42|@colinbot|2383
+#42|@colinbot|2388
 #43|@Jussicas|2373
 #44|@TheMatrix2025|2368
 #45|@Lili-Variants|2357
@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@Johnsun|2181
 #78|@HuxZero|2176
 #79|@AnUtterlyKarBot|2174
-#80|@OpeningsBot|2145
-#81|@knight_128|2144
+#80|@knight_128|2144
+#81|@OpeningsBot|2135
 #82|@Kizburb|2126
 #83|@mc-king-098|2124
 #84|@xiang-qi|2113

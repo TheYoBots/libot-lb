@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@ElPeonElectrico|2454
 #26|@abhisun_bot|2444
 #27|@pistol-play|2437
-#28|@RaspFish|2398
+#28|@RaspFish|2400
 #29|@YoBot_v2|2394
 #30|@CloudBOT|2393
 #31|@NienishiEngine|2392
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@Dean_Summer_Bot|1898
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
-#87|@colinbot|1885
+#87|@colinbot|1888
 #88|@Galaxy_Guardian|1885
 #89|@The-Fastest-Bot|1885
 #90|@XXIstCentury|1875
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@sauwkhamari|1741
 #111|@TJchessBot|1741
 #112|@SacrificialSage|1733
-#113|@OpeningsBot|1705
+#113|@OpeningsBot|1701
 #114|@Lili-Variants|1698
 #115|@Lightning_SpeedChess|1696
 #116|@B0T5_RU13|1683
