@@ -38,8 +38,8 @@ Rank|Bot|Rating
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
-#39|@KingfishX|2285
-#40|@colinbot|2281
+#39|@colinbot|2287
+#40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
 #43|@TheMatrix2025|2272
@@ -112,11 +112,11 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@DavidsGuterBot|1592
+#113|@DavidsGuterBot|1601
 #114|@newengine2022|1588
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
-#117|@Groot123456|1544
+#117|@Groot123456|1521
 #118|@TrashBot|1519
 #119|@relevantproblem|1514
 #120|@Toxic_Bot|1511
@@ -178,7 +178,6 @@ Rank|Bot|Rating
 #176|@GOrInkO_Fun_BOT|992
 #177|@GuineaBot3|972
 #178|@BogoBot|928
-#179|@MinOpponentMoves|915
-#180|@TheSystem_Bot|905
-#181|@MateCheckCapture|876
-#182|@BOT_Stockfish13|800
+#179|@TheSystem_Bot|905
+#180|@MateCheckCapture|876
+#181|@BOT_Stockfish13|800

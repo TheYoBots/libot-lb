@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@CloudBotZero|1798
 #103|@AnUtterlyKarBot|1796
 #104|@Nobody11892|1785
-#105|@Viet-BOT|1750
-#106|@Groot123456|1748
+#105|@Groot123456|1759
+#106|@Viet-BOT|1750
 #107|@clrsrc_lc0|1742
 #108|@K_Shi_Bot|1737
 #109|@natural-disaster|1726
@@ -119,8 +119,8 @@ Rank|Bot|Rating
 #117|@Just-a-random-bot|1604
 #118|@Epiano_Bot|1567
 #119|@Ramses-Chess|1547
-#120|@DavidsGuterBot|1542
-#121|@Toxic_Bot|1541
+#120|@Toxic_Bot|1541
+#121|@DavidsGuterBot|1539
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
 #124|@Z-Move|1495
@@ -175,6 +175,5 @@ Rank|Bot|Rating
 #173|@BogoBot|946
 #174|@clj-bot|943
 #175|@SacrificeBot|934
-#176|@MinOpponentMoves|928
-#177|@GuineaBot2|884
-#178|@MateCheckCapture|795
+#176|@GuineaBot2|884
+#177|@MateCheckCapture|795

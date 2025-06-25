@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@XXXTryandTryXXX|1781
 #69|@NormalBulletBot|1774
 #70|@Botzer|1772
-#71|@OpeningsBot|1763
+#71|@OpeningsBot|1764
 #72|@CloudBOT|1758
 #73|@CocopikachuBOT|1757
 #74|@Heman36541234578|1741
@@ -128,10 +128,10 @@ Rank|Bot|Rating
 #126|@Toxic_Bot|1352
 #127|@DespacitoBot|1345
 #128|@weaklean|1338
-#129|@pawnrobot|1302
+#129|@pawnrobot|1300
 #130|@BinaryBrain|1299
 #131|@Nicholaswb_BOT|1288
-#132|@Groot123456|1284
+#132|@Groot123456|1280
 #133|@AEBROADUSBOTTER|1279
 #134|@ReallyCrazyBOT|1279
 #135|@AbhijithHISBot|1258
@@ -151,8 +151,7 @@ Rank|Bot|Rating
 #149|@alvin-chess-bot|1091
 #150|@Alexnajax_Fan|1066
 #151|@FireTorchV2|1011
-#152|@MinOpponentMoves|988
-#153|@MateCheckCapture|885
-#154|@GuineaBot2|851
-#155|@RichmondOnBot|834
-#156|@Ramses-Chess|800
+#152|@MateCheckCapture|885
+#153|@GuineaBot2|851
+#154|@RichmondOnBot|834
+#155|@Ramses-Chess|800

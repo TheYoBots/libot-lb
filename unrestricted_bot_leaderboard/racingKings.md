@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@Johnsun|2181
 #78|@HuxZero|2176
 #79|@AnUtterlyKarBot|2174
-#80|@knight_128|2144
-#81|@OpeningsBot|2138
+#80|@OpeningsBot|2145
+#81|@knight_128|2144
 #82|@Kizburb|2126
 #83|@mc-king-098|2124
 #84|@xiang-qi|2113
@@ -188,4 +188,3 @@ Rank|Bot|Rating
 #186|@MateCheckCapture|1011
 #187|@littlesamsun|996
 #188|@ZX-Chess|982
-#189|@MinOpponentMoves|648

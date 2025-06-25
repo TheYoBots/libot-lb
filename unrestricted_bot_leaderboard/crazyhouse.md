@@ -135,10 +135,10 @@ Rank|Bot|Rating
 #133|@TheAwesomeBot|1527
 #134|@Botkingteam33|1525
 #135|@AldoGamer001_Bot|1507
-#136|@NoobMasterBOT|1499
-#137|@ararimbelami|1498
-#138|@HerokuHasnotplay|1498
-#139|@Groot123456|1496
+#136|@Groot123456|1504
+#137|@NoobMasterBOT|1499
+#138|@ararimbelami|1498
+#139|@HerokuHasnotplay|1498
 #140|@faith_bot|1494
 #141|@VariantsTop|1494
 #142|@CoderDen732|1493
@@ -187,7 +187,7 @@ Rank|Bot|Rating
 #185|@NightStarFox|1243
 #186|@Happy_One|1223
 #187|@Grand_MefBartu-BOT|1200
-#188|@pawnrobot|1200
+#188|@pawnrobot|1197
 #189|@FluffBallCuddly|1191
 #190|@heatseeker223|1191
 #191|@ChessPlayer1225|1183
@@ -208,4 +208,3 @@ Rank|Bot|Rating
 #206|@GuineaBot3|845
 #207|@MateCheckCapture|828
 #208|@TrashBot|800
-#209|@MinOpponentMoves|783
