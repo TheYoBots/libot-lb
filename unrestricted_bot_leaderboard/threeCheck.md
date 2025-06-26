@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@VariantsTop|2619
 #8|@EmptikBot|2616
 #9|@LoseisnotAvailablehe|2613
-#10|@InvinxibleFlxsh|2590
+#10|@InvinxibleFlxsh|2607
 #11|@EmptikVariantsBot|2589
 #12|@Nikitosikbot_v2|2586
 #13|@Jussicas|2577
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
-#39|@colinbot|2288
+#39|@colinbot|2286
 #40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
@@ -159,13 +159,13 @@ Rank|Bot|Rating
 #157|@Parth_Dhage_2|1258
 #158|@MyNameIsWhatLOL|1256
 #159|@SneakyBot21|1256
-#160|@pawnrobot|1241
+#160|@pawnrobot|1253
 #161|@TORTADEMANZANA023|1233
-#162|@clj-bot|1209
-#163|@heatseeker223|1191
-#164|@admin-bot|1188
-#165|@Ujwal1001|1179
-#166|@Just-a-random-bot|1171
+#162|@heatseeker223|1191
+#163|@admin-bot|1188
+#164|@Ujwal1001|1179
+#165|@Just-a-random-bot|1171
+#166|@clj-bot|1170
 #167|@duythong1402|1165
 #168|@Boom_Bot|1155
 #169|@thousandatom|1154

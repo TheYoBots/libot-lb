@@ -488,6 +488,7 @@ bruceleela
 brutestrength
 bryan_12345
 bsergey11-bot
+bstba
 budgetsnorkel
 bufffishnet
 buildabot
@@ -2426,6 +2427,7 @@ shallowredfish
 shalmaneser42
 sharkbot
 sharkbotfish
+sharprustic
 sharpsundae
 shashchess2020
 shashchess_msp
@@ -2476,6 +2478,7 @@ skywalker_bot
 skzapbot
 slav-tech
 sldeadshot22
+sleepmindengine
 slice-bot
 slimiestsquid
 slothengine
@@ -3086,6 +3089,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sharprustic
-sleepmindengine
-bstba
