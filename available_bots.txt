@@ -2477,6 +2477,7 @@ skzapbot
 slav-tech
 sldeadshot22
 slice-bot
+slimiestsquid
 slothengine
 slow-and-stupid
 slvov-bot
@@ -3085,4 +3086,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-slimiestsquid
+sharprustic
+sleepmindengine
+bstba

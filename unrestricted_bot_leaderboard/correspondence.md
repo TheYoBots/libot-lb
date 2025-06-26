@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@pawn_git|2668
 #9|@H-Zero|2650
 #10|@LeelaZero-UK|2585
-#11|@pawnocchio_bot|2560
+#11|@pawnocchio_bot|2575
 #12|@Alexnajax_Fan|2549
 #13|@SacrificialSage|2519
 #14|@ChamberiAjedrez|2517
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@CorrespondenceBot|2353
 #30|@duchessAI|2344
 #31|@HansNiemannBot|2338
-#32|@Shocky_BOT|2335
+#32|@Shocky_BOT|2336
 #33|@bekbot|2307
 #34|@OpeningsBot|2307
 #35|@IAMSTOCKFISH123|2305
@@ -120,13 +120,13 @@ Rank|Bot|Rating
 #118|@Emmamaster|2043
 #119|@maello_bot|2043
 #120|@TeamChelsie|2043
-#121|@GarboBot|2040
-#122|@abhisun_bot|2039
-#123|@Beyondcomprehension|2039
-#124|@faith_bot|2037
-#125|@CocopikachuBOT|2036
-#126|@Humanoid_1800|2036
-#127|@HyperPhoenix21|2035
+#121|@abhisun_bot|2039
+#122|@Beyondcomprehension|2039
+#123|@faith_bot|2037
+#124|@CocopikachuBOT|2036
+#125|@HyperPhoenix21|2035
+#126|@GarboBot|2034
+#127|@Humanoid_1800|2033
 #128|@EmptikCorrespondence|2031
 #129|@StrongMagnusCarlsen|2027
 #130|@duythong1402|2025
@@ -383,7 +383,7 @@ Rank|Bot|Rating
 #381|@ertugruldemir|1131
 #382|@Bot-31795|1127
 #383|@szuwar8716|1116
-#384|@clj-bot|1112
+#384|@clj-bot|1098
 #385|@AXWChessBot|1096
 #386|@StashBot|1075
 #387|@Light_To_The_Rescue|1057

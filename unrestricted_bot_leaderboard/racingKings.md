@@ -80,9 +80,9 @@ Rank|Bot|Rating
 #78|@HuxZero|2176
 #79|@AnUtterlyKarBot|2174
 #80|@knight_128|2144
-#81|@OpeningsBot|2135
-#82|@Kizburb|2126
-#83|@mc-king-098|2124
+#81|@Kizburb|2126
+#82|@mc-king-098|2124
+#83|@OpeningsBot|2123
 #84|@xiang-qi|2113
 #85|@atomicli|2111
 #86|@Trumpfor2O2O|2103

@@ -134,8 +134,8 @@ Rank|Bot|Rating
 #132|@DespacitoBot|1535
 #133|@TheAwesomeBot|1527
 #134|@Botkingteam33|1525
-#135|@AldoGamer001_Bot|1507
-#136|@Groot123456|1504
+#135|@Groot123456|1511
+#136|@AldoGamer001_Bot|1507
 #137|@NoobMasterBOT|1499
 #138|@ararimbelami|1498
 #139|@HerokuHasnotplay|1498
@@ -187,7 +187,7 @@ Rank|Bot|Rating
 #185|@NightStarFox|1243
 #186|@Happy_One|1223
 #187|@Grand_MefBartu-BOT|1200
-#188|@pawnrobot|1197
+#188|@pawnrobot|1194
 #189|@FluffBallCuddly|1191
 #190|@heatseeker223|1191
 #191|@ChessPlayer1225|1183

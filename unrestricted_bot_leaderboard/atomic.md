@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@KizVariant|2597
 #10|@pistol-play|2590
 #11|@Bharat_royals|2575
-#12|@ToromBot|2571
+#12|@ToromBot|2572
 #13|@Nikitosikbot_v2|2570
 #14|@Nikitosik-ai|2569
 #15|@NimsiluBot|2562
@@ -294,10 +294,10 @@ Rank|Bot|Rating
 #292|@TheSystem_Bot|1318
 #293|@PROBROMAN|1317
 #294|@Atomicbot1|1294
-#295|@pawnrobot|1290
-#296|@DavidsGuterBot|1287
-#297|@XXXTryandTryXXX|1280
-#298|@legendbot1|1277
+#295|@DavidsGuterBot|1287
+#296|@XXXTryandTryXXX|1280
+#297|@legendbot1|1277
+#298|@pawnrobot|1277
 #299|@PranavChessBot|1273
 #300|@SkyBlaster|1269
 #301|@Galaxy_Guardian|1265

@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@colinbot|2645
 #3|@Nakshatra3|2561
 #4|@NilatacBot|2347
-#5|@anti-bot|2266
+#5|@anti-bot|2302
 #6|@OpeningsBot|2244
-#7|@CatNail|2040
-#8|@pawnrobot|1871
+#7|@CatNail|2043
+#8|@pawnrobot|1868
