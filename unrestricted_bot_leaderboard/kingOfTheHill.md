@@ -174,6 +174,6 @@ Rank|Bot|Rating
 #172|@thousandatom|970
 #173|@BogoBot|946
 #174|@SacrificeBot|934
-#175|@clj-bot|909
+#175|@clj-bot|927
 #176|@GuineaBot2|884
 #177|@MateCheckCapture|795

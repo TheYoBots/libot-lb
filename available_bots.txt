@@ -75,6 +75,7 @@ allgames_bot
 allgamesbot
 alliedalien
 alliethechessbot
+allrustbot
 allvariantchessbot
 allvariants
 allvariantsbot
@@ -2491,6 +2492,7 @@ smoothrotation
 sneakybot21
 soccerbot
 sofcheck
+soggiestshrimp
 sohamchessbot
 sohilbot
 solidor59
@@ -3089,5 +3091,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-allrustbot
-soggiestshrimp
