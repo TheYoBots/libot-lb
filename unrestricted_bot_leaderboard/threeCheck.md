@@ -112,9 +112,9 @@ Rank|Bot|Rating
 #110|@CoderDen732|1639
 #111|@Botkingteam33|1633
 #112|@jasans_bot|1621
-#113|@DavidsGuterBot|1589
+#113|@Groot123456|1604
 #114|@newengine2022|1588
-#115|@Groot123456|1582
+#115|@DavidsGuterBot|1578
 #116|@knight_128|1563
 #117|@Alehkine_cat|1549
 #118|@TrashBot|1519
@@ -165,7 +165,7 @@ Rank|Bot|Rating
 #163|@admin-bot|1188
 #164|@Ujwal1001|1179
 #165|@Just-a-random-bot|1171
-#166|@clj-bot|1170
+#166|@clj-bot|1167
 #167|@duythong1402|1165
 #168|@Boom_Bot|1155
 #169|@thousandatom|1154

@@ -104,10 +104,10 @@ Rank|Bot|Rating
 #102|@CloudBotZero|1798
 #103|@AnUtterlyKarBot|1796
 #104|@Nobody11892|1785
-#105|@Groot123456|1769
-#106|@Viet-BOT|1750
-#107|@clrsrc_lc0|1742
-#108|@K_Shi_Bot|1737
+#105|@Viet-BOT|1750
+#106|@clrsrc_lc0|1742
+#107|@K_Shi_Bot|1737
+#108|@Groot123456|1735
 #109|@natural-disaster|1726
 #110|@TTC-BOT_2|1703
 #111|@Viet_BOT|1701
@@ -118,9 +118,9 @@ Rank|Bot|Rating
 #116|@Breeze-Hot|1606
 #117|@Just-a-random-bot|1604
 #118|@Epiano_Bot|1567
-#119|@Ramses-Chess|1547
-#120|@Toxic_Bot|1541
-#121|@DavidsGuterBot|1538
+#119|@DavidsGuterBot|1549
+#120|@Ramses-Chess|1547
+#121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
 #124|@Z-Move|1495
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@ChessChipBot|1258
 #155|@Hrant_Petrosyan_BOT|1258
 #156|@HiddeNL|1242
-#157|@pawnrobot|1242
+#157|@pawnrobot|1241
 #158|@knight_128|1233
 #159|@MyNameIsSpeedy|1226
 #160|@Bottios|1223

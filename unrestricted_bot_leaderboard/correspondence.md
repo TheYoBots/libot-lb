@@ -31,9 +31,9 @@ Rank|Bot|Rating
 #29|@CorrespondenceBot|2353
 #30|@duchessAI|2344
 #31|@HansNiemannBot|2338
-#32|@Shocky_BOT|2336
-#33|@bekbot|2307
-#34|@OpeningsBot|2307
+#32|@Shocky_BOT|2335
+#33|@OpeningsBot|2308
+#34|@bekbot|2307
 #35|@IAMSTOCKFISH123|2305
 #36|@Magnus-BOT|2304
 #37|@Xmas_dragon|2300
@@ -151,9 +151,9 @@ Rank|Bot|Rating
 #149|@SohamChessBot|1956
 #150|@Thera_Engine|1955
 #151|@BOTsharpchess|1952
-#152|@ZE_ROOK|1938
-#153|@Los-Guerreros1|1935
-#154|@RadianceEngine|1935
+#152|@RadianceEngine|1948
+#153|@ZE_ROOK|1938
+#154|@Los-Guerreros1|1935
 #155|@TheLegendaryKnight|1935
 #156|@chicken_farmer|1926
 #157|@yowCapablanca|1914
@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@czesc-bot|1291
 #357|@Kapablanca_balls|1291
 #358|@kidobot2911|1284
-#359|@Cimille|1274
+#359|@Cimille|1273
 #360|@TORTADEMANZANA023|1272
 #361|@Blasting4|1258
 #362|@CheakyKoala|1258
