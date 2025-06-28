@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@ToromBot|2949
 #2|@colinbot|2647
 #3|@NilatacBot|2344
-#4|@anti-bot|2343
+#4|@anti-bot|2321
 #5|@OpeningsBot|2244
-#6|@CatNail|2046
-#7|@pawnrobot|1871
+#6|@CatNail|2049
+#7|@pawnrobot|1872

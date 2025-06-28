@@ -89,9 +89,9 @@ Rank|Bot|Rating
 #87|@Viet_BOT|2354
 #88|@higuyuu67776|2352
 #89|@NilatacBot|2344
-#90|@anti-bot|2343
-#91|@Karpov_bot|2335
-#92|@TeamChelsie|2331
+#90|@Karpov_bot|2335
+#91|@TeamChelsie|2331
+#92|@anti-bot|2321
 #93|@AI69|2312
 #94|@Kizburb|2307
 #95|@MagicverseBOT|2306
@@ -129,8 +129,8 @@ Rank|Bot|Rating
 #127|@Stockfish-MEDIUM|2117
 #128|@PyChessBot|2102
 #129|@TurkiyeHogwartsBOT|2099
-#130|@ZamuChess|2049
-#131|@CatNail|2046
+#130|@CatNail|2049
+#131|@ZamuChess|2049
 #132|@Botzer|2020
 #133|@Jussicas|2019
 #134|@CloudBotZero|2018
@@ -143,8 +143,8 @@ Rank|Bot|Rating
 #141|@CloudBOT|1950
 #142|@SriLankaChess|1925
 #143|@Crepusculum|1881
-#144|@NoTallkOnlyGames|1871
-#145|@pawnrobot|1871
+#144|@pawnrobot|1872
+#145|@NoTallkOnlyGames|1871
 #146|@Lumac0|1861
 #147|@Endogenetic-Bot|1859
 #148|@Pineapple-Friendly|1858
@@ -152,8 +152,8 @@ Rank|Bot|Rating
 #150|@Bot2000|1807
 #151|@Emil_V2|1789
 #152|@bot1996123|1787
-#153|@Groot123456|1785
-#154|@Yemmi-Yemmi|1774
+#153|@Yemmi-Yemmi|1774
+#154|@Groot123456|1773
 #155|@MyNameIsSpeedy|1773
 #156|@Just-a-random-bot|1772
 #157|@TheLegendaryLion|1769
