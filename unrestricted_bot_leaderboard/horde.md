@@ -151,7 +151,8 @@ Rank|Bot|Rating
 #149|@alvin-chess-bot|1091
 #150|@Alexnajax_Fan|1066
 #151|@FireTorchV2|1011
-#152|@MateCheckCapture|885
-#153|@GuineaBot2|851
-#154|@RichmondOnBot|834
-#155|@Ramses-Chess|800
+#152|@MinOpponentMoves|988
+#153|@MateCheckCapture|885
+#154|@GuineaBot2|851
+#155|@RichmondOnBot|834
+#156|@Ramses-Chess|800

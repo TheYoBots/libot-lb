@@ -1632,6 +1632,7 @@ lelaaz
 lenschess-com
 lenya228_bot
 leojoseph101010
+leomessi-bot
 leorikbot
 leosbot
 lermerbot
@@ -3091,4 +3092,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-leomessi-bot
+alphabetaceta
+indusdragon
+mittensforever

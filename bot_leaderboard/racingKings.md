@@ -4,3 +4,4 @@ Rank|Bot|Rating
 #2|@ToromBot|2574
 #3|@colinbot|2382
 #4|@OpeningsBot|2119
+#5|@MinOpponentMoves|648

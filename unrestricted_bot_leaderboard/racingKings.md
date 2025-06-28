@@ -132,10 +132,10 @@ Rank|Bot|Rating
 #130|@Challenger_crazy|1652
 #131|@ROBOT_RANDEER2007|1651
 #132|@Heman36541234578|1647
-#133|@HiddeNL|1573
-#134|@TheSystem_Bot|1572
-#135|@QuickLiquid|1555
-#136|@Groot123456|1532
+#133|@Groot123456|1603
+#134|@HiddeNL|1573
+#135|@TheSystem_Bot|1572
+#136|@QuickLiquid|1555
 #137|@faith_bot|1514
 #138|@CoderDen732|1507
 #139|@TorBot|1498
@@ -188,3 +188,4 @@ Rank|Bot|Rating
 #186|@MateCheckCapture|1011
 #187|@littlesamsun|996
 #188|@ZX-Chess|982
+#189|@MinOpponentMoves|648
