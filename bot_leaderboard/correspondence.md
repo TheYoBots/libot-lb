@@ -1,9 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Shocky_BOT|2340
-#2|@OpeningsBot|2310
-#3|@GarboBot|2032
-#4|@Humanoid_1800|2030
+#2|@OpeningsBot|2313
+#3|@GarboBot|2029
+#4|@Humanoid_1800|2026
 #5|@Jibbby|1801
-#6|@Cimille|1273
-#7|@grandQ_AI|771
+#6|@Cimille|1271

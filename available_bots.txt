@@ -83,6 +83,7 @@ almaznv_2bot
 alopyx
 alouettechessengine
 alpbet0
+alphabetaceta
 alphabotical
 alphachess_official
 alphadeepchess
@@ -1344,6 +1345,7 @@ indi_bot
 indianchessrobot
 indianguyplayz
 indibot
+indusdragon
 inflames1996
 integralbot
 integralmathbot
@@ -1839,6 +1841,7 @@ mistakebot
 misteick_bot
 misterrengar
 mittens-bot
+mittensforever
 mittensthechessb0t
 mjchess13
 mkad-106_bot
@@ -3092,6 +3095,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-alphabetaceta
-indusdragon
-mittensforever

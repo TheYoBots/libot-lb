@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@Viet-AI|2600
 #8|@RaspFish|2587
 #9|@lord-bot|2581
-#10|@ToromBot|2574
+#10|@ToromBot|2575
 #11|@Lenya228_BOT|2572
 #12|@Fairy_Belzedar|2559
 #13|@EmptikVariantsBot|2557
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@knight_128|2144
 #81|@Kizburb|2126
 #82|@mc-king-098|2124
-#83|@OpeningsBot|2119
+#83|@OpeningsBot|2118
 #84|@xiang-qi|2113
 #85|@atomicli|2111
 #86|@Trumpfor2O2O|2103

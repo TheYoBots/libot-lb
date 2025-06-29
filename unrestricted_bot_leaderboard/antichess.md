@@ -88,8 +88,8 @@ Rank|Bot|Rating
 #86|@Less_of_a_threat|2357
 #87|@Viet_BOT|2354
 #88|@higuyuu67776|2352
-#89|@NilatacBot|2344
-#90|@Karpov_bot|2335
+#89|@Karpov_bot|2335
+#90|@NilatacBot|2332
 #91|@TeamChelsie|2331
 #92|@anti-bot|2313
 #93|@AI69|2312
@@ -102,8 +102,8 @@ Rank|Bot|Rating
 #100|@GodelEscherBot|2284
 #101|@Dean_Summer_Bot|2279
 #102|@Johnsun|2269
-#103|@SkyBlaster|2254
-#104|@OpeningsBot|2244
+#103|@OpeningsBot|2261
+#104|@SkyBlaster|2254
 #105|@mrchessmanager|2240
 #106|@TurkiyeHogwarts|2240
 #107|@EagleEye2021|2235
@@ -143,8 +143,8 @@ Rank|Bot|Rating
 #141|@CloudBOT|1950
 #142|@SriLankaChess|1925
 #143|@Crepusculum|1881
-#144|@pawnrobot|1872
-#145|@NoTallkOnlyGames|1871
+#144|@NoTallkOnlyGames|1871
+#145|@pawnrobot|1869
 #146|@Lumac0|1861
 #147|@Endogenetic-Bot|1859
 #148|@Pineapple-Friendly|1858
@@ -284,9 +284,9 @@ Rank|Bot|Rating
 #282|@Epiano_Bot|986
 #283|@BetaOneBot|954
 #284|@Lozza-Bot|954
-#285|@clj-bot|897
-#286|@potato638|886
-#287|@KuhusBOT|822
+#285|@potato638|886
+#286|@KuhusBOT|822
+#287|@clj-bot|809
 #288|@BotSSS|800
 #289|@Ujwal1001|800
 #290|@MateCheckCapture|675
