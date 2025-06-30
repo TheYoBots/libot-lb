@@ -105,10 +105,10 @@ Rank|Bot|Rating
 #103|@AnUtterlyKarBot|1796
 #104|@Nobody11892|1785
 #105|@Viet-BOT|1750
-#106|@Groot123456|1746
-#107|@clrsrc_lc0|1742
-#108|@K_Shi_Bot|1737
-#109|@natural-disaster|1726
+#106|@clrsrc_lc0|1742
+#107|@K_Shi_Bot|1737
+#108|@natural-disaster|1726
+#109|@Groot123456|1715
 #110|@TTC-BOT_2|1703
 #111|@Viet_BOT|1701
 #112|@QuickLiquid|1689
@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@Breeze-Hot|1606
 #117|@Just-a-random-bot|1604
 #118|@Epiano_Bot|1567
-#119|@DavidsGuterBot|1549
+#119|@DavidsGuterBot|1558
 #120|@Ramses-Chess|1547
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534

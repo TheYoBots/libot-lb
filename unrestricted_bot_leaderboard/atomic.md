@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
 #10|@pistol-play|2590
-#11|@ToromBot|2578
+#11|@ToromBot|2580
 #12|@Bharat_royals|2575
 #13|@Nikitosikbot_v2|2570
 #14|@Nikitosik-ai|2569

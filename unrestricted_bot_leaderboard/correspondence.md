@@ -30,9 +30,9 @@ Rank|Bot|Rating
 #28|@Mega_BOT|2371
 #29|@CorrespondenceBot|2353
 #30|@duchessAI|2344
-#31|@Shocky_BOT|2340
-#32|@HansNiemannBot|2338
-#33|@OpeningsBot|2313
+#31|@HansNiemannBot|2338
+#32|@Shocky_BOT|2334
+#33|@OpeningsBot|2319
 #34|@bekbot|2307
 #35|@IAMSTOCKFISH123|2305
 #36|@Magnus-BOT|2304
@@ -180,10 +180,10 @@ Rank|Bot|Rating
 #178|@Black_Knight2006|1815
 #179|@Hoplites|1813
 #180|@Sub_Bot|1808
-#181|@Jibbby|1801
-#182|@DrMeowMeow|1800
-#183|@stockfish12_Johan|1798
-#184|@DragonflyBOT|1796
+#181|@DrMeowMeow|1800
+#182|@stockfish12_Johan|1798
+#183|@DragonflyBOT|1796
+#184|@Jibbby|1793
 #185|@BetaOneBot|1792
 #186|@MagicHacker123|1792
 #187|@maia5|1792
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@Kapablanca_balls|1291
 #358|@kidobot2911|1284
 #359|@TORTADEMANZANA023|1272
-#360|@Cimille|1271
+#360|@Cimille|1267
 #361|@Blasting4|1258
 #362|@CheakyKoala|1258
 #363|@johnwick_babayoga|1258

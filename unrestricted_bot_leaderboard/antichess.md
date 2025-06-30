@@ -43,9 +43,9 @@ Rank|Bot|Rating
 #41|@InvinxibleFlxsh|2589
 #42|@WilliamGAsaad|2584
 #43|@ElPeonElectrico|2568
-#44|@YoBot_v2|2565
-#45|@Nebulogic|2564
-#46|@Nakshatra3|2561
+#44|@Nakshatra3|2565
+#45|@YoBot_v2|2565
+#46|@Nebulogic|2564
 #47|@Vinh_VariantsBot|2561
 #48|@chessbot2880|2560
 #49|@Xerus_1|2553
@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@GodelEscherBot|2284
 #101|@Dean_Summer_Bot|2279
 #102|@Johnsun|2269
-#103|@OpeningsBot|2261
+#103|@OpeningsBot|2258
 #104|@SkyBlaster|2254
 #105|@mrchessmanager|2240
 #106|@TurkiyeHogwarts|2240
