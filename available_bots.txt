@@ -2989,6 +2989,7 @@ winner4forever
 winterbot
 winwinner-bot
 wirtanen
+withgmstudy
 wittenbergadmin
 wmatt
 wmwmmmwmwmmmwmwmwmmw
@@ -3095,4 +3096,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-withgmstudy
+buffer_overflow
+qyvirkotbot

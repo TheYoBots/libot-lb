@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Stockfish-MEDIUM|2117
 #128|@PyChessBot|2102
 #129|@TurkiyeHogwartsBOT|2099
-#130|@CatNail|2053
+#130|@CatNail|2054
 #131|@ZamuChess|2049
 #132|@Botzer|2020
 #133|@Jussicas|2019
@@ -286,8 +286,7 @@ Rank|Bot|Rating
 #284|@Lozza-Bot|954
 #285|@potato638|886
 #286|@KuhusBOT|822
-#287|@clj-bot|809
-#288|@BotSSS|800
-#289|@Ujwal1001|800
-#290|@MateCheckCapture|675
-#291|@queen_stase_approx|631
+#287|@BotSSS|800
+#288|@Ujwal1001|800
+#289|@MateCheckCapture|675
+#290|@queen_stase_approx|631

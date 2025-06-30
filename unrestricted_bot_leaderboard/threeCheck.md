@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@newengine2022|1588
 #115|@knight_128|1563
 #116|@Alehkine_cat|1549
-#117|@DavidsGuterBot|1545
+#117|@DavidsGuterBot|1548
 #118|@TrashBot|1519
 #119|@relevantproblem|1514
 #120|@Toxic_Bot|1511
@@ -152,7 +152,7 @@ Rank|Bot|Rating
 #150|@Harry_Potterz|1316
 #151|@allvariants|1310
 #152|@NoTallkOnlyGames|1293
-#153|@pawnrobot|1283
+#153|@pawnrobot|1281
 #154|@Light_To_The_Rescue|1277
 #155|@Sanjana_Kambala-BOT|1273
 #156|@TheLegendaryKnight|1272
@@ -176,9 +176,8 @@ Rank|Bot|Rating
 #174|@ZX-Chess|1063
 #175|@GOrInkO_Fun_BOT|992
 #176|@GuineaBot3|972
-#177|@clj-bot|947
-#178|@BogoBot|928
-#179|@MinOpponentMoves|910
-#180|@TheSystem_Bot|905
-#181|@MateCheckCapture|876
-#182|@BOT_Stockfish13|800
+#177|@BogoBot|928
+#178|@MinOpponentMoves|910
+#179|@TheSystem_Bot|905
+#180|@MateCheckCapture|876
+#181|@BOT_Stockfish13|800

@@ -6,6 +6,6 @@ Rank|Bot|Rating
 #4|@NilatacBot|2332
 #5|@anti-bot|2313
 #6|@OpeningsBot|2258
-#7|@CatNail|2053
+#7|@CatNail|2054
 #8|@pawnrobot|1869
 #9|@MinOpponentMoves|1031
