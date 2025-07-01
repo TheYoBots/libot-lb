@@ -30,9 +30,9 @@ Rank|Bot|Rating
 #28|@Mega_BOT|2371
 #29|@CorrespondenceBot|2353
 #30|@duchessAI|2344
-#31|@Shocky_BOT|2344
-#32|@HansNiemannBot|2338
-#33|@OpeningsBot|2312
+#31|@HansNiemannBot|2338
+#32|@Shocky_BOT|2330
+#33|@OpeningsBot|2325
 #34|@bekbot|2307
 #35|@IAMSTOCKFISH123|2305
 #36|@Magnus-BOT|2304

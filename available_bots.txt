@@ -683,6 +683,7 @@ clueless-bot
 cmndr
 cnn_bot
 cobrachessbot
+cockycrab
 coconochao_bot
 cocopikachubot
 coderden732
@@ -1672,6 +1673,7 @@ littlesamsun
 littletony
 lizzardbot
 lk-stockfish
+lobsterbot
 loev07
 loevbot
 logic_lancer
@@ -3098,5 +3100,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lobsterbot
-cockycrab
