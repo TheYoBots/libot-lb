@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2949
-#2|@colinbot|2647
+#2|@colinbot|2635
 #3|@Nakshatra3|2565
 #4|@NilatacBot|2332
-#5|@anti-bot|2313
-#6|@OpeningsBot|2258
-#7|@CatNail|2054
+#5|@anti-bot|2306
+#6|@OpeningsBot|2259
+#7|@CatNail|2055
 #8|@pawnrobot|1869
 #9|@MinOpponentMoves|1031

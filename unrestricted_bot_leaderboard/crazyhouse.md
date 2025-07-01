@@ -88,8 +88,8 @@ Rank|Bot|Rating
 #86|@azdad|1895
 #87|@Galaxy_Guardian|1885
 #88|@The-Fastest-Bot|1885
-#89|@colinbot|1876
-#90|@XXIstCentury|1875
+#89|@XXIstCentury|1875
+#90|@colinbot|1874
 #91|@ChessBot3021|1872
 #92|@CocopikachuBOT|1868
 #93|@legendbot1|1866
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@sauwkhamari|1741
 #111|@TJchessBot|1741
 #112|@SacrificialSage|1733
-#113|@OpeningsBot|1714
+#113|@OpeningsBot|1708
 #114|@Lili-Variants|1698
 #115|@Lightning_SpeedChess|1696
 #116|@B0T5_RU13|1683

@@ -492,6 +492,7 @@ bryan_12345
 bsergey11-bot
 bstba
 budgetsnorkel
+buffer_overflow
 bufffishnet
 buildabot
 buletten-karl
@@ -2227,6 +2228,7 @@ quintiumbotaccount
 quokkabot
 quros
 qwertziop3
+qyvirkotbot
 qzrfi
 r-o-b-o-t
 r0bspierre
@@ -3096,5 +3098,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-buffer_overflow
-qyvirkotbot
+lobsterbot
+cockycrab

@@ -4,9 +4,9 @@ Rank|Bot|Rating
 #2|@ttBOT|2716
 #3|@VariantsBot|2703
 #4|@Nikitosik-ai|2645
-#5|@InvinxibleFlxsh|2607
-#6|@SkyBlaster|2603
-#7|@Viet-AI|2600
+#5|@SkyBlaster|2603
+#6|@Viet-AI|2600
+#7|@InvinxibleFlxsh|2594
 #8|@RaspFish|2587
 #9|@lord-bot|2581
 #10|@ToromBot|2575
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@The-Fastest-Bot|2402
 #40|@lightspeed_bot|2396
 #41|@thibot|2393
-#42|@colinbot|2382
+#42|@colinbot|2381
 #43|@Jussicas|2373
 #44|@TheMatrix2025|2368
 #45|@Lili-Variants|2357
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@xiang-qi|2113
 #84|@atomicli|2111
 #85|@Trumpfor2O2O|2103
-#86|@OpeningsBot|2101
+#86|@OpeningsBot|2100
 #87|@PetersTestBot|2081
 #88|@CloudBOT|2073
 #89|@JustDontFlagMe|2048
@@ -132,9 +132,9 @@ Rank|Bot|Rating
 #130|@Challenger_crazy|1652
 #131|@ROBOT_RANDEER2007|1651
 #132|@Heman36541234578|1647
-#133|@Groot123456|1603
-#134|@HiddeNL|1573
-#135|@TheSystem_Bot|1572
+#133|@HiddeNL|1573
+#134|@TheSystem_Bot|1572
+#135|@Groot123456|1558
 #136|@QuickLiquid|1555
 #137|@faith_bot|1514
 #138|@CoderDen732|1507
