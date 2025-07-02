@@ -1,5 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@colinbot|2286
-#2|@DavidsGuterBot|1551
-#3|@pawnrobot|1277
+#1|@RaspFish|2448
+#2|@colinbot|2282
+#3|@DavidsGuterBot|1548
+#4|@pawnrobot|1273
