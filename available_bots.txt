@@ -1086,6 +1086,7 @@ furrybot
 furryofthewerewolf
 furyengine
 future_chess_pro
+futuregmbot
 fychess2
 fychess_bot
 g0thamb0t
@@ -2666,6 +2667,7 @@ t3000
 ta_2020_bot
 ta_alexopoulakia
 tacticoferoz
+takticproches
 taleelavshumans
 tapobot
 taske-eman
@@ -3100,5 +3102,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-takticproches
-futuregmbot
+project_nebulora
+oceanicomegalord

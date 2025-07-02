@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@alvinl22_LBot|2068
 #114|@Vinnikk|2061
 #115|@XXIstCentury|2061
-#116|@colinbot|2049
+#116|@colinbot|2059
 #117|@azdad|2047
 #118|@Less_of_a_threat|2047
 #119|@MagnusCarlsen1507|2037

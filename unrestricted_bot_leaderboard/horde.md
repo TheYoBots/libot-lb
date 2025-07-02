@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@NimsiluBot|2901
 #4|@Fairy_Belzedar|2857
 #5|@Coolman2021|2757
-#6|@ToromBot|2744
+#6|@ToromBot|2745
 #7|@FireFishBOT|2726
 #8|@PepsiForAll|2699
 #9|@ttBOT|2584
@@ -47,8 +47,8 @@ Rank|Bot|Rating
 #45|@chessbot2880|1923
 #46|@Magnus-BOT|1923
 #47|@MalanChess|1921
-#48|@NormalBlitzBulletBot|1915
-#49|@colinbot|1913
+#48|@colinbot|1918
+#49|@NormalBlitzBulletBot|1915
 #50|@XXIstCentury|1902
 #51|@AnUtterlyKarBot|1901
 #52|@azdad|1901
