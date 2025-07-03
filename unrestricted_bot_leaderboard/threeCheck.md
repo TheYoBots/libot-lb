@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@Jussicas|2577
 #13|@Coolman2021|2568
 #14|@Viet-BOT|2555
-#15|@ElPeonElectrico|2549
-#16|@ToromBot|2549
+#15|@ToromBot|2553
+#16|@ElPeonElectrico|2549
 #17|@CloudBot_v2|2544
 #18|@Fairy_Belzedar|2544
 #19|@KizVariant|2529
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@LudwigBOT|2304
 #35|@lord-bot|2300
 #36|@KingfishX|2285
-#37|@colinbot|2282
+#37|@colinbot|2279
 #38|@The-Fastest-Bot|2277
 #39|@CocopikachuBOT|2274
 #40|@TheMatrix2025|2272
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@jasans_bot|1621
 #111|@newengine2022|1588
 #112|@knight_128|1563
-#113|@DavidsGuterBot|1551
+#113|@DavidsGuterBot|1553
 #114|@Alehkine_cat|1549
 #115|@TrashBot|1519
 #116|@relevantproblem|1514
@@ -152,8 +152,8 @@ Rank|Bot|Rating
 #150|@Light_To_The_Rescue|1277
 #151|@Sanjana_Kambala-BOT|1273
 #152|@TheLegendaryKnight|1272
-#153|@pawnrobot|1271
-#154|@EstmileBot|1269
+#153|@EstmileBot|1269
+#154|@pawnrobot|1268
 #155|@Parth_Dhage_2|1258
 #156|@MyNameIsWhatLOL|1256
 #157|@SneakyBot21|1256

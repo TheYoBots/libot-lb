@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@VariantsBot|2579
 #3|@KizVariant|2521
 #4|@Fairy-Stockfish|2486
-#5|@EmptikVariantsBot|2443
-#6|@ToromBot|2442
+#5|@ToromBot|2446
+#6|@EmptikVariantsBot|2443
 #7|@ElPeonElectrico|2414
 #8|@Peaceful4Life|2390
 #9|@Corvus-1|2386
@@ -54,9 +54,9 @@ Rank|Bot|Rating
 #52|@ChessVBOT|2065
 #53|@NimsiluBot|2058
 #54|@Hyper-Stockfish|2044
-#55|@colinbot|2037
-#56|@Kizbuurb|2035
-#57|@Galaxy_Guardian|2032
+#55|@Kizbuurb|2035
+#56|@Galaxy_Guardian|2032
+#57|@colinbot|2029
 #58|@CloudBot_v2|2027
 #59|@faith_bot|2026
 #60|@VariantsTop|2014
@@ -105,9 +105,9 @@ Rank|Bot|Rating
 #103|@clrsrc_lc0|1742
 #104|@K_Shi_Bot|1737
 #105|@natural-disaster|1726
-#106|@TTC-BOT_2|1703
-#107|@Viet_BOT|1701
-#108|@Groot123456|1700
+#106|@Groot123456|1711
+#107|@TTC-BOT_2|1703
+#108|@Viet_BOT|1701
 #109|@QuickLiquid|1689
 #110|@SCP079|1660
 #111|@chessemkabot|1625
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Breeze-Hot|1606
 #114|@Just-a-random-bot|1604
 #115|@Epiano_Bot|1567
-#116|@DavidsGuterBot|1558
+#116|@DavidsGuterBot|1555
 #117|@Ramses-Chess|1547
 #118|@Toxic_Bot|1541
 #119|@SXDEFENDER|1534
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@THEANDROIDBOT|1317
 #148|@Challengeme2anything|1307
 #149|@NoTallkOnlyGames|1291
-#150|@pawnrobot|1287
+#150|@pawnrobot|1285
 #151|@jasans_bot|1268
 #152|@ChessChipBot|1258
 #153|@Hrant_Petrosyan_BOT|1258

@@ -2021,6 +2021,7 @@ o9mniej_bot
 obi-pawnkenobot
 obsidianchessengine
 occhessadvanced
+oceanicomegalord
 ochobot
 odonata-bot
 official_bot
@@ -2177,6 +2178,7 @@ probot_vr_2
 probroman
 professional-bot-021
 project-shashchess
+project_nebulora
 projecthuman
 prometheus-bot
 proteussf
@@ -3102,5 +3104,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-project_nebulora
-oceanicomegalord
