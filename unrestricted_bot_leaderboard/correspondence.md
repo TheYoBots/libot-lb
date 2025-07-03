@@ -28,9 +28,9 @@ Rank|Bot|Rating
 #26|@Mega_BOT|2371
 #27|@CorrespondenceBot|2353
 #28|@duchessAI|2344
-#29|@Shocky_BOT|2340
-#30|@HansNiemannBot|2338
-#31|@OpeningsBot|2322
+#29|@HansNiemannBot|2338
+#30|@Shocky_BOT|2334
+#31|@OpeningsBot|2328
 #32|@bekbot|2307
 #33|@IAMSTOCKFISH123|2305
 #34|@Magnus-BOT|2304
@@ -392,4 +392,4 @@ Rank|Bot|Rating
 #390|@G0thamB0t|954
 #391|@GuineaBot|866
 #392|@BogoBot|865
-#393|@grandQ_AI|766
+#393|@grandQ_AI|765

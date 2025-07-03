@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
 #9|@pistol-play|2590
-#10|@ToromBot|2580
+#10|@ToromBot|2581
 #11|@Bharat_royals|2575
 #12|@NimsiluBot|2562
 #13|@UltronBot|2556
@@ -121,8 +121,8 @@ Rank|Bot|Rating
 #119|@MagnusCarlsen1507|2037
 #120|@HuxZero|2035
 #121|@EasyWinGG|2032
-#122|@Kizbuurb|2024
-#123|@OpeningsBot|2020
+#122|@OpeningsBot|2029
+#123|@Kizbuurb|2024
 #124|@ESC_BOT|2011
 #125|@are_bots_good|2006
 #126|@Breeze-Hot|2006

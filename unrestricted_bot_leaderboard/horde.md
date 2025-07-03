@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@PepsiForAll|2699
 #9|@ttBOT|2584
 #10|@Nerubatskyi_Daniil_v|2471
-#11|@RaspFish|2453
+#11|@RaspFish|2456
 #12|@EmptikVariantsBot|2402
 #13|@EmptikBot|2378
 #14|@LoseisnotAvailablehe|2369
@@ -47,8 +47,8 @@ Rank|Bot|Rating
 #45|@chessbot2880|1923
 #46|@Magnus-BOT|1923
 #47|@MalanChess|1921
-#48|@colinbot|1918
-#49|@NormalBlitzBulletBot|1915
+#48|@NormalBlitzBulletBot|1915
+#49|@colinbot|1911
 #50|@XXIstCentury|1902
 #51|@AnUtterlyKarBot|1901
 #52|@azdad|1901

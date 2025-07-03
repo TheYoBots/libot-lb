@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@The-Fastest-Bot|2402
 #37|@lightspeed_bot|2396
 #38|@thibot|2393
-#39|@colinbot|2378
+#39|@colinbot|2379
 #40|@Jussicas|2373
 #41|@TheMatrix2025|2368
 #42|@Lili-Variants|2357

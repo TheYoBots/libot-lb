@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@InvinxibleFlxsh|2538
 #50|@Leelabotmaster|2538
 #51|@Nam-Robot|2537
-#52|@Nakshatra3|2532
+#52|@Nakshatra3|2528
 #53|@Dark_evil_bot|2525
 #54|@Bot_AOOP11|2521
 #55|@HyperLitikBOT|2511
@@ -92,14 +92,14 @@ Rank|Bot|Rating
 #90|@MagicverseBOT|2306
 #91|@abhisun_bot|2305
 #92|@NienishiEngine|2304
-#93|@NilatacBot|2303
-#94|@BromiumAI|2302
-#95|@EvenMatchup|2302
+#93|@BromiumAI|2302
+#94|@EvenMatchup|2302
+#95|@NilatacBot|2301
 #96|@GodelEscherBot|2284
 #97|@Dean_Summer_Bot|2279
 #98|@OpeningsBot|2276
-#99|@anti-bot|2270
-#100|@Johnsun|2269
+#99|@Johnsun|2269
+#100|@anti-bot|2259
 #101|@SkyBlaster|2254
 #102|@mrchessmanager|2240
 #103|@TurkiyeHogwarts|2240
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@Botzer|2020
 #129|@Jussicas|2019
 #130|@CloudBotZero|2018
-#131|@CatNail|2014
+#131|@CatNail|2017
 #132|@B0T5_RU13|2011
 #133|@TheLegitLegend|2010
 #134|@CrayyBot|1989
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@Lumac0|1861
 #143|@Endogenetic-Bot|1859
 #144|@Pineapple-Friendly|1858
-#145|@pawnrobot|1853
+#145|@pawnrobot|1849
 #146|@MyNameIsWhatLOL|1826
 #147|@Bot2000|1807
 #148|@Groot123456|1792

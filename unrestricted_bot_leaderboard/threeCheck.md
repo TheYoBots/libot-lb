@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@jasans_bot|1621
 #111|@newengine2022|1588
 #112|@knight_128|1563
-#113|@DavidsGuterBot|1553
+#113|@DavidsGuterBot|1556
 #114|@Alehkine_cat|1549
 #115|@TrashBot|1519
 #116|@relevantproblem|1514
@@ -151,9 +151,9 @@ Rank|Bot|Rating
 #149|@NoTallkOnlyGames|1293
 #150|@Light_To_The_Rescue|1277
 #151|@Sanjana_Kambala-BOT|1273
-#152|@TheLegendaryKnight|1272
-#153|@EstmileBot|1269
-#154|@pawnrobot|1268
+#152|@pawnrobot|1272
+#153|@TheLegendaryKnight|1272
+#154|@EstmileBot|1269
 #155|@Parth_Dhage_2|1258
 #156|@MyNameIsWhatLOL|1256
 #157|@SneakyBot21|1256
