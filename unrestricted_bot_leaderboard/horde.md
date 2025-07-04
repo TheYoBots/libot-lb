@@ -125,11 +125,11 @@ Rank|Bot|Rating
 #123|@Toxic_Bot|1352
 #124|@DespacitoBot|1345
 #125|@weaklean|1338
-#126|@BinaryBrain|1299
-#127|@Nicholaswb_BOT|1288
-#128|@pawnrobot|1287
-#129|@Groot123456|1284
-#130|@AEBROADUSBOTTER|1279
+#126|@Groot123456|1309
+#127|@BinaryBrain|1299
+#128|@Nicholaswb_BOT|1288
+#129|@AEBROADUSBOTTER|1279
+#130|@pawnrobot|1279
 #131|@ReallyCrazyBOT|1279
 #132|@AbhijithHISBot|1258
 #133|@Humuhumunukunukuapu|1258

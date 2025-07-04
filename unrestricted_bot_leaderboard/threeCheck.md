@@ -6,10 +6,10 @@ Rank|Bot|Rating
 #4|@bananaaaaaaaaa_test|2666
 #5|@FireFishBOT|2631
 #6|@MalanChess|2622
-#7|@VariantsTop|2619
-#8|@EmptikBot|2616
-#9|@LoseisnotAvailablehe|2613
-#10|@InvinxibleFlxsh|2607
+#7|@InvinxibleFlxsh|2621
+#8|@VariantsTop|2619
+#9|@EmptikBot|2616
+#10|@LoseisnotAvailablehe|2613
 #11|@EmptikVariantsBot|2589
 #12|@Jussicas|2577
 #13|@Coolman2021|2568
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@LudwigBOT|2304
 #35|@lord-bot|2300
 #36|@KingfishX|2285
-#37|@colinbot|2279
+#37|@colinbot|2277
 #38|@The-Fastest-Bot|2277
 #39|@CocopikachuBOT|2274
 #40|@TheMatrix2025|2272
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@jasans_bot|1621
 #111|@newengine2022|1588
 #112|@knight_128|1563
-#113|@DavidsGuterBot|1556
+#113|@DavidsGuterBot|1561
 #114|@Alehkine_cat|1549
 #115|@TrashBot|1519
 #116|@relevantproblem|1514
@@ -151,9 +151,9 @@ Rank|Bot|Rating
 #149|@NoTallkOnlyGames|1293
 #150|@Light_To_The_Rescue|1277
 #151|@Sanjana_Kambala-BOT|1273
-#152|@pawnrobot|1272
-#153|@TheLegendaryKnight|1272
-#154|@EstmileBot|1269
+#152|@TheLegendaryKnight|1272
+#153|@EstmileBot|1269
+#154|@pawnrobot|1267
 #155|@Parth_Dhage_2|1258
 #156|@MyNameIsWhatLOL|1256
 #157|@SneakyBot21|1256

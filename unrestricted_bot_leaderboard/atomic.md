@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Dark_evil_bot|2071
 #112|@Karpov_bot|2069
 #113|@alvinl22_LBot|2068
-#114|@colinbot|2066
+#114|@colinbot|2067
 #115|@Vinnikk|2061
 #116|@XXIstCentury|2061
 #117|@azdad|2047
@@ -290,7 +290,7 @@ Rank|Bot|Rating
 #288|@NOTBOTFORSURE|1327
 #289|@TheSystem_Bot|1318
 #290|@PROBROMAN|1317
-#291|@pawnrobot|1316
+#291|@pawnrobot|1315
 #292|@Atomicbot1|1294
 #293|@DavidsGuterBot|1287
 #294|@XXXTryandTryXXX|1280
