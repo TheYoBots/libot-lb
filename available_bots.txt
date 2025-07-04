@@ -3104,3 +3104,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+oceanicabyssalord
+turan_unification
+laurentos_bot
