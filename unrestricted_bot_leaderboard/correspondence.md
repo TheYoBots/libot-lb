@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2911
+#1|@fibonachi|2912
 #2|@Grzechu86|2852
 #3|@MaggiChess16|2806
 #4|@AjedrezChamberi|2717
 #5|@PetersBot|2696
-#6|@pawn_git|2668
+#6|@pawn_git|2658
 #7|@H-Zero|2650
 #8|@Moment-That-Inspires|2608
 #9|@LeelaZero-UK|2585
@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@CorrespondenceBot|2353
 #28|@duchessAI|2344
 #29|@HansNiemannBot|2338
-#30|@Shocky_BOT|2338
-#31|@OpeningsBot|2329
+#30|@OpeningsBot|2338
+#31|@Shocky_BOT|2332
 #32|@bekbot|2307
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300

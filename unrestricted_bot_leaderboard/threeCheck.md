@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@Less_of_a_threat|2469
 #24|@NormalBlitzBulletBot|2463
 #25|@ttBOT|2461
-#26|@RaspFish|2448
+#26|@RaspFish|2459
 #27|@TheMatrix2029|2448
 #28|@faith_bot|2447
 #29|@chessbot2880|2439
@@ -105,12 +105,12 @@ Rank|Bot|Rating
 #103|@Yemmi-Yemmi|1702
 #104|@clueless-bot|1685
 #105|@NormalBulletBot|1657
-#106|@Groot123456|1654
+#106|@Groot123456|1647
 #107|@the_checkmating_bot|1643
 #108|@CoderDen732|1639
 #109|@Botkingteam33|1633
 #110|@jasans_bot|1621
-#111|@DavidsGuterBot|1589
+#111|@DavidsGuterBot|1592
 #112|@newengine2022|1588
 #113|@knight_128|1563
 #114|@Alehkine_cat|1549

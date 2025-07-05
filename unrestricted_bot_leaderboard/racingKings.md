@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@SkyBlaster|2603
 #5|@Viet-AI|2600
 #6|@InvinxibleFlxsh|2593
-#7|@RaspFish|2583
+#7|@RaspFish|2588
 #8|@lord-bot|2581
 #9|@ToromBot|2576
 #10|@Fairy_Belzedar|2559
@@ -38,10 +38,10 @@ Rank|Bot|Rating
 #36|@The-Fastest-Bot|2402
 #37|@lightspeed_bot|2396
 #38|@thibot|2393
-#39|@colinbot|2386
-#40|@Jussicas|2373
-#41|@TheMatrix2025|2368
-#42|@OceanicAbyssalord|2367
+#39|@OceanicAbyssalord|2380
+#40|@colinbot|2379
+#41|@Jussicas|2373
+#42|@TheMatrix2025|2368
 #43|@Lili-Variants|2357
 #44|@Viet_BOT|2344
 #45|@BotsFanClub|2338
@@ -130,9 +130,9 @@ Rank|Bot|Rating
 #128|@Challenger_crazy|1652
 #129|@ROBOT_RANDEER2007|1651
 #130|@Heman36541234578|1647
-#131|@HiddeNL|1573
-#132|@TheSystem_Bot|1572
-#133|@Groot123456|1558
+#131|@Groot123456|1624
+#132|@HiddeNL|1573
+#133|@TheSystem_Bot|1572
 #134|@QuickLiquid|1555
 #135|@faith_bot|1514
 #136|@CoderDen732|1507

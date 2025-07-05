@@ -1552,6 +1552,7 @@ lalis1
 lamanodetal
 lapischesszero
 lastwill
+laurentos_bot
 laurin03
 lazybot
 lazybotjr
@@ -2021,6 +2022,7 @@ o9mniej_bot
 obi-pawnkenobot
 obsidianchessengine
 occhessadvanced
+oceanicabyssalord
 oceanicomegalord
 ochobot
 odonata-bot
@@ -2847,6 +2849,7 @@ tungjohnplayingchess
 tungmanhgiang020709
 tunguska_br
 turaatomicabot
+turan_unification
 turkbot3
 turkish_bot
 turkishbaklava
@@ -3104,6 +3107,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-oceanicabyssalord
-turan_unification
-laurentos_bot
