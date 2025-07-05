@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@LoseisnotAvailablehe|2677
 #25|@AntichessAnalyzer|2673
 #26|@SCP079|2662
-#27|@OceanicAbyssalord|2644
-#28|@colinbot|2642
+#27|@colinbot|2644
+#28|@OceanicAbyssalord|2644
 #29|@MalanChess|2638
 #30|@vrnts_colinbot|2637
 #31|@Kizbuurb|2621
@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@InvinxibleFlxsh|2533
 #53|@Dark_evil_bot|2525
 #54|@Bot_AOOP11|2521
-#55|@HyperLitikBOT|2511
-#56|@Nakshatra3|2511
+#55|@Nakshatra3|2514
+#56|@HyperLitikBOT|2511
 #57|@pistol-play|2498
 #58|@MrBOThacker|2477
 #59|@hauptschuleBOT|2475
@@ -80,8 +80,8 @@ Rank|Bot|Rating
 #78|@CatBot_14|2393
 #79|@NormalBulletBot|2393
 #80|@AldoGamer001_Bot|2376
-#81|@NilatacBot|2369
-#82|@Resolved-Bot|2369
+#81|@Resolved-Bot|2369
+#82|@NilatacBot|2366
 #83|@Trumpfor2O2O|2366
 #84|@HuxZero|2361
 #85|@Less_of_a_threat|2357
@@ -100,7 +100,7 @@ Rank|Bot|Rating
 #98|@Dean_Summer_Bot|2279
 #99|@Johnsun|2269
 #100|@OpeningsBot|2269
-#101|@anti-bot|2258
+#101|@anti-bot|2255
 #102|@SkyBlaster|2254
 #103|@mrchessmanager|2240
 #104|@TurkiyeHogwarts|2240

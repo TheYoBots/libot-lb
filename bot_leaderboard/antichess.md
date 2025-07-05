@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@colinbot|2642
-#2|@Nakshatra3|2511
-#3|@NilatacBot|2369
+#1|@colinbot|2644
+#2|@Nakshatra3|2514
+#3|@NilatacBot|2366
 #4|@OpeningsBot|2269
-#5|@anti-bot|2258
+#5|@anti-bot|2255
 #6|@CatNail|2020
 #7|@pawnrobot|1846

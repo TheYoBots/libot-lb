@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@YoBot_v2|2394
 #29|@CloudBOT|2393
 #30|@NienishiEngine|2392
-#31|@RaspFish|2374
+#31|@RaspFish|2376
 #32|@ToromBot|2367
 #33|@EagleEye2021|2365
 #34|@KingfishX|2347
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@OceanicAbyssalord|1921
 #80|@AndromedaSX1|1919
 #81|@PetersBot|1911
-#82|@colinbot|1902
+#82|@colinbot|1901
 #83|@Dean_Summer_Bot|1898
 #84|@vrnts_colinbot|1897
 #85|@azdad|1895
