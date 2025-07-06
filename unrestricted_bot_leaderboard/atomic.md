@@ -291,7 +291,7 @@ Rank|Bot|Rating
 #289|@NOTBOTFORSURE|1327
 #290|@TheSystem_Bot|1318
 #291|@PROBROMAN|1317
-#292|@pawnrobot|1314
+#292|@pawnrobot|1307
 #293|@Atomicbot1|1294
 #294|@DavidsGuterBot|1287
 #295|@XXXTryandTryXXX|1280

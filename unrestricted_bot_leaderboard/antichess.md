@@ -100,7 +100,7 @@ Rank|Bot|Rating
 #98|@Dean_Summer_Bot|2279
 #99|@Johnsun|2269
 #100|@OpeningsBot|2269
-#101|@anti-bot|2255
+#101|@anti-bot|2256
 #102|@SkyBlaster|2254
 #103|@mrchessmanager|2240
 #104|@TurkiyeHogwarts|2240
