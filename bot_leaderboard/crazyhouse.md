@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@colinbot|1901
-#2|@OpeningsBot|1672
-#3|@pawnrobot|1179
+#1|@colinbot|1889
+#2|@OpeningsBot|1686
+#3|@pawnrobot|1178

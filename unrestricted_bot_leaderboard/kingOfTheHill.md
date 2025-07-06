@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@Karpov_bot|2359
 #13|@TheMatrix2025|2346
 #14|@AndromedaSX1|2344
-#15|@RaspFish|2328
+#15|@RaspFish|2331
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
@@ -51,10 +51,10 @@ Rank|Bot|Rating
 #49|@newengine2022|2071
 #50|@vrnts_colinbot|2068
 #51|@KingfishX|2066
-#52|@ChessVBOT|2065
-#53|@OceanicAbyssalord|2063
+#52|@OceanicAbyssalord|2066
+#53|@ChessVBOT|2065
 #54|@NimsiluBot|2058
-#55|@colinbot|2048
+#55|@colinbot|2045
 #56|@Hyper-Stockfish|2044
 #57|@Kizbuurb|2035
 #58|@Galaxy_Guardian|2032
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@azdad|1936
 #80|@HyperLitikBOT|1930
 #81|@SacrificialSage|1925
-#82|@OpeningsBot|1916
+#82|@OpeningsBot|1914
 #83|@DrSmartBugs|1904
 #84|@Variantenkoning|1892
 #85|@PetersTestBot|1890
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@Breeze-Hot|1606
 #116|@Just-a-random-bot|1604
 #117|@Epiano_Bot|1567
-#118|@DavidsGuterBot|1557
+#118|@DavidsGuterBot|1558
 #119|@Ramses-Chess|1547
 #120|@Toxic_Bot|1541
 #121|@SXDEFENDER|1534
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@THEANDROIDBOT|1317
 #150|@Challengeme2anything|1307
 #151|@NoTallkOnlyGames|1291
-#152|@pawnrobot|1280
+#152|@pawnrobot|1277
 #153|@jasans_bot|1268
 #154|@ChessChipBot|1258
 #155|@Hrant_Petrosyan_BOT|1258
