@@ -786,6 +786,7 @@ death1234567-hell
 debugbot
 dechessbot
 deepchessengine
+deepfriedfish
 deepkalle
 deepllama
 deepmindbot
@@ -3107,4 +3108,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-deepfriedfish
