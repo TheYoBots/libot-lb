@@ -3,10 +3,10 @@ Rank|Bot|Rating
 #1|@Endogenetic-Bot|2871
 #2|@ttBOT|2716
 #3|@VariantsBot|2703
-#4|@SkyBlaster|2603
-#5|@RaspFish|2600
-#6|@Viet-AI|2600
-#7|@InvinxibleFlxsh|2591
+#4|@InvinxibleFlxsh|2603
+#5|@RaspFish|2603
+#6|@SkyBlaster|2603
+#7|@Viet-AI|2600
 #8|@lord-bot|2581
 #9|@ToromBot|2576
 #10|@Fairy_Belzedar|2559
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@xiang-qi|2113
 #83|@atomicli|2111
 #84|@Trumpfor2O2O|2103
-#85|@OpeningsBot|2100
+#85|@OpeningsBot|2098
 #86|@PetersTestBot|2081
 #87|@CloudBOT|2073
 #88|@JustDontFlagMe|2048

@@ -83,8 +83,8 @@ Rank|Bot|Rating
 #81|@PetersBot|1911
 #82|@Dean_Summer_Bot|1898
 #83|@vrnts_colinbot|1897
-#84|@azdad|1895
-#85|@colinbot|1889
+#84|@colinbot|1896
+#85|@azdad|1895
 #86|@The-Fastest-Bot|1885
 #87|@XXIstCentury|1875
 #88|@ChessBot3021|1872
@@ -112,8 +112,8 @@ Rank|Bot|Rating
 #110|@SacrificialSage|1733
 #111|@Lili-Variants|1698
 #112|@Lightning_SpeedChess|1696
-#113|@OpeningsBot|1686
-#114|@B0T5_RU13|1683
+#113|@B0T5_RU13|1683
+#114|@OpeningsBot|1677
 #115|@FASTCHESSBOT|1666
 #116|@SipsonsamsonBOT|1665
 #117|@MistakeBOT|1655

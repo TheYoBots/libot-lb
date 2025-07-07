@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@OceanicAbyssalord|2066
 #54|@ChessVBOT|2065
 #55|@NimsiluBot|2058
-#56|@colinbot|2045
+#56|@colinbot|2046
 #57|@Hyper-Stockfish|2044
 #58|@Kizbuurb|2035
 #59|@Galaxy_Guardian|2032
@@ -108,9 +108,9 @@ Rank|Bot|Rating
 #106|@clrsrc_lc0|1742
 #107|@K_Shi_Bot|1737
 #108|@natural-disaster|1726
-#109|@Groot123456|1711
-#110|@TTC-BOT_2|1703
-#111|@Viet_BOT|1701
+#109|@TTC-BOT_2|1703
+#110|@Viet_BOT|1701
+#111|@Groot123456|1697
 #112|@QuickLiquid|1689
 #113|@SCP079|1660
 #114|@chessemkabot|1625
@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@Breeze-Hot|1606
 #117|@Just-a-random-bot|1604
 #118|@Epiano_Bot|1567
-#119|@DavidsGuterBot|1562
+#119|@DavidsGuterBot|1565
 #120|@Ramses-Chess|1547
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
