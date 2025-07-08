@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PepsiForAll|2699
 #10|@ttBOT|2584
 #11|@Nerubatskyi_Daniil_v|2471
-#12|@RaspFish|2460
+#12|@RaspFish|2461
 #13|@EmptikVariantsBot|2402
 #14|@EmptikBot|2378
 #15|@LoseisnotAvailablehe|2369
@@ -103,11 +103,11 @@ Rank|Bot|Rating
 #101|@compchess2|1500
 #102|@mephisto-chess|1500
 #103|@TorBot|1499
-#104|@MaggiChess16|1498
-#105|@HerokuHasnotplay|1497
-#106|@MagnusCarlsen1507|1497
-#107|@IAMSTOCKFISH123|1496
-#108|@Rishab_Bindal|1494
+#104|@HerokuHasnotplay|1497
+#105|@MagnusCarlsen1507|1497
+#106|@IAMSTOCKFISH123|1496
+#107|@Rishab_Bindal|1494
+#108|@MaggiChess16|1489
 #109|@Jussicas|1483
 #110|@Kizbuurb|1479
 #111|@faith_bot|1474

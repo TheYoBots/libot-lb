@@ -2833,6 +2833,7 @@ trollfish-bot
 trollingcrow45
 trolliumbot
 trollololfish
+troutbot
 trumpfor2o2o
 try2defeatme
 try_to_beat_me_kid
@@ -3108,4 +3109,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-troutbot
+bottybaddy11
