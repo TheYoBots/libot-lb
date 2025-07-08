@@ -461,6 +461,7 @@ bottestseb
 bottideeval
 bottios
 bottrosian
+bottybaddy11
 bottyfischer
 botvinnik808
 botvminic
@@ -3109,4 +3110,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bottybaddy11
+bot-bot-bot

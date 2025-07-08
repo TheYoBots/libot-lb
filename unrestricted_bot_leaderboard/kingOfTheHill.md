@@ -38,10 +38,10 @@ Rank|Bot|Rating
 #36|@RobotTigerSlav|2136
 #37|@pistol-play|2121
 #38|@firstrobot|2114
-#39|@NormalBulletBot|2109
-#40|@GodelEscherBot|2092
-#41|@Johnsun|2091
-#42|@InvinxibleFlxsh|2090
+#39|@InvinxibleFlxsh|2110
+#40|@NormalBulletBot|2109
+#41|@GodelEscherBot|2092
+#42|@Johnsun|2091
 #43|@Lili-Variants|2089
 #44|@Jussicas|2086
 #45|@Kizburb|2086
@@ -55,8 +55,8 @@ Rank|Bot|Rating
 #53|@ChessVBOT|2065
 #54|@NimsiluBot|2058
 #55|@MaggiChess16|2050
-#56|@colinbot|2046
-#57|@Hyper-Stockfish|2044
+#56|@Hyper-Stockfish|2044
+#57|@colinbot|2041
 #58|@Kizbuurb|2035
 #59|@Galaxy_Guardian|2032
 #60|@CloudBot_v2|2027
