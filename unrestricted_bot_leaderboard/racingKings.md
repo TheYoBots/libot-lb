@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@xiang-qi|2113
 #83|@atomicli|2111
 #84|@Trumpfor2O2O|2103
-#85|@OpeningsBot|2098
+#85|@OpeningsBot|2089
 #86|@PetersTestBot|2081
 #87|@CloudBOT|2073
 #88|@JustDontFlagMe|2048

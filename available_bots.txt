@@ -366,6 +366,7 @@ bot-2021
 bot-2564
 bot-31795
 bot-4ku
+bot-bot-bot
 bot-botbot
 bot-chocolate
 bot-feline
@@ -3110,4 +3111,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bot-bot-bot

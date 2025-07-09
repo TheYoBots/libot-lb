@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@FatihMertBOT|2837
-#2|@VariantsBot|2714
-#3|@MaggiChess16|2701
+#2|@MaggiChess16|2716
+#3|@VariantsBot|2714
 #4|@AlfaBot|2674
 #5|@EmptikVariantsBot|2671
 #6|@Fairy_Belzedar|2628
@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
 #10|@pistol-play|2590
-#11|@ToromBot|2586
-#12|@RaspFish|2584
+#11|@RaspFish|2584
+#12|@ToromBot|2583
 #13|@Bharat_royals|2575
 #14|@NimsiluBot|2562
 #15|@UltronBot|2556
