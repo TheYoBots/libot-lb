@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@MaggiChess16|2716
 #3|@ttBOT|2716
 #4|@VariantsBot|2703
-#5|@InvinxibleFlxsh|2613
+#5|@InvinxibleFlxsh|2622
 #6|@SkyBlaster|2603
 #7|@RaspFish|2600
 #8|@Viet-AI|2600
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@Jussicas|2373
 #43|@TheMatrix2025|2368
 #44|@Lili-Variants|2357
-#45|@colinbot|2347
+#45|@colinbot|2345
 #46|@Viet_BOT|2344
 #47|@BotsFanClub|2338
 #48|@EvenMatchup|2336
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@xiang-qi|2113
 #84|@atomicli|2111
 #85|@Trumpfor2O2O|2103
-#86|@OpeningsBot|2085
+#86|@OpeningsBot|2086
 #87|@PetersTestBot|2081
 #88|@CloudBOT|2073
 #89|@JustDontFlagMe|2048
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@Challenger_crazy|1652
 #131|@ROBOT_RANDEER2007|1651
 #132|@Heman36541234578|1647
-#133|@Groot123456|1624
+#133|@Groot123456|1620
 #134|@HiddeNL|1573
 #135|@TheSystem_Bot|1572
 #136|@QuickLiquid|1555

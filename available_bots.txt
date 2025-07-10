@@ -546,6 +546,7 @@ catriever
 cattonpm
 cbnguyen_bot
 cbot801
+cc35bot
 ccrl-clover
 ccsf
 cdreamer
@@ -1853,6 +1854,7 @@ mittensforever
 mittensthechessb0t
 mjchess13
 mkad-106_bot
+mmc_huangbai
 mnscp
 mocheezero
 mochi_bot
@@ -2386,6 +2388,7 @@ sanayiyeverinbeni
 sandybot
 sanjana_kambala-bot
 santana64
+santiagoelsalvador
 sarbazbot
 sardinebot
 sargon-1ply
@@ -3111,6 +3114,7 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mmc_huangbai
-cc35bot
-santiagoelsalvador
+bot_for_help
+sorenxmental
+oceanicgigalord
+bottytwins1516

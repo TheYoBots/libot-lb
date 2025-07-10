@@ -38,10 +38,10 @@ Rank|Bot|Rating
 #36|@LudwigBOT|2304
 #37|@lord-bot|2300
 #38|@KingfishX|2285
-#39|@OceanicAbyssalord|2277
-#40|@The-Fastest-Bot|2277
-#41|@CocopikachuBOT|2274
-#42|@colinbot|2274
+#39|@colinbot|2277
+#40|@OceanicAbyssalord|2277
+#41|@The-Fastest-Bot|2277
+#42|@CocopikachuBOT|2274
 #43|@TheMatrix2025|2272
 #44|@vrnts_colinbot|2266
 #45|@YoBot_v2|2257
@@ -114,7 +114,7 @@ Rank|Bot|Rating
 #112|@Botkingteam33|1633
 #113|@jasans_bot|1621
 #114|@newengine2022|1588
-#115|@DavidsGuterBot|1575
+#115|@DavidsGuterBot|1573
 #116|@knight_128|1563
 #117|@Alehkine_cat|1549
 #118|@TrashBot|1519
