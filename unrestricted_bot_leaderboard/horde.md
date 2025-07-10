@@ -128,8 +128,8 @@ Rank|Bot|Rating
 #126|@DespacitoBot|1345
 #127|@weaklean|1338
 #128|@BinaryBrain|1299
-#129|@Nicholaswb_BOT|1288
-#130|@pawnrobot|1282
+#129|@pawnrobot|1289
+#130|@Nicholaswb_BOT|1288
 #131|@AEBROADUSBOTTER|1279
 #132|@ReallyCrazyBOT|1279
 #133|@AbhijithHISBot|1258
@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@PowerOnBot|1258
 #137|@xDmanBOT|1258
 #138|@yobmef|1258
-#139|@Groot123456|1246
+#139|@Groot123456|1231
 #140|@TheSystem_Bot|1218
 #141|@GuineaBot3|1212
 #142|@admin-bot|1209
