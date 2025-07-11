@@ -87,7 +87,7 @@ Rank|Bot|Rating
 #85|@azdad|1895
 #86|@The-Fastest-Bot|1885
 #87|@XXIstCentury|1875
-#88|@colinbot|1873
+#88|@colinbot|1874
 #89|@ChessBot3021|1872
 #90|@Galaxy_Guardian|1871
 #91|@CocopikachuBOT|1868
@@ -114,7 +114,7 @@ Rank|Bot|Rating
 #112|@Lili-Variants|1698
 #113|@Lightning_SpeedChess|1696
 #114|@B0T5_RU13|1683
-#115|@OpeningsBot|1680
+#115|@OpeningsBot|1682
 #116|@FASTCHESSBOT|1666
 #117|@SipsonsamsonBOT|1665
 #118|@MistakeBOT|1655
@@ -170,12 +170,12 @@ Rank|Bot|Rating
 #168|@Hrant_Petrosyan_BOT|1346
 #169|@NormalBulletBot|1341
 #170|@Harry_Potterz|1337
-#171|@MAGIC11BOT|1310
-#172|@admin-bot|1297
-#173|@GravityStorm|1293
-#174|@littlesamsun|1293
-#175|@Boom_Bot|1277
-#176|@knight_128|1274
+#171|@admin-bot|1297
+#172|@GravityStorm|1293
+#173|@littlesamsun|1293
+#174|@Boom_Bot|1277
+#175|@knight_128|1274
+#176|@MAGIC11BOT|1261
 #177|@Bosburp777|1258
 #178|@ChessChipBot|1258
 #179|@Egeytek|1258

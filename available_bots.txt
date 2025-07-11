@@ -1088,6 +1088,7 @@ fruity23
 funebot
 funeddy-robotik
 funnsams_bot
+funnythecat
 furrybot
 furryofthewerewolf
 furyengine
@@ -1412,6 +1413,7 @@ jessethefluffydoge
 jest-bot
 jgrizzbt-bot
 jibbby
+jkcheeserchess
 jkiddingbot
 jmjansen_aus_bot
 jnewberry0502
@@ -1724,6 +1726,7 @@ lynx_bot
 m-i-0
 m-z_bot
 m07002
+m0e7gr77
 machinamas
 macos23
 macroman952
@@ -3118,6 +3121,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-funnythecat
-jkcheeserchess
-m0e7gr77
