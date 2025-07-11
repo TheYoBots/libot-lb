@@ -395,6 +395,7 @@ bot_astral
 bot_awsome_stockfish
 bot_bot_bot_robot
 bot_elvisthecat
+bot_for_help
 bot_hara
 bot_licorne
 bot_master_1359
@@ -464,6 +465,7 @@ bottios
 bottrosian
 bottybaddy11
 bottyfischer
+bottytwins1516
 botvinnik808
 botvminic
 botworld
@@ -2028,6 +2030,7 @@ obi-pawnkenobot
 obsidianchessengine
 occhessadvanced
 oceanicabyssalord
+oceanicgigalord
 oceanicomegalord
 ochobot
 odonata-bot
@@ -2520,6 +2523,7 @@ somebot
 somepythonbot
 sooraj_kumar_p_s
 soreloserbot
+sorenxmental
 sovereign_bot
 sovereignking
 spaceisbot
@@ -3114,7 +3118,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bot_for_help
-sorenxmental
-oceanicgigalord
-bottytwins1516
+funnythecat
+jkcheeserchess
+m0e7gr77

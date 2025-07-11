@@ -5,14 +5,14 @@ Rank|Bot|Rating
 #3|@NimsiluBot|2901
 #4|@InvinxibleFlxsh|2886
 #5|@Fairy_Belzedar|2857
-#6|@MaggiChess16|2781
+#6|@MaggiChess16|2788
 #7|@Coolman2021|2757
 #8|@FireFishBOT|2726
 #9|@ToromBot|2711
 #10|@PepsiForAll|2699
 #11|@ttBOT|2584
 #12|@Nerubatskyi_Daniil_v|2471
-#13|@RaspFish|2430
+#13|@RaspFish|2425
 #14|@EmptikVariantsBot|2402
 #15|@EmptikBot|2378
 #16|@LoseisnotAvailablehe|2369
@@ -130,8 +130,8 @@ Rank|Bot|Rating
 #128|@BinaryBrain|1299
 #129|@Nicholaswb_BOT|1288
 #130|@AEBROADUSBOTTER|1279
-#131|@pawnrobot|1279
-#132|@ReallyCrazyBOT|1279
+#131|@ReallyCrazyBOT|1279
+#132|@pawnrobot|1277
 #133|@AbhijithHISBot|1258
 #134|@Humuhumunukunukuapu|1258
 #135|@Jannik08_fan|1258

@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@EmptikBot|2526
 #18|@Nebulogic|2514
 #19|@SCP079|2513
-#20|@NimsiluBot|2500
+#20|@NimsiluBot|2511
 #21|@Dark_evil_bot|2496
 #22|@mrchessmanager|2494
 #23|@TeamChelsie|2489
