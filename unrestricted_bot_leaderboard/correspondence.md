@@ -27,10 +27,10 @@ Rank|Bot|Rating
 #25|@MehFish|2376
 #26|@Mega_BOT|2371
 #27|@CorrespondenceBot|2353
-#28|@duchessAI|2344
-#29|@OpeningsBot|2343
+#28|@OpeningsBot|2349
+#29|@duchessAI|2344
 #30|@HansNiemannBot|2338
-#31|@Shocky_BOT|2321
+#31|@Shocky_BOT|2316
 #32|@bekbot|2307
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
@@ -145,8 +145,8 @@ Rank|Bot|Rating
 #143|@matmoi|1972
 #144|@BigBrainen|1970
 #145|@BritBot|1970
-#146|@RadianceEngine|1967
-#147|@Test_God_50_BOT|1965
+#146|@Test_God_50_BOT|1965
+#147|@RadianceEngine|1964
 #148|@WMatt|1958
 #149|@Primer-Bot|1956
 #150|@SohamChessBot|1956
