@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
-#19|@RaspFish|2286
+#19|@RaspFish|2288
 #20|@LudwigBOT|2281
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
@@ -62,8 +62,8 @@ Rank|Bot|Rating
 #60|@CloudBot_v2|2027
 #61|@faith_bot|2026
 #62|@VariantsTop|2014
-#63|@colinbot|2011
-#64|@CocopikachuBOT|2009
+#63|@CocopikachuBOT|2009
+#64|@colinbot|2009
 #65|@lightspeed_bot|2007
 #66|@chesshyperbot|2002
 #67|@Yemmi-Yemmi|1994

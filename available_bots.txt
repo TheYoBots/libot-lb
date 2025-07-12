@@ -811,6 +811,7 @@ depth1bot
 depth9
 despacitobot
 destructeurbot
+dev_bot_goated
 devre_satranc
 devsdabot
 dezchickenwings
@@ -1717,6 +1718,7 @@ luhut_robot
 lumac0
 lunabottest
 lunachessengine
+lunarengine
 lunaticengine
 lurch_0
 lurch_1
@@ -3121,5 +3123,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lunarengine
-dev_bot_goated
+ciberchessai

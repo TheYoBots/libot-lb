@@ -10,9 +10,9 @@ Rank|Bot|Rating
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
 #10|@pistol-play|2590
-#11|@RaspFish|2578
-#12|@Bharat_royals|2575
-#13|@ToromBot|2575
+#11|@ToromBot|2584
+#12|@RaspFish|2578
+#13|@Bharat_royals|2575
 #14|@UltronBot|2556
 #15|@Viet-AI|2556
 #16|@InvinxibleFlxsh|2552
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Dark_evil_bot|2071
 #114|@Karpov_bot|2069
 #115|@alvinl22_LBot|2068
-#116|@colinbot|2068
+#116|@colinbot|2066
 #117|@Vinnikk|2061
 #118|@XXIstCentury|2061
 #119|@azdad|2047

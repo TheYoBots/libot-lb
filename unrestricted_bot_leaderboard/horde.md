@@ -7,12 +7,12 @@ Rank|Bot|Rating
 #5|@MaggiChess16|2807
 #6|@Coolman2021|2757
 #7|@FireFishBOT|2726
-#8|@ToromBot|2710
-#9|@PepsiForAll|2699
+#8|@PepsiForAll|2699
+#9|@ToromBot|2683
 #10|@ttBOT|2584
 #11|@Nerubatskyi_Daniil_v|2471
-#12|@RaspFish|2440
-#13|@NimsiluBot|2434
+#12|@NimsiluBot|2434
+#13|@RaspFish|2420
 #14|@EmptikVariantsBot|2402
 #15|@EmptikBot|2378
 #16|@LoseisnotAvailablehe|2369

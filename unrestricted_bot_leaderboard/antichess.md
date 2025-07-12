@@ -5,12 +5,12 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@NimsiluBot|2921
-#7|@ToromBot|2921
+#6|@NimsiluBot|2931
+#7|@ToromBot|2910
 #8|@Coolman2021|2879
 #9|@TheMatrix2029|2866
 #10|@UltronBot|2859
-#11|@RaspFish|2851
+#11|@RaspFish|2855
 #12|@ChessVBOT|2829
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@AntichessAnalyzer|2673
 #27|@SCP079|2662
 #28|@OceanicAbyssalord|2659
-#29|@colinbot|2656
+#29|@colinbot|2655
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
 #32|@Kizbuurb|2621
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@InvinxibleFlxsh|2533
 #54|@Dark_evil_bot|2525
 #55|@Bot_AOOP11|2521
-#56|@Nakshatra3|2513
+#56|@Nakshatra3|2516
 #57|@HyperLitikBOT|2511
 #58|@pistol-play|2498
 #59|@MrBOThacker|2477
@@ -87,8 +87,8 @@ Rank|Bot|Rating
 #85|@Less_of_a_threat|2357
 #86|@Viet_BOT|2354
 #87|@higuyuu67776|2352
-#88|@NilatacBot|2352
-#89|@anti-bot|2345
+#88|@NilatacBot|2344
+#89|@anti-bot|2335
 #90|@Karpov_bot|2335
 #91|@TeamChelsie|2331
 #92|@AI69|2312
@@ -98,7 +98,7 @@ Rank|Bot|Rating
 #96|@NienishiEngine|2304
 #97|@BromiumAI|2302
 #98|@EvenMatchup|2302
-#99|@OpeningsBot|2291
+#99|@OpeningsBot|2298
 #100|@GodelEscherBot|2284
 #101|@Dean_Summer_Bot|2279
 #102|@Johnsun|2269
@@ -127,8 +127,8 @@ Rank|Bot|Rating
 #125|@XXIstCentury|2131
 #126|@Stockfish-MEDIUM|2117
 #127|@PyChessBot|2102
-#128|@TurkiyeHogwartsBOT|2099
-#129|@CatNail|2082
+#128|@CatNail|2101
+#129|@TurkiyeHogwartsBOT|2099
 #130|@ZamuChess|2049
 #131|@Botzer|2020
 #132|@Jussicas|2019
@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@Lumac0|1861
 #145|@Endogenetic-Bot|1859
 #146|@Pineapple-Friendly|1858
-#147|@Groot123456|1826
-#148|@MyNameIsWhatLOL|1826
+#147|@MyNameIsWhatLOL|1826
+#148|@Groot123456|1824
 #149|@pawnrobot|1819
 #150|@Bot2000|1807
 #151|@Emil_V2|1789
