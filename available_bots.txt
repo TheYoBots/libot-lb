@@ -666,6 +666,7 @@ chokefish
 chompbot
 christophercolomb
 chunguszero
+ciberchessai
 cimille
 cinder-bot
 cizme
@@ -3123,4 +3124,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ciberchessai
