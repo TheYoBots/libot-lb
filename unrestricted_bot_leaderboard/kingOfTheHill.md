@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
-#18|@MalanChess|2292
-#19|@RaspFish|2292
+#18|@RaspFish|2294
+#19|@MalanChess|2292
 #20|@LudwigBOT|2281
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@VariantsTop|2014
 #62|@CocopikachuBOT|2009
 #63|@lightspeed_bot|2007
-#64|@colinbot|2006
+#64|@colinbot|2004
 #65|@chesshyperbot|2002
 #66|@Yemmi-Yemmi|1994
 #67|@Galaxy_Guardian|1993
@@ -153,7 +153,7 @@ Rank|Bot|Rating
 #151|@Challengeme2anything|1307
 #152|@NoTallkOnlyGames|1291
 #153|@jasans_bot|1268
-#154|@pawnrobot|1268
+#154|@pawnrobot|1266
 #155|@ChessChipBot|1258
 #156|@Hrant_Petrosyan_BOT|1258
 #157|@HiddeNL|1242

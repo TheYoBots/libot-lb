@@ -1704,6 +1704,7 @@ los-guerreros1
 loseisnotavailablehe
 losing_loser_bot
 losingbot
+loss-not-defined
 louischess48-6k
 lowfish
 lowkeybot
@@ -3124,4 +3125,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-loss-not-defined
