@@ -62,8 +62,8 @@ Rank|Bot|Rating
 #60|@faith_bot|2026
 #61|@VariantsTop|2014
 #62|@CocopikachuBOT|2009
-#63|@colinbot|2009
-#64|@lightspeed_bot|2007
+#63|@lightspeed_bot|2007
+#64|@colinbot|2005
 #65|@chesshyperbot|2002
 #66|@Yemmi-Yemmi|1994
 #67|@Galaxy_Guardian|1993
@@ -89,8 +89,8 @@ Rank|Bot|Rating
 #87|@EagleEye2021|1880
 #88|@xiang-qi|1868
 #89|@que-hyper|1865
-#90|@relevantproblem|1857
-#91|@OpeningsBot|1854
+#90|@OpeningsBot|1860
+#91|@relevantproblem|1857
 #92|@Botzer|1851
 #93|@B0T5_RU13|1835
 #94|@STockfishdestroyBot|1825
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@CoderDen732|1621
 #116|@Breeze-Hot|1606
 #117|@Just-a-random-bot|1604
-#118|@DavidsGuterBot|1573
+#118|@DavidsGuterBot|1572
 #119|@Epiano_Bot|1567
 #120|@Ramses-Chess|1547
 #121|@Toxic_Bot|1541

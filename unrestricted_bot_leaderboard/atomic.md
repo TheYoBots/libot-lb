@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@pistol-play|2590
 #12|@RaspFish|2576
 #13|@Bharat_royals|2575
-#14|@ToromBot|2559
+#14|@ToromBot|2560
 #15|@UltronBot|2556
 #16|@Viet-AI|2556
 #17|@InvinxibleFlxsh|2553
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@azdad|2047
 #120|@Less_of_a_threat|2047
 #121|@MagnusCarlsen1507|2037
-#122|@colinbot|2036
+#122|@colinbot|2035
 #123|@HuxZero|2035
 #124|@EasyWinGG|2032
 #125|@Kizbuurb|2024

@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@VariantsBot|2703
 #5|@InvinxibleFlxsh|2630
 #6|@SkyBlaster|2603
-#7|@RaspFish|2601
-#8|@Viet-AI|2600
+#7|@Viet-AI|2600
+#8|@RaspFish|2597
 #9|@lord-bot|2581
 #10|@ToromBot|2564
 #11|@Fairy_Belzedar|2559
@@ -34,9 +34,9 @@ Rank|Bot|Rating
 #32|@Bobby_Fischer_BOT|2430
 #33|@NienishiEngine|2428
 #34|@LoseisnotAvailablehe|2424
-#35|@SacrificialSage|2412
-#36|@KizVariant|2410
-#37|@OceanicAbyssalord|2408
+#35|@OceanicAbyssalord|2419
+#36|@SacrificialSage|2412
+#37|@KizVariant|2410
 #38|@VariantsTop|2405
 #39|@The-Fastest-Bot|2402
 #40|@lightspeed_bot|2396
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@Jussicas|2373
 #43|@TheMatrix2025|2368
 #44|@Lili-Variants|2357
-#45|@colinbot|2348
+#45|@colinbot|2347
 #46|@Viet_BOT|2344
 #47|@BotsFanClub|2338
 #48|@EvenMatchup|2336
