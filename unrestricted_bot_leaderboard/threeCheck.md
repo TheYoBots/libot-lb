@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@MaggiChess16|2588
 #12|@Jussicas|2577
 #13|@Coolman2021|2568
-#14|@ToromBot|2557
+#14|@ToromBot|2563
 #15|@Viet-BOT|2555
 #16|@InvinxibleFlxsh|2553
 #17|@ElPeonElectrico|2549
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@Fairy-Stockfish|2484
 #23|@ESC_BOT|2476
 #24|@Less_of_a_threat|2469
-#25|@RaspFish|2464
-#26|@NormalBlitzBulletBot|2463
+#25|@NormalBlitzBulletBot|2463
+#26|@RaspFish|2461
 #27|@ttBOT|2461
 #28|@TheMatrix2029|2448
 #29|@faith_bot|2447
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@VEER-OMEGA-BOT|2375
 #33|@NimsiluBot|2373
 #34|@Viet_BOT|2367
-#35|@OceanicAbyssalord|2365
+#35|@OceanicAbyssalord|2360
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@CocopikachuBOT|2274
 #42|@TheMatrix2025|2272
 #43|@vrnts_colinbot|2266
-#44|@colinbot|2259
+#44|@colinbot|2265
 #45|@YoBot_v2|2257
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@pistol-play|1939
 #77|@PROBOT123567|1936
 #78|@PetersTestBot|1935
-#79|@OpeningsBot|1918
-#80|@Lila-Stockfish|1917
+#79|@Lila-Stockfish|1917
+#80|@OpeningsBot|1914
 #81|@SkyBlaster|1913
 #82|@HyperLitikBOT|1908
 #83|@PowerOnBot|1894
@@ -107,13 +107,13 @@ Rank|Bot|Rating
 #105|@SUMEETTHEPRO|1708
 #106|@Yemmi-Yemmi|1702
 #107|@clueless-bot|1685
-#108|@NormalBulletBot|1657
-#109|@Groot123456|1646
+#108|@Groot123456|1657
+#109|@NormalBulletBot|1657
 #110|@the_checkmating_bot|1643
 #111|@CoderDen732|1639
 #112|@Botkingteam33|1633
 #113|@jasans_bot|1621
-#114|@DavidsGuterBot|1594
+#114|@DavidsGuterBot|1588
 #115|@newengine2022|1588
 #116|@knight_128|1563
 #117|@Alehkine_cat|1549

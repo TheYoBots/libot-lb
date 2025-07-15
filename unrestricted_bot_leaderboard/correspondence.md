@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@Moment-That-Inspires|2677
 #7|@pawn_git|2668
 #8|@H-Zero|2650
-#9|@LeelaZero-UK|2585
-#10|@pawnocchio_bot|2575
+#9|@pawnocchio_bot|2589
+#10|@LeelaZero-UK|2585
 #11|@Alexnajax_Fan|2549
 #12|@SacrificialSage|2519
 #13|@ChamberiAjedrez|2517
@@ -28,10 +28,10 @@ Rank|Bot|Rating
 #26|@MehFish|2376
 #27|@Mega_BOT|2371
 #28|@CorrespondenceBot|2353
-#29|@OpeningsBot|2348
+#29|@OpeningsBot|2347
 #30|@duchessAI|2344
 #31|@HansNiemannBot|2338
-#32|@Shocky_BOT|2328
+#32|@Shocky_BOT|2320
 #33|@bekbot|2307
 #34|@Magnus-BOT|2304
 #35|@Xmas_dragon|2300
