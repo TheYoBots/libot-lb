@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@EagleEye2021|1880
 #88|@xiang-qi|1868
 #89|@que-hyper|1865
-#90|@OpeningsBot|1860
+#90|@OpeningsBot|1864
 #91|@relevantproblem|1857
 #92|@Botzer|1851
 #93|@B0T5_RU13|1835
@@ -117,8 +117,8 @@ Rank|Bot|Rating
 #115|@CoderDen732|1621
 #116|@Breeze-Hot|1606
 #117|@Just-a-random-bot|1604
-#118|@DavidsGuterBot|1568
-#119|@Epiano_Bot|1567
+#118|@Epiano_Bot|1567
+#119|@DavidsGuterBot|1564
 #120|@Ramses-Chess|1547
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
