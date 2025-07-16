@@ -26,11 +26,11 @@ Rank|Bot|Rating
 #24|@HulkBot|2387
 #25|@MehFish|2376
 #26|@Mega_BOT|2371
-#27|@CorrespondenceBot|2353
-#28|@OpeningsBot|2353
+#27|@OpeningsBot|2357
+#28|@CorrespondenceBot|2353
 #29|@duchessAI|2344
 #30|@HansNiemannBot|2338
-#31|@Shocky_BOT|2324
+#31|@Shocky_BOT|2319
 #32|@bekbot|2307
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@Gravy1|1294
 #357|@czesc-bot|1291
 #358|@Kapablanca_balls|1291
-#359|@Cimille|1288
+#359|@Cimille|1287
 #360|@kidobot2911|1284
 #361|@TORTADEMANZANA023|1272
 #362|@Blasting4|1258

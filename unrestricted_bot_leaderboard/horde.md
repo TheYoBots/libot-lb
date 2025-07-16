@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@NimsiluBot|2368
 #17|@lord-bot|2362
 #18|@Hyper-Stockfish|2358
-#19|@RaspFish|2343
+#19|@RaspFish|2356
 #20|@AlfaBot|2293
 #21|@Fairy-Stockfish|2289
 #22|@Kizburb|2276
@@ -26,9 +26,9 @@ Rank|Bot|Rating
 #24|@ibep|2258
 #25|@LudwigBOT|2256
 #26|@CloudBot_v2|2252
-#27|@OceanicAbyssalord|2210
-#28|@ElPeonElectrico|2203
-#29|@UltronBot|2199
+#27|@ElPeonElectrico|2203
+#28|@UltronBot|2199
+#29|@OceanicAbyssalord|2189
 #30|@Trumpfor2O2O|2162
 #31|@ResoluteBot|2155
 #32|@Karpov_bot|2145
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@AnUtterlyKarBot|1901
 #55|@azdad|1901
 #56|@newengine2022|1901
-#57|@colinbot|1893
+#57|@colinbot|1894
 #58|@mrchessmanager|1888
 #59|@TheMatrix2029|1884
 #60|@TeamChelsie|1869
@@ -129,11 +129,11 @@ Rank|Bot|Rating
 #127|@DespacitoBot|1345
 #128|@weaklean|1338
 #129|@BinaryBrain|1299
-#130|@Nicholaswb_BOT|1288
-#131|@Groot123456|1281
+#130|@Groot123456|1294
+#131|@Nicholaswb_BOT|1288
 #132|@AEBROADUSBOTTER|1279
 #133|@ReallyCrazyBOT|1279
-#134|@pawnrobot|1268
+#134|@pawnrobot|1259
 #135|@AbhijithHISBot|1258
 #136|@Humuhumunukunukuapu|1258
 #137|@Jannik08_fan|1258

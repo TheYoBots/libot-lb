@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@Peaceful4Life|2160
 #58|@SCP079|2156
 #59|@TheMatrix2025|2142
-#60|@CloudBot_v2|2131
-#61|@OceanicAbyssalord|2127
+#60|@OceanicAbyssalord|2132
+#61|@CloudBot_v2|2131
 #62|@Loss-Not-Defined|2115
 #63|@Johnsun|2113
 #64|@SixtyFourEngine|2089
@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@legendbot1|1866
 #93|@MyNameIsSpeeedy|1861
 #94|@Bot_AOOP11|1858
-#95|@colinbot|1847
+#95|@colinbot|1845
 #96|@AnUtterlyKarBot|1829
 #97|@Dong_Xiao_Yuan|1829
 #98|@SugarAndSpice|1828
@@ -189,8 +189,8 @@ Rank|Bot|Rating
 #187|@Grand_MefBartu-BOT|1200
 #188|@FluffBallCuddly|1191
 #189|@heatseeker223|1191
-#190|@pawnrobot|1184
-#191|@ChessPlayer1225|1183
+#190|@ChessPlayer1225|1183
+#191|@pawnrobot|1183
 #192|@Jannik08_fan|1163
 #193|@BSergey11-BOT|1149
 #194|@K_Shi_Bot|1149

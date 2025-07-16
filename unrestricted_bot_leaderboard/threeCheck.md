@@ -31,10 +31,10 @@ Rank|Bot|Rating
 #29|@faith_bot|2447
 #30|@chessbot2880|2439
 #31|@ChessVBOT|2430
-#32|@VEER-OMEGA-BOT|2375
+#32|@OceanicAbyssalord|2378
 #33|@NimsiluBot|2373
 #34|@Viet_BOT|2367
-#35|@OceanicAbyssalord|2360
+#35|@VEER-OMEGA-BOT|2334
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300

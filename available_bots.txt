@@ -17,6 +17,7 @@ achessboarduino
 aconcaguabot
 actual_magnus
 adathefury
+adeon-bot
 admete_bot
 admin-bot
 admonitor
@@ -472,6 +473,7 @@ botworld
 botxx
 botyuliirma
 botzer
+bozqurdlar_official
 brabemachess-bot
 brainlearn11_nnue
 brainofish
@@ -2555,6 +2557,7 @@ sscg13-engine
 ssech_bot
 sseh-c
 ssehcilx
+ssehcrevolc
 st6090
 stallion_eas
 starfaith
@@ -3125,7 +3128,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bozqurdlar_official
-ssehcrevolc
 zzzzzzzzsleep
-adeon-bot
