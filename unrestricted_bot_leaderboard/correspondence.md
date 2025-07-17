@@ -395,4 +395,4 @@ Rank|Bot|Rating
 #393|@G0thamB0t|954
 #394|@GuineaBot|866
 #395|@BogoBot|865
-#396|@grandQ_AI|759
+#396|@grandQ_AI|756
