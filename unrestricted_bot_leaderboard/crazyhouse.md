@@ -43,9 +43,9 @@ Rank|Bot|Rating
 #41|@Alehkine_cat|2283
 #42|@iplayonlyrandom|2282
 #43|@NormalBlitzBulletBot|2278
-#44|@MalanChess|2273
-#45|@BitExtender128|2272
-#46|@RaspFish|2271
+#44|@RaspFish|2276
+#45|@MalanChess|2273
+#46|@BitExtender128|2272
 #47|@Bobby_Fischer_BOT|2251
 #48|@Mega_BOT|2240
 #49|@Coolman2021|2219
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@Peaceful4Life|2160
 #58|@SCP079|2156
 #59|@TheMatrix2025|2142
-#60|@OceanicAbyssalord|2132
+#60|@OceanicAbyssalord|2134
 #61|@CloudBot_v2|2131
 #62|@Loss-Not-Defined|2115
 #63|@Johnsun|2113
@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@legendbot1|1866
 #93|@MyNameIsSpeeedy|1861
 #94|@Bot_AOOP11|1858
-#95|@colinbot|1844
+#95|@colinbot|1842
 #96|@AnUtterlyKarBot|1829
 #97|@Dong_Xiao_Yuan|1829
 #98|@SugarAndSpice|1828
@@ -190,7 +190,7 @@ Rank|Bot|Rating
 #188|@FluffBallCuddly|1191
 #189|@heatseeker223|1191
 #190|@ChessPlayer1225|1183
-#191|@pawnrobot|1179
+#191|@pawnrobot|1177
 #192|@Jannik08_fan|1163
 #193|@BSergey11-BOT|1149
 #194|@K_Shi_Bot|1149

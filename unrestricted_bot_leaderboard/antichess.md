@@ -5,12 +5,12 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@NimsiluBot|2940
-#7|@ToromBot|2918
+#6|@NimsiluBot|2945
+#7|@ToromBot|2919
 #8|@Coolman2021|2879
 #9|@TheMatrix2029|2866
 #10|@UltronBot|2859
-#11|@RaspFish|2856
+#11|@RaspFish|2852
 #12|@ChessVBOT|2829
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@TheMatrix2025|2746
 #21|@ttBOT|2739
 #22|@ibep|2733
-#23|@OceanicAbyssalord|2726
+#23|@OceanicAbyssalord|2732
 #24|@Lili-Variants|2693
 #25|@buffFishNet|2692
 #26|@LoseisnotAvailablehe|2677
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Loss-Not-Defined|2645
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
-#32|@colinbot|2635
+#32|@colinbot|2632
 #33|@Kizbuurb|2621
 #34|@KingfishX|2612
 #35|@bananaaaaaaaaa_test|2608
@@ -88,7 +88,7 @@ Rank|Bot|Rating
 #86|@Less_of_a_threat|2357
 #87|@Viet_BOT|2354
 #88|@higuyuu67776|2352
-#89|@NilatacBot|2342
+#89|@NilatacBot|2343
 #90|@Karpov_bot|2335
 #91|@TeamChelsie|2331
 #92|@AI69|2312
@@ -98,10 +98,10 @@ Rank|Bot|Rating
 #96|@NienishiEngine|2304
 #97|@BromiumAI|2302
 #98|@EvenMatchup|2302
-#99|@OpeningsBot|2287
-#100|@GodelEscherBot|2284
+#99|@GodelEscherBot|2284
+#100|@OpeningsBot|2280
 #101|@Dean_Summer_Bot|2279
-#102|@anti-bot|2274
+#102|@anti-bot|2273
 #103|@Johnsun|2269
 #104|@SkyBlaster|2254
 #105|@mrchessmanager|2240
@@ -148,8 +148,8 @@ Rank|Bot|Rating
 #146|@Lumac0|1861
 #147|@Endogenetic-Bot|1859
 #148|@Pineapple-Friendly|1858
-#149|@Groot123456|1836
-#150|@pawnrobot|1831
+#149|@pawnrobot|1831
+#150|@Groot123456|1826
 #151|@MyNameIsWhatLOL|1826
 #152|@Bot2000|1807
 #153|@Emil_V2|1789
