@@ -33,10 +33,10 @@ Rank|Bot|Rating
 #31|@NienishiEngine|2392
 #32|@ToromBot|2381
 #33|@EagleEye2021|2365
-#34|@KingfishX|2347
-#35|@chesshyperbot|2344
-#36|@EmptikBot|2332
-#37|@NimsiluBot|2330
+#34|@NimsiluBot|2352
+#35|@KingfishX|2347
+#36|@chesshyperbot|2344
+#37|@EmptikBot|2332
 #38|@lord-bot|2329
 #39|@catalanbotI|2307
 #40|@Yemmi-Yemmi|2305
@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@Peaceful4Life|2160
 #58|@SCP079|2156
 #59|@TheMatrix2025|2142
-#60|@OceanicAbyssalord|2134
-#61|@CloudBot_v2|2131
+#60|@CloudBot_v2|2131
+#61|@OceanicAbyssalord|2127
 #62|@Loss-Not-Defined|2115
 #63|@Johnsun|2113
 #64|@SixtyFourEngine|2089

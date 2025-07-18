@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@MaggiChess16|2806
 #4|@AjedrezChamberi|2739
 #5|@PetersBot|2696
-#6|@Moment-That-Inspires|2677
+#6|@Moment-That-Inspires|2686
 #7|@pawn_git|2668
 #8|@H-Zero|2650
 #9|@pawnocchio_bot|2595
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@HulkBot|2387
 #25|@MehFish|2376
 #26|@Mega_BOT|2371
-#27|@OpeningsBot|2369
+#27|@OpeningsBot|2368
 #28|@CorrespondenceBot|2353
 #29|@duchessAI|2344
 #30|@HansNiemannBot|2338
@@ -138,8 +138,8 @@ Rank|Bot|Rating
 #136|@TESTBOT23|2000
 #137|@GarboBot|1999
 #138|@Zer0_Tw0|1992
-#139|@RadianceEngine|1989
-#140|@Humanoid_1800|1985
+#139|@Humanoid_1800|1985
+#140|@RadianceEngine|1985
 #141|@YoBot_v2|1984
 #142|@Virutor|1980
 #143|@Bobby_Fishcer_Bot|1976
