@@ -3129,3 +3129,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+future_training96
+stockfish_zero_18

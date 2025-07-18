@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@Kizbuurb|2035
 #59|@CloudBot_v2|2027
 #60|@faith_bot|2026
-#61|@colinbot|2014
+#61|@colinbot|2015
 #62|@VariantsTop|2014
 #63|@CocopikachuBOT|2009
 #64|@lightspeed_bot|2007
@@ -117,9 +117,9 @@ Rank|Bot|Rating
 #115|@CoderDen732|1621
 #116|@Breeze-Hot|1606
 #117|@Just-a-random-bot|1604
-#118|@Epiano_Bot|1567
-#119|@MMC_HUANGBAI|1566
-#120|@DavidsGuterBot|1558
+#118|@MMC_HUANGBAI|1569
+#119|@Epiano_Bot|1567
+#120|@DavidsGuterBot|1549
 #121|@Ramses-Chess|1547
 #122|@Toxic_Bot|1541
 #123|@SXDEFENDER|1534

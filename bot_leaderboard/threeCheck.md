@@ -2,7 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2553
 #2|@RaspFish|2442
-#3|@colinbot|2287
-#4|@Groot123456|1690
-#5|@DavidsGuterBot|1574
-#6|@pawnrobot|1290
+#3|@colinbot|2280
+#4|@OpeningsBot|1900
+#5|@Groot123456|1690
+#6|@DavidsGuterBot|1575
+#7|@pawnrobot|1285

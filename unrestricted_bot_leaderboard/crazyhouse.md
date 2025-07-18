@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@legendbot1|1866
 #93|@MyNameIsSpeeedy|1861
 #94|@Bot_AOOP11|1858
-#95|@colinbot|1842
+#95|@colinbot|1840
 #96|@AnUtterlyKarBot|1829
 #97|@Dong_Xiao_Yuan|1829
 #98|@SugarAndSpice|1828
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@B0T5_RU13|1683
 #116|@FASTCHESSBOT|1666
 #117|@SipsonsamsonBOT|1665
-#118|@OpeningsBot|1662
+#118|@OpeningsBot|1657
 #119|@MistakeBOT|1655
 #120|@Isaacwb_BOT|1640
 #121|@SriLankaChess|1623
