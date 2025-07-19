@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@InvinxibleFlxsh|2623
 #7|@SkyBlaster|2603
 #8|@Viet-AI|2600
-#9|@NimsiluBot|2586
-#10|@lord-bot|2581
-#11|@RaspFish|2580
+#9|@NimsiluBot|2588
+#10|@RaspFish|2584
+#11|@lord-bot|2581
 #12|@Fairy_Belzedar|2559
 #13|@EmptikVariantsBot|2557
 #14|@ToromBot|2550
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@ibep|2333
 #51|@CloudBot_v2|2331
 #52|@ElPeonElectrico|2326
-#53|@colinbot|2325
+#53|@colinbot|2323
 #54|@Bot_AOOP11|2314
 #55|@KingfishX|2312
 #56|@Viet-BOT|2312
@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@knight_128|2144
 #82|@Kizburb|2126
 #83|@mc-king-098|2124
-#84|@OpeningsBot|2121
+#84|@OpeningsBot|2119
 #85|@xiang-qi|2113
 #86|@atomicli|2111
 #87|@Trumpfor2O2O|2103
@@ -133,11 +133,11 @@ Rank|Bot|Rating
 #131|@Challenger_crazy|1652
 #132|@ROBOT_RANDEER2007|1651
 #133|@Heman36541234578|1647
-#134|@Groot123456|1619
-#135|@HiddeNL|1573
-#136|@TheSystem_Bot|1572
+#134|@HiddeNL|1573
+#135|@TheSystem_Bot|1572
+#136|@MMC_HUANGBAI|1556
 #137|@QuickLiquid|1555
-#138|@MMC_HUANGBAI|1552
+#138|@Groot123456|1552
 #139|@faith_bot|1514
 #140|@CoderDen732|1507
 #141|@TorBot|1498

@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@AjedrezChamberi|2758
 #5|@PetersBot|2696
 #6|@Moment-That-Inspires|2686
-#7|@pawn_git|2668
+#7|@pawn_git|2653
 #8|@H-Zero|2650
 #9|@pawnocchio_bot|2595
 #10|@LeelaZero-UK|2585
@@ -25,12 +25,12 @@ Rank|Bot|Rating
 #23|@F0rgot|2434
 #24|@HulkBot|2387
 #25|@MehFish|2376
-#26|@Mega_BOT|2371
-#27|@OpeningsBot|2368
+#26|@OpeningsBot|2374
+#27|@Mega_BOT|2371
 #28|@CorrespondenceBot|2353
 #29|@duchessAI|2344
 #30|@HansNiemannBot|2338
-#31|@Shocky_BOT|2311
+#31|@Shocky_BOT|2308
 #32|@bekbot|2307
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
@@ -358,8 +358,8 @@ Rank|Bot|Rating
 #356|@Gravy1|1294
 #357|@czesc-bot|1291
 #358|@Kapablanca_balls|1291
-#359|@Cimille|1287
-#360|@kidobot2911|1284
+#359|@kidobot2911|1284
+#360|@Cimille|1283
 #361|@TORTADEMANZANA023|1272
 #362|@Blasting4|1258
 #363|@CheakyKoala|1258
