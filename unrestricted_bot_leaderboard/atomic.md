@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@pistol-play|2590
 #12|@Bharat_royals|2575
 #13|@InvinxibleFlxsh|2565
-#14|@ToromBot|2559
-#15|@UltronBot|2556
-#16|@Viet-AI|2556
+#14|@UltronBot|2556
+#15|@Viet-AI|2556
+#16|@ToromBot|2553
 #17|@RaspFish|2550
 #18|@ttBOT|2540
 #19|@BitExtender128|2526
@@ -45,12 +45,12 @@ Rank|Bot|Rating
 #43|@LudwigBOT|2339
 #44|@newengine2022|2337
 #45|@NotNateBot|2336
-#46|@VEER-OMEGA-BOT|2333
+#46|@VEER-OMEGA-BOT|2316
 #47|@The-Fastest-Bot|2314
 #48|@Alehkine_cat|2312
 #49|@Dean_Summer_Bot|2305
 #50|@PsychedelicAtomic|2296
-#51|@OceanicAbyssalord|2287
+#51|@OceanicAbyssalord|2290
 #52|@AndromedaSX1|2284
 #53|@vrnts_colinbot|2281
 #54|@TheMatrix2029|2278
@@ -125,7 +125,7 @@ Rank|Bot|Rating
 #123|@HuxZero|2035
 #124|@EasyWinGG|2032
 #125|@Kizbuurb|2024
-#126|@colinbot|2022
+#126|@colinbot|2019
 #127|@ESC_BOT|2011
 #128|@are_bots_good|2006
 #129|@Breeze-Hot|2006
@@ -192,8 +192,8 @@ Rank|Bot|Rating
 #190|@SomeBot|1711
 #191|@Grand_MefBartu-BOT|1709
 #192|@Crepusculum|1708
-#193|@MMC_HUANGBAI|1699
-#194|@KuhusBOT|1697
+#193|@KuhusBOT|1697
+#194|@MMC_HUANGBAI|1695
 #195|@CloudBOT|1689
 #196|@TheLegendaryKnight|1689
 #197|@Bot-2564|1686

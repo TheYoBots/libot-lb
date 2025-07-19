@@ -1097,6 +1097,7 @@ furrybot
 furryofthewerewolf
 furyengine
 future_chess_pro
+future_training96
 futuregmbot
 fychess2
 fychess_bot
@@ -2598,6 +2599,7 @@ stockfish_i7
 stockfish_johan
 stockfish_killer
 stockfish_level_one1
+stockfish_zero_18
 stockfishabrokdev
 stockfishchess2
 stockfishdestroybot
@@ -3129,5 +3131,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-future_training96
-stockfish_zero_18

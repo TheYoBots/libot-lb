@@ -1,4 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@colinbot|1840
-#2|@OpeningsBot|1657
+#1|@MMC_HUANGBAI|1867
+#2|@colinbot|1829
+#3|@OpeningsBot|1657
