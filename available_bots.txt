@@ -590,6 +590,7 @@ chen_bot
 chen_sbot
 cheng-4
 cheng-4-nn
+cherry-bot
 chers-engine
 cheskrish
 chess-2-bot
@@ -2134,6 +2135,7 @@ phalanx-xxv
 phamhoangbaoaa
 phanxuanhuy1972
 phess
+phoenix-the-bot
 phoenix_engine
 phoenixleyi
 physbot
@@ -3133,5 +3135,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-cherry-bot
-phoenix-the-bot
+notmg_24
+ironfang
