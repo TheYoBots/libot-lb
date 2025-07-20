@@ -659,6 +659,7 @@ chesswinner_56
 chesswizbot
 chesteragsamosam-bot
 chesz_art
+cheszter
 chicken_farmer
 child_beth
 chill4ce
@@ -713,6 +714,7 @@ compressor-bot
 computerstuff
 constructivist
 cookiecheesychess
+cool_boy_bot
 coolman2021
 coralinebot
 coronamalware
@@ -3131,5 +3133,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-cheszter
-cool_boy_bot
+cherry-bot
+phoenix-the-bot
