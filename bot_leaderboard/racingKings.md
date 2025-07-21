@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@NimsiluBot|2548
 #4|@OceanicAbyssalord|2459
 #5|@colinbot|2310
-#6|@OpeningsBot|2120
+#6|@OpeningsBot|2100

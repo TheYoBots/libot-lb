@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@Bharat_royals|2575
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
-#15|@ToromBot|2554
+#15|@ToromBot|2555
 #16|@InvinxibleFlxsh|2540
 #17|@RaspFish|2540
 #18|@ttBOT|2540

@@ -1379,6 +1379,7 @@ iplayonlyrandom
 iprimese-bot
 irinaengine
 ironbot
+ironfang
 ironman2006
 isaac_terminator
 isaacwb_bot
@@ -2027,6 +2028,7 @@ notallkonlygames
 notbotforsure
 nothinborger
 notlunarxd
+notmg_24
 notmorphy17-3
 notnatebot
 notropis
@@ -3135,5 +3137,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-notmg_24
-ironfang

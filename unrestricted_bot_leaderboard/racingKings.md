@@ -83,10 +83,10 @@ Rank|Bot|Rating
 #81|@knight_128|2144
 #82|@Kizburb|2126
 #83|@mc-king-098|2124
-#84|@OpeningsBot|2120
-#85|@xiang-qi|2113
-#86|@atomicli|2111
-#87|@Trumpfor2O2O|2103
+#84|@xiang-qi|2113
+#85|@atomicli|2111
+#86|@Trumpfor2O2O|2103
+#87|@OpeningsBot|2100
 #88|@PetersTestBot|2081
 #89|@CloudBOT|2073
 #90|@JustDontFlagMe|2048
