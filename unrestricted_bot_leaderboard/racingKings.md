@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@RaspFish|2576
 #11|@Fairy_Belzedar|2559
 #12|@EmptikVariantsBot|2557
-#13|@ToromBot|2553
+#13|@ToromBot|2554
 #14|@NimsiluBot|2548
 #15|@FireFishBOT|2547
 #16|@LudwigBOT|2536
@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@TeamChelsie|2489
 #25|@Magnus-BOT|2479
 #26|@newengine2022|2473
-#27|@vrnts_colinbot|2462
-#28|@OceanicAbyssalord|2459
+#27|@OceanicAbyssalord|2464
+#28|@vrnts_colinbot|2462
 #29|@VEER-OMEGA-BOT|2455
 #30|@CocopikachuBOT|2451
 #31|@Fairy-Stockfish|2438
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@xiang-qi|2113
 #85|@atomicli|2111
 #86|@Trumpfor2O2O|2103
-#87|@OpeningsBot|2100
+#87|@OpeningsBot|2097
 #88|@PetersTestBot|2081
 #89|@CloudBOT|2073
 #90|@JustDontFlagMe|2048
