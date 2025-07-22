@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@EagleEye2021|2365
 #32|@KingfishX|2347
 #33|@chesshyperbot|2344
-#34|@NimsiluBot|2336
+#34|@NimsiluBot|2338
 #35|@EmptikBot|2332
 #36|@lord-bot|2329
 #37|@ToromBot|2324
@@ -56,10 +56,10 @@ Rank|Bot|Rating
 #54|@UltronBot|2197
 #55|@Viet-BOT|2185
 #56|@lightspeed_bot|2177
-#57|@ChessVBOT|2168
-#58|@Peaceful4Life|2160
-#59|@SCP079|2156
-#60|@Loss-Not-Defined|2148
+#57|@Loss-Not-Defined|2173
+#58|@ChessVBOT|2168
+#59|@Peaceful4Life|2160
+#60|@SCP079|2156
 #61|@TheMatrix2025|2142
 #62|@CloudBot_v2|2131
 #63|@Johnsun|2113
@@ -87,8 +87,8 @@ Rank|Bot|Rating
 #85|@vrnts_colinbot|1897
 #86|@azdad|1895
 #87|@The-Fastest-Bot|1885
-#88|@XXIstCentury|1875
-#89|@MMC_HUANGBAI|1873
+#88|@MMC_HUANGBAI|1879
+#89|@XXIstCentury|1875
 #90|@ChessBot3021|1872
 #91|@Galaxy_Guardian|1871
 #92|@CocopikachuBOT|1868
@@ -118,8 +118,8 @@ Rank|Bot|Rating
 #116|@B0T5_RU13|1683
 #117|@FASTCHESSBOT|1666
 #118|@SipsonsamsonBOT|1665
-#119|@OpeningsBot|1657
-#120|@MistakeBOT|1655
+#119|@MistakeBOT|1655
+#120|@OpeningsBot|1653
 #121|@Isaacwb_BOT|1640
 #122|@SriLankaChess|1623
 #123|@Viet_BOT|1617
@@ -192,7 +192,7 @@ Rank|Bot|Rating
 #190|@FluffBallCuddly|1191
 #191|@heatseeker223|1191
 #192|@ChessPlayer1225|1183
-#193|@pawnrobot|1175
+#193|@pawnrobot|1174
 #194|@Jannik08_fan|1163
 #195|@BSergey11-BOT|1149
 #196|@K_Shi_Bot|1149

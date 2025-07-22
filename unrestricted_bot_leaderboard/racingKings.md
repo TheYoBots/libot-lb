@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@Endogenetic-Bot|2871
 #2|@ttBOT|2716
 #3|@VariantsBot|2703
-#4|@MaggiChess16|2701
+#4|@MaggiChess16|2675
 #5|@InvinxibleFlxsh|2623
 #6|@SkyBlaster|2603
 #7|@Viet-AI|2600
@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@Fairy_Belzedar|2559
 #11|@EmptikVariantsBot|2557
 #12|@ToromBot|2554
-#13|@NimsiluBot|2550
-#14|@Loss-Not-Defined|2549
+#13|@Loss-Not-Defined|2552
+#14|@NimsiluBot|2550
 #15|@FireFishBOT|2547
 #16|@LudwigBOT|2536
 #17|@ChessVBOT|2531
@@ -25,8 +25,8 @@ Rank|Bot|Rating
 #23|@mrchessmanager|2494
 #24|@TeamChelsie|2489
 #25|@Magnus-BOT|2479
-#26|@VEER-OMEGA-BOT|2474
-#27|@newengine2022|2473
+#26|@newengine2022|2473
+#27|@VEER-OMEGA-BOT|2473
 #28|@OceanicAbyssalord|2464
 #29|@vrnts_colinbot|2462
 #30|@CocopikachuBOT|2451
@@ -52,10 +52,10 @@ Rank|Bot|Rating
 #50|@ibep|2333
 #51|@CloudBot_v2|2331
 #52|@ElPeonElectrico|2326
-#53|@Bot_AOOP11|2314
-#54|@KingfishX|2312
-#55|@Viet-BOT|2312
-#56|@colinbot|2309
+#53|@colinbot|2316
+#54|@Bot_AOOP11|2314
+#55|@KingfishX|2312
+#56|@Viet-BOT|2312
 #57|@IAMSTOCKFISH123|2307
 #58|@NormalBulletBot|2291
 #59|@YoBot_v2|2287
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@TheSystem_Bot|1572
 #136|@QuickLiquid|1555
 #137|@Groot123456|1552
-#138|@MMC_HUANGBAI|1535
+#138|@MMC_HUANGBAI|1547
 #139|@faith_bot|1514
 #140|@CoderDen732|1507
 #141|@TorBot|1498
