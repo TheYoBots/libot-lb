@@ -1848,6 +1848,7 @@ michabay05
 middlegame_engine
 midnightbot
 midnyght
+mihansolo
 mikhailtal_ai
 mikhailtal_jp
 mimmic
@@ -3138,4 +3139,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-mihansolo
+atwell-chess-bot
+darkchessai

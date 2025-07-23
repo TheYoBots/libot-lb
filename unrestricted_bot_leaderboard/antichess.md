@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
 #6|@NimsiluBot|2957
-#7|@ToromBot|2894
+#7|@ToromBot|2897
 #8|@Coolman2021|2879
 #9|@TheMatrix2029|2866
 #10|@UltronBot|2859
@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@ChessVBOT|2829
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
-#15|@lord-bot|2789
-#16|@OceanicAbyssalord|2788
+#15|@OceanicAbyssalord|2793
+#16|@lord-bot|2789
 #17|@FireFishBOT|2785
 #18|@Loss-Not-Defined|2785
 #19|@VariantsTop|2765
@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@Viet-BOT|2598
 #38|@firstrobot|2593
 #39|@AIAlphaAI|2589
-#40|@colinbot|2587
+#40|@colinbot|2586
 #41|@WilliamGAsaad|2584
 #42|@ElPeonElectrico|2568
 #43|@YoBot_v2|2565
@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@Less_of_a_threat|2357
 #88|@Viet_BOT|2354
 #89|@higuyuu67776|2352
-#90|@NilatacBot|2340
+#90|@NilatacBot|2336
 #91|@Karpov_bot|2335
 #92|@TeamChelsie|2331
 #93|@AI69|2312
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@EagleEye2021|2235
 #108|@chesshyperbot|2234
 #109|@Hyper-Stockfish|2230
-#110|@anti-bot|2226
+#110|@anti-bot|2229
 #111|@CocopikachuBOT|2226
 #112|@TungJohn|2225
 #113|@Good-Game-123|2221

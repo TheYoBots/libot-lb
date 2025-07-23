@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@LoseisnotAvailablehe|2369
 #17|@lord-bot|2362
 #18|@Hyper-Stockfish|2358
-#19|@OceanicAbyssalord|2324
-#20|@RaspFish|2323
+#19|@RaspFish|2323
+#20|@OceanicAbyssalord|2307
 #21|@AlfaBot|2293
 #22|@Fairy-Stockfish|2289
 #23|@Kizburb|2276
@@ -57,8 +57,8 @@ Rank|Bot|Rating
 #55|@AnUtterlyKarBot|1901
 #56|@azdad|1901
 #57|@newengine2022|1901
-#58|@mrchessmanager|1888
-#59|@colinbot|1886
+#58|@colinbot|1898
+#59|@mrchessmanager|1888
 #60|@TheMatrix2029|1884
 #61|@TeamChelsie|1869
 #62|@B0T5_RU13|1852
