@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@Magnus-BOT|2479
 #26|@newengine2022|2473
 #27|@VEER-OMEGA-BOT|2473
-#28|@OceanicAbyssalord|2464
+#28|@OceanicAbyssalord|2469
 #29|@vrnts_colinbot|2462
 #30|@CocopikachuBOT|2451
 #31|@Fairy-Stockfish|2438
@@ -52,8 +52,8 @@ Rank|Bot|Rating
 #50|@ibep|2333
 #51|@CloudBot_v2|2331
 #52|@ElPeonElectrico|2326
-#53|@colinbot|2316
-#54|@Bot_AOOP11|2314
+#53|@Bot_AOOP11|2314
+#54|@colinbot|2313
 #55|@KingfishX|2312
 #56|@Viet-BOT|2312
 #57|@IAMSTOCKFISH123|2307
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@mc-king-098|2124
 #84|@xiang-qi|2113
 #85|@atomicli|2111
-#86|@OpeningsBot|2105
+#86|@OpeningsBot|2107
 #87|@Trumpfor2O2O|2103
 #88|@PetersTestBot|2081
 #89|@CloudBOT|2073

@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@zeekat|2004
 #135|@honzovy-sachy|2002
 #136|@TESTBOT23|2000
-#137|@GarboBot|1997
+#137|@GarboBot|1995
 #138|@Zer0_Tw0|1992
 #139|@RadianceEngine|1985
 #140|@YoBot_v2|1984

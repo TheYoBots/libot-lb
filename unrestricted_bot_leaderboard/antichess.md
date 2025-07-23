@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
 #15|@lord-bot|2789
-#16|@FireFishBOT|2785
-#17|@Loss-Not-Defined|2785
-#18|@OceanicAbyssalord|2781
+#16|@OceanicAbyssalord|2788
+#17|@FireFishBOT|2785
+#18|@Loss-Not-Defined|2785
 #19|@VariantsTop|2765
 #20|@Viet-AI|2765
 #21|@TheMatrix2025|2746
@@ -38,8 +38,8 @@ Rank|Bot|Rating
 #36|@ChessBot3021|2599
 #37|@Viet-BOT|2598
 #38|@firstrobot|2593
-#39|@colinbot|2590
-#40|@AIAlphaAI|2589
+#39|@AIAlphaAI|2589
+#40|@colinbot|2587
 #41|@WilliamGAsaad|2584
 #42|@ElPeonElectrico|2568
 #43|@YoBot_v2|2565
@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@Less_of_a_threat|2357
 #88|@Viet_BOT|2354
 #89|@higuyuu67776|2352
-#90|@NilatacBot|2342
+#90|@NilatacBot|2340
 #91|@Karpov_bot|2335
 #92|@TeamChelsie|2331
 #93|@AI69|2312
@@ -108,8 +108,8 @@ Rank|Bot|Rating
 #106|@TurkiyeHogwarts|2240
 #107|@EagleEye2021|2235
 #108|@chesshyperbot|2234
-#109|@anti-bot|2232
-#110|@Hyper-Stockfish|2230
+#109|@Hyper-Stockfish|2230
+#110|@anti-bot|2226
 #111|@CocopikachuBOT|2226
 #112|@TungJohn|2225
 #113|@Good-Game-123|2221
@@ -148,9 +148,9 @@ Rank|Bot|Rating
 #146|@Lumac0|1861
 #147|@Endogenetic-Bot|1859
 #148|@Pineapple-Friendly|1858
-#149|@Groot123456|1845
-#150|@pawnrobot|1831
-#151|@MyNameIsWhatLOL|1826
+#149|@Groot123456|1854
+#150|@MyNameIsWhatLOL|1826
+#151|@pawnrobot|1824
 #152|@Bot2000|1807
 #153|@Emil_V2|1789
 #154|@bot1996123|1787

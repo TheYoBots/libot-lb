@@ -3130,6 +3130,7 @@ zgroupbot
 zhangirkhanbot
 ziansnake
 zimbabwean_chessbot
+zipfile_chess-bot
 zokbot
 zomevbot
 zugzwangbot
@@ -3137,4 +3138,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-zipfile_chess-bot
+mihansolo

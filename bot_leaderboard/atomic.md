@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@Loss-Not-Defined|2670
 #2|@NimsiluBot|2660
 #3|@ToromBot|2559
-#4|@RaspFish|2529
+#4|@RaspFish|2535
 #5|@OceanicAbyssalord|2376
-#6|@colinbot|1964
+#6|@colinbot|1960
 #7|@OpeningsBot|1939
 #8|@pawnrobot|1295

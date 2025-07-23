@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@ChessVBOT|2430
 #32|@RaspFish|2424
 #33|@VEER-OMEGA-BOT|2408
-#34|@OceanicAbyssalord|2389
+#34|@OceanicAbyssalord|2384
 #35|@Viet_BOT|2367
 #36|@Loss-Not-Defined|2356
 #37|@Zer0_Tw0|2332
@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@lord-bot|2300
 #40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
-#42|@CocopikachuBOT|2274
-#43|@colinbot|2272
+#42|@colinbot|2275
+#43|@CocopikachuBOT|2274
 #44|@TheMatrix2025|2272
 #45|@vrnts_colinbot|2266
 #46|@YoBot_v2|2257
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@PowerOnBot|1894
 #85|@CloudBOT|1892
 #86|@BetaZ|1889
-#87|@OpeningsBot|1888
+#87|@OpeningsBot|1887
 #88|@MagicHacker123|1865
 #89|@Johnsun|1863
 #90|@SriLankaChess|1854
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@jasans_bot|1621
 #116|@newengine2022|1588
 #117|@knight_128|1563
-#118|@DavidsGuterBot|1557
+#118|@DavidsGuterBot|1559
 #119|@Alehkine_cat|1549
 #120|@TrashBot|1519
 #121|@relevantproblem|1514
@@ -155,8 +155,8 @@ Rank|Bot|Rating
 #153|@Harry_Potterz|1316
 #154|@allvariants|1310
 #155|@NoTallkOnlyGames|1293
-#156|@pawnrobot|1280
-#157|@Light_To_The_Rescue|1277
+#156|@Light_To_The_Rescue|1277
+#157|@pawnrobot|1277
 #158|@Sanjana_Kambala-BOT|1273
 #159|@TheLegendaryKnight|1272
 #160|@EstmileBot|1269
