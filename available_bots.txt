@@ -207,6 +207,7 @@ attackbot
 attackbot2023
 attackerbot
 attackingordefending
+atwell-chess-bot
 aureliuszero
 austerlitzengine
 autokillerzero
@@ -784,6 +785,7 @@ dark_assassin
 dark_cloud_bot
 dark_evil_bot
 darkb0t
+darkchessai
 darknode
 darkonbot
 dartfish-engine
@@ -3139,5 +3141,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-atwell-chess-bot
-darkchessai
