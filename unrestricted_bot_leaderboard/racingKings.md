@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@SkyBlaster|2603
 #7|@Viet-AI|2600
 #8|@lord-bot|2581
-#9|@RaspFish|2571
+#9|@RaspFish|2567
 #10|@Fairy_Belzedar|2559
 #11|@EmptikVariantsBot|2557
-#12|@ToromBot|2554
+#12|@ToromBot|2555
 #13|@NimsiluBot|2550
 #14|@FireFishBOT|2547
 #15|@LudwigBOT|2536
@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@mrchessmanager|2494
 #23|@TeamChelsie|2489
 #24|@Magnus-BOT|2479
-#25|@VEER-OMEGA-BOT|2475
+#25|@VEER-OMEGA-BOT|2477
 #26|@OceanicAbyssalord|2474
 #27|@newengine2022|2473
 #28|@vrnts_colinbot|2462
@@ -51,8 +51,8 @@ Rank|Bot|Rating
 #49|@ibep|2333
 #50|@CloudBot_v2|2331
 #51|@ElPeonElectrico|2326
-#52|@Bot_AOOP11|2314
-#53|@colinbot|2314
+#52|@colinbot|2317
+#53|@Bot_AOOP11|2314
 #54|@KingfishX|2312
 #55|@Viet-BOT|2312
 #56|@IAMSTOCKFISH123|2307
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@mc-king-098|2124
 #83|@xiang-qi|2113
 #84|@atomicli|2111
-#85|@OpeningsBot|2105
+#85|@OpeningsBot|2104
 #86|@Trumpfor2O2O|2103
 #87|@PetersTestBot|2081
 #88|@CloudBOT|2073

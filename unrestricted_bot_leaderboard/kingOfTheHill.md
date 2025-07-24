@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
 #23|@Bobby_Fischer_BOT|2267
-#24|@lord-bot|2258
-#25|@VEER-OMEGA-BOT|2253
+#24|@VEER-OMEGA-BOT|2264
+#25|@lord-bot|2258
 #26|@YoBot_v2|2242
 #27|@ResoluteBot|2233
 #28|@ttBOT|2230
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@Mega_BOT|2148
 #39|@AI69|2143
 #40|@RobotTigerSlav|2136
-#41|@InvinxibleFlxsh|2122
+#41|@InvinxibleFlxsh|2128
 #42|@pistol-play|2121
 #43|@firstrobot|2114
 #44|@NormalBulletBot|2109
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@TeamChelsie|1983
 #71|@Alehkine_cat|1980
 #72|@ESC_BOT|1976
-#73|@colinbot|1969
+#73|@colinbot|1971
 #74|@Lila-Stockfish|1963
 #75|@chessbot2880|1961
 #76|@PyChessBot|1957
@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@EagleEye2021|1880
 #88|@xiang-qi|1868
 #89|@que-hyper|1865
-#90|@OpeningsBot|1864
+#90|@OpeningsBot|1857
 #91|@relevantproblem|1857
 #92|@Botzer|1851
 #93|@B0T5_RU13|1835
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@TTC-BOT_2|1703
 #110|@Viet_BOT|1701
 #111|@QuickLiquid|1689
-#112|@Groot123456|1660
+#112|@Groot123456|1667
 #113|@SCP079|1660
 #114|@chessemkabot|1625
 #115|@CoderDen732|1621
@@ -126,9 +126,9 @@ Rank|Bot|Rating
 #124|@Z-Move|1495
 #125|@TFRChessClub|1494
 #126|@hyperchessbot1|1493
-#127|@DavidsGuterBot|1492
-#128|@MagnusCarlsen1507|1492
-#129|@SugarAndSpice|1489
+#127|@MagnusCarlsen1507|1492
+#128|@SugarAndSpice|1489
+#129|@DavidsGuterBot|1488
 #130|@rtx3080tibot|1487
 #131|@SUMAL_BRO|1476
 #132|@Ukraine-team-creator|1476
@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@THEANDROIDBOT|1317
 #153|@Challengeme2anything|1307
 #154|@NoTallkOnlyGames|1291
-#155|@pawnrobot|1269
+#155|@pawnrobot|1270
 #156|@jasans_bot|1268
 #157|@ChessChipBot|1258
 #158|@Hrant_Petrosyan_BOT|1258

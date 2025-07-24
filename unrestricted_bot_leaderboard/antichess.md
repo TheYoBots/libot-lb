@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@firstrobot|2593
 #38|@AIAlphaAI|2589
 #39|@WilliamGAsaad|2584
-#40|@colinbot|2578
+#40|@colinbot|2581
 #41|@ElPeonElectrico|2568
 #42|@YoBot_v2|2565
 #43|@Nebulogic|2564
@@ -88,8 +88,8 @@ Rank|Bot|Rating
 #86|@Less_of_a_threat|2357
 #87|@Viet_BOT|2354
 #88|@higuyuu67776|2352
-#89|@Karpov_bot|2335
-#90|@NilatacBot|2335
+#89|@NilatacBot|2337
+#90|@Karpov_bot|2335
 #91|@TeamChelsie|2331
 #92|@AI69|2312
 #93|@Kizburb|2307
@@ -107,8 +107,8 @@ Rank|Bot|Rating
 #105|@TurkiyeHogwarts|2240
 #106|@EagleEye2021|2235
 #107|@chesshyperbot|2234
-#108|@Hyper-Stockfish|2230
-#109|@anti-bot|2229
+#108|@anti-bot|2232
+#109|@Hyper-Stockfish|2230
 #110|@CocopikachuBOT|2226
 #111|@TungJohn|2225
 #112|@Good-Game-123|2221
