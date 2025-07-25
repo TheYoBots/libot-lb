@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@TeamChelsie|1983
 #71|@Alehkine_cat|1980
 #72|@ESC_BOT|1976
-#73|@colinbot|1971
+#73|@colinbot|1975
 #74|@Lila-Stockfish|1963
 #75|@chessbot2880|1961
 #76|@PyChessBot|1957
@@ -89,8 +89,8 @@ Rank|Bot|Rating
 #87|@EagleEye2021|1880
 #88|@xiang-qi|1868
 #89|@que-hyper|1865
-#90|@OpeningsBot|1857
-#91|@relevantproblem|1857
+#90|@relevantproblem|1857
+#91|@OpeningsBot|1852
 #92|@Botzer|1851
 #93|@B0T5_RU13|1835
 #94|@STockfishdestroyBot|1825
@@ -123,11 +123,11 @@ Rank|Bot|Rating
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
-#124|@Z-Move|1495
-#125|@TFRChessClub|1494
-#126|@hyperchessbot1|1493
-#127|@MagnusCarlsen1507|1492
-#128|@DavidsGuterBot|1490
+#124|@DavidsGuterBot|1495
+#125|@Z-Move|1495
+#126|@TFRChessClub|1494
+#127|@hyperchessbot1|1493
+#128|@MagnusCarlsen1507|1492
 #129|@SugarAndSpice|1489
 #130|@rtx3080tibot|1487
 #131|@SUMAL_BRO|1476
@@ -155,7 +155,7 @@ Rank|Bot|Rating
 #153|@Challengeme2anything|1307
 #154|@NoTallkOnlyGames|1291
 #155|@jasans_bot|1268
-#156|@pawnrobot|1264
+#156|@pawnrobot|1259
 #157|@ChessChipBot|1258
 #158|@Hrant_Petrosyan_BOT|1258
 #159|@HiddeNL|1242

@@ -818,6 +818,7 @@ demolito_l5
 demolito_l6
 depth1bot
 depth9
+derschachturke
 despacitobot
 destructeurbot
 dev_bot_goated
@@ -2008,6 +2009,7 @@ niyazicarlsen
 nmasdfbot
 nmi_bot
 nnue
+nnue_drift
 nnue_sf
 nnwithsf
 no-stockfish-bots
@@ -3143,5 +3145,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-derschachturke
-nnue_drift

@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@ibep|2333
 #50|@CloudBot_v2|2331
 #51|@ElPeonElectrico|2326
-#52|@colinbot|2319
+#52|@colinbot|2321
 #53|@Bot_AOOP11|2314
 #54|@KingfishX|2312
 #55|@Viet-BOT|2312
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@xiang-qi|2113
 #84|@atomicli|2111
 #85|@Trumpfor2O2O|2103
-#86|@OpeningsBot|2102
+#86|@OpeningsBot|2099
 #87|@PetersTestBot|2081
 #88|@CloudBOT|2073
 #89|@JustDontFlagMe|2048

@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@Magnus-BOT|1923
 #50|@MalanChess|1921
 #51|@NormalBlitzBulletBot|1915
-#52|@colinbot|1903
+#52|@colinbot|1907
 #53|@MMC_HUANGBAI|1903
 #54|@XXIstCentury|1902
 #55|@AnUtterlyKarBot|1901
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@AndromedaSX1|1740
 #77|@dream_bot|1739
 #78|@YoBot_v1|1739
-#79|@OpeningsBot|1736
+#79|@OpeningsBot|1732
 #80|@ChessChildren|1730
 #81|@Johnsun|1721
 #82|@Viet-BOT|1720

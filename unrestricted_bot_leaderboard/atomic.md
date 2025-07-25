@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@KizVariant|2597
 #10|@pistol-play|2590
 #11|@Bharat_royals|2575
-#12|@ToromBot|2563
+#12|@ToromBot|2558
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@RaspFish|2549
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@mrchessmanager|2369
 #34|@Stockfish-MEDIUM|2366
 #35|@Resolved-Bot|2363
-#36|@VEER-OMEGA-BOT|2359
+#36|@VEER-OMEGA-BOT|2362
 #37|@CloudBot_v2|2357
 #38|@faith_bot|2353
 #39|@Lila-Stockfish|2350
@@ -132,9 +132,9 @@ Rank|Bot|Rating
 #130|@BigBrainen|1984
 #131|@relevantproblem|1976
 #132|@All_Except_Chess960|1975
-#133|@Sub_Bot|1974
-#134|@VariantsTop|1974
-#135|@colinbot|1970
+#133|@colinbot|1975
+#134|@Sub_Bot|1974
+#135|@VariantsTop|1974
 #136|@VarianteBOT|1970
 #137|@Ssech_BOT|1967
 #138|@AEBROADUSBOTTER|1958

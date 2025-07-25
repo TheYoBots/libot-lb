@@ -26,11 +26,11 @@ Rank|Bot|Rating
 #24|@HulkBot|2387
 #25|@MehFish|2376
 #26|@Mega_BOT|2371
-#27|@OpeningsBot|2363
+#27|@OpeningsBot|2357
 #28|@CorrespondenceBot|2353
 #29|@duchessAI|2344
 #30|@HansNiemannBot|2338
-#31|@Shocky_BOT|2321
+#31|@Shocky_BOT|2329
 #32|@bekbot|2307
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@matmoi|1972
 #144|@BigBrainen|1970
 #145|@BritBot|1970
-#146|@Humanoid_1800|1970
+#146|@Humanoid_1800|1968
 #147|@Test_God_50_BOT|1965
 #148|@WMatt|1958
 #149|@Primer-Bot|1956
