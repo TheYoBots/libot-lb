@@ -6,5 +6,5 @@ Rank|Bot|Rating
 #4|@colinbot|1971
 #5|@OpeningsBot|1857
 #6|@MMC_HUANGBAI|1569
-#7|@DavidsGuterBot|1488
-#8|@pawnrobot|1270
+#7|@DavidsGuterBot|1490
+#8|@pawnrobot|1264

@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@ChessVBOT|2829
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
-#15|@OceanicAbyssalord|2800
+#15|@OceanicAbyssalord|2790
 #16|@lord-bot|2789
 #17|@FireFishBOT|2785
 #18|@VariantsTop|2765
@@ -37,9 +37,9 @@ Rank|Bot|Rating
 #35|@ChessBot3021|2599
 #36|@Viet-BOT|2598
 #37|@firstrobot|2593
-#38|@AIAlphaAI|2589
-#39|@WilliamGAsaad|2584
-#40|@colinbot|2581
+#38|@colinbot|2590
+#39|@AIAlphaAI|2589
+#40|@WilliamGAsaad|2584
 #41|@ElPeonElectrico|2568
 #42|@YoBot_v2|2565
 #43|@Nebulogic|2564
@@ -147,9 +147,9 @@ Rank|Bot|Rating
 #145|@Lumac0|1861
 #146|@Endogenetic-Bot|1859
 #147|@Pineapple-Friendly|1858
-#148|@Groot123456|1854
-#149|@MyNameIsWhatLOL|1826
-#150|@pawnrobot|1824
+#148|@Groot123456|1844
+#149|@pawnrobot|1832
+#150|@MyNameIsWhatLOL|1826
 #151|@Bot2000|1807
 #152|@Emil_V2|1789
 #153|@bot1996123|1787

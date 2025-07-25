@@ -3,11 +3,11 @@ Rank|Bot|Rating
 #1|@NimsiluBot|2957
 #2|@ToromBot|2897
 #3|@RaspFish|2843
-#4|@OceanicAbyssalord|2800
-#5|@colinbot|2581
+#4|@OceanicAbyssalord|2790
+#5|@colinbot|2590
 #6|@NilatacBot|2337
 #7|@OpeningsBot|2269
 #8|@anti-bot|2232
 #9|@CatNail|2083
-#10|@Groot123456|1854
-#11|@pawnrobot|1824
+#10|@Groot123456|1844
+#11|@pawnrobot|1832

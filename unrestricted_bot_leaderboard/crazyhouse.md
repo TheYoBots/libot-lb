@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@BitExtender128|2272
 #45|@MaggiChess16|2256
 #46|@Bobby_Fischer_BOT|2251
-#47|@OceanicAbyssalord|2245
+#47|@OceanicAbyssalord|2247
 #48|@Mega_BOT|2240
 #49|@RaspFish|2227
 #50|@Coolman2021|2219
@@ -97,7 +97,7 @@ Rank|Bot|Rating
 #95|@AnUtterlyKarBot|1829
 #96|@Dong_Xiao_Yuan|1829
 #97|@SugarAndSpice|1828
-#98|@colinbot|1818
+#98|@colinbot|1817
 #99|@HumanBOT_lv1929|1808
 #100|@rayking311|1808
 #101|@RobotTigerSlav|1805
@@ -192,7 +192,7 @@ Rank|Bot|Rating
 #190|@FluffBallCuddly|1191
 #191|@heatseeker223|1191
 #192|@ChessPlayer1225|1183
-#193|@pawnrobot|1173
+#193|@pawnrobot|1172
 #194|@Jannik08_fan|1163
 #195|@BSergey11-BOT|1149
 #196|@K_Shi_Bot|1149

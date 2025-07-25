@@ -396,6 +396,7 @@ bot_aoop9_2
 bot_astral
 bot_awsome_stockfish
 bot_bot_bot_robot
+bot_dechess
 bot_elvisthecat
 bot_for_help
 bot_hara
@@ -2931,6 +2932,7 @@ unrevealed-bot
 untrained4406
 uochess
 uras21
+urthebest237
 usachess_time
 uvuvwevwevwesrevenge
 valhalla-bot
@@ -3141,5 +3143,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-urthebest237
-bot_dechess
+derschachturke
+nnue_drift

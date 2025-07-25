@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@TTC-BOT_2|1703
 #110|@Viet_BOT|1701
 #111|@QuickLiquid|1689
-#112|@Groot123456|1667
+#112|@Groot123456|1674
 #113|@SCP079|1660
 #114|@chessemkabot|1625
 #115|@CoderDen732|1621
@@ -127,8 +127,8 @@ Rank|Bot|Rating
 #125|@TFRChessClub|1494
 #126|@hyperchessbot1|1493
 #127|@MagnusCarlsen1507|1492
-#128|@SugarAndSpice|1489
-#129|@DavidsGuterBot|1488
+#128|@DavidsGuterBot|1490
+#129|@SugarAndSpice|1489
 #130|@rtx3080tibot|1487
 #131|@SUMAL_BRO|1476
 #132|@Ukraine-team-creator|1476
@@ -154,8 +154,8 @@ Rank|Bot|Rating
 #152|@THEANDROIDBOT|1317
 #153|@Challengeme2anything|1307
 #154|@NoTallkOnlyGames|1291
-#155|@pawnrobot|1270
-#156|@jasans_bot|1268
+#155|@jasans_bot|1268
+#156|@pawnrobot|1264
 #157|@ChessChipBot|1258
 #158|@Hrant_Petrosyan_BOT|1258
 #159|@HiddeNL|1242
