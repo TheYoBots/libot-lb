@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Magnus-BOT|2224
 #30|@NimsiluBot|2220
 #31|@SkyBlaster|2220
-#32|@OceanicAbyssalord|2198
+#32|@OceanicAbyssalord|2202
 #33|@Stockfish-MEDIUM|2198
 #34|@PowerOnBot|2195
 #35|@UnDisstoppableBot|2193
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@TeamChelsie|1983
 #71|@Alehkine_cat|1980
 #72|@ESC_BOT|1976
-#73|@colinbot|1975
+#73|@colinbot|1972
 #74|@Lila-Stockfish|1963
 #75|@chessbot2880|1961
 #76|@PyChessBot|1957
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
-#124|@DavidsGuterBot|1495
+#124|@DavidsGuterBot|1497
 #125|@Z-Move|1495
 #126|@TFRChessClub|1494
 #127|@hyperchessbot1|1493
@@ -155,9 +155,9 @@ Rank|Bot|Rating
 #153|@Challengeme2anything|1307
 #154|@NoTallkOnlyGames|1291
 #155|@jasans_bot|1268
-#156|@pawnrobot|1259
-#157|@ChessChipBot|1258
-#158|@Hrant_Petrosyan_BOT|1258
+#156|@ChessChipBot|1258
+#157|@Hrant_Petrosyan_BOT|1258
+#158|@pawnrobot|1256
 #159|@HiddeNL|1242
 #160|@knight_128|1233
 #161|@MyNameIsSpeedy|1226

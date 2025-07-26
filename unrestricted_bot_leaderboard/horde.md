@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@lord-bot|2362
 #17|@Hyper-Stockfish|2358
 #18|@RaspFish|2322
-#19|@OceanicAbyssalord|2312
+#19|@OceanicAbyssalord|2316
 #20|@AlfaBot|2293
 #21|@Fairy-Stockfish|2289
 #22|@Kizburb|2276
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@Magnus-BOT|1923
 #50|@MalanChess|1921
 #51|@NormalBlitzBulletBot|1915
-#52|@colinbot|1907
+#52|@colinbot|1904
 #53|@MMC_HUANGBAI|1903
 #54|@XXIstCentury|1902
 #55|@AnUtterlyKarBot|1901
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@Nicholaswb_BOT|1288
 #131|@AEBROADUSBOTTER|1279
 #132|@ReallyCrazyBOT|1279
-#133|@Groot123456|1276
+#133|@Groot123456|1275
 #134|@AbhijithHISBot|1258
 #135|@Humuhumunukunukuapu|1258
 #136|@Jannik08_fan|1258

@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@mrchessmanager|2494
 #23|@TeamChelsie|2489
 #24|@Magnus-BOT|2479
-#25|@VEER-OMEGA-BOT|2477
-#26|@OceanicAbyssalord|2475
+#25|@OceanicAbyssalord|2479
+#26|@VEER-OMEGA-BOT|2477
 #27|@newengine2022|2473
 #28|@vrnts_colinbot|2462
 #29|@CocopikachuBOT|2451
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@ibep|2333
 #50|@CloudBot_v2|2331
 #51|@ElPeonElectrico|2326
-#52|@colinbot|2321
+#52|@colinbot|2320
 #53|@Bot_AOOP11|2314
 #54|@KingfishX|2312
 #55|@Viet-BOT|2312
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@xiang-qi|2113
 #84|@atomicli|2111
 #85|@Trumpfor2O2O|2103
-#86|@OpeningsBot|2099
+#86|@OpeningsBot|2090
 #87|@PetersTestBot|2081
 #88|@CloudBOT|2073
 #89|@JustDontFlagMe|2048
