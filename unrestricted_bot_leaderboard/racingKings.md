@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@HiddeNL|1573
 #134|@TheSystem_Bot|1572
 #135|@QuickLiquid|1555
-#136|@Groot123456|1552
-#137|@MMC_HUANGBAI|1547
+#136|@MMC_HUANGBAI|1553
+#137|@Groot123456|1523
 #138|@faith_bot|1514
 #139|@CoderDen732|1507
 #140|@TorBot|1498

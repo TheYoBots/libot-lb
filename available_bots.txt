@@ -777,6 +777,8 @@ czesc-bot
 d2d4go
 dabestfarmer
 dakingsofficialbot
+danerdbot
+danerdbot2
 dangerousride
 dangkhoi2805
 danielbot
@@ -3145,5 +3147,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-danerdbot
-danerdbot2
+savenikitosikbots

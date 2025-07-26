@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
-#18|@RaspFish|2302
+#18|@RaspFish|2304
 #19|@MalanChess|2292
 #20|@LudwigBOT|2281
 #21|@LoseisnotAvailablehe|2274
@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@HuxZero|2163
 #38|@Mega_BOT|2148
 #39|@AI69|2143
-#40|@RobotTigerSlav|2136
-#41|@InvinxibleFlxsh|2128
+#40|@InvinxibleFlxsh|2137
+#41|@RobotTigerSlav|2136
 #42|@pistol-play|2121
 #43|@firstrobot|2114
 #44|@NormalBulletBot|2109
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@TeamChelsie|1983
 #71|@Alehkine_cat|1980
 #72|@ESC_BOT|1976
-#73|@colinbot|1972
+#73|@colinbot|1975
 #74|@Lila-Stockfish|1963
 #75|@chessbot2880|1961
 #76|@PyChessBot|1957
@@ -90,9 +90,9 @@ Rank|Bot|Rating
 #88|@xiang-qi|1868
 #89|@que-hyper|1865
 #90|@relevantproblem|1857
-#91|@OpeningsBot|1852
-#92|@Botzer|1851
-#93|@B0T5_RU13|1835
+#91|@Botzer|1851
+#92|@B0T5_RU13|1835
+#93|@OpeningsBot|1826
 #94|@STockfishdestroyBot|1825
 #95|@AldoGamer001_Bot|1813
 #96|@admin-bot|1809
@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
-#124|@DavidsGuterBot|1497
-#125|@Z-Move|1495
+#124|@Z-Move|1495
+#125|@DavidsGuterBot|1494
 #126|@TFRChessClub|1494
 #127|@hyperchessbot1|1493
 #128|@MagnusCarlsen1507|1492
