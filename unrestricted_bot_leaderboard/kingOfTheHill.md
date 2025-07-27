@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@NormalBlitzBulletBot|1986
 #70|@TeamChelsie|1983
 #71|@Alehkine_cat|1980
-#72|@ESC_BOT|1976
-#73|@colinbot|1975
+#72|@colinbot|1979
+#73|@ESC_BOT|1976
 #74|@Lila-Stockfish|1963
 #75|@chessbot2880|1961
 #76|@PyChessBot|1957
@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@relevantproblem|1857
 #91|@Botzer|1851
 #92|@B0T5_RU13|1835
-#93|@OpeningsBot|1826
-#94|@STockfishdestroyBot|1825
+#93|@STockfishdestroyBot|1825
+#94|@OpeningsBot|1822
 #95|@AldoGamer001_Bot|1813
 #96|@admin-bot|1809
 #97|@The-Fastest-Bot|1809
@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
-#124|@Z-Move|1495
-#125|@DavidsGuterBot|1494
+#124|@DavidsGuterBot|1497
+#125|@Z-Move|1495
 #126|@TFRChessClub|1494
 #127|@hyperchessbot1|1493
 #128|@MagnusCarlsen1507|1492
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@jasans_bot|1268
 #156|@ChessChipBot|1258
 #157|@Hrant_Petrosyan_BOT|1258
-#158|@pawnrobot|1256
+#158|@pawnrobot|1254
 #159|@HiddeNL|1242
 #160|@knight_128|1233
 #161|@MyNameIsSpeedy|1226

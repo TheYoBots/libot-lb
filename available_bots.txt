@@ -2430,6 +2430,7 @@ satrancbazyt
 saturnbot
 satyakeswara_bot
 sauwkhamari
+savenikitosikbots
 saxtonengine
 sc0pe-ma3str0
 scalaqueen
@@ -3147,4 +3148,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-savenikitosikbots
+piebot

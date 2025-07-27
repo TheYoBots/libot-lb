@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@KizVariant|2597
 #10|@pistol-play|2590
 #11|@Bharat_royals|2575
-#12|@UltronBot|2556
-#13|@Viet-AI|2556
-#14|@ToromBot|2552
+#12|@ToromBot|2559
+#13|@UltronBot|2556
+#14|@Viet-AI|2556
 #15|@RaspFish|2550
 #16|@ttBOT|2540
 #17|@InvinxibleFlxsh|2527
