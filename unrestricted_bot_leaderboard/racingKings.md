@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@SkyBlaster|2603
 #7|@Viet-AI|2600
 #8|@lord-bot|2581
-#9|@RaspFish|2570
+#9|@RaspFish|2567
 #10|@Fairy_Belzedar|2559
-#11|@EmptikVariantsBot|2557
-#12|@ToromBot|2555
+#11|@ToromBot|2558
+#12|@EmptikVariantsBot|2557
 #13|@NimsiluBot|2550
 #14|@FireFishBOT|2547
 #15|@LudwigBOT|2536
@@ -22,9 +22,9 @@ Rank|Bot|Rating
 #20|@SCP079|2513
 #21|@Dark_evil_bot|2496
 #22|@mrchessmanager|2494
-#23|@TeamChelsie|2489
-#24|@Magnus-BOT|2479
-#25|@OceanicAbyssalord|2479
+#23|@OceanicAbyssalord|2490
+#24|@TeamChelsie|2489
+#25|@Magnus-BOT|2479
 #26|@VEER-OMEGA-BOT|2477
 #27|@newengine2022|2473
 #28|@vrnts_colinbot|2462
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@ibep|2333
 #50|@CloudBot_v2|2331
 #51|@ElPeonElectrico|2326
-#52|@colinbot|2319
+#52|@colinbot|2316
 #53|@Bot_AOOP11|2314
 #54|@KingfishX|2312
 #55|@Viet-BOT|2312
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@xiang-qi|2113
 #85|@atomicli|2111
 #86|@Trumpfor2O2O|2103
-#87|@OpeningsBot|2090
+#87|@OpeningsBot|2085
 #88|@PetersTestBot|2081
 #89|@CloudBOT|2073
 #90|@JustDontFlagMe|2048

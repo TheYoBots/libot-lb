@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@FireFishBOT|2726
 #8|@PepsiForAll|2699
 #9|@ttBOT|2584
-#10|@ToromBot|2581
+#10|@ToromBot|2572
 #11|@NimsiluBot|2478
 #12|@Nerubatskyi_Daniil_v|2471
 #13|@EmptikVariantsBot|2402
@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@LoseisnotAvailablehe|2369
 #16|@lord-bot|2362
 #17|@Hyper-Stockfish|2358
-#18|@RaspFish|2322
-#19|@OceanicAbyssalord|2316
+#18|@RaspFish|2330
+#19|@OceanicAbyssalord|2308
 #20|@AlfaBot|2293
 #21|@Fairy-Stockfish|2289
 #22|@Kizburb|2276
@@ -51,12 +51,12 @@ Rank|Bot|Rating
 #49|@Magnus-BOT|1923
 #50|@MalanChess|1921
 #51|@NormalBlitzBulletBot|1915
-#52|@MMC_HUANGBAI|1903
-#53|@XXIstCentury|1902
-#54|@AnUtterlyKarBot|1901
-#55|@azdad|1901
-#56|@newengine2022|1901
-#57|@colinbot|1900
+#52|@colinbot|1909
+#53|@MMC_HUANGBAI|1903
+#54|@XXIstCentury|1902
+#55|@AnUtterlyKarBot|1901
+#56|@azdad|1901
+#57|@newengine2022|1901
 #58|@mrchessmanager|1888
 #59|@TheMatrix2029|1884
 #60|@TeamChelsie|1869
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@AndromedaSX1|1740
 #77|@dream_bot|1739
 #78|@YoBot_v1|1739
-#79|@OpeningsBot|1732
+#79|@OpeningsBot|1731
 #80|@ChessChildren|1730
 #81|@Johnsun|1721
 #82|@Viet-BOT|1720

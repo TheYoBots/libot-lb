@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@AlfaBot|2590
 #2|@VariantsBot|2579
 #3|@KizVariant|2521
-#4|@ToromBot|2490
+#4|@ToromBot|2492
 #5|@Fairy-Stockfish|2486
 #6|@MaggiChess16|2465
 #7|@EmptikVariantsBot|2443
@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
-#18|@RaspFish|2304
+#18|@RaspFish|2308
 #19|@MalanChess|2292
 #20|@LudwigBOT|2281
 #21|@LoseisnotAvailablehe|2274
@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@Magnus-BOT|2224
 #30|@NimsiluBot|2220
 #31|@SkyBlaster|2220
-#32|@OceanicAbyssalord|2202
-#33|@Stockfish-MEDIUM|2198
+#32|@Stockfish-MEDIUM|2198
+#33|@OceanicAbyssalord|2197
 #34|@PowerOnBot|2195
 #35|@UnDisstoppableBot|2193
 #36|@Amrobotone|2184
@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@CloudBOT|1986
 #69|@NormalBlitzBulletBot|1986
 #70|@TeamChelsie|1983
-#71|@Alehkine_cat|1980
-#72|@colinbot|1979
+#71|@colinbot|1982
+#72|@Alehkine_cat|1980
 #73|@ESC_BOT|1976
 #74|@Lila-Stockfish|1963
 #75|@chessbot2880|1961
@@ -93,7 +93,7 @@ Rank|Bot|Rating
 #91|@Botzer|1851
 #92|@B0T5_RU13|1835
 #93|@STockfishdestroyBot|1825
-#94|@OpeningsBot|1822
+#94|@OpeningsBot|1817
 #95|@AldoGamer001_Bot|1813
 #96|@admin-bot|1809
 #97|@The-Fastest-Bot|1809
@@ -123,9 +123,9 @@ Rank|Bot|Rating
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
-#124|@DavidsGuterBot|1497
-#125|@Z-Move|1495
-#126|@TFRChessClub|1494
+#124|@Z-Move|1495
+#125|@TFRChessClub|1494
+#126|@DavidsGuterBot|1493
 #127|@hyperchessbot1|1493
 #128|@MagnusCarlsen1507|1492
 #129|@SugarAndSpice|1489
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@jasans_bot|1268
 #156|@ChessChipBot|1258
 #157|@Hrant_Petrosyan_BOT|1258
-#158|@pawnrobot|1254
+#158|@pawnrobot|1257
 #159|@HiddeNL|1242
 #160|@knight_128|1233
 #161|@MyNameIsSpeedy|1226

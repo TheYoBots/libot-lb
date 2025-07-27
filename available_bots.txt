@@ -2150,6 +2150,7 @@ phoenix_engine
 phoenixleyi
 physbot
 pideciomerusta
+piebot
 pifishzero
 pigeonengine
 piglet_engine
@@ -3148,4 +3149,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-piebot
+edixonbot
+somegobot
+space_juicer
+magic11bot_coach
+gold_engine
