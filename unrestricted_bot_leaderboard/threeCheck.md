@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@Viet-BOT|2555
 #14|@MaggiChess16|2553
 #15|@ElPeonElectrico|2549
-#16|@ToromBot|2545
-#17|@CloudBot_v2|2544
-#18|@Fairy_Belzedar|2544
+#16|@CloudBot_v2|2544
+#17|@Fairy_Belzedar|2544
+#18|@ToromBot|2536
 #19|@KizVariant|2529
 #20|@SCP079|2526
 #21|@InvinxibleFlxsh|2514
@@ -31,9 +31,9 @@ Rank|Bot|Rating
 #29|@faith_bot|2447
 #30|@chessbot2880|2439
 #31|@ChessVBOT|2430
-#32|@RaspFish|2429
+#32|@RaspFish|2420
 #33|@VEER-OMEGA-BOT|2402
-#34|@OceanicAbyssalord|2384
+#34|@OceanicAbyssalord|2393
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@The-Fastest-Bot|2277
 #41|@CocopikachuBOT|2274
 #42|@TheMatrix2025|2272
-#43|@vrnts_colinbot|2266
-#44|@colinbot|2262
+#43|@colinbot|2266
+#44|@vrnts_colinbot|2266
 #45|@YoBot_v2|2257
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@PowerOnBot|1894
 #84|@CloudBOT|1892
 #85|@BetaZ|1889
-#86|@OpeningsBot|1885
+#86|@OpeningsBot|1884
 #87|@MagicHacker123|1865
 #88|@Johnsun|1863
 #89|@SriLankaChess|1854
@@ -100,8 +100,8 @@ Rank|Bot|Rating
 #98|@Storm_Shadow2012|1817
 #99|@ElFinsBoT|1808
 #100|@pussaW|1785
-#101|@XXXTryandTryXXX|1747
-#102|@Groot123456|1746
+#101|@Groot123456|1749
+#102|@XXXTryandTryXXX|1747
 #103|@CBNguyen_Bot|1741
 #104|@No_Username2|1741
 #105|@NotNateBot|1731
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
 #116|@knight_128|1563
-#117|@DavidsGuterBot|1554
+#117|@DavidsGuterBot|1553
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
 #120|@relevantproblem|1514
@@ -157,8 +157,8 @@ Rank|Bot|Rating
 #155|@Light_To_The_Rescue|1277
 #156|@Sanjana_Kambala-BOT|1273
 #157|@TheLegendaryKnight|1272
-#158|@pawnrobot|1271
-#159|@EstmileBot|1269
+#158|@EstmileBot|1269
+#159|@pawnrobot|1269
 #160|@Parth_Dhage_2|1258
 #161|@MyNameIsWhatLOL|1256
 #162|@SneakyBot21|1256

@@ -909,6 +909,7 @@ echobot
 ed_dev_bot
 eddybarner393
 edgard_loomis
+edixonbot
 edobot
 edspbot
 eftalbot
@@ -1165,6 +1166,7 @@ god_teto
 godelescherbot
 godofchess1239
 goethebot
+gold_engine
 golden_swod
 goldenrarebot
 goldensphere
@@ -1754,6 +1756,7 @@ mafybe
 maggichess16
 magic-engine
 magic11bot
+magic11bot_coach
 magichacker123
 magicversebot
 magnum_carl
@@ -2546,12 +2549,14 @@ sohilbot
 solidor59
 solistabot
 somebot
+somegobot
 somepythonbot
 sooraj_kumar_p_s
 soreloserbot
 sorenxmental
 sovereign_bot
 sovereignking
+space_juicer
 spaceisbot
 sparrer123
 sparring_bot
@@ -3149,8 +3154,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-edixonbot
-somegobot
-space_juicer
-magic11bot_coach
-gold_engine

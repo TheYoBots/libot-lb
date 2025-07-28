@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@MaggiChess16|2698
 #4|@AlfaBot|2674
 #5|@EmptikVariantsBot|2671
-#6|@NimsiluBot|2656
+#6|@NimsiluBot|2663
 #7|@Fairy_Belzedar|2628
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@ToromBot|2547
+#14|@ToromBot|2552
 #15|@ttBOT|2540
-#16|@RaspFish|2536
+#16|@RaspFish|2531
 #17|@InvinxibleFlxsh|2527
 #18|@BitExtender128|2526
 #19|@ResoluteBot|2525
@@ -132,9 +132,9 @@ Rank|Bot|Rating
 #130|@BigBrainen|1984
 #131|@relevantproblem|1976
 #132|@All_Except_Chess960|1975
-#133|@colinbot|1975
-#134|@Sub_Bot|1974
-#135|@VariantsTop|1974
+#133|@Sub_Bot|1974
+#134|@VariantsTop|1974
+#135|@colinbot|1972
 #136|@VarianteBOT|1970
 #137|@Ssech_BOT|1967
 #138|@AEBROADUSBOTTER|1958
@@ -145,8 +145,8 @@ Rank|Bot|Rating
 #143|@Lili-Variants|1926
 #144|@hjhjhjhjhjhj|1923
 #145|@FyChess2|1921
-#146|@OpeningsBot|1915
-#147|@PetersBot|1914
+#146|@PetersBot|1914
+#147|@OpeningsBot|1913
 #148|@B4dF1sh|1903
 #149|@Isotopebot|1900
 #150|@Just-a-random-bot|1898
