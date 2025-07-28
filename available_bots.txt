@@ -3154,3 +3154,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+attackking_bot
+null_ptr_exception
+talbotbot
