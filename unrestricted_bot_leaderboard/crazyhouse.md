@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@CloudBOT|2393
 #30|@NienishiEngine|2392
 #31|@InvinxibleFlxsh|2381
-#32|@EagleEye2021|2365
-#33|@AttackKing_Bot|2354
+#32|@AttackKing_Bot|2365
+#33|@EagleEye2021|2365
 #34|@KingfishX|2347
 #35|@chesshyperbot|2344
 #36|@NimsiluBot|2338
@@ -48,10 +48,10 @@ Rank|Bot|Rating
 #46|@BitExtender128|2272
 #47|@MaggiChess16|2256
 #48|@Bobby_Fischer_BOT|2251
-#49|@Mega_BOT|2240
-#50|@OceanicAbyssalord|2238
-#51|@RaspFish|2222
-#52|@Coolman2021|2219
+#49|@OceanicAbyssalord|2245
+#50|@Mega_BOT|2240
+#51|@Coolman2021|2219
+#52|@RaspFish|2209
 #53|@xiang-qi|2203
 #54|@MyNameIsWhatLOL|2200
 #55|@Zer0_Tw0|2200
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@legendbot1|1866
 #95|@MyNameIsSpeeedy|1861
 #96|@Bot_AOOP11|1858
-#97|@colinbot|1839
+#97|@colinbot|1838
 #98|@AnUtterlyKarBot|1829
 #99|@Dong_Xiao_Yuan|1829
 #100|@SugarAndSpice|1828

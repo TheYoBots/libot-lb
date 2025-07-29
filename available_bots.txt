@@ -3157,3 +3157,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+strain-on-veins
+rubicon12
+mlchessbot

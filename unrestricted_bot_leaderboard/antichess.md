@@ -8,14 +8,14 @@ Rank|Bot|Rating
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2903
 #8|@Coolman2021|2879
-#9|@AttackKing_Bot|2878
+#9|@AttackKing_Bot|2876
 #10|@TheMatrix2029|2866
 #11|@UltronBot|2859
 #12|@ChessVBOT|2829
 #13|@TorBot|2824
-#14|@WennDieSoldatBOT|2818
-#15|@RaspFish|2814
-#16|@OceanicAbyssalord|2812
+#14|@OceanicAbyssalord|2818
+#15|@WennDieSoldatBOT|2818
+#16|@RaspFish|2806
 #17|@lord-bot|2789
 #18|@FireFishBOT|2785
 #19|@VariantsTop|2765
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@firstrobot|2593
 #39|@AIAlphaAI|2589
 #40|@WilliamGAsaad|2584
-#41|@colinbot|2583
+#41|@colinbot|2580
 #42|@ElPeonElectrico|2568
 #43|@YoBot_v2|2565
 #44|@Nebulogic|2564
@@ -91,7 +91,7 @@ Rank|Bot|Rating
 #89|@higuyuu67776|2352
 #90|@Karpov_bot|2335
 #91|@TeamChelsie|2331
-#92|@NilatacBot|2322
+#92|@NilatacBot|2330
 #93|@AI69|2312
 #94|@Kizburb|2307
 #95|@MagicverseBOT|2306
@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@Dean_Summer_Bot|2279
 #102|@OpeningsBot|2271
 #103|@Johnsun|2269
-#104|@anti-bot|2265
-#105|@SkyBlaster|2254
+#104|@SkyBlaster|2254
+#105|@anti-bot|2248
 #106|@mrchessmanager|2240
 #107|@TurkiyeHogwarts|2240
 #108|@EagleEye2021|2235
