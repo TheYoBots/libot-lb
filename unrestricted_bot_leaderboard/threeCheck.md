@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@chessbot2880|2439
 #31|@ChessVBOT|2430
 #32|@RaspFish|2417
-#33|@OceanicAbyssalord|2399
-#34|@VEER-OMEGA-BOT|2384
+#33|@VEER-OMEGA-BOT|2402
+#34|@OceanicAbyssalord|2397
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@The-Fastest-Bot|2277
 #41|@CocopikachuBOT|2274
 #42|@TheMatrix2025|2272
-#43|@colinbot|2267
-#44|@vrnts_colinbot|2266
+#43|@vrnts_colinbot|2266
+#44|@colinbot|2263
 #45|@YoBot_v2|2257
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@PowerOnBot|1894
 #84|@CloudBOT|1892
 #85|@BetaZ|1889
-#86|@OpeningsBot|1879
+#86|@OpeningsBot|1874
 #87|@MagicHacker123|1865
 #88|@Johnsun|1863
 #89|@SriLankaChess|1854
@@ -100,10 +100,10 @@ Rank|Bot|Rating
 #98|@Storm_Shadow2012|1817
 #99|@ElFinsBoT|1808
 #100|@pussaW|1785
-#101|@Groot123456|1749
-#102|@XXXTryandTryXXX|1747
-#103|@CBNguyen_Bot|1741
-#104|@No_Username2|1741
+#101|@XXXTryandTryXXX|1747
+#102|@CBNguyen_Bot|1741
+#103|@No_Username2|1741
+#104|@Groot123456|1738
 #105|@NotNateBot|1731
 #106|@Crepusculum|1724
 #107|@SUMEETTHEPRO|1708
@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@Botkingteam33|1633
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
-#116|@knight_128|1563
-#117|@DavidsGuterBot|1555
+#116|@DavidsGuterBot|1565
+#117|@knight_128|1563
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
 #120|@relevantproblem|1514
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@Sanjana_Kambala-BOT|1273
 #157|@TheLegendaryKnight|1272
 #158|@EstmileBot|1269
-#159|@pawnrobot|1266
+#159|@pawnrobot|1264
 #160|@Parth_Dhage_2|1258
 #161|@MyNameIsWhatLOL|1256
 #162|@SneakyBot21|1256

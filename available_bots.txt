@@ -207,6 +207,7 @@ attackbot
 attackbot2023
 attackerbot
 attackingordefending
+attackking_bot
 atwell-chess-bot
 aureliuszero
 austerlitzengine
@@ -2047,6 +2048,7 @@ novagcc
 nowinforyoukid
 nucleargandhibot
 nukechess-bot
+null_ptr_exception
 number_one1
 nuttchess_bot
 nya-vp
@@ -2715,6 +2717,7 @@ ta_2020_bot
 ta_alexopoulakia
 tacticoferoz
 takticproches
+talbotbot
 taleelavshumans
 tapobot
 taske-eman
@@ -3154,6 +3157,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-attackking_bot
-null_ptr_exception
-talbotbot

@@ -14,12 +14,12 @@ Rank|Bot|Rating
 #12|@Bharat_royals|2575
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
-#15|@ToromBot|2552
+#15|@ToromBot|2553
 #16|@ttBOT|2540
 #17|@InvinxibleFlxsh|2527
 #18|@BitExtender128|2526
-#19|@RaspFish|2526
-#20|@ResoluteBot|2525
+#19|@ResoluteBot|2525
+#20|@RaspFish|2519
 #21|@CatBot_14|2514
 #22|@EmptikBot|2510
 #23|@ibep|2498
@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@NormalBulletBot|2474
 #27|@LoseisnotAvailablehe|2466
 #28|@PepsiForAll|2448
-#29|@ChessVBOT|2411
-#30|@OceanicAbyssalord|2409
+#29|@OceanicAbyssalord|2417
+#30|@ChessVBOT|2411
 #31|@Fairy-Stockfish|2402
 #32|@abhisun_bot|2384
 #33|@KingfishX|2369
@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@NormalBlitzBulletBot|2347
 #43|@HyperLitikBOT|2341
 #44|@LudwigBOT|2339
-#45|@newengine2022|2337
-#46|@VEER-OMEGA-BOT|2337
+#45|@VEER-OMEGA-BOT|2338
+#46|@newengine2022|2337
 #47|@NotNateBot|2336
 #48|@The-Fastest-Bot|2314
 #49|@Alehkine_cat|2312
@@ -133,7 +133,7 @@ Rank|Bot|Rating
 #131|@BigBrainen|1984
 #132|@relevantproblem|1976
 #133|@All_Except_Chess960|1975
-#134|@colinbot|1975
+#134|@colinbot|1974
 #135|@Sub_Bot|1974
 #136|@VariantsTop|1974
 #137|@VarianteBOT|1970
