@@ -1881,6 +1881,7 @@ mittensforever
 mittensthechessb0t
 mjchess13
 mkad-106_bot
+mlchessbot
 mmc_huangbai
 mnscp
 mocheezero
@@ -2383,6 +2384,7 @@ rpean_bot
 rrsimpelbot
 rsvmentor
 rtx3080tibot
+rubicon12
 rubinstein1_1xd
 rubot_simple
 rubus
@@ -2650,6 +2652,7 @@ stoqfish
 storm_shadow2012
 stormphraxengine
 storng766555
+strain-on-veins
 strategemx
 strawberrycupcakee
 streamervschat
@@ -3157,6 +3160,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-strain-on-veins
-rubicon12
-mlchessbot

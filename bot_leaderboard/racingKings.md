@@ -4,4 +4,4 @@ Rank|Bot|Rating
 #2|@ToromBot|2549
 #3|@OceanicAbyssalord|2494
 #4|@colinbot|2329
-#5|@OpeningsBot|2052
+#5|@OpeningsBot|2082

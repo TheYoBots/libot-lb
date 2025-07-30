@@ -200,8 +200,8 @@ Rank|Bot|Rating
 #198|@BSergey11-BOT|1149
 #199|@K_Shi_Bot|1149
 #200|@TeamChelsie|1125
-#201|@DanerdBot|1119
-#202|@kazakhfirstbot|1119
+#201|@kazakhfirstbot|1119
+#202|@DanerdBot|1109
 #203|@apollo_bot|1106
 #204|@BogoBot|1099
 #205|@jasans_bot|1045

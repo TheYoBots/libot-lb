@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@OpeningsBot|2271
 #103|@Johnsun|2269
 #104|@SkyBlaster|2254
-#105|@anti-bot|2248
+#105|@anti-bot|2242
 #106|@mrchessmanager|2240
 #107|@TurkiyeHogwarts|2240
 #108|@EagleEye2021|2235
