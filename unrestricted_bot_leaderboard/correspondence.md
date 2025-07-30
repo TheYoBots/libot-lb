@@ -26,11 +26,11 @@ Rank|Bot|Rating
 #24|@HulkBot|2387
 #25|@MehFish|2376
 #26|@Mega_BOT|2371
-#27|@CorrespondenceBot|2353
-#28|@OpeningsBot|2347
+#27|@OpeningsBot|2354
+#28|@CorrespondenceBot|2353
 #29|@duchessAI|2344
 #30|@HansNiemannBot|2338
-#31|@Shocky_BOT|2332
+#31|@Shocky_BOT|2326
 #32|@bekbot|2307
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
@@ -140,9 +140,9 @@ Rank|Bot|Rating
 #138|@TESTBOT23|2000
 #139|@Zer0_Tw0|1992
 #140|@YoBot_v2|1984
-#141|@RadianceEngine|1982
-#142|@Humanoid_1800|1981
-#143|@Virutor|1980
+#141|@Humanoid_1800|1981
+#142|@Virutor|1980
+#143|@RadianceEngine|1978
 #144|@Bobby_Fishcer_Bot|1976
 #145|@matmoi|1972
 #146|@BigBrainen|1970
@@ -396,4 +396,4 @@ Rank|Bot|Rating
 #394|@G0thamB0t|954
 #395|@GuineaBot|866
 #396|@BogoBot|865
-#397|@grandQ_AI|743
+#397|@grandQ_AI|735
