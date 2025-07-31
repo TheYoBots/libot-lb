@@ -62,6 +62,7 @@ alemor64
 aleph_bot_d6
 aleph_engine
 alexagarry-bot
+alexandrya
 alexeybot
 alexnajax_fan
 alexnajax_v2
@@ -989,6 +990,7 @@ eubos
 eulerbot
 european_chess_bot
 euwe-chess-engine
+evalius2
 evenmatchup
 evernow
 evevtuber
@@ -3160,5 +3162,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-alexandrya
-evalius2

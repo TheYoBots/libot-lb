@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@Nebulogic|2514
 #20|@SCP079|2513
 #21|@Dark_evil_bot|2496
-#22|@OceanicAbyssalord|2495
+#22|@OceanicAbyssalord|2496
 #23|@mrchessmanager|2494
 #24|@TeamChelsie|2489
 #25|@Magnus-BOT|2479
@@ -87,8 +87,8 @@ Rank|Bot|Rating
 #85|@xiang-qi|2113
 #86|@atomicli|2111
 #87|@Trumpfor2O2O|2103
-#88|@OpeningsBot|2081
-#89|@PetersTestBot|2081
+#88|@PetersTestBot|2081
+#89|@OpeningsBot|2080
 #90|@CloudBOT|2073
 #91|@JustDontFlagMe|2048
 #92|@Stockfish-MEDIUM|2043

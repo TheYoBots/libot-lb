@@ -38,8 +38,8 @@ Rank|Bot|Rating
 #36|@Amrobotone|2184
 #37|@HuxZero|2163
 #38|@Mega_BOT|2148
-#39|@AI69|2143
-#40|@InvinxibleFlxsh|2142
+#39|@InvinxibleFlxsh|2145
+#40|@AI69|2143
 #41|@RobotTigerSlav|2136
 #42|@pistol-play|2121
 #43|@firstrobot|2114
@@ -98,9 +98,9 @@ Rank|Bot|Rating
 #96|@The-Fastest-Bot|1809
 #97|@TheLegitLegend|1804
 #98|@Bot_AOOP11|1802
-#99|@OpeningsBot|1802
-#100|@ROBOT_RANDEER2007|1802
-#101|@mrchessmanager|1801
+#99|@ROBOT_RANDEER2007|1802
+#100|@mrchessmanager|1801
+#101|@OpeningsBot|1801
 #102|@CloudBotZero|1798
 #103|@AnUtterlyKarBot|1796
 #104|@Nobody11892|1785
@@ -126,9 +126,9 @@ Rank|Bot|Rating
 #124|@Z-Move|1495
 #125|@TFRChessClub|1494
 #126|@hyperchessbot1|1493
-#127|@DavidsGuterBot|1492
-#128|@MagnusCarlsen1507|1492
-#129|@SugarAndSpice|1489
+#127|@MagnusCarlsen1507|1492
+#128|@SugarAndSpice|1489
+#129|@DavidsGuterBot|1488
 #130|@rtx3080tibot|1487
 #131|@SUMAL_BRO|1476
 #132|@Ukraine-team-creator|1476
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Challengeme2anything|1307
 #155|@NoTallkOnlyGames|1291
 #156|@jasans_bot|1268
-#157|@pawnrobot|1263
+#157|@pawnrobot|1266
 #158|@ChessChipBot|1258
 #159|@Hrant_Petrosyan_BOT|1258
 #160|@HiddeNL|1242

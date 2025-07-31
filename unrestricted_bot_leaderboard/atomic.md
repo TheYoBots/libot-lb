@@ -28,14 +28,14 @@ Rank|Bot|Rating
 #26|@NormalBulletBot|2474
 #27|@LoseisnotAvailablehe|2466
 #28|@PepsiForAll|2448
-#29|@OceanicAbyssalord|2424
+#29|@OceanicAbyssalord|2422
 #30|@ChessVBOT|2411
 #31|@Fairy-Stockfish|2402
 #32|@abhisun_bot|2384
 #33|@KingfishX|2369
 #34|@mrchessmanager|2369
-#35|@Stockfish-MEDIUM|2366
-#36|@VEER-OMEGA-BOT|2365
+#35|@VEER-OMEGA-BOT|2369
+#36|@Stockfish-MEDIUM|2366
 #37|@Resolved-Bot|2363
 #38|@CloudBot_v2|2357
 #39|@faith_bot|2353
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@hjhjhjhjhjhj|1923
 #146|@FyChess2|1921
 #147|@PetersBot|1914
-#148|@OpeningsBot|1909
+#148|@OpeningsBot|1911
 #149|@B4dF1sh|1903
 #150|@Isotopebot|1900
 #151|@Just-a-random-bot|1898
@@ -276,7 +276,7 @@ Rank|Bot|Rating
 #274|@bunny_2021|1413
 #275|@TTC-BOT_2|1410
 #276|@Butzke_BOT|1401
-#277|@Groot123456|1386
+#277|@Groot123456|1401
 #278|@MartianBot|1386
 #279|@Trumpfor2O2O|1386
 #280|@DrunkenMasterEngine|1385
@@ -298,8 +298,8 @@ Rank|Bot|Rating
 #296|@DavidsGuterBot|1287
 #297|@XXXTryandTryXXX|1280
 #298|@legendbot1|1277
-#299|@pawnrobot|1277
-#300|@PranavChessBot|1273
+#299|@PranavChessBot|1273
+#300|@pawnrobot|1271
 #301|@SkyBlaster|1269
 #302|@Galaxy_Guardian|1265
 #303|@Bot-31795|1258
