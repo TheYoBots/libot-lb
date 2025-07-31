@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@SkyBlaster|2603
 #7|@Viet-AI|2600
 #8|@lord-bot|2581
-#9|@RaspFish|2562
-#10|@Fairy_Belzedar|2559
+#9|@Fairy_Belzedar|2559
+#10|@RaspFish|2558
 #11|@EmptikVariantsBot|2557
 #12|@ToromBot|2552
 #13|@NimsiluBot|2550
@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@EmptikBot|2526
 #19|@Nebulogic|2514
 #20|@SCP079|2513
-#21|@Dark_evil_bot|2496
-#22|@OceanicAbyssalord|2496
+#21|@OceanicAbyssalord|2497
+#22|@Dark_evil_bot|2496
 #23|@mrchessmanager|2494
 #24|@TeamChelsie|2489
 #25|@Magnus-BOT|2479
@@ -87,8 +87,8 @@ Rank|Bot|Rating
 #85|@xiang-qi|2113
 #86|@atomicli|2111
 #87|@Trumpfor2O2O|2103
-#88|@PetersTestBot|2081
-#89|@OpeningsBot|2080
+#88|@OpeningsBot|2083
+#89|@PetersTestBot|2081
 #90|@CloudBOT|2073
 #91|@JustDontFlagMe|2048
 #92|@Stockfish-MEDIUM|2043
@@ -189,6 +189,5 @@ Rank|Bot|Rating
 #187|@GuineaBot2|1141
 #188|@BogoBot|1074
 #189|@MateCheckCapture|1011
-#190|@littlesamsun|996
-#191|@ZX-Chess|982
-#192|@MinOpponentMoves|648
+#190|@ZX-Chess|982
+#191|@MinOpponentMoves|648
