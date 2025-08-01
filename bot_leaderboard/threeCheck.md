@@ -5,6 +5,6 @@ Rank|Bot|Rating
 #3|@OceanicAbyssalord|2393
 #4|@colinbot|2250
 #5|@OpeningsBot|1897
-#6|@Groot123456|1717
-#7|@DavidsGuterBot|1574
+#6|@Groot123456|1722
+#7|@DavidsGuterBot|1570
 #8|@pawnrobot|1268

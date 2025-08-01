@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@colinbot|2579
 #7|@NilatacBot|2319
 #8|@OpeningsBot|2285
-#9|@anti-bot|2255
+#9|@anti-bot|2251
 #10|@CatNail|2088
 #11|@Groot123456|1844
 #12|@pawnrobot|1826

@@ -27,10 +27,10 @@ Rank|Bot|Rating
 #25|@YoBot_v2|2242
 #26|@ResoluteBot|2233
 #27|@ttBOT|2230
-#28|@Magnus-BOT|2224
-#29|@NimsiluBot|2220
-#30|@SkyBlaster|2220
-#31|@VEER-OMEGA-BOT|2220
+#28|@VEER-OMEGA-BOT|2225
+#29|@Magnus-BOT|2224
+#30|@NimsiluBot|2220
+#31|@SkyBlaster|2220
 #32|@OceanicAbyssalord|2214
 #33|@Stockfish-MEDIUM|2198
 #34|@PowerOnBot|2195
@@ -151,9 +151,9 @@ Rank|Bot|Rating
 #149|@VedanthS-Bot|1353
 #150|@allvariants|1348
 #151|@BinaryBrain|1341
-#152|@DanerdBot|1322
-#153|@THEANDROIDBOT|1317
-#154|@Challengeme2anything|1307
+#152|@THEANDROIDBOT|1317
+#153|@Challengeme2anything|1307
+#154|@DanerdBot|1295
 #155|@NoTallkOnlyGames|1291
 #156|@jasans_bot|1268
 #157|@pawnrobot|1266

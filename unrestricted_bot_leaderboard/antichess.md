@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@GodelEscherBot|2284
 #102|@Dean_Summer_Bot|2279
 #103|@Johnsun|2269
-#104|@anti-bot|2255
-#105|@SkyBlaster|2254
+#104|@SkyBlaster|2254
+#105|@anti-bot|2251
 #106|@mrchessmanager|2240
 #107|@TurkiyeHogwarts|2240
 #108|@EagleEye2021|2235

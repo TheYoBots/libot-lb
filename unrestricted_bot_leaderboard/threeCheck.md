@@ -26,12 +26,12 @@ Rank|Bot|Rating
 #24|@Less_of_a_threat|2469
 #25|@NormalBlitzBulletBot|2463
 #26|@ttBOT|2461
-#27|@NimsiluBot|2448
-#28|@TheMatrix2029|2448
-#29|@faith_bot|2447
+#27|@TheMatrix2029|2448
+#28|@faith_bot|2447
+#29|@NimsiluBot|2446
 #30|@chessbot2880|2439
 #31|@ChessVBOT|2430
-#32|@VEER-OMEGA-BOT|2421
+#32|@VEER-OMEGA-BOT|2422
 #33|@RaspFish|2419
 #34|@OceanicAbyssalord|2393
 #35|@Viet_BOT|2367
@@ -105,7 +105,7 @@ Rank|Bot|Rating
 #103|@No_Username2|1741
 #104|@NotNateBot|1731
 #105|@Crepusculum|1724
-#106|@Groot123456|1717
+#106|@Groot123456|1722
 #107|@SUMEETTHEPRO|1708
 #108|@Yemmi-Yemmi|1702
 #109|@clueless-bot|1685
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Botkingteam33|1633
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
-#116|@DavidsGuterBot|1574
+#116|@DavidsGuterBot|1570
 #117|@knight_128|1563
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519

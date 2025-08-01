@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@H-Zero|2650
 #9|@pawnocchio_bot|2595
 #10|@LeelaZero-UK|2585
-#11|@ChamberiAjedrez|2563
+#11|@ChamberiAjedrez|2567
 #12|@Alexnajax_Fan|2549
 #13|@SacrificialSage|2519
 #14|@peonasesino71|2512
@@ -27,10 +27,10 @@ Rank|Bot|Rating
 #25|@MehFish|2376
 #26|@Mega_BOT|2371
 #27|@CorrespondenceBot|2353
-#28|@duchessAI|2344
-#29|@HansNiemannBot|2338
-#30|@Shocky_BOT|2338
-#31|@OpeningsBot|2331
+#28|@Shocky_BOT|2349
+#29|@duchessAI|2344
+#30|@HansNiemannBot|2338
+#31|@OpeningsBot|2322
 #32|@bekbot|2307
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
@@ -134,8 +134,8 @@ Rank|Bot|Rating
 #132|@RoyalLeela|2014
 #133|@GarboBot|2013
 #134|@SchachProg|2010
-#135|@RadianceEngine|2009
-#136|@ElPeonElectrico|2004
+#135|@ElPeonElectrico|2004
+#136|@RadianceEngine|2004
 #137|@zeekat|2004
 #138|@honzovy-sachy|2002
 #139|@TESTBOT23|2000
