@@ -32,9 +32,9 @@ Rank|Bot|Rating
 #30|@ChessVBOT|2411
 #31|@Fairy-Stockfish|2402
 #32|@abhisun_bot|2384
-#33|@KingfishX|2369
-#34|@mrchessmanager|2369
-#35|@VEER-OMEGA-BOT|2369
+#33|@VEER-OMEGA-BOT|2371
+#34|@KingfishX|2369
+#35|@mrchessmanager|2369
 #36|@Stockfish-MEDIUM|2366
 #37|@Resolved-Bot|2363
 #38|@CloudBot_v2|2357
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@Dean_Summer_Bot|2305
 #51|@PsychedelicAtomic|2296
 #52|@AndromedaSX1|2284
-#53|@vrnts_colinbot|2281
+#53|@vrnts_colinbot|2282
 #54|@TheMatrix2029|2278
 #55|@BGSBot|2272
 #56|@AtomicVsEngineBot|2268
@@ -136,8 +136,8 @@ Rank|Bot|Rating
 #134|@Sub_Bot|1974
 #135|@VariantsTop|1974
 #136|@VarianteBOT|1970
-#137|@colinbot|1967
-#138|@Ssech_BOT|1967
+#137|@Ssech_BOT|1967
+#138|@colinbot|1965
 #139|@AEBROADUSBOTTER|1958
 #140|@AtomicRouletteBot|1955
 #141|@atomicli|1951

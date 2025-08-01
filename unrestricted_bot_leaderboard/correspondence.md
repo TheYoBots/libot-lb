@@ -26,11 +26,11 @@ Rank|Bot|Rating
 #24|@HulkBot|2387
 #25|@MehFish|2376
 #26|@Mega_BOT|2371
-#27|@CorrespondenceBot|2353
-#28|@Shocky_BOT|2349
+#27|@Shocky_BOT|2354
+#28|@CorrespondenceBot|2353
 #29|@duchessAI|2344
 #30|@HansNiemannBot|2338
-#31|@OpeningsBot|2322
+#31|@OpeningsBot|2316
 #32|@bekbot|2307
 #33|@Magnus-BOT|2304
 #34|@Xmas_dragon|2300
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@kybot|2025
 #131|@MalanChess|2020
 #132|@RoyalLeela|2014
-#133|@GarboBot|2013
+#133|@GarboBot|2010
 #134|@SchachProg|2010
 #135|@ElPeonElectrico|2004
 #136|@RadianceEngine|2004
@@ -142,8 +142,8 @@ Rank|Bot|Rating
 #140|@Zer0_Tw0|1992
 #141|@YoBot_v2|1984
 #142|@Virutor|1980
-#143|@Humanoid_1800|1978
-#144|@Bobby_Fishcer_Bot|1976
+#143|@Bobby_Fishcer_Bot|1976
+#144|@Humanoid_1800|1976
 #145|@matmoi|1972
 #146|@BigBrainen|1970
 #147|@BritBot|1970
@@ -346,8 +346,8 @@ Rank|Bot|Rating
 #344|@RobotTigerSlav|1337
 #345|@IOs_bot|1336
 #346|@Jannik08_fan|1332
-#347|@Cimille|1322
-#348|@TMFish|1321
+#347|@TMFish|1321
+#348|@Cimille|1317
 #349|@Awesome32|1316
 #350|@proustagm|1316
 #351|@elninodiablo|1312

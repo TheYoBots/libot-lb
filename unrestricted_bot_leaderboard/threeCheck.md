@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@CloudBot_v2|2544
 #17|@Fairy_Belzedar|2544
 #18|@ToromBot|2543
-#19|@InvinxibleFlxsh|2531
+#19|@InvinxibleFlxsh|2538
 #20|@KizVariant|2529
 #21|@SCP079|2526
 #22|@Fairy-Stockfish|2484
@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@NimsiluBot|2446
 #30|@chessbot2880|2439
 #31|@ChessVBOT|2430
-#32|@VEER-OMEGA-BOT|2422
-#33|@RaspFish|2419
+#32|@RaspFish|2419
+#33|@VEER-OMEGA-BOT|2401
 #34|@OceanicAbyssalord|2393
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
@@ -43,8 +43,8 @@ Rank|Bot|Rating
 #41|@CocopikachuBOT|2274
 #42|@TheMatrix2025|2272
 #43|@vrnts_colinbot|2266
-#44|@YoBot_v2|2257
-#45|@colinbot|2250
+#44|@colinbot|2257
+#45|@YoBot_v2|2257
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
 #48|@xiang-qi|2207

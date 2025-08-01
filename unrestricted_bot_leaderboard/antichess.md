@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@NimsiluBot|2974
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2903
-#8|@AttackKing_Bot|2884
+#8|@AttackKing_Bot|2887
 #9|@Coolman2021|2879
 #10|@TheMatrix2029|2866
 #11|@UltronBot|2859
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@firstrobot|2593
 #39|@AIAlphaAI|2589
 #40|@WilliamGAsaad|2584
-#41|@colinbot|2579
+#41|@colinbot|2582
 #42|@ElPeonElectrico|2568
 #43|@YoBot_v2|2565
 #44|@Nebulogic|2564
@@ -91,7 +91,7 @@ Rank|Bot|Rating
 #89|@higuyuu67776|2352
 #90|@Karpov_bot|2335
 #91|@TeamChelsie|2331
-#92|@NilatacBot|2319
+#92|@NilatacBot|2317
 #93|@AI69|2312
 #94|@Kizburb|2307
 #95|@MagicverseBOT|2306
@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@GodelEscherBot|2284
 #102|@Dean_Summer_Bot|2279
 #103|@Johnsun|2269
-#104|@SkyBlaster|2254
-#105|@anti-bot|2251
+#104|@anti-bot|2260
+#105|@SkyBlaster|2254
 #106|@mrchessmanager|2240
 #107|@TurkiyeHogwarts|2240
 #108|@EagleEye2021|2235
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@Stockfish-MEDIUM|2117
 #129|@PyChessBot|2102
 #130|@TurkiyeHogwartsBOT|2099
-#131|@CatNail|2088
+#131|@CatNail|2078
 #132|@ZamuChess|2049
 #133|@Botzer|2020
 #134|@Jussicas|2019
@@ -149,8 +149,8 @@ Rank|Bot|Rating
 #147|@Endogenetic-Bot|1859
 #148|@Pineapple-Friendly|1858
 #149|@Groot123456|1844
-#150|@MyNameIsWhatLOL|1826
-#151|@pawnrobot|1826
+#150|@pawnrobot|1839
+#151|@MyNameIsWhatLOL|1826
 #152|@Bot2000|1807
 #153|@Emil_V2|1789
 #154|@bot1996123|1787
