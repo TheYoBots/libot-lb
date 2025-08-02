@@ -1922,6 +1922,7 @@ mrburnto4kill
 mrcalvabot
 mrchessmanager
 mrchessthebot
+mrdeepseekgpt
 mrking74_btw
 mrmolotov
 mroh_raspi
@@ -2874,6 +2875,7 @@ transformer_chess
 trashbot
 tretas26
 trgbot
+tribblechessengine
 tribechessengine
 trickysparbot
 trikala_bot
@@ -3162,5 +3164,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tribblechessengine
-mrdeepseekgpt

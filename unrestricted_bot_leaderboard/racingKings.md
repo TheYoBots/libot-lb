@@ -18,10 +18,10 @@ Rank|Bot|Rating
 #16|@ChessVBOT|2531
 #17|@Coolman2021|2527
 #18|@EmptikBot|2526
-#19|@NimsiluBot|2522
+#19|@NimsiluBot|2521
 #20|@Nebulogic|2514
 #21|@SCP079|2513
-#22|@VEER-OMEGA-BOT|2503
+#22|@VEER-OMEGA-BOT|2504
 #23|@OceanicAbyssalord|2497
 #24|@Dark_evil_bot|2496
 #25|@mrchessmanager|2494
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@HuxZero|2176
 #80|@AnUtterlyKarBot|2174
 #81|@knight_128|2144
-#82|@OpeningsBot|2128
+#82|@OpeningsBot|2134
 #83|@Kizburb|2126
 #84|@cool_boy_bot|2124
 #85|@mc-king-098|2124

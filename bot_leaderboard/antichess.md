@@ -5,10 +5,10 @@ Rank|Bot|Rating
 #3|@AttackKing_Bot|2887
 #4|@RaspFish|2815
 #5|@OceanicAbyssalord|2814
-#6|@colinbot|2582
-#7|@NilatacBot|2317
+#6|@colinbot|2590
+#7|@NilatacBot|2313
 #8|@OpeningsBot|2285
-#9|@anti-bot|2265
-#10|@CatNail|2078
-#11|@Groot123456|1844
-#12|@pawnrobot|1839
+#9|@anti-bot|2284
+#10|@CatNail|2098
+#11|@pawnrobot|1844
+#12|@Groot123456|1833

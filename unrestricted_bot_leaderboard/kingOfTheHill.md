@@ -25,9 +25,9 @@ Rank|Bot|Rating
 #23|@Bobby_Fischer_BOT|2267
 #24|@lord-bot|2258
 #25|@YoBot_v2|2242
-#26|@ResoluteBot|2233
-#27|@ttBOT|2230
-#28|@VEER-OMEGA-BOT|2228
+#26|@VEER-OMEGA-BOT|2236
+#27|@ResoluteBot|2233
+#28|@ttBOT|2230
 #29|@Magnus-BOT|2224
 #30|@NimsiluBot|2220
 #31|@SkyBlaster|2220
@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@UnDisstoppableBot|2193
 #36|@Amrobotone|2184
 #37|@HuxZero|2163
-#38|@Mega_BOT|2148
-#39|@InvinxibleFlxsh|2144
+#38|@InvinxibleFlxsh|2150
+#39|@Mega_BOT|2148
 #40|@AI69|2143
 #41|@RobotTigerSlav|2136
 #42|@pistol-play|2121
@@ -67,9 +67,9 @@ Rank|Bot|Rating
 #65|@Yemmi-Yemmi|1994
 #66|@Galaxy_Guardian|1993
 #67|@XXIstCentury|1993
-#68|@colinbot|1988
-#69|@CloudBOT|1986
-#70|@NormalBlitzBulletBot|1986
+#68|@CloudBOT|1986
+#69|@NormalBlitzBulletBot|1986
+#70|@colinbot|1983
 #71|@TeamChelsie|1983
 #72|@Alehkine_cat|1980
 #73|@ESC_BOT|1976

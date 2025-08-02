@@ -27,10 +27,10 @@ Rank|Bot|Rating
 #25|@ElPeonElectrico|2454
 #26|@abhisun_bot|2444
 #27|@pistol-play|2437
-#28|@YoBot_v2|2394
-#29|@CloudBOT|2393
-#30|@NienishiEngine|2392
-#31|@InvinxibleFlxsh|2381
+#28|@InvinxibleFlxsh|2398
+#29|@YoBot_v2|2394
+#30|@CloudBOT|2393
+#31|@NienishiEngine|2392
 #32|@AttackKing_Bot|2365
 #33|@EagleEye2021|2365
 #34|@KingfishX|2347
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@legendbot1|1866
 #95|@MyNameIsSpeeedy|1861
 #96|@Bot_AOOP11|1858
-#97|@colinbot|1835
+#97|@colinbot|1834
 #98|@AnUtterlyKarBot|1829
 #99|@Dong_Xiao_Yuan|1829
 #100|@SugarAndSpice|1828

@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@ChessVBOT|2411
 #31|@Fairy-Stockfish|2402
 #32|@abhisun_bot|2384
-#33|@VEER-OMEGA-BOT|2371
+#33|@VEER-OMEGA-BOT|2374
 #34|@KingfishX|2369
 #35|@mrchessmanager|2369
 #36|@Stockfish-MEDIUM|2366
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@VariantsTop|1974
 #136|@VarianteBOT|1970
 #137|@Ssech_BOT|1967
-#138|@colinbot|1965
+#138|@colinbot|1963
 #139|@AEBROADUSBOTTER|1958
 #140|@AtomicRouletteBot|1955
 #141|@atomicli|1951

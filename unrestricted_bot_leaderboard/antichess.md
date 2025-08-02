@@ -38,9 +38,9 @@ Rank|Bot|Rating
 #36|@ChessBot3021|2599
 #37|@Viet-BOT|2598
 #38|@firstrobot|2593
-#39|@AIAlphaAI|2589
-#40|@WilliamGAsaad|2584
-#41|@colinbot|2582
+#39|@colinbot|2590
+#40|@AIAlphaAI|2589
+#41|@WilliamGAsaad|2584
 #42|@ElPeonElectrico|2568
 #43|@YoBot_v2|2565
 #44|@Nebulogic|2564
@@ -91,7 +91,7 @@ Rank|Bot|Rating
 #89|@higuyuu67776|2352
 #90|@Karpov_bot|2335
 #91|@TeamChelsie|2331
-#92|@NilatacBot|2317
+#92|@NilatacBot|2313
 #93|@AI69|2312
 #94|@Kizburb|2307
 #95|@MagicverseBOT|2306
@@ -100,10 +100,10 @@ Rank|Bot|Rating
 #98|@BromiumAI|2302
 #99|@EvenMatchup|2302
 #100|@OpeningsBot|2285
-#101|@GodelEscherBot|2284
-#102|@Dean_Summer_Bot|2279
-#103|@Johnsun|2269
-#104|@anti-bot|2265
+#101|@anti-bot|2284
+#102|@GodelEscherBot|2284
+#103|@Dean_Summer_Bot|2279
+#104|@Johnsun|2269
 #105|@SkyBlaster|2254
 #106|@mrchessmanager|2240
 #107|@TurkiyeHogwarts|2240
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@Stockfish-MEDIUM|2117
 #129|@PyChessBot|2102
 #130|@TurkiyeHogwartsBOT|2099
-#131|@CatNail|2078
+#131|@CatNail|2098
 #132|@ZamuChess|2049
 #133|@Botzer|2020
 #134|@Jussicas|2019
@@ -148,8 +148,8 @@ Rank|Bot|Rating
 #146|@Lumac0|1861
 #147|@Endogenetic-Bot|1859
 #148|@Pineapple-Friendly|1858
-#149|@Groot123456|1844
-#150|@pawnrobot|1839
+#149|@pawnrobot|1844
+#150|@Groot123456|1833
 #151|@MyNameIsWhatLOL|1826
 #152|@Bot2000|1807
 #153|@Emil_V2|1789
