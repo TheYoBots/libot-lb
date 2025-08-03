@@ -14,11 +14,11 @@ Rank|Bot|Rating
 #12|@Coolman2021|2568
 #13|@Viet-BOT|2555
 #14|@MaggiChess16|2553
-#15|@InvinxibleFlxsh|2551
-#16|@ElPeonElectrico|2549
-#17|@CloudBot_v2|2544
-#18|@Fairy_Belzedar|2544
-#19|@ToromBot|2543
+#15|@ElPeonElectrico|2549
+#16|@CloudBot_v2|2544
+#17|@Fairy_Belzedar|2544
+#18|@ToromBot|2543
+#19|@InvinxibleFlxsh|2542
 #20|@KizVariant|2529
 #21|@SCP079|2526
 #22|@Fairy-Stockfish|2484
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@TheMatrix2025|2272
 #43|@vrnts_colinbot|2266
 #44|@YoBot_v2|2257
-#45|@colinbot|2254
+#45|@colinbot|2252
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
 #48|@xiang-qi|2207
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@MasterofChessBOT800|1391
 #146|@HiddeNL|1385
 #147|@apraz|1383
-#148|@DanerdBot|1353
+#148|@DanerdBot|1380
 #149|@Bottios|1323
 #150|@TTC-BOT_2|1322
 #151|@cool_boy_bot|1321
@@ -159,9 +159,9 @@ Rank|Bot|Rating
 #157|@TheLegendaryKnight|1272
 #158|@EstmileBot|1269
 #159|@Parth_Dhage_2|1258
-#160|@pawnrobot|1257
-#161|@MyNameIsWhatLOL|1256
-#162|@SneakyBot21|1256
+#160|@MyNameIsWhatLOL|1256
+#161|@SneakyBot21|1256
+#162|@pawnrobot|1252
 #163|@TORTADEMANZANA023|1233
 #164|@heatseeker223|1191
 #165|@admin-bot|1188

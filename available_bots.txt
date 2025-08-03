@@ -3031,6 +3031,7 @@ waterbirdchess
 waterspoutx
 wax_bot
 wayang
+waychess-bot
 we-friend
 weakbot
 weaklean
@@ -3164,4 +3165,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-waychess-bot
+hiwin1234
