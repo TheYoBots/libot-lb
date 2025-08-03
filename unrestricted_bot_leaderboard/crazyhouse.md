@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@OceanicAbyssalord|2246
 #50|@Mega_BOT|2240
 #51|@Coolman2021|2219
-#52|@RaspFish|2209
+#52|@RaspFish|2210
 #53|@xiang-qi|2203
 #54|@MyNameIsWhatLOL|2200
 #55|@Zer0_Tw0|2200
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@legendbot1|1866
 #95|@MyNameIsSpeeedy|1861
 #96|@Bot_AOOP11|1858
-#97|@colinbot|1834
+#97|@colinbot|1840
 #98|@AnUtterlyKarBot|1829
 #99|@Dong_Xiao_Yuan|1829
 #100|@SugarAndSpice|1828
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@Lili-Variants|1698
 #116|@Lightning_SpeedChess|1696
 #117|@B0T5_RU13|1683
-#118|@OpeningsBot|1667
+#118|@OpeningsBot|1671
 #119|@FASTCHESSBOT|1666
 #120|@SipsonsamsonBOT|1665
 #121|@MistakeBOT|1655
@@ -130,8 +130,8 @@ Rank|Bot|Rating
 #128|@TTC-BOT_2|1596
 #129|@Karpov_bot|1594
 #130|@Hagfish|1593
-#131|@Groot123456|1581
-#132|@Danielbot|1575
+#131|@Danielbot|1575
+#132|@Groot123456|1573
 #133|@BushyCamper|1563
 #134|@vidha-2009|1542
 #135|@DespacitoBot|1535
@@ -191,9 +191,9 @@ Rank|Bot|Rating
 #189|@Happy_One|1223
 #190|@edixonbot|1217
 #191|@Grand_MefBartu-BOT|1200
-#192|@FluffBallCuddly|1191
-#193|@heatseeker223|1191
-#194|@pawnrobot|1190
+#192|@pawnrobot|1197
+#193|@FluffBallCuddly|1191
+#194|@heatseeker223|1191
 #195|@ChessPlayer1225|1183
 #196|@Jannik08_fan|1163
 #197|@BSergey11-BOT|1149
@@ -203,9 +203,9 @@ Rank|Bot|Rating
 #201|@apollo_bot|1106
 #202|@BogoBot|1099
 #203|@jasans_bot|1045
-#204|@DanerdBot|1036
-#205|@Official_bot|1027
-#206|@ZX-Chess|1011
+#204|@Official_bot|1027
+#205|@ZX-Chess|1011
+#206|@DanerdBot|991
 #207|@JPSBOT|958
 #208|@FireTorchV2|955
 #209|@RSVMentor|862

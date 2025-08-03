@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@Magnus-BOT|1923
 #50|@MalanChess|1921
 #51|@NormalBlitzBulletBot|1915
-#52|@colinbot|1912
+#52|@colinbot|1914
 #53|@MMC_HUANGBAI|1903
 #54|@XXIstCentury|1902
 #55|@AnUtterlyKarBot|1901
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@ChessChildren|1730
 #80|@Johnsun|1721
 #81|@Viet-BOT|1720
-#82|@OpeningsBot|1719
+#82|@OpeningsBot|1710
 #83|@HiddeNL|1708
 #84|@chesshyperbot|1702
 #85|@CoderDen732|1700
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@DespacitoBot|1345
 #128|@weaklean|1338
 #129|@BinaryBrain|1299
-#130|@Groot123456|1288
+#130|@Groot123456|1295
 #131|@Nicholaswb_BOT|1288
 #132|@AEBROADUSBOTTER|1279
 #133|@ReallyCrazyBOT|1279
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@PowerOnBot|1258
 #138|@xDmanBOT|1258
 #139|@yobmef|1258
-#140|@pawnrobot|1244
+#140|@pawnrobot|1233
 #141|@TheSystem_Bot|1218
 #142|@GuineaBot3|1212
 #143|@admin-bot|1209

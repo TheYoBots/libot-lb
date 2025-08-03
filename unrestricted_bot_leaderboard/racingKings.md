@@ -80,8 +80,8 @@ Rank|Bot|Rating
 #78|@Johnsun|2181
 #79|@HuxZero|2176
 #80|@AnUtterlyKarBot|2174
-#81|@knight_128|2144
-#82|@OpeningsBot|2134
+#81|@OpeningsBot|2145
+#82|@knight_128|2144
 #83|@Kizburb|2126
 #84|@cool_boy_bot|2124
 #85|@mc-king-098|2124
@@ -138,9 +138,9 @@ Rank|Bot|Rating
 #136|@TheSystem_Bot|1572
 #137|@QuickLiquid|1555
 #138|@MMC_HUANGBAI|1553
-#139|@Groot123456|1523
-#140|@faith_bot|1514
-#141|@CoderDen732|1507
+#139|@faith_bot|1514
+#140|@CoderDen732|1507
+#141|@Groot123456|1502
 #142|@TorBot|1498
 #143|@KnightsArmour|1494
 #144|@MagnusCarlsen1507|1493
