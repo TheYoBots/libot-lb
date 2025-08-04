@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@NimsiluBot|2521
 #20|@Nebulogic|2514
 #21|@SCP079|2513
-#22|@VEER-OMEGA-BOT|2504
+#22|@VEER-OMEGA-BOT|2509
 #23|@OceanicAbyssalord|2497
 #24|@Dark_evil_bot|2496
 #25|@mrchessmanager|2494
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@ibep|2333
 #51|@CloudBot_v2|2331
 #52|@ElPeonElectrico|2326
-#53|@colinbot|2323
+#53|@colinbot|2320
 #54|@Bot_AOOP11|2314
 #55|@KingfishX|2312
 #56|@Viet-BOT|2312
@@ -81,10 +81,10 @@ Rank|Bot|Rating
 #79|@HuxZero|2176
 #80|@AnUtterlyKarBot|2174
 #81|@knight_128|2144
-#82|@Kizburb|2126
-#83|@cool_boy_bot|2124
-#84|@mc-king-098|2124
-#85|@OpeningsBot|2118
+#82|@OpeningsBot|2138
+#83|@Kizburb|2126
+#84|@cool_boy_bot|2124
+#85|@mc-king-098|2124
 #86|@xiang-qi|2113
 #87|@atomicli|2111
 #88|@Trumpfor2O2O|2103

@@ -1953,6 +1953,7 @@ myopic-bot
 mysecondbot1
 mysimpleengine
 mysteriousgold
+mysticbot
 na_vinci
 nagasakihero
 nagranis
@@ -3048,6 +3049,7 @@ whatsanikitosikhuh
 whispermate
 whitewidowbot
 why_this_bot_exists
+whychess-bot
 willbochessengine
 williamengine
 williamgasaad
@@ -3166,5 +3168,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-mysticbot
-whychess-bot
+virus_exe-bot

@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@NimsiluBot|2657
 #2|@ToromBot|2528
-#3|@RaspFish|2509
+#3|@RaspFish|2506
 #4|@OceanicAbyssalord|2422
-#5|@VEER-OMEGA-BOT|2341
-#6|@colinbot|1962
-#7|@OpeningsBot|1911
-#8|@pawnrobot|1262
+#5|@VEER-OMEGA-BOT|2332
+#6|@colinbot|1969
+#7|@OpeningsBot|1905
+#8|@pawnrobot|1253

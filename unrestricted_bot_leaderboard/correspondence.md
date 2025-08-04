@@ -200,10 +200,10 @@ Rank|Bot|Rating
 #198|@starker_bot|1766
 #199|@Johan201023_Twitch|1764
 #200|@bryan_12345|1762
-#201|@LogosEngine|1760
-#202|@Bot413522|1758
-#203|@EDSPBOT|1758
-#204|@Jibbby|1755
+#201|@Jibbby|1761
+#202|@LogosEngine|1760
+#203|@Bot413522|1758
+#204|@EDSPBOT|1758
 #205|@AngryOfficePanda|1745
 #206|@wardnbot|1744
 #207|@anytimemode|1741
