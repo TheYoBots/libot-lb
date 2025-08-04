@@ -1279,6 +1279,7 @@ hikaru-nakamurabot
 hikaruexp
 historyexplorer
 hitmebaby1moretime
+hiwin1234
 hjhjhjhjhjhj
 hoaboxerchesss
 hoich
@@ -3165,4 +3166,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-hiwin1234
+mysticbot
+whychess-bot

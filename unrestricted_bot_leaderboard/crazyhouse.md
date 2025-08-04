@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@legendbot1|1866
 #95|@MyNameIsSpeeedy|1861
 #96|@Bot_AOOP11|1858
-#97|@colinbot|1841
+#97|@colinbot|1832
 #98|@AnUtterlyKarBot|1829
 #99|@Dong_Xiao_Yuan|1829
 #100|@SugarAndSpice|1828
@@ -190,7 +190,7 @@ Rank|Bot|Rating
 #188|@NightStarFox|1243
 #189|@Happy_One|1223
 #190|@edixonbot|1217
-#191|@pawnrobot|1202
+#191|@pawnrobot|1207
 #192|@Grand_MefBartu-BOT|1200
 #193|@FluffBallCuddly|1191
 #194|@heatseeker223|1191
@@ -205,9 +205,9 @@ Rank|Bot|Rating
 #203|@jasans_bot|1045
 #204|@Official_bot|1027
 #205|@ZX-Chess|1011
-#206|@DanerdBot|960
-#207|@JPSBOT|958
-#208|@FireTorchV2|955
+#206|@JPSBOT|958
+#207|@FireTorchV2|955
+#208|@DanerdBot|936
 #209|@RSVMentor|862
 #210|@GuineaBot3|845
 #211|@MateCheckCapture|828

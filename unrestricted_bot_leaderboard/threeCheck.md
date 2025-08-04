@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@MasterofChessBOT800|1391
 #146|@HiddeNL|1385
 #147|@apraz|1383
-#148|@DanerdBot|1380
+#148|@DanerdBot|1334
 #149|@Bottios|1323
 #150|@TTC-BOT_2|1322
 #151|@cool_boy_bot|1321
@@ -158,10 +158,10 @@ Rank|Bot|Rating
 #156|@Sanjana_Kambala-BOT|1273
 #157|@TheLegendaryKnight|1272
 #158|@EstmileBot|1269
-#159|@Parth_Dhage_2|1258
-#160|@MyNameIsWhatLOL|1256
-#161|@SneakyBot21|1256
-#162|@pawnrobot|1252
+#159|@pawnrobot|1268
+#160|@Parth_Dhage_2|1258
+#161|@MyNameIsWhatLOL|1256
+#162|@SneakyBot21|1256
 #163|@TORTADEMANZANA023|1233
 #164|@heatseeker223|1191
 #165|@admin-bot|1188
