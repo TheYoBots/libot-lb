@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
-#5|@NimsiluBot|2963
+#5|@NimsiluBot|2961
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2903
 #8|@AttackKing_Bot|2887
@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@ChessBot3021|2599
 #38|@Viet-BOT|2598
 #39|@firstrobot|2593
-#40|@AIAlphaAI|2589
-#41|@InvinxibleFlxsh|2588
+#40|@InvinxibleFlxsh|2593
+#41|@AIAlphaAI|2589
 #42|@WilliamGAsaad|2584
 #43|@ElPeonElectrico|2568
 #44|@YoBot_v2|2565
@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@Dean_Summer_Bot|2279
 #102|@OpeningsBot|2278
 #103|@Johnsun|2269
-#104|@anti-bot|2255
-#105|@SkyBlaster|2254
+#104|@SkyBlaster|2254
+#105|@anti-bot|2246
 #106|@mrchessmanager|2240
 #107|@TurkiyeHogwarts|2240
 #108|@EagleEye2021|2235

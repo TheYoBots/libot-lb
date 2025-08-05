@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@TheMatrix2025|2272
 #43|@vrnts_colinbot|2266
 #44|@YoBot_v2|2257
-#45|@colinbot|2238
+#45|@colinbot|2240
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
 #48|@xiang-qi|2207
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@PetersTestBot|1935
 #80|@Lila-Stockfish|1917
 #81|@SkyBlaster|1913
-#82|@OpeningsBot|1912
+#82|@OpeningsBot|1910
 #83|@HyperLitikBOT|1908
 #84|@PowerOnBot|1894
 #85|@CloudBOT|1892
@@ -103,9 +103,9 @@ Rank|Bot|Rating
 #101|@XXXTryandTryXXX|1747
 #102|@CBNguyen_Bot|1741
 #103|@No_Username2|1741
-#104|@Groot123456|1731
-#105|@NotNateBot|1731
-#106|@Crepusculum|1724
+#104|@NotNateBot|1731
+#105|@Crepusculum|1724
+#106|@Groot123456|1719
 #107|@SUMEETTHEPRO|1708
 #108|@Yemmi-Yemmi|1702
 #109|@clueless-bot|1685
@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@Botkingteam33|1633
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
-#116|@knight_128|1563
-#117|@DavidsGuterBot|1551
+#116|@DavidsGuterBot|1563
+#117|@knight_128|1563
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
 #120|@relevantproblem|1514
@@ -158,10 +158,10 @@ Rank|Bot|Rating
 #156|@Sanjana_Kambala-BOT|1273
 #157|@TheLegendaryKnight|1272
 #158|@EstmileBot|1269
-#159|@pawnrobot|1259
-#160|@Parth_Dhage_2|1258
-#161|@MyNameIsWhatLOL|1256
-#162|@SneakyBot21|1256
+#159|@Parth_Dhage_2|1258
+#160|@MyNameIsWhatLOL|1256
+#161|@SneakyBot21|1256
+#162|@pawnrobot|1255
 #163|@TORTADEMANZANA023|1233
 #164|@heatseeker223|1191
 #165|@admin-bot|1188

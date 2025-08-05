@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@ttBOT|2716
 #3|@VariantsBot|2703
 #4|@MaggiChess16|2675
-#5|@InvinxibleFlxsh|2625
+#5|@InvinxibleFlxsh|2616
 #6|@SkyBlaster|2603
 #7|@Viet-AI|2600
 #8|@lord-bot|2581
@@ -18,9 +18,9 @@ Rank|Bot|Rating
 #16|@ChessVBOT|2531
 #17|@Coolman2021|2527
 #18|@EmptikBot|2526
-#19|@NimsiluBot|2521
-#20|@Nebulogic|2514
-#21|@VEER-OMEGA-BOT|2514
+#19|@NimsiluBot|2526
+#20|@VEER-OMEGA-BOT|2519
+#21|@Nebulogic|2514
 #22|@SCP079|2513
 #23|@OceanicAbyssalord|2497
 #24|@Dark_evil_bot|2496
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@HuxZero|2176
 #80|@AnUtterlyKarBot|2174
 #81|@knight_128|2144
-#82|@OpeningsBot|2138
+#82|@OpeningsBot|2135
 #83|@Kizburb|2126
 #84|@cool_boy_bot|2124
 #85|@mc-king-098|2124

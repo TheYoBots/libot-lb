@@ -46,8 +46,8 @@ Rank|Bot|Rating
 #44|@lightspeed_bot|2010
 #45|@The-Fastest-Bot|2000
 #46|@Mega_BOT|1986
-#47|@vrnts_colinbot|1932
-#48|@colinbot|1929
+#47|@colinbot|1932
+#48|@vrnts_colinbot|1932
 #49|@chessbot2880|1923
 #50|@Magnus-BOT|1923
 #51|@MalanChess|1921
@@ -82,8 +82,8 @@ Rank|Bot|Rating
 #80|@Johnsun|1721
 #81|@Viet-BOT|1720
 #82|@HiddeNL|1708
-#83|@OpeningsBot|1706
-#84|@chesshyperbot|1702
+#83|@chesshyperbot|1702
+#84|@OpeningsBot|1702
 #85|@CoderDen732|1700
 #86|@relevantproblem|1667
 #87|@Epiano_Bot|1662

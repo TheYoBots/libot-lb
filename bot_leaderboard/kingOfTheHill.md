@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2306
 #2|@OceanicAbyssalord|2214
-#3|@InvinxibleFlxsh|2167
-#4|@colinbot|1972
-#5|@OpeningsBot|1805
-#6|@DavidsGuterBot|1504
-#7|@pawnrobot|1248
+#3|@InvinxibleFlxsh|2173
+#4|@colinbot|1969
+#5|@OpeningsBot|1807
+#6|@DavidsGuterBot|1507
+#7|@pawnrobot|1244

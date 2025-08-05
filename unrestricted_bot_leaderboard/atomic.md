@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@ToromBot|2526
 #18|@ResoluteBot|2525
 #19|@CatBot_14|2514
-#20|@EmptikBot|2510
-#21|@RaspFish|2510
+#20|@RaspFish|2511
+#21|@EmptikBot|2510
 #22|@InvinxibleFlxsh|2508
 #23|@ibep|2498
 #24|@firstrobot|2485
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@LudwigBOT|2339
 #45|@newengine2022|2337
 #46|@NotNateBot|2336
-#47|@VEER-OMEGA-BOT|2330
+#47|@VEER-OMEGA-BOT|2325
 #48|@The-Fastest-Bot|2314
 #49|@Alehkine_cat|2312
 #50|@Dean_Summer_Bot|2305
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@Sub_Bot|1974
 #135|@VariantsTop|1974
 #136|@VarianteBOT|1970
-#137|@colinbot|1969
+#137|@colinbot|1967
 #138|@Ssech_BOT|1967
 #139|@AEBROADUSBOTTER|1958
 #140|@AtomicRouletteBot|1955
@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@Lili-Variants|1926
 #145|@hjhjhjhjhjhj|1923
 #146|@FyChess2|1921
-#147|@PetersBot|1914
-#148|@OpeningsBot|1905
+#147|@OpeningsBot|1920
+#148|@PetersBot|1914
 #149|@B4dF1sh|1903
 #150|@Isotopebot|1900
 #151|@Just-a-random-bot|1898
@@ -269,12 +269,12 @@ Rank|Bot|Rating
 #267|@KaTHHHH|1440
 #268|@Chess_Bot-Child|1437
 #269|@DestructeurBot|1437
-#270|@virus_exe-bot|1437
-#271|@xDmanBOT|1437
-#272|@MrMolotov|1436
-#273|@BOSS_CHESS_BOT|1431
-#274|@shakboy9824453231op|1420
-#275|@Groot123456|1415
+#270|@Groot123456|1437
+#271|@virus_exe-bot|1437
+#272|@xDmanBOT|1437
+#273|@MrMolotov|1436
+#274|@BOSS_CHESS_BOT|1431
+#275|@shakboy9824453231op|1420
 #276|@bunny_2021|1413
 #277|@TTC-BOT_2|1410
 #278|@Butzke_BOT|1401
@@ -306,7 +306,7 @@ Rank|Bot|Rating
 #304|@Mr-Bob|1258
 #305|@NarratingSince86|1258
 #306|@rayking311|1258
-#307|@pawnrobot|1253
+#307|@pawnrobot|1244
 #308|@XiDM|1241
 #309|@AlwaysPlayMystery|1240
 #310|@Ar4Asd1-BOT|1230
