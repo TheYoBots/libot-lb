@@ -15,13 +15,13 @@ Rank|Bot|Rating
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
-#16|@ToromBot|2528
-#17|@BitExtender128|2526
+#16|@BitExtender128|2526
+#17|@ToromBot|2526
 #18|@ResoluteBot|2525
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
-#21|@InvinxibleFlxsh|2508
-#22|@RaspFish|2506
+#21|@RaspFish|2510
+#22|@InvinxibleFlxsh|2508
 #23|@ibep|2498
 #24|@firstrobot|2485
 #25|@ShredderGrizzly|2479
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@LudwigBOT|2339
 #45|@newengine2022|2337
 #46|@NotNateBot|2336
-#47|@VEER-OMEGA-BOT|2332
+#47|@VEER-OMEGA-BOT|2330
 #48|@The-Fastest-Bot|2314
 #49|@Alehkine_cat|2312
 #50|@Dean_Summer_Bot|2305
@@ -269,8 +269,8 @@ Rank|Bot|Rating
 #267|@KaTHHHH|1440
 #268|@Chess_Bot-Child|1437
 #269|@DestructeurBot|1437
-#270|@xDmanBOT|1437
-#271|@virus_exe-bot|1437
+#270|@virus_exe-bot|1437
+#271|@xDmanBOT|1437
 #272|@MrMolotov|1436
 #273|@BOSS_CHESS_BOT|1431
 #274|@shakboy9824453231op|1420

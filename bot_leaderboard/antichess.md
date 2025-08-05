@@ -5,9 +5,9 @@ Rank|Bot|Rating
 #3|@RaspFish|2815
 #4|@OceanicAbyssalord|2814
 #5|@colinbot|2601
-#6|@NilatacBot|2309
+#6|@NilatacBot|2333
 #7|@OpeningsBot|2278
 #8|@anti-bot|2255
-#9|@CatNail|2118
-#10|@Groot123456|1842
+#9|@CatNail|2122
+#10|@Groot123456|1852
 #11|@pawnrobot|1838

@@ -90,9 +90,9 @@ Rank|Bot|Rating
 #88|@Viet_BOT|2354
 #89|@higuyuu67776|2352
 #90|@Karpov_bot|2335
-#91|@TeamChelsie|2331
-#92|@AI69|2312
-#93|@NilatacBot|2309
+#91|@NilatacBot|2333
+#92|@TeamChelsie|2331
+#93|@AI69|2312
 #94|@Kizburb|2307
 #95|@MagicverseBOT|2306
 #96|@abhisun_bot|2305
@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@AntiChessBot|2142
 #126|@AnUtterlyKarBot|2134
 #127|@XXIstCentury|2131
-#128|@CatNail|2118
+#128|@CatNail|2122
 #129|@Stockfish-MEDIUM|2117
 #130|@PyChessBot|2102
 #131|@TurkiyeHogwartsBOT|2099
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@Lumac0|1861
 #147|@Endogenetic-Bot|1859
 #148|@Pineapple-Friendly|1858
-#149|@Groot123456|1842
+#149|@Groot123456|1852
 #150|@pawnrobot|1838
 #151|@MyNameIsWhatLOL|1826
 #152|@Bot2000|1807

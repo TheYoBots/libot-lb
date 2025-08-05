@@ -2997,6 +2997,7 @@ vinh_variantsbot
 vinnikk
 virgo_andlogos
 viridithas
+virus_exe-bot
 virutor
 vishynotanand_thebot
 vive_2_chess_pro
@@ -3168,4 +3169,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-virus_exe-bot

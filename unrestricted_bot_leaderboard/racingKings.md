@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@EmptikBot|2526
 #19|@NimsiluBot|2521
 #20|@Nebulogic|2514
-#21|@SCP079|2513
-#22|@VEER-OMEGA-BOT|2509
+#21|@VEER-OMEGA-BOT|2514
+#22|@SCP079|2513
 #23|@OceanicAbyssalord|2497
 #24|@Dark_evil_bot|2496
 #25|@mrchessmanager|2494
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@ibep|2333
 #51|@CloudBot_v2|2331
 #52|@ElPeonElectrico|2326
-#53|@colinbot|2320
+#53|@colinbot|2317
 #54|@Bot_AOOP11|2314
 #55|@KingfishX|2312
 #56|@Viet-BOT|2312
