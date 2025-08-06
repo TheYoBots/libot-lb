@@ -46,9 +46,9 @@ Rank|Bot|Rating
 #44|@LudwigBOT|2339
 #45|@newengine2022|2337
 #46|@NotNateBot|2336
-#47|@VEER-OMEGA-BOT|2325
-#48|@The-Fastest-Bot|2314
-#49|@Alehkine_cat|2312
+#47|@The-Fastest-Bot|2314
+#48|@Alehkine_cat|2312
+#49|@VEER-OMEGA-BOT|2308
 #50|@Dean_Summer_Bot|2305
 #51|@PsychedelicAtomic|2296
 #52|@AndromedaSX1|2284
@@ -136,8 +136,8 @@ Rank|Bot|Rating
 #134|@Sub_Bot|1974
 #135|@VariantsTop|1974
 #136|@VarianteBOT|1970
-#137|@colinbot|1967
-#138|@Ssech_BOT|1967
+#137|@Ssech_BOT|1967
+#138|@colinbot|1965
 #139|@AEBROADUSBOTTER|1958
 #140|@AtomicRouletteBot|1955
 #141|@atomicli|1951

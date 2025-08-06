@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@Kizbuurb|2621
 #33|@KingfishX|2612
 #34|@bananaaaaaaaaa_test|2608
-#35|@IAMSTOCKFISH123|2603
-#36|@colinbot|2601
+#35|@colinbot|2605
+#36|@IAMSTOCKFISH123|2603
 #37|@ChessBot3021|2599
 #38|@Viet-BOT|2598
 #39|@firstrobot|2593
@@ -90,8 +90,8 @@ Rank|Bot|Rating
 #88|@Viet_BOT|2354
 #89|@higuyuu67776|2352
 #90|@Karpov_bot|2335
-#91|@NilatacBot|2333
-#92|@TeamChelsie|2331
+#91|@TeamChelsie|2331
+#92|@NilatacBot|2329
 #93|@AI69|2312
 #94|@Kizburb|2307
 #95|@MagicverseBOT|2306
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@OpeningsBot|2278
 #103|@Johnsun|2269
 #104|@SkyBlaster|2254
-#105|@anti-bot|2246
+#105|@anti-bot|2252
 #106|@mrchessmanager|2240
 #107|@TurkiyeHogwarts|2240
 #108|@EagleEye2021|2235
@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@AntiChessBot|2142
 #126|@AnUtterlyKarBot|2134
 #127|@XXIstCentury|2131
-#128|@CatNail|2122
+#128|@CatNail|2124
 #129|@Stockfish-MEDIUM|2117
 #130|@PyChessBot|2102
 #131|@TurkiyeHogwartsBOT|2099
@@ -145,11 +145,11 @@ Rank|Bot|Rating
 #143|@SriLankaChess|1925
 #144|@Crepusculum|1881
 #145|@NoTallkOnlyGames|1871
-#146|@Lumac0|1861
-#147|@Endogenetic-Bot|1859
-#148|@Pineapple-Friendly|1858
-#149|@Groot123456|1852
-#150|@pawnrobot|1838
+#146|@Groot123456|1862
+#147|@Lumac0|1861
+#148|@Endogenetic-Bot|1859
+#149|@Pineapple-Friendly|1858
+#150|@pawnrobot|1828
 #151|@MyNameIsWhatLOL|1826
 #152|@Bot2000|1807
 #153|@Emil_V2|1789

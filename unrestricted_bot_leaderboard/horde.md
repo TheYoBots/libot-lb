@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@lightspeed_bot|2010
 #45|@The-Fastest-Bot|2000
 #46|@Mega_BOT|1986
-#47|@colinbot|1932
+#47|@colinbot|1935
 #48|@vrnts_colinbot|1932
 #49|@chessbot2880|1923
 #50|@Magnus-BOT|1923
@@ -83,8 +83,8 @@ Rank|Bot|Rating
 #81|@Viet-BOT|1720
 #82|@HiddeNL|1708
 #83|@chesshyperbot|1702
-#84|@OpeningsBot|1702
-#85|@CoderDen732|1700
+#84|@CoderDen732|1700
+#85|@OpeningsBot|1698
 #86|@relevantproblem|1667
 #87|@Epiano_Bot|1662
 #88|@VariantsTop|1644
