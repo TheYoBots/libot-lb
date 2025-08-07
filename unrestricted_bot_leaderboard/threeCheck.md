@@ -142,10 +142,10 @@ Rank|Bot|Rating
 #140|@Kyle_0111|1421
 #141|@azdad|1420
 #142|@Peaceful4Life|1412
-#143|@Nithin-das|1397
-#144|@RochadeSchachzeitung|1392
-#145|@MasterofChessBOT800|1391
-#146|@DanerdBot|1385
+#143|@DanerdBot|1402
+#144|@Nithin-das|1397
+#145|@RochadeSchachzeitung|1392
+#146|@MasterofChessBOT800|1391
 #147|@HiddeNL|1385
 #148|@apraz|1383
 #149|@Bottios|1323
@@ -157,8 +157,8 @@ Rank|Bot|Rating
 #155|@Light_To_The_Rescue|1277
 #156|@Sanjana_Kambala-BOT|1273
 #157|@TheLegendaryKnight|1272
-#158|@pawnrobot|1270
-#159|@EstmileBot|1269
+#158|@EstmileBot|1269
+#159|@pawnrobot|1266
 #160|@Parth_Dhage_2|1258
 #161|@MyNameIsWhatLOL|1256
 #162|@SneakyBot21|1256
