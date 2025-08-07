@@ -28,9 +28,9 @@ Rank|Bot|Rating
 #26|@Mega_BOT|2371
 #27|@CorrespondenceBot|2353
 #28|@duchessAI|2344
-#29|@Shocky_BOT|2340
+#29|@OpeningsBot|2342
 #30|@HansNiemannBot|2338
-#31|@OpeningsBot|2336
+#31|@Shocky_BOT|2334
 #32|@MrDeepSeekGPT|2309
 #33|@bekbot|2307
 #34|@Magnus-BOT|2304
@@ -352,7 +352,7 @@ Rank|Bot|Rating
 #350|@elninodiablo|1312
 #351|@AKS-Mantissa|1310
 #352|@BishoP-BOT|1306
-#353|@Cimille|1306
+#353|@Cimille|1302
 #354|@HappyDeepawali|1300
 #355|@heatseeker223|1300
 #356|@vezzickbot|1299

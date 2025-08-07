@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@ResoluteBot|2233
 #28|@ttBOT|2230
 #29|@Magnus-BOT|2224
-#30|@NimsiluBot|2220
+#30|@NimsiluBot|2224
 #31|@SkyBlaster|2220
 #32|@OceanicAbyssalord|2214
 #33|@Stockfish-MEDIUM|2198
@@ -97,8 +97,8 @@ Rank|Bot|Rating
 #95|@admin-bot|1809
 #96|@The-Fastest-Bot|1809
 #97|@TheLegitLegend|1804
-#98|@OpeningsBot|1803
-#99|@Bot_AOOP11|1802
+#98|@Bot_AOOP11|1802
+#99|@OpeningsBot|1802
 #100|@ROBOT_RANDEER2007|1802
 #101|@mrchessmanager|1801
 #102|@CloudBotZero|1798

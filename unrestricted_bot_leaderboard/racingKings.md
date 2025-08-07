@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Coolman2021|2527
 #18|@EmptikBot|2526
 #19|@NimsiluBot|2526
-#20|@VEER-OMEGA-BOT|2519
+#20|@VEER-OMEGA-BOT|2521
 #21|@Nebulogic|2514
 #22|@SCP079|2513
 #23|@OceanicAbyssalord|2497
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@HuxZero|2176
 #80|@AnUtterlyKarBot|2174
 #81|@knight_128|2144
-#82|@OpeningsBot|2135
+#82|@OpeningsBot|2134
 #83|@Kizburb|2126
 #84|@cool_boy_bot|2124
 #85|@mc-king-098|2124

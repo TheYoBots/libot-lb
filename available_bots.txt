@@ -3139,6 +3139,7 @@ yvl-bot
 yz-bot-test
 z-move
 z5_engine
+z6g
 zackes
 zagreus_engine
 zahak_engine
@@ -3170,4 +3171,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-z6g
+magic11bot_pro
+robotjfischer
+cloud_classroom_bot
