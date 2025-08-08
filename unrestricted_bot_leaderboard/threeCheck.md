@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Botkingteam33|1633
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
-#116|@DavidsGuterBot|1568
+#116|@DavidsGuterBot|1564
 #117|@knight_128|1563
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
@@ -145,9 +145,9 @@ Rank|Bot|Rating
 #143|@Nithin-das|1397
 #144|@RochadeSchachzeitung|1392
 #145|@MasterofChessBOT800|1391
-#146|@HiddeNL|1385
-#147|@apraz|1383
-#148|@DanerdBot|1370
+#146|@DanerdBot|1386
+#147|@HiddeNL|1385
+#148|@apraz|1383
 #149|@Bottios|1323
 #150|@TTC-BOT_2|1322
 #151|@cool_boy_bot|1321

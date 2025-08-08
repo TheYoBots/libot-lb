@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@Fairy_Belzedar|2559
 #10|@EmptikVariantsBot|2557
 #11|@RaspFish|2555
-#12|@ToromBot|2552
+#12|@ToromBot|2554
 #13|@FireFishBOT|2547
 #14|@strain-on-veins|2545
 #15|@LudwigBOT|2536
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@HuxZero|2176
 #80|@AnUtterlyKarBot|2174
 #81|@knight_128|2144
-#82|@OpeningsBot|2134
+#82|@OpeningsBot|2133
 #83|@Kizburb|2126
 #84|@cool_boy_bot|2124
 #85|@mc-king-098|2124

@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@Viet-AI|2556
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
-#16|@ToromBot|2526
-#17|@ResoluteBot|2525
+#16|@ResoluteBot|2525
+#17|@ToromBot|2522
 #18|@CatBot_14|2514
 #19|@RaspFish|2511
 #20|@EmptikBot|2510

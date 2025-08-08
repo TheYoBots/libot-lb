@@ -684,6 +684,7 @@ cleoengine
 clj-bot
 clompdev
 cloud_bot
+cloud_classroom_bot
 cloudblower
 cloudbot
 cloudbot_v2
@@ -1761,6 +1762,7 @@ maggichess16
 magic-engine
 magic11bot
 magic11bot_coach
+magic11bot_pro
 magichacker123
 magicversebot
 magnum_carl
@@ -2366,6 +2368,7 @@ roboshroom
 robot-chaniru_perera
 robot_randeer2007
 robotal
+robotjfischer
 robotpatzer
 robottigerslav
 robottino
@@ -3171,6 +3174,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-magic11bot_pro
-robotjfischer
-cloud_classroom_bot
