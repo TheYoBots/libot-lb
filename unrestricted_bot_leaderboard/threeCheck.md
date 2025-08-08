@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@TheMatrix2025|2272
 #43|@vrnts_colinbot|2266
 #44|@YoBot_v2|2257
-#45|@colinbot|2238
+#45|@colinbot|2240
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
 #48|@xiang-qi|2207
@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@pistol-play|1939
 #78|@PROBOT123567|1936
 #79|@PetersTestBot|1935
-#80|@OpeningsBot|1919
-#81|@Lila-Stockfish|1917
+#80|@Lila-Stockfish|1917
+#81|@OpeningsBot|1917
 #82|@SkyBlaster|1913
 #83|@HyperLitikBOT|1908
 #84|@PowerOnBot|1894
@@ -106,8 +106,8 @@ Rank|Bot|Rating
 #104|@NotNateBot|1731
 #105|@Crepusculum|1724
 #106|@SUMEETTHEPRO|1708
-#107|@Yemmi-Yemmi|1702
-#108|@Groot123456|1697
+#107|@Groot123456|1702
+#108|@Yemmi-Yemmi|1702
 #109|@clueless-bot|1685
 #110|@NormalBulletBot|1657
 #111|@the_checkmating_bot|1643
@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@Botkingteam33|1633
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
-#116|@DavidsGuterBot|1564
-#117|@knight_128|1563
+#116|@knight_128|1563
+#117|@DavidsGuterBot|1554
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
 #120|@relevantproblem|1514
@@ -154,8 +154,8 @@ Rank|Bot|Rating
 #152|@Harry_Potterz|1316
 #153|@allvariants|1310
 #154|@NoTallkOnlyGames|1293
-#155|@Light_To_The_Rescue|1277
-#156|@pawnrobot|1274
+#155|@pawnrobot|1280
+#156|@Light_To_The_Rescue|1277
 #157|@Sanjana_Kambala-BOT|1273
 #158|@TheLegendaryKnight|1272
 #159|@EstmileBot|1269
