@@ -189,7 +189,7 @@ Rank|Bot|Rating
 #187|@NightStarFox|1243
 #188|@Happy_One|1223
 #189|@edixonbot|1217
-#190|@pawnrobot|1207
+#190|@pawnrobot|1206
 #191|@Grand_MefBartu-BOT|1200
 #192|@FluffBallCuddly|1191
 #193|@heatseeker223|1191

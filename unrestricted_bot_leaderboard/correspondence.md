@@ -28,9 +28,9 @@ Rank|Bot|Rating
 #26|@Mega_BOT|2371
 #27|@CorrespondenceBot|2353
 #28|@duchessAI|2344
-#29|@OpeningsBot|2343
+#29|@Shocky_BOT|2340
 #30|@HansNiemannBot|2338
-#31|@Shocky_BOT|2334
+#31|@OpeningsBot|2337
 #32|@MrDeepSeekGPT|2309
 #33|@bekbot|2307
 #34|@Magnus-BOT|2304
