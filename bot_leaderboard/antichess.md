@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@NimsiluBot|2953
 #2|@ToromBot|2912
 #3|@colinbot|2605
-#4|@anti-bot|2364
+#4|@anti-bot|2372
 #5|@NilatacBot|2329
-#6|@OpeningsBot|2262
+#6|@OpeningsBot|2270
 #7|@CatNail|2137
-#8|@Groot123456|1858
+#8|@Groot123456|1865
 #9|@pawnrobot|1832

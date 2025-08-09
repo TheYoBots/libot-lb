@@ -93,9 +93,9 @@ Rank|Bot|Rating
 #91|@Botzer|1851
 #92|@B0T5_RU13|1835
 #93|@STockfishdestroyBot|1825
-#94|@AldoGamer001_Bot|1813
-#95|@admin-bot|1809
-#96|@OpeningsBot|1809
+#94|@OpeningsBot|1814
+#95|@AldoGamer001_Bot|1813
+#96|@admin-bot|1809
 #97|@The-Fastest-Bot|1809
 #98|@TheLegitLegend|1804
 #99|@Bot_AOOP11|1802
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@Viet_BOT|1701
 #111|@QuickLiquid|1689
 #112|@SCP079|1660
-#113|@Groot123456|1659
+#113|@Groot123456|1651
 #114|@chessemkabot|1625
 #115|@CoderDen732|1621
 #116|@Breeze-Hot|1606
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@Hrant_Petrosyan_BOT|1258
 #158|@DanerdBot|1242
 #159|@HiddeNL|1242
-#160|@pawnrobot|1237
+#160|@pawnrobot|1235
 #161|@knight_128|1233
 #162|@MyNameIsSpeedy|1226
 #163|@Bottios|1223

@@ -82,9 +82,9 @@ Rank|Bot|Rating
 #80|@CatBot_14|2393
 #81|@NormalBulletBot|2393
 #82|@AldoGamer001_Bot|2376
-#83|@Resolved-Bot|2369
-#84|@Trumpfor2O2O|2366
-#85|@anti-bot|2364
+#83|@anti-bot|2372
+#84|@Resolved-Bot|2369
+#85|@Trumpfor2O2O|2366
 #86|@HuxZero|2361
 #87|@Less_of_a_threat|2357
 #88|@Viet_BOT|2354
@@ -101,8 +101,8 @@ Rank|Bot|Rating
 #99|@EvenMatchup|2302
 #100|@GodelEscherBot|2284
 #101|@Dean_Summer_Bot|2279
-#102|@Johnsun|2269
-#103|@OpeningsBot|2262
+#102|@OpeningsBot|2270
+#103|@Johnsun|2269
 #104|@SkyBlaster|2254
 #105|@mrchessmanager|2240
 #106|@TurkiyeHogwarts|2240
@@ -144,9 +144,9 @@ Rank|Bot|Rating
 #142|@SriLankaChess|1925
 #143|@Crepusculum|1881
 #144|@NoTallkOnlyGames|1871
-#145|@Lumac0|1861
-#146|@Endogenetic-Bot|1859
-#147|@Groot123456|1858
+#145|@Groot123456|1865
+#146|@Lumac0|1861
+#147|@Endogenetic-Bot|1859
 #148|@Pineapple-Friendly|1858
 #149|@pawnrobot|1832
 #150|@MyNameIsWhatLOL|1826

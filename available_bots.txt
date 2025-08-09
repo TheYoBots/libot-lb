@@ -2086,6 +2086,7 @@ olympuslizardcz
 olympusplentycz
 om2022_bot
 om_the_great_bot
+omblecavalier
 omega-pro
 omelettechessengine
 omerbot
@@ -3174,4 +3175,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-omblecavalier
+fairytailregimebot
+bbcpp
