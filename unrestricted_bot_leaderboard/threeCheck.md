@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@PROBOT123567|1936
 #79|@PetersTestBot|1935
 #80|@Lila-Stockfish|1917
-#81|@OpeningsBot|1915
+#81|@OpeningsBot|1917
 #82|@SkyBlaster|1913
 #83|@HyperLitikBOT|1908
 #84|@PowerOnBot|1894
@@ -105,7 +105,7 @@ Rank|Bot|Rating
 #103|@No_Username2|1741
 #104|@NotNateBot|1731
 #105|@Crepusculum|1724
-#106|@Groot123456|1712
+#106|@Groot123456|1716
 #107|@SUMEETTHEPRO|1708
 #108|@Yemmi-Yemmi|1702
 #109|@clueless-bot|1685
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
 #116|@knight_128|1563
-#117|@DavidsGuterBot|1557
+#117|@DavidsGuterBot|1551
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
 #120|@relevantproblem|1514
@@ -141,11 +141,11 @@ Rank|Bot|Rating
 #139|@BKriviBOT|1427
 #140|@Kyle_0111|1421
 #141|@azdad|1420
-#142|@Peaceful4Life|1412
-#143|@Nithin-das|1397
-#144|@RochadeSchachzeitung|1392
-#145|@MasterofChessBOT800|1391
-#146|@DanerdBot|1386
+#142|@DanerdBot|1415
+#143|@Peaceful4Life|1412
+#144|@Nithin-das|1397
+#145|@RochadeSchachzeitung|1392
+#146|@MasterofChessBOT800|1391
 #147|@HiddeNL|1385
 #148|@apraz|1383
 #149|@Bottios|1323
@@ -157,8 +157,8 @@ Rank|Bot|Rating
 #155|@Light_To_The_Rescue|1277
 #156|@Sanjana_Kambala-BOT|1273
 #157|@TheLegendaryKnight|1272
-#158|@pawnrobot|1270
-#159|@EstmileBot|1269
+#158|@EstmileBot|1269
+#159|@pawnrobot|1264
 #160|@Parth_Dhage_2|1258
 #161|@MyNameIsWhatLOL|1256
 #162|@SneakyBot21|1256
