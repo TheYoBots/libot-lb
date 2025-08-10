@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@FireFishBOT|2726
 #8|@PepsiForAll|2699
 #9|@ttBOT|2584
-#10|@ToromBot|2577
-#11|@NimsiluBot|2478
+#10|@ToromBot|2548
+#11|@NimsiluBot|2515
 #12|@Nerubatskyi_Daniil_v|2471
 #13|@EmptikVariantsBot|2402
 #14|@EmptikBot|2378
@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@lord-bot|2362
 #17|@Hyper-Stockfish|2358
 #18|@OceanicAbyssalord|2333
-#19|@RaspFish|2301
+#19|@RaspFish|2306
 #20|@AlfaBot|2293
 #21|@Fairy-Stockfish|2289
 #22|@Kizburb|2276
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@lightspeed_bot|2010
 #45|@The-Fastest-Bot|2000
 #46|@Mega_BOT|1986
-#47|@colinbot|1936
+#47|@colinbot|1939
 #48|@vrnts_colinbot|1932
 #49|@chessbot2880|1923
 #50|@Magnus-BOT|1923
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@HiddeNL|1708
 #83|@chesshyperbot|1702
 #84|@CoderDen732|1700
-#85|@OpeningsBot|1695
+#85|@OpeningsBot|1691
 #86|@relevantproblem|1667
 #87|@Epiano_Bot|1662
 #88|@VariantsTop|1644

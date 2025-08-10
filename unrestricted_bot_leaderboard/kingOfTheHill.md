@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
 #23|@Bobby_Fischer_BOT|2267
-#24|@lord-bot|2258
-#25|@VEER-OMEGA-BOT|2257
+#24|@VEER-OMEGA-BOT|2263
+#25|@lord-bot|2258
 #26|@YoBot_v2|2242
 #27|@ResoluteBot|2233
 #28|@ttBOT|2230
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@PowerOnBot|2195
 #35|@UnDisstoppableBot|2193
 #36|@Amrobotone|2184
-#37|@InvinxibleFlxsh|2178
-#38|@HuxZero|2163
+#37|@HuxZero|2163
+#38|@InvinxibleFlxsh|2161
 #39|@Mega_BOT|2148
 #40|@AI69|2143
 #41|@RobotTigerSlav|2136
@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@NormalBlitzBulletBot|1986
 #70|@TeamChelsie|1983
 #71|@Alehkine_cat|1980
-#72|@ESC_BOT|1976
-#73|@colinbot|1968
+#72|@colinbot|1976
+#73|@ESC_BOT|1976
 #74|@Lila-Stockfish|1963
 #75|@chessbot2880|1961
 #76|@PyChessBot|1957
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
-#124|@DavidsGuterBot|1517
+#124|@DavidsGuterBot|1510
 #125|@Z-Move|1495
 #126|@TFRChessClub|1494
 #127|@hyperchessbot1|1493
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@Hrant_Petrosyan_BOT|1258
 #158|@DanerdBot|1242
 #159|@HiddeNL|1242
-#160|@pawnrobot|1235
+#160|@pawnrobot|1242
 #161|@knight_128|1233
 #162|@MyNameIsSpeedy|1226
 #163|@Bottios|1223

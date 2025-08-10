@@ -254,6 +254,7 @@ basbabas
 battlebot
 bbao23-chess
 bbc_bot
+bbcpp
 bcbchess
 beast_engine
 beatmekiddos
@@ -1018,6 +1019,7 @@ facets-untarnished
 fairgamekavvadias
 fairy-stockfish
 fairy_belzedar
+fairytailregimebot
 faith_bot
 falch_bot
 fantacticeman
@@ -3175,5 +3177,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-fairytailregimebot
-bbcpp
