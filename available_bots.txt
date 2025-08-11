@@ -195,6 +195,7 @@ asimusbot
 aspyfish
 assasino_legend
 asterix_20k20
+astra-engine
 atemmax_bot
 athena-bot
 atomic_chess_bot
@@ -1370,6 +1371,7 @@ ilya0510karimvagapov
 imitation-net
 immortaldwirz
 imnotpro1906_beta
+implosio
 imporver-engine
 impossiblewin
 imreallynotabot
@@ -2189,6 +2191,7 @@ plasmaeclipse
 play-the-chess
 playchesstonight
 playgea
+playinglikegiftian
 playleela
 playleelachess
 playsf
@@ -3177,6 +3180,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-implosio
-playinglikegiftian
-astra-engine
