@@ -30,9 +30,9 @@ Rank|Bot|Rating
 #28|@PepsiForAll|2448
 #29|@OceanicAbyssalord|2422
 #30|@ChessVBOT|2411
-#31|@Fairy-Stockfish|2402
-#32|@abhisun_bot|2384
-#33|@Cloud_Classroom_Bot|2383
+#31|@Cloud_Classroom_Bot|2410
+#32|@Fairy-Stockfish|2402
+#33|@abhisun_bot|2384
 #34|@KingfishX|2369
 #35|@mrchessmanager|2369
 #36|@Stockfish-MEDIUM|2366
@@ -49,8 +49,8 @@ Rank|Bot|Rating
 #47|@NotNateBot|2336
 #48|@The-Fastest-Bot|2314
 #49|@Alehkine_cat|2312
-#50|@VEER-OMEGA-BOT|2307
-#51|@Dean_Summer_Bot|2305
+#50|@Dean_Summer_Bot|2305
+#51|@VEER-OMEGA-BOT|2297
 #52|@PsychedelicAtomic|2296
 #53|@AndromedaSX1|2284
 #54|@vrnts_colinbot|2282
@@ -131,8 +131,8 @@ Rank|Bot|Rating
 #129|@Breeze-Hot|2006
 #130|@CatBot329|2000
 #131|@Zer0_Tw0|1991
-#132|@BigBrainen|1984
-#133|@colinbot|1976
+#132|@colinbot|1985
+#133|@BigBrainen|1984
 #134|@relevantproblem|1976
 #135|@All_Except_Chess960|1975
 #136|@Sub_Bot|1974

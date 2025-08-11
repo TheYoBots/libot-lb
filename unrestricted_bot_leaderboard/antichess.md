@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
 #32|@Kizbuurb|2621
-#33|@colinbot|2616
+#33|@colinbot|2618
 #34|@KingfishX|2612
 #35|@bananaaaaaaaaa_test|2608
 #36|@IAMSTOCKFISH123|2603
@@ -79,11 +79,11 @@ Rank|Bot|Rating
 #77|@DrSmartBugs|2412
 #78|@AttackingOrDefending|2409
 #79|@BitExtender128|2403
-#80|@anti-bot|2398
-#81|@ESC_BOT|2394
-#82|@CatBot_14|2393
-#83|@NormalBulletBot|2393
-#84|@AldoGamer001_Bot|2376
+#80|@ESC_BOT|2394
+#81|@CatBot_14|2393
+#82|@NormalBulletBot|2393
+#83|@AldoGamer001_Bot|2376
+#84|@anti-bot|2376
 #85|@Resolved-Bot|2369
 #86|@Trumpfor2O2O|2366
 #87|@HuxZero|2361
@@ -101,7 +101,7 @@ Rank|Bot|Rating
 #99|@BromiumAI|2302
 #100|@EvenMatchup|2302
 #101|@GodelEscherBot|2284
-#102|@OpeningsBot|2281
+#102|@OpeningsBot|2282
 #103|@Dean_Summer_Bot|2279
 #104|@Johnsun|2269
 #105|@SkyBlaster|2254

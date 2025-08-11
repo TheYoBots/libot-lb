@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@ChessVBOT|2531
 #18|@Coolman2021|2527
 #19|@EmptikBot|2526
-#20|@VEER-OMEGA-BOT|2517
+#20|@VEER-OMEGA-BOT|2522
 #21|@Nebulogic|2514
 #22|@SCP079|2513
 #23|@OceanicAbyssalord|2497
@@ -53,9 +53,9 @@ Rank|Bot|Rating
 #51|@CloudBot_v2|2331
 #52|@ElPeonElectrico|2326
 #53|@Bot_AOOP11|2314
-#54|@colinbot|2312
-#55|@KingfishX|2312
-#56|@Viet-BOT|2312
+#54|@KingfishX|2312
+#55|@Viet-BOT|2312
+#56|@colinbot|2309
 #57|@IAMSTOCKFISH123|2307
 #58|@NormalBulletBot|2291
 #59|@YoBot_v2|2287
@@ -89,8 +89,8 @@ Rank|Bot|Rating
 #87|@PetersTestBot|2081
 #88|@CloudBOT|2073
 #89|@JustDontFlagMe|2048
-#90|@OpeningsBot|2046
-#91|@Stockfish-MEDIUM|2043
+#90|@Stockfish-MEDIUM|2043
+#91|@OpeningsBot|2039
 #92|@Crepusculum|2036
 #93|@bananaaaaaaaaa_test|2031
 #94|@EstmileBot|2018

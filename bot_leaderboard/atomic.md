@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@NimsiluBot|2642
 #2|@ToromBot|2546
 #3|@RaspFish|2507
-#4|@VEER-OMEGA-BOT|2307
-#5|@colinbot|1976
+#4|@VEER-OMEGA-BOT|2297
+#5|@colinbot|1985
 #6|@OpeningsBot|1909
 #7|@pawnrobot|1272
