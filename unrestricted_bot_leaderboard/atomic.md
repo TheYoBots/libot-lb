@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@MaggiChess16|2698
 #4|@AlfaBot|2674
 #5|@EmptikVariantsBot|2671
-#6|@NimsiluBot|2642
+#6|@NimsiluBot|2645
 #7|@Fairy_Belzedar|2628
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@ToromBot|2546
+#14|@ToromBot|2545
 #15|@NecroMindX|2542
 #16|@ttBOT|2540
 #17|@BitExtender128|2526
@@ -302,9 +302,9 @@ Rank|Bot|Rating
 #300|@XXXTryandTryXXX|1280
 #301|@legendbot1|1277
 #302|@PranavChessBot|1273
-#303|@pawnrobot|1272
-#304|@SkyBlaster|1269
-#305|@Galaxy_Guardian|1265
+#303|@SkyBlaster|1269
+#304|@Galaxy_Guardian|1265
+#305|@pawnrobot|1263
 #306|@Bot-31795|1258
 #307|@Mr-Bob|1258
 #308|@NarratingSince86|1258

@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@RaspFish|2417
 #3|@colinbot|2249
 #4|@OpeningsBot|1927
-#5|@Groot123456|1716
-#6|@DavidsGuterBot|1566
+#5|@Groot123456|1705
+#6|@DavidsGuterBot|1577
 #7|@pawnrobot|1262

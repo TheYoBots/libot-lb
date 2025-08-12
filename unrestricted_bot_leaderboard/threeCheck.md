@@ -105,8 +105,8 @@ Rank|Bot|Rating
 #103|@No_Username2|1741
 #104|@NotNateBot|1731
 #105|@Crepusculum|1724
-#106|@Groot123456|1716
-#107|@SUMEETTHEPRO|1708
+#106|@SUMEETTHEPRO|1708
+#107|@Groot123456|1705
 #108|@Yemmi-Yemmi|1702
 #109|@clueless-bot|1685
 #110|@NormalBulletBot|1657
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Botkingteam33|1633
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
-#116|@DavidsGuterBot|1566
+#116|@DavidsGuterBot|1577
 #117|@knight_128|1563
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@MasterofChessBOT800|1391
 #146|@HiddeNL|1385
 #147|@apraz|1383
-#148|@DanerdBot|1372
+#148|@DanerdBot|1363
 #149|@Bottios|1323
 #150|@TTC-BOT_2|1322
 #151|@cool_boy_bot|1321

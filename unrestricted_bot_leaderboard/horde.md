@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@FireFishBOT|2726
 #8|@PepsiForAll|2699
 #9|@ttBOT|2584
-#10|@ToromBot|2539
-#11|@NimsiluBot|2515
+#10|@NimsiluBot|2535
+#11|@ToromBot|2523
 #12|@Nerubatskyi_Daniil_v|2471
 #13|@EmptikVariantsBot|2402
 #14|@EmptikBot|2378
