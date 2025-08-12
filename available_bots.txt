@@ -873,6 +873,7 @@ dragon_1906
 dragon_shadow_bot
 dragonballzfan
 dragonbot-77
+dragonclash
 dragonflybot
 dragonrosedev
 dranzer154
@@ -2709,6 +2710,7 @@ superjerobot
 superleela
 superman-chess
 superstockfish
+supranova_v11
 survivalfish-light
 swallow_that_l
 swankychess
@@ -3180,5 +3182,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-dragonclash
-supranova_v11
+yuki_1324

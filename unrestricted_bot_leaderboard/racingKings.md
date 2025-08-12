@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@Bot_AOOP11|2314
 #54|@KingfishX|2312
 #55|@Viet-BOT|2312
-#56|@colinbot|2309
+#56|@colinbot|2311
 #57|@IAMSTOCKFISH123|2307
 #58|@NormalBulletBot|2291
 #59|@YoBot_v2|2287
@@ -90,9 +90,9 @@ Rank|Bot|Rating
 #88|@CloudBOT|2073
 #89|@JustDontFlagMe|2048
 #90|@Stockfish-MEDIUM|2043
-#91|@OpeningsBot|2039
-#92|@Crepusculum|2036
-#93|@bananaaaaaaaaa_test|2031
+#91|@Crepusculum|2036
+#92|@bananaaaaaaaaa_test|2031
+#93|@OpeningsBot|2023
 #94|@EstmileBot|2018
 #95|@Less_of_a_threat|1979
 #96|@BGSBot|1969

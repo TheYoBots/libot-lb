@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@MaggiChess16|2698
 #4|@AlfaBot|2674
 #5|@EmptikVariantsBot|2671
-#6|@NimsiluBot|2645
+#6|@NimsiluBot|2646
 #7|@Fairy_Belzedar|2628
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@ToromBot|2545
+#14|@ToromBot|2549
 #15|@NecroMindX|2542
 #16|@ttBOT|2540
 #17|@BitExtender128|2526
@@ -28,9 +28,9 @@ Rank|Bot|Rating
 #26|@NormalBulletBot|2474
 #27|@LoseisnotAvailablehe|2466
 #28|@PepsiForAll|2448
-#29|@OceanicAbyssalord|2422
-#30|@ChessVBOT|2411
-#31|@Cloud_Classroom_Bot|2410
+#29|@Cloud_Classroom_Bot|2432
+#30|@OceanicAbyssalord|2422
+#31|@ChessVBOT|2411
 #32|@Fairy-Stockfish|2402
 #33|@abhisun_bot|2384
 #34|@KingfishX|2369
@@ -50,8 +50,8 @@ Rank|Bot|Rating
 #48|@The-Fastest-Bot|2314
 #49|@Alehkine_cat|2312
 #50|@Dean_Summer_Bot|2305
-#51|@VEER-OMEGA-BOT|2297
-#52|@PsychedelicAtomic|2296
+#51|@PsychedelicAtomic|2296
+#52|@VEER-OMEGA-BOT|2292
 #53|@AndromedaSX1|2284
 #54|@vrnts_colinbot|2282
 #55|@TheMatrix2029|2278
@@ -130,8 +130,8 @@ Rank|Bot|Rating
 #128|@are_bots_good|2006
 #129|@Breeze-Hot|2006
 #130|@CatBot329|2000
-#131|@Zer0_Tw0|1991
-#132|@colinbot|1985
+#131|@colinbot|1994
+#132|@Zer0_Tw0|1991
 #133|@BigBrainen|1984
 #134|@relevantproblem|1976
 #135|@All_Except_Chess960|1975
@@ -302,9 +302,9 @@ Rank|Bot|Rating
 #300|@XXXTryandTryXXX|1280
 #301|@legendbot1|1277
 #302|@PranavChessBot|1273
-#303|@SkyBlaster|1269
-#304|@Galaxy_Guardian|1265
-#305|@pawnrobot|1263
+#303|@pawnrobot|1269
+#304|@SkyBlaster|1269
+#305|@Galaxy_Guardian|1265
 #306|@Bot-31795|1258
 #307|@Mr-Bob|1258
 #308|@NarratingSince86|1258

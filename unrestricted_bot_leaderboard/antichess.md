@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@SCP079|2662
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
-#32|@Kizbuurb|2621
-#33|@colinbot|2618
+#32|@colinbot|2623
+#33|@Kizbuurb|2621
 #34|@KingfishX|2612
 #35|@bananaaaaaaaaa_test|2608
 #36|@IAMSTOCKFISH123|2603
@@ -83,9 +83,9 @@ Rank|Bot|Rating
 #81|@CatBot_14|2393
 #82|@NormalBulletBot|2393
 #83|@AldoGamer001_Bot|2376
-#84|@Resolved-Bot|2369
-#85|@Trumpfor2O2O|2366
-#86|@anti-bot|2365
+#84|@anti-bot|2376
+#85|@Resolved-Bot|2369
+#86|@Trumpfor2O2O|2366
 #87|@HuxZero|2361
 #88|@Less_of_a_threat|2357
 #89|@Viet_BOT|2354
