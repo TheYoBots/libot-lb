@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NimsiluBot|2646
+#1|@NimsiluBot|2605
 #2|@ToromBot|2550
 #3|@RaspFish|2507
 #4|@VEER-OMEGA-BOT|2292

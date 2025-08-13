@@ -1995,6 +1995,7 @@ neuroticbishop
 new-tie
 newchessengine-ai
 newengine2022
+newest_stockfish
 nexastrat
 nezh-bot
 nezuko_chess
@@ -3183,4 +3184,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-newest_stockfish
+the_hunterv2
+ccy-oficiall-bot
+sus2098
+cozbot

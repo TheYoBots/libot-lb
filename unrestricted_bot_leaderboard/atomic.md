@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@MaggiChess16|2698
 #4|@AlfaBot|2674
 #5|@EmptikVariantsBot|2671
-#6|@NimsiluBot|2646
-#7|@Fairy_Belzedar|2628
+#6|@Fairy_Belzedar|2628
+#7|@NimsiluBot|2605
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
 #10|@pistol-play|2590

@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@SCP079|2662
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
-#32|@Kizbuurb|2621
-#33|@colinbot|2619
+#32|@colinbot|2627
+#33|@Kizbuurb|2621
 #34|@KingfishX|2612
 #35|@bananaaaaaaaaa_test|2608
 #36|@IAMSTOCKFISH123|2603
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@ESC_BOT|2394
 #81|@CatBot_14|2393
 #82|@NormalBulletBot|2393
-#83|@anti-bot|2390
+#83|@anti-bot|2392
 #84|@AldoGamer001_Bot|2376
 #85|@Resolved-Bot|2369
 #86|@Trumpfor2O2O|2366
@@ -91,7 +91,7 @@ Rank|Bot|Rating
 #89|@Viet_BOT|2354
 #90|@higuyuu67776|2352
 #91|@Karpov_bot|2335
-#92|@NilatacBot|2335
+#92|@NilatacBot|2333
 #93|@TeamChelsie|2331
 #94|@AI69|2312
 #95|@Kizburb|2307
@@ -145,12 +145,12 @@ Rank|Bot|Rating
 #143|@CloudBOT|1950
 #144|@SriLankaChess|1925
 #145|@Crepusculum|1881
-#146|@Groot123456|1873
-#147|@NoTallkOnlyGames|1871
+#146|@NoTallkOnlyGames|1871
+#147|@Groot123456|1862
 #148|@Lumac0|1861
 #149|@Endogenetic-Bot|1859
 #150|@Pineapple-Friendly|1858
-#151|@pawnrobot|1832
+#151|@pawnrobot|1841
 #152|@MyNameIsWhatLOL|1826
 #153|@Bot2000|1807
 #154|@Emil_V2|1789

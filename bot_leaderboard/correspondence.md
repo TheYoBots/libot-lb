@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2339
-#2|@Shocky_BOT|2331
+#1|@OpeningsBot|2345
+#2|@Shocky_BOT|2325
 #3|@GarboBot|2005

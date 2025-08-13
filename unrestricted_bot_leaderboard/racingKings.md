@@ -15,11 +15,11 @@ Rank|Bot|Rating
 #13|@FireFishBOT|2547
 #14|@strain-on-veins|2545
 #15|@LudwigBOT|2536
-#16|@NimsiluBot|2534
-#17|@ChessVBOT|2531
+#16|@ChessVBOT|2531
+#17|@NimsiluBot|2529
 #18|@Coolman2021|2527
 #19|@EmptikBot|2526
-#20|@VEER-OMEGA-BOT|2517
+#20|@VEER-OMEGA-BOT|2521
 #21|@Nebulogic|2514
 #22|@SCP079|2513
 #23|@OceanicAbyssalord|2497
@@ -52,8 +52,8 @@ Rank|Bot|Rating
 #50|@ibep|2333
 #51|@CloudBot_v2|2331
 #52|@ElPeonElectrico|2326
-#53|@Bot_AOOP11|2314
-#54|@colinbot|2314
+#53|@colinbot|2315
+#54|@Bot_AOOP11|2314
 #55|@KingfishX|2312
 #56|@Viet-BOT|2312
 #57|@IAMSTOCKFISH123|2307
