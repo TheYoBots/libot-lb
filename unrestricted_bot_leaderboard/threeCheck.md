@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@ChessVBOT|2430
 #32|@RaspFish|2417
 #33|@OceanicAbyssalord|2393
-#34|@Viet_BOT|2367
-#35|@VEER-OMEGA-BOT|2363
+#34|@VEER-OMEGA-BOT|2371
+#35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
@@ -43,8 +43,8 @@ Rank|Bot|Rating
 #41|@CocopikachuBOT|2274
 #42|@TheMatrix2025|2272
 #43|@vrnts_colinbot|2266
-#44|@colinbot|2258
-#45|@YoBot_v2|2257
+#44|@YoBot_v2|2257
+#45|@colinbot|2254
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
 #48|@xiang-qi|2207
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Botkingteam33|1633
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
-#116|@DavidsGuterBot|1576
+#116|@DavidsGuterBot|1570
 #117|@knight_128|1563
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@MasterofChessBOT800|1391
 #146|@HiddeNL|1385
 #147|@apraz|1383
-#148|@DanerdBot|1363
+#148|@DanerdBot|1381
 #149|@Bottios|1323
 #150|@TTC-BOT_2|1322
 #151|@cool_boy_bot|1321

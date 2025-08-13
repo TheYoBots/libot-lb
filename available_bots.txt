@@ -3141,6 +3141,7 @@ yowcapablanca
 ytartofattackinchess
 yuetongbot2
 yukaribot
+yuki_1324
 yuki_bot
 yukoo-bot
 yuligpro5
@@ -3182,4 +3183,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-yuki_1324
+newest_stockfish

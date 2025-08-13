@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@DespacitoBot|1345
 #130|@weaklean|1338
 #131|@BinaryBrain|1299
-#132|@Groot123456|1291
+#132|@Groot123456|1289
 #133|@Nicholaswb_BOT|1288
 #134|@AEBROADUSBOTTER|1279
 #135|@ReallyCrazyBOT|1279
@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@PowerOnBot|1258
 #140|@xDmanBOT|1258
 #141|@yobmef|1258
-#142|@pawnrobot|1235
+#142|@pawnrobot|1237
 #143|@TheSystem_Bot|1218
 #144|@GuineaBot3|1212
 #145|@admin-bot|1209
