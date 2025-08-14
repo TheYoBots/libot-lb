@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@SCP079|2662
 #29|@MalanChess|2638
 #30|@vrnts_colinbot|2637
-#31|@colinbot|2627
+#31|@colinbot|2629
 #32|@Kizbuurb|2621
 #33|@KingfishX|2612
 #34|@bananaaaaaaaaa_test|2608
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@ESC_BOT|2394
 #80|@CatBot_14|2393
 #81|@NormalBulletBot|2393
-#82|@anti-bot|2390
+#82|@anti-bot|2388
 #83|@AldoGamer001_Bot|2376
 #84|@Resolved-Bot|2369
 #85|@Trumpfor2O2O|2366
@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@Lucror|2178
 #125|@lightspeed_bot|2152
 #126|@AntiChessBot|2142
-#127|@CatNail|2135
+#127|@CatNail|2137
 #128|@AnUtterlyKarBot|2134
 #129|@XXIstCentury|2131
 #130|@Stockfish-MEDIUM|2117
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@Lumac0|1861
 #149|@Endogenetic-Bot|1859
 #150|@Pineapple-Friendly|1858
-#151|@pawnrobot|1841
+#151|@pawnrobot|1839
 #152|@MyNameIsWhatLOL|1826
 #153|@Bot2000|1807
 #154|@Emil_V2|1789
