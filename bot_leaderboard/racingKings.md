@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@NimsiluBot|2529
 #4|@VEER-OMEGA-BOT|2521
 #5|@colinbot|2315
-#6|@OpeningsBot|2026
+#6|@OpeningsBot|2051

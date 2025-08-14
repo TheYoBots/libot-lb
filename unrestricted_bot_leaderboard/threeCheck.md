@@ -105,8 +105,8 @@ Rank|Bot|Rating
 #103|@No_Username2|1741
 #104|@NotNateBot|1731
 #105|@Crepusculum|1724
-#106|@SUMEETTHEPRO|1708
-#107|@Groot123456|1705
+#106|@Groot123456|1710
+#107|@SUMEETTHEPRO|1708
 #108|@Yemmi-Yemmi|1702
 #109|@clueless-bot|1685
 #110|@NormalBulletBot|1657
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Botkingteam33|1633
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
-#116|@DavidsGuterBot|1570
+#116|@DavidsGuterBot|1568
 #117|@knight_128|1563
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
@@ -157,8 +157,8 @@ Rank|Bot|Rating
 #155|@Light_To_The_Rescue|1277
 #156|@Sanjana_Kambala-BOT|1273
 #157|@TheLegendaryKnight|1272
-#158|@pawnrobot|1270
-#159|@EstmileBot|1269
+#158|@EstmileBot|1269
+#159|@pawnrobot|1268
 #160|@Parth_Dhage_2|1258
 #161|@MyNameIsWhatLOL|1256
 #162|@SneakyBot21|1256

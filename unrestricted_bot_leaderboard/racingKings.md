@@ -88,11 +88,11 @@ Rank|Bot|Rating
 #86|@Trumpfor2O2O|2103
 #87|@PetersTestBot|2081
 #88|@CloudBOT|2073
-#89|@JustDontFlagMe|2048
-#90|@Stockfish-MEDIUM|2043
-#91|@Crepusculum|2036
-#92|@bananaaaaaaaaa_test|2031
-#93|@OpeningsBot|2026
+#89|@OpeningsBot|2051
+#90|@JustDontFlagMe|2048
+#91|@Stockfish-MEDIUM|2043
+#92|@Crepusculum|2036
+#93|@bananaaaaaaaaa_test|2031
 #94|@EstmileBot|2018
 #95|@Less_of_a_threat|1979
 #96|@BGSBot|1969

@@ -559,6 +559,7 @@ cbot801
 cc35bot
 ccrl-clover
 ccsf
+ccy-oficiall-bot
 cdreamer
 cdrill
 cdroid
@@ -735,6 +736,7 @@ cosettebot
 cosmic64
 cosmicebony
 cowboy_time
+cozbot
 cpu1990
 cpu1994
 cpu1998
@@ -2713,6 +2715,7 @@ superman-chess
 superstockfish
 supranova_v11
 survivalfish-light
+sus2098
 swallow_that_l
 swankychess
 swarnimclone
@@ -2778,6 +2781,7 @@ the_checkmating_bot
 the_construct
 the_devansh117
 the_dragon_bot
+the_hunterv2
 the_magnificent_bob
 the_marcus
 the_nicholas_bot
@@ -3184,7 +3188,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-the_hunterv2
-ccy-oficiall-bot
-sus2098
-cozbot
