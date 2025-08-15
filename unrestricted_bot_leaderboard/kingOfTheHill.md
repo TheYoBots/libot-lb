@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@B0T5_RU13|1835
 #93|@STockfishdestroyBot|1825
 #94|@AldoGamer001_Bot|1813
-#95|@OpeningsBot|1811
+#95|@OpeningsBot|1813
 #96|@admin-bot|1809
 #97|@The-Fastest-Bot|1809
 #98|@TheLegitLegend|1804
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
-#124|@DavidsGuterBot|1518
+#124|@DavidsGuterBot|1517
 #125|@Z-Move|1495
 #126|@TFRChessClub|1494
 #127|@hyperchessbot1|1493

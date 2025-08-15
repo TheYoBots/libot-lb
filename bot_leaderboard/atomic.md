@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@ToromBot|2551
 #3|@RaspFish|2507
 #4|@VEER-OMEGA-BOT|2295
-#5|@colinbot|1995
+#5|@colinbot|1993
 #6|@OpeningsBot|1909
 #7|@pawnrobot|1269

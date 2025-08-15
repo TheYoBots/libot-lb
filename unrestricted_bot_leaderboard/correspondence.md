@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2918
+#1|@fibonachi|2908
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2830
 #4|@MaggiChess16|2806
@@ -346,12 +346,12 @@ Rank|Bot|Rating
 #344|@RobotTigerSlav|1337
 #345|@IOs_bot|1336
 #346|@Jannik08_fan|1332
-#347|@TMFish|1321
-#348|@Awesome32|1316
-#349|@proustagm|1316
-#350|@elninodiablo|1312
-#351|@AKS-Mantissa|1310
-#352|@Cimille|1310
+#347|@Cimille|1324
+#348|@TMFish|1321
+#349|@Awesome32|1316
+#350|@proustagm|1316
+#351|@elninodiablo|1312
+#352|@AKS-Mantissa|1310
 #353|@BishoP-BOT|1306
 #354|@HappyDeepawali|1300
 #355|@heatseeker223|1300

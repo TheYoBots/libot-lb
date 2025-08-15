@@ -5,5 +5,5 @@ Rank|Bot|Rating
 #3|@colinbot|2262
 #4|@OpeningsBot|1922
 #5|@Groot123456|1710
-#6|@DavidsGuterBot|1570
+#6|@DavidsGuterBot|1572
 #7|@pawnrobot|1274

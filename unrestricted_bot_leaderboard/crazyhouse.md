@@ -38,10 +38,10 @@ Rank|Bot|Rating
 #36|@lord-bot|2329
 #37|@catalanbotI|2307
 #38|@Yemmi-Yemmi|2305
-#39|@ToromBot|2300
+#39|@ToromBot|2297
 #40|@Alehkine_cat|2283
-#41|@iplayonlyrandom|2282
-#42|@NimsiluBot|2280
+#41|@NimsiluBot|2283
+#42|@iplayonlyrandom|2282
 #43|@NormalBlitzBulletBot|2278
 #44|@MalanChess|2273
 #45|@BitExtender128|2272
@@ -191,7 +191,7 @@ Rank|Bot|Rating
 #189|@NightStarFox|1243
 #190|@Happy_One|1223
 #191|@edixonbot|1217
-#192|@pawnrobot|1203
+#192|@pawnrobot|1207
 #193|@Grand_MefBartu-BOT|1200
 #194|@FluffBallCuddly|1191
 #195|@heatseeker223|1191
@@ -208,7 +208,7 @@ Rank|Bot|Rating
 #206|@ZX-Chess|1011
 #207|@JPSBOT|958
 #208|@FireTorchV2|955
-#209|@DanerdBot|916
+#209|@DanerdBot|899
 #210|@RSVMentor|862
 #211|@GuineaBot3|845
 #212|@MateCheckCapture|828
