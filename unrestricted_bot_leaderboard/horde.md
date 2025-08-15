@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@Groot123456|1287
 #134|@AEBROADUSBOTTER|1279
 #135|@ReallyCrazyBOT|1279
-#136|@pawnrobot|1263
+#136|@pawnrobot|1261
 #137|@AbhijithHISBot|1258
 #138|@Humuhumunukunukuapu|1258
 #139|@Jannik08_fan|1258

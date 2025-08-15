@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@RaspFish|2310
 #4|@colinbot|1905
 #5|@OpeningsBot|1716
-#6|@pawnrobot|1263
+#6|@pawnrobot|1261
