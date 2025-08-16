@@ -983,6 +983,7 @@ entebot
 enyobot
 epiano_bot
 epimetheusbot
+epr_parsifal
 erickdejusu
 ericrosen102
 erobot
@@ -1355,6 +1356,7 @@ iathena
 ibbxefbot
 ibep
 icarusbot
+icbmsaregoated2
 icebolt194
 iceburnengine
 icysharkbot
@@ -2829,6 +2831,7 @@ theomegaone
 thepea
 thepepsiisgoingcrazy
 thepinecone1
+thequantumfish
 thera_engine
 theshadowengine
 thesystem_bot
@@ -3188,6 +3191,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-icbmsaregoated2
-thequantumfish
-epr_parsifal
+fiasco-bot
+lunanetengine
+geminiai

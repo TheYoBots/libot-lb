@@ -34,15 +34,15 @@ Rank|Bot|Rating
 #32|@RaspFish|2405
 #33|@OceanicAbyssalord|2393
 #34|@Viet_BOT|2367
-#35|@VEER-OMEGA-BOT|2356
+#35|@VEER-OMEGA-BOT|2364
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
 #39|@KingfishX|2285
 #40|@The-Fastest-Bot|2277
-#41|@colinbot|2275
-#42|@CocopikachuBOT|2274
-#43|@TheMatrix2025|2272
+#41|@CocopikachuBOT|2274
+#42|@TheMatrix2025|2272
+#43|@colinbot|2270
 #44|@vrnts_colinbot|2266
 #45|@YoBot_v2|2257
 #46|@Vinh_VariantsBot|2215
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Botkingteam33|1633
 #114|@jasans_bot|1621
 #115|@newengine2022|1588
-#116|@DavidsGuterBot|1563
+#116|@DavidsGuterBot|1566
 #117|@knight_128|1563
 #118|@Alehkine_cat|1549
 #119|@TrashBot|1519
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@MasterofChessBOT800|1391
 #146|@HiddeNL|1385
 #147|@apraz|1383
-#148|@DanerdBot|1369
+#148|@DanerdBot|1372
 #149|@Bottios|1323
 #150|@TTC-BOT_2|1322
 #151|@cool_boy_bot|1321
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@Sanjana_Kambala-BOT|1273
 #157|@TheLegendaryKnight|1272
 #158|@EstmileBot|1269
-#159|@pawnrobot|1265
+#159|@pawnrobot|1261
 #160|@Parth_Dhage_2|1258
 #161|@MyNameIsWhatLOL|1256
 #162|@SneakyBot21|1256

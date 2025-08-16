@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@PowerOnBot|2195
 #35|@UnDisstoppableBot|2193
 #36|@Amrobotone|2184
-#37|@InvinxibleFlxsh|2164
-#38|@HuxZero|2163
+#37|@HuxZero|2163
+#38|@InvinxibleFlxsh|2159
 #39|@Mega_BOT|2148
 #40|@AI69|2143
 #41|@RobotTigerSlav|2136
@@ -69,9 +69,9 @@ Rank|Bot|Rating
 #67|@XXIstCentury|1993
 #68|@CloudBOT|1986
 #69|@NormalBlitzBulletBot|1986
-#70|@TeamChelsie|1983
-#71|@Alehkine_cat|1980
-#72|@colinbot|1980
+#70|@colinbot|1983
+#71|@TeamChelsie|1983
+#72|@Alehkine_cat|1980
 #73|@ESC_BOT|1976
 #74|@Lila-Stockfish|1963
 #75|@chessbot2880|1961
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@Toxic_Bot|1541
 #122|@SXDEFENDER|1534
 #123|@Light_To_The_Rescue|1523
-#124|@DavidsGuterBot|1508
+#124|@DavidsGuterBot|1506
 #125|@Z-Move|1495
 #126|@TFRChessClub|1494
 #127|@hyperchessbot1|1493
@@ -150,8 +150,8 @@ Rank|Bot|Rating
 #148|@Sanjana_Kambala-BOT|1355
 #149|@VedanthS-Bot|1353
 #150|@allvariants|1348
-#151|@BinaryBrain|1341
-#152|@DanerdBot|1320
+#151|@DanerdBot|1344
+#152|@BinaryBrain|1341
 #153|@THEANDROIDBOT|1317
 #154|@Challengeme2anything|1307
 #155|@NoTallkOnlyGames|1291
@@ -162,7 +162,7 @@ Rank|Bot|Rating
 #160|@knight_128|1233
 #161|@MyNameIsSpeedy|1226
 #162|@Bottios|1223
-#163|@pawnrobot|1216
+#163|@pawnrobot|1214
 #164|@RSVMentor|1196
 #165|@Boom_Bot|1176
 #166|@TrashBot|1168
