@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@catalanbotI|2307
 #38|@Yemmi-Yemmi|2305
 #39|@ToromBot|2297
-#40|@Alehkine_cat|2283
-#41|@NimsiluBot|2283
+#40|@NimsiluBot|2287
+#41|@Alehkine_cat|2283
 #42|@iplayonlyrandom|2282
 #43|@NormalBlitzBulletBot|2278
 #44|@MalanChess|2273
@@ -97,7 +97,7 @@ Rank|Bot|Rating
 #95|@legendbot1|1866
 #96|@MyNameIsSpeeedy|1861
 #97|@Bot_AOOP11|1858
-#98|@colinbot|1845
+#98|@colinbot|1843
 #99|@AnUtterlyKarBot|1829
 #100|@Dong_Xiao_Yuan|1829
 #101|@SugarAndSpice|1828

@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@Magnus-BOT|1923
 #52|@MalanChess|1921
 #53|@NormalBlitzBulletBot|1915
-#54|@colinbot|1905
+#54|@colinbot|1904
 #55|@MMC_HUANGBAI|1903
 #56|@XXIstCentury|1902
 #57|@AnUtterlyKarBot|1901
