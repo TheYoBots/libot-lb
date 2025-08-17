@@ -4,9 +4,9 @@ Rank|Bot|Rating
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
-#5|@NimsiluBot|2964
+#5|@NimsiluBot|2966
 #6|@EmptikVariantsBot|2957
-#7|@ToromBot|2909
+#7|@ToromBot|2911
 #8|@Coolman2021|2879
 #9|@TheMatrix2029|2866
 #10|@UltronBot|2859
@@ -28,9 +28,9 @@ Rank|Bot|Rating
 #26|@LoseisnotAvailablehe|2677
 #27|@AntichessAnalyzer|2673
 #28|@SCP079|2662
-#29|@colinbot|2639
-#30|@MalanChess|2638
-#31|@vrnts_colinbot|2637
+#29|@MalanChess|2638
+#30|@vrnts_colinbot|2637
+#31|@colinbot|2636
 #32|@Kizbuurb|2621
 #33|@KingfishX|2612
 #34|@bananaaaaaaaaa_test|2608
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@ESC_BOT|2394
 #80|@CatBot_14|2393
 #81|@NormalBulletBot|2393
-#82|@anti-bot|2382
+#82|@anti-bot|2388
 #83|@AldoGamer001_Bot|2376
 #84|@Resolved-Bot|2369
 #85|@Trumpfor2O2O|2366
@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@Stockfish-MEDIUM|2117
 #130|@PyChessBot|2102
 #131|@TurkiyeHogwartsBOT|2099
-#132|@CatNail|2074
+#132|@CatNail|2065
 #133|@ZamuChess|2049
 #134|@Botzer|2020
 #135|@Jussicas|2019
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@Lumac0|1861
 #149|@Endogenetic-Bot|1859
 #150|@Pineapple-Friendly|1858
-#151|@pawnrobot|1832
+#151|@pawnrobot|1846
 #152|@MyNameIsWhatLOL|1826
 #153|@Bot2000|1807
 #154|@Emil_V2|1789

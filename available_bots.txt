@@ -1049,6 +1049,7 @@ felinebot
 felixleonidovich
 fender_bender
 fenich
+fiasco-bot
 fib0t
 fibonachi
 fightertristan
@@ -1143,6 +1144,7 @@ gcnbyfaye
 gecko_bot
 geemc
 gegenebot
+geminiai
 genericbot
 genetic_chess_bot
 gengochan
@@ -1749,6 +1751,7 @@ luhut_robot
 lumac0
 lunabottest
 lunachessengine
+lunanetengine
 lunarengine
 lunaticengine
 lurch_0
@@ -3191,6 +3194,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-fiasco-bot
-lunanetengine
-geminiai
+laquaisha
+pruningbot
