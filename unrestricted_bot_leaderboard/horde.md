@@ -14,13 +14,13 @@ Rank|Bot|Rating
 #12|@Nerubatskyi_Daniil_v|2471
 #13|@EmptikVariantsBot|2402
 #14|@EmptikBot|2378
-#15|@LoseisnotAvailablehe|2369
-#16|@lord-bot|2362
-#17|@Hyper-Stockfish|2358
-#18|@Cloud_Classroom_Bot|2356
+#15|@Cloud_Classroom_Bot|2377
+#16|@LoseisnotAvailablehe|2369
+#17|@lord-bot|2362
+#18|@Hyper-Stockfish|2358
 #19|@NecroMindX|2336
 #20|@OceanicAbyssalord|2333
-#21|@RaspFish|2310
+#21|@RaspFish|2313
 #22|@AlfaBot|2293
 #23|@Fairy-Stockfish|2289
 #24|@Kizburb|2276
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@AnUtterlyKarBot|1901
 #57|@azdad|1901
 #58|@newengine2022|1901
-#59|@colinbot|1892
+#59|@colinbot|1888
 #60|@mrchessmanager|1888
 #61|@TheMatrix2029|1884
 #62|@TeamChelsie|1869
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@Groot123456|1287
 #134|@AEBROADUSBOTTER|1279
 #135|@ReallyCrazyBOT|1279
-#136|@pawnrobot|1261
+#136|@pawnrobot|1260
 #137|@AbhijithHISBot|1258
 #138|@Humuhumunukunukuapu|1258
 #139|@Jannik08_fan|1258

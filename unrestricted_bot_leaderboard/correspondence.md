@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2908
+#1|@fibonachi|2910
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2830
 #4|@MaggiChess16|2806
@@ -28,11 +28,11 @@ Rank|Bot|Rating
 #26|@HulkBot|2387
 #27|@MehFish|2376
 #28|@Mega_BOT|2371
-#29|@OpeningsBot|2356
+#29|@OpeningsBot|2355
 #30|@CorrespondenceBot|2353
 #31|@duchessAI|2344
 #32|@HansNiemannBot|2338
-#33|@Shocky_BOT|2314
+#33|@Shocky_BOT|2315
 #34|@bekbot|2307
 #35|@Magnus-BOT|2304
 #36|@Xmas_dragon|2300

@@ -1592,6 +1592,7 @@ laira_z
 lalis1
 lamanodetal
 lapischesszero
+laquaisha
 lastwill
 laurentos_bot
 laurin03
@@ -2258,6 +2259,7 @@ proteussfx-ai
 protocol_2
 proud_tamil_bot
 proustagm
+pruningbot
 pseudo-0
 pseudo-1
 pseudonoixe
@@ -3194,5 +3196,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-laquaisha
-pruningbot
+legend_engine

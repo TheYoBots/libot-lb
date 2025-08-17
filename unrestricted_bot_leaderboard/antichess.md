@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@TorBot|2824
 #13|@WennDieSoldatBOT|2818
 #14|@OceanicAbyssalord|2814
-#15|@RaspFish|2806
+#15|@RaspFish|2810
 #16|@lord-bot|2789
 #17|@FireFishBOT|2785
 #18|@VariantsTop|2765
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@ESC_BOT|2394
 #80|@CatBot_14|2393
 #81|@NormalBulletBot|2393
-#82|@anti-bot|2388
+#82|@anti-bot|2381
 #83|@AldoGamer001_Bot|2376
 #84|@Resolved-Bot|2369
 #85|@Trumpfor2O2O|2366
@@ -91,8 +91,8 @@ Rank|Bot|Rating
 #89|@higuyuu67776|2352
 #90|@Karpov_bot|2335
 #91|@TeamChelsie|2331
-#92|@NilatacBot|2328
-#93|@NecroMindX|2326
+#92|@NecroMindX|2326
+#93|@NilatacBot|2326
 #94|@AI69|2312
 #95|@Kizburb|2307
 #96|@MagicverseBOT|2306
