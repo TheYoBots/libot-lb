@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@NimsiluBot|2536
 #11|@ToromBot|2523
 #12|@Nerubatskyi_Daniil_v|2471
-#13|@EmptikVariantsBot|2402
-#14|@Cloud_Classroom_Bot|2387
+#13|@Cloud_Classroom_Bot|2416
+#14|@EmptikVariantsBot|2402
 #15|@EmptikBot|2378
 #16|@LoseisnotAvailablehe|2369
 #17|@lord-bot|2362
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@AnUtterlyKarBot|1901
 #57|@azdad|1901
 #58|@newengine2022|1901
-#59|@colinbot|1888
-#60|@mrchessmanager|1888
+#59|@mrchessmanager|1888
+#60|@colinbot|1886
 #61|@TheMatrix2029|1884
 #62|@TeamChelsie|1869
 #63|@B0T5_RU13|1852

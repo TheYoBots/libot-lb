@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@KizVariant|2597
 #10|@pistol-play|2590
 #11|@Bharat_royals|2575
-#12|@UltronBot|2556
-#13|@Viet-AI|2556
-#14|@ToromBot|2555
+#12|@ToromBot|2557
+#13|@UltronBot|2556
+#14|@Viet-AI|2556
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@Alehkine_cat|2312
 #50|@Dean_Summer_Bot|2305
 #51|@PsychedelicAtomic|2296
-#52|@VEER-OMEGA-BOT|2287
+#52|@VEER-OMEGA-BOT|2290
 #53|@AndromedaSX1|2284
 #54|@vrnts_colinbot|2282
 #55|@TheMatrix2029|2278
@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@HuxZero|2035
 #125|@EasyWinGG|2032
 #126|@Kizbuurb|2024
-#127|@colinbot|2019
+#127|@colinbot|2016
 #128|@ESC_BOT|2011
 #129|@are_bots_good|2006
 #130|@Breeze-Hot|2006

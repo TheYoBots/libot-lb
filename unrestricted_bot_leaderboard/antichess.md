@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
 #15|@OceanicAbyssalord|2814
-#16|@RaspFish|2810
+#16|@RaspFish|2800
 #17|@lord-bot|2789
 #18|@FireFishBOT|2785
 #19|@VariantsTop|2765
@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@LoseisnotAvailablehe|2677
 #28|@AntichessAnalyzer|2673
 #29|@SCP079|2662
-#30|@MalanChess|2638
-#31|@vrnts_colinbot|2637
-#32|@colinbot|2629
+#30|@colinbot|2639
+#31|@MalanChess|2638
+#32|@vrnts_colinbot|2637
 #33|@Kizbuurb|2621
 #34|@KingfishX|2612
 #35|@bananaaaaaaaaa_test|2608
@@ -83,10 +83,10 @@ Rank|Bot|Rating
 #81|@CatBot_14|2393
 #82|@NormalBulletBot|2393
 #83|@AldoGamer001_Bot|2376
-#84|@anti-bot|2371
-#85|@Resolved-Bot|2369
-#86|@Trumpfor2O2O|2366
-#87|@HuxZero|2361
+#84|@Resolved-Bot|2369
+#85|@Trumpfor2O2O|2366
+#86|@HuxZero|2361
+#87|@anti-bot|2359
 #88|@Less_of_a_threat|2357
 #89|@Viet_BOT|2354
 #90|@higuyuu67776|2352
@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@CloudBOT|1950
 #145|@SriLankaChess|1925
 #146|@Crepusculum|1881
-#147|@NoTallkOnlyGames|1871
-#148|@Groot123456|1870
+#147|@Groot123456|1871
+#148|@NoTallkOnlyGames|1871
 #149|@Lumac0|1861
 #150|@Endogenetic-Bot|1859
 #151|@Pineapple-Friendly|1858
