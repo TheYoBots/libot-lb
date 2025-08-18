@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@HulkBot|2387
 #27|@MehFish|2376
 #28|@Mega_BOT|2371
-#29|@OpeningsBot|2355
+#29|@OpeningsBot|2358
 #30|@CorrespondenceBot|2353
 #31|@duchessAI|2344
 #32|@HansNiemannBot|2338
@@ -136,12 +136,12 @@ Rank|Bot|Rating
 #134|@MalanChess|2020
 #135|@RoyalLeela|2014
 #136|@SchachProg|2010
-#137|@GarboBot|2005
-#138|@ElPeonElectrico|2004
-#139|@zeekat|2004
+#137|@ElPeonElectrico|2004
+#138|@zeekat|2004
+#139|@GarboBot|2003
 #140|@honzovy-sachy|2002
 #141|@TESTBOT23|2000
-#142|@RadianceEngine|1999
+#142|@RadianceEngine|1995
 #143|@Zer0_Tw0|1992
 #144|@YoBot_v2|1984
 #145|@Virutor|1980
