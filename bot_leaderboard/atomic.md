@@ -6,4 +6,4 @@ Rank|Bot|Rating
 #4|@VEER-OMEGA-BOT|2290
 #5|@colinbot|2016
 #6|@OpeningsBot|1911
-#7|@pawnrobot|1261
+#7|@pawnrobot|1259

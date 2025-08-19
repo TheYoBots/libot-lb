@@ -4,9 +4,9 @@ Rank|Bot|Rating
 #2|@ToromBot|2911
 #3|@RaspFish|2800
 #4|@colinbot|2639
-#5|@anti-bot|2359
+#5|@anti-bot|2366
 #6|@NilatacBot|2326
-#7|@OpeningsBot|2271
+#7|@OpeningsBot|2266
 #8|@CatNail|2065
 #9|@Groot123456|1871
 #10|@pawnrobot|1846

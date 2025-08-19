@@ -147,8 +147,8 @@ Rank|Bot|Rating
 #145|@RochadeSchachzeitung|1392
 #146|@MasterofChessBOT800|1391
 #147|@HiddeNL|1385
-#148|@apraz|1383
-#149|@DanerdBot|1376
+#148|@DanerdBot|1384
+#149|@apraz|1383
 #150|@Bottios|1323
 #151|@TTC-BOT_2|1322
 #152|@cool_boy_bot|1321
@@ -162,7 +162,7 @@ Rank|Bot|Rating
 #160|@Parth_Dhage_2|1258
 #161|@MyNameIsWhatLOL|1256
 #162|@SneakyBot21|1256
-#163|@pawnrobot|1252
+#163|@pawnrobot|1248
 #164|@TORTADEMANZANA023|1233
 #165|@heatseeker223|1191
 #166|@admin-bot|1188

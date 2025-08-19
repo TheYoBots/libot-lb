@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@knight_128|2144
 #84|@Kizburb|2126
 #85|@mc-king-098|2124
-#86|@OpeningsBot|2123
+#86|@OpeningsBot|2114
 #87|@xiang-qi|2113
 #88|@atomicli|2111
 #89|@Trumpfor2O2O|2103

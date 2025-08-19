@@ -308,7 +308,7 @@ Rank|Bot|Rating
 #306|@PranavChessBot|1273
 #307|@SkyBlaster|1269
 #308|@Galaxy_Guardian|1265
-#309|@pawnrobot|1261
+#309|@pawnrobot|1259
 #310|@Bot-31795|1258
 #311|@Mr-Bob|1258
 #312|@NarratingSince86|1258
