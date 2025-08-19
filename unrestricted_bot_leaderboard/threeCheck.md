@@ -80,8 +80,8 @@ Rank|Bot|Rating
 #78|@pistol-play|1939
 #79|@PROBOT123567|1936
 #80|@PetersTestBot|1935
-#81|@Lila-Stockfish|1917
-#82|@OpeningsBot|1915
+#81|@OpeningsBot|1928
+#82|@Lila-Stockfish|1917
 #83|@SkyBlaster|1913
 #84|@HyperLitikBOT|1908
 #85|@PowerOnBot|1894

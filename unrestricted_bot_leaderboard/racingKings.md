@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@ToromBot|2548
 #14|@FireFishBOT|2547
 #15|@strain-on-veins|2545
-#16|@LudwigBOT|2536
-#17|@NimsiluBot|2534
-#18|@VEER-OMEGA-BOT|2532
+#16|@VEER-OMEGA-BOT|2540
+#17|@LudwigBOT|2536
+#18|@NimsiluBot|2534
 #19|@ChessVBOT|2531
 #20|@Coolman2021|2527
 #21|@EmptikBot|2526
@@ -54,10 +54,10 @@ Rank|Bot|Rating
 #52|@CloudBot_v2|2331
 #53|@ElPeonElectrico|2326
 #54|@Bot_AOOP11|2314
-#55|@colinbot|2313
-#56|@KingfishX|2312
-#57|@Viet-BOT|2312
-#58|@IAMSTOCKFISH123|2307
+#55|@KingfishX|2312
+#56|@Viet-BOT|2312
+#57|@IAMSTOCKFISH123|2307
+#58|@colinbot|2305
 #59|@NormalBulletBot|2291
 #60|@YoBot_v2|2287
 #61|@AlfaBot|2278
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@knight_128|2144
 #84|@Kizburb|2126
 #85|@mc-king-098|2124
-#86|@OpeningsBot|2114
+#86|@OpeningsBot|2117
 #87|@xiang-qi|2113
 #88|@atomicli|2111
 #89|@Trumpfor2O2O|2103
