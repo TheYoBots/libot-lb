@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2830
 #4|@MaggiChess16|2806
-#5|@Moment-That-Inspires|2706
+#5|@Moment-That-Inspires|2713
 #6|@PetersBot|2697
 #7|@pawn_git|2660
 #8|@H-Zero|2650
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@MehFish|2376
 #28|@Mega_BOT|2371
 #29|@CorrespondenceBot|2353
-#30|@OpeningsBot|2349
+#30|@OpeningsBot|2347
 #31|@duchessAI|2344
 #32|@HansNiemannBot|2338
 #33|@Shocky_BOT|2318
