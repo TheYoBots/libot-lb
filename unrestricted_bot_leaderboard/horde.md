@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Hyper-Stockfish|2358
 #18|@NecroMindX|2336
 #19|@OceanicAbyssalord|2333
-#20|@RaspFish|2315
+#20|@RaspFish|2316
 #21|@AlfaBot|2293
 #22|@Fairy-Stockfish|2289
 #23|@Kizburb|2276
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@azdad|1901
 #57|@newengine2022|1901
 #58|@mrchessmanager|1888
-#59|@colinbot|1886
+#59|@colinbot|1885
 #60|@TheMatrix2029|1884
 #61|@TeamChelsie|1869
 #62|@B0T5_RU13|1852
@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@PowerOnBot|1258
 #140|@xDmanBOT|1258
 #141|@yobmef|1258
-#142|@pawnrobot|1257
+#142|@pawnrobot|1256
 #143|@TheSystem_Bot|1218
 #144|@GuineaBot3|1212
 #145|@admin-bot|1209
