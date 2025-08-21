@@ -113,8 +113,8 @@ Rank|Bot|Rating
 #111|@QuickLiquid|1689
 #112|@SCP079|1660
 #113|@OceanicOmegalord|1657
-#114|@chessemkabot|1625
-#115|@Groot123456|1622
+#114|@Groot123456|1631
+#115|@chessemkabot|1625
 #116|@CoderDen732|1621
 #117|@Breeze-Hot|1606
 #118|@Just-a-random-bot|1604
@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@Toxic_Bot|1541
 #123|@SXDEFENDER|1534
 #124|@Light_To_The_Rescue|1523
-#125|@DavidsGuterBot|1503
+#125|@DavidsGuterBot|1499
 #126|@Z-Move|1495
 #127|@TFRChessClub|1494
 #128|@hyperchessbot1|1493

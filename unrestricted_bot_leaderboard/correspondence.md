@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@Mega_BOT|2371
 #29|@CorrespondenceBot|2353
 #30|@duchessAI|2344
-#31|@OpeningsBot|2342
+#31|@OpeningsBot|2344
 #32|@HansNiemannBot|2338
 #33|@Shocky_BOT|2325
 #34|@bekbot|2307
@@ -141,8 +141,8 @@ Rank|Bot|Rating
 #139|@honzovy-sachy|2002
 #140|@GarboBot|2000
 #141|@TESTBOT23|2000
-#142|@RadianceEngine|1995
-#143|@Zer0_Tw0|1992
+#142|@Zer0_Tw0|1992
+#143|@RadianceEngine|1991
 #144|@YoBot_v2|1984
 #145|@Virutor|1980
 #146|@Bobby_Fishcer_Bot|1976

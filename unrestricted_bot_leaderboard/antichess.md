@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@AldoGamer001_Bot|2376
 #85|@Resolved-Bot|2369
 #86|@Trumpfor2O2O|2366
-#87|@anti-bot|2364
+#87|@anti-bot|2362
 #88|@HuxZero|2361
 #89|@Less_of_a_threat|2357
 #90|@Viet_BOT|2354
