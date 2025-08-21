@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NimsiluBot|2409
-#2|@ToromBot|2409
+#1|@NimsiluBot|2425
+#2|@ToromBot|2397
 #3|@RaspFish|2285
 #4|@InvinxibleFlxsh|2161
-#5|@colinbot|1996
-#6|@OpeningsBot|1818
-#7|@DavidsGuterBot|1499
-#8|@pawnrobot|1205
+#5|@colinbot|1998
+#6|@OpeningsBot|1811
+#7|@DavidsGuterBot|1501
+#8|@pawnrobot|1204

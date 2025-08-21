@@ -29,10 +29,10 @@ Rank|Bot|Rating
 #27|@MehFish|2376
 #28|@Mega_BOT|2371
 #29|@CorrespondenceBot|2353
-#30|@duchessAI|2344
-#31|@OpeningsBot|2344
+#30|@OpeningsBot|2348
+#31|@duchessAI|2344
 #32|@HansNiemannBot|2338
-#33|@Shocky_BOT|2325
+#33|@Shocky_BOT|2320
 #34|@bekbot|2307
 #35|@Magnus-BOT|2304
 #36|@Xmas_dragon|2300

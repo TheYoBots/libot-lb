@@ -3200,3 +3200,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+gpt-5-mini-high

@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@Zer0_Tw0|2332
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
-#39|@colinbot|2289
+#39|@colinbot|2291
 #40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@pistol-play|1939
 #79|@PROBOT123567|1936
 #80|@PetersTestBot|1935
-#81|@OpeningsBot|1928
+#81|@OpeningsBot|1925
 #82|@Lila-Stockfish|1917
 #83|@SkyBlaster|1913
 #84|@HyperLitikBOT|1908
