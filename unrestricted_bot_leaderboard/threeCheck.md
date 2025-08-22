@@ -105,8 +105,8 @@ Rank|Bot|Rating
 #103|@CBNguyen_Bot|1741
 #104|@No_Username2|1741
 #105|@NotNateBot|1731
-#106|@Crepusculum|1724
-#107|@Groot123456|1722
+#106|@Groot123456|1726
+#107|@Crepusculum|1724
 #108|@SUMEETTHEPRO|1708
 #109|@Yemmi-Yemmi|1702
 #110|@clueless-bot|1685
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@jasans_bot|1621
 #116|@newengine2022|1588
 #117|@knight_128|1563
-#118|@DavidsGuterBot|1561
+#118|@DavidsGuterBot|1558
 #119|@Alehkine_cat|1549
 #120|@TrashBot|1519
 #121|@relevantproblem|1514

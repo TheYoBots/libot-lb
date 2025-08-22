@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@FireFishBOT|2547
 #15|@strain-on-veins|2545
 #16|@VEER-OMEGA-BOT|2543
-#17|@ToromBot|2538
+#17|@ToromBot|2541
 #18|@LudwigBOT|2536
 #19|@ChessVBOT|2531
 #20|@Coolman2021|2527
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@KingfishX|2312
 #56|@Viet-BOT|2312
 #57|@IAMSTOCKFISH123|2307
-#58|@colinbot|2305
+#58|@colinbot|2303
 #59|@NormalBulletBot|2291
 #60|@YoBot_v2|2287
 #61|@AlfaBot|2278

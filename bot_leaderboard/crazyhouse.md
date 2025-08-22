@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2244
-#2|@colinbot|1841
+#1|@ToromBot|2246
+#2|@colinbot|1840
 #3|@OpeningsBot|1655

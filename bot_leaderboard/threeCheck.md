@@ -5,6 +5,6 @@ Rank|Bot|Rating
 #3|@VEER-OMEGA-BOT|2342
 #4|@colinbot|2291
 #5|@OpeningsBot|1925
-#6|@Groot123456|1722
-#7|@DavidsGuterBot|1561
+#6|@Groot123456|1726
+#7|@DavidsGuterBot|1558
 #8|@pawnrobot|1248
