@@ -23,6 +23,9 @@ css_styles = """
       text-align: left;
     }
     .styled-table th {
+      background-color: #4b4d4e3f;
+    }
+    .styled-table tr:nth-child(even) {
       background-color: #f2f2f2;
     }
     body {
@@ -59,10 +62,10 @@ footer_styles = """
 </footer>
 """
 
-def generate_h1_tag(filename):
+def generate_h_tag(filename):
     title = os.path.splitext(filename)[0].capitalize()
-    h1_tag = f"<h1>{title} Leaderboard</h1>"
-    return h1_tag
+    h_tag = f'<h1>{title} Leaderboard</h1><h3 align="center"><a href="/bot">Bot Leaderboard (with rules)</a> | <a href="/unrestricted">Bot Leaderboard (without rules)</h3>'
+    return h_tag
 
 def markdown_table_to_html(markdown_table):
     rows = markdown_table.strip().split('\n')
@@ -105,12 +108,12 @@ for directory in directories:
                     f = "king of the hill.md"
                 else:
                     f = "racing kings.md"
-                h1_tag = generate_h1_tag(f)
+                h1_tag = generate_h_tag(f)
 
                 markdown_table = md_file.read()
                 html_table = markdown_table_to_html(markdown_table)
 
-                styled_html_table = css_styles + h1_tag + html_table + footer_styles
+                styled_html_table = css_styles + h_tag + html_table + footer_styles
 
                 html_filename = os.path.splitext(filename)[0] + '.html'
                 with open(os.path.join(directory, html_filename), 'w') as html_file:
