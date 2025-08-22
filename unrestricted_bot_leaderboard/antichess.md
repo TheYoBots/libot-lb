@@ -3,10 +3,10 @@ Rank|Bot|Rating
 #1|@EmptikBot|3070
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
-#4|@UltimateVariants|2978
-#5|@NimsiluBot|2975
+#4|@ToromBot|2980
+#5|@UltimateVariants|2978
 #6|@EmptikVariantsBot|2957
-#7|@ToromBot|2935
+#7|@NimsiluBot|2933
 #8|@Coolman2021|2879
 #9|@TheMatrix2029|2866
 #10|@UltronBot|2859
@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
 #15|@OceanicAbyssalord|2814
-#16|@RaspFish|2798
+#16|@RaspFish|2804
 #17|@lord-bot|2789
 #18|@FireFishBOT|2785
 #19|@VariantsTop|2765
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@SCP079|2662
 #30|@MalanChess|2638
 #31|@vrnts_colinbot|2637
-#32|@colinbot|2631
+#32|@colinbot|2625
 #33|@Kizbuurb|2621
 #34|@KingfishX|2612
 #35|@bananaaaaaaaaa_test|2608
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@Stockfish-MEDIUM|2117
 #131|@PyChessBot|2102
 #132|@TurkiyeHogwartsBOT|2099
-#133|@CatNail|2070
+#133|@CatNail|2068
 #134|@ZamuChess|2049
 #135|@Botzer|2020
 #136|@Jussicas|2019
