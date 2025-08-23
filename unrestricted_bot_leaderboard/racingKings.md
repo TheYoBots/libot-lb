@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@RaspFish|2553
 #13|@NimsiluBot|2550
 #14|@FireFishBOT|2547
-#15|@strain-on-veins|2545
-#16|@VEER-OMEGA-BOT|2543
+#15|@VEER-OMEGA-BOT|2547
+#16|@strain-on-veins|2545
 #17|@ToromBot|2541
 #18|@LudwigBOT|2536
 #19|@ChessVBOT|2531
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@KingfishX|2312
 #57|@Viet-BOT|2312
 #58|@IAMSTOCKFISH123|2307
-#59|@colinbot|2297
+#59|@colinbot|2292
 #60|@NormalBulletBot|2291
 #61|@YoBot_v2|2287
 #62|@AlfaBot|2278
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@knight_128|2144
 #84|@Kizburb|2126
 #85|@mc-king-098|2124
-#86|@OpeningsBot|2114
+#86|@OpeningsBot|2117
 #87|@xiang-qi|2113
 #88|@atomicli|2111
 #89|@Trumpfor2O2O|2103

@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@CloudBOT|2393
 #30|@NienishiEngine|2392
 #31|@InvinxibleFlxsh|2387
-#32|@NimsiluBot|2377
+#32|@NimsiluBot|2368
 #33|@EagleEye2021|2365
 #34|@KingfishX|2347
 #35|@chesshyperbot|2344
@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@MalanChess|2273
 #44|@BitExtender128|2272
 #45|@MaggiChess16|2256
-#46|@Bobby_Fischer_BOT|2251
-#47|@ToromBot|2248
+#46|@ToromBot|2254
+#47|@Bobby_Fischer_BOT|2251
 #48|@OceanicOmegalord|2247
 #49|@OceanicAbyssalord|2246
 #50|@Mega_BOT|2240

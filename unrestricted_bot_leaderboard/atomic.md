@@ -53,8 +53,8 @@ Rank|Bot|Rating
 #51|@AndromedaSX1|2284
 #52|@vrnts_colinbot|2282
 #53|@TheMatrix2029|2278
-#54|@BGSBot|2272
-#55|@VEER-OMEGA-BOT|2270
+#54|@VEER-OMEGA-BOT|2274
+#55|@BGSBot|2272
 #56|@AtomicVsEngineBot|2268
 #57|@xiang-qi|2268
 #58|@CocopikachuBOT|2265
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@XXIstCentury|2061
 #120|@azdad|2047
 #121|@Less_of_a_threat|2047
-#122|@colinbot|2041
+#122|@colinbot|2038
 #123|@MagnusCarlsen1507|2037
 #124|@HuxZero|2035
 #125|@EasyWinGG|2032

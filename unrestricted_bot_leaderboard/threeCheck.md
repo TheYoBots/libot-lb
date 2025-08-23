@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@SCP079|2526
 #20|@NimsiluBot|2521
 #21|@ToromBot|2518
-#22|@InvinxibleFlxsh|2490
+#22|@InvinxibleFlxsh|2506
 #23|@Fairy-Stockfish|2484
 #24|@ESC_BOT|2476
 #25|@Less_of_a_threat|2469
@@ -39,9 +39,9 @@ Rank|Bot|Rating
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
 #39|@KingfishX|2285
-#40|@colinbot|2277
-#41|@The-Fastest-Bot|2277
-#42|@CocopikachuBOT|2274
+#40|@The-Fastest-Bot|2277
+#41|@CocopikachuBOT|2274
+#42|@colinbot|2272
 #43|@TheMatrix2025|2272
 #44|@vrnts_colinbot|2266
 #45|@YoBot_v2|2257
@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@XXXTryandTryXXX|1747
 #103|@CBNguyen_Bot|1741
 #104|@No_Username2|1741
-#105|@NotNateBot|1731
-#106|@Groot123456|1726
+#105|@Groot123456|1735
+#106|@NotNateBot|1731
 #107|@Crepusculum|1724
 #108|@SUMEETTHEPRO|1708
 #109|@Yemmi-Yemmi|1702
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@jasans_bot|1621
 #116|@newengine2022|1588
 #117|@knight_128|1563
-#118|@DavidsGuterBot|1558
+#118|@DavidsGuterBot|1551
 #119|@Alehkine_cat|1549
 #120|@TrashBot|1519
 #121|@relevantproblem|1514

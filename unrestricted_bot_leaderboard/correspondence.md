@@ -340,9 +340,9 @@ Rank|Bot|Rating
 #338|@WittenbergAdmin|1355
 #339|@Apollo1414|1352
 #340|@Dummyette|1351
-#341|@Cimille|1344
-#342|@Centaur_UnarmedLad|1343
-#343|@xiang-qi|1340
+#341|@Centaur_UnarmedLad|1343
+#342|@xiang-qi|1340
+#343|@Cimille|1338
 #344|@CloudBOT|1337
 #345|@Fritz_16|1337
 #346|@maslenj30|1337

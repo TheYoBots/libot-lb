@@ -1103,6 +1103,7 @@ foxchessbot
 frank-triolo-bot
 freddystehtaufteddy
 freddyybot
+freedbeast
 friendoftosik2
 fringe407
 fringecases
@@ -2669,6 +2670,7 @@ stockfishpro-2025
 stockfishpro-bot
 stockfishrtx3050
 stockfishspeed
+stockgam
 stockhalim
 stockmac
 stocksergio
@@ -2778,6 +2780,7 @@ testbot
 testbot1312
 testbot23
 testbot666
+testlela
 testrustengine
 teuflbot
 tfrchessclub
@@ -3182,6 +3185,7 @@ ze_rook
 zeekat
 zeputikkubot
 zer0_tw0
+zerbinetto
 zermixalot
 zeroesandones
 zerowinx
@@ -3201,7 +3205,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-freedbeast
-testlela
-zerbinetto
-stockgam
+dekoog
