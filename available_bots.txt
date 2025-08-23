@@ -817,6 +817,7 @@ deepprocyon
 defenchessofficial
 defi-program
 definitelynoteliah
+dekoog
 delocto
 deltazero_ms
 demolito_l1
@@ -3205,4 +3206,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-dekoog
+fred-fast-chess
+shardbot

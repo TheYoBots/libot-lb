@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2518
-#2|@RaspFish|2405
-#3|@VEER-OMEGA-BOT|2351
-#4|@colinbot|2272
-#5|@OpeningsBot|1933
+#1|@ToromBot|2519
+#2|@RaspFish|2392
+#3|@VEER-OMEGA-BOT|2338
+#4|@colinbot|2288
+#5|@OpeningsBot|1931
 #6|@Groot123456|1735
 #7|@DavidsGuterBot|1551
-#8|@pawnrobot|1248
+#8|@pawnrobot|1246
