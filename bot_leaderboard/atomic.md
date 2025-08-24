@@ -5,5 +5,5 @@ Rank|Bot|Rating
 #3|@RaspFish|2505
 #4|@VEER-OMEGA-BOT|2274
 #5|@colinbot|2027
-#6|@OpeningsBot|1919
+#6|@OpeningsBot|1893
 #7|@pawnrobot|1269

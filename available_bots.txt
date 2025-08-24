@@ -1102,6 +1102,7 @@ fougade
 fourbot
 foxchessbot
 frank-triolo-bot
+fred-fast-chess
 freddystehtaufteddy
 freddyybot
 freedbeast
@@ -2514,6 +2515,7 @@ shallowlearnbot
 shallowredbot
 shallowredfish
 shalmaneser42
+shardbot
 sharkbot
 sharkbotfish
 sharprustic
@@ -3206,5 +3208,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-fred-fast-chess
-shardbot

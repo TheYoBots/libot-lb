@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@colinbot|2628
 #6|@MaggiChess16|2613
 #7|@Nakshatra3|2498
-#8|@anti-bot|2333
-#9|@NilatacBot|2321
+#8|@NilatacBot|2321
+#9|@anti-bot|2317
 #10|@OpeningsBot|2279
-#11|@CatNail|2102
+#11|@CatNail|2128
 #12|@Groot123456|1871
-#13|@pawnrobot|1856
+#13|@pawnrobot|1846
