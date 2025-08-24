@@ -6,5 +6,5 @@ Rank|Bot|Rating
 #4|@InvinxibleFlxsh|2146
 #5|@colinbot|2008
 #6|@OpeningsBot|1807
-#7|@DavidsGuterBot|1499
-#8|@pawnrobot|1202
+#7|@DavidsGuterBot|1501
+#8|@pawnrobot|1200

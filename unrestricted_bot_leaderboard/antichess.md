@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@OceanicAbyssalord|2814
 #16|@lord-bot|2789
 #17|@FireFishBOT|2785
-#18|@RaspFish|2770
-#19|@strain-on-veins|2770
-#20|@NNUE_Drift|2768
+#18|@strain-on-veins|2770
+#19|@NNUE_Drift|2768
+#20|@RaspFish|2766
 #21|@VariantsTop|2765
 #22|@Viet-AI|2765
 #23|@TheMatrix2025|2746
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@SCP079|2662
 #31|@MalanChess|2638
 #32|@vrnts_colinbot|2637
-#33|@colinbot|2628
+#33|@colinbot|2633
 #34|@Kizbuurb|2621
 #35|@MaggiChess16|2613
 #36|@KingfishX|2612
@@ -43,8 +43,8 @@ Rank|Bot|Rating
 #41|@firstrobot|2593
 #42|@AIAlphaAI|2589
 #43|@WilliamGAsaad|2584
-#44|@ElPeonElectrico|2568
-#45|@InvinxibleFlxsh|2566
+#44|@InvinxibleFlxsh|2572
+#45|@ElPeonElectrico|2568
 #46|@YoBot_v2|2565
 #47|@Nebulogic|2564
 #48|@Vinh_VariantsBot|2561
@@ -94,8 +94,8 @@ Rank|Bot|Rating
 #92|@higuyuu67776|2352
 #93|@Karpov_bot|2335
 #94|@TeamChelsie|2331
-#95|@NilatacBot|2321
-#96|@anti-bot|2317
+#95|@anti-bot|2326
+#96|@NilatacBot|2323
 #97|@AI69|2312
 #98|@Kizburb|2307
 #99|@MagicverseBOT|2306
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@EvenMatchup|2302
 #105|@GodelEscherBot|2284
 #106|@Dean_Summer_Bot|2279
-#107|@OpeningsBot|2279
+#107|@OpeningsBot|2277
 #108|@Johnsun|2269
 #109|@SkyBlaster|2254
 #110|@mrchessmanager|2240
@@ -142,8 +142,8 @@ Rank|Bot|Rating
 #140|@CloudBotZero|2018
 #141|@B0T5_RU13|2011
 #142|@TheLegitLegend|2010
-#143|@FairyTailRegimeBot|2009
-#144|@CrayyBot|1989
+#143|@CrayyBot|1989
+#144|@FairyTailRegimeBot|1978
 #145|@BetaZ|1973
 #146|@antichesssss|1964
 #147|@Menganti|1963
@@ -155,7 +155,7 @@ Rank|Bot|Rating
 #153|@Lumac0|1861
 #154|@Endogenetic-Bot|1859
 #155|@Pineapple-Friendly|1858
-#156|@pawnrobot|1846
+#156|@pawnrobot|1849
 #157|@MyNameIsWhatLOL|1826
 #158|@Bot2000|1807
 #159|@Emil_V2|1789
@@ -271,8 +271,8 @@ Rank|Bot|Rating
 #269|@GuineaBot3|1297
 #270|@MeetNarangBOT|1287
 #271|@KaTHHHH|1264
-#272|@DanerdBot|1258
-#273|@chicken_farmer|1241
+#272|@chicken_farmer|1241
+#273|@DanerdBot|1236
 #274|@PranavChessBot|1212
 #275|@Toxic_Bot|1202
 #276|@Ar4Asd1-BOT|1181

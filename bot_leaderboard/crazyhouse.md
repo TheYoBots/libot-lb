@@ -6,5 +6,5 @@ Rank|Bot|Rating
 #4|@NNUE_Drift|2293
 #5|@MaggiChess16|2262
 #6|@RaspFish|2107
-#7|@colinbot|1844
+#7|@colinbot|1845
 #8|@OpeningsBot|1645
