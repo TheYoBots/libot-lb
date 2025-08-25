@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@ElPeonElectrico|2549
 #16|@CloudBot_v2|2544
 #17|@Fairy_Belzedar|2544
-#18|@KizVariant|2529
-#19|@SCP079|2526
-#20|@InvinxibleFlxsh|2522
+#18|@InvinxibleFlxsh|2529
+#19|@KizVariant|2529
+#20|@SCP079|2526
 #21|@ToromBot|2522
 #22|@NimsiluBot|2521
 #23|@Fairy-Stockfish|2484
@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
 #39|@KingfishX|2285
-#40|@colinbot|2281
+#40|@colinbot|2278
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
 #43|@TheMatrix2025|2272

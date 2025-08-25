@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@UnDisstoppableBot|2193
 #36|@Amrobotone|2184
 #37|@HuxZero|2163
-#38|@Mega_BOT|2148
-#39|@InvinxibleFlxsh|2146
+#38|@InvinxibleFlxsh|2152
+#39|@Mega_BOT|2148
 #40|@AI69|2143
 #41|@RobotTigerSlav|2136
 #42|@NNUE_Drift|2132
@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@faith_bot|2026
 #62|@VariantsTop|2014
 #63|@CocopikachuBOT|2009
-#64|@colinbot|2008
-#65|@lightspeed_bot|2007
+#64|@lightspeed_bot|2007
+#65|@colinbot|2004
 #66|@chesshyperbot|2002
 #67|@Yemmi-Yemmi|1994
 #68|@Galaxy_Guardian|1993
@@ -97,8 +97,8 @@ Rank|Bot|Rating
 #95|@STockfishdestroyBot|1825
 #96|@AldoGamer001_Bot|1813
 #97|@admin-bot|1809
-#98|@The-Fastest-Bot|1809
-#99|@OpeningsBot|1807
+#98|@OpeningsBot|1809
+#99|@The-Fastest-Bot|1809
 #100|@TheLegitLegend|1804
 #101|@Bot_AOOP11|1802
 #102|@ROBOT_RANDEER2007|1802
@@ -144,8 +144,8 @@ Rank|Bot|Rating
 #142|@McKapran78|1435
 #143|@EZWipe|1432
 #144|@BetaOneBot|1424
-#145|@DanerdBot|1421
-#146|@ShredderGrizzly|1418
+#145|@ShredderGrizzly|1418
+#146|@DanerdBot|1417
 #147|@CVA728_BOT_1|1412
 #148|@Lightning_SpeedChess|1400
 #149|@cool_boy_bot|1388

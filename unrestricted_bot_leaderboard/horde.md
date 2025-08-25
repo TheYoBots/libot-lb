@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@Coolman2021|2757
 #7|@FireFishBOT|2726
 #8|@PepsiForAll|2699
-#9|@NNUE_Drift|2603
-#10|@ttBOT|2584
-#11|@NimsiluBot|2557
-#12|@ToromBot|2513
+#9|@ttBOT|2584
+#10|@NimsiluBot|2539
+#11|@ToromBot|2530
+#12|@NNUE_Drift|2499
 #13|@Nerubatskyi_Daniil_v|2471
 #14|@EmptikVariantsBot|2402
 #15|@EmptikBot|2378

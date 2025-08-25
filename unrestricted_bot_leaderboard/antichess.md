@@ -19,9 +19,9 @@ Rank|Bot|Rating
 #17|@FireFishBOT|2785
 #18|@strain-on-veins|2770
 #19|@NNUE_Drift|2768
-#20|@RaspFish|2766
-#21|@VariantsTop|2765
-#22|@Viet-AI|2765
+#20|@VariantsTop|2765
+#21|@Viet-AI|2765
+#22|@RaspFish|2751
 #23|@TheMatrix2025|2746
 #24|@ttBOT|2739
 #25|@ibep|2733
@@ -94,8 +94,8 @@ Rank|Bot|Rating
 #92|@higuyuu67776|2352
 #93|@Karpov_bot|2335
 #94|@TeamChelsie|2331
-#95|@anti-bot|2326
-#96|@NilatacBot|2323
+#95|@NilatacBot|2329
+#96|@anti-bot|2326
 #97|@AI69|2312
 #98|@Kizburb|2307
 #99|@MagicverseBOT|2306
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@EvenMatchup|2302
 #105|@GodelEscherBot|2284
 #106|@Dean_Summer_Bot|2279
-#107|@OpeningsBot|2277
+#107|@OpeningsBot|2271
 #108|@Johnsun|2269
 #109|@SkyBlaster|2254
 #110|@mrchessmanager|2240
@@ -132,8 +132,8 @@ Rank|Bot|Rating
 #130|@AntiChessBot|2142
 #131|@AnUtterlyKarBot|2134
 #132|@XXIstCentury|2131
-#133|@CatNail|2128
-#134|@Stockfish-MEDIUM|2117
+#133|@Stockfish-MEDIUM|2117
+#134|@CatNail|2108
 #135|@PyChessBot|2102
 #136|@TurkiyeHogwartsBOT|2099
 #137|@ZamuChess|2049
