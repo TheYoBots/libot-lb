@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@NimsiluBot|3026
-#2|@ToromBot|2941
+#2|@ToromBot|2927
 #3|@NNUE_Drift|2764
 #4|@RaspFish|2734
 #5|@colinbot|2626
 #6|@MaggiChess16|2613
-#7|@Nakshatra3|2498
-#8|@NilatacBot|2327
+#7|@Nakshatra3|2504
+#8|@NilatacBot|2324
 #9|@anti-bot|2308
 #10|@OpeningsBot|2271
 #11|@CatNail|2108

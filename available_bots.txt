@@ -223,6 +223,7 @@ awesome_stockfish
 ax2xb2
 axwchessbot
 ayodia
+ayrostpon
 azdad
 azur_pr
 azusayumi
@@ -3208,4 +3209,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ayrostpon
+eichkatzerl
