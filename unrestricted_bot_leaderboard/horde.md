@@ -24,12 +24,12 @@ Rank|Bot|Rating
 #22|@RaspFish|2315
 #23|@AlfaBot|2293
 #24|@Fairy-Stockfish|2289
-#25|@Kizburb|2276
-#26|@ChessVBOT|2258
-#27|@ibep|2258
-#28|@LudwigBOT|2256
-#29|@CloudBot_v2|2252
-#30|@FayEFish|2242
+#25|@FayEFish|2280
+#26|@Kizburb|2276
+#27|@ChessVBOT|2258
+#28|@ibep|2258
+#29|@LudwigBOT|2256
+#30|@CloudBot_v2|2252
 #31|@FairyTailRegimeBot|2235
 #32|@ElPeonElectrico|2203
 #33|@UltronBot|2199
@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@TeamChelsie|1869
 #65|@B0T5_RU13|1852
 #66|@Lili-Variants|1846
-#67|@colinbot|1840
+#67|@colinbot|1838
 #68|@SacrificialSage|1815
 #69|@Breeze-Hot|1809
 #70|@GodelEscherBot|1805

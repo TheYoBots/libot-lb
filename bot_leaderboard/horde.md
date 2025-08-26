@@ -5,6 +5,6 @@ Rank|Bot|Rating
 #3|@ToromBot|2506
 #4|@NNUE_Drift|2413
 #5|@RaspFish|2315
-#6|@colinbot|1840
+#6|@colinbot|1838
 #7|@OpeningsBot|1755
 #8|@pawnrobot|1263

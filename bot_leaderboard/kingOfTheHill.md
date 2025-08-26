@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@ToromBot|2397
 #3|@RaspFish|2290
 #4|@InvinxibleFlxsh|2164
-#5|@colinbot|1984
+#5|@colinbot|1985
 #6|@OpeningsBot|1809
 #7|@DavidsGuterBot|1501
 #8|@pawnrobot|1200

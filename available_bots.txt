@@ -927,6 +927,7 @@ egebakken_bot
 egeytek
 eggnog-chess-engine
 egs1-en001
+eichkatzerl
 einstein_nnue
 eleanor98
 electricboy6-bot
@@ -3209,4 +3210,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-eichkatzerl
+p-chessbot

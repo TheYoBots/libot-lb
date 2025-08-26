@@ -6,5 +6,5 @@ Rank|Bot|Rating
 #4|@ToromBot|2290
 #5|@MaggiChess16|2262
 #6|@RaspFish|2110
-#7|@colinbot|1847
+#7|@colinbot|1845
 #8|@OpeningsBot|1645
