@@ -2142,6 +2142,7 @@ overhead_bot
 oxygenospro
 ozibot
 ozinatorbot
+p-chessbot
 pacman3000
 paddibot
 painbotpain
@@ -3210,4 +3211,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-p-chessbot
+wrychess-bot

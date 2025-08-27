@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@MaggiChess16|2613
 #7|@Nakshatra3|2477
 #8|@NilatacBot|2322
-#9|@anti-bot|2304
+#9|@anti-bot|2313
 #10|@OpeningsBot|2271
 #11|@CatNail|2110
 #12|@Groot123456|1881

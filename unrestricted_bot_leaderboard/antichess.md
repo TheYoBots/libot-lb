@@ -96,11 +96,11 @@ Rank|Bot|Rating
 #94|@Karpov_bot|2335
 #95|@TeamChelsie|2331
 #96|@NilatacBot|2322
-#97|@AI69|2312
-#98|@Kizburb|2307
-#99|@MagicverseBOT|2306
-#100|@abhisun_bot|2305
-#101|@anti-bot|2304
+#97|@anti-bot|2313
+#98|@AI69|2312
+#99|@Kizburb|2307
+#100|@MagicverseBOT|2306
+#101|@abhisun_bot|2305
 #102|@NienishiEngine|2304
 #103|@BromiumAI|2302
 #104|@EvenMatchup|2302

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NimsiluBot|2334
+#1|@NimsiluBot|2343
 #2|@Yuki_1324|2319
 #3|@NNUE_Drift|2293
 #4|@ToromBot|2290
