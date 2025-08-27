@@ -31,12 +31,12 @@ Rank|Bot|Rating
 #29|@faith_bot|2447
 #30|@chessbot2880|2439
 #31|@ChessVBOT|2430
-#32|@RaspFish|2404
-#33|@DarkOnBot|2395
+#32|@RaspFish|2410
+#33|@DarkOnBot|2406
 #34|@OceanicAbyssalord|2393
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
-#37|@VEER-OMEGA-BOT|2322
+#37|@VEER-OMEGA-BOT|2329
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@KingfishX|2285
@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@CocopikachuBOT|2274
 #43|@TheMatrix2025|2272
 #44|@vrnts_colinbot|2266
-#45|@colinbot|2264
-#46|@YoBot_v2|2257
+#45|@YoBot_v2|2257
+#46|@colinbot|2249
 #47|@Vinh_VariantsBot|2215
 #48|@Kizburb|2214
 #49|@xiang-qi|2207

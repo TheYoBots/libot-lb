@@ -3116,6 +3116,7 @@ worstfish
 worstfish_test
 worstfishv2
 wretchedzero
+wrychess-bot
 wtrcc
 x2-itl
 xadreco
@@ -3211,4 +3212,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-wrychess-bot
