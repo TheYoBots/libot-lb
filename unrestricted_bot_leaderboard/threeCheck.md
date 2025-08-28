@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@OceanicAbyssalord|2393
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
-#37|@VEER-OMEGA-BOT|2324
+#37|@VEER-OMEGA-BOT|2313
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@KingfishX|2285
@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@TheMatrix2025|2272
 #44|@vrnts_colinbot|2266
 #45|@YoBot_v2|2257
-#46|@colinbot|2249
+#46|@colinbot|2256
 #47|@Vinh_VariantsBot|2215
 #48|@Kizburb|2214
 #49|@xiang-qi|2207

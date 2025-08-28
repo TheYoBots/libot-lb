@@ -272,6 +272,7 @@ benbotolucam
 bender_rodriguez01
 benmakineyim
 bera_of_bbot
+berkbot
 berlinwallwall
 bernd_der_bot
 bernstein-2ply
@@ -1471,6 +1472,7 @@ joneca-bot
 jonnierman
 jonox
 joseppegodo
+joshsbot
 joshuachessbot
 jpg-bot
 jpsbot
@@ -2790,6 +2792,7 @@ testlela
 testrustengine
 teuflbot
 tfrchessclub
+tfxd_bot
 tgnleelabot
 thaaron
 the-chess-king-bot
@@ -3212,6 +3215,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tfxd_bot
-berkbot
-joshsbot
+checkmatex1
+pineapplemask

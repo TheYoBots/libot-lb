@@ -6,6 +6,6 @@ Rank|Bot|Rating
 #4|@NNUE_Drift|2425
 #5|@Yuki_1324|2344
 #6|@RaspFish|2315
-#7|@colinbot|1839
+#7|@colinbot|1833
 #8|@OpeningsBot|1755
-#9|@pawnrobot|1262
+#9|@pawnrobot|1258
