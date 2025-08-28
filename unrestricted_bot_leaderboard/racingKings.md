@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@EmptikVariantsBot|2557
 #13|@NimsiluBot|2555
 #14|@FireFishBOT|2547
-#15|@strain-on-veins|2545
-#16|@ToromBot|2543
+#15|@ToromBot|2546
+#16|@strain-on-veins|2545
 #17|@LudwigBOT|2536
 #18|@ChessVBOT|2531
 #19|@VEER-OMEGA-BOT|2531
@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@NormalBulletBot|2291
 #62|@YoBot_v2|2287
 #63|@AlfaBot|2278
-#64|@colinbot|2275
+#64|@colinbot|2273
 #65|@Mega_BOT|2264
 #66|@MalanChess|2261
 #67|@chesshyperbot|2259

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NimsiluBot|2623
+#1|@NimsiluBot|2629
 #2|@compchess2|2579
 #3|@ToromBot|2502
 #4|@NNUE_Drift|2425

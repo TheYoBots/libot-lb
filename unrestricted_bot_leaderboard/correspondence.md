@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2910
+#1|@fibonachi|2911
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2811
 #4|@MaggiChess16|2806

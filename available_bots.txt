@@ -3212,3 +3212,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+tfxd_bot
+berkbot
+joshsbot

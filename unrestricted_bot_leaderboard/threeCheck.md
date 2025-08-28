@@ -19,9 +19,9 @@ Rank|Bot|Rating
 #17|@Fairy_Belzedar|2544
 #18|@InvinxibleFlxsh|2529
 #19|@KizVariant|2529
-#20|@SCP079|2526
-#21|@ToromBot|2522
-#22|@NimsiluBot|2521
+#20|@NimsiluBot|2527
+#21|@SCP079|2526
+#22|@ToromBot|2522
 #23|@Fairy-Stockfish|2484
 #24|@ESC_BOT|2476
 #25|@Less_of_a_threat|2469
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@OceanicAbyssalord|2393
 #35|@Viet_BOT|2367
 #36|@Zer0_Tw0|2332
-#37|@VEER-OMEGA-BOT|2329
+#37|@VEER-OMEGA-BOT|2324
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@KingfishX|2285
@@ -174,7 +174,7 @@ Rank|Bot|Rating
 #172|@duythong1402|1165
 #173|@Boom_Bot|1155
 #174|@thousandatom|1154
-#175|@Zerbinetto|1151
+#175|@Zerbinetto|1149
 #176|@MyNameIsSpeeedy|1147
 #177|@BetaOneBot|1139
 #178|@Hrant_Petrosyan_BOT|1127
