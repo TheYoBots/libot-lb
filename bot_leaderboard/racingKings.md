@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2567
-#2|@NimsiluBot|2550
-#3|@ToromBot|2546
-#4|@VEER-OMEGA-BOT|2520
-#5|@colinbot|2276
+#1|@RaspFish|2572
+#2|@NimsiluBot|2553
+#3|@ToromBot|2545
+#4|@VEER-OMEGA-BOT|2507
+#5|@colinbot|2270
 #6|@OpeningsBot|2109

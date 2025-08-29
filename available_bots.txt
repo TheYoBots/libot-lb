@@ -587,6 +587,7 @@ cheakykoala
 checkbro_official
 checkmate-ai
 checkmate10101010
+checkmatex1
 checkmatian228
 checkmmate2014
 cheemschungusbot
@@ -2199,6 +2200,7 @@ pikachu_270
 pilchardbot
 pineapple-friendly
 pineapple_bot
+pineapplemask
 pingwin_siepacz
 pinkpanda1000
 piqbot
@@ -3215,5 +3217,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-checkmatex1
-pineapplemask
+openingerex
+omblecavalierpp
+bstaf
