@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@Coolman2021|2757
 #7|@FireFishBOT|2726
 #8|@PepsiForAll|2699
-#9|@NimsiluBot|2630
-#10|@ttBOT|2584
-#11|@compchess2|2579
-#12|@ToromBot|2505
-#13|@HIWIN1234|2477
+#9|@NimsiluBot|2635
+#10|@HIWIN1234|2610
+#11|@ttBOT|2584
+#12|@compchess2|2579
+#13|@ToromBot|2496
 #14|@Nerubatskyi_Daniil_v|2471
 #15|@NNUE_Drift|2425
 #16|@EmptikVariantsBot|2402
@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@Hyper-Stockfish|2358
 #21|@Yuki_1324|2344
 #22|@OceanicAbyssalord|2333
-#23|@RaspFish|2309
-#24|@FayEFish|2299
+#23|@FayEFish|2319
+#24|@RaspFish|2306
 #25|@AlfaBot|2293
 #26|@Fairy-Stockfish|2289
 #27|@Kizburb|2276
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@CloudBot_v2|2252
 #32|@NecroMindX|2251
 #33|@FairyTailRegimeBot|2235
-#34|@DarkOnBot|2222
+#34|@DarkOnBot|2209
 #35|@ElPeonElectrico|2203
 #36|@UltronBot|2199
 #37|@Trumpfor2O2O|2162

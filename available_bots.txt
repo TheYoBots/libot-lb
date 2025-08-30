@@ -504,6 +504,7 @@ bruceleela
 brutestrength
 bryan_12345
 bsergey11-bot
+bstaf
 bstba
 budgetsnorkel
 buffer_overflow
@@ -2113,6 +2114,7 @@ olympusplentycz
 om2022_bot
 om_the_great_bot
 omblecavalier
+omblecavalierpp
 omega-pro
 omelettechessengine
 omerbot
@@ -2127,6 +2129,7 @@ openbeat
 openbot
 opengalaxy
 openingbot
+openingerex
 openingsbot
 openingsexercise
 openingtrainbot
@@ -3217,6 +3220,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-openingerex
-omblecavalierpp
-bstaf
