@@ -135,10 +135,10 @@ Rank|Bot|Rating
 #133|@MalanChess|2020
 #134|@RoyalLeela|2014
 #135|@SchachProg|2010
-#136|@ElPeonElectrico|2004
-#137|@zeekat|2004
-#138|@honzovy-sachy|2002
-#139|@GarboBot|2000
+#136|@GarboBot|2006
+#137|@ElPeonElectrico|2004
+#138|@zeekat|2004
+#139|@honzovy-sachy|2002
 #140|@TESTBOT23|2000
 #141|@Zer0_Tw0|1992
 #142|@RadianceEngine|1991
