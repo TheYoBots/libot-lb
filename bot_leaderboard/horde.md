@@ -2,10 +2,10 @@ Rank|Bot|Rating
 ---|---|---
 #1|@NimsiluBot|2628
 #2|@compchess2|2579
-#3|@ToromBot|2487
+#3|@ToromBot|2498
 #4|@NNUE_Drift|2425
 #5|@Yuki_1324|2344
-#6|@RaspFish|2308
+#6|@RaspFish|2305
 #7|@colinbot|1829
 #8|@OpeningsBot|1755
 #9|@pawnrobot|1256

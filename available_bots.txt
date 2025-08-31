@@ -2610,6 +2610,7 @@ spaceisbot
 sparrer123
 sparring_bot
 spectral-ai
+speeedrunchessgames
 spez1
 spideychess0108
 spirit_crusherii
@@ -2766,6 +2767,7 @@ szymvra_bot
 t3000
 ta_2020_bot
 ta_alexopoulakia
+tacticalbot
 tacticoferoz
 takticproches
 talbotbot
@@ -3220,5 +3222,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tacticalbot
-speeedrunchessgames
+thyf
+mautlier
