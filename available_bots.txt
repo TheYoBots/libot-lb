@@ -3224,3 +3224,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+tbhonbot
+is_boss
+krakenchessai

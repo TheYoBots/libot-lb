@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@IAMSTOCKFISH123|2307
 #62|@NormalBulletBot|2291
 #63|@YoBot_v2|2287
-#64|@colinbot|2286
+#64|@colinbot|2285
 #65|@AlfaBot|2278
 #66|@Mega_BOT|2264
 #67|@MalanChess|2261
@@ -193,8 +193,8 @@ Rank|Bot|Rating
 #191|@Hrant_Petrosyan_BOT|1152
 #192|@BetaOneBot|1141
 #193|@GuineaBot2|1141
-#194|@BogoBot|1074
-#195|@MateCheckCapture|1011
-#196|@Zerbinetto|982
+#194|@Zerbinetto|1096
+#195|@BogoBot|1074
+#196|@MateCheckCapture|1011
 #197|@ZX-Chess|982
 #198|@MinOpponentMoves|648
