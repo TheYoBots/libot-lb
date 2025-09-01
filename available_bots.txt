@@ -1846,6 +1846,7 @@ matrioshka_brain
 matrix-ai
 matrixmovebot80
 mattaberk-bot
+mautlier
 max_bot
 maximumef
 maxoul-bot
@@ -2882,6 +2883,7 @@ thousandatom
 threeisthree
 thuban_official
 thunfisch-bot
+thyf
 ticktocc
 tigerengine
 tigersbot
@@ -3222,5 +3224,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-thyf
-mautlier
