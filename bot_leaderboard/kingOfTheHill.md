@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@VEER-OMEGA-BOT|2191
 #6|@InvinxibleFlxsh|2176
 #7|@virus_exe-bot|2051
-#8|@colinbot|1956
-#9|@Groot123456|1582
+#8|@colinbot|1953
+#9|@Groot123456|1578
 #10|@DavidsGuterBot|1504
 #11|@pawnrobot|1197

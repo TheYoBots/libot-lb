@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@NimsiluBot|2622
-#2|@DarkOnBot|2578
+#2|@DarkOnBot|2581
 #3|@ToromBot|2549
-#4|@RaspFish|2495
-#5|@eNErGyOFbEiNGbOT|2461
-#6|@VEER-OMEGA-BOT|2267
+#4|@RaspFish|2496
+#5|@eNErGyOFbEiNGbOT|2462
+#6|@VEER-OMEGA-BOT|2269
 #7|@colinbot|2026
-#8|@pawnrobot|1295
+#8|@pawnrobot|1293

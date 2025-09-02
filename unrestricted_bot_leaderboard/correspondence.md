@@ -184,8 +184,8 @@ Rank|Bot|Rating
 #182|@Black_Knight2006|1815
 #183|@Hoplites|1813
 #184|@cool_boy_bot|1812
-#185|@Sub_Bot|1808
-#186|@Jibbby|1801
+#185|@Jibbby|1809
+#186|@Sub_Bot|1808
 #187|@DrMeowMeow|1800
 #188|@stockfish12_Johan|1798
 #189|@DragonflyBOT|1796
