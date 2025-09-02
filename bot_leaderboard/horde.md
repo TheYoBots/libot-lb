@@ -4,6 +4,7 @@ Rank|Bot|Rating
 #2|@ToromBot|2495
 #3|@NNUE_Drift|2425
 #4|@Yuki_1324|2344
-#5|@RaspFish|2279
-#6|@colinbot|1817
-#7|@pawnrobot|1255
+#5|@RaspFish|2289
+#6|@DarkOnBot|2213
+#7|@colinbot|1815
+#8|@pawnrobot|1255
