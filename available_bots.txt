@@ -812,6 +812,7 @@ dean_summer_bot
 death1234567-hell
 debugbot
 dechessbot
+deepbecky
 deepchessengine
 deepfriedfish
 deepkalle
@@ -2168,6 +2169,7 @@ passivebot
 patientjellyfish
 patriciabot
 patung
+patzerbot135
 paul_morphine_bot
 paulmorphybot
 pawn-bot
@@ -3227,5 +3229,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-patzerbot135
-deepbecky
+averybigmistake
+phoenix3-1
+thesophomore1902
+hce_puct_mcts_bot
