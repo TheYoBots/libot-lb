@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@NimsiluBot|2429
-#2|@ToromBot|2388
-#3|@DarkOnBot|2349
+#2|@ToromBot|2394
+#3|@DarkOnBot|2346
 #4|@RaspFish|2259
 #5|@VEER-OMEGA-BOT|2194
-#6|@InvinxibleFlxsh|2183
+#6|@InvinxibleFlxsh|2193
 #7|@virus_exe-bot|2051
-#8|@colinbot|1951
+#8|@colinbot|1949
 #9|@Groot123456|1557
 #10|@DavidsGuterBot|1501
 #11|@pawnrobot|1197

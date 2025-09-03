@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@ttBOT|2461
 #28|@TheMatrix2029|2448
 #29|@faith_bot|2447
-#30|@InvinxibleFlxsh|2444
-#31|@chessbot2880|2439
+#30|@chessbot2880|2439
+#31|@InvinxibleFlxsh|2436
 #32|@ChessVBOT|2430
 #33|@HIWIN1234|2421
 #34|@DarkOnBot|2419
@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@Viet_BOT|2367
 #38|@RaspFish|2360
 #39|@Zer0_Tw0|2332
-#40|@VEER-OMEGA-BOT|2319
+#40|@VEER-OMEGA-BOT|2327
 #41|@LudwigBOT|2304
 #42|@lord-bot|2300
 #43|@KingfishX|2285
@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@virus_exe-bot|2262
 #49|@YoBot_v2|2257
 #50|@TacticalBot|2244
-#51|@colinbot|2222
+#51|@colinbot|2219
 #52|@Vinh_VariantsBot|2215
 #53|@Kizburb|2214
 #54|@xiang-qi|2207
@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@No_Username2|1741
 #113|@NotNateBot|1731
 #114|@Crepusculum|1724
-#115|@Groot123456|1714
-#116|@SUMEETTHEPRO|1708
+#115|@SUMEETTHEPRO|1708
+#116|@Groot123456|1707
 #117|@Yemmi-Yemmi|1702
 #118|@clueless-bot|1685
 #119|@NormalBulletBot|1657
@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@newengine2022|1588
 #125|@knight_128|1563
 #126|@Alehkine_cat|1549
-#127|@DavidsGuterBot|1545
+#127|@DavidsGuterBot|1542
 #128|@TrashBot|1519
 #129|@relevantproblem|1514
 #130|@Toxic_Bot|1511
@@ -152,12 +152,12 @@ Rank|Bot|Rating
 #150|@Kyle_0111|1421
 #151|@azdad|1420
 #152|@Peaceful4Life|1412
-#153|@Nithin-das|1397
-#154|@RochadeSchachzeitung|1392
-#155|@MasterofChessBOT800|1391
-#156|@HiddeNL|1385
-#157|@apraz|1383
-#158|@DanerdBot|1380
+#153|@DanerdBot|1397
+#154|@Nithin-das|1397
+#155|@RochadeSchachzeitung|1392
+#156|@MasterofChessBOT800|1391
+#157|@HiddeNL|1385
+#158|@apraz|1383
 #159|@Bottios|1323
 #160|@TTC-BOT_2|1322
 #161|@cool_boy_bot|1321

@@ -218,6 +218,7 @@ automachess
 ava-chess-engine
 avaochessbot
 averageplayer757
+averybigmistake
 awesome32
 awesome_stockfish
 ax2xb2
@@ -1273,6 +1274,7 @@ having_a_blunderfult
 havocbot
 hawaiibot
 hawke_bot
+hce_puct_mcts_bot
 hchessbot
 heatseeker223
 heckerbot
@@ -2196,6 +2198,7 @@ phamhoangbaoaa
 phanxuanhuy1972
 phess
 phoenix-the-bot
+phoenix3-1
 phoenix_engine
 phoenixleyi
 physbot
@@ -2869,6 +2872,7 @@ thepinecone1
 thequantumfish
 thera_engine
 theshadowengine
+thesophomore1902
 thesystem_bot
 thethanosbot
 theultimatechzb
@@ -3229,7 +3233,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-averybigmistake
-phoenix3-1
-thesophomore1902
-hce_puct_mcts_bot
+bot1nokk
