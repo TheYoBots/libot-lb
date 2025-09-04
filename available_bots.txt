@@ -2183,6 +2183,7 @@ pawnrobot
 pdfprizebot
 peaceful4life
 peach-bot
+peach-chess-bot
 peachfruit
 pennywise__it
 peonasesino71
@@ -3056,6 +3057,7 @@ viictorya
 vimbot
 vinh_variantsbot
 vinnikk
+violentstockfish
 virgo_andlogos
 viridithas
 virus_exe-bot
@@ -3234,5 +3236,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-violentstockfish
-peach-chess-bot
+cppchess_enginev1
+spartaksurensila
+clockworkengine

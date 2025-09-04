@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@Bharat_royals|2575
 #15|@UltronBot|2556
 #16|@Viet-AI|2556
-#17|@ToromBot|2544
+#17|@ToromBot|2546
 #18|@ttBOT|2540
 #19|@BitExtender128|2526
 #20|@ResoluteBot|2525
@@ -25,14 +25,14 @@ Rank|Bot|Rating
 #23|@HIWIN1234|2501
 #24|@NecroMindX|2499
 #25|@ibep|2498
-#26|@RaspFish|2490
+#26|@RaspFish|2491
 #27|@firstrobot|2485
 #28|@ElPeonElectrico|2482
 #29|@ShredderGrizzly|2479
 #30|@NormalBulletBot|2474
 #31|@LoseisnotAvailablehe|2466
-#32|@InvinxibleFlxsh|2465
-#33|@eNErGyOFbEiNGbOT|2463
+#32|@eNErGyOFbEiNGbOT|2465
+#33|@InvinxibleFlxsh|2465
 #34|@PepsiForAll|2448
 #35|@OceanicAbyssalord|2422
 #36|@ChessVBOT|2411
@@ -128,8 +128,8 @@ Rank|Bot|Rating
 #126|@Less_of_a_threat|2047
 #127|@MagnusCarlsen1507|2037
 #128|@HuxZero|2035
-#129|@colinbot|2033
-#130|@EasyWinGG|2032
+#129|@EasyWinGG|2032
+#130|@colinbot|2030
 #131|@Kizbuurb|2024
 #132|@ESC_BOT|2011
 #133|@are_bots_good|2006
@@ -344,7 +344,7 @@ Rank|Bot|Rating
 #342|@TheLegitLegend2|1032
 #343|@ZX-Chess|946
 #344|@BogoBot|945
-#345|@Zerbinetto|929
+#345|@Zerbinetto|925
 #346|@thousandatom|865
 #347|@MinOpponentMoves|811
 #348|@bfdzvfsgaergfds|800
