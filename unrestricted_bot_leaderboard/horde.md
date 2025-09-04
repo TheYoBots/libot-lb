@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@ibep|2258
 #35|@LudwigBOT|2256
 #36|@CloudBot_v2|2252
-#37|@DarkOnBot|2241
+#37|@DarkOnBot|2245
 #38|@FairyTailRegimeBot|2235
 #39|@UltronBot|2199
 #40|@GCNbyFayE|2182
@@ -87,7 +87,7 @@ Rank|Bot|Rating
 #85|@CloudBOT|1758
 #86|@CocopikachuBOT|1757
 #87|@OpeningsBot|1755
-#88|@is_BOSS|1752
+#88|@is_BOSS|1753
 #89|@Heman36541234578|1741
 #90|@Vinh_VariantsBot|1741
 #91|@AndromedaSX1|1740
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@Nicholaswb_BOT|1288
 #146|@AEBROADUSBOTTER|1279
 #147|@ReallyCrazyBOT|1279
-#148|@Groot123456|1269
+#148|@Groot123456|1264
 #149|@Zerbinetto|1259
 #150|@AbhijithHISBot|1258
 #151|@Humuhumunukunukuapu|1258

@@ -388,6 +388,7 @@ bot-variants
 bot-whiteworm
 bot1996123
 bot1cwc
+bot1nokk
 bot2000
 bot2cwc
 bot369
@@ -3233,4 +3234,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bot1nokk
+violentstockfish
+peach-chess-bot
