@@ -3,11 +3,11 @@ Rank|Bot|Rating
 #1|@ToromBot|2507
 #2|@DarkOnBot|2426
 #3|@InvinxibleFlxsh|2423
-#4|@RaspFish|2378
-#5|@VEER-OMEGA-BOT|2343
-#6|@virus_exe-bot|2221
-#7|@colinbot|2218
+#4|@RaspFish|2377
+#5|@VEER-OMEGA-BOT|2340
+#6|@virus_exe-bot|2236
+#7|@colinbot|2214
 #8|@Groot123456|1705
-#9|@DavidsGuterBot|1551
-#10|@DanerdBot|1383
+#9|@DavidsGuterBot|1554
+#10|@DanerdBot|1376
 #11|@pawnrobot|1237

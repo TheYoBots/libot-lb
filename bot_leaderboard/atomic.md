@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@DarkOnBot|2579
+#1|@DarkOnBot|2582
 #2|@ToromBot|2546
-#3|@RaspFish|2494
-#4|@eNErGyOFbEiNGbOT|2470
-#5|@VEER-OMEGA-BOT|2270
-#6|@colinbot|2029
-#7|@pawnrobot|1290
+#3|@RaspFish|2495
+#4|@eNErGyOFbEiNGbOT|2475
+#5|@VEER-OMEGA-BOT|2275
+#6|@colinbot|2022
+#7|@pawnrobot|1289
