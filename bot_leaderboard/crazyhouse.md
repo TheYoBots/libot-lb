@@ -1,7 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NimsiluBot|2370
-#2|@ToromBot|2270
-#3|@DarkOnBot|2137
-#4|@RaspFish|2099
-#5|@colinbot|1776
+#1|@ToromBot|2270
+#2|@DarkOnBot|2140
+#3|@RaspFish|2099
+#4|@colinbot|1776

@@ -691,6 +691,7 @@ classic_bot-v2
 cleobot
 cleoengine
 clj-bot
+clockworkengine
 clompdev
 cloud_bot
 cloud_classroom_bot
@@ -743,6 +744,7 @@ cosmic64
 cosmicebony
 cowboy_time
 cozbot
+cppchess_enginev1
 cpu1990
 cpu1994
 cpu1998
@@ -2619,6 +2621,7 @@ space_juicer
 spaceisbot
 sparrer123
 sparring_bot
+spartaksurensila
 spectral-ai
 speeedrunchessgames
 spez1
@@ -3236,6 +3239,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-cppchess_enginev1
-spartaksurensila
-clockworkengine
+olithinkflash
