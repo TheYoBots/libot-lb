@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@HIWIN1234|2383
 #13|@Coolman2021|2378
 #14|@Karpov_bot|2359
-#15|@DarkOnBot|2351
+#15|@DarkOnBot|2355
 #16|@ElPeonElectrico|2351
 #17|@TheMatrix2025|2346
 #18|@AndromedaSX1|2344
@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@ResoluteBot|2233
 #34|@ttBOT|2230
 #35|@NNUE_Drift|2229
-#36|@Magnus-BOT|2224
-#37|@eNErGyOFbEiNGbOT|2220
+#36|@eNErGyOFbEiNGbOT|2227
+#37|@Magnus-BOT|2224
 #38|@SkyBlaster|2220
 #39|@OceanicAbyssalord|2214
 #40|@Stockfish-MEDIUM|2198
@@ -72,10 +72,10 @@ Rank|Bot|Rating
 #70|@CocopikachuBOT|2009
 #71|@lightspeed_bot|2007
 #72|@chesshyperbot|2002
-#73|@virus_exe-bot|1997
-#74|@Yemmi-Yemmi|1994
-#75|@Galaxy_Guardian|1993
-#76|@XXIstCentury|1993
+#73|@Yemmi-Yemmi|1994
+#74|@Galaxy_Guardian|1993
+#75|@XXIstCentury|1993
+#76|@virus_exe-bot|1992
 #77|@CloudBOT|1986
 #78|@NormalBlitzBulletBot|1986
 #79|@TeamChelsie|1983
@@ -136,8 +136,8 @@ Rank|Bot|Rating
 #134|@SXDEFENDER|1534
 #135|@Light_To_The_Rescue|1523
 #136|@Z-Move|1495
-#137|@TFRChessClub|1494
-#138|@DavidsGuterBot|1493
+#137|@DavidsGuterBot|1494
+#138|@TFRChessClub|1494
 #139|@hyperchessbot1|1493
 #140|@MagnusCarlsen1507|1492
 #141|@SugarAndSpice|1489
@@ -175,7 +175,7 @@ Rank|Bot|Rating
 #173|@MyNameIsSpeedy|1226
 #174|@Bottios|1223
 #175|@RSVMentor|1196
-#176|@pawnrobot|1194
+#176|@pawnrobot|1191
 #177|@Boom_Bot|1176
 #178|@TrashBot|1168
 #179|@shakboy9824453231op|1152
