@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@Hyper-Stockfish|2358
 #22|@Yuki_1324|2344
 #23|@OceanicAbyssalord|2333
-#24|@tbhOnBot|2300
+#24|@tbhOnBot|2304
 #25|@AlfaBot|2293
 #26|@FayEFish|2292
 #27|@Fairy-Stockfish|2289
@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@ChessVBOT|2258
 #32|@ibep|2258
 #33|@LudwigBOT|2256
-#34|@CloudBot_v2|2252
-#35|@DarkOnBot|2251
+#34|@DarkOnBot|2253
+#35|@CloudBot_v2|2252
 #36|@FairyTailRegimeBot|2235
 #37|@Speeedrunchessgames|2228
 #38|@UltronBot|2199
@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@B0T5_RU13|1852
 #73|@Lili-Variants|1846
 #74|@SacrificialSage|1815
-#75|@colinbot|1810
-#76|@Breeze-Hot|1809
+#75|@Breeze-Hot|1809
+#76|@colinbot|1808
 #77|@GodelEscherBot|1805
 #78|@Yemmi-Yemmi|1799
 #79|@is_BOSS|1794
@@ -149,11 +149,11 @@ Rank|Bot|Rating
 #147|@AbhijithHISBot|1258
 #148|@Humuhumunukunukuapu|1258
 #149|@Jannik08_fan|1258
-#150|@pawnrobot|1258
-#151|@PowerOnBot|1258
-#152|@xDmanBOT|1258
-#153|@yobmef|1258
-#154|@Groot123456|1257
+#150|@PowerOnBot|1258
+#151|@xDmanBOT|1258
+#152|@yobmef|1258
+#153|@Groot123456|1257
+#154|@pawnrobot|1257
 #155|@Bot1nokk|1221
 #156|@TheSystem_Bot|1218
 #157|@GuineaBot3|1212

@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@SCP079|2526
 #19|@ToromBot|2513
 #20|@ElPeonElectrico|2500
-#21|@tbhOnBot|2486
+#21|@tbhOnBot|2493
 #22|@Fairy-Stockfish|2484
 #23|@ESC_BOT|2476
 #24|@Less_of_a_threat|2469
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@TheMatrix2029|2448
 #28|@faith_bot|2447
 #29|@chessbot2880|2439
-#30|@DarkOnBot|2437
+#30|@DarkOnBot|2433
 #31|@ChessVBOT|2430
 #32|@InvinxibleFlxsh|2423
 #33|@FayEFish|2411
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@RaspFish|2382
 #37|@Speeedrunchessgames|2370
 #38|@Viet_BOT|2367
-#39|@VEER-OMEGA-BOT|2357
+#39|@VEER-OMEGA-BOT|2361
 #40|@Zer0_Tw0|2332
 #41|@TacticalBot|2320
 #42|@LudwigBOT|2304
@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@TheMatrix2025|2272
 #48|@vrnts_colinbot|2266
 #49|@YoBot_v2|2257
-#50|@colinbot|2216
+#50|@colinbot|2217
 #51|@Vinh_VariantsBot|2215
 #52|@Kizburb|2214
 #53|@virus_exe-bot|2209
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@OceanicOmegalord|2200
 #56|@YellowFlash_v2|2200
 #57|@ReallyCrazyBOT|2172
-#58|@is_BOSS|2162
+#58|@is_BOSS|2168
 #59|@ResoluteBot|2150
 #60|@ZhangirKhanBOT|2148
 #61|@Mega_BOT|2146

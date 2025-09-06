@@ -62,9 +62,9 @@ Rank|Bot|Rating
 #60|@lightspeed_bot|2177
 #61|@ChessVBOT|2168
 #62|@TacticalBot|2161
-#63|@Peaceful4Life|2160
-#64|@DarkOnBot|2159
-#65|@tbhOnBot|2159
+#63|@tbhOnBot|2161
+#64|@Peaceful4Life|2160
+#65|@DarkOnBot|2159
 #66|@SCP079|2156
 #67|@TheMatrix2025|2142
 #68|@CloudBot_v2|2131
@@ -134,8 +134,8 @@ Rank|Bot|Rating
 #132|@Isaacwb_BOT|1640
 #133|@SriLankaChess|1623
 #134|@Viet_BOT|1617
-#135|@is_BOSS|1614
-#136|@david9426_bot|1611
+#135|@david9426_bot|1611
+#136|@is_BOSS|1611
 #137|@CloudBotZero|1599
 #138|@PetersTestBot|1599
 #139|@TTC-BOT_2|1596

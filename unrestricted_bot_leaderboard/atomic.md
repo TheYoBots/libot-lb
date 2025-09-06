@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@PsychedelicAtomic|2296
 #56|@AndromedaSX1|2284
 #57|@vrnts_colinbot|2282
-#58|@VEER-OMEGA-BOT|2280
+#58|@VEER-OMEGA-BOT|2281
 #59|@TheMatrix2029|2278
 #60|@BGSBot|2272
 #61|@AtomicVsEngineBot|2268
@@ -172,8 +172,8 @@ Rank|Bot|Rating
 #170|@HumanBOT_lv1929|1844
 #171|@bananaaaaaaaaa_test|1843
 #172|@Lucror|1841
-#173|@CloudBotZero|1837
-#174|@is_BOSS|1831
+#173|@is_BOSS|1838
+#174|@CloudBotZero|1837
 #175|@CHESS1000BOT|1829
 #176|@Storm_Shadow2012|1825
 #177|@ReallyCrazyBOT|1816

@@ -648,6 +648,7 @@ chesshunterbot
 chesshyperbot
 chesshyperdragon
 chessiter666_bot
+chessiverse_ethan
 chessler-v4-nnue
 chesslionsbestbot
 chessloser2021_bot
@@ -2430,7 +2431,9 @@ ronaldduckbot
 ronideniz
 rookierobot
 rookrusty
+root2323
 rootengine
+rostigerritter
 rosybot
 roundmoundofrebounds
 routerbot
@@ -3240,6 +3243,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-root2323
-chessiverse_ethan
-rostigerritter
+ben-bot
+abstractbot
