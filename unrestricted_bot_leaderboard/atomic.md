@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@TacticalBot|2796
 #3|@VariantsBot|2714
 #4|@MaggiChess16|2698
-#5|@tbhOnBot|2679
+#5|@tbhOnBot|2680
 #6|@AlfaBot|2674
 #7|@EmptikVariantsBot|2671
 #8|@Fairy_Belzedar|2628
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@firstrobot|2485
 #27|@ElPeonElectrico|2482
 #28|@ShredderGrizzly|2479
-#29|@eNErGyOFbEiNGbOT|2477
+#29|@eNErGyOFbEiNGbOT|2478
 #30|@NormalBulletBot|2474
 #31|@LoseisnotAvailablehe|2466
 #32|@InvinxibleFlxsh|2465
@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@Dean_Summer_Bot|2305
 #55|@PsychedelicAtomic|2296
 #56|@AndromedaSX1|2284
-#57|@vrnts_colinbot|2282
-#58|@VEER-OMEGA-BOT|2281
+#57|@VEER-OMEGA-BOT|2283
+#58|@vrnts_colinbot|2282
 #59|@TheMatrix2029|2278
 #60|@BGSBot|2272
 #61|@AtomicVsEngineBot|2268
@@ -172,8 +172,8 @@ Rank|Bot|Rating
 #170|@HumanBOT_lv1929|1844
 #171|@bananaaaaaaaaa_test|1843
 #172|@Lucror|1841
-#173|@is_BOSS|1838
-#174|@CloudBotZero|1837
+#173|@CloudBotZero|1837
+#174|@is_BOSS|1835
 #175|@CHESS1000BOT|1829
 #176|@Storm_Shadow2012|1825
 #177|@ReallyCrazyBOT|1816
@@ -308,7 +308,7 @@ Rank|Bot|Rating
 #306|@TheSystem_Bot|1318
 #307|@PROBROMAN|1317
 #308|@Atomicbot1|1294
-#309|@pawnrobot|1293
+#309|@pawnrobot|1291
 #310|@DavidsGuterBot|1287
 #311|@XXXTryandTryXXX|1280
 #312|@legendbot1|1277

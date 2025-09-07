@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@SCP079|2526
 #19|@ToromBot|2513
 #20|@ElPeonElectrico|2500
-#21|@tbhOnBot|2493
+#21|@tbhOnBot|2496
 #22|@Fairy-Stockfish|2484
 #23|@ESC_BOT|2476
 #24|@Less_of_a_threat|2469
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@RaspFish|2382
 #37|@Speeedrunchessgames|2370
 #38|@Viet_BOT|2367
-#39|@VEER-OMEGA-BOT|2361
+#39|@VEER-OMEGA-BOT|2366
 #40|@Zer0_Tw0|2332
 #41|@TacticalBot|2320
 #42|@LudwigBOT|2304
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@OceanicOmegalord|2200
 #56|@YellowFlash_v2|2200
 #57|@ReallyCrazyBOT|2172
-#58|@is_BOSS|2168
+#58|@is_BOSS|2153
 #59|@ResoluteBot|2150
 #60|@ZhangirKhanBOT|2148
 #61|@Mega_BOT|2146
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@MasterofChessBOT800|1391
 #156|@HiddeNL|1385
 #157|@apraz|1383
-#158|@DanerdBot|1376
+#158|@DanerdBot|1383
 #159|@Bottios|1323
 #160|@TTC-BOT_2|1322
 #161|@cool_boy_bot|1321
@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@MyNameIsWhatLOL|1256
 #171|@SneakyBot21|1256
 #172|@TORTADEMANZANA023|1233
-#173|@pawnrobot|1229
+#173|@pawnrobot|1225
 #174|@heatseeker223|1191
 #175|@admin-bot|1188
 #176|@Ujwal1001|1179

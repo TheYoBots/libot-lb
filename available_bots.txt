@@ -8,6 +8,7 @@ abood_alkayyali_02
 abotofabotofabot
 abotwith3200rating
 absaks
+abstractbot
 abuziddin-bot
 ac-ac-bot
 acc_bot
@@ -268,6 +269,7 @@ bekbot
 belabot
 belgiumbot
 bellachess
+ben-bot
 benakachess
 benbotolucam
 bender_rodriguez01
@@ -3243,5 +3245,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ben-bot
-abstractbot
+olithinknomaterial

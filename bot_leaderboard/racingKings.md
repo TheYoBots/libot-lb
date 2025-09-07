@@ -3,5 +3,5 @@ Rank|Bot|Rating
 #1|@RaspFish|2556
 #2|@ToromBot|2528
 #3|@DarkOnBot|2491
-#4|@VEER-OMEGA-BOT|2477
+#4|@VEER-OMEGA-BOT|2481
 #5|@colinbot|2280

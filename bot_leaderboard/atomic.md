@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@DarkOnBot|2584
 #2|@ToromBot|2546
 #3|@RaspFish|2492
-#4|@eNErGyOFbEiNGbOT|2477
-#5|@VEER-OMEGA-BOT|2281
+#4|@eNErGyOFbEiNGbOT|2478
+#5|@VEER-OMEGA-BOT|2283
 #6|@colinbot|2022
-#7|@pawnrobot|1293
+#7|@pawnrobot|1291

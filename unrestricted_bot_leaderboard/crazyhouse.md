@@ -61,10 +61,10 @@ Rank|Bot|Rating
 #59|@HIWIN1234|2179
 #60|@lightspeed_bot|2177
 #61|@ChessVBOT|2168
-#62|@TacticalBot|2161
-#63|@tbhOnBot|2161
-#64|@Peaceful4Life|2160
-#65|@DarkOnBot|2159
+#62|@tbhOnBot|2162
+#63|@DarkOnBot|2161
+#64|@TacticalBot|2161
+#65|@Peaceful4Life|2160
 #66|@SCP079|2156
 #67|@TheMatrix2025|2142
 #68|@CloudBot_v2|2131
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@EstmileBot|1777
 #116|@Pineapple-Friendly|1773
 #117|@For9e|1771
-#118|@colinbot|1769
+#118|@colinbot|1767
 #119|@Speeedrunchessgames|1767
 #120|@Lila-Stockfish|1761
 #121|@Giphy_Logo|1741
@@ -133,9 +133,9 @@ Rank|Bot|Rating
 #131|@OpeningsBot|1645
 #132|@Isaacwb_BOT|1640
 #133|@SriLankaChess|1623
-#134|@Viet_BOT|1617
-#135|@david9426_bot|1611
-#136|@is_BOSS|1611
+#134|@is_BOSS|1621
+#135|@Viet_BOT|1617
+#136|@david9426_bot|1611
 #137|@CloudBotZero|1599
 #138|@PetersTestBot|1599
 #139|@TTC-BOT_2|1596
@@ -210,8 +210,8 @@ Rank|Bot|Rating
 #208|@FluffBallCuddly|1191
 #209|@heatseeker223|1191
 #210|@ChessPlayer1225|1183
-#211|@pawnrobot|1167
-#212|@Jannik08_fan|1163
+#211|@Jannik08_fan|1163
+#212|@pawnrobot|1161
 #213|@BSergey11-BOT|1149
 #214|@K_Shi_Bot|1149
 #215|@TeamChelsie|1125

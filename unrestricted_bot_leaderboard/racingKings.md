@@ -29,10 +29,10 @@ Rank|Bot|Rating
 #27|@DarkOnBot|2491
 #28|@TeamChelsie|2489
 #29|@tbhOnBot|2488
-#30|@eNErGyOFbEiNGbOT|2485
-#31|@TacticalBot|2480
-#32|@Magnus-BOT|2479
-#33|@VEER-OMEGA-BOT|2477
+#30|@VEER-OMEGA-BOT|2481
+#31|@eNErGyOFbEiNGbOT|2480
+#32|@TacticalBot|2480
+#33|@Magnus-BOT|2479
 #34|@newengine2022|2473
 #35|@vrnts_colinbot|2462
 #36|@CocopikachuBOT|2451
@@ -148,8 +148,8 @@ Rank|Bot|Rating
 #146|@MMC_HUANGBAI|1553
 #147|@faith_bot|1514
 #148|@CoderDen732|1507
-#149|@Groot123456|1501
-#150|@Bot1nokk|1500
+#149|@Bot1nokk|1500
+#150|@Groot123456|1500
 #151|@TorBot|1498
 #152|@KnightsArmour|1494
 #153|@MagnusCarlsen1507|1493

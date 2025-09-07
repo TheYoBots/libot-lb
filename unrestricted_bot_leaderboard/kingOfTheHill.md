@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@HIWIN1234|2383
 #13|@Coolman2021|2378
 #14|@Karpov_bot|2359
-#15|@DarkOnBot|2355
+#15|@DarkOnBot|2356
 #16|@ElPeonElectrico|2351
 #17|@TheMatrix2025|2346
 #18|@AndromedaSX1|2344
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@RaspFish|2254
 #31|@Speeedrunchessgames|2253
 #32|@YoBot_v2|2242
-#33|@eNErGyOFbEiNGbOT|2233
+#33|@eNErGyOFbEiNGbOT|2236
 #34|@ResoluteBot|2233
 #35|@ttBOT|2230
 #36|@NNUE_Drift|2229
@@ -88,7 +88,7 @@ Rank|Bot|Rating
 #86|@Resolved-Bot|1942
 #87|@Pineapple-Friendly|1937
 #88|@azdad|1936
-#89|@colinbot|1932
+#89|@colinbot|1931
 #90|@HyperLitikBOT|1930
 #91|@SacrificialSage|1925
 #92|@DrSmartBugs|1904
