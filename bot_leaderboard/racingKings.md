@@ -1,7 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2556
-#2|@ToromBot|2528
-#3|@DarkOnBot|2491
-#4|@VEER-OMEGA-BOT|2481
-#5|@colinbot|2280
+#2|@DarkOnBot|2486
+#3|@VEER-OMEGA-BOT|2485
+#4|@colinbot|2280

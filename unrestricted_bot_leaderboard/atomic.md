@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@Bharat_royals|2575
 #14|@UltronBot|2556
 #15|@Viet-AI|2556
-#16|@ToromBot|2546
+#16|@ToromBot|2542
 #17|@ttBOT|2540
 #18|@BitExtender128|2526
 #19|@ResoluteBot|2525
@@ -27,8 +27,8 @@ Rank|Bot|Rating
 #25|@RaspFish|2492
 #26|@firstrobot|2485
 #27|@ElPeonElectrico|2482
-#28|@ShredderGrizzly|2479
-#29|@eNErGyOFbEiNGbOT|2478
+#28|@eNErGyOFbEiNGbOT|2479
+#29|@ShredderGrizzly|2479
 #30|@NormalBulletBot|2474
 #31|@LoseisnotAvailablehe|2466
 #32|@InvinxibleFlxsh|2465
@@ -55,8 +55,8 @@ Rank|Bot|Rating
 #53|@Alehkine_cat|2312
 #54|@Dean_Summer_Bot|2305
 #55|@PsychedelicAtomic|2296
-#56|@AndromedaSX1|2284
-#57|@VEER-OMEGA-BOT|2283
+#56|@VEER-OMEGA-BOT|2285
+#57|@AndromedaSX1|2284
 #58|@vrnts_colinbot|2282
 #59|@TheMatrix2029|2278
 #60|@BGSBot|2272
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@HuxZero|2035
 #128|@EasyWinGG|2032
 #129|@Kizbuurb|2024
-#130|@colinbot|2022
+#130|@colinbot|2021
 #131|@ESC_BOT|2011
 #132|@are_bots_good|2006
 #133|@Breeze-Hot|2006
@@ -171,9 +171,9 @@ Rank|Bot|Rating
 #169|@Bbao23-chess|1846
 #170|@HumanBOT_lv1929|1844
 #171|@bananaaaaaaaaa_test|1843
-#172|@Lucror|1841
-#173|@CloudBotZero|1837
-#174|@is_BOSS|1835
+#172|@is_BOSS|1842
+#173|@Lucror|1841
+#174|@CloudBotZero|1837
 #175|@CHESS1000BOT|1829
 #176|@Storm_Shadow2012|1825
 #177|@ReallyCrazyBOT|1816
@@ -308,7 +308,7 @@ Rank|Bot|Rating
 #306|@TheSystem_Bot|1318
 #307|@PROBROMAN|1317
 #308|@Atomicbot1|1294
-#309|@pawnrobot|1291
+#309|@pawnrobot|1288
 #310|@DavidsGuterBot|1287
 #311|@XXXTryandTryXXX|1280
 #312|@legendbot1|1277

@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@RaspFish|2254
 #31|@Speeedrunchessgames|2253
 #32|@YoBot_v2|2242
-#33|@eNErGyOFbEiNGbOT|2236
+#33|@eNErGyOFbEiNGbOT|2239
 #34|@ResoluteBot|2233
 #35|@ttBOT|2230
 #36|@NNUE_Drift|2229
@@ -88,7 +88,7 @@ Rank|Bot|Rating
 #86|@Resolved-Bot|1942
 #87|@Pineapple-Friendly|1937
 #88|@azdad|1936
-#89|@colinbot|1931
+#89|@colinbot|1930
 #90|@HyperLitikBOT|1930
 #91|@SacrificialSage|1925
 #92|@DrSmartBugs|1904

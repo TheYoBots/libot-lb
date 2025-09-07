@@ -2117,6 +2117,7 @@ ok12435
 ok_zabu
 olithink-5
 olithinkflash
+olithinknomaterial
 olympusalexandriacz
 olympusberserkcz
 olympuscz
@@ -3245,4 +3246,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-olithinknomaterial
+elopracticebot
+olithinkunderpromote
