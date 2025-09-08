@@ -955,6 +955,7 @@ elmichess
 elninodiablo
 elo3800
 elo_1500
+elopracticebot
 elpeonelectrico
 elrincho
 eman_no_book
@@ -2118,6 +2119,7 @@ ok_zabu
 olithink-5
 olithinkflash
 olithinknomaterial
+olithinkunderpromote
 olympusalexandriacz
 olympusberserkcz
 olympuscz
@@ -3246,5 +3248,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-elopracticebot
-olithinkunderpromote
+prokopakop
+grail-bot
+chessiverse_raak
+chessiverse_luc
+chessiverse_pawnza

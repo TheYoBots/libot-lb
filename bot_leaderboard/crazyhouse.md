@@ -1,9 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2335
-#2|@DarkOnBot|2264
-#3|@Yuki_1324|2234
-#4|@RaspFish|2192
-#5|@MaggiChess16|2143
-#6|@NNUE_Drift|2127
-#7|@colinbot|1763
+#2|@ElPeonElectrico|2271
+#3|@DarkOnBot|2253
+#4|@Yuki_1324|2234
+#5|@RaspFish|2192
+#6|@MaggiChess16|2143
+#7|@NNUE_Drift|2116
+#8|@colinbot|1763

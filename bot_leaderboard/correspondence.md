@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@GarboBot|2012
+#1|@GarboBot|2017
