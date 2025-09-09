@@ -11,14 +11,14 @@ Rank|Bot|Rating
 #9|@ttBOT|2584
 #10|@compchess2|2579
 #11|@MaggiChess16|2526
-#12|@ToromBot|2472
+#12|@ToromBot|2473
 #13|@Nerubatskyi_Daniil_v|2471
 #14|@Endogenetic-Bot|2439
 #15|@NecroMindX|2435
 #16|@HIWIN1234|2418
 #17|@Speeedrunchessgames|2405
 #18|@EmptikVariantsBot|2402
-#19|@NNUE_Drift|2388
+#19|@NNUE_Drift|2386
 #20|@EmptikBot|2378
 #21|@LoseisnotAvailablehe|2369
 #22|@PINEAPPLEMASK|2369
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Hyper-Stockfish|2358
 #25|@Yuki_1324|2337
 #26|@OceanicAbyssalord|2333
-#27|@tbhOnBot|2326
+#27|@tbhOnBot|2328
 #28|@AlfaBot|2293
 #29|@FayEFish|2292
 #30|@Fairy-Stockfish|2289
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@Breeze-Hot|1809
 #80|@GodelEscherBot|1805
 #81|@Yemmi-Yemmi|1799
-#82|@colinbot|1795
+#82|@colinbot|1794
 #83|@thibot|1789
 #84|@RobotTigerSlav|1781
 #85|@XXXTryandTryXXX|1781

@@ -1600,6 +1600,7 @@ kulubot
 kung-fupanda
 kunju_bot
 kunkkabot
+kunsaya
 kurosaki_higor
 kvasbot
 kvothechess_bot
@@ -1619,6 +1620,7 @@ ladybugbot
 laira_z
 lalis1
 lamanodetal
+lambergar
 lapischesszero
 laquaisha
 lastwill
@@ -3253,5 +3255,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-lambergar
-kunsaya

@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@MaggiChess16|2526
-#2|@ToromBot|2472
+#2|@ToromBot|2473
 #3|@NecroMindX|2435
 #4|@Speeedrunchessgames|2405
-#5|@NNUE_Drift|2388
+#5|@NNUE_Drift|2386
 #6|@Yuki_1324|2337
 #7|@DarkOnBot|2287
 #8|@RaspFish|2270
 #9|@ElPeonElectrico|2262
-#10|@colinbot|1795
+#10|@colinbot|1794
 #11|@pawnrobot|1261

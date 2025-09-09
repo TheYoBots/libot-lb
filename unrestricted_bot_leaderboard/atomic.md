@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@Bharat_royals|2575
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
-#15|@Endogenetic-Bot|2553
-#16|@MaggiChess16|2544
-#17|@ttBOT|2540
+#15|@MaggiChess16|2544
+#16|@ttBOT|2540
+#17|@Endogenetic-Bot|2536
 #18|@Exogenetic-Bot|2534
 #19|@strain-on-veins|2533
 #20|@ToromBot|2531
