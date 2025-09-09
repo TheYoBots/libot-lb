@@ -6,6 +6,6 @@ Rank|Bot|Rating
 #4|@RaspFish|2483
 #5|@eNErGyOFbEiNGbOT|2480
 #6|@ElPeonElectrico|2403
-#7|@VEER-OMEGA-BOT|2274
-#8|@colinbot|2030
+#7|@VEER-OMEGA-BOT|2277
+#8|@colinbot|2027
 #9|@pawnrobot|1288

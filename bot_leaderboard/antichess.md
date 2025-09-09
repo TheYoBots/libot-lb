@@ -17,10 +17,9 @@ Rank|Bot|Rating
 #15|@Yuki_1324|2569
 #16|@InvinxibleFlxsh|2541
 #17|@is_BOSS|2516
-#18|@colinbot|2450
+#18|@colinbot|2452
 #19|@Nakshatra3|2365
 #20|@NilatacBot|2236
-#21|@anti-bot|2182
-#22|@CatNail|2034
-#23|@Groot123456|1889
-#24|@pawnrobot|1843
+#21|@anti-bot|2175
+#22|@CatNail|2048
+#23|@pawnrobot|1926

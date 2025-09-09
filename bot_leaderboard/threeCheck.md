@@ -4,12 +4,12 @@ Rank|Bot|Rating
 #2|@ToromBot|2432
 #3|@InvinxibleFlxsh|2423
 #4|@VEER-OMEGA-BOT|2384
-#5|@DarkOnBot|2375
+#5|@DarkOnBot|2378
 #6|@RaspFish|2339
 #7|@Speeedrunchessgames|2306
 #8|@TacticalBot|2297
 #9|@virus_exe-bot|2209
-#10|@colinbot|2205
+#10|@colinbot|2202
 #11|@is_BOSS|2134
 #12|@Groot123456|1681
 #13|@DavidsGuterBot|1568

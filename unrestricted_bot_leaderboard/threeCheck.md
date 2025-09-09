@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@OceanicAbyssalord|2393
 #34|@MaggiChess16|2385
 #35|@VEER-OMEGA-BOT|2384
-#36|@DarkOnBot|2375
+#36|@DarkOnBot|2378
 #37|@Endogenetic-Bot|2372
 #38|@NNUE_Drift|2372
 #39|@PINEAPPLEMASK|2372
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@Kizburb|2214
 #58|@virus_exe-bot|2209
 #59|@xiang-qi|2207
-#60|@colinbot|2205
+#60|@colinbot|2202
 #61|@OceanicOmegalord|2200
 #62|@YellowFlash_v2|2200
 #63|@ReallyCrazyBOT|2172

@@ -10,4 +10,4 @@ Rank|Bot|Rating
 #8|@RaspFish|2270
 #9|@ElPeonElectrico|2262
 #10|@colinbot|1795
-#11|@pawnrobot|1262
+#11|@pawnrobot|1261

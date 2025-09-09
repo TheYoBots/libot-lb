@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@Nicholaswb_BOT|1288
 #150|@AEBROADUSBOTTER|1279
 #151|@ReallyCrazyBOT|1279
-#152|@pawnrobot|1262
+#152|@pawnrobot|1261
 #153|@AbhijithHISBot|1258
 #154|@Humuhumunukunukuapu|1258
 #155|@Jannik08_fan|1258

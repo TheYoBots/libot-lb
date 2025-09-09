@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@AndromedaSX1|2284
 #64|@vrnts_colinbot|2282
 #65|@TheMatrix2029|2278
-#66|@VEER-OMEGA-BOT|2274
+#66|@VEER-OMEGA-BOT|2277
 #67|@BGSBot|2272
 #68|@AtomicVsEngineBot|2268
 #69|@xiang-qi|2268
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@MagnusCarlsen1507|2037
 #134|@HuxZero|2035
 #135|@EasyWinGG|2032
-#136|@colinbot|2030
+#136|@colinbot|2027
 #137|@Kizbuurb|2024
 #138|@ESC_BOT|2011
 #139|@are_bots_good|2006

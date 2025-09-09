@@ -651,6 +651,9 @@ chesshyperbot
 chesshyperdragon
 chessiter666_bot
 chessiverse_ethan
+chessiverse_luc
+chessiverse_pawnza
+chessiverse_raak
 chessler-v4-nnue
 chesslionsbestbot
 chessloser2021_bot
@@ -1216,6 +1219,7 @@ gptplayschess
 grabdebottom
 graduallearning
 graduallylearning
+grail-bot
 grand-bot
 grand_mefbartu-bot
 grandchessbot
@@ -2281,6 +2285,7 @@ professional-bot-021
 project-shashchess
 project_nebulora
 projecthuman
+prokopakop
 prometheus-bot
 proteussf
 proteussf-aureo
@@ -3248,8 +3253,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-prokopakop
-grail-bot
-chessiverse_raak
-chessiverse_luc
-chessiverse_pawnza
+lambergar
+kunsaya
