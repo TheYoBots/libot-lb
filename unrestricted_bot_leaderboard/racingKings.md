@@ -26,11 +26,11 @@ Rank|Bot|Rating
 #24|@Yuki_1324|2509
 #25|@Endogenetic-Bot|2507
 #26|@PINEAPPLEMASK|2505
-#27|@DarkOnBot|2503
-#28|@tbhOnBot|2500
-#29|@OceanicAbyssalord|2497
-#30|@ToromBot|2497
-#31|@Dark_evil_bot|2496
+#27|@tbhOnBot|2500
+#28|@OceanicAbyssalord|2497
+#29|@ToromBot|2497
+#30|@Dark_evil_bot|2496
+#31|@DarkOnBot|2494
 #32|@mrchessmanager|2494
 #33|@TeamChelsie|2489
 #34|@VEER-OMEGA-BOT|2487

@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@Yuki_1324|2509
 #8|@Endogenetic-Bot|2507
 #9|@PINEAPPLEMASK|2505
-#10|@DarkOnBot|2503
-#11|@ToromBot|2497
+#10|@ToromBot|2497
+#11|@DarkOnBot|2494
 #12|@VEER-OMEGA-BOT|2487
 #13|@ElPeonElectrico|2486
 #14|@RaspFish|2486

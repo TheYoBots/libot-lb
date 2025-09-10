@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@Speeedrunchessgames|2306
 #8|@TacticalBot|2297
 #9|@virus_exe-bot|2209
-#10|@colinbot|2206
+#10|@colinbot|2203
 #11|@is_BOSS|2138
-#12|@Groot123456|1681
-#13|@DavidsGuterBot|1568
+#12|@Groot123456|1686
+#13|@DavidsGuterBot|1564
 #14|@DanerdBot|1383
 #15|@pawnrobot|1225

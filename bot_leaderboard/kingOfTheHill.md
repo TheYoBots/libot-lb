@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2382
-#2|@Speeedrunchessgames|2379
-#3|@NecroMindX|2364
-#4|@PINEAPPLEMASK|2317
+#2|@NecroMindX|2364
+#3|@Speeedrunchessgames|2364
+#4|@PINEAPPLEMASK|2332
 #5|@DarkOnBot|2314
 #6|@Exogenetic-Bot|2305
 #7|@MaggiChess16|2282
@@ -15,9 +15,8 @@ Rank|Bot|Rating
 #13|@strain-on-veins|2243
 #14|@RaspFish|2235
 #15|@VEER-OMEGA-BOT|2196
-#16|@InvinxibleFlxsh|2193
-#17|@virus_exe-bot|2006
-#18|@colinbot|1901
-#19|@Groot123456|1559
-#20|@DavidsGuterBot|1496
-#21|@pawnrobot|1191
+#16|@virus_exe-bot|2006
+#17|@colinbot|1901
+#18|@Groot123456|1567
+#19|@DavidsGuterBot|1492
+#20|@pawnrobot|1191
