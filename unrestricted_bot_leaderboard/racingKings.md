@@ -33,12 +33,12 @@ Rank|Bot|Rating
 #31|@Dark_evil_bot|2496
 #32|@mrchessmanager|2494
 #33|@TeamChelsie|2489
-#34|@ElPeonElectrico|2486
-#35|@RaspFish|2486
-#36|@VEER-OMEGA-BOT|2485
-#37|@eNErGyOFbEiNGbOT|2481
-#38|@Magnus-BOT|2479
-#39|@TacticalBot|2479
+#34|@VEER-OMEGA-BOT|2487
+#35|@ElPeonElectrico|2486
+#36|@RaspFish|2486
+#37|@Magnus-BOT|2479
+#38|@TacticalBot|2479
+#39|@eNErGyOFbEiNGbOT|2476
 #40|@newengine2022|2473
 #41|@vrnts_colinbot|2462
 #42|@CocopikachuBOT|2451
@@ -93,7 +93,7 @@ Rank|Bot|Rating
 #91|@Johnsun|2181
 #92|@HuxZero|2176
 #93|@AnUtterlyKarBot|2174
-#94|@is_BOSS|2146
+#94|@is_BOSS|2149
 #95|@knight_128|2144
 #96|@Kizburb|2126
 #97|@mc-king-098|2124

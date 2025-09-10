@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@PINEAPPLEMASK|2505
 #10|@DarkOnBot|2503
 #11|@ToromBot|2497
-#12|@ElPeonElectrico|2486
-#13|@RaspFish|2486
-#14|@VEER-OMEGA-BOT|2485
-#15|@eNErGyOFbEiNGbOT|2481
+#12|@VEER-OMEGA-BOT|2487
+#13|@ElPeonElectrico|2486
+#14|@RaspFish|2486
+#15|@eNErGyOFbEiNGbOT|2476
 #16|@colinbot|2266

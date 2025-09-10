@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@BSTAF|2179
 #10|@ElPeonElectrico|2179
 #11|@NNUE_Drift|2171
-#12|@DarkOnBot|2157
+#12|@DarkOnBot|2159
 #13|@RaspFish|2148
 #14|@strain-on-veins|2133
-#15|@colinbot|1762
+#15|@colinbot|1757
