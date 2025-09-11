@@ -9,5 +9,5 @@ Rank|Bot|Rating
 #7|@DarkOnBot|2301
 #8|@RaspFish|2270
 #9|@ElPeonElectrico|2252
-#10|@colinbot|1810
-#11|@pawnrobot|1267
+#10|@colinbot|1818
+#11|@pawnrobot|1265

@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
-#9|@DarkOnBot|2593
+#9|@DarkOnBot|2594
 #10|@pistol-play|2590
 #11|@NNUE_Drift|2577
 #12|@Bharat_royals|2575
@@ -19,13 +19,13 @@ Rank|Bot|Rating
 #17|@Endogenetic-Bot|2536
 #18|@Exogenetic-Bot|2534
 #19|@strain-on-veins|2533
-#20|@NecroMindX|2528
-#21|@BitExtender128|2526
-#22|@ResoluteBot|2525
-#23|@CatBot_14|2514
-#24|@EmptikBot|2510
-#25|@Speeedrunchessgames|2504
-#26|@ToromBot|2502
+#20|@ToromBot|2530
+#21|@NecroMindX|2528
+#22|@BitExtender128|2526
+#23|@ResoluteBot|2525
+#24|@CatBot_14|2514
+#25|@EmptikBot|2510
+#26|@Speeedrunchessgames|2504
 #27|@ibep|2498
 #28|@firstrobot|2485
 #29|@RaspFish|2484
@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@AndromedaSX1|2284
 #64|@vrnts_colinbot|2282
 #65|@TheMatrix2029|2278
-#66|@VEER-OMEGA-BOT|2273
+#66|@VEER-OMEGA-BOT|2275
 #67|@BGSBot|2272
 #68|@AtomicVsEngineBot|2268
 #69|@xiang-qi|2268
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@MagnusCarlsen1507|2037
 #134|@HuxZero|2035
 #135|@EasyWinGG|2032
-#136|@colinbot|2030
+#136|@colinbot|2028
 #137|@Kizbuurb|2024
 #138|@ESC_BOT|2011
 #139|@are_bots_good|2006

@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@Fairy_Belzedar|2544
 #16|@KizVariant|2529
 #17|@SCP079|2526
-#18|@ElPeonElectrico|2500
-#19|@tbhOnBot|2499
+#18|@tbhOnBot|2505
+#19|@ElPeonElectrico|2500
 #20|@Fairy-Stockfish|2484
 #21|@ESC_BOT|2476
 #22|@Less_of_a_threat|2469
@@ -33,9 +33,9 @@ Rank|Bot|Rating
 #31|@NecroMindX|2419
 #32|@FayEFish|2411
 #33|@OceanicAbyssalord|2393
-#34|@VEER-OMEGA-BOT|2387
+#34|@VEER-OMEGA-BOT|2391
 #35|@MaggiChess16|2385
-#36|@DarkOnBot|2378
+#36|@DarkOnBot|2381
 #37|@Endogenetic-Bot|2372
 #38|@Viet_BOT|2367
 #39|@PINEAPPLEMASK|2365
@@ -59,9 +59,9 @@ Rank|Bot|Rating
 #57|@Kizburb|2214
 #58|@virus_exe-bot|2209
 #59|@xiang-qi|2207
-#60|@colinbot|2203
-#61|@OceanicOmegalord|2200
-#62|@YellowFlash_v2|2200
+#60|@OceanicOmegalord|2200
+#61|@YellowFlash_v2|2200
+#62|@colinbot|2193
 #63|@ReallyCrazyBOT|2172
 #64|@ResoluteBot|2150
 #65|@ZhangirKhanBOT|2148
