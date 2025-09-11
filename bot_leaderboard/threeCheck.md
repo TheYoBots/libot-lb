@@ -4,12 +4,12 @@ Rank|Bot|Rating
 #2|@ToromBot|2432
 #3|@VEER-OMEGA-BOT|2391
 #4|@DarkOnBot|2381
-#5|@RaspFish|2339
+#5|@RaspFish|2345
 #6|@Speeedrunchessgames|2306
 #7|@TacticalBot|2297
 #8|@virus_exe-bot|2209
 #9|@colinbot|2193
-#10|@is_BOSS|2138
+#10|@is_BOSS|2144
 #11|@Groot123456|1686
 #12|@DavidsGuterBot|1564
 #13|@DanerdBot|1383

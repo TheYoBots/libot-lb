@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@HIWIN1234|2383
 #10|@ToromBot|2382
 #11|@Coolman2021|2378
-#12|@NecroMindX|2364
-#13|@Speeedrunchessgames|2364
-#14|@Karpov_bot|2359
+#12|@Speeedrunchessgames|2364
+#13|@Karpov_bot|2359
+#14|@NecroMindX|2359
 #15|@TheMatrix2025|2346
 #16|@AndromedaSX1|2344
 #17|@PINEAPPLEMASK|2332
@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@LoseisnotAvailablehe|2274
 #30|@bananaaaaaaaaa_test|2269
 #31|@ElPeonElectrico|2269
-#32|@Bobby_Fischer_BOT|2267
-#33|@NNUE_Drift|2264
+#32|@NNUE_Drift|2268
+#33|@Bobby_Fischer_BOT|2267
 #34|@FayEFish|2262
 #35|@Endogenetic-Bot|2258
 #36|@lord-bot|2258
@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@PetersTestBot|1890
 #101|@MistakeBOT|1886
 #102|@EagleEye2021|1880
-#103|@is_BOSS|1875
+#103|@is_BOSS|1880
 #104|@xiang-qi|1868
 #105|@que-hyper|1865
 #106|@relevantproblem|1857
@@ -134,7 +134,7 @@ Rank|Bot|Rating
 #132|@CoderDen732|1621
 #133|@Breeze-Hot|1606
 #134|@Just-a-random-bot|1604
-#135|@Groot123456|1575
+#135|@Groot123456|1572
 #136|@MMC_HUANGBAI|1569
 #137|@Epiano_Bot|1567
 #138|@Ramses-Chess|1547
@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@hyperchessbot1|1493
 #145|@MagnusCarlsen1507|1492
 #146|@SugarAndSpice|1489
-#147|@DavidsGuterBot|1487
-#148|@rtx3080tibot|1487
+#147|@rtx3080tibot|1487
+#148|@DavidsGuterBot|1479
 #149|@SUMAL_BRO|1476
 #150|@Ukraine-team-creator|1476
 #151|@Less_of_a_threat|1470
@@ -158,9 +158,9 @@ Rank|Bot|Rating
 #156|@TorBot|1463
 #157|@McKapran78|1435
 #158|@EZWipe|1432
-#159|@BetaOneBot|1424
-#160|@ShredderGrizzly|1418
-#161|@DanerdBot|1416
+#159|@DanerdBot|1426
+#160|@BetaOneBot|1424
+#161|@ShredderGrizzly|1418
 #162|@CVA728_BOT_1|1412
 #163|@Lightning_SpeedChess|1400
 #164|@cool_boy_bot|1388
@@ -180,8 +180,8 @@ Rank|Bot|Rating
 #178|@knight_128|1233
 #179|@MyNameIsSpeedy|1226
 #180|@Bottios|1223
-#181|@RSVMentor|1196
-#182|@pawnrobot|1191
+#181|@pawnrobot|1202
+#182|@RSVMentor|1196
 #183|@Boom_Bot|1176
 #184|@TrashBot|1168
 #185|@shakboy9824453231op|1152

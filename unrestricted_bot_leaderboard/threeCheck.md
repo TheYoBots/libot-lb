@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@ToromBot|2432
 #29|@ChessVBOT|2430
 #30|@InvinxibleFlxsh|2423
-#31|@NecroMindX|2419
-#32|@FayEFish|2411
+#31|@FayEFish|2411
+#32|@NecroMindX|2402
 #33|@OceanicAbyssalord|2393
 #34|@VEER-OMEGA-BOT|2391
 #35|@MaggiChess16|2385
@@ -39,9 +39,9 @@ Rank|Bot|Rating
 #37|@Endogenetic-Bot|2372
 #38|@Viet_BOT|2367
 #39|@PINEAPPLEMASK|2365
-#40|@NNUE_Drift|2362
+#40|@NNUE_Drift|2363
 #41|@HIWIN1234|2359
-#42|@RaspFish|2339
+#42|@RaspFish|2345
 #43|@Zer0_Tw0|2332
 #44|@Speeedrunchessgames|2306
 #45|@LudwigBOT|2304
@@ -66,9 +66,9 @@ Rank|Bot|Rating
 #64|@ResoluteBot|2150
 #65|@ZhangirKhanBOT|2148
 #66|@Mega_BOT|2146
-#67|@Bot_AOOP11|2141
-#68|@Bobby_Fischer_BOT|2138
-#69|@is_BOSS|2138
+#67|@is_BOSS|2144
+#68|@Bot_AOOP11|2141
+#69|@Bobby_Fischer_BOT|2138
 #70|@abhisun_bot|2129
 #71|@NienishiEngine|2124
 #72|@Exogenetic-Bot|2117

@@ -2,10 +2,10 @@ Rank|Bot|Rating
 ---|---|---
 #1|@DarkOnBot|2594
 #2|@MaggiChess16|2544
-#3|@ToromBot|2530
-#4|@RaspFish|2484
-#5|@eNErGyOFbEiNGbOT|2482
+#3|@ToromBot|2515
+#4|@RaspFish|2485
+#5|@eNErGyOFbEiNGbOT|2483
 #6|@ElPeonElectrico|2407
-#7|@VEER-OMEGA-BOT|2275
+#7|@VEER-OMEGA-BOT|2267
 #8|@colinbot|2028
 #9|@pawnrobot|1299

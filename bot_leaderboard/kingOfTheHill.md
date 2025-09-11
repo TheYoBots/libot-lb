@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2382
-#2|@NecroMindX|2364
-#3|@Speeedrunchessgames|2364
+#2|@Speeedrunchessgames|2364
+#3|@NecroMindX|2359
 #4|@PINEAPPLEMASK|2332
 #5|@DarkOnBot|2314
 #6|@Exogenetic-Bot|2305
@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@MaggiChess16|2282
 #9|@TacticalBot|2278
 #10|@ElPeonElectrico|2269
-#11|@NNUE_Drift|2264
+#11|@NNUE_Drift|2268
 #12|@Endogenetic-Bot|2258
 #13|@eNErGyOFbEiNGbOT|2250
 #14|@strain-on-veins|2243
@@ -18,6 +18,6 @@ Rank|Bot|Rating
 #16|@VEER-OMEGA-BOT|2198
 #17|@virus_exe-bot|2003
 #18|@colinbot|1900
-#19|@Groot123456|1575
-#20|@DavidsGuterBot|1487
-#21|@pawnrobot|1191
+#19|@Groot123456|1572
+#20|@DavidsGuterBot|1479
+#21|@pawnrobot|1202

@@ -10,9 +10,9 @@ Rank|Bot|Rating
 #8|@NNUE_Drift|2507
 #9|@PINEAPPLEMASK|2505
 #10|@ToromBot|2497
-#11|@DarkOnBot|2494
-#12|@VEER-OMEGA-BOT|2487
+#11|@DarkOnBot|2496
+#12|@RaspFish|2489
 #13|@ElPeonElectrico|2486
-#14|@RaspFish|2486
-#15|@eNErGyOFbEiNGbOT|2472
+#14|@VEER-OMEGA-BOT|2481
+#15|@eNErGyOFbEiNGbOT|2468
 #16|@colinbot|2269
