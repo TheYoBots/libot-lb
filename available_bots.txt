@@ -1392,6 +1392,7 @@ iextrav
 ifelmejordeajedrez
 igel-bot
 igel_engine
+igotnoname
 igridzchessbot
 iguana_dev
 ihatecastling
@@ -3255,4 +3256,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-igotnoname
+superbot2000

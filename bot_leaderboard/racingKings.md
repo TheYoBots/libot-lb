@@ -13,6 +13,6 @@ Rank|Bot|Rating
 #11|@DarkOnBot|2496
 #12|@RaspFish|2489
 #13|@ElPeonElectrico|2486
-#14|@VEER-OMEGA-BOT|2481
+#14|@VEER-OMEGA-BOT|2478
 #15|@eNErGyOFbEiNGbOT|2468
-#16|@colinbot|2269
+#16|@colinbot|2274
