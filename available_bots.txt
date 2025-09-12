@@ -2764,6 +2764,7 @@ sunrise-reflections
 sunstone_bot
 super_sus
 superbot090
+superbot2000
 superchessbot2222
 superchessenginev1
 superedgar
@@ -3256,4 +3257,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-superbot2000

@@ -9,10 +9,11 @@ Rank|Bot|Rating
 #7|@Endogenetic-Bot|2507
 #8|@NNUE_Drift|2507
 #9|@PINEAPPLEMASK|2505
-#10|@ToromBot|2497
+#10|@ToromBot|2502
 #11|@DarkOnBot|2496
 #12|@RaspFish|2489
 #13|@ElPeonElectrico|2486
-#14|@VEER-OMEGA-BOT|2478
-#15|@eNErGyOFbEiNGbOT|2468
-#16|@colinbot|2274
+#14|@eNErGyOFbEiNGbOT|2471
+#15|@VEER-OMEGA-BOT|2465
+#16|@colinbot|2275
+#17|@is_BOSS|2142
