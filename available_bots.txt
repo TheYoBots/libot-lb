@@ -3257,3 +3257,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+mobius-grey
+chebot_1
+fairy-vvrr

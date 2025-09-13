@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@Speeedrunchessgames|2512
 #6|@Yuki_1324|2509
 #7|@Endogenetic-Bot|2507
-#8|@NNUE_Drift|2504
-#9|@PINEAPPLEMASK|2504
+#8|@PINEAPPLEMASK|2504
+#9|@NNUE_Drift|2501
 #10|@DarkOnBot|2499
 #11|@ToromBot|2494
 #12|@RaspFish|2492
