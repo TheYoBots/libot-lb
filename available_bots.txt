@@ -589,6 +589,7 @@ charlesbot
 chat_bot
 che_domi
 cheakykoala
+chebot_1
 checkbro_official
 checkmate-ai
 checkmate10101010
@@ -1042,6 +1043,7 @@ fabriad
 facets-untarnished
 fairgamekavvadias
 fairy-stockfish
+fairy-vvrr
 fairy_belzedar
 fairytailregimebot
 faith_bot
@@ -1935,6 +1937,7 @@ mkad-106_bot
 mlchessbot
 mmc_huangbai
 mnscp
+mobius-grey
 mocheezero
 mochi_bot
 mokbot
@@ -3257,6 +3260,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-mobius-grey
-chebot_1
-fairy-vvrr
+mechasoleil
+sybbot
