@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@Coolman2021|2527
 #14|@EmptikBot|2526
 #15|@Exogenetic-Bot|2524
-#16|@Speeedrunchessgames|2517
-#17|@MaggiChess16|2516
+#16|@MaggiChess16|2521
+#17|@Speeedrunchessgames|2517
 #18|@NecroMindX|2516
 #19|@strain-on-veins|2516
 #20|@Nebulogic|2514
@@ -24,11 +24,11 @@ Rank|Bot|Rating
 #22|@tbhOnBot|2510
 #23|@Yuki_1324|2509
 #24|@Endogenetic-Bot|2507
-#25|@TacticalBot|2506
-#26|@PINEAPPLEMASK|2504
-#27|@HIWIN1234|2500
-#28|@DarkOnBot|2497
-#29|@OceanicAbyssalord|2497
+#25|@PINEAPPLEMASK|2504
+#26|@HIWIN1234|2500
+#27|@DarkOnBot|2497
+#28|@OceanicAbyssalord|2497
+#29|@TacticalBot|2497
 #30|@Dark_evil_bot|2496
 #31|@NNUE_Drift|2495
 #32|@mrchessmanager|2494
@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@eNErGyOFbEiNGbOT|2480
 #38|@Magnus-BOT|2479
 #39|@newengine2022|2473
-#40|@vrnts_colinbot|2462
-#41|@VEER-OMEGA-BOT|2458
+#40|@VEER-OMEGA-BOT|2462
+#41|@vrnts_colinbot|2462
 #42|@CocopikachuBOT|2451
 #43|@Fairy-Stockfish|2438
 #44|@NormalBlitzBulletBot|2435
@@ -93,7 +93,7 @@ Rank|Bot|Rating
 #91|@Johnsun|2181
 #92|@HuxZero|2176
 #93|@AnUtterlyKarBot|2174
-#94|@is_BOSS|2151
+#94|@is_BOSS|2145
 #95|@knight_128|2144
 #96|@Kizburb|2126
 #97|@mc-king-098|2124

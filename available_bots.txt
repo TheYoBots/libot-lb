@@ -1883,6 +1883,7 @@ mckapran78
 mcyborg
 md211bot
 mecbotchess1
+mechasoleil
 medipoluniversity
 medvbn
 meetnarangbot
@@ -2790,6 +2791,7 @@ sxdraw
 sxdrawbetter
 sxdrawworse
 sxrandom
+sybbot
 sylvestrec
 symnium
 syrinx-bot
@@ -3260,5 +3262,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-mechasoleil
-sybbot
+creaticachessbot
