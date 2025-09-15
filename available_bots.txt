@@ -72,6 +72,7 @@ alexz55
 alfabot
 aliabdelaalchess
 alice-cesarina
+alieknek
 alightbot
 all_except_chess960
 allgames_bot
@@ -3141,6 +3142,7 @@ whispermate
 whitewidowbot
 why_this_bot_exists
 whychess-bot
+wildorderbot
 willbochessengine
 williamengine
 williamgasaad
@@ -3263,5 +3265,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-alieknek
-wildorderbot
+sf_bot1nok
+bot1e
