@@ -18,6 +18,6 @@ Rank|Bot|Rating
 #16|@eNErGyOFbEiNGbOT|2176
 #17|@virus_exe-bot|2000
 #18|@colinbot|1920
-#19|@Groot123456|1570
-#20|@DavidsGuterBot|1472
-#21|@pawnrobot|1188
+#19|@Groot123456|1574
+#20|@DavidsGuterBot|1470
+#21|@pawnrobot|1186

@@ -391,6 +391,7 @@ bot-variants
 bot-whiteworm
 bot1996123
 bot1cwc
+bot1e
 bot1nokk
 bot2000
 bot2cwc
@@ -2547,6 +2548,7 @@ sf-dev
 sf-nnue
 sf12bot
 sf_bot
+sf_bot1nok
 sf_nnue2
 sfbot1
 sfishchess2021
@@ -3265,5 +3267,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sf_bot1nok
-bot1e

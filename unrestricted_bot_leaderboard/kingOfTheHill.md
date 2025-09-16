@@ -102,8 +102,8 @@ Rank|Bot|Rating
 #100|@PetersTestBot|1890
 #101|@MistakeBOT|1886
 #102|@EagleEye2021|1880
-#103|@xiang-qi|1868
-#104|@is_BOSS|1865
+#103|@is_BOSS|1870
+#104|@xiang-qi|1868
 #105|@que-hyper|1865
 #106|@relevantproblem|1857
 #107|@Botzer|1851
@@ -134,7 +134,7 @@ Rank|Bot|Rating
 #132|@CoderDen732|1621
 #133|@Breeze-Hot|1606
 #134|@Just-a-random-bot|1604
-#135|@Groot123456|1570
+#135|@Groot123456|1574
 #136|@MMC_HUANGBAI|1569
 #137|@Epiano_Bot|1567
 #138|@Ramses-Chess|1547
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@rtx3080tibot|1487
 #148|@SUMAL_BRO|1476
 #149|@Ukraine-team-creator|1476
-#150|@DavidsGuterBot|1472
+#150|@DavidsGuterBot|1470
 #151|@Less_of_a_threat|1470
 #152|@Bbao23-chess|1469
 #153|@Trainspotter|1466
@@ -181,7 +181,7 @@ Rank|Bot|Rating
 #179|@MyNameIsSpeedy|1226
 #180|@Bottios|1223
 #181|@RSVMentor|1196
-#182|@pawnrobot|1188
+#182|@pawnrobot|1186
 #183|@Boom_Bot|1176
 #184|@TrashBot|1168
 #185|@shakboy9824453231op|1152

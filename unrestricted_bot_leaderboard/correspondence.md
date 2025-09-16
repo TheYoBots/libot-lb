@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@matmoi|1972
 #150|@BigBrainen|1970
 #151|@BritBot|1970
-#152|@RadianceEngine|1965
+#152|@RadianceEngine|1969
 #153|@Test_God_50_BOT|1965
 #154|@WMatt|1958
 #155|@Primer-Bot|1956
