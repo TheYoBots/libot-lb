@@ -1186,6 +1186,7 @@ getfun
 geulbot
 ggkedi
 ghdes
+ghost_hunter2998
 ghostfacebot
 ghostfreak123
 ghosty_347
@@ -3267,4 +3268,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ghost_hunter2998
+thevikingengine
+benstockfishbot
