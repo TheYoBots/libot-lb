@@ -660,6 +660,7 @@ chessiverse_pawnza
 chessiverse_raak
 chessler-v4-nnue
 chesslionsbestbot
+chessllmodel
 chessloser2021_bot
 chessly-bot
 chessmaster6k
@@ -3270,4 +3271,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chessllmodel
+testingbot1

@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@NecroMindX|2516
 #17|@strain-on-veins|2516
 #18|@Nebulogic|2514
-#19|@tbhOnBot|2514
-#20|@SCP079|2513
+#19|@SCP079|2513
+#20|@tbhOnBot|2513
 #21|@Ghost_HunteR2998|2512
 #22|@Yuki_1324|2509
 #23|@MaggiChess16|2508
@@ -38,8 +38,8 @@ Rank|Bot|Rating
 #36|@NNUE_Drift|2483
 #37|@Magnus-BOT|2479
 #38|@newengine2022|2473
-#39|@eNErGyOFbEiNGbOT|2470
-#40|@VEER-OMEGA-BOT|2470
+#39|@VEER-OMEGA-BOT|2470
+#40|@eNErGyOFbEiNGbOT|2467
 #41|@vrnts_colinbot|2462
 #42|@CocopikachuBOT|2451
 #43|@Fairy-Stockfish|2438
@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@KingfishX|2312
 #68|@Viet-BOT|2312
 #69|@IAMSTOCKFISH123|2307
-#70|@NormalBulletBot|2291
-#71|@colinbot|2288
+#70|@colinbot|2291
+#71|@NormalBulletBot|2291
 #72|@YoBot_v2|2287
 #73|@AlfaBot|2278
 #74|@Mega_BOT|2264
