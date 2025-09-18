@@ -5,9 +5,9 @@ Rank|Bot|Rating
 #3|@NecroMindX|2359
 #4|@ElPeonElectrico|2336
 #5|@TacticalBot|2327
-#6|@Speeedrunchessgames|2303
-#7|@MaggiChess16|2294
-#8|@NNUE_Drift|2270
+#6|@Speeedrunchessgames|2314
+#7|@MaggiChess16|2289
+#8|@NNUE_Drift|2271
 #9|@tbhOnBot|2246
 #10|@DarkOnBot|2239
 #11|@RaspFish|2200

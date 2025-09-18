@@ -275,6 +275,7 @@ benakachess
 benbotolucam
 bender_rodriguez01
 benmakineyim
+benstockfishbot
 bera_of_bbot
 berkbot
 berlinwallwall
@@ -2911,6 +2912,7 @@ thethanosbot
 theultimatechzb
 theunforgivingbot
 theunrestrictedgod
+thevikingengine
 theweakestbot
 thewinnerbetter
 theyobots
@@ -3268,5 +3270,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-thevikingengine
-benstockfishbot
+chessllmodel
