@@ -1551,6 +1551,7 @@ kevbot_sf
 kewin1
 khanh-chess-stocfish
 khanh_bot
+khanhbell12345
 khanhstockfish
 khanhstockfish2
 kheprichess
@@ -3089,6 +3090,7 @@ viet-bot
 viet_bot
 vigneshjohanbot
 viictorya
+vikingnnue
 vimbot
 vinh_variantsbot
 vinnikk
@@ -3272,5 +3274,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-khanhbell12345
-vikingnnue
+rage_bot
