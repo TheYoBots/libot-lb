@@ -2839,6 +2839,7 @@ testbot
 testbot1312
 testbot23
 testbot666
+testingbot1
 testlela
 testrustengine
 teuflbot
@@ -3271,4 +3272,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-testingbot1
+khanhbell12345
+vikingnnue
