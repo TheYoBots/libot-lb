@@ -2363,6 +2363,7 @@ racingkingskingsbot
 raddelgo14bot
 radianceengine
 radicaleela
+rage_bot
 ragozin2
 rajdeep2011
 ramses-chess
@@ -3274,4 +3275,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-rage_bot
+slipperiestseal

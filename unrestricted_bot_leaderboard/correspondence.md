@@ -387,7 +387,7 @@ Rank|Bot|Rating
 #385|@Grand_MefBartu-BOT|1191
 #386|@TuroBot|1189
 #387|@BetaTree|1181
-#388|@HCE_PUCT_MCTS_bot|1181
+#388|@HCE_PUCT_MCTS_bot|1179
 #389|@sudobot_chess|1140
 #390|@ertugruldemir|1131
 #391|@Bot-31795|1127
