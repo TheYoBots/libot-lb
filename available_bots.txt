@@ -2624,6 +2624,7 @@ sldeadshot22
 sleepmindengine
 slice-bot
 slimiestsquid
+slipperiestseal
 slothengine
 slow-and-stupid
 slvov-bot
@@ -3275,4 +3276,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-slipperiestseal
+hamsibot
+pensivepuffer

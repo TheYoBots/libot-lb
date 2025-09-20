@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@ElPeonElectrico|2492
 #7|@PINEAPPLEMASK|2492
 #8|@RaspFish|2491
-#9|@DarkOnBot|2487
-#10|@NNUE_Drift|2485
-#11|@VEER-OMEGA-BOT|2473
+#9|@NNUE_Drift|2485
+#10|@DarkOnBot|2484
+#11|@VEER-OMEGA-BOT|2475
 #12|@eNErGyOFbEiNGbOT|2466
 #13|@virus_exe-bot|2376
-#14|@colinbot|2282
+#14|@colinbot|2285
 #15|@is_BOSS|2153
