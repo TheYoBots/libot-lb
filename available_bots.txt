@@ -1274,6 +1274,7 @@ halcyonbot
 halfstockfishbot
 halux-bot
 haluxxchessbot
+hamsibot
 hans68bot
 hansniemannbot
 happiestfarmer
@@ -2213,6 +2214,7 @@ peach-bot
 peach-chess-bot
 peachfruit
 pennywise__it
+pensivepuffer
 peonasesino71
 pepsiforall
 perceval_de_galles
@@ -3276,5 +3278,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-hamsibot
-pensivepuffer

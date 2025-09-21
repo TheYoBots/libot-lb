@@ -2,14 +2,14 @@ Rank|Bot|Rating
 ---|---|---
 #1|@NecroMindX|2882
 #2|@ToromBot|2873
-#3|@PINEAPPLEMASK|2857
-#4|@Ghost_HunteR2998|2818
-#5|@TacticalBot|2813
-#6|@ElPeonElectrico|2794
+#3|@PINEAPPLEMASK|2852
+#4|@Ghost_HunteR2998|2836
+#5|@TacticalBot|2804
+#6|@ElPeonElectrico|2784
 #7|@Speeedrunchessgames|2715
 #8|@RaspFish|2652
-#9|@DarkOnBot|2646
-#10|@NNUE_Drift|2641
+#9|@DarkOnBot|2645
+#10|@NNUE_Drift|2644
 #11|@MaggiChess16|2634
 #12|@tbhOnBot|2614
 #13|@strain-on-veins|2601
@@ -18,5 +18,5 @@ Rank|Bot|Rating
 #16|@Nakshatra3|2341
 #17|@NilatacBot|2223
 #18|@anti-bot|2177
-#19|@CatNail|2069
+#19|@CatNail|2065
 #20|@pawnrobot|1912

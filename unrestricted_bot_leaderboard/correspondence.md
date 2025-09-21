@@ -403,4 +403,4 @@ Rank|Bot|Rating
 #401|@G0thamB0t|954
 #402|@GuineaBot|866
 #403|@BogoBot|865
-#404|@grandQ_AI|735
+#404|@grandQ_AI|747
