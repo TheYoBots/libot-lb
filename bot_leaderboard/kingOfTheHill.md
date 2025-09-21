@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@SlipperiestSeal|2396
 #2|@ToromBot|2374
 #3|@PINEAPPLEMASK|2357
-#4|@ElPeonElectrico|2349
+#4|@ElPeonElectrico|2354
 #5|@Speeedrunchessgames|2335
-#6|@TacticalBot|2326
+#6|@TacticalBot|2327
 #7|@MaggiChess16|2292
 #8|@NNUE_Drift|2280
 #9|@Endogenetic-Bot|2261
@@ -17,5 +17,5 @@ Rank|Bot|Rating
 #15|@virus_exe-bot|2011
 #16|@colinbot|1911
 #17|@Groot123456|1562
-#18|@DavidsGuterBot|1485
-#19|@pawnrobot|1195
+#18|@DavidsGuterBot|1491
+#19|@pawnrobot|1191

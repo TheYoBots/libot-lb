@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Speeedrunchessgames|2594
-#2|@TacticalBot|2584
-#3|@DarkOnBot|2554
-#4|@NNUE_Drift|2551
+#2|@TacticalBot|2588
+#3|@DarkOnBot|2560
+#4|@NNUE_Drift|2546
 #5|@MaggiChess16|2532
 #6|@PINEAPPLEMASK|2474
 #7|@ToromBot|2470

@@ -3278,3 +3278,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+wb5-nosearchnaivebot
+botteam-com
+goblinajedrezai
