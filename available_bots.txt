@@ -473,6 +473,7 @@ botsss
 botstockfish09
 botsy
 bottdr08
+botteam-com
 botted
 bottestjhami
 bottestseb
@@ -1203,6 +1204,7 @@ gladius_bot
 gluewinner
 gnu4u
 gnupassant
+goblinajedrezai
 goblinbot
 goboter
 god_teto
@@ -3139,6 +3141,7 @@ waterspoutx
 wax_bot
 wayang
 waychess-bot
+wb5-nosearchnaivebot
 we-friend
 weakbot
 weaklean
@@ -3278,6 +3281,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-wb5-nosearchnaivebot
-botteam-com
-goblinajedrezai
+olithinktest
+novixxse

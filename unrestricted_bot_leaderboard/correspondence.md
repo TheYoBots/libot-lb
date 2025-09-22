@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2926
+#1|@fibonachi|2929
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2819
 #4|@MaggiChess16|2806
@@ -124,9 +124,9 @@ Rank|Bot|Rating
 #122|@Emmamaster|2043
 #123|@maello_bot|2043
 #124|@TeamChelsie|2043
-#125|@GarboBot|2042
-#126|@abhisun_bot|2039
-#127|@Beyondcomprehension|2039
+#125|@abhisun_bot|2039
+#126|@Beyondcomprehension|2039
+#127|@GarboBot|2039
 #128|@faith_bot|2037
 #129|@CocopikachuBOT|2036
 #130|@HyperPhoenix21|2035
@@ -137,8 +137,8 @@ Rank|Bot|Rating
 #135|@MalanChess|2020
 #136|@RoyalLeela|2014
 #137|@SchachProg|2010
-#138|@ElPeonElectrico|2004
-#139|@RadianceEngine|2004
+#138|@RadianceEngine|2008
+#139|@ElPeonElectrico|2004
 #140|@zeekat|2004
 #141|@honzovy-sachy|2002
 #142|@TESTBOT23|2000
@@ -254,11 +254,11 @@ Rank|Bot|Rating
 #252|@SkyBlaster|1661
 #253|@GuineaBot3|1658
 #254|@MagnusCarlsen1507|1657
-#255|@ben-bot|1655
-#256|@bobby-bot|1655
-#257|@LeelaWeak|1655
-#258|@TesT-Z|1655
-#259|@anti-human-bot|1653
+#255|@bobby-bot|1655
+#256|@LeelaWeak|1655
+#257|@TesT-Z|1655
+#258|@anti-human-bot|1653
+#259|@ben-bot|1650
 #260|@Loev07|1650
 #261|@Nobody11892|1650
 #262|@TheChessMonster09|1650
@@ -325,8 +325,8 @@ Rank|Bot|Rating
 #323|@TheSystem_Bot|1466
 #324|@Mate-AI|1454
 #325|@dtsudo|1449
-#326|@CheezyGlizzyEater|1444
-#327|@katzebot|1433
+#326|@katzebot|1445
+#327|@CheezyGlizzyEater|1444
 #328|@ReallyBadPlayerBot|1428
 #329|@LuciferCat|1426
 #330|@JupiterBot|1421
@@ -334,7 +334,7 @@ Rank|Bot|Rating
 #332|@emptedkiller|1413
 #333|@WaspBot|1410
 #334|@Egeytek|1405
-#335|@Cimille|1403
+#335|@Cimille|1396
 #336|@PZChessBot|1387
 #337|@schnecken_bot|1382
 #338|@VimBot|1380
@@ -387,8 +387,8 @@ Rank|Bot|Rating
 #385|@Grand_MefBartu-BOT|1191
 #386|@TuroBot|1189
 #387|@BetaTree|1181
-#388|@HCE_PUCT_MCTS_bot|1145
-#389|@sudobot_chess|1140
+#388|@sudobot_chess|1140
+#389|@HCE_PUCT_MCTS_bot|1135
 #390|@ertugruldemir|1131
 #391|@Bot-31795|1127
 #392|@szuwar8716|1116
@@ -403,4 +403,4 @@ Rank|Bot|Rating
 #401|@G0thamB0t|954
 #402|@GuineaBot|866
 #403|@BogoBot|865
-#404|@grandQ_AI|745
+#404|@grandQ_AI|743
