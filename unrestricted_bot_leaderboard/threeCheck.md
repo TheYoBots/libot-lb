@@ -29,13 +29,13 @@ Rank|Bot|Rating
 #27|@chessbot2880|2439
 #28|@Ghost_HunteR2998|2431
 #29|@ChessVBOT|2430
-#30|@InvinxibleFlxsh|2426
+#30|@TacticalBot|2421
 #31|@ToromBot|2420
 #32|@FayEFish|2411
-#33|@TacticalBot|2404
+#33|@InvinxibleFlxsh|2407
 #34|@PINEAPPLEMASK|2395
-#35|@NNUE_Drift|2394
-#36|@OceanicAbyssalord|2393
+#35|@OceanicAbyssalord|2393
+#36|@NNUE_Drift|2388
 #37|@VEER-OMEGA-BOT|2384
 #38|@SlipperiestSeal|2382
 #39|@tbhOnBot|2381

@@ -15,12 +15,12 @@ Rank|Bot|Rating
 #13|@Karpov_bot|2359
 #14|@NecroMindX|2359
 #15|@Ghost_HunteR2998|2350
-#16|@ElPeonElectrico|2348
+#16|@ElPeonElectrico|2347
 #17|@TheMatrix2025|2346
 #18|@AndromedaSX1|2344
 #19|@CockyCrab|2341
 #20|@HIWIN1234|2328
-#21|@TacticalBot|2326
+#21|@TacticalBot|2327
 #22|@Sooraj_Kumar_P_S|2319
 #23|@Viet-AI|2317
 #24|@Fairy_Belzedar|2316
@@ -149,8 +149,8 @@ Rank|Bot|Rating
 #147|@hyperchessbot1|1493
 #148|@MagnusCarlsen1507|1492
 #149|@SugarAndSpice|1489
-#150|@DavidsGuterBot|1487
-#151|@rtx3080tibot|1487
+#150|@rtx3080tibot|1487
+#151|@DavidsGuterBot|1479
 #152|@SUMAL_BRO|1476
 #153|@Ukraine-team-creator|1476
 #154|@Less_of_a_threat|1470
@@ -183,8 +183,8 @@ Rank|Bot|Rating
 #181|@knight_128|1233
 #182|@MyNameIsSpeedy|1226
 #183|@Bottios|1223
-#184|@RSVMentor|1196
-#185|@pawnrobot|1189
+#184|@pawnrobot|1197
+#185|@RSVMentor|1196
 #186|@Boom_Bot|1176
 #187|@TrashBot|1168
 #188|@shakboy9824453231op|1152

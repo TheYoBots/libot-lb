@@ -24,11 +24,11 @@ Rank|Bot|Rating
 #22|@Yuki_1324|2509
 #23|@Endogenetic-Bot|2507
 #24|@MaggiChess16|2506
-#25|@ElPeonElectrico|2497
-#26|@Ghost_HunteR2998|2497
-#27|@OceanicAbyssalord|2497
-#28|@SlipperiestSeal|2497
-#29|@Dark_evil_bot|2496
+#25|@Ghost_HunteR2998|2497
+#26|@OceanicAbyssalord|2497
+#27|@SlipperiestSeal|2497
+#28|@Dark_evil_bot|2496
+#29|@ElPeonElectrico|2496
 #30|@mrchessmanager|2494
 #31|@PINEAPPLEMASK|2494
 #32|@TacticalBot|2494

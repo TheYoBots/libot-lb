@@ -2,10 +2,10 @@ Rank|Bot|Rating
 ---|---|---
 #1|@Speeedrunchessgames|2288
 #2|@ToromBot|2276
-#3|@PINEAPPLEMASK|2230
-#4|@TacticalBot|2228
-#5|@ElPeonElectrico|2207
-#6|@MaggiChess16|2188
+#3|@TacticalBot|2237
+#4|@PINEAPPLEMASK|2224
+#5|@ElPeonElectrico|2202
+#6|@MaggiChess16|2189
 #7|@tbhOnBot|2176
 #8|@DarkOnBot|2165
 #9|@NNUE_Drift|2161

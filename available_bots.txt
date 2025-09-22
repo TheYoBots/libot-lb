@@ -2114,6 +2114,7 @@ notmorphy17-3
 notnatebot
 notropis
 novagcc
+novixxse
 nowinforyoukid
 nucleargandhibot
 nukechess-bot
@@ -2140,6 +2141,7 @@ ok_zabu
 olithink-5
 olithinkflash
 olithinknomaterial
+olithinktest
 olithinkunderpromote
 olympusalexandriacz
 olympusberserkcz
@@ -3281,5 +3283,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-olithinktest
-novixxse
+remstalbot
+fchess-bot

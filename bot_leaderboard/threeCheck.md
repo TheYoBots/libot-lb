@@ -2,11 +2,11 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ElPeonElectrico|2465
 #2|@Speeedrunchessgames|2443
-#3|@InvinxibleFlxsh|2426
+#3|@TacticalBot|2421
 #4|@ToromBot|2420
-#5|@TacticalBot|2404
+#5|@InvinxibleFlxsh|2407
 #6|@PINEAPPLEMASK|2395
-#7|@NNUE_Drift|2394
+#7|@NNUE_Drift|2388
 #8|@VEER-OMEGA-BOT|2384
 #9|@SlipperiestSeal|2382
 #10|@tbhOnBot|2381

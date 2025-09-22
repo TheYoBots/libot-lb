@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@tbhOnBot|2512
 #2|@Speeedrunchessgames|2511
 #3|@MaggiChess16|2506
-#4|@ElPeonElectrico|2497
+#4|@ElPeonElectrico|2496
 #5|@PINEAPPLEMASK|2494
 #6|@TacticalBot|2494
 #7|@ToromBot|2494
