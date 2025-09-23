@@ -596,6 +596,7 @@ cheakykoala
 chebot_1
 checkbro_official
 checkmate-ai
+checkmate-engine
 checkmate10101010
 checkmatex1
 checkmatian228
@@ -1866,6 +1867,7 @@ masternoob1600
 masterofatomic
 masterofchessbot1000
 masterofchessbot800
+masterrobot
 mastrygoold
 mate-ai
 mate_bot
@@ -3285,5 +3287,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-masterrobot
-checkmate-engine
+hyyyyyyyyyyiiiii
+lavaforreason
