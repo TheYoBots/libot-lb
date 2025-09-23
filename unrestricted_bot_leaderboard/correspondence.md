@@ -390,7 +390,7 @@ Rank|Bot|Rating
 #388|@sudobot_chess|1140
 #389|@ertugruldemir|1131
 #390|@Bot-31795|1127
-#391|@HCE_PUCT_MCTS_bot|1125
+#391|@HCE_PUCT_MCTS_bot|1122
 #392|@szuwar8716|1116
 #393|@AXWChessBot|1096
 #394|@StashBot|1075
@@ -403,4 +403,4 @@ Rank|Bot|Rating
 #401|@G0thamB0t|954
 #402|@GuineaBot|866
 #403|@BogoBot|865
-#404|@grandQ_AI|837
+#404|@grandQ_AI|830

@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@TacticalBot|2494
 #7|@ToromBot|2494
 #8|@RaspFish|2492
-#9|@NNUE_Drift|2487
-#10|@DarkOnBot|2484
+#9|@DarkOnBot|2484
+#10|@NNUE_Drift|2481
 #11|@VEER-OMEGA-BOT|2471
-#12|@eNErGyOFbEiNGbOT|2466
+#12|@eNErGyOFbEiNGbOT|2467
 #13|@virus_exe-bot|2376
 #14|@colinbot|2285
 #15|@is_BOSS|2145

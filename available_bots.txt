@@ -1069,6 +1069,7 @@ fatihmertbot
 fatmoon
 fayefish
 fbot
+fchess-bot
 featbeweir
 feeks99
 feligamer
@@ -2416,6 +2417,7 @@ refutemygambit
 reggieokevin
 reinforcementtrial
 relevantproblem
+remstalbot
 renegadeengine
 repl_chess
 requinbot
@@ -3283,5 +3285,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-remstalbot
-fchess-bot
+masterrobot
+checkmate-engine
