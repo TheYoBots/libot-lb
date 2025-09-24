@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@UltronBot|2556
 #16|@Viet-AI|2556
 #17|@NNUE_Drift|2547
-#18|@MaggiChess16|2545
+#18|@MaggiChess16|2546
 #19|@ttBOT|2540
 #20|@Endogenetic-Bot|2536
 #21|@Exogenetic-Bot|2534
@@ -38,8 +38,8 @@ Rank|Bot|Rating
 #36|@LoseisnotAvailablehe|2466
 #37|@HIWIN1234|2456
 #38|@PepsiForAll|2448
-#39|@ToromBot|2438
-#40|@eNErGyOFbEiNGbOT|2434
+#39|@eNErGyOFbEiNGbOT|2434
+#40|@ToromBot|2427
 #41|@OceanicAbyssalord|2422
 #42|@ElPeonElectrico|2420
 #43|@RaspFish|2416

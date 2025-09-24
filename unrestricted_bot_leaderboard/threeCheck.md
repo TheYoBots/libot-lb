@@ -129,14 +129,14 @@ Rank|Bot|Rating
 #127|@SUMEETTHEPRO|1708
 #128|@Yemmi-Yemmi|1702
 #129|@clueless-bot|1685
-#130|@Groot123456|1660
-#131|@NormalBulletBot|1657
+#130|@NormalBulletBot|1657
+#131|@Groot123456|1649
 #132|@the_checkmating_bot|1643
 #133|@CoderDen732|1639
 #134|@Botkingteam33|1633
 #135|@jasans_bot|1621
 #136|@newengine2022|1588
-#137|@DavidsGuterBot|1573
+#137|@DavidsGuterBot|1581
 #138|@knight_128|1563
 #139|@Alehkine_cat|1531
 #140|@TrashBot|1519

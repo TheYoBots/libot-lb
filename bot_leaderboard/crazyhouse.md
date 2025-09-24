@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Speeedrunchessgames|2293
-#2|@ToromBot|2277
+#2|@ToromBot|2278
 #3|@TacticalBot|2252
 #4|@PINEAPPLEMASK|2219
 #5|@GoblinAjedrezAI|2207

@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@Speeedrunchessgames|2293
 #38|@iplayonlyrandom|2282
 #39|@NormalBlitzBulletBot|2278
-#40|@ToromBot|2277
+#40|@ToromBot|2278
 #41|@MalanChess|2273
 #42|@BitExtender128|2272
 #43|@TacticalBot|2252

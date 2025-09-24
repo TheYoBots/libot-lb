@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@RaspFish|2282
 #14|@colinbot|2180
 #15|@is_BOSS|2131
-#16|@Groot123456|1660
-#17|@DavidsGuterBot|1573
+#16|@Groot123456|1649
+#17|@DavidsGuterBot|1581
 #18|@DanerdBot|1390
 #19|@pawnrobot|1221

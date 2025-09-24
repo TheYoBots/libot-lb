@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@TacticalBot|2588
 #3|@DarkOnBot|2558
 #4|@NNUE_Drift|2547
-#5|@MaggiChess16|2545
+#5|@MaggiChess16|2546
 #6|@PINEAPPLEMASK|2474
-#7|@ToromBot|2438
-#8|@eNErGyOFbEiNGbOT|2434
+#7|@eNErGyOFbEiNGbOT|2434
+#8|@ToromBot|2427
 #9|@ElPeonElectrico|2420
 #10|@RaspFish|2416
 #11|@VEER-OMEGA-BOT|2266

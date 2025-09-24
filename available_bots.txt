@@ -1383,6 +1383,7 @@ hyperlitikbot
 hyperopic
 hyperphoenix21
 hysharp
+hyyyyyyyyyyiiiii
 i3_1115g4
 i3_5005u
 i7_stockfish
@@ -1641,6 +1642,7 @@ laquaisha
 lastwill
 laurentos_bot
 laurin03
+lavaforreason
 lazybot
 lazybotjr
 lbegui12_bot
@@ -3287,5 +3289,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-hyyyyyyyyyyiiiii
-lavaforreason
+margret9033
