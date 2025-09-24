@@ -333,8 +333,8 @@ Rank|Bot|Rating
 #331|@sunfish_rs|1414
 #332|@emptedkiller|1413
 #333|@WaspBot|1410
-#334|@Egeytek|1405
-#335|@Cimille|1403
+#334|@Cimille|1407
+#335|@Egeytek|1405
 #336|@PZChessBot|1387
 #337|@schnecken_bot|1382
 #338|@VimBot|1380
@@ -391,7 +391,7 @@ Rank|Bot|Rating
 #389|@ertugruldemir|1131
 #390|@Bot-31795|1127
 #391|@szuwar8716|1116
-#392|@HCE_PUCT_MCTS_bot|1113
+#392|@HCE_PUCT_MCTS_bot|1105
 #393|@AXWChessBot|1096
 #394|@StashBot|1075
 #395|@Light_To_The_Rescue|1057
