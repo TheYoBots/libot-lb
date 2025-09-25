@@ -519,6 +519,7 @@ buffer_overflow
 bufffishnet
 buildabot
 buletten-karl
+bullet_bot_0526
 bullet_bot_0896
 bulletbotmaster
 bulletchess134
@@ -2836,6 +2837,7 @@ taske-eman
 tasmanrevenge
 tazo-tush
 tbhonbot
+team_bot_08512
 teamchelsie
 teamleaderbot
 tekibot
@@ -3290,5 +3292,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bullet_bot_0526
-team_bot_08512
+courageouscheckmate7
+tiredpieces

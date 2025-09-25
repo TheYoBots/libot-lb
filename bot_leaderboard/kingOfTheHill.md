@@ -5,12 +5,12 @@ Rank|Bot|Rating
 #3|@PINEAPPLEMASK|2360
 #4|@ElPeonElectrico|2347
 #5|@TacticalBot|2344
-#6|@Speeedrunchessgames|2317
+#6|@Speeedrunchessgames|2316
 #7|@MaggiChess16|2307
-#8|@Endogenetic-Bot|2261
-#9|@NNUE_Drift|2258
-#10|@tbhOnBot|2255
-#11|@DarkOnBot|2245
+#8|@NNUE_Drift|2276
+#9|@Endogenetic-Bot|2261
+#10|@tbhOnBot|2249
+#11|@DarkOnBot|2246
 #12|@RaspFish|2191
 #13|@InvinxibleFlxsh|2185
 #14|@VEER-OMEGA-BOT|2174
@@ -18,5 +18,5 @@ Rank|Bot|Rating
 #16|@virus_exe-bot|2011
 #17|@colinbot|1911
 #18|@Groot123456|1557
-#19|@DavidsGuterBot|1481
-#20|@pawnrobot|1195
+#19|@DavidsGuterBot|1483
+#20|@pawnrobot|1183

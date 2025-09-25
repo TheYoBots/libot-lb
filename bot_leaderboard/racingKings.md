@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@PINEAPPLEMASK|2494
 #7|@TacticalBot|2494
 #8|@RaspFish|2493
-#9|@DarkOnBot|2485
-#10|@NNUE_Drift|2484
-#11|@VEER-OMEGA-BOT|2474
-#12|@eNErGyOFbEiNGbOT|2469
-#13|@virus_exe-bot|2367
+#9|@NNUE_Drift|2484
+#10|@DarkOnBot|2480
+#11|@VEER-OMEGA-BOT|2477
+#12|@eNErGyOFbEiNGbOT|2468
+#13|@virus_exe-bot|2368
 #14|@colinbot|2285
-#15|@is_BOSS|2145
+#15|@is_BOSS|2148
