@@ -756,6 +756,7 @@ corvus-1
 cosettebot
 cosmic64
 cosmicebony
+courageouscheckmate7
 cowboy_time
 cozbot
 cppchess_enginev1
@@ -2956,6 +2957,7 @@ time-player
 timecat
 tinyhugebot
 tiraelsedaibot
+tiredpieces
 tissouslebot
 tjchessbot
 tkgue
@@ -3292,5 +3294,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-courageouscheckmate7
-tiredpieces
