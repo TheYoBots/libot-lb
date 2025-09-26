@@ -7,10 +7,10 @@ Rank|Bot|Rating
 #5|@NNUE_Drift|2555
 #6|@MaggiChess16|2538
 #7|@PINEAPPLEMASK|2474
-#8|@eNErGyOFbEiNGbOT|2434
+#8|@eNErGyOFbEiNGbOT|2431
 #9|@ToromBot|2427
 #10|@ElPeonElectrico|2420
-#11|@RaspFish|2414
+#11|@RaspFish|2420
 #12|@VEER-OMEGA-BOT|2254
 #13|@colinbot|2028
 #14|@is_BOSS|1897

@@ -3,12 +3,12 @@ Rank|Bot|Rating
 #1|@ToromBot|2273
 #2|@Speeedrunchessgames|2259
 #3|@TacticalBot|2252
-#4|@GoblinAjedrezAI|2227
-#5|@Ghost_HunteR2998|2225
-#6|@PINEAPPLEMASK|2220
+#4|@Ghost_HunteR2998|2225
+#5|@PINEAPPLEMASK|2220
+#6|@NNUE_Drift|2203
 #7|@MaggiChess16|2202
 #8|@ElPeonElectrico|2196
-#9|@NNUE_Drift|2171
+#9|@GoblinAjedrezAI|2195
 #10|@tbhOnBot|2171
 #11|@BSTAF|2154
 #12|@RaspFish|2137

@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@vrnts_colinbot|2462
 #44|@CockyCrab|2455
 #45|@CocopikachuBOT|2451
-#46|@GoblinAjedrezAI|2439
+#46|@GoblinAjedrezAI|2442
 #47|@Fairy-Stockfish|2438
 #48|@NormalBlitzBulletBot|2435
 #49|@MyNameIsWhatLOL|2432

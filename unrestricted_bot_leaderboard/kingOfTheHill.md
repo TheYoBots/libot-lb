@@ -150,9 +150,9 @@ Rank|Bot|Rating
 #148|@TFRChessClub|1494
 #149|@hyperchessbot1|1493
 #150|@MagnusCarlsen1507|1492
-#151|@SugarAndSpice|1489
-#152|@rtx3080tibot|1487
-#153|@DavidsGuterBot|1485
+#151|@DavidsGuterBot|1489
+#152|@SugarAndSpice|1489
+#153|@rtx3080tibot|1487
 #154|@SUMAL_BRO|1476
 #155|@Ukraine-team-creator|1476
 #156|@Less_of_a_threat|1470
@@ -166,9 +166,9 @@ Rank|Bot|Rating
 #164|@BetaOneBot|1424
 #165|@ShredderGrizzly|1418
 #166|@CVA728_BOT_1|1412
-#167|@DanerdBot|1401
-#168|@Lightning_SpeedChess|1400
-#169|@cool_boy_bot|1388
+#167|@Lightning_SpeedChess|1400
+#168|@cool_boy_bot|1388
+#169|@DanerdBot|1388
 #170|@ReallyCrazyBOT|1363
 #171|@JEDDYCOCO12345|1355
 #172|@Sanjana_Kambala-BOT|1355

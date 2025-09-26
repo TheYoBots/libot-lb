@@ -18,5 +18,4 @@ Rank|Bot|Rating
 #16|@is_BOSS|2117
 #17|@Groot123456|1656
 #18|@DavidsGuterBot|1576
-#19|@DanerdBot|1390
-#20|@pawnrobot|1221
+#19|@pawnrobot|1221
