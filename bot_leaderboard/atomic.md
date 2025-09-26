@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@tbhOnBot|2589
+#1|@tbhOnBot|2591
 #2|@TacticalBot|2588
-#3|@Speeedrunchessgames|2587
-#4|@DarkOnBot|2580
-#5|@NNUE_Drift|2555
-#6|@MaggiChess16|2538
+#3|@Speeedrunchessgames|2580
+#4|@DarkOnBot|2575
+#5|@NNUE_Drift|2556
+#6|@MaggiChess16|2539
 #7|@PINEAPPLEMASK|2474
 #8|@eNErGyOFbEiNGbOT|2431
 #9|@ToromBot|2427
