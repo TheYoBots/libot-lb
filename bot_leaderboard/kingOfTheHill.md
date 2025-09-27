@@ -2,11 +2,11 @@ Rank|Bot|Rating
 ---|---|---
 #1|@SlipperiestSeal|2396
 #2|@ToromBot|2383
-#3|@PINEAPPLEMASK|2360
+#3|@PINEAPPLEMASK|2352
 #4|@ElPeonElectrico|2347
 #5|@TacticalBot|2344
 #6|@MaggiChess16|2307
-#7|@Speeedrunchessgames|2306
+#7|@Speeedrunchessgames|2307
 #8|@CourageousCheckmate7|2290
 #9|@NNUE_Drift|2278
 #10|@DarkOnBot|2254
@@ -14,8 +14,6 @@ Rank|Bot|Rating
 #12|@RaspFish|2191
 #13|@InvinxibleFlxsh|2185
 #14|@VEER-OMEGA-BOT|2174
-#15|@virus_exe-bot|2011
-#16|@colinbot|1911
-#17|@Groot123456|1557
-#18|@DavidsGuterBot|1500
-#19|@pawnrobot|1181
+#15|@Groot123456|1557
+#16|@DavidsGuterBot|1500
+#17|@pawnrobot|1181

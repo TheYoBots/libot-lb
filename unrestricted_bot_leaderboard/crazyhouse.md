@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@MalanChess|2273
 #41|@ToromBot|2273
 #42|@BitExtender128|2272
-#43|@Speeedrunchessgames|2258
+#43|@Speeedrunchessgames|2261
 #44|@TacticalBot|2252
 #45|@Bobby_Fischer_BOT|2251
 #46|@CockyCrab|2249
@@ -51,10 +51,10 @@ Rank|Bot|Rating
 #49|@Mega_BOT|2240
 #50|@Endogenetic-Bot|2236
 #51|@NecroMindX|2229
-#52|@Ghost_HunteR2998|2220
-#53|@Coolman2021|2219
-#54|@Yuki_1324|2219
-#55|@PINEAPPLEMASK|2215
+#52|@Coolman2021|2219
+#53|@Yuki_1324|2219
+#54|@PINEAPPLEMASK|2217
+#55|@Ghost_HunteR2998|2213
 #56|@xiang-qi|2203
 #57|@MyNameIsWhatLOL|2200
 #58|@Zer0_Tw0|2200

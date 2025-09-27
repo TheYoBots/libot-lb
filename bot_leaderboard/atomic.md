@@ -11,7 +11,6 @@ Rank|Bot|Rating
 #9|@ToromBot|2427
 #10|@RaspFish|2420
 #11|@VEER-OMEGA-BOT|2254
-#12|@colinbot|2028
-#13|@is_BOSS|1901
-#14|@Groot123456|1501
-#15|@pawnrobot|1330
+#12|@is_BOSS|1901
+#13|@Groot123456|1501
+#14|@pawnrobot|1328

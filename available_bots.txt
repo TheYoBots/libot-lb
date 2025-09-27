@@ -1914,6 +1914,7 @@ megalodon-bot
 mehfish
 meiron04
 meisok
+mello-chan
 melphess
 melsh_bot
 meltd0wn
@@ -3125,6 +3126,7 @@ vixen_is_very_cool
 vlad_777_0
 vladeabot
 vodkabot
+voidbot
 volkchessengine
 volterbot
 votechess
@@ -3294,5 +3296,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-voidbot
-mello-chan
+v7p3r_bot
