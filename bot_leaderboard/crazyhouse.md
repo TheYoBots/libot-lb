@@ -15,4 +15,4 @@ Rank|Bot|Rating
 #13|@RaspFish|2137
 #14|@DarkOnBot|2113
 #15|@colinbot|1716
-#16|@is_BOSS|1655
+#16|@is_BOSS|1656

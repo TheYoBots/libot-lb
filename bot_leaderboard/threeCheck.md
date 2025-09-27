@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@RaspFish|2278
 #14|@virus_exe-bot|2218
 #15|@colinbot|2180
-#16|@is_BOSS|2117
-#17|@Groot123456|1656
-#18|@DavidsGuterBot|1579
+#16|@is_BOSS|2119
+#17|@Groot123456|1661
+#18|@DavidsGuterBot|1574
 #19|@DanerdBot|1384
 #20|@pawnrobot|1221

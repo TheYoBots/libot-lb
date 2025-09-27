@@ -20,4 +20,4 @@ Rank|Bot|Rating
 #18|@TacticalBot|2267
 #19|@ElPeonElectrico|2230
 #20|@colinbot|1812
-#21|@pawnrobot|1251
+#21|@pawnrobot|1246
