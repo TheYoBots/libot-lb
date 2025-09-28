@@ -696,6 +696,7 @@ chmod-bot
 chokefish
 chompbot
 christophercolomb
+chrysogenum
 chunguszero
 ciberchessai
 cimille
@@ -3297,4 +3298,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chrysogenum

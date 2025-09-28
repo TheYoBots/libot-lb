@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@Bot1nokk|1500
 #162|@SF_Bot1nok|1500
 #163|@TorBot|1498
-#164|@Groot123456|1495
+#164|@Groot123456|1494
 #165|@KnightsArmour|1494
 #166|@MagnusCarlsen1507|1493
 #167|@Ar4Asd1-BOT|1491

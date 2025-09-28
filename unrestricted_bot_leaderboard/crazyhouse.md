@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@TacticalBot|2252
 #44|@Bobby_Fischer_BOT|2251
 #45|@CockyCrab|2249
-#46|@Speeedrunchessgames|2248
+#46|@Speeedrunchessgames|2249
 #47|@OceanicOmegalord|2247
 #48|@OceanicAbyssalord|2246
 #49|@Mega_BOT|2240
@@ -58,11 +58,11 @@ Rank|Bot|Rating
 #56|@Ghost_HunteR2998|2213
 #57|@xiang-qi|2203
 #58|@MyNameIsWhatLOL|2200
-#59|@Zer0_Tw0|2200
-#60|@NNUE_Drift|2198
+#59|@NNUE_Drift|2200
+#60|@Zer0_Tw0|2200
 #61|@UltronBot|2197
 #62|@ElPeonElectrico|2196
-#63|@MaggiChess16|2189
+#63|@MaggiChess16|2190
 #64|@Viet-BOT|2185
 #65|@tbhOnBot|2184
 #66|@FayEFish|2181
@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@RaspFish|2137
 #77|@strain-on-veins|2133
 #78|@CloudBot_v2|2131
-#79|@DarkOnBot|2113
-#80|@Johnsun|2113
+#79|@Johnsun|2113
+#80|@DarkOnBot|2109
 #81|@SixtyFourEngine|2089
 #82|@relevantproblem|2077
 #83|@GodelEscherBot|2071

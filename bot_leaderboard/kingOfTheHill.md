@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@PINEAPPLEMASK|2352
 #3|@ElPeonElectrico|2347
 #4|@TacticalBot|2344
-#5|@MaggiChess16|2307
-#6|@Speeedrunchessgames|2307
+#5|@MaggiChess16|2313
+#6|@Speeedrunchessgames|2301
 #7|@CourageousCheckmate7|2285
 #8|@NNUE_Drift|2278
 #9|@DarkOnBot|2254

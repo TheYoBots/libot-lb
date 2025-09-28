@@ -24,9 +24,9 @@ Rank|Bot|Rating
 #22|@Sooraj_Kumar_P_S|2319
 #23|@Viet-AI|2317
 #24|@Fairy_Belzedar|2316
-#25|@MaggiChess16|2307
-#26|@Speeedrunchessgames|2307
-#27|@Exogenetic-Bot|2305
+#25|@MaggiChess16|2313
+#26|@Exogenetic-Bot|2305
+#27|@Speeedrunchessgames|2301
 #28|@Yuki_1324|2294
 #29|@MalanChess|2292
 #30|@CourageousCheckmate7|2285
