@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@tbhOnBot|2591
-#2|@TacticalBot|2588
-#3|@Speeedrunchessgames|2580
-#4|@DarkOnBot|2575
+#1|@TacticalBot|2588
+#2|@Speeedrunchessgames|2585
+#3|@DarkOnBot|2575
+#4|@tbhOnBot|2574
 #5|@NNUE_Drift|2556
 #6|@MaggiChess16|2539
 #7|@PINEAPPLEMASK|2474
@@ -11,6 +11,6 @@ Rank|Bot|Rating
 #9|@ToromBot|2427
 #10|@RaspFish|2420
 #11|@VEER-OMEGA-BOT|2254
-#12|@is_BOSS|1901
+#12|@is_BOSS|1902
 #13|@Groot123456|1501
-#14|@pawnrobot|1328
+#14|@pawnrobot|1327

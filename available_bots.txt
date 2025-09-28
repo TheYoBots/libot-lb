@@ -3076,6 +3076,7 @@ uras21
 urthebest237
 usachess_time
 uvuvwevwevwesrevenge
+v7p3r_bot
 valhalla-bot
 valiantbot
 vamos_caballeros
@@ -3296,4 +3297,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-v7p3r_bot
+chrysogenum

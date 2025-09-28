@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@AndromedaSX1|2344
 #18|@TacticalBot|2344
 #19|@CockyCrab|2341
-#20|@Ghost_HunteR2998|2332
-#21|@GoblinAjedrezAI|2330
+#20|@GoblinAjedrezAI|2336
+#21|@Ghost_HunteR2998|2332
 #22|@Sooraj_Kumar_P_S|2319
 #23|@Viet-AI|2317
 #24|@Fairy_Belzedar|2316
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@Exogenetic-Bot|2305
 #28|@Yuki_1324|2294
 #29|@MalanChess|2292
-#30|@CourageousCheckmate7|2290
+#30|@CourageousCheckmate7|2285
 #31|@LudwigBOT|2281
 #32|@NNUE_Drift|2278
 #33|@LoseisnotAvailablehe|2274
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@lord-bot|2258
 #39|@HIWIN1234|2256
 #40|@DarkOnBot|2254
-#41|@tbhOnBot|2244
+#41|@tbhOnBot|2245
 #42|@strain-on-veins|2243
 #43|@YoBot_v2|2242
 #44|@ResoluteBot|2233
