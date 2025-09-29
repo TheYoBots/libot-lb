@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@NNUE_Drift|2200
 #9|@ElPeonElectrico|2196
 #10|@MaggiChess16|2190
-#11|@tbhOnBot|2184
+#11|@tbhOnBot|2189
 #12|@BSTAF|2154
 #13|@RaspFish|2137
 #14|@DarkOnBot|2109

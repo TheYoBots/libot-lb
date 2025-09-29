@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Fairy_Belzedar|2316
 #25|@MaggiChess16|2313
 #26|@Exogenetic-Bot|2305
-#27|@Speeedrunchessgames|2301
+#27|@Speeedrunchessgames|2300
 #28|@Yuki_1324|2294
 #29|@MalanChess|2292
 #30|@CourageousCheckmate7|2285
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@lord-bot|2258
 #39|@HIWIN1234|2256
 #40|@DarkOnBot|2254
-#41|@tbhOnBot|2245
+#41|@tbhOnBot|2246
 #42|@strain-on-veins|2243
 #43|@YoBot_v2|2242
 #44|@ResoluteBot|2233

@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@TacticalBot|2588
 #2|@DarkOnBot|2575
-#3|@tbhOnBot|2574
+#3|@tbhOnBot|2566
 #4|@NNUE_Drift|2556
 #5|@Speeedrunchessgames|2554
 #6|@MaggiChess16|2539

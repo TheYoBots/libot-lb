@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@Fairy_Belzedar|2628
-#6|@CourageousCheckmate7|2623
+#5|@CourageousCheckmate7|2634
+#6|@Fairy_Belzedar|2628
 #7|@CockyCrab|2602
 #8|@Coolman2021|2601
 #9|@KizVariant|2597
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@TacticalBot|2588
 #12|@Bharat_royals|2575
 #13|@DarkOnBot|2575
-#14|@tbhOnBot|2574
+#14|@tbhOnBot|2566
 #15|@NNUE_Drift|2556
 #16|@UltronBot|2556
 #17|@Viet-AI|2556
@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@ElPeonElectrico|2420
 #46|@ChessVBOT|2411
 #47|@Fairy-Stockfish|2402
-#48|@InvinxibleFlxsh|2395
+#48|@InvinxibleFlxsh|2388
 #49|@abhisun_bot|2384
 #50|@KingfishX|2369
 #51|@mrchessmanager|2369
