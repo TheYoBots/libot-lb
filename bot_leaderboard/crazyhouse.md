@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@CourageousCheckmate7|2303
+#1|@CourageousCheckmate7|2301
 #2|@ToromBot|2273
-#3|@TacticalBot|2252
-#4|@Speeedrunchessgames|2249
+#3|@Speeedrunchessgames|2252
+#4|@TacticalBot|2252
 #5|@PINEAPPLEMASK|2217
 #6|@GoblinAjedrezAI|2216
 #7|@Ghost_HunteR2998|2213

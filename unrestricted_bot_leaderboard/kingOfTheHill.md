@@ -27,9 +27,9 @@ Rank|Bot|Rating
 #25|@MaggiChess16|2313
 #26|@Exogenetic-Bot|2305
 #27|@Speeedrunchessgames|2300
-#28|@Yuki_1324|2294
-#29|@MalanChess|2292
-#30|@CourageousCheckmate7|2285
+#28|@CourageousCheckmate7|2296
+#29|@Yuki_1324|2294
+#30|@MalanChess|2292
 #31|@LudwigBOT|2281
 #32|@NNUE_Drift|2278
 #33|@LoseisnotAvailablehe|2274
@@ -52,9 +52,9 @@ Rank|Bot|Rating
 #50|@PowerOnBot|2195
 #51|@UnDisstoppableBot|2193
 #52|@RaspFish|2191
-#53|@InvinxibleFlxsh|2185
-#54|@Amrobotone|2184
-#55|@VEER-OMEGA-BOT|2174
+#53|@Amrobotone|2184
+#54|@VEER-OMEGA-BOT|2174
+#55|@InvinxibleFlxsh|2170
 #56|@eNErGyOFbEiNGbOT|2166
 #57|@HuxZero|2163
 #58|@Mega_BOT|2148
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@Toxic_Bot|1541
 #144|@SXDEFENDER|1534
 #145|@Light_To_The_Rescue|1523
-#146|@DavidsGuterBot|1500
+#146|@DavidsGuterBot|1499
 #147|@Z-Move|1495
 #148|@TFRChessClub|1494
 #149|@hyperchessbot1|1493

@@ -6,12 +6,12 @@ Rank|Bot|Rating
 #4|@TacticalBot|2344
 #5|@MaggiChess16|2313
 #6|@Speeedrunchessgames|2300
-#7|@CourageousCheckmate7|2285
+#7|@CourageousCheckmate7|2296
 #8|@NNUE_Drift|2278
 #9|@DarkOnBot|2254
 #10|@tbhOnBot|2246
 #11|@RaspFish|2191
-#12|@InvinxibleFlxsh|2185
+#12|@InvinxibleFlxsh|2170
 #13|@Groot123456|1557
-#14|@DavidsGuterBot|1500
+#14|@DavidsGuterBot|1499
 #15|@pawnrobot|1181
