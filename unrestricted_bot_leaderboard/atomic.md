@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@Bharat_royals|2575
 #13|@DarkOnBot|2568
 #14|@tbhOnBot|2566
-#15|@UltronBot|2556
-#16|@Viet-AI|2556
-#17|@Speeedrunchessgames|2550
+#15|@Speeedrunchessgames|2557
+#16|@UltronBot|2556
+#17|@Viet-AI|2556
 #18|@MaggiChess16|2540
 #19|@ttBOT|2540
 #20|@Endogenetic-Bot|2536
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@CatBot_14|2514
 #28|@EmptikBot|2510
 #29|@ibep|2498
-#30|@Ghost_HunteR2998|2487
+#30|@Ghost_HunteR2998|2493
 #31|@firstrobot|2485
 #32|@PINEAPPLEMASK|2484
 #33|@GoblinAjedrezAI|2481
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@OceanicAbyssalord|2422
 #41|@ElPeonElectrico|2420
 #42|@ToromBot|2416
-#43|@RaspFish|2412
-#44|@ChessVBOT|2411
+#43|@ChessVBOT|2411
+#44|@RaspFish|2408
 #45|@Fairy-Stockfish|2402
 #46|@Bullet_bot_0526|2389
 #47|@abhisun_bot|2384
@@ -61,9 +61,9 @@ Rank|Bot|Rating
 #59|@LudwigBOT|2339
 #60|@newengine2022|2337
 #61|@NotNateBot|2336
-#62|@InvinxibleFlxsh|2319
-#63|@The-Fastest-Bot|2314
-#64|@Alehkine_cat|2312
+#62|@The-Fastest-Bot|2314
+#63|@Alehkine_cat|2312
+#64|@InvinxibleFlxsh|2309
 #65|@Dean_Summer_Bot|2305
 #66|@PsychedelicAtomic|2296
 #67|@AndromedaSX1|2284

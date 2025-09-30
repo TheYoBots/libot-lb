@@ -132,8 +132,8 @@ Rank|Bot|Rating
 #130|@StrongMagnusCarlsen|2027
 #131|@duythong1402|2025
 #132|@kybot|2025
-#133|@GarboBot|2023
-#134|@MalanChess|2020
+#133|@MalanChess|2020
+#134|@GarboBot|2019
 #135|@RoyalLeela|2014
 #136|@SchachProg|2010
 #137|@ElPeonElectrico|2004
@@ -185,9 +185,9 @@ Rank|Bot|Rating
 #183|@Hoplites|1813
 #184|@cool_boy_bot|1812
 #185|@Sub_Bot|1808
-#186|@DrMeowMeow|1800
-#187|@stockfish12_Johan|1798
-#188|@Jibbby|1797
+#186|@Jibbby|1804
+#187|@DrMeowMeow|1800
+#188|@stockfish12_Johan|1798
 #189|@DragonflyBOT|1796
 #190|@P-chessbot|1795
 #191|@BetaOneBot|1792

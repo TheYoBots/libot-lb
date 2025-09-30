@@ -3298,3 +3298,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+jaxman_n
+blamzkung
+aka-bot

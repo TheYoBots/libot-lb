@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@Viet-AI|2317
 #24|@Fairy_Belzedar|2316
 #25|@MaggiChess16|2313
-#26|@Speeedrunchessgames|2307
+#26|@Speeedrunchessgames|2308
 #27|@Exogenetic-Bot|2305
 #28|@CourageousCheckmate7|2296
 #29|@MalanChess|2292
