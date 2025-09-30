@@ -391,7 +391,7 @@ Rank|Bot|Rating
 #389|@ertugruldemir|1131
 #390|@Bot-31795|1127
 #391|@szuwar8716|1116
-#392|@HCE_PUCT_MCTS_bot|1105
+#392|@HCE_PUCT_MCTS_bot|1099
 #393|@AXWChessBot|1096
 #394|@StashBot|1075
 #395|@Light_To_The_Rescue|1057

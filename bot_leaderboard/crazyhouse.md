@@ -7,11 +7,9 @@ Rank|Bot|Rating
 #5|@PINEAPPLEMASK|2217
 #6|@GoblinAjedrezAI|2216
 #7|@Ghost_HunteR2998|2213
-#8|@NNUE_Drift|2200
-#9|@ElPeonElectrico|2196
-#10|@MaggiChess16|2190
-#11|@tbhOnBot|2189
-#12|@BSTAF|2154
-#13|@RaspFish|2137
-#14|@DarkOnBot|2109
-#15|@is_BOSS|1656
+#8|@MaggiChess16|2190
+#9|@tbhOnBot|2189
+#10|@BSTAF|2154
+#11|@RaspFish|2137
+#12|@DarkOnBot|2109
+#13|@is_BOSS|1656

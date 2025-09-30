@@ -8,10 +8,9 @@ Rank|Bot|Rating
 #6|@ToromBot|2495
 #7|@PINEAPPLEMASK|2494
 #8|@RaspFish|2493
-#9|@NNUE_Drift|2486
-#10|@DarkOnBot|2481
-#11|@VEER-OMEGA-BOT|2477
-#12|@TacticalBot|2471
-#13|@eNErGyOFbEiNGbOT|2469
-#14|@virus_exe-bot|2368
-#15|@is_BOSS|2136
+#9|@DarkOnBot|2481
+#10|@VEER-OMEGA-BOT|2477
+#11|@TacticalBot|2471
+#12|@eNErGyOFbEiNGbOT|2469
+#13|@virus_exe-bot|2368
+#14|@is_BOSS|2136
