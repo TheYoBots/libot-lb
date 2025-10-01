@@ -12,5 +12,5 @@ Rank|Bot|Rating
 #10|@virus_exe-bot|2218
 #11|@is_BOSS|2119
 #12|@Groot123456|1727
-#13|@DavidsGuterBot|1570
+#13|@DavidsGuterBot|1565
 #14|@pawnrobot|1215

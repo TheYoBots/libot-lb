@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@eNErGyOFbEiNGbOT|2431
 #40|@OceanicAbyssalord|2422
 #41|@ElPeonElectrico|2420
-#42|@ToromBot|2416
-#43|@ChessVBOT|2411
-#44|@RaspFish|2408
+#42|@ChessVBOT|2411
+#43|@RaspFish|2408
+#44|@ToromBot|2406
 #45|@Fairy-Stockfish|2402
 #46|@Bullet_bot_0526|2389
 #47|@abhisun_bot|2384
@@ -164,7 +164,7 @@ Rank|Bot|Rating
 #162|@hjhjhjhjhjhj|1923
 #163|@FyChess2|1921
 #164|@B4dF1sh|1903
-#165|@is_BOSS|1902
+#165|@is_BOSS|1903
 #166|@Isotopebot|1900
 #167|@Just-a-random-bot|1898
 #168|@AX2XB2|1893

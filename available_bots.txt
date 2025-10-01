@@ -49,6 +49,7 @@ aivanj10
 ajatarbot
 ajedrezarbot
 ajedrezchamberi
+aka-bot
 aks-mantissa
 akshadlawanibot
 akubot
@@ -334,6 +335,7 @@ blackmat_leela
 blackmat_leela2
 blackrider_bot
 blackrood
+blamzkung
 blank_bot
 blankasbot1
 blasting4
@@ -1475,6 +1477,7 @@ janzari92
 jasans_bot
 jasonbourne77
 jasperbot
+jaxman_n
 jaymombot
 jbxlcbot
 jchessengine
@@ -3298,6 +3301,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-jaxman_n
-blamzkung
-aka-bot
