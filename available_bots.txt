@@ -3301,3 +3301,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+sieu_cap_vip_pro_bot

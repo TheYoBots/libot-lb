@@ -5,11 +5,10 @@ Rank|Bot|Rating
 #3|@MaggiChess16|2506
 #4|@Ghost_HunteR2998|2500
 #5|@ToromBot|2495
-#6|@PINEAPPLEMASK|2494
-#7|@RaspFish|2493
+#6|@RaspFish|2494
+#7|@PINEAPPLEMASK|2493
 #8|@DarkOnBot|2481
 #9|@VEER-OMEGA-BOT|2477
-#10|@TacticalBot|2471
-#11|@eNErGyOFbEiNGbOT|2469
-#12|@virus_exe-bot|2368
-#13|@is_BOSS|2136
+#10|@eNErGyOFbEiNGbOT|2469
+#11|@TacticalBot|2468
+#12|@is_BOSS|2136
