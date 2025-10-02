@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@pistol-play|2590
 #11|@TacticalBot|2588
 #12|@Bharat_royals|2575
-#13|@DarkOnBot|2568
+#13|@DarkOnBot|2572
 #14|@tbhOnBot|2566
 #15|@UltronBot|2556
 #16|@Viet-AI|2556
@@ -42,9 +42,9 @@ Rank|Bot|Rating
 #40|@OceanicAbyssalord|2422
 #41|@ElPeonElectrico|2420
 #42|@ChessVBOT|2411
-#43|@ToromBot|2406
-#44|@RaspFish|2404
-#45|@Fairy-Stockfish|2402
+#43|@Fairy-Stockfish|2402
+#44|@RaspFish|2402
+#45|@ToromBot|2401
 #46|@Bullet_bot_0526|2389
 #47|@abhisun_bot|2384
 #48|@KingfishX|2369

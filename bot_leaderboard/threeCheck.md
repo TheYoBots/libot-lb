@@ -2,13 +2,13 @@ Rank|Bot|Rating
 ---|---|---
 #1|@Speeedrunchessgames|2456
 #2|@TacticalBot|2442
-#3|@ToromBot|2418
+#3|@ToromBot|2422
 #4|@PINEAPPLEMASK|2405
 #5|@tbhOnBot|2399
 #6|@InvinxibleFlxsh|2368
 #7|@MaggiChess16|2368
 #8|@VEER-OMEGA-BOT|2368
-#9|@DarkOnBot|2295
+#9|@DarkOnBot|2291
 #10|@is_BOSS|2119
 #11|@Groot123456|1727
 #12|@DavidsGuterBot|1565

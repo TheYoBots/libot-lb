@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@chessbot2880|2439
 #30|@ChessVBOT|2430
 #31|@GoblinAjedrezAI|2429
-#32|@ToromBot|2418
+#32|@ToromBot|2422
 #33|@FayEFish|2411
 #34|@PINEAPPLEMASK|2405
 #35|@tbhOnBot|2399
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Ghost_HunteR2998|2320
 #47|@LudwigBOT|2304
 #48|@lord-bot|2300
-#49|@DarkOnBot|2295
+#49|@DarkOnBot|2291
 #50|@KingfishX|2285
 #51|@strain-on-veins|2280
 #52|@HIWIN1234|2278

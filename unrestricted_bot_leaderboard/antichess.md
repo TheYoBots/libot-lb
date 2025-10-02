@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@LoseisnotAvailablehe|2677
 #35|@AntichessAnalyzer|2673
 #36|@MaggiChess16|2667
-#37|@strain-on-veins|2664
+#37|@strain-on-veins|2667
 #38|@SCP079|2662
 #39|@DarkOnBot|2652
 #40|@RaspFish|2644
@@ -121,8 +121,8 @@ Rank|Bot|Rating
 #119|@Dean_Summer_Bot|2279
 #120|@OpeningsBot|2271
 #121|@Johnsun|2269
-#122|@SkyBlaster|2254
-#123|@anti-bot|2244
+#122|@anti-bot|2256
+#123|@SkyBlaster|2254
 #124|@mrchessmanager|2240
 #125|@TurkiyeHogwarts|2240
 #126|@EagleEye2021|2235
@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@CocopikachuBOT|2226
 #130|@TungJohn|2225
 #131|@Good-Game-123|2221
-#132|@NilatacBot|2219
+#132|@NilatacBot|2220
 #133|@The-Fastest-Bot|2218
 #134|@All_Except_Chess960|2214
 #135|@SaturnBot|2214
@@ -152,7 +152,7 @@ Rank|Bot|Rating
 #150|@Stockfish-MEDIUM|2117
 #151|@PyChessBot|2102
 #152|@TurkiyeHogwartsBOT|2099
-#153|@CatNail|2071
+#153|@CatNail|2075
 #154|@ZamuChess|2049
 #155|@Botzer|2020
 #156|@Jussicas|2019
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@antichesssss|1964
 #165|@Menganti|1963
 #166|@CloudBOT|1950
-#167|@pawnrobot|1937
+#167|@pawnrobot|1932
 #168|@SriLankaChess|1925
 #169|@Groot123456|1894
 #170|@Crepusculum|1881

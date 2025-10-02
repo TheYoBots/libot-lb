@@ -11,5 +11,5 @@ Rank|Bot|Rating
 #9|@VEER-OMEGA-BOT|2169
 #10|@InvinxibleFlxsh|2151
 #11|@Groot123456|1557
-#12|@DavidsGuterBot|1493
+#12|@DavidsGuterBot|1489
 #13|@pawnrobot|1204

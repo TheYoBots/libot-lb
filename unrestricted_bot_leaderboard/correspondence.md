@@ -328,9 +328,9 @@ Rank|Bot|Rating
 #326|@dtsudo|1449
 #327|@CheezyGlizzyEater|1444
 #328|@ReallyBadPlayerBot|1428
-#329|@LuciferCat|1426
-#330|@JupiterBot|1421
-#331|@Cimille|1420
+#329|@Cimille|1427
+#330|@LuciferCat|1426
+#331|@JupiterBot|1421
 #332|@sunfish_rs|1414
 #333|@emptedkiller|1413
 #334|@WaspBot|1410

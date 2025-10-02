@@ -147,9 +147,9 @@ Rank|Bot|Rating
 #145|@Light_To_The_Rescue|1523
 #146|@Z-Move|1495
 #147|@TFRChessClub|1494
-#148|@DavidsGuterBot|1493
-#149|@hyperchessbot1|1493
-#150|@MagnusCarlsen1507|1492
+#148|@hyperchessbot1|1493
+#149|@MagnusCarlsen1507|1492
+#150|@DavidsGuterBot|1489
 #151|@SugarAndSpice|1489
 #152|@rtx3080tibot|1487
 #153|@SUMAL_BRO|1476
