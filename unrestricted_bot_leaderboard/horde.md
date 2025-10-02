@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@ttBOT|2584
 #8|@compchess2|2579
 #9|@Nerubatskyi_Daniil_v|2471
-#10|@Ghost_HunteR2998|2446
+#10|@PINEAPPLEMASK|2454
 #11|@Endogenetic-Bot|2444
-#12|@PINEAPPLEMASK|2444
+#12|@Ghost_HunteR2998|2441
 #13|@ToromBot|2439
 #14|@tbhOnBot|2429
 #15|@SlipperiestSeal|2426
@@ -19,9 +19,9 @@ Rank|Bot|Rating
 #17|@EmptikVariantsBot|2402
 #18|@RaspFish|2389
 #19|@EmptikBot|2378
-#20|@DarkOnBot|2373
+#20|@Chrysogenum|2376
 #21|@LoseisnotAvailablehe|2369
-#22|@Chrysogenum|2364
+#22|@DarkOnBot|2368
 #23|@lord-bot|2362
 #24|@Hyper-Stockfish|2358
 #25|@MaggiChess16|2355
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@FayEFish|2292
 #35|@Fairy-Stockfish|2289
 #36|@Kizburb|2276
-#37|@Speeedrunchessgames|2270
+#37|@Speeedrunchessgames|2271
 #38|@TacticalBot|2260
 #39|@ChessVBOT|2258
 #40|@ibep|2258
@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@Bot_AOOP11|2050
 #60|@Resolved-Bot|2045
 #61|@DrSmartBugs|2036
-#62|@InvinxibleFlxsh|2035
-#63|@YoBot_v2|2019
+#62|@YoBot_v2|2019
+#63|@InvinxibleFlxsh|2017
 #64|@ESC_BOT|2016
 #65|@lightspeed_bot|2010
 #66|@The-Fastest-Bot|2000
