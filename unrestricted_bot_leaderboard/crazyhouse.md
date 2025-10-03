@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@NormalBlitzBulletBot|2278
 #40|@MalanChess|2273
 #41|@BitExtender128|2272
-#42|@ToromBot|2266
-#43|@Speeedrunchessgames|2264
-#44|@TacticalBot|2264
+#42|@TacticalBot|2272
+#43|@Speeedrunchessgames|2268
+#44|@ToromBot|2266
 #45|@Bobby_Fischer_BOT|2251
 #46|@CockyCrab|2249
 #47|@OceanicOmegalord|2247
@@ -52,9 +52,9 @@ Rank|Bot|Rating
 #50|@Endogenetic-Bot|2236
 #51|@NecroMindX|2229
 #52|@Coolman2021|2219
-#53|@GoblinAjedrezAI|2216
-#54|@Ghost_HunteR2998|2215
-#55|@PINEAPPLEMASK|2208
+#53|@Ghost_HunteR2998|2210
+#54|@GoblinAjedrezAI|2210
+#55|@PINEAPPLEMASK|2209
 #56|@xiang-qi|2203
 #57|@MyNameIsWhatLOL|2200
 #58|@Zer0_Tw0|2200
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@RaspFish|2132
 #75|@CloudBot_v2|2131
 #76|@InvinxibleFlxsh|2126
-#77|@DarkOnBot|2119
+#77|@DarkOnBot|2115
 #78|@Johnsun|2113
 #79|@SixtyFourEngine|2089
 #80|@relevantproblem|2077
@@ -141,9 +141,9 @@ Rank|Bot|Rating
 #139|@B0T5_RU13|1683
 #140|@FASTCHESSBOT|1666
 #141|@SipsonsamsonBOT|1665
-#142|@TestingBot1|1659
-#143|@is_BOSS|1656
-#144|@MistakeBOT|1655
+#142|@is_BOSS|1656
+#143|@MistakeBOT|1655
+#144|@TestingBot1|1647
 #145|@OpeningsBot|1645
 #146|@Isaacwb_BOT|1640
 #147|@SriLankaChess|1623
@@ -191,7 +191,7 @@ Rank|Bot|Rating
 #189|@xDmanBOT|1419
 #190|@chess-trainer-bot|1417
 #191|@Wayang|1411
-#192|@Groot123456|1404
+#192|@Groot123456|1403
 #193|@cool_boy_bot|1398
 #194|@Classic_BOT-v2|1392
 #195|@are_bots_good|1367
