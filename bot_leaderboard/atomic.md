@@ -7,10 +7,8 @@ Rank|Bot|Rating
 #5|@Speeedrunchessgames|2555
 #6|@MaggiChess16|2540
 #7|@PINEAPPLEMASK|2494
-#8|@eNErGyOFbEiNGbOT|2431
-#9|@RaspFish|2402
-#10|@ToromBot|2401
-#11|@InvinxibleFlxsh|2307
-#12|@VEER-OMEGA-BOT|2252
-#13|@is_BOSS|1903
-#14|@pawnrobot|1333
+#8|@RaspFish|2403
+#9|@ToromBot|2397
+#10|@VEER-OMEGA-BOT|2252
+#11|@is_BOSS|1903
+#12|@pawnrobot|1329

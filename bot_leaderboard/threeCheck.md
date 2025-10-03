@@ -10,6 +10,6 @@ Rank|Bot|Rating
 #8|@VEER-OMEGA-BOT|2364
 #9|@DarkOnBot|2297
 #10|@is_BOSS|2119
-#11|@Groot123456|1727
-#12|@DavidsGuterBot|1565
+#11|@Groot123456|1731
+#12|@DavidsGuterBot|1561
 #13|@pawnrobot|1215

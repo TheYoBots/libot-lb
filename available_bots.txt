@@ -1506,6 +1506,7 @@ john_bamp
 johnsun
 johnwick_babayoga
 joke_2010
+jomfish_bot
 joneca-bot
 jonnierman
 jonox
@@ -3302,4 +3303,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-jomfish_bot

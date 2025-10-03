@@ -9,6 +9,5 @@ Rank|Bot|Rating
 #7|@PINEAPPLEMASK|2493
 #8|@DarkOnBot|2483
 #9|@VEER-OMEGA-BOT|2477
-#10|@eNErGyOFbEiNGbOT|2469
-#11|@TacticalBot|2468
-#12|@is_BOSS|2136
+#10|@TacticalBot|2468
+#11|@is_BOSS|2136
