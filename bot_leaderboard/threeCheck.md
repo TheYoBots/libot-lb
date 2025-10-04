@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@MaggiChess16|2368
 #8|@VEER-OMEGA-BOT|2364
 #9|@DarkOnBot|2297
-#10|@is_BOSS|2119
-#11|@Groot123456|1731
-#12|@DavidsGuterBot|1550
+#10|@Groot123456|1731
+#11|@DavidsGuterBot|1554
+#12|@DanerdBot|1377
 #13|@pawnrobot|1226

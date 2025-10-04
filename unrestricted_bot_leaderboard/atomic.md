@@ -314,10 +314,10 @@ Rank|Bot|Rating
 #312|@knight_128|1336
 #313|@DobbyBot|1334
 #314|@The_A_and_D_Club|1332
-#315|@pawnrobot|1329
-#316|@NOTBOTFORSURE|1327
-#317|@TheSystem_Bot|1318
-#318|@PROBROMAN|1317
+#315|@NOTBOTFORSURE|1327
+#316|@TheSystem_Bot|1318
+#317|@PROBROMAN|1317
+#318|@pawnrobot|1311
 #319|@Atomicbot1|1294
 #320|@DavidsGuterBot|1287
 #321|@XXXTryandTryXXX|1280

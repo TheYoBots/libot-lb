@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@jasans_bot|1621
 #137|@newengine2022|1588
 #138|@knight_128|1563
-#139|@DavidsGuterBot|1550
+#139|@DavidsGuterBot|1554
 #140|@Alehkine_cat|1531
 #141|@TrashBot|1519
 #142|@relevantproblem|1514
@@ -169,8 +169,8 @@ Rank|Bot|Rating
 #167|@RochadeSchachzeitung|1392
 #168|@MasterofChessBOT800|1391
 #169|@HiddeNL|1385
-#170|@DanerdBot|1384
-#171|@apraz|1383
+#170|@apraz|1383
+#171|@DanerdBot|1377
 #172|@Bottios|1323
 #173|@TTC-BOT_2|1322
 #174|@cool_boy_bot|1321

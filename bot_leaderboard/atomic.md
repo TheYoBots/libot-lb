@@ -12,4 +12,4 @@ Rank|Bot|Rating
 #10|@InvinxibleFlxsh|2299
 #11|@VEER-OMEGA-BOT|2252
 #12|@is_BOSS|1903
-#13|@pawnrobot|1329
+#13|@pawnrobot|1311
