@@ -6,8 +6,9 @@ Rank|Bot|Rating
 #4|@MaggiChess16|2506
 #5|@Ghost_HunteR2998|2500
 #6|@RaspFish|2494
-#7|@PINEAPPLEMASK|2493
-#8|@DarkOnBot|2483
-#9|@VEER-OMEGA-BOT|2477
-#10|@TacticalBot|2468
-#11|@is_BOSS|2131
+#7|@PINEAPPLEMASK|2492
+#8|@InvinxibleFlxsh|2487
+#9|@DarkOnBot|2483
+#10|@VEER-OMEGA-BOT|2477
+#11|@TacticalBot|2474
+#12|@is_BOSS|2131

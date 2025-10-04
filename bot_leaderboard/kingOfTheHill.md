@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@PINEAPPLEMASK|2361
-#2|@TacticalBot|2345
+#1|@TacticalBot|2362
+#2|@PINEAPPLEMASK|2354
 #3|@Speeedrunchessgames|2316
 #4|@MaggiChess16|2313
 #5|@CourageousCheckmate7|2296
-#6|@DarkOnBot|2256
+#6|@DarkOnBot|2252
 #7|@tbhOnBot|2246
 #8|@RaspFish|2193
 #9|@VEER-OMEGA-BOT|2169

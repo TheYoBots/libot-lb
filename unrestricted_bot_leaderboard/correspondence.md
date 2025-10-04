@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@StockfishPower|2065
 #115|@Hyper-Stockfish|2064
 #116|@BotifiedMoyao|2058
-#117|@Dong_Xiao_Yuan|2054
-#118|@GarboBot|2053
+#117|@GarboBot|2055
+#118|@Dong_Xiao_Yuan|2054
 #119|@DragonBallZFan|2052
 #120|@centaur01|2050
 #121|@CrazyDog5892912|2050
@@ -320,10 +320,10 @@ Rank|Bot|Rating
 #318|@PolyBOT|1481
 #319|@HerathHerath|1477
 #320|@YagizTurkiyeBOT|1476
-#321|@KnightOwlBot|1473
-#322|@GyatsoBot|1469
-#323|@MRT23|1469
-#324|@Cimille|1467
+#321|@Cimille|1473
+#322|@KnightOwlBot|1473
+#323|@GyatsoBot|1469
+#324|@MRT23|1469
 #325|@TheSystem_Bot|1466
 #326|@Mate-AI|1454
 #327|@dtsudo|1449
@@ -403,4 +403,4 @@ Rank|Bot|Rating
 #401|@G0thamB0t|954
 #402|@GuineaBot|866
 #403|@BogoBot|865
-#404|@grandQ_AI|830
+#404|@grandQ_AI|845

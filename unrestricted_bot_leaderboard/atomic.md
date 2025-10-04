@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@CourageousCheckmate7|2637
+#5|@CourageousCheckmate7|2641
 #6|@Fairy_Belzedar|2628
 #7|@TacticalBot|2607
 #8|@CockyCrab|2602
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@KizVariant|2597
 #11|@pistol-play|2590
 #12|@Bharat_royals|2575
-#13|@DarkOnBot|2573
+#13|@DarkOnBot|2574
 #14|@tbhOnBot|2566
 #15|@UltronBot|2556
 #16|@Viet-AI|2556
@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@CatBot_14|2514
 #28|@EmptikBot|2510
 #29|@ibep|2498
-#30|@PINEAPPLEMASK|2489
+#30|@Ghost_HunteR2998|2494
 #31|@firstrobot|2485
-#32|@Ghost_HunteR2998|2485
+#32|@PINEAPPLEMASK|2484
 #33|@ShredderGrizzly|2479
 #34|@NormalBulletBot|2474
 #35|@LoseisnotAvailablehe|2466
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@OceanicAbyssalord|2422
 #41|@ElPeonElectrico|2420
 #42|@ChessVBOT|2411
-#43|@RaspFish|2403
-#44|@Fairy-Stockfish|2402
+#43|@Fairy-Stockfish|2402
+#44|@RaspFish|2400
 #45|@ToromBot|2397
 #46|@Bullet_bot_0526|2389
 #47|@abhisun_bot|2384
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@The-Fastest-Bot|2314
 #63|@Alehkine_cat|2312
 #64|@Dean_Summer_Bot|2305
-#65|@InvinxibleFlxsh|2299
+#65|@InvinxibleFlxsh|2296
 #66|@PsychedelicAtomic|2296
 #67|@AndromedaSX1|2284
 #68|@vrnts_colinbot|2282
