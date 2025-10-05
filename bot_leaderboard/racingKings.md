@@ -5,10 +5,11 @@ Rank|Bot|Rating
 #3|@tbhOnBot|2510
 #4|@MaggiChess16|2506
 #5|@Ghost_HunteR2998|2500
-#6|@RaspFish|2494
-#7|@PINEAPPLEMASK|2492
-#8|@InvinxibleFlxsh|2487
+#6|@ElPeonElectrico|2496
+#7|@RaspFish|2494
+#8|@PINEAPPLEMASK|2492
 #9|@DarkOnBot|2483
-#10|@VEER-OMEGA-BOT|2477
-#11|@TacticalBot|2474
-#12|@is_BOSS|2131
+#10|@TacticalBot|2481
+#11|@VEER-OMEGA-BOT|2477
+#12|@InvinxibleFlxsh|2476
+#13|@is_BOSS|2131

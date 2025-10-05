@@ -2645,6 +2645,7 @@ slav-tech
 sldeadshot22
 sleepmindengine
 slice-bot
+slimebathtub
 slimiestsquid
 slipperiestseal
 slothengine
@@ -3303,4 +3304,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-slimebathtub
+sau1001
