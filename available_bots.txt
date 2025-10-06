@@ -2543,6 +2543,7 @@ satranc_kazansin_bot
 satrancbazyt
 saturnbot
 satyakeswara_bot
+sau1001
 sauwkhamari
 savenikitosikbots
 saxtonengine
@@ -3304,4 +3305,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sau1001
+c0br4_bot
