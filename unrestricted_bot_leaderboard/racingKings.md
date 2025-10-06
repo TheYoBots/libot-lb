@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@tbhOnBot|2510
 #22|@Endogenetic-Bot|2507
 #23|@MaggiChess16|2506
-#24|@CourageousCheckmate7|2504
+#24|@CourageousCheckmate7|2503
 #25|@Ghost_HunteR2998|2500
 #26|@OceanicAbyssalord|2497
 #27|@SlipperiestSeal|2497
@@ -31,10 +31,10 @@ Rank|Bot|Rating
 #29|@ElPeonElectrico|2495
 #30|@mrchessmanager|2494
 #31|@RaspFish|2494
-#32|@PINEAPPLEMASK|2492
+#32|@PINEAPPLEMASK|2493
 #33|@TeamChelsie|2489
 #34|@DarkOnBot|2483
-#35|@TacticalBot|2481
+#35|@TacticalBot|2482
 #36|@Magnus-BOT|2479
 #37|@VEER-OMEGA-BOT|2477
 #38|@InvinxibleFlxsh|2476

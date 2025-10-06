@@ -535,6 +535,7 @@ butzke_bot
 byte-knight
 bytechessbot
 byteknightengine
+c0br4_bot
 c0llision
 cabolince
 cactusengine
@@ -3305,4 +3306,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-c0br4_bot

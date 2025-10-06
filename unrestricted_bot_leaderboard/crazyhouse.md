@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@lord-bot|2329
 #35|@catalanbotI|2307
 #36|@Yemmi-Yemmi|2305
-#37|@TacticalBot|2293
+#37|@TacticalBot|2286
 #38|@iplayonlyrandom|2282
 #39|@NormalBlitzBulletBot|2278
 #40|@CourageousCheckmate7|2275
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@NecroMindX|2229
 #52|@Coolman2021|2219
 #53|@GoblinAjedrezAI|2218
-#54|@Ghost_HunteR2998|2203
+#54|@Ghost_HunteR2998|2214
 #55|@xiang-qi|2203
 #56|@MyNameIsWhatLOL|2200
 #57|@PINEAPPLEMASK|2200

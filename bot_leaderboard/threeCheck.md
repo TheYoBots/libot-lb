@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@CourageousCheckmate7|2534
-#2|@TacticalBot|2462
-#3|@ElPeonElectrico|2460
-#4|@Speeedrunchessgames|2458
+#1|@CourageousCheckmate7|2543
+#2|@TacticalBot|2467
+#3|@Speeedrunchessgames|2458
+#4|@ElPeonElectrico|2453
 #5|@tbhOnBot|2411
 #6|@PINEAPPLEMASK|2408
 #7|@ToromBot|2408
@@ -13,5 +13,5 @@ Rank|Bot|Rating
 #11|@RaspFish|2267
 #12|@Groot123456|1731
 #13|@DavidsGuterBot|1551
-#14|@DanerdBot|1371
-#15|@pawnrobot|1226
+#14|@DanerdBot|1378
+#15|@pawnrobot|1222
