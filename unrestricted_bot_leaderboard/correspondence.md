@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2937
+#1|@fibonachi|2938
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2826
 #4|@MaggiChess16|2806
@@ -320,12 +320,12 @@ Rank|Bot|Rating
 #318|@PolyBOT|1481
 #319|@HerathHerath|1477
 #320|@YagizTurkiyeBOT|1476
-#321|@Cimille|1473
-#322|@KnightOwlBot|1473
-#323|@AllieTheChessBot|1470
-#324|@GyatsoBot|1469
-#325|@MRT23|1469
-#326|@TheSystem_Bot|1466
+#321|@KnightOwlBot|1473
+#322|@AllieTheChessBot|1470
+#323|@GyatsoBot|1469
+#324|@MRT23|1469
+#325|@TheSystem_Bot|1466
+#326|@Cimille|1459
 #327|@Mate-AI|1454
 #328|@dtsudo|1449
 #329|@CheezyGlizzyEater|1444
