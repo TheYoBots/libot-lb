@@ -10,8 +10,9 @@ Rank|Bot|Rating
 #8|@InvinxibleFlxsh|2365
 #9|@VEER-OMEGA-BOT|2364
 #10|@DarkOnBot|2293
-#11|@RaspFish|2267
-#12|@Groot123456|1731
-#13|@DavidsGuterBot|1551
-#14|@DanerdBot|1378
-#15|@pawnrobot|1222
+#11|@RaspFish|2259
+#12|@virus_exe-bot|2227
+#13|@Groot123456|1731
+#14|@DavidsGuterBot|1549
+#15|@DanerdBot|1378
+#16|@pawnrobot|1222

@@ -181,11 +181,11 @@ Rank|Bot|Rating
 #179|@OurBot|1836
 #180|@Aromik_s_bot|1831
 #181|@BestJSEngine|1826
-#182|@Black_Knight2006|1815
-#183|@Hoplites|1813
-#184|@cool_boy_bot|1812
-#185|@Sub_Bot|1808
-#186|@Jibbby|1804
+#182|@Jibbby|1826
+#183|@Black_Knight2006|1815
+#184|@Hoplites|1813
+#185|@cool_boy_bot|1812
+#186|@Sub_Bot|1808
 #187|@DrMeowMeow|1800
 #188|@stockfish12_Johan|1798
 #189|@DragonflyBOT|1796
