@@ -2674,6 +2674,7 @@ sorenxmental
 sovereign_bot
 sovereignking
 space_juicer
+spaceengine
 spaceisbot
 sparrer123
 sparring_bot
@@ -3306,4 +3307,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-spaceengine
