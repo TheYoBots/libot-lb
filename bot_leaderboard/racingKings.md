@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@Ghost_HunteR2998|2497
 #8|@ElPeonElectrico|2494
 #9|@PINEAPPLEMASK|2492
-#10|@DarkOnBot|2483
-#11|@TacticalBot|2483
+#10|@TacticalBot|2487
+#11|@DarkOnBot|2483
 #12|@VEER-OMEGA-BOT|2477
-#13|@InvinxibleFlxsh|2476
+#13|@InvinxibleFlxsh|2467
 #14|@virus_exe-bot|2342
 #15|@is_BOSS|2131
