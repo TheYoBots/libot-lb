@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2941
+#1|@fibonachi|2942
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2826
 #4|@MaggiChess16|2806
@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@peonasesino71|2512
 #13|@MrDeepSeekGPT|2504
 #14|@ServerFish|2494
-#15|@colinbot|2492
-#16|@ChamberiAjedrez|2490
+#15|@ChamberiAjedrez|2493
+#16|@colinbot|2492
 #17|@Bingo202|2484
 #18|@TorBot|2475
 #19|@Viet-AI|2471
