@@ -8,14 +8,14 @@ Rank|Bot|Rating
 #6|@strain-on-veins|2732
 #7|@ElPeonElectrico|2719
 #8|@InvinxibleFlxsh|2684
-#9|@GoblinAjedrezAI|2662
+#9|@GoblinAjedrezAI|2665
 #10|@DarkOnBot|2645
 #11|@RaspFish|2640
 #12|@Speeedrunchessgames|2625
 #13|@tbhOnBot|2593
 #14|@CourageousCheckmate7|2591
 #15|@is_BOSS|2388
-#16|@anti-bot|2279
+#16|@anti-bot|2259
 #17|@NilatacBot|2172
-#18|@CatNail|2081
+#18|@CatNail|2076
 #19|@pawnrobot|1936

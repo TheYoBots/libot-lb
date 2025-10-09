@@ -41,10 +41,10 @@ Rank|Bot|Rating
 #39|@eNErGyOFbEiNGbOT|2469
 #40|@InvinxibleFlxsh|2467
 #41|@vrnts_colinbot|2462
-#42|@GoblinAjedrezAI|2457
-#43|@SF_Bot1nok|2457
-#44|@CockyCrab|2455
-#45|@CocopikachuBOT|2451
+#42|@SF_Bot1nok|2457
+#43|@CockyCrab|2455
+#44|@CocopikachuBOT|2451
+#45|@GoblinAjedrezAI|2447
 #46|@Fairy-Stockfish|2438
 #47|@NormalBlitzBulletBot|2435
 #48|@MyNameIsWhatLOL|2432
@@ -99,7 +99,7 @@ Rank|Bot|Rating
 #97|@HuxZero|2176
 #98|@AnUtterlyKarBot|2174
 #99|@knight_128|2144
-#100|@is_BOSS|2131
+#100|@is_BOSS|2134
 #101|@Kizburb|2126
 #102|@mc-king-098|2124
 #103|@fairy-vvrr|2117
@@ -165,9 +165,9 @@ Rank|Bot|Rating
 #163|@KnightsArmour|1494
 #164|@MagnusCarlsen1507|1493
 #165|@Ar4Asd1-BOT|1491
-#166|@Groot123456|1490
-#167|@Kizbuurb|1490
-#168|@alvinl22_LBot|1489
+#166|@Kizbuurb|1490
+#167|@alvinl22_LBot|1489
+#168|@Groot123456|1488
 #169|@MeezKool|1476
 #170|@ahmet-botahmet|1471
 #171|@Variantenkoning|1471

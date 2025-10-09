@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@LoseisnotAvailablehe|2677
 #35|@AntichessAnalyzer|2673
 #36|@MaggiChess16|2667
-#37|@GoblinAjedrezAI|2662
+#37|@GoblinAjedrezAI|2665
 #38|@SCP079|2662
 #39|@DarkOnBot|2645
 #40|@RaspFish|2640
@@ -75,10 +75,10 @@ Rank|Bot|Rating
 #73|@Dark_evil_bot|2525
 #74|@Bot_AOOP11|2521
 #75|@HyperLitikBOT|2511
-#76|@Lili-ai|2506
-#77|@pistol-play|2498
-#78|@MrBOThacker|2477
-#79|@hauptschuleBOT|2475
+#76|@pistol-play|2498
+#77|@MrBOThacker|2477
+#78|@hauptschuleBOT|2475
+#79|@Lili-ai|2475
 #80|@Alehkine_cat|2474
 #81|@SacrificialSage|2472
 #82|@Fairy-Stockfish|2460
@@ -120,10 +120,10 @@ Rank|Bot|Rating
 #118|@BromiumAI|2302
 #119|@EvenMatchup|2302
 #120|@GodelEscherBot|2284
-#121|@anti-bot|2279
-#122|@Dean_Summer_Bot|2279
-#123|@OpeningsBot|2271
-#124|@Johnsun|2269
+#121|@Dean_Summer_Bot|2279
+#122|@OpeningsBot|2271
+#123|@Johnsun|2269
+#124|@anti-bot|2259
 #125|@SkyBlaster|2254
 #126|@mrchessmanager|2240
 #127|@TurkiyeHogwarts|2240
@@ -155,7 +155,7 @@ Rank|Bot|Rating
 #153|@Stockfish-MEDIUM|2117
 #154|@PyChessBot|2102
 #155|@TurkiyeHogwartsBOT|2099
-#156|@CatNail|2081
+#156|@CatNail|2076
 #157|@ZamuChess|2049
 #158|@Botzer|2020
 #159|@Jussicas|2019

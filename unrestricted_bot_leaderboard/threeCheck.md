@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@MasterofChessBOT800|1391
 #171|@HiddeNL|1385
 #172|@apraz|1383
-#173|@DanerdBot|1378
+#173|@DanerdBot|1361
 #174|@Bottios|1323
 #175|@TTC-BOT_2|1322
 #176|@cool_boy_bot|1321
@@ -186,8 +186,8 @@ Rank|Bot|Rating
 #184|@Parth_Dhage_2|1258
 #185|@MyNameIsWhatLOL|1256
 #186|@SneakyBot21|1256
-#187|@TORTADEMANZANA023|1233
-#188|@pawnrobot|1222
+#187|@pawnrobot|1233
+#188|@TORTADEMANZANA023|1233
 #189|@heatseeker223|1191
 #190|@admin-bot|1188
 #191|@Ujwal1001|1179

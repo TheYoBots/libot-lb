@@ -14,4 +14,4 @@ Rank|Bot|Rating
 #12|@VEER-OMEGA-BOT|2477
 #13|@InvinxibleFlxsh|2467
 #14|@virus_exe-bot|2342
-#15|@is_BOSS|2131
+#15|@is_BOSS|2134
