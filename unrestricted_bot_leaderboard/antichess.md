@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@Dean_Summer_Bot|2279
 #122|@OpeningsBot|2271
 #123|@Johnsun|2269
-#124|@anti-bot|2259
-#125|@SkyBlaster|2254
+#124|@SkyBlaster|2254
+#125|@anti-bot|2243
 #126|@mrchessmanager|2240
 #127|@TurkiyeHogwarts|2240
 #128|@EagleEye2021|2235
@@ -146,9 +146,9 @@ Rank|Bot|Rating
 #144|@HerokuHasnotplay|2196
 #145|@Lucror|2178
 #146|@GegeneBOT|2177
-#147|@NilatacBot|2173
-#148|@DeepFriedFish|2165
-#149|@lightspeed_bot|2152
+#147|@DeepFriedFish|2165
+#148|@lightspeed_bot|2152
+#149|@NilatacBot|2143
 #150|@AntiChessBot|2142
 #151|@AnUtterlyKarBot|2134
 #152|@XXIstCentury|2131

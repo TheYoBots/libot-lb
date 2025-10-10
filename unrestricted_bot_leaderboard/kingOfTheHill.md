@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@SXDEFENDER|1534
 #146|@Ramses-Chess|1525
 #147|@Light_To_The_Rescue|1523
-#148|@DavidsGuterBot|1505
+#148|@DavidsGuterBot|1511
 #149|@Z-Move|1495
 #150|@TFRChessClub|1494
 #151|@hyperchessbot1|1493
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@THEANDROIDBOT|1317
 #177|@Challengeme2anything|1307
 #178|@NoTallkOnlyGames|1291
-#179|@DanerdBot|1288
+#179|@DanerdBot|1276
 #180|@jasans_bot|1268
 #181|@ChessChipBot|1258
 #182|@Hrant_Petrosyan_BOT|1258
