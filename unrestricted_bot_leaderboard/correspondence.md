@@ -326,10 +326,10 @@ Rank|Bot|Rating
 #324|@GyatsoBot|1469
 #325|@MRT23|1469
 #326|@TheSystem_Bot|1466
-#327|@Cimille|1455
-#328|@Mate-AI|1454
-#329|@dtsudo|1449
-#330|@CheezyGlizzyEater|1444
+#327|@Mate-AI|1454
+#328|@dtsudo|1449
+#329|@CheezyGlizzyEater|1444
+#330|@Cimille|1443
 #331|@ReallyBadPlayerBot|1428
 #332|@LuciferCat|1426
 #333|@JupiterBot|1421
