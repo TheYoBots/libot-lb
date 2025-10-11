@@ -13,6 +13,6 @@ Rank|Bot|Rating
 #11|@RaspFish|2273
 #12|@virus_exe-bot|2185
 #13|@Groot123456|1731
-#14|@DavidsGuterBot|1550
+#14|@DavidsGuterBot|1547
 #15|@DanerdBot|1340
 #16|@pawnrobot|1244

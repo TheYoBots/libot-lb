@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@OceanicAbyssalord|2422
 #43|@ChessVBOT|2411
 #44|@Fairy-Stockfish|2402
-#45|@ToromBot|2394
+#45|@ToromBot|2396
 #46|@Bullet_bot_0526|2389
 #47|@RaspFish|2386
 #48|@abhisun_bot|2384

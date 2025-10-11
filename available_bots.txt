@@ -1731,6 +1731,7 @@ legendarybot1
 legendbot1
 legendg21
 legiontower
+legotechniccontrolpl
 leightfrengine
 lelaaz
 lenschess-com
@@ -2502,6 +2503,7 @@ ruchess_r
 rudim-bot
 rudolph-bot
 ruka-chess
+rukhbot
 rust-bot
 rust-engine
 rust_lang_chess
@@ -3098,6 +3100,7 @@ variantsbot
 variantsontop
 variantstop
 varianttourneysbot
+varient-chess-bot1
 vatsal_1123_bot
 vaxim2000
 vcap_bot
@@ -3307,6 +3310,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-varient-chess-bot1
-legotechniccontrolpl
-rukhbot

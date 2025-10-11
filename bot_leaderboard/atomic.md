@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@MaggiChess16|2534
 #7|@PINEAPPLEMASK|2480
 #8|@ElPeonElectrico|2437
-#9|@ToromBot|2394
+#9|@ToromBot|2396
 #10|@RaspFish|2386
 #11|@VEER-OMEGA-BOT|2254
 #12|@is_BOSS|1915

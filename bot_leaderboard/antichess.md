@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@CourageousCheckmate7|2598
 #14|@tbhOnBot|2598
 #15|@is_BOSS|2388
-#16|@anti-bot|2223
+#16|@anti-bot|2202
 #17|@NilatacBot|2143
 #18|@CatNail|2025
 #19|@pawnrobot|1943
