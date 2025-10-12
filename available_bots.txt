@@ -343,6 +343,7 @@ blaubarschbube44
 blauer-rausch
 blazikenbot2000
 blazingsunbot
+blitzsagebot
 blitzz_bot
 bloody_bone
 blue_bot_one
@@ -2265,6 +2266,7 @@ pineapple_bot
 pineapplemask
 pingwin_siepacz
 pinkpanda1000
+pinkypawnbot
 piqbot
 piratesbot
 pistol-play
@@ -2879,6 +2881,7 @@ tfrchessclub
 tfxd_bot
 tgnleelabot
 thaaron
+thanatos_engine_v7
 the-chess-king-bot
 the-fastest-bot
 the-primer
@@ -3310,6 +3313,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-thanatos_engine_v7
-pinkypawnbot
-blitzsagebot
