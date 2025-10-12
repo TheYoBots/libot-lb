@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@jasans_bot|1621
 #139|@newengine2022|1588
 #140|@knight_128|1563
-#141|@DavidsGuterBot|1547
+#141|@DavidsGuterBot|1537
 #142|@Alehkine_cat|1531
 #143|@TrashBot|1519
 #144|@relevantproblem|1514
@@ -183,10 +183,10 @@ Rank|Bot|Rating
 #181|@Sanjana_Kambala-BOT|1273
 #182|@TheLegendaryKnight|1272
 #183|@EstmileBot|1269
-#184|@Parth_Dhage_2|1258
-#185|@MyNameIsWhatLOL|1256
-#186|@SneakyBot21|1256
-#187|@pawnrobot|1254
+#184|@pawnrobot|1265
+#185|@Parth_Dhage_2|1258
+#186|@MyNameIsWhatLOL|1256
+#187|@SneakyBot21|1256
 #188|@TORTADEMANZANA023|1233
 #189|@heatseeker223|1191
 #190|@admin-bot|1188

@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@SF_Bot1nok|2549
 #19|@ttBOT|2540
 #20|@Endogenetic-Bot|2536
-#21|@Exogenetic-Bot|2534
-#22|@MaggiChess16|2534
+#21|@MaggiChess16|2535
+#22|@Exogenetic-Bot|2534
 #23|@strain-on-veins|2533
 #24|@NecroMindX|2530
 #25|@BitExtender128|2526
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@OceanicAbyssalord|2422
 #43|@ChessVBOT|2411
 #44|@Fairy-Stockfish|2402
-#45|@ToromBot|2396
+#45|@ToromBot|2393
 #46|@Bullet_bot_0526|2389
 #47|@RaspFish|2386
 #48|@abhisun_bot|2384
@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@Lili-Variants|1926
 #162|@hjhjhjhjhjhj|1923
 #163|@FyChess2|1921
-#164|@is_BOSS|1915
+#164|@is_BOSS|1916
 #165|@B4dF1sh|1903
 #166|@Isotopebot|1900
 #167|@Just-a-random-bot|1898
@@ -272,11 +272,11 @@ Rank|Bot|Rating
 #270|@UnDisstoppableBot|1498
 #271|@Hedgehog_BOT|1497
 #272|@Pikachu_270|1497
-#273|@Groot123456|1496
-#274|@ZeroesAndOnes|1496
-#275|@sus2098|1494
-#276|@Iwantedtoplaychess|1486
-#277|@MeezKool|1485
+#273|@ZeroesAndOnes|1496
+#274|@sus2098|1494
+#275|@Iwantedtoplaychess|1486
+#276|@MeezKool|1485
+#277|@Groot123456|1479
 #278|@RSVMentor|1476
 #279|@TheWeakestBot|1476
 #280|@thibot|1470

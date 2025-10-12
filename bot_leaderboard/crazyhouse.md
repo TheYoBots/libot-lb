@@ -11,4 +11,3 @@ Rank|Bot|Rating
 #9|@MaggiChess16|2192
 #10|@tbhOnBot|2180
 #11|@RaspFish|2116
-#12|@pawnrobot|1091

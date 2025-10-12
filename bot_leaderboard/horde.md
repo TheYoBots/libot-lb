@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@CourageousCheckmate7|2300
 #13|@SF_Bot1nok|2294
 #14|@GoblinAjedrezAI|2256
-#15|@Speeedrunchessgames|2242
-#16|@ElPeonElectrico|2238
-#17|@TacticalBot|2228
+#15|@ElPeonElectrico|2245
+#16|@Speeedrunchessgames|2242
+#17|@TacticalBot|2222
 #18|@InvinxibleFlxsh|2026
 #19|@pawnrobot|1238

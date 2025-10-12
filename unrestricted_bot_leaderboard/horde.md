@@ -42,10 +42,10 @@ Rank|Bot|Rating
 #40|@GoblinAjedrezAI|2256
 #41|@LudwigBOT|2256
 #42|@CloudBot_v2|2252
-#43|@Speeedrunchessgames|2242
-#44|@ElPeonElectrico|2238
+#43|@ElPeonElectrico|2245
+#44|@Speeedrunchessgames|2242
 #45|@FairyTailRegimeBot|2235
-#46|@TacticalBot|2228
+#46|@TacticalBot|2222
 #47|@Exogenetic-Bot|2214
 #48|@UltronBot|2199
 #49|@Trumpfor2O2O|2162

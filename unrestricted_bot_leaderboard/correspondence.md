@@ -299,11 +299,11 @@ Rank|Bot|Rating
 #297|@LegendG21|1546
 #298|@LilDoctorJank|1546
 #299|@maia9|1545
-#300|@XXIstCentury|1534
-#301|@lolchessbot69|1527
-#302|@maia1|1527
-#303|@entebot|1523
-#304|@katzebot|1521
+#300|@katzebot|1534
+#301|@XXIstCentury|1534
+#302|@lolchessbot69|1527
+#303|@maia1|1527
+#304|@entebot|1523
 #305|@LeelaNice|1520
 #306|@eubos|1518
 #307|@MistakeBOT|1515

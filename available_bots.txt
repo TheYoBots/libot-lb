@@ -3310,3 +3310,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+thanatos_engine_v7
+pinkypawnbot
+blitzsagebot
