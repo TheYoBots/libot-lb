@@ -3090,6 +3090,7 @@ uochess
 uras21
 urthebest237
 usachess_time
+usunfish-l1
 uvuvwevwevwesrevenge
 v7p3r_bot
 valhalla-bot
@@ -3313,4 +3314,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-usunfish-l1
