@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@EagleEye2021|2365
 #31|@KingfishX|2347
 #32|@chesshyperbot|2344
-#33|@TacticalBot|2333
+#33|@TacticalBot|2338
 #34|@EmptikBot|2332
 #35|@lord-bot|2329
 #36|@catalanbotI|2307
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@MalanChess|2273
 #41|@BitExtender128|2272
 #42|@ToromBot|2265
-#43|@CourageousCheckmate7|2264
-#44|@Speeedrunchessgames|2256
+#43|@Speeedrunchessgames|2262
+#44|@CourageousCheckmate7|2259
 #45|@Bobby_Fischer_BOT|2251
 #46|@CockyCrab|2249
 #47|@OceanicOmegalord|2247
@@ -54,10 +54,10 @@ Rank|Bot|Rating
 #52|@GoblinAjedrezAI|2222
 #53|@Coolman2021|2219
 #54|@ElPeonElectrico|2207
-#55|@PINEAPPLEMASK|2204
-#56|@xiang-qi|2203
-#57|@MyNameIsWhatLOL|2200
-#58|@Zer0_Tw0|2200
+#55|@xiang-qi|2203
+#56|@MyNameIsWhatLOL|2200
+#57|@Zer0_Tw0|2200
+#58|@PINEAPPLEMASK|2199
 #59|@UltronBot|2197
 #60|@Ghost_HunteR2998|2194
 #61|@MaggiChess16|2192
