@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TacticalBot|2427
-#2|@ToromBot|2388
-#3|@Speeedrunchessgames|2340
-#4|@ElPeonElectrico|2337
-#5|@Ghost_HunteR2998|2330
+#1|@TacticalBot|2430
+#2|@ToromBot|2395
+#3|@ElPeonElectrico|2336
+#4|@Speeedrunchessgames|2334
+#5|@Ghost_HunteR2998|2331
 #6|@PINEAPPLEMASK|2327
 #7|@GoblinAjedrezAI|2320
 #8|@CourageousCheckmate7|2287
@@ -12,6 +12,6 @@ Rank|Bot|Rating
 #10|@RaspFish|2182
 #11|@VEER-OMEGA-BOT|2159
 #12|@InvinxibleFlxsh|2108
-#13|@DavidsGuterBot|1522
-#14|@DanerdBot|1226
+#13|@DavidsGuterBot|1525
+#14|@DanerdBot|1219
 #15|@pawnrobot|1217

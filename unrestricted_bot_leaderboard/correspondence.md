@@ -329,8 +329,8 @@ Rank|Bot|Rating
 #327|@Mate-AI|1454
 #328|@dtsudo|1449
 #329|@CheezyGlizzyEater|1444
-#330|@Cimille|1434
-#331|@ReallyBadPlayerBot|1428
+#330|@ReallyBadPlayerBot|1428
+#331|@Cimille|1426
 #332|@LuciferCat|1426
 #333|@JupiterBot|1421
 #334|@sunfish_rs|1414
