@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@CourageousCheckmate7|2640
 #3|@Speeedrunchessgames|2594
 #4|@tbhOnBot|2556
-#5|@MaggiChess16|2527
+#5|@MaggiChess16|2503
 #6|@PINEAPPLEMASK|2480
 #7|@ElPeonElectrico|2446
 #8|@ToromBot|2403
