@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@TacticalBot|2647
 #3|@Speeedrunchessgames|2594
 #4|@tbhOnBot|2557
-#5|@MaggiChess16|2503
+#5|@MaggiChess16|2507
 #6|@PINEAPPLEMASK|2470
 #7|@ElPeonElectrico|2451
-#8|@ToromBot|2398
-#9|@RaspFish|2382
+#8|@ToromBot|2405
+#9|@RaspFish|2384
 #10|@VEER-OMEGA-BOT|2252
-#11|@is_BOSS|1916
-#12|@pawnrobot|1327
+#11|@is_BOSS|1917
+#12|@pawnrobot|1321

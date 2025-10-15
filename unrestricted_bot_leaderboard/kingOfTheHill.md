@@ -142,10 +142,10 @@ Rank|Bot|Rating
 #140|@Just-a-random-bot|1604
 #141|@MMC_HUANGBAI|1569
 #142|@Epiano_Bot|1567
-#143|@Groot123456|1558
+#143|@Groot123456|1545
 #144|@Toxic_Bot|1541
 #145|@SXDEFENDER|1534
-#146|@DavidsGuterBot|1525
+#146|@DavidsGuterBot|1532
 #147|@Ramses-Chess|1525
 #148|@Light_To_The_Rescue|1523
 #149|@Z-Move|1495

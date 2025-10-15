@@ -1,4 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@GarboBot|2091
-#2|@Cimille|1426
+#1|@Cimille|1426

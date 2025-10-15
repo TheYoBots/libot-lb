@@ -8,6 +8,5 @@ Rank|Bot|Rating
 #6|@PINEAPPLEMASK|2199
 #7|@ElPeonElectrico|2198
 #8|@Ghost_HunteR2998|2194
-#9|@MaggiChess16|2192
-#10|@tbhOnBot|2191
-#11|@RaspFish|2116
+#9|@tbhOnBot|2191
+#10|@RaspFish|2116

@@ -8,12 +8,12 @@ Rank|Bot|Rating
 #6|@HIWIN1234|2388
 #7|@Ghost_HunteR2998|2380
 #8|@RaspFish|2370
-#9|@SF_Bot1nok|2337
+#9|@SF_Bot1nok|2335
 #10|@Team_bot_08512|2327
 #11|@GoblinAjedrezAI|2316
 #12|@CourageousCheckmate7|2290
 #13|@MaggiChess16|2288
-#14|@Bullet_bot_0526|2279
+#14|@Bullet_bot_0526|2280
 #15|@ElPeonElectrico|2258
 #16|@Speeedrunchessgames|2239
 #17|@TacticalBot|2199

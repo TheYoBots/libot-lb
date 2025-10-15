@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@SlipperiestSeal|2516
 #27|@CatBot_14|2514
 #28|@EmptikBot|2510
-#29|@MaggiChess16|2503
+#29|@MaggiChess16|2507
 #30|@ibep|2498
 #31|@firstrobot|2485
 #32|@ShredderGrizzly|2479
@@ -43,11 +43,11 @@ Rank|Bot|Rating
 #41|@GoblinAjedrezAI|2422
 #42|@OceanicAbyssalord|2422
 #43|@ChessVBOT|2411
-#44|@Fairy-Stockfish|2402
-#45|@ToromBot|2398
+#44|@ToromBot|2405
+#45|@Fairy-Stockfish|2402
 #46|@Bullet_bot_0526|2389
 #47|@abhisun_bot|2384
-#48|@RaspFish|2382
+#48|@RaspFish|2384
 #49|@KingfishX|2369
 #50|@mrchessmanager|2369
 #51|@Stockfish-MEDIUM|2366
@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@Lili-Variants|1926
 #162|@hjhjhjhjhjhj|1923
 #163|@FyChess2|1921
-#164|@is_BOSS|1916
+#164|@is_BOSS|1917
 #165|@B4dF1sh|1903
 #166|@Isotopebot|1900
 #167|@Just-a-random-bot|1898
@@ -275,9 +275,9 @@ Rank|Bot|Rating
 #273|@Pikachu_270|1497
 #274|@ZeroesAndOnes|1496
 #275|@sus2098|1494
-#276|@Iwantedtoplaychess|1486
-#277|@MeezKool|1485
-#278|@Groot123456|1479
+#276|@Groot123456|1486
+#277|@Iwantedtoplaychess|1486
+#278|@MeezKool|1485
 #279|@RSVMentor|1476
 #280|@TheWeakestBot|1476
 #281|@thibot|1470
@@ -316,7 +316,7 @@ Rank|Bot|Rating
 #314|@DobbyBot|1334
 #315|@The_A_and_D_Club|1332
 #316|@NOTBOTFORSURE|1327
-#317|@pawnrobot|1327
+#317|@pawnrobot|1321
 #318|@TheSystem_Bot|1318
 #319|@PROBROMAN|1317
 #320|@Atomicbot1|1294

@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Hyper-Stockfish|2358
 #25|@NecroMindX|2349
 #26|@DarkOnBot|2345
-#27|@SF_Bot1nok|2337
+#27|@SF_Bot1nok|2335
 #28|@OceanicAbyssalord|2333
 #29|@CockyCrab|2332
 #30|@Team_bot_08512|2327
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@CourageousCheckmate7|2290
 #35|@Fairy-Stockfish|2289
 #36|@MaggiChess16|2288
-#37|@Bullet_bot_0526|2279
+#37|@Bullet_bot_0526|2280
 #38|@Kizburb|2276
 #39|@ChessVBOT|2258
 #40|@ElPeonElectrico|2258
@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@LudwigBOT|2256
 #43|@CloudBot_v2|2252
 #44|@Speeedrunchessgames|2239
-#45|@FairyTailRegimeBot|2235
-#46|@Bot1nokk|2233
+#45|@Bot1nokk|2238
+#46|@FairyTailRegimeBot|2235
 #47|@Exogenetic-Bot|2214
 #48|@TacticalBot|2199
 #49|@UltronBot|2199
