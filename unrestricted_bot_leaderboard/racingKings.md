@@ -19,11 +19,11 @@ Rank|Bot|Rating
 #17|@NecroMindX|2516
 #18|@RaspFish|2516
 #19|@strain-on-veins|2516
-#20|@GoblinAjedrezAI|2515
+#20|@GoblinAjedrezAI|2514
 #21|@Nebulogic|2514
 #22|@SCP079|2513
 #23|@Speeedrunchessgames|2513
-#24|@CourageousCheckmate7|2511
+#24|@CourageousCheckmate7|2510
 #25|@tbhOnBot|2510
 #26|@Endogenetic-Bot|2507
 #27|@Ghost_HunteR2998|2498
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@SlipperiestSeal|2497
 #30|@Dark_evil_bot|2496
 #31|@mrchessmanager|2494
-#32|@TacticalBot|2493
+#32|@TacticalBot|2494
 #33|@ElPeonElectrico|2492
 #34|@PINEAPPLEMASK|2492
 #35|@SF_Bot1nok|2490
@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@DarkOnBot|2483
 #38|@Magnus-BOT|2479
 #39|@newengine2022|2473
-#40|@VEER-OMEGA-BOT|2470
+#40|@VEER-OMEGA-BOT|2471
 #41|@eNErGyOFbEiNGbOT|2469
 #42|@vrnts_colinbot|2462
 #43|@CockyCrab|2455

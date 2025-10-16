@@ -606,6 +606,7 @@ checkmate10101010
 checkmatex1
 checkmatian228
 checkmmate2014
+checkstudent
 cheemschungusbot
 cheesenet
 cheesepizza2363
@@ -3315,4 +3316,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-checkstudent
+larryz-bot
