@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2549
-#2|@RaspFish|2523
+#2|@RaspFish|2516
 #3|@Speeedrunchessgames|2513
 #4|@CourageousCheckmate7|2511
 #5|@tbhOnBot|2510

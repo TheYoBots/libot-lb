@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@Coolman2021|2527
 #14|@EmptikBot|2526
 #15|@Exogenetic-Bot|2524
-#16|@RaspFish|2523
-#17|@MaggiChess16|2516
-#18|@NecroMindX|2516
+#16|@MaggiChess16|2516
+#17|@NecroMindX|2516
+#18|@RaspFish|2516
 #19|@strain-on-veins|2516
 #20|@GoblinAjedrezAI|2515
 #21|@Nebulogic|2514
@@ -78,10 +78,10 @@ Rank|Bot|Rating
 #76|@YoBot_v2|2287
 #77|@colinbot|2285
 #78|@AlfaBot|2278
-#79|@Mega_BOT|2264
-#80|@MalanChess|2261
-#81|@chesshyperbot|2259
-#82|@varient-chess-bot1|2256
+#79|@varient-chess-bot1|2272
+#80|@Mega_BOT|2264
+#81|@MalanChess|2261
+#82|@chesshyperbot|2259
 #83|@ESC_BOT|2253
 #84|@relevantproblem|2251
 #85|@GodelEscherBot|2244

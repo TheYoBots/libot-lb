@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Chrysogenum|2885
-#2|@ToromBot|2867
+#2|@ToromBot|2873
 #3|@Ghost_HunteR2998|2833
 #4|@PINEAPPLEMASK|2833
 #5|@strain-on-veins|2825
@@ -10,11 +10,11 @@ Rank|Bot|Rating
 #8|@MaggiChess16|2667
 #9|@InvinxibleFlxsh|2658
 #10|@Speeedrunchessgames|2644
-#11|@RaspFish|2640
-#12|@GoblinAjedrezAI|2627
+#11|@GoblinAjedrezAI|2627
+#12|@RaspFish|2610
 #13|@CourageousCheckmate7|2605
 #14|@tbhOnBot|2605
-#15|@anti-bot|2235
+#15|@anti-bot|2234
 #16|@NilatacBot|2142
 #17|@CatNail|2097
-#18|@pawnrobot|1949
+#18|@pawnrobot|1950
