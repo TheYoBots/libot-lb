@@ -612,6 +612,7 @@ cheesenet
 cheesepizza2363
 cheezebot
 cheezyglizzyeater
+chefisin
 chelanger-bot
 chen_bot
 chen_sbot
@@ -3317,4 +3318,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chefisin
