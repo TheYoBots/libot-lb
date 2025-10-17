@@ -1649,6 +1649,7 @@ lamanodetal
 lambergar
 lapischesszero
 laquaisha
+larryz-bot
 lastwill
 laurentos_bot
 laurin03
@@ -3316,4 +3317,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-larryz-bot
+chefisin

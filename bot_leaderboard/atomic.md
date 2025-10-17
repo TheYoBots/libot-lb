@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@CourageousCheckmate7|2638
 #3|@Speeedrunchessgames|2598
 #4|@tbhOnBot|2552
-#5|@MaggiChess16|2512
+#5|@MaggiChess16|2505
 #6|@PINEAPPLEMASK|2461
 #7|@ElPeonElectrico|2447
 #8|@ToromBot|2406
-#9|@RaspFish|2387
+#9|@RaspFish|2381
 #10|@VEER-OMEGA-BOT|2252
 #11|@is_BOSS|1917
-#12|@pawnrobot|1317
+#12|@pawnrobot|1329
