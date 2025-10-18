@@ -428,6 +428,7 @@ bot_tark
 bot_test333
 bot_tfwc
 bot_to_beat
+bot_vupteminterprise
 botacik
 botalex1n
 botalex2n
@@ -3093,6 +3094,7 @@ uochess
 uras21
 urthebest237
 usachess_time
+usunfish-l0
 usunfish-l1
 usunfish-l7
 uvuvwevwevwesrevenge
@@ -3318,5 +3320,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-usunfish-l0
-bot_vupteminterprise
