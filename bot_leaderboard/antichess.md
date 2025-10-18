@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Ghost_HunteR2998|2830
 #5|@PINEAPPLEMASK|2827
 #6|@TacticalBot|2786
-#7|@RaspFish|2727
+#7|@RaspFish|2762
 #8|@ElPeonElectrico|2713
 #9|@MaggiChess16|2667
 #10|@Speeedrunchessgames|2654
@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@InvinxibleFlxsh|2632
 #13|@tbhOnBot|2619
 #14|@CourageousCheckmate7|2586
-#15|@anti-bot|2236
-#16|@NilatacBot|2145
-#17|@CatNail|2097
-#18|@pawnrobot|1945
+#15|@anti-bot|2239
+#16|@NilatacBot|2151
+#17|@CatNail|2106
+#18|@pawnrobot|1940

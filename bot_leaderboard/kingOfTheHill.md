@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@PINEAPPLEMASK|2303
 #8|@CourageousCheckmate7|2295
 #9|@tbhOnBot|2227
-#10|@RaspFish|2182
+#10|@RaspFish|2183
 #11|@VEER-OMEGA-BOT|2159
 #12|@InvinxibleFlxsh|2108
-#13|@DavidsGuterBot|1519
+#13|@DavidsGuterBot|1513
 #14|@DanerdBot|1219
-#15|@pawnrobot|1216
+#15|@pawnrobot|1218
