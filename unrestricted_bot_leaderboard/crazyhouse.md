@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@EagleEye2021|2365
 #31|@KingfishX|2347
 #32|@chesshyperbot|2344
-#33|@TacticalBot|2343
+#33|@TacticalBot|2340
 #34|@EmptikBot|2332
 #35|@lord-bot|2329
 #36|@catalanbotI|2307
@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@NormalBlitzBulletBot|2278
 #41|@MalanChess|2273
 #42|@BitExtender128|2272
-#43|@Speeedrunchessgames|2272
+#43|@Speeedrunchessgames|2269
 #44|@CourageousCheckmate7|2252
 #45|@Bobby_Fischer_BOT|2251
 #46|@CockyCrab|2249
@@ -50,10 +50,10 @@ Rank|Bot|Rating
 #48|@OceanicAbyssalord|2246
 #49|@Mega_BOT|2240
 #50|@Endogenetic-Bot|2236
-#51|@NecroMindX|2229
-#52|@ElPeonElectrico|2223
+#51|@ElPeonElectrico|2235
+#52|@NecroMindX|2229
 #53|@Coolman2021|2219
-#54|@GoblinAjedrezAI|2218
+#54|@GoblinAjedrezAI|2214
 #55|@xiang-qi|2203
 #56|@MyNameIsWhatLOL|2200
 #57|@Zer0_Tw0|2200
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Viet-BOT|2185
 #63|@FayEFish|2181
 #64|@lightspeed_bot|2177
-#65|@tbhOnBot|2173
+#65|@tbhOnBot|2176
 #66|@ChessVBOT|2168
 #67|@Sooraj_Kumar_P_S|2167
 #68|@Peaceful4Life|2160
@@ -96,9 +96,9 @@ Rank|Bot|Rating
 #94|@Magnus-BOT|1986
 #95|@Stockfish-MEDIUM|1983
 #96|@PyChessBot|1978
-#97|@SF_Bot1nok|1976
-#98|@ESC_BOT|1966
-#99|@mrchessmanager|1962
+#97|@ESC_BOT|1966
+#98|@mrchessmanager|1962
+#99|@SF_Bot1nok|1958
 #100|@Hyper-Stockfish|1947
 #101|@PolyBOT|1945
 #102|@bananaaaaaaaaa_test|1942
