@@ -140,8 +140,8 @@ Rank|Bot|Rating
 #138|@CoderDen732|1621
 #139|@Ramses-Chess|1608
 #140|@Breeze-Hot|1606
-#141|@Just-a-random-bot|1604
-#142|@varient-chess-bot1|1587
+#141|@varient-chess-bot1|1605
+#142|@Just-a-random-bot|1604
 #143|@MMC_HUANGBAI|1569
 #144|@Epiano_Bot|1567
 #145|@Groot123456|1543
@@ -187,7 +187,7 @@ Rank|Bot|Rating
 #185|@MyNameIsSpeedy|1226
 #186|@Bottios|1223
 #187|@DanerdBot|1219
-#188|@pawnrobot|1218
+#188|@pawnrobot|1217
 #189|@RSVMentor|1196
 #190|@Boom_Bot|1176
 #191|@TrashBot|1168

@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@ToromBot|2441
 #13|@Ghost_HunteR2998|2430
 #14|@SlipperiestSeal|2426
-#15|@PINEAPPLEMASK|2421
+#15|@PINEAPPLEMASK|2425
 #16|@HIWIN1234|2407
 #17|@EmptikVariantsBot|2402
 #18|@EmptikBot|2378
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@tbhOnBot|2344
 #27|@OceanicAbyssalord|2333
 #28|@CockyCrab|2332
-#29|@Team_bot_08512|2331
+#29|@Team_bot_08512|2327
 #30|@GoblinAjedrezAI|2315
 #31|@Bot1nokk|2307
 #32|@Bullet_bot_0526|2296

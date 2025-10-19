@@ -123,9 +123,9 @@ Rank|Bot|Rating
 #121|@EvenMatchup|2302
 #122|@GodelEscherBot|2284
 #123|@Dean_Summer_Bot|2279
-#124|@OpeningsBot|2271
-#125|@Johnsun|2269
-#126|@anti-bot|2266
+#124|@anti-bot|2271
+#125|@OpeningsBot|2271
+#126|@Johnsun|2269
 #127|@SkyBlaster|2254
 #128|@mrchessmanager|2240
 #129|@TurkiyeHogwarts|2240
@@ -154,8 +154,8 @@ Rank|Bot|Rating
 #152|@AntiChessBot|2142
 #153|@AnUtterlyKarBot|2134
 #154|@XXIstCentury|2131
-#155|@Stockfish-MEDIUM|2117
-#156|@CatNail|2106
+#155|@CatNail|2125
+#156|@Stockfish-MEDIUM|2117
 #157|@PyChessBot|2102
 #158|@TurkiyeHogwartsBOT|2099
 #159|@ZamuChess|2049

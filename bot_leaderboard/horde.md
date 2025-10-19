@@ -3,12 +3,12 @@ Rank|Bot|Rating
 #1|@Chrysogenum|2446
 #2|@ToromBot|2441
 #3|@Ghost_HunteR2998|2430
-#4|@PINEAPPLEMASK|2421
+#4|@PINEAPPLEMASK|2425
 #5|@HIWIN1234|2407
 #6|@strain-on-veins|2378
 #7|@RaspFish|2377
 #8|@tbhOnBot|2344
-#9|@Team_bot_08512|2331
+#9|@Team_bot_08512|2327
 #10|@GoblinAjedrezAI|2315
 #11|@Bot1nokk|2307
 #12|@Bullet_bot_0526|2296

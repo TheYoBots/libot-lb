@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@InvinxibleFlxsh|2619
 #13|@tbhOnBot|2619
 #14|@CourageousCheckmate7|2577
-#15|@anti-bot|2266
+#15|@anti-bot|2271
 #16|@NilatacBot|2151
-#17|@CatNail|2106
+#17|@CatNail|2125
 #18|@pawnrobot|1934
