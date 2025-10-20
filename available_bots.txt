@@ -2409,6 +2409,7 @@ raphbot
 rapid_worldchamp
 rapidbotai
 rapidchessbot
+rascal1
 raspberryisfishy
 raspfish
 raubfish_me262
@@ -3323,4 +3324,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-rascal1
+r4033
+titantactical2
