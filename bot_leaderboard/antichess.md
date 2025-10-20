@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@Chrysogenum|2874
 #3|@PINEAPPLEMASK|2854
 #4|@strain-on-veins|2853
-#5|@Ghost_HunteR2998|2840
-#6|@TacticalBot|2780
+#5|@Ghost_HunteR2998|2839
+#6|@TacticalBot|2785
 #7|@RaspFish|2762
 #8|@ElPeonElectrico|2720
 #9|@MaggiChess16|2667
@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@GoblinAjedrezAI|2635
 #13|@InvinxibleFlxsh|2621
 #14|@tbhOnBot|2613
-#15|@SF_Bot1nok|2595
-#16|@CourageousCheckmate7|2571
-#17|@anti-bot|2282
-#18|@NilatacBot|2151
+#15|@SF_Bot1nok|2592
+#16|@CourageousCheckmate7|2577
+#17|@anti-bot|2283
+#18|@NilatacBot|2153
 #19|@CatNail|2125
-#20|@pawnrobot|1934
+#20|@pawnrobot|1931

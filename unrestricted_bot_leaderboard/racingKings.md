@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@OceanicAbyssalord|2497
 #30|@SlipperiestSeal|2497
 #31|@Dark_evil_bot|2496
-#32|@mrchessmanager|2494
-#33|@SF_Bot1nok|2494
+#32|@SF_Bot1nok|2495
+#33|@mrchessmanager|2494
 #34|@ElPeonElectrico|2492
 #35|@PINEAPPLEMASK|2492
 #36|@TeamChelsie|2489

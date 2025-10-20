@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@KizVariant|2529
 #17|@SCP079|2526
 #18|@TacticalBot|2523
-#19|@CourageousCheckmate7|2497
+#19|@CourageousCheckmate7|2506
 #20|@Fairy-Stockfish|2484
 #21|@ESC_BOT|2476
 #22|@Less_of_a_threat|2469
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@tbhOnBot|2406
 #35|@MaggiChess16|2396
 #36|@OceanicAbyssalord|2393
-#37|@SF_Bot1nok|2385
-#38|@SlipperiestSeal|2382
+#37|@SlipperiestSeal|2382
+#38|@SF_Bot1nok|2374
 #39|@Endogenetic-Bot|2372
 #40|@Viet_BOT|2367
 #41|@NecroMindX|2358
@@ -46,12 +46,12 @@ Rank|Bot|Rating
 #44|@VEER-OMEGA-BOT|2346
 #45|@Zer0_Tw0|2332
 #46|@CockyCrab|2328
-#47|@Ghost_HunteR2998|2322
+#47|@Ghost_HunteR2998|2312
 #48|@LudwigBOT|2304
 #49|@lord-bot|2300
 #50|@DarkOnBot|2290
-#51|@RaspFish|2287
-#52|@KingfishX|2285
+#51|@KingfishX|2285
+#52|@RaspFish|2284
 #53|@strain-on-veins|2280
 #54|@The-Fastest-Bot|2277
 #55|@CocopikachuBOT|2274

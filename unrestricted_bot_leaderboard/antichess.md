@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@UltronBot|2859
 #12|@PINEAPPLEMASK|2854
 #13|@strain-on-veins|2853
-#14|@Ghost_HunteR2998|2840
+#14|@Ghost_HunteR2998|2839
 #15|@OceanicOmegalord|2831
 #16|@ChessVBOT|2829
 #17|@Endogenetic-Bot|2827
@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@OceanicAbyssalord|2814
 #21|@lord-bot|2789
 #22|@FireFishBOT|2785
-#23|@TacticalBot|2780
+#23|@TacticalBot|2785
 #24|@Exogenetic-Bot|2773
 #25|@VariantsTop|2765
 #26|@Viet-AI|2765
@@ -56,11 +56,11 @@ Rank|Bot|Rating
 #54|@ChessBot3021|2599
 #55|@fairy-vvrr|2598
 #56|@Viet-BOT|2598
-#57|@SF_Bot1nok|2595
-#58|@firstrobot|2593
+#57|@firstrobot|2593
+#58|@SF_Bot1nok|2592
 #59|@AIAlphaAI|2589
 #60|@WilliamGAsaad|2584
-#61|@CourageousCheckmate7|2571
+#61|@CourageousCheckmate7|2577
 #62|@YoBot_v2|2565
 #63|@Nebulogic|2564
 #64|@SlipperiestSeal|2564
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@BromiumAI|2302
 #121|@EvenMatchup|2302
 #122|@GodelEscherBot|2284
-#123|@anti-bot|2282
+#123|@anti-bot|2283
 #124|@Dean_Summer_Bot|2279
 #125|@OpeningsBot|2271
 #126|@Johnsun|2269
@@ -149,8 +149,8 @@ Rank|Bot|Rating
 #147|@GegeneBOT|2177
 #148|@DeepFriedFish|2165
 #149|@Bot1nokk|2162
-#150|@lightspeed_bot|2152
-#151|@NilatacBot|2151
+#150|@NilatacBot|2153
+#151|@lightspeed_bot|2152
 #152|@AntiChessBot|2142
 #153|@AnUtterlyKarBot|2134
 #154|@XXIstCentury|2131
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@antichesssss|1964
 #169|@Menganti|1963
 #170|@CloudBOT|1950
-#171|@pawnrobot|1934
+#171|@pawnrobot|1931
 #172|@SriLankaChess|1925
 #173|@TestingBot1|1914
 #174|@Groot123456|1894

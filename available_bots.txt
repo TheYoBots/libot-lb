@@ -1840,6 +1840,7 @@ magic11bot
 magic11bot_coach
 magic11bot_pro
 magichacker123
+magicianrobot
 magicversebot
 magnum_carl
 magnus-bot
@@ -2450,6 +2451,7 @@ reti_bot
 rewasabot
 rexbot1
 rexherbot
+reyna-bot
 rezdarservan
 richmondonbot
 rigorousmoron
@@ -3321,5 +3323,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-reyna-bot
-magicianrobot
+rascal1

@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2945
+#1|@fibonachi|2946
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2827
 #4|@MaggiChess16|2806
-#5|@Magicianrobot|2734
+#5|@Magicianrobot|2739
 #6|@Moment-That-Inspires|2716
 #7|@pawn_git|2660
 #8|@H-Zero|2650
@@ -133,7 +133,7 @@ Rank|Bot|Rating
 #131|@StrongMagnusCarlsen|2027
 #132|@duythong1402|2025
 #133|@kybot|2025
-#134|@GarboBot|2022
+#134|@GarboBot|2020
 #135|@MalanChess|2020
 #136|@RoyalLeela|2014
 #137|@SchachProg|2010
