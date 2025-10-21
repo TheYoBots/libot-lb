@@ -31,7 +31,7 @@ def get_file_name(type, dir):
     return os.path.join(dir, f"{type}.md")
 
 
-"""
+r"""
 def get_banned_bots():
     banned_bots = set()
 
@@ -49,7 +49,7 @@ def get_banned_bots():
 """
 
 def get_user_last_rated(username, type):
-    now = datetime.datetime.utcnow()
+    now = datetime.datetime.now(datetime.UTC)
     since = now - datetime.timedelta(days=7)
     since = int(since.timestamp() * 1000)
     user = lichess.api.user_games(username, max=1, rated='true', perfType=type, since=since, format=SINGLE_PGN, auth=TOKEN)
@@ -127,8 +127,8 @@ def get_bot_leaderboard(type, unrestricted=False):
         if perfs is not None:
             result = [d['username'], perfs.get('rating')]
             print(f'BOT {result[0]}: {result[1]} in {type}.')
-            now = datetime.datetime.utcnow()
-            d['seenAt'] = datetime.datetime.utcfromtimestamp(d['seenAt'] / 1000)
+            now = datetime.datetime.now(datetime.UTC)
+            d['seenAt'] = datetime.datetime.fromtimestamp(d['seenAt'] / 1000, datetime.UTC)
             if d.get('disabled', False) is True:
                 print("Account Closed")
             elif d.get('tosViolation', False) is True:

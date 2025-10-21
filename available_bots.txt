@@ -3111,6 +3111,7 @@ valiantbot
 vamos_caballeros
 vanilla_v2
 variablelco
+variantbookstest
 variantebot
 variantenkoning
 variantsbot
@@ -3313,6 +3314,7 @@ zeroesandones
 zerowinx
 zeusbot
 zeusbot_v1
+zeusminibot
 zevra_chess
 zeynep001
 zgroupbot
