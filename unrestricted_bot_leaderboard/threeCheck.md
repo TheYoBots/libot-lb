@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@Fairy_Belzedar|2544
 #16|@KizVariant|2529
 #17|@SCP079|2526
-#18|@TacticalBot|2518
+#18|@TacticalBot|2522
 #19|@CourageousCheckmate7|2517
 #20|@Fairy-Stockfish|2484
 #21|@ESC_BOT|2476
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@ToromBot|2430
 #32|@PINEAPPLEMASK|2417
 #33|@FayEFish|2411
-#34|@tbhOnBot|2406
+#34|@tbhOnBot|2402
 #35|@MaggiChess16|2396
 #36|@OceanicAbyssalord|2393
 #37|@SlipperiestSeal|2382

@@ -2388,6 +2388,7 @@ qyvirkotbot
 qzrfi
 r-o-b-o-t
 r0bspierre
+r4033
 rablitz-test
 racingkingskingsbot
 raddelgo14bot
@@ -2983,6 +2984,7 @@ tinyhugebot
 tiraelsedaibot
 tiredpieces
 tissouslebot
+titantactical2
 tjchessbot
 tkgue
 tle-of-water
@@ -3324,5 +3326,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-r4033
-titantactical2
+sacredieu

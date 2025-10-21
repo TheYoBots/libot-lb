@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@TheMatrix2025|2346
 #17|@AndromedaSX1|2344
 #18|@CockyCrab|2341
-#19|@CourageousCheckmate7|2330
+#19|@CourageousCheckmate7|2333
 #20|@Ghost_HunteR2998|2327
 #21|@GoblinAjedrezAI|2326
 #22|@Sooraj_Kumar_P_S|2319

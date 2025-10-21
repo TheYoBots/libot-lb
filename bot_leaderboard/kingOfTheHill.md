@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@TacticalBot|2428
 #2|@ToromBot|2394
 #3|@ElPeonElectrico|2355
-#4|@CourageousCheckmate7|2330
+#4|@CourageousCheckmate7|2333
 #5|@Ghost_HunteR2998|2327
 #6|@GoblinAjedrezAI|2326
 #7|@PINEAPPLEMASK|2294

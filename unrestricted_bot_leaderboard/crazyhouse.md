@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@NienishiEngine|2392
 #30|@EagleEye2021|2365
 #31|@KingfishX|2347
-#32|@chesshyperbot|2344
-#33|@TacticalBot|2343
+#32|@TacticalBot|2347
+#33|@chesshyperbot|2344
 #34|@EmptikBot|2332
 #35|@lord-bot|2329
 #36|@catalanbotI|2307
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@Endogenetic-Bot|2236
 #52|@NecroMindX|2229
 #53|@Coolman2021|2219
-#54|@GoblinAjedrezAI|2214
+#54|@GoblinAjedrezAI|2210
 #55|@xiang-qi|2203
 #56|@MyNameIsWhatLOL|2200
 #57|@Zer0_Tw0|2200
