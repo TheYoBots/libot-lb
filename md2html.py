@@ -23,6 +23,9 @@ css_styles = """
       text-align: left;
     }
     .styled-table th {
+      background-color: #4b4d4e3f;
+    }
+    .styled-table tr:nth-child(even) {
       background-color: #f2f2f2;
     }
     body {
@@ -61,7 +64,7 @@ footer_styles = """
 
 def generate_h1_tag(filename):
     title = os.path.splitext(filename)[0].capitalize()
-    h1_tag = f"<h1>{title} Leaderboard</h1>"
+    h1_tag = f'<h1>{title} Leaderboard</h1><h3 align="center"><a href="/bot">Bot Leaderboard (with rules)</a> | <a href="/unrestricted">Bot Leaderboard (without rules)</h3>'
     return h1_tag
 
 def markdown_table_to_html(markdown_table):
