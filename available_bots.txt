@@ -2525,6 +2525,7 @@ rybkaoldengine
 s2rarro
 s_stock
 sacgod1020
+sacredieu
 sacrificebot
 sacrificialsage
 safrad-3
@@ -3326,4 +3327,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sacredieu
