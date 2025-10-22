@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@KizVariant|2521
 #4|@Fairy-Stockfish|2486
 #5|@EmptikVariantsBot|2443
-#6|@TacticalBot|2430
+#6|@TacticalBot|2433
 #7|@SlipperiestSeal|2396
 #8|@ToromBot|2394
 #9|@Peaceful4Life|2390
@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@strain-on-veins|2243
 #40|@YoBot_v2|2242
 #41|@ResoluteBot|2233
-#42|@tbhOnBot|2232
-#43|@ttBOT|2230
+#42|@ttBOT|2230
+#43|@tbhOnBot|2229
 #44|@Magnus-BOT|2224
 #45|@SkyBlaster|2220
 #46|@OceanicAbyssalord|2214
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@Toxic_Bot|1541
 #147|@SXDEFENDER|1534
 #148|@Light_To_The_Rescue|1523
-#149|@DavidsGuterBot|1513
+#149|@DavidsGuterBot|1515
 #150|@Z-Move|1495
 #151|@TFRChessClub|1494
 #152|@hyperchessbot1|1493
@@ -187,7 +187,7 @@ Rank|Bot|Rating
 #185|@MyNameIsSpeedy|1226
 #186|@Bottios|1223
 #187|@DanerdBot|1219
-#188|@pawnrobot|1217
+#188|@pawnrobot|1215
 #189|@RSVMentor|1196
 #190|@Boom_Bot|1176
 #191|@TrashBot|1168

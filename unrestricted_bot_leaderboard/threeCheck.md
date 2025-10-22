@@ -27,13 +27,13 @@ Rank|Bot|Rating
 #25|@ttBOT|2461
 #26|@TheMatrix2029|2448
 #27|@faith_bot|2447
-#28|@Speeedrunchessgames|2442
+#28|@Speeedrunchessgames|2447
 #29|@chessbot2880|2439
 #30|@ChessVBOT|2430
 #31|@ToromBot|2430
 #32|@PINEAPPLEMASK|2413
 #33|@FayEFish|2411
-#34|@tbhOnBot|2407
+#34|@tbhOnBot|2402
 #35|@MaggiChess16|2396
 #36|@OceanicAbyssalord|2393
 #37|@SlipperiestSeal|2382

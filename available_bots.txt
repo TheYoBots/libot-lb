@@ -3329,3 +3329,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+hand_coded_ai_90565
+calico1

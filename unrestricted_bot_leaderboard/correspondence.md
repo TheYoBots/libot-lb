@@ -138,11 +138,11 @@ Rank|Bot|Rating
 #136|@GarboBot|2015
 #137|@RoyalLeela|2014
 #138|@SchachProg|2010
-#139|@RadianceEngine|2007
-#140|@ElPeonElectrico|2004
-#141|@zeekat|2004
-#142|@honzovy-sachy|2002
-#143|@TESTBOT23|2000
+#139|@ElPeonElectrico|2004
+#140|@zeekat|2004
+#141|@honzovy-sachy|2002
+#142|@TESTBOT23|2000
+#143|@RadianceEngine|1999
 #144|@Zer0_Tw0|1992
 #145|@YoBot_v2|1984
 #146|@Virutor|1980
