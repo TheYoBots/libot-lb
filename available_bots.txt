@@ -552,6 +552,7 @@ caissachessengine
 caissaix
 calcili
 calciumbot
+calico1
 calliopean_account
 callmecool
 calvin_bot
@@ -1289,6 +1290,7 @@ halfstockfishbot
 halux-bot
 haluxxchessbot
 hamsibot
+hand_coded_ai_90565
 hans68bot
 hansniemannbot
 happiestfarmer
@@ -3329,5 +3331,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-hand_coded_ai_90565
-calico1
