@@ -179,7 +179,7 @@ Rank|Bot|Rating
 #177|@ayodia|1853
 #178|@Boris-Trapsky|1853
 #179|@natural-disaster|1853
-#180|@Jibbby|1841
+#180|@Jibbby|1851
 #181|@Rinestro|1837
 #182|@OurBot|1836
 #183|@Aromik_s_bot|1831

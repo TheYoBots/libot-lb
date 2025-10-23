@@ -17,11 +17,11 @@ Rank|Bot|Rating
 #15|@Fairy_Belzedar|2544
 #16|@KizVariant|2529
 #17|@SCP079|2526
-#18|@TacticalBot|2516
+#18|@TacticalBot|2517
 #19|@Fairy-Stockfish|2484
 #20|@ESC_BOT|2476
 #21|@Less_of_a_threat|2469
-#22|@ElPeonElectrico|2463
+#22|@ElPeonElectrico|2466
 #23|@NormalBlitzBulletBot|2463
 #24|@ttBOT|2461
 #25|@TheMatrix2029|2448
@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@chessbot2880|2439
 #28|@ChessVBOT|2430
 #29|@ToromBot|2430
-#30|@tbhOnBot|2412
-#31|@FayEFish|2411
-#32|@PINEAPPLEMASK|2409
+#30|@FayEFish|2411
+#31|@PINEAPPLEMASK|2409
+#32|@tbhOnBot|2408
 #33|@MaggiChess16|2396
 #34|@Endogenetic-Bot|2372
 #35|@GoblinAjedrezAI|2370

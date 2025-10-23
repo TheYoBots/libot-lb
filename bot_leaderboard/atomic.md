@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TacticalBot|2657
+#1|@TacticalBot|2661
 #2|@DarkOnBot|2574
-#3|@tbhOnBot|2552
+#3|@tbhOnBot|2548
 #4|@MaggiChess16|2539
 #5|@SF_Bot1nok|2527
 #6|@Ghost_HunteR2998|2492
 #7|@ElPeonElectrico|2477
 #8|@PINEAPPLEMASK|2448
 #9|@RaspFish|2372
-#10|@is_BOSS|1963
+#10|@is_BOSS|1971
 #11|@pawnrobot|1335

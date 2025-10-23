@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@ElPeonElectrico|2493
 #30|@PINEAPPLEMASK|2492
 #31|@TeamChelsie|2489
-#32|@DarkOnBot|2483
+#32|@DarkOnBot|2486
 #33|@Magnus-BOT|2479
 #34|@newengine2022|2473
 #35|@VEER-OMEGA-BOT|2472
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@YoBot_v2|2287
 #71|@colinbot|2285
 #72|@AlfaBot|2278
-#73|@varient-chess-bot1|2273
+#73|@varient-chess-bot1|2270
 #74|@Mega_BOT|2264
 #75|@MalanChess|2261
 #76|@chesshyperbot|2259

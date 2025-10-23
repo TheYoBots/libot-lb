@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@TacticalBot|2498
 #6|@ElPeonElectrico|2493
 #7|@PINEAPPLEMASK|2492
-#8|@DarkOnBot|2483
+#8|@DarkOnBot|2486
 #9|@VEER-OMEGA-BOT|2472
 #10|@InvinxibleFlxsh|2429
-#11|@varient-chess-bot1|2273
+#11|@varient-chess-bot1|2270

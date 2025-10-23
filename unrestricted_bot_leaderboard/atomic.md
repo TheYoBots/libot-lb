@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@TacticalBot|2657
+#5|@TacticalBot|2661
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@DarkOnBot|2574
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@tbhOnBot|2552
+#14|@tbhOnBot|2548
 #15|@ttBOT|2540
 #16|@MaggiChess16|2539
 #17|@Endogenetic-Bot|2536
@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@chesshyperbot|2260
 #71|@SCP079|2259
 #72|@Johnsun|2257
-#73|@InvinxibleFlxsh|2254
-#74|@VEER-OMEGA-BOT|2252
+#73|@VEER-OMEGA-BOT|2252
+#74|@InvinxibleFlxsh|2245
 #75|@YoBot_v2|2243
 #76|@MalanChess|2238
 #77|@STockfishdestroyBot|2227
@@ -147,9 +147,9 @@ Rank|Bot|Rating
 #145|@All_Except_Chess960|1975
 #146|@Sub_Bot|1974
 #147|@VariantsTop|1974
-#148|@VarianteBOT|1970
-#149|@Ssech_BOT|1967
-#150|@is_BOSS|1963
+#148|@is_BOSS|1971
+#149|@VarianteBOT|1970
+#150|@Ssech_BOT|1967
 #151|@AEBROADUSBOTTER|1958
 #152|@AtomicRouletteBot|1955
 #153|@atomicli|1951

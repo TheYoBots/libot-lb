@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TacticalBot|2366
-#2|@ElPeonElectrico|2236
-#3|@GoblinAjedrezAI|2233
+#1|@TacticalBot|2373
+#2|@ElPeonElectrico|2232
+#3|@GoblinAjedrezAI|2230
 #4|@PINEAPPLEMASK|2187
 #5|@Ghost_HunteR2998|2182
 #6|@tbhOnBot|2168

@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@YoBot_v2|2394
 #28|@CloudBOT|2393
 #29|@NienishiEngine|2392
-#30|@TacticalBot|2366
+#30|@TacticalBot|2373
 #31|@EagleEye2021|2365
 #32|@KingfishX|2347
 #33|@chesshyperbot|2344
@@ -44,9 +44,9 @@ Rank|Bot|Rating
 #42|@BitExtender128|2272
 #43|@Bobby_Fischer_BOT|2251
 #44|@Mega_BOT|2240
-#45|@ElPeonElectrico|2236
-#46|@Endogenetic-Bot|2236
-#47|@GoblinAjedrezAI|2233
+#45|@Endogenetic-Bot|2236
+#46|@ElPeonElectrico|2232
+#47|@GoblinAjedrezAI|2230
 #48|@NecroMindX|2229
 #49|@Coolman2021|2219
 #50|@xiang-qi|2203

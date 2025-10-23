@@ -1621,6 +1621,7 @@ konaz
 konstantin_stepabot
 kopyto_dev
 kostasvl-bot
+kowalabi
 kqrbnpkqrbnp
 krakenchessai
 kriannengine
@@ -2436,6 +2437,7 @@ reallycrazybot
 recklessengine
 recontinue
 redengine
+redhotbot
 redlight_07
 redpandabot
 redsquirrelbot
@@ -3331,5 +3333,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kowalabi
-redhotbot
