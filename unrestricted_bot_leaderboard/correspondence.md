@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2827
 #4|@MaggiChess16|2806
-#5|@Magicianrobot|2744
+#5|@Magicianrobot|2747
 #6|@Moment-That-Inspires|2716
 #7|@pawn_git|2660
 #8|@H-Zero|2650
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@duythong1402|2025
 #134|@kybot|2025
 #135|@MalanChess|2020
-#136|@GarboBot|2015
+#136|@GarboBot|2014
 #137|@RoyalLeela|2014
 #138|@SchachProg|2010
 #139|@ElPeonElectrico|2004
