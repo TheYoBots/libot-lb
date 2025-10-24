@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@YoBot_v2|2394
 #28|@CloudBOT|2393
 #29|@NienishiEngine|2392
-#30|@TacticalBot|2373
+#30|@TacticalBot|2372
 #31|@EagleEye2021|2365
 #32|@KingfishX|2347
 #33|@chesshyperbot|2344
@@ -44,9 +44,9 @@ Rank|Bot|Rating
 #42|@BitExtender128|2272
 #43|@Bobby_Fischer_BOT|2251
 #44|@Mega_BOT|2240
-#45|@Endogenetic-Bot|2236
-#46|@ElPeonElectrico|2232
-#47|@GoblinAjedrezAI|2230
+#45|@ElPeonElectrico|2237
+#46|@Endogenetic-Bot|2236
+#47|@GoblinAjedrezAI|2232
 #48|@NecroMindX|2229
 #49|@Coolman2021|2219
 #50|@xiang-qi|2203
@@ -60,8 +60,8 @@ Rank|Bot|Rating
 #58|@FayEFish|2181
 #59|@lightspeed_bot|2177
 #60|@ChessVBOT|2168
-#61|@tbhOnBot|2168
-#62|@Sooraj_Kumar_P_S|2167
+#61|@Sooraj_Kumar_P_S|2167
+#62|@tbhOnBot|2165
 #63|@Peaceful4Life|2160
 #64|@SCP079|2156
 #65|@BSTAF|2154
@@ -70,9 +70,9 @@ Rank|Bot|Rating
 #68|@CloudBot_v2|2131
 #69|@HIWIN1234|2123
 #70|@TestingBot1|2118
-#71|@Johnsun|2113
-#72|@RaspFish|2111
-#73|@DarkOnBot|2109
+#71|@RaspFish|2116
+#72|@Johnsun|2113
+#73|@DarkOnBot|2106
 #74|@SixtyFourEngine|2089
 #75|@relevantproblem|2077
 #76|@GodelEscherBot|2071
