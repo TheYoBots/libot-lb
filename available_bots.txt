@@ -2207,6 +2207,7 @@ orctbot
 orezum
 os-mac22
 os23mac
+osaurus
 osimo
 ourbot
 overhead_bot
@@ -3333,4 +3334,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-osaurus
