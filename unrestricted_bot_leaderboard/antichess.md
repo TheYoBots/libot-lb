@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@Endogenetic-Bot|2827
 #16|@TorBot|2824
 #17|@WennDieSoldatBOT|2818
-#18|@TacticalBot|2802
+#18|@TacticalBot|2791
 #19|@lord-bot|2789
 #20|@FireFishBOT|2785
 #21|@Exogenetic-Bot|2773
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@TheMatrix2025|2746
 #26|@ttBOT|2739
 #27|@ibep|2733
-#28|@ElPeonElectrico|2705
+#28|@ElPeonElectrico|2712
 #29|@Lili-Variants|2693
 #30|@buffFishNet|2692
 #31|@LoseisnotAvailablehe|2677
@@ -40,9 +40,9 @@ Rank|Bot|Rating
 #38|@vrnts_colinbot|2637
 #39|@InvinxibleFlxsh|2631
 #40|@DarkOnBot|2629
-#41|@HIWIN1234|2623
-#42|@Kizbuurb|2621
-#43|@GoblinAjedrezAI|2620
+#41|@GoblinAjedrezAI|2626
+#42|@HIWIN1234|2623
+#43|@Kizbuurb|2621
 #44|@FayEFish|2614
 #45|@tbhOnBot|2614
 #46|@KingfishX|2612
@@ -97,7 +97,7 @@ Rank|Bot|Rating
 #95|@ESC_BOT|2394
 #96|@CatBot_14|2393
 #97|@NormalBulletBot|2393
-#98|@is_BOSS|2388
+#98|@is_BOSS|2386
 #99|@AldoGamer001_Bot|2376
 #100|@Resolved-Bot|2369
 #101|@Trumpfor2O2O|2366
@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@NienishiEngine|2304
 #114|@BromiumAI|2302
 #115|@EvenMatchup|2302
-#116|@GodelEscherBot|2284
-#117|@anti-bot|2281
+#116|@anti-bot|2284
+#117|@GodelEscherBot|2284
 #118|@Dean_Summer_Bot|2279
 #119|@OpeningsBot|2271
 #120|@Johnsun|2269

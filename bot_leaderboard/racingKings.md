@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@GoblinAjedrezAI|2525
-#2|@RaspFish|2524
+#2|@RaspFish|2525
 #3|@MaggiChess16|2511
 #4|@tbhOnBot|2509
 #5|@Ghost_HunteR2998|2499

@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@Coolman2021|2527
 #13|@EmptikBot|2526
 #14|@GoblinAjedrezAI|2525
-#15|@Exogenetic-Bot|2524
-#16|@RaspFish|2524
+#15|@RaspFish|2525
+#16|@Exogenetic-Bot|2524
 #17|@NecroMindX|2516
 #18|@strain-on-veins|2516
 #19|@Nebulogic|2514

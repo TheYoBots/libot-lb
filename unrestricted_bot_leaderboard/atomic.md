@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@VariantsBot|2714
 #3|@AlfaBot|2674
 #4|@EmptikVariantsBot|2671
-#5|@TacticalBot|2662
+#5|@TacticalBot|2654
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@ibep|2498
 #28|@HIWIN1234|2494
 #29|@Ghost_HunteR2998|2492
-#30|@firstrobot|2485
-#31|@ShredderGrizzly|2479
-#32|@ElPeonElectrico|2476
+#30|@ElPeonElectrico|2487
+#31|@firstrobot|2485
+#32|@ShredderGrizzly|2479
 #33|@NormalBulletBot|2474
 #34|@LoseisnotAvailablehe|2466
 #35|@GoblinAjedrezAI|2460

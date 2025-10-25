@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TacticalBot|2525
-#2|@ElPeonElectrico|2460
+#1|@TacticalBot|2520
+#2|@ElPeonElectrico|2469
 #3|@PINEAPPLEMASK|2409
 #4|@tbhOnBot|2404
 #5|@VEER-OMEGA-BOT|2346
@@ -9,6 +9,6 @@ Rank|Bot|Rating
 #7|@RaspFish|2285
 #8|@DarkOnBot|2270
 #9|@Groot123456|1768
-#10|@DavidsGuterBot|1551
-#11|@DanerdBot|1298
-#12|@pawnrobot|1247
+#10|@DavidsGuterBot|1556
+#11|@DanerdBot|1277
+#12|@pawnrobot|1256
