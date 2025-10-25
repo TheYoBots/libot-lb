@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@YoBot_v2|2394
 #28|@CloudBOT|2393
 #29|@NienishiEngine|2392
-#30|@TacticalBot|2371
+#30|@TacticalBot|2373
 #31|@EagleEye2021|2365
 #32|@KingfishX|2347
 #33|@chesshyperbot|2344
@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@PINEAPPLEMASK|2187
 #55|@Viet-BOT|2185
 #56|@MaggiChess16|2183
-#57|@Ghost_HunteR2998|2182
-#58|@FayEFish|2181
+#57|@FayEFish|2181
+#58|@Ghost_HunteR2998|2177
 #59|@lightspeed_bot|2177
 #60|@ChessVBOT|2168
 #61|@Sooraj_Kumar_P_S|2167

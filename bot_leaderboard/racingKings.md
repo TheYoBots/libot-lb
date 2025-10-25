@@ -9,6 +9,5 @@ Rank|Bot|Rating
 #7|@ElPeonElectrico|2493
 #8|@PINEAPPLEMASK|2492
 #9|@DarkOnBot|2480
-#10|@VEER-OMEGA-BOT|2472
-#11|@InvinxibleFlxsh|2429
-#12|@varient-chess-bot1|2270
+#10|@InvinxibleFlxsh|2429
+#11|@varient-chess-bot1|2270

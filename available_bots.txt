@@ -1653,6 +1653,7 @@ laira_z
 lalis1
 lamanodetal
 lambergar
+lancelbot
 lapischesszero
 laquaisha
 larryz-bot
@@ -3334,4 +3335,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-lancelbot
