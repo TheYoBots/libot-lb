@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TacticalBot|2440
+#1|@TacticalBot|2437
 #2|@ElPeonElectrico|2357
-#3|@GoblinAjedrezAI|2322
+#3|@GoblinAjedrezAI|2326
 #4|@MaggiChess16|2310
 #5|@Ghost_HunteR2998|2302
 #6|@PINEAPPLEMASK|2295
@@ -11,4 +11,4 @@ Rank|Bot|Rating
 #9|@RaspFish|2173
 #10|@InvinxibleFlxsh|2108
 #11|@DavidsGuterBot|1520
-#12|@pawnrobot|1217
+#12|@pawnrobot|1210

@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TacticalBot|2527
-#2|@ElPeonElectrico|2466
+#1|@TacticalBot|2532
+#2|@ElPeonElectrico|2463
 #3|@PINEAPPLEMASK|2409
 #4|@tbhOnBot|2400
-#5|@InvinxibleFlxsh|2337
+#5|@InvinxibleFlxsh|2334
 #6|@RaspFish|2285
 #7|@DarkOnBot|2270
 #8|@Groot123456|1768
-#9|@DavidsGuterBot|1561
+#9|@DavidsGuterBot|1550
 #10|@DanerdBot|1273
 #11|@pawnrobot|1254
