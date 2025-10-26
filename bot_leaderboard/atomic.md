@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TacticalBot|2643
-#2|@DarkOnBot|2569
-#3|@tbhOnBot|2552
+#1|@TacticalBot|2652
+#2|@DarkOnBot|2563
+#3|@tbhOnBot|2548
 #4|@SF_Bot1nok|2513
 #5|@MaggiChess16|2502
 #6|@Ghost_HunteR2998|2492
