@@ -6,12 +6,12 @@ Rank|Bot|Rating
 #4|@DarkOnBot|2366
 #5|@strain-on-veins|2347
 #6|@GoblinAjedrezAI|2325
-#7|@tbhOnBot|2306
-#8|@Bot1nokk|2303
+#7|@Bot1nokk|2303
+#8|@tbhOnBot|2303
 #9|@Bullet_bot_0526|2298
 #10|@Team_bot_08512|2275
 #11|@MaggiChess16|2274
 #12|@SF_Bot1nok|2268
-#13|@ElPeonElectrico|2251
-#14|@TacticalBot|2226
+#13|@ElPeonElectrico|2250
+#14|@TacticalBot|2229
 #15|@InvinxibleFlxsh|2023

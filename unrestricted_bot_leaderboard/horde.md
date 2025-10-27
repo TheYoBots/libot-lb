@@ -25,8 +25,8 @@ Rank|Bot|Rating
 #23|@NecroMindX|2349
 #24|@strain-on-veins|2347
 #25|@GoblinAjedrezAI|2325
-#26|@tbhOnBot|2306
-#27|@Bot1nokk|2303
+#26|@Bot1nokk|2303
+#27|@tbhOnBot|2303
 #28|@Bullet_bot_0526|2298
 #29|@AlfaBot|2293
 #30|@FayEFish|2292
@@ -39,9 +39,9 @@ Rank|Bot|Rating
 #37|@ibep|2258
 #38|@LudwigBOT|2256
 #39|@CloudBot_v2|2252
-#40|@ElPeonElectrico|2251
+#40|@ElPeonElectrico|2250
 #41|@FairyTailRegimeBot|2235
-#42|@TacticalBot|2226
+#42|@TacticalBot|2229
 #43|@Exogenetic-Bot|2214
 #44|@UltronBot|2199
 #45|@Trumpfor2O2O|2162

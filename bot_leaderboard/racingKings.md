@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@Ghost_HunteR2998|2499
 #6|@SF_Bot1nok|2499
 #7|@TacticalBot|2497
-#8|@ElPeonElectrico|2493
+#8|@ElPeonElectrico|2494
 #9|@PINEAPPLEMASK|2492
 #10|@DarkOnBot|2480
 #11|@InvinxibleFlxsh|2431
-#12|@varient-chess-bot1|2270
+#12|@varient-chess-bot1|2287

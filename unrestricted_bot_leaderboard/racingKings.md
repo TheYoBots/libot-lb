@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@SF_Bot1nok|2499
 #27|@TacticalBot|2497
 #28|@Dark_evil_bot|2496
-#29|@mrchessmanager|2494
-#30|@ElPeonElectrico|2493
+#29|@ElPeonElectrico|2494
+#30|@mrchessmanager|2494
 #31|@PINEAPPLEMASK|2492
 #32|@TeamChelsie|2489
 #33|@DarkOnBot|2480
@@ -70,10 +70,10 @@ Rank|Bot|Rating
 #68|@IAMSTOCKFISH123|2307
 #69|@TestingBot1|2294
 #70|@NormalBulletBot|2291
-#71|@YoBot_v2|2287
-#72|@colinbot|2285
-#73|@AlfaBot|2278
-#74|@varient-chess-bot1|2270
+#71|@varient-chess-bot1|2287
+#72|@YoBot_v2|2287
+#73|@colinbot|2285
+#74|@AlfaBot|2278
 #75|@Mega_BOT|2264
 #76|@MalanChess|2261
 #77|@chesshyperbot|2259
