@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@FireFishBOT|2547
 #10|@LudwigBOT|2536
 #11|@ChessVBOT|2531
-#12|@Coolman2021|2527
-#13|@EmptikBot|2526
-#14|@RaspFish|2525
+#12|@RaspFish|2528
+#13|@Coolman2021|2527
+#14|@EmptikBot|2526
 #15|@Exogenetic-Bot|2524
 #16|@GoblinAjedrezAI|2524
 #17|@NecroMindX|2516
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@Endogenetic-Bot|2507
 #24|@Ghost_HunteR2998|2499
 #25|@Lili-ai|2499
-#26|@SF_Bot1nok|2499
+#26|@SF_Bot1nok|2498
 #27|@TacticalBot|2497
 #28|@Dark_evil_bot|2496
 #29|@ElPeonElectrico|2494

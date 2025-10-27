@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2525
+#1|@RaspFish|2528
 #2|@GoblinAjedrezAI|2524
 #3|@MaggiChess16|2511
 #4|@tbhOnBot|2509
 #5|@Ghost_HunteR2998|2499
-#6|@SF_Bot1nok|2499
+#6|@SF_Bot1nok|2498
 #7|@TacticalBot|2497
 #8|@ElPeonElectrico|2494
 #9|@PINEAPPLEMASK|2492

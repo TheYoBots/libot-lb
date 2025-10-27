@@ -17,10 +17,10 @@ Rank|Bot|Rating
 #15|@Fairy_Belzedar|2544
 #16|@KizVariant|2529
 #17|@SCP079|2526
-#18|@TacticalBot|2522
+#18|@TacticalBot|2515
 #19|@Fairy-Stockfish|2484
 #20|@ESC_BOT|2476
-#21|@ElPeonElectrico|2472
+#21|@ElPeonElectrico|2473
 #22|@Less_of_a_threat|2469
 #23|@NormalBlitzBulletBot|2463
 #24|@ttBOT|2461
@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@Endogenetic-Bot|2372
 #36|@Viet_BOT|2367
 #37|@NecroMindX|2358
-#38|@VEER-OMEGA-BOT|2346
-#39|@SF_Bot1nok|2342
+#38|@SF_Bot1nok|2352
+#39|@VEER-OMEGA-BOT|2346
 #40|@InvinxibleFlxsh|2334
 #41|@Zer0_Tw0|2332
 #42|@Ghost_HunteR2998|2312
@@ -136,8 +136,8 @@ Rank|Bot|Rating
 #134|@Botkingteam33|1633
 #135|@jasans_bot|1621
 #136|@newengine2022|1588
-#137|@knight_128|1563
-#138|@DavidsGuterBot|1560
+#137|@DavidsGuterBot|1566
+#138|@knight_128|1563
 #139|@Alehkine_cat|1531
 #140|@TrashBot|1519
 #141|@relevantproblem|1514
@@ -178,8 +178,8 @@ Rank|Bot|Rating
 #176|@Light_To_The_Rescue|1277
 #177|@Sanjana_Kambala-BOT|1273
 #178|@TheLegendaryKnight|1272
-#179|@pawnrobot|1271
-#180|@EstmileBot|1269
+#179|@EstmileBot|1269
+#180|@pawnrobot|1263
 #181|@DanerdBot|1262
 #182|@Parth_Dhage_2|1258
 #183|@MyNameIsWhatLOL|1256

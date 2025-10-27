@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@KizVariant|2521
 #4|@Fairy-Stockfish|2486
 #5|@EmptikVariantsBot|2443
-#6|@TacticalBot|2431
+#6|@TacticalBot|2430
 #7|@ToromBot|2394
 #8|@Peaceful4Life|2390
 #9|@Corvus-1|2386
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Coolman2021|2378
 #12|@Karpov_bot|2359
 #13|@NecroMindX|2359
-#14|@ElPeonElectrico|2356
+#14|@ElPeonElectrico|2358
 #15|@TheMatrix2025|2346
 #16|@AndromedaSX1|2344
 #17|@GoblinAjedrezAI|2326
