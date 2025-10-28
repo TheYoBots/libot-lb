@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@Coolman2021|2527
 #14|@EmptikBot|2526
 #15|@Exogenetic-Bot|2524
-#16|@GoblinAjedrezAI|2524
+#16|@GoblinAjedrezAI|2523
 #17|@NecroMindX|2516
 #18|@strain-on-veins|2516
 #19|@Nebulogic|2514
@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@tbhOnBot|2509
 #23|@Endogenetic-Bot|2507
 #24|@Ghost_HunteR2998|2499
-#25|@Lili-ai|2499
+#25|@Lili-ai|2498
 #26|@SF_Bot1nok|2498
 #27|@TacticalBot|2497
 #28|@Dark_evil_bot|2496
