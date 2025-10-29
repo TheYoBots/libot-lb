@@ -1285,6 +1285,7 @@ hades-921
 hagfish
 haibrid_bot
 haibrid_bot_2
+hakoai
 halcyonbot
 halfstockfishbot
 halux-bot
@@ -3336,4 +3337,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-hakoai
+openingbookstester

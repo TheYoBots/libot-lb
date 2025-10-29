@@ -4,11 +4,9 @@ Rank|Bot|Rating
 #2|@ElPeonElectrico|2355
 #3|@GoblinAjedrezAI|2322
 #4|@MaggiChess16|2310
-#5|@Ghost_HunteR2998|2302
-#6|@PINEAPPLEMASK|2295
-#7|@DarkOnBot|2242
-#8|@tbhOnBot|2226
-#9|@RaspFish|2173
-#10|@InvinxibleFlxsh|2102
-#11|@DavidsGuterBot|1531
-#12|@pawnrobot|1210
+#5|@DarkOnBot|2242
+#6|@tbhOnBot|2226
+#7|@RaspFish|2173
+#8|@InvinxibleFlxsh|2102
+#9|@DavidsGuterBot|1531
+#10|@pawnrobot|1210

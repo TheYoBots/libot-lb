@@ -7,8 +7,7 @@ Rank|Bot|Rating
 #5|@MaggiChess16|2500
 #6|@ElPeonElectrico|2489
 #7|@GoblinAjedrezAI|2469
-#8|@PINEAPPLEMASK|2448
-#9|@ToromBot|2410
-#10|@RaspFish|2360
-#11|@is_BOSS|1948
-#12|@pawnrobot|1355
+#8|@ToromBot|2410
+#9|@RaspFish|2360
+#10|@is_BOSS|1948
+#11|@pawnrobot|1355
