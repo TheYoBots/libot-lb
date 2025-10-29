@@ -8,6 +8,6 @@ Rank|Bot|Rating
 #6|@RaspFish|2285
 #7|@DarkOnBot|2270
 #8|@Groot123456|1772
-#9|@DavidsGuterBot|1552
-#10|@pawnrobot|1277
+#9|@DavidsGuterBot|1541
+#10|@pawnrobot|1290
 #11|@DanerdBot|1262

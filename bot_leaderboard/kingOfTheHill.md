@@ -10,5 +10,5 @@ Rank|Bot|Rating
 #8|@tbhOnBot|2226
 #9|@RaspFish|2173
 #10|@InvinxibleFlxsh|2102
-#11|@DavidsGuterBot|1524
+#11|@DavidsGuterBot|1531
 #12|@pawnrobot|1210

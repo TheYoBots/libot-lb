@@ -1441,6 +1441,7 @@ indianguyplayz
 indibot
 indusdragon
 inflames1996
+instantmover3000
 integralbot
 integralmathbot
 intelcorei7sf
@@ -3335,4 +3336,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-instantmover3000
+hakoai

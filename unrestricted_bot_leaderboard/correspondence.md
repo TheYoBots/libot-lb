@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@MaggiChess16|2806
 #5|@Magicianrobot|2747
 #6|@Moment-That-Inspires|2716
-#7|@pawn_git|2660
+#7|@pawn_git|2662
 #8|@H-Zero|2650
 #9|@pawnocchio_bot|2623
 #10|@LeelaZero-UK|2585

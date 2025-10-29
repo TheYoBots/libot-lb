@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@tbhOnBot|2603
 #11|@SF_Bot1nok|2568
 #12|@is_BOSS|2386
-#13|@anti-bot|2216
-#14|@CatNail|2167
-#15|@NilatacBot|2157
+#13|@anti-bot|2226
+#14|@NilatacBot|2157
+#15|@CatNail|2142
 #16|@pawnrobot|1864

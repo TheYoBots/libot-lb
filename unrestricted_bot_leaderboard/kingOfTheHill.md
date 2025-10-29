@@ -138,10 +138,10 @@ Rank|Bot|Rating
 #136|@varient-chess-bot1|1574
 #137|@MMC_HUANGBAI|1569
 #138|@Epiano_Bot|1567
-#139|@Groot123456|1543
-#140|@Toxic_Bot|1541
-#141|@SXDEFENDER|1534
-#142|@DavidsGuterBot|1524
+#139|@Toxic_Bot|1541
+#140|@SXDEFENDER|1534
+#141|@DavidsGuterBot|1531
+#142|@Groot123456|1529
 #143|@Light_To_The_Rescue|1523
 #144|@Z-Move|1495
 #145|@TFRChessClub|1494
