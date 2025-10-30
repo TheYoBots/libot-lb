@@ -2196,6 +2196,7 @@ ooferoofoof_is
 openbeat
 openbot
 opengalaxy
+openingbookstester
 openingbot
 openingerex
 openingsbot
@@ -3337,4 +3338,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-openingbookstester
+hashcake1
+clementyne1

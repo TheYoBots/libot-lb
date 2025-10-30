@@ -7,11 +7,11 @@ Rank|Bot|Rating
 #5|@lord-bot|2581
 #6|@Fairy_Belzedar|2559
 #7|@EmptikVariantsBot|2557
-#8|@ToromBot|2549
+#8|@ToromBot|2548
 #9|@FireFishBOT|2547
 #10|@LudwigBOT|2536
 #11|@ChessVBOT|2531
-#12|@RaspFish|2528
+#12|@RaspFish|2529
 #13|@Coolman2021|2527
 #14|@EmptikBot|2526
 #15|@Exogenetic-Bot|2524
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@strain-on-veins|2516
 #19|@Nebulogic|2514
 #20|@SCP079|2513
-#21|@MaggiChess16|2511
+#21|@MaggiChess16|2512
 #22|@tbhOnBot|2509
 #23|@Endogenetic-Bot|2507
 #24|@Ghost_HunteR2998|2499
