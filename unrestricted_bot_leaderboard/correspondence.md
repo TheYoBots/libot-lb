@@ -140,10 +140,10 @@ Rank|Bot|Rating
 #138|@SchachProg|2010
 #139|@ElPeonElectrico|2004
 #140|@zeekat|2004
-#141|@honzovy-sachy|2002
-#142|@TESTBOT23|2000
-#143|@RadianceEngine|1999
-#144|@GarboBot|1998
+#141|@GarboBot|2003
+#142|@honzovy-sachy|2002
+#143|@TESTBOT23|2000
+#144|@RadianceEngine|1999
 #145|@Zer0_Tw0|1992
 #146|@YoBot_v2|1984
 #147|@Virutor|1980

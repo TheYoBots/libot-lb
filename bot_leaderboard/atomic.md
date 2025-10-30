@@ -8,6 +8,7 @@ Rank|Bot|Rating
 #6|@ElPeonElectrico|2489
 #7|@GoblinAjedrezAI|2469
 #8|@ToromBot|2431
-#9|@RaspFish|2354
-#10|@is_BOSS|1949
-#11|@pawnrobot|1354
+#9|@PINEAPPLEMASK|2430
+#10|@RaspFish|2356
+#11|@is_BOSS|1955
+#12|@pawnrobot|1354

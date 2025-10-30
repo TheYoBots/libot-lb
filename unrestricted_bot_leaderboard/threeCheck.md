@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@Ghost_HunteR2998|2312
 #43|@LudwigBOT|2304
 #44|@lord-bot|2300
-#45|@RaspFish|2287
+#45|@RaspFish|2288
 #46|@KingfishX|2285
 #47|@strain-on-veins|2280
 #48|@The-Fastest-Bot|2277
@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@newengine2022|1588
 #137|@knight_128|1563
 #138|@Alehkine_cat|1531
-#139|@DavidsGuterBot|1522
+#139|@DavidsGuterBot|1525
 #140|@TrashBot|1519
 #141|@relevantproblem|1514
 #142|@Toxic_Bot|1511
@@ -174,7 +174,7 @@ Rank|Bot|Rating
 #172|@cool_boy_bot|1321
 #173|@Harry_Potterz|1316
 #174|@allvariants|1310
-#175|@pawnrobot|1302
+#175|@pawnrobot|1299
 #176|@NoTallkOnlyGames|1293
 #177|@Light_To_The_Rescue|1277
 #178|@DanerdBot|1276

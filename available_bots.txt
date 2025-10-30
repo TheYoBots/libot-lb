@@ -711,6 +711,7 @@ cimille
 cinder-bot
 cizme
 classic_bot-v2
+clementyne1
 cleobot
 cleoengine
 clj-bot
@@ -1306,6 +1307,7 @@ hardrok
 harmonbot
 harry-cop
 harry_potterz
+hashcake1
 hauptschulebot
 having_a_blunderfult
 havocbot
@@ -3338,5 +3340,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-hashcake1
-clementyne1
+steezybot
