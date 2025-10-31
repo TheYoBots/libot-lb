@@ -4,7 +4,8 @@ Rank|Bot|Rating
 #2|@ToromBot|2317
 #3|@ElPeonElectrico|2228
 #4|@GoblinAjedrezAI|2225
-#5|@tbhOnBot|2179
-#6|@Ghost_HunteR2998|2177
-#7|@MaggiChess16|2176
-#8|@DarkOnBot|2102
+#5|@RaspFish|2224
+#6|@tbhOnBot|2179
+#7|@Ghost_HunteR2998|2177
+#8|@MaggiChess16|2176
+#9|@DarkOnBot|2102

@@ -5,10 +5,9 @@ Rank|Bot|Rating
 #3|@GoblinAjedrezAI|2523
 #4|@MaggiChess16|2512
 #5|@tbhOnBot|2509
-#6|@Ghost_HunteR2998|2499
-#7|@SF_Bot1nok|2498
-#8|@TacticalBot|2497
-#9|@ElPeonElectrico|2494
-#10|@DarkOnBot|2484
-#11|@InvinxibleFlxsh|2431
-#12|@varient-chess-bot1|2283
+#6|@SF_Bot1nok|2498
+#7|@TacticalBot|2497
+#8|@ElPeonElectrico|2494
+#9|@DarkOnBot|2484
+#10|@InvinxibleFlxsh|2431
+#11|@varient-chess-bot1|2283

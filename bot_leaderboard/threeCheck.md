@@ -8,6 +8,6 @@ Rank|Bot|Rating
 #6|@InvinxibleFlxsh|2334
 #7|@RaspFish|2288
 #8|@Groot123456|1772
-#9|@DavidsGuterBot|1525
-#10|@pawnrobot|1299
+#9|@DavidsGuterBot|1530
+#10|@pawnrobot|1292
 #11|@DanerdBot|1276

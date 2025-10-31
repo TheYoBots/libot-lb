@@ -10,5 +10,5 @@ Rank|Bot|Rating
 #8|@ToromBot|2431
 #9|@PINEAPPLEMASK|2430
 #10|@RaspFish|2357
-#11|@is_BOSS|1986
+#11|@is_BOSS|1995
 #12|@pawnrobot|1344
