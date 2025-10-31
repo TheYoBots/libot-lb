@@ -2733,6 +2733,7 @@ starplumberbot
 stashbot
 steadyeddieengine
 steadyeddiefish
+steezybot
 stellarbot
 sternenhimmel10
 sticklebackbot
@@ -3340,4 +3341,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-steezybot

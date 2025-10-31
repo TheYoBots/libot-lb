@@ -7,7 +7,6 @@ Rank|Bot|Rating
 #5|@MaggiChess16|2302
 #6|@DarkOnBot|2242
 #7|@tbhOnBot|2226
-#8|@RaspFish|2173
-#9|@InvinxibleFlxsh|2102
-#10|@DavidsGuterBot|1531
-#11|@pawnrobot|1210
+#8|@InvinxibleFlxsh|2102
+#9|@DavidsGuterBot|1531
+#10|@pawnrobot|1210

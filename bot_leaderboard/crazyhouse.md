@@ -7,5 +7,4 @@ Rank|Bot|Rating
 #5|@tbhOnBot|2179
 #6|@Ghost_HunteR2998|2177
 #7|@MaggiChess16|2176
-#8|@RaspFish|2116
-#9|@DarkOnBot|2102
+#8|@DarkOnBot|2102
