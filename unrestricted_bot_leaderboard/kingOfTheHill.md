@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Fairy-Stockfish|2486
 #5|@EmptikVariantsBot|2443
 #6|@TacticalBot|2439
-#7|@ToromBot|2407
+#7|@ToromBot|2412
 #8|@Peaceful4Life|2390
 #9|@Corvus-1|2386
 #10|@FireFishBOT|2385
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@Endogenetic-Bot|2261
 #33|@lord-bot|2258
 #34|@strain-on-veins|2243
-#35|@DarkOnBot|2242
-#36|@YoBot_v2|2242
+#35|@YoBot_v2|2242
+#36|@DarkOnBot|2237
 #37|@ResoluteBot|2233
 #38|@ttBOT|2230
 #39|@tbhOnBot|2226
@@ -139,10 +139,10 @@ Rank|Bot|Rating
 #137|@varient-chess-bot1|1574
 #138|@MMC_HUANGBAI|1569
 #139|@Epiano_Bot|1567
-#140|@Toxic_Bot|1541
-#141|@SXDEFENDER|1534
-#142|@DavidsGuterBot|1531
-#143|@Groot123456|1529
+#140|@Groot123456|1542
+#141|@Toxic_Bot|1541
+#142|@SXDEFENDER|1534
+#143|@DavidsGuterBot|1524
 #144|@Light_To_The_Rescue|1523
 #145|@Z-Move|1495
 #146|@TFRChessClub|1494

@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@chesshyperbot|2344
 #34|@EmptikBot|2332
 #35|@lord-bot|2329
-#36|@ToromBot|2317
-#37|@catalanbotI|2307
+#36|@catalanbotI|2307
+#37|@ToromBot|2307
 #38|@Yemmi-Yemmi|2305
 #39|@iplayonlyrandom|2282
 #40|@NormalBlitzBulletBot|2278
@@ -45,10 +45,10 @@ Rank|Bot|Rating
 #43|@Bobby_Fischer_BOT|2251
 #44|@Mega_BOT|2240
 #45|@Endogenetic-Bot|2236
-#46|@NecroMindX|2229
-#47|@ElPeonElectrico|2228
-#48|@GoblinAjedrezAI|2225
-#49|@RaspFish|2224
+#46|@RaspFish|2233
+#47|@NecroMindX|2229
+#48|@ElPeonElectrico|2228
+#49|@GoblinAjedrezAI|2225
 #50|@Coolman2021|2219
 #51|@xiang-qi|2203
 #52|@MyNameIsWhatLOL|2200

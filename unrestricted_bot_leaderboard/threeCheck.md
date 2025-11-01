@@ -27,8 +27,8 @@ Rank|Bot|Rating
 #25|@TheMatrix2029|2448
 #26|@faith_bot|2447
 #27|@chessbot2880|2439
-#28|@ChessVBOT|2430
-#29|@ToromBot|2428
+#28|@ToromBot|2435
+#29|@ChessVBOT|2430
 #30|@FayEFish|2411
 #31|@PINEAPPLEMASK|2409
 #32|@tbhOnBot|2404
@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@Endogenetic-Bot|2372
 #36|@Viet_BOT|2367
 #37|@NecroMindX|2358
-#38|@SF_Bot1nok|2346
-#39|@VEER-OMEGA-BOT|2346
+#38|@VEER-OMEGA-BOT|2346
+#39|@SF_Bot1nok|2338
 #40|@InvinxibleFlxsh|2334
 #41|@Zer0_Tw0|2332
 #42|@Ghost_HunteR2998|2312
@@ -137,8 +137,8 @@ Rank|Bot|Rating
 #135|@jasans_bot|1621
 #136|@newengine2022|1588
 #137|@knight_128|1563
-#138|@Alehkine_cat|1531
-#139|@DavidsGuterBot|1530
+#138|@DavidsGuterBot|1533
+#139|@Alehkine_cat|1531
 #140|@TrashBot|1519
 #141|@relevantproblem|1514
 #142|@Toxic_Bot|1511
@@ -175,7 +175,7 @@ Rank|Bot|Rating
 #173|@Harry_Potterz|1316
 #174|@allvariants|1310
 #175|@NoTallkOnlyGames|1293
-#176|@pawnrobot|1292
+#176|@pawnrobot|1289
 #177|@Light_To_The_Rescue|1277
 #178|@DanerdBot|1276
 #179|@Sanjana_Kambala-BOT|1273

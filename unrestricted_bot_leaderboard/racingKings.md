@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@lord-bot|2581
 #6|@Fairy_Belzedar|2559
 #7|@EmptikVariantsBot|2557
-#8|@ToromBot|2548
-#9|@FireFishBOT|2547
+#8|@FireFishBOT|2547
+#9|@ToromBot|2547
 #10|@LudwigBOT|2536
 #11|@ChessVBOT|2531
 #12|@RaspFish|2529
@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@NecroMindX|2516
 #18|@strain-on-veins|2516
 #19|@Nebulogic|2514
-#20|@SCP079|2513
-#21|@MaggiChess16|2512
+#20|@MaggiChess16|2513
+#21|@SCP079|2513
 #22|@tbhOnBot|2509
 #23|@Endogenetic-Bot|2507
 #24|@Ghost_HunteR2998|2499

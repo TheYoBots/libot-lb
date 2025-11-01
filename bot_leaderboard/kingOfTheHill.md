@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@TacticalBot|2439
-#2|@ToromBot|2407
+#2|@ToromBot|2412
 #3|@ElPeonElectrico|2351
 #4|@GoblinAjedrezAI|2322
 #5|@MaggiChess16|2302
-#6|@DarkOnBot|2242
+#6|@DarkOnBot|2237
 #7|@tbhOnBot|2226
 #8|@InvinxibleFlxsh|2102
-#9|@DavidsGuterBot|1531
+#9|@DavidsGuterBot|1524
 #10|@pawnrobot|1210
