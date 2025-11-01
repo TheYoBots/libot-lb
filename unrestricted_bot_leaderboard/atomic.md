@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@Stockfish-MEDIUM|2366
 #46|@Resolved-Bot|2363
 #47|@CloudBot_v2|2357
-#48|@RaspFish|2357
+#48|@RaspFish|2355
 #49|@faith_bot|2353
 #50|@Lila-Stockfish|2350
 #51|@lord-bot|2349
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@EasyWinGG|2032
 #138|@colinbot|2028
 #139|@Kizbuurb|2024
-#140|@is_BOSS|2016
+#140|@is_BOSS|2021
 #141|@ESC_BOT|2011
 #142|@are_bots_good|2006
 #143|@Breeze-Hot|2006
@@ -182,13 +182,13 @@ Rank|Bot|Rating
 #180|@Lucror|1841
 #181|@CloudBotZero|1837
 #182|@CHESS1000BOT|1829
-#183|@bot1e|1825
-#184|@Storm_Shadow2012|1825
-#185|@ReallyCrazyBOT|1816
-#186|@Sternenhimmel10|1811
-#187|@fairy-vvrr|1808
-#188|@PowerOnBot|1806
-#189|@PiratesBot|1800
+#183|@Storm_Shadow2012|1825
+#184|@ReallyCrazyBOT|1816
+#185|@Sternenhimmel10|1811
+#186|@fairy-vvrr|1808
+#187|@PowerOnBot|1806
+#188|@PiratesBot|1800
+#189|@bot1e|1799
 #190|@CoderDen732|1791
 #191|@TheLegitLegend|1786
 #192|@Team_bot_08512|1784
@@ -306,7 +306,7 @@ Rank|Bot|Rating
 #304|@anonymous5612|1384
 #305|@SLvov-bot|1359
 #306|@ChessBotHere|1351
-#307|@pawnrobot|1344
+#307|@pawnrobot|1342
 #308|@kazakhfirstbot|1340
 #309|@TheBullyBot|1339
 #310|@AveragePlayer757|1337

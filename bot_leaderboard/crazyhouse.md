@@ -6,6 +6,5 @@ Rank|Bot|Rating
 #4|@ElPeonElectrico|2228
 #5|@GoblinAjedrezAI|2225
 #6|@tbhOnBot|2179
-#7|@Ghost_HunteR2998|2177
-#8|@MaggiChess16|2176
-#9|@DarkOnBot|2102
+#7|@MaggiChess16|2176
+#8|@DarkOnBot|2102

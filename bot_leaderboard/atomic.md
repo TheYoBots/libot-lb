@@ -9,6 +9,6 @@ Rank|Bot|Rating
 #7|@GoblinAjedrezAI|2469
 #8|@PINEAPPLEMASK|2430
 #9|@ToromBot|2425
-#10|@RaspFish|2357
-#11|@is_BOSS|2016
-#12|@pawnrobot|1344
+#10|@RaspFish|2355
+#11|@is_BOSS|2021
+#12|@pawnrobot|1342
