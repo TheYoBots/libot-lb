@@ -5,9 +5,8 @@ Rank|Bot|Rating
 #3|@ToromBot|2435
 #4|@tbhOnBot|2404
 #5|@MaggiChess16|2398
-#6|@InvinxibleFlxsh|2334
-#7|@RaspFish|2288
-#8|@Groot123456|1772
-#9|@DavidsGuterBot|1533
-#10|@pawnrobot|1289
-#11|@DanerdBot|1276
+#6|@RaspFish|2288
+#7|@Groot123456|1780
+#8|@DavidsGuterBot|1528
+#9|@pawnrobot|1295
+#10|@DanerdBot|1276

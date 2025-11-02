@@ -5,10 +5,8 @@ Rank|Bot|Rating
 #3|@tbhOnBot|2544
 #4|@SF_Bot1nok|2502
 #5|@MaggiChess16|2497
-#6|@ElPeonElectrico|2489
-#7|@GoblinAjedrezAI|2469
-#8|@PINEAPPLEMASK|2430
-#9|@ToromBot|2425
-#10|@RaspFish|2355
-#11|@is_BOSS|2021
-#12|@pawnrobot|1342
+#6|@PINEAPPLEMASK|2430
+#7|@ToromBot|2425
+#8|@RaspFish|2350
+#9|@is_BOSS|2026
+#10|@pawnrobot|1349

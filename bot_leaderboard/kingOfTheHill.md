@@ -8,5 +8,6 @@ Rank|Bot|Rating
 #6|@DarkOnBot|2237
 #7|@tbhOnBot|2226
 #8|@InvinxibleFlxsh|2102
-#9|@DavidsGuterBot|1531
-#10|@pawnrobot|1210
+#9|@colinbot|1914
+#10|@DavidsGuterBot|1530
+#11|@pawnrobot|1216

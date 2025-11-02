@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2547
-#2|@RaspFish|2529
-#3|@GoblinAjedrezAI|2523
-#4|@MaggiChess16|2513
+#2|@RaspFish|2532
+#3|@GoblinAjedrezAI|2518
+#4|@MaggiChess16|2512
 #5|@tbhOnBot|2509
 #6|@SF_Bot1nok|2498
 #7|@TacticalBot|2497
 #8|@ElPeonElectrico|2494
 #9|@DarkOnBot|2484
-#10|@InvinxibleFlxsh|2431
+#10|@colinbot|2288
 #11|@varient-chess-bot1|2283

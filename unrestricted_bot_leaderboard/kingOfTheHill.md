@@ -98,7 +98,7 @@ Rank|Bot|Rating
 #96|@azdad|1936
 #97|@HyperLitikBOT|1930
 #98|@SacrificialSage|1925
-#99|@colinbot|1911
+#99|@colinbot|1914
 #100|@DrSmartBugs|1904
 #101|@Variantenkoning|1892
 #102|@PetersTestBot|1890
@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@Epiano_Bot|1567
 #140|@Toxic_Bot|1541
 #141|@SXDEFENDER|1534
-#142|@DavidsGuterBot|1531
+#142|@DavidsGuterBot|1530
 #143|@Groot123456|1529
 #144|@Light_To_The_Rescue|1523
 #145|@Z-Move|1495
@@ -182,7 +182,7 @@ Rank|Bot|Rating
 #180|@MyNameIsSpeedy|1226
 #181|@Bottios|1223
 #182|@DanerdBot|1220
-#183|@pawnrobot|1210
+#183|@pawnrobot|1216
 #184|@RSVMentor|1196
 #185|@Boom_Bot|1176
 #186|@TrashBot|1168
