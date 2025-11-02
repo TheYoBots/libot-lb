@@ -3,10 +3,9 @@ Rank|Bot|Rating
 #1|@TacticalBot|2517
 #2|@ElPeonElectrico|2475
 #3|@ToromBot|2435
-#4|@tbhOnBot|2404
-#5|@MaggiChess16|2398
-#6|@RaspFish|2288
-#7|@Groot123456|1780
-#8|@DavidsGuterBot|1528
-#9|@pawnrobot|1295
-#10|@DanerdBot|1276
+#4|@MaggiChess16|2398
+#5|@RaspFish|2288
+#6|@Groot123456|1780
+#7|@DavidsGuterBot|1530
+#8|@pawnrobot|1291
+#9|@DanerdBot|1276

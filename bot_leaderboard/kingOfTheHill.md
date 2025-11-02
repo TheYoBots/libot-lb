@@ -6,8 +6,7 @@ Rank|Bot|Rating
 #4|@GoblinAjedrezAI|2322
 #5|@MaggiChess16|2302
 #6|@DarkOnBot|2237
-#7|@tbhOnBot|2226
-#8|@InvinxibleFlxsh|2102
-#9|@colinbot|1914
-#10|@DavidsGuterBot|1530
-#11|@pawnrobot|1216
+#7|@InvinxibleFlxsh|2102
+#8|@colinbot|1914
+#9|@DavidsGuterBot|1530
+#10|@pawnrobot|1216

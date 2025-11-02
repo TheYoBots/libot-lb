@@ -2287,6 +2287,7 @@ pinkypawnbot
 piqbot
 piratesbot
 pistol-play
+pix-chess
 pizza-delivery
 plan9bot
 planktonengine
@@ -3342,4 +3343,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-pix-chess
+vanibot
