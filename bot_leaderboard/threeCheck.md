@@ -6,6 +6,6 @@ Rank|Bot|Rating
 #4|@MaggiChess16|2398
 #5|@RaspFish|2288
 #6|@Groot123456|1780
-#7|@DavidsGuterBot|1530
-#8|@pawnrobot|1291
+#7|@DavidsGuterBot|1536
+#8|@pawnrobot|1287
 #9|@DanerdBot|1276

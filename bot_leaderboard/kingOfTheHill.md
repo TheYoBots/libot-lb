@@ -9,4 +9,4 @@ Rank|Bot|Rating
 #7|@InvinxibleFlxsh|2102
 #8|@colinbot|1914
 #9|@DavidsGuterBot|1530
-#10|@pawnrobot|1216
+#10|@pawnrobot|1217

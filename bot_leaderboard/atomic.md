@@ -2,11 +2,11 @@ Rank|Bot|Rating
 ---|---|---
 #1|@TacticalBot|2652
 #2|@DarkOnBot|2552
-#3|@tbhOnBot|2544
-#4|@SF_Bot1nok|2502
-#5|@MaggiChess16|2497
+#3|@SF_Bot1nok|2509
+#4|@MaggiChess16|2497
+#5|@GoblinAjedrezAI|2432
 #6|@PINEAPPLEMASK|2430
 #7|@ToromBot|2425
 #8|@RaspFish|2350
-#9|@is_BOSS|2056
+#9|@is_BOSS|2109
 #10|@pawnrobot|1345

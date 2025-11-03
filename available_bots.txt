@@ -3123,6 +3123,7 @@ v7p3r_bot
 valhalla-bot
 valiantbot
 vamos_caballeros
+vanibot
 vanilla_v2
 variablelco
 variantbookstest
@@ -3343,4 +3344,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-vanibot
+castlematestockfish
+koobotroopa
