@@ -565,6 +565,7 @@ carlsenbot
 carlsencantbeatme
 carp_bot
 casanchess-nnue
+castlematestockfish
 catalanboti
 catbot329
 catbot_14
@@ -1624,6 +1625,7 @@ komodofish12
 komorebi_bot
 konaz
 konstantin_stepabot
+koobotroopa
 kopyto_dev
 kostasvl-bot
 kowalabi
@@ -3344,5 +3346,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-castlematestockfish
-koobotroopa

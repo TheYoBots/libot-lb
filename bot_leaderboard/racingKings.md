@@ -4,9 +4,6 @@ Rank|Bot|Rating
 #2|@RaspFish|2532
 #3|@GoblinAjedrezAI|2518
 #4|@MaggiChess16|2512
-#5|@SF_Bot1nok|2498
-#6|@TacticalBot|2497
-#7|@ElPeonElectrico|2494
-#8|@DarkOnBot|2484
-#9|@colinbot|2288
-#10|@varient-chess-bot1|2283
+#5|@DarkOnBot|2484
+#6|@colinbot|2288
+#7|@varient-chess-bot1|2283
