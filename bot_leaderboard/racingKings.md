@@ -7,3 +7,4 @@ Rank|Bot|Rating
 #5|@DarkOnBot|2484
 #6|@colinbot|2288
 #7|@varient-chess-bot1|2283
+#8|@is_BOSS|2226

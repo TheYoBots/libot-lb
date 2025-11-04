@@ -13,6 +13,4 @@ Rank|Bot|Rating
 #11|@GoblinAjedrezAI|2278
 #12|@MaggiChess16|2277
 #13|@Team_bot_08512|2263
-#14|@ElPeonElectrico|2254
-#15|@TacticalBot|2227
-#16|@InvinxibleFlxsh|2013
+#14|@InvinxibleFlxsh|2013
