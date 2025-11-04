@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@ElFinsBoT|1808
 #119|@varient-chess-bot1|1797
 #120|@pussaW|1785
-#121|@Groot123456|1780
+#121|@Groot123456|1765
 #122|@XXXTryandTryXXX|1747
 #123|@CBNguyen_Bot|1741
 #124|@No_Username2|1741
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@jasans_bot|1621
 #136|@newengine2022|1588
 #137|@knight_128|1563
-#138|@DavidsGuterBot|1541
+#138|@DavidsGuterBot|1557
 #139|@Alehkine_cat|1531
 #140|@TrashBot|1519
 #141|@relevantproblem|1514
@@ -175,12 +175,12 @@ Rank|Bot|Rating
 #173|@Harry_Potterz|1316
 #174|@allvariants|1310
 #175|@NoTallkOnlyGames|1293
-#176|@pawnrobot|1281
+#176|@pawnrobot|1279
 #177|@Light_To_The_Rescue|1277
-#178|@DanerdBot|1276
-#179|@Sanjana_Kambala-BOT|1273
-#180|@TheLegendaryKnight|1272
-#181|@EstmileBot|1269
+#178|@Sanjana_Kambala-BOT|1273
+#179|@TheLegendaryKnight|1272
+#180|@EstmileBot|1269
+#181|@DanerdBot|1268
 #182|@Parth_Dhage_2|1258
 #183|@MyNameIsWhatLOL|1256
 #184|@SneakyBot21|1256

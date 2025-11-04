@@ -6,4 +6,4 @@ Rank|Bot|Rating
 #4|@DarkOnBot|2237
 #5|@colinbot|1914
 #6|@DavidsGuterBot|1536
-#7|@pawnrobot|1217
+#7|@pawnrobot|1215

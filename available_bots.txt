@@ -917,6 +917,7 @@ dragonclash
 dragonflybot
 dragonrosedev
 dranzer154
+drawcula_bot
 drawfish
 drawinone
 dream_bot
@@ -3346,4 +3347,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-drawcula_bot

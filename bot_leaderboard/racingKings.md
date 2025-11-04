@@ -4,7 +4,5 @@ Rank|Bot|Rating
 #2|@RaspFish|2532
 #3|@GoblinAjedrezAI|2518
 #4|@MaggiChess16|2512
-#5|@DarkOnBot|2484
-#6|@colinbot|2288
-#7|@varient-chess-bot1|2283
-#8|@is_BOSS|2226
+#5|@colinbot|2288
+#6|@is_BOSS|2226

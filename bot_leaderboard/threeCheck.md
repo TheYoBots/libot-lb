@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@ToromBot|2435
 #2|@MaggiChess16|2398
 #3|@RaspFish|2288
-#4|@Groot123456|1780
-#5|@DavidsGuterBot|1541
-#6|@pawnrobot|1281
-#7|@DanerdBot|1276
+#4|@Groot123456|1765
+#5|@DavidsGuterBot|1557
+#6|@pawnrobot|1279
+#7|@DanerdBot|1268
