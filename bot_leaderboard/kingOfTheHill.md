@@ -4,6 +4,5 @@ Rank|Bot|Rating
 #2|@ElPeonElectrico|2351
 #3|@MaggiChess16|2302
 #4|@DarkOnBot|2237
-#5|@colinbot|1914
-#6|@DavidsGuterBot|1536
-#7|@pawnrobot|1215
+#5|@DavidsGuterBot|1529
+#6|@pawnrobot|1215

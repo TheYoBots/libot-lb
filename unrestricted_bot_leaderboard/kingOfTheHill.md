@@ -140,10 +140,10 @@ Rank|Bot|Rating
 #138|@MMC_HUANGBAI|1569
 #139|@Epiano_Bot|1567
 #140|@Toxic_Bot|1541
-#141|@DavidsGuterBot|1536
-#142|@SXDEFENDER|1534
-#143|@Light_To_The_Rescue|1523
-#144|@Groot123456|1520
+#141|@SXDEFENDER|1534
+#142|@Groot123456|1533
+#143|@DavidsGuterBot|1529
+#144|@Light_To_The_Rescue|1523
 #145|@Z-Move|1495
 #146|@TFRChessClub|1494
 #147|@hyperchessbot1|1493
