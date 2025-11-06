@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Ghost_HunteR2998|2440
+#1|@Ghost_HunteR2998|2439
 #2|@ToromBot|2433
 #3|@PINEAPPLEMASK|2403
-#4|@DarkOnBot|2389
+#4|@DarkOnBot|2390
 #5|@RaspFish|2385
 #6|@strain-on-veins|2339
 #7|@Bot1nokk|2338
