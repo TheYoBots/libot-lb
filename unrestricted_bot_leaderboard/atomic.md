@@ -47,8 +47,8 @@ Rank|Bot|Rating
 #45|@Resolved-Bot|2363
 #46|@CloudBot_v2|2357
 #47|@faith_bot|2353
-#48|@Lila-Stockfish|2350
-#49|@RaspFish|2350
+#48|@RaspFish|2352
+#49|@Lila-Stockfish|2350
 #50|@lord-bot|2349
 #51|@Viet-BOT|2349
 #52|@NormalBlitzBulletBot|2347
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@chesshyperbot|2260
 #72|@SCP079|2259
 #73|@Johnsun|2257
-#74|@VEER-OMEGA-BOT|2252
+#74|@VEER-OMEGA-BOT|2253
 #75|@YoBot_v2|2243
 #76|@MalanChess|2238
 #77|@STockfishdestroyBot|2227
