@@ -1989,6 +1989,7 @@ mochi_bot
 mokbot
 moment-that-inspires
 mon_robot
+monastedrez
 monchester
 monikaai
 monke_bot
@@ -3347,4 +3348,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-monastedrez

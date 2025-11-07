@@ -9,8 +9,6 @@ Rank|Bot|Rating
 #7|@strain-on-veins|2324
 #8|@SF_Bot1nok|2321
 #9|@tbhOnBot|2315
-#10|@Bullet_bot_0526|2291
-#11|@MaggiChess16|2277
-#12|@GoblinAjedrezAI|2267
-#13|@Team_bot_08512|2263
-#14|@InvinxibleFlxsh|2036
+#10|@MaggiChess16|2277
+#11|@GoblinAjedrezAI|2267
+#12|@InvinxibleFlxsh|2036

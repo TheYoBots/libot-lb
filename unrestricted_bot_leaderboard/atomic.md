@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@Yebot|2518
 #22|@CatBot_14|2514
 #23|@EmptikBot|2510
-#24|@DarkOnBot|2507
-#25|@ibep|2498
+#24|@ibep|2498
+#25|@DarkOnBot|2497
 #26|@MaggiChess16|2497
 #27|@HIWIN1234|2494
 #28|@Ghost_HunteR2998|2492
@@ -63,9 +63,9 @@ Rank|Bot|Rating
 #61|@PsychedelicAtomic|2296
 #62|@AndromedaSX1|2284
 #63|@vrnts_colinbot|2282
-#64|@TheMatrix2029|2278
-#65|@BGSBot|2272
-#66|@is_BOSS|2272
+#64|@is_BOSS|2281
+#65|@TheMatrix2029|2278
+#66|@BGSBot|2272
 #67|@AtomicVsEngineBot|2268
 #68|@xiang-qi|2268
 #69|@CocopikachuBOT|2265
@@ -191,8 +191,8 @@ Rank|Bot|Rating
 #189|@CoderDen732|1791
 #190|@TheLegitLegend|1786
 #191|@Team_bot_08512|1784
-#192|@bot1e|1779
-#193|@MagicHacker123|1774
+#192|@MagicHacker123|1774
+#193|@bot1e|1773
 #194|@buffFishNet|1771
 #195|@EstmileBot|1769
 #196|@varient-chess-bot1|1762
