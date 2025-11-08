@@ -224,8 +224,8 @@ Rank|Bot|Rating
 #222|@TeamChelsie|1125
 #223|@kazakhfirstbot|1119
 #224|@apollo_bot|1106
-#225|@BogoBot|1099
-#226|@pawnrobot|1082
+#225|@pawnrobot|1102
+#226|@BogoBot|1099
 #227|@TfXD_Bot|1050
 #228|@jasans_bot|1045
 #229|@Official_bot|1027

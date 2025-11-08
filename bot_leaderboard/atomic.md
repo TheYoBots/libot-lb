@@ -1,11 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@DarkOnBot|2497
-#2|@MaggiChess16|2497
+#1|@MaggiChess16|2501
+#2|@DarkOnBot|2480
 #3|@SF_Bot1nok|2478
 #4|@GoblinAjedrezAI|2384
 #5|@RaspFish|2352
-#6|@is_BOSS|2291
-#7|@VEER-OMEGA-BOT|2253
-#8|@InvinxibleFlxsh|2127
-#9|@pawnrobot|1354
+#6|@is_BOSS|2305
+#7|@InvinxibleFlxsh|2127
+#8|@pawnrobot|1326

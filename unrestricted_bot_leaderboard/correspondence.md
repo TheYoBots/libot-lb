@@ -301,11 +301,11 @@ Rank|Bot|Rating
 #299|@LegendG21|1546
 #300|@LilDoctorJank|1546
 #301|@maia9|1545
-#302|@katzebot|1534
-#303|@XXIstCentury|1534
-#304|@lolchessbot69|1527
-#305|@maia1|1527
-#306|@Cimille|1523
+#302|@Cimille|1534
+#303|@katzebot|1534
+#304|@XXIstCentury|1534
+#305|@lolchessbot69|1527
+#306|@maia1|1527
 #307|@entebot|1523
 #308|@LeelaNice|1520
 #309|@eubos|1518

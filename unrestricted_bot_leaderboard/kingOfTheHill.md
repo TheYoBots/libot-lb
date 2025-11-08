@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@Toxic_Bot|1541
 #140|@SXDEFENDER|1534
 #141|@Groot123456|1533
-#142|@DavidsGuterBot|1529
+#142|@DavidsGuterBot|1531
 #143|@Light_To_The_Rescue|1523
 #144|@Z-Move|1495
 #145|@TFRChessClub|1494
@@ -178,9 +178,9 @@ Rank|Bot|Rating
 #176|@Hrant_Petrosyan_BOT|1258
 #177|@HiddeNL|1242
 #178|@knight_128|1233
-#179|@MyNameIsSpeedy|1226
-#180|@Bottios|1223
-#181|@pawnrobot|1222
+#179|@pawnrobot|1231
+#180|@MyNameIsSpeedy|1226
+#181|@Bottios|1223
 #182|@DanerdBot|1207
 #183|@RSVMentor|1196
 #184|@Boom_Bot|1176
