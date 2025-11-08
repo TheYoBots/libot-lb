@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Ghost_HunteR2998|2442
-#2|@PINEAPPLEMASK|2395
-#3|@DarkOnBot|2363
-#4|@Bot1nokk|2354
-#5|@SF_Bot1nok|2335
-#6|@strain-on-veins|2331
-#7|@GoblinAjedrezAI|2255
+#1|@Ghost_HunteR2998|2431
+#2|@PINEAPPLEMASK|2406
+#3|@DarkOnBot|2371
+#4|@Bot1nokk|2359
+#5|@strain-on-veins|2340
+#6|@SF_Bot1nok|2328
+#7|@GoblinAjedrezAI|2247
 #8|@InvinxibleFlxsh|2036

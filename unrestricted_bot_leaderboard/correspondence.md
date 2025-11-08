@@ -301,7 +301,7 @@ Rank|Bot|Rating
 #299|@LegendG21|1546
 #300|@LilDoctorJank|1546
 #301|@maia9|1545
-#302|@Cimille|1534
+#302|@Cimille|1539
 #303|@katzebot|1534
 #304|@XXIstCentury|1534
 #305|@lolchessbot69|1527
