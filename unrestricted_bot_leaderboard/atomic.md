@@ -30,9 +30,9 @@ Rank|Bot|Rating
 #28|@ElPeonElectrico|2489
 #29|@firstrobot|2485
 #30|@ShredderGrizzly|2479
-#31|@SF_Bot1nok|2478
-#32|@NormalBulletBot|2474
-#33|@DarkOnBot|2468
+#31|@NormalBulletBot|2474
+#32|@DarkOnBot|2468
+#33|@SF_Bot1nok|2468
 #34|@LoseisnotAvailablehe|2466
 #35|@PepsiForAll|2448
 #36|@eNErGyOFbEiNGbOT|2431
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@ToromBot|2425
 #39|@Fairy-Stockfish|2402
 #40|@abhisun_bot|2384
-#41|@GoblinAjedrezAI|2382
+#41|@GoblinAjedrezAI|2370
 #42|@KingfishX|2369
 #43|@mrchessmanager|2369
 #44|@Stockfish-MEDIUM|2366
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@newengine2022|2337
 #56|@NotNateBot|2336
 #57|@Bullet_bot_0526|2333
-#58|@is_BOSS|2316
+#58|@is_BOSS|2333
 #59|@The-Fastest-Bot|2314
 #60|@Alehkine_cat|2312
 #61|@Dean_Summer_Bot|2305
