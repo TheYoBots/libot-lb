@@ -1046,6 +1046,7 @@ evevtuber
 evg3n413429
 evilfreak
 evolve_bot
+ew-bot
 ewhgdvjeafd
 exogenetic-bot
 expectedoutcome
@@ -3348,4 +3349,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ew-bot
