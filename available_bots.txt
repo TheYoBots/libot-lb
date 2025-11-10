@@ -3349,3 +3349,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+leelapieceoddsfrc
+bot-win-loh-nick
+mega-noob-bot
