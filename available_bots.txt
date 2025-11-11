@@ -3338,6 +3338,7 @@ zerowinx
 zeusbot
 zeusbot_v1
 zeusminibot
+zeusnet
 zevra_chess
 zeynep001
 zgroupbot
@@ -3345,6 +3346,7 @@ zhangirkhanbot
 ziansnake
 zimbabwean_chessbot
 zipfile_chess-bot
+zlomenymesic
 zokbot
 zomevbot
 zugzwangbot
@@ -3352,5 +3354,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-zeusnet
-zlomenymesic
