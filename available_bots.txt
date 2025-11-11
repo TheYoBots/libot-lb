@@ -394,6 +394,7 @@ bot-testing
 bot-ugurpc
 bot-variants
 bot-whiteworm
+bot-win-loh-nick
 bot1996123
 bot1cwc
 bot1e
@@ -1728,6 +1729,7 @@ leelanicemirror
 leelapi
 leelapibot
 leelapieceodds
+leelapieceoddsfrc
 leelaqueenforknight
 leelaqueenodds
 leelarades
@@ -1934,6 +1936,7 @@ medvbn
 meetnarangbot
 meetrabot
 meezkool
+mega-noob-bot
 mega_bot
 megabeedrillbot
 megabotquan
@@ -3349,6 +3352,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-leelapieceoddsfrc
-bot-win-loh-nick
-mega-noob-bot
+zeusnet
+zlomenymesic

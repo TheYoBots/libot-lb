@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@Alexnajax_Fan|2549
 #12|@SacrificialSage|2519
 #13|@peonasesino71|2512
-#14|@ServerFish|2494
-#15|@ChamberiAjedrez|2493
+#14|@ChamberiAjedrez|2495
+#15|@ServerFish|2494
 #16|@colinbot|2492
 #17|@Bingo202|2484
 #18|@TorBot|2475
@@ -301,9 +301,9 @@ Rank|Bot|Rating
 #299|@LegendG21|1546
 #300|@LilDoctorJank|1546
 #301|@maia9|1545
-#302|@Cimille|1539
-#303|@katzebot|1534
-#304|@XXIstCentury|1534
+#302|@katzebot|1534
+#303|@XXIstCentury|1534
+#304|@Cimille|1529
 #305|@lolchessbot69|1527
 #306|@maia1|1527
 #307|@entebot|1523

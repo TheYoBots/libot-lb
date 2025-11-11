@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Ghost_HunteR2998|2838
 #6|@ElPeonElectrico|2714
 #7|@OpeningBooksTester|2712
-#8|@GoblinAjedrezAI|2677
+#8|@GoblinAjedrezAI|2673
 #9|@bot1e|2653
 #10|@MaggiChess16|2621
 #11|@DarkOnBot|2620
@@ -18,5 +18,6 @@ Rank|Bot|Rating
 #16|@InvinxibleFlxsh|2536
 #17|@anti-bot|2245
 #18|@NilatacBot|2144
-#19|@CatNail|2116
-#20|@pawnrobot|1865
+#19|@CatNail|2118
+#20|@ew-bot|2096
+#21|@pawnrobot|1865

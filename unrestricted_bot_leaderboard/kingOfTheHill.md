@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@lord-bot|2258
 #34|@strain-on-veins|2243
 #35|@YoBot_v2|2242
-#36|@DarkOnBot|2237
+#36|@DarkOnBot|2236
 #37|@ResoluteBot|2233
 #38|@ttBOT|2230
 #39|@tbhOnBot|2226
@@ -72,9 +72,9 @@ Rank|Bot|Rating
 #70|@Hyper-Stockfish|2044
 #71|@Kizbuurb|2035
 #72|@CloudBot_v2|2027
-#73|@faith_bot|2026
-#74|@Team_bot_08512|2021
-#75|@Lili-ai|2020
+#73|@Lili-ai|2027
+#74|@faith_bot|2026
+#75|@Team_bot_08512|2021
 #76|@VariantsTop|2014
 #77|@virus_exe-bot|2013
 #78|@CocopikachuBOT|2009
@@ -139,10 +139,10 @@ Rank|Bot|Rating
 #137|@MMC_HUANGBAI|1569
 #138|@Epiano_Bot|1567
 #139|@Toxic_Bot|1541
-#140|@SXDEFENDER|1534
-#141|@DavidsGuterBot|1533
-#142|@Groot123456|1533
-#143|@Light_To_The_Rescue|1523
+#140|@DavidsGuterBot|1540
+#141|@SXDEFENDER|1534
+#142|@Light_To_The_Rescue|1523
+#143|@Groot123456|1521
 #144|@Z-Move|1495
 #145|@TFRChessClub|1494
 #146|@hyperchessbot1|1493
