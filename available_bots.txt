@@ -3354,3 +3354,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+plisco-bot
+supranova_python

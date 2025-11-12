@@ -141,8 +141,8 @@ Rank|Bot|Rating
 #139|@SchachProg|2010
 #140|@ElPeonElectrico|2004
 #141|@zeekat|2004
-#142|@honzovy-sachy|2002
-#143|@GarboBot|2001
+#142|@GarboBot|2002
+#143|@honzovy-sachy|2002
 #144|@TESTBOT23|2000
 #145|@Zer0_Tw0|1992
 #146|@YoBot_v2|1984
@@ -304,7 +304,7 @@ Rank|Bot|Rating
 #302|@maia9|1545
 #303|@katzebot|1534
 #304|@XXIstCentury|1534
-#305|@Cimille|1528
+#305|@Cimille|1527
 #306|@lolchessbot69|1527
 #307|@maia1|1527
 #308|@entebot|1523

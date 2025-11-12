@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@ElPeonElectrico|2489
 #28|@Ghost_HunteR2998|2487
 #29|@firstrobot|2485
-#30|@MaggiChess16|2482
+#30|@MaggiChess16|2483
 #31|@ShredderGrizzly|2479
 #32|@NormalBulletBot|2474
 #33|@SF_Bot1nok|2468

@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@RaspFish|2597
 #15|@SF_Bot1nok|2591
 #16|@InvinxibleFlxsh|2536
-#17|@anti-bot|2235
+#17|@anti-bot|2254
 #18|@NilatacBot|2146
-#19|@CatNail|2109
-#20|@ew-bot|2086
+#19|@CatNail|2101
+#20|@ew-bot|2070
 #21|@pawnrobot|1863
