@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MaggiChess16|2303
+#1|@MaggiChess16|2322
 #2|@Ghost_HunteR2998|2300
-#3|@PINEAPPLEMASK|2295
-#4|@DarkOnBot|2239
-#5|@Groot123456|1533
-#6|@DavidsGuterBot|1532
+#3|@PINEAPPLEMASK|2285
+#4|@DarkOnBot|2240
+#5|@Groot123456|1544
+#6|@DavidsGuterBot|1526
 #7|@pawnrobot|1229

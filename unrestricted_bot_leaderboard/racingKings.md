@@ -19,10 +19,10 @@ Rank|Bot|Rating
 #17|@strain-on-veins|2516
 #18|@Nebulogic|2514
 #19|@SCP079|2513
-#20|@MaggiChess16|2509
-#21|@tbhOnBot|2509
+#20|@tbhOnBot|2509
+#21|@MaggiChess16|2508
 #22|@Endogenetic-Bot|2507
-#23|@Ghost_HunteR2998|2499
+#23|@Ghost_HunteR2998|2498
 #24|@SF_Bot1nok|2498
 #25|@Lili-ai|2497
 #26|@TacticalBot|2497
@@ -30,9 +30,9 @@ Rank|Bot|Rating
 #28|@ElPeonElectrico|2494
 #29|@mrchessmanager|2494
 #30|@TeamChelsie|2489
-#31|@PINEAPPLEMASK|2487
-#32|@DarkOnBot|2484
-#33|@FayEFish|2483
+#31|@FayEFish|2487
+#32|@PINEAPPLEMASK|2487
+#33|@DarkOnBot|2484
 #34|@Magnus-BOT|2479
 #35|@newengine2022|2473
 #36|@VEER-OMEGA-BOT|2472
