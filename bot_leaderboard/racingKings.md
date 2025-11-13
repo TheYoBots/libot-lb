@@ -4,5 +4,5 @@ Rank|Bot|Rating
 #2|@MaggiChess16|2508
 #3|@Ghost_HunteR2998|2498
 #4|@PINEAPPLEMASK|2487
-#5|@DarkOnBot|2484
+#5|@DarkOnBot|2485
 #6|@VEER-OMEGA-BOT|2472

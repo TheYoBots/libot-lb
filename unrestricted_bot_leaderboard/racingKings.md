@@ -29,10 +29,10 @@ Rank|Bot|Rating
 #27|@Dark_evil_bot|2496
 #28|@ElPeonElectrico|2494
 #29|@mrchessmanager|2494
-#30|@TeamChelsie|2489
-#31|@FayEFish|2487
+#30|@FayEFish|2489
+#31|@TeamChelsie|2489
 #32|@PINEAPPLEMASK|2487
-#33|@DarkOnBot|2484
+#33|@DarkOnBot|2485
 #34|@Magnus-BOT|2479
 #35|@newengine2022|2473
 #36|@VEER-OMEGA-BOT|2472
