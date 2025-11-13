@@ -4,5 +4,5 @@ Rank|Bot|Rating
 #2|@MaggiChess16|2381
 #3|@DarkOnBot|2264
 #4|@Groot123456|1742
-#5|@DavidsGuterBot|1563
-#6|@pawnrobot|1297
+#5|@DavidsGuterBot|1565
+#6|@pawnrobot|1294

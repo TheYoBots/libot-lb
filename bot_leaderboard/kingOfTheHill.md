@@ -5,5 +5,5 @@ Rank|Bot|Rating
 #3|@PINEAPPLEMASK|2285
 #4|@DarkOnBot|2240
 #5|@Groot123456|1544
-#6|@DavidsGuterBot|1526
-#7|@pawnrobot|1229
+#6|@DavidsGuterBot|1528
+#7|@pawnrobot|1226

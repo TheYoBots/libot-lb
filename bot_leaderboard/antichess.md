@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@strain-on-veins|2901
-#2|@NecroMindX|2896
-#3|@ToromBot|2881
-#4|@PINEAPPLEMASK|2880
+#2|@NecroMindX|2898
+#3|@PINEAPPLEMASK|2881
+#4|@ToromBot|2881
 #5|@Ghost_HunteR2998|2858
 #6|@ElPeonElectrico|2714
 #7|@OpeningBooksTester|2712
@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@RaspFish|2597
 #16|@SF_Bot1nok|2591
 #17|@InvinxibleFlxsh|2536
-#18|@anti-bot|2260
+#18|@anti-bot|2262
 #19|@NilatacBot|2146
-#20|@CatNail|2098
-#21|@ew-bot|2038
+#20|@CatNail|2095
+#21|@ew-bot|2047
 #22|@pawnrobot|1863

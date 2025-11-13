@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Resolved-Bot|2363
 #47|@CloudBot_v2|2357
 #48|@faith_bot|2353
-#49|@RaspFish|2352
+#49|@RaspFish|2353
 #50|@Lila-Stockfish|2350
 #51|@GoblinAjedrezAI|2349
 #52|@lord-bot|2349

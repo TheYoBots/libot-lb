@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@SF_Bot1nok|2468
 #3|@DarkOnBot|2456
 #4|@PINEAPPLEMASK|2390
-#5|@RaspFish|2352
+#5|@RaspFish|2353
 #6|@GoblinAjedrezAI|2349
 #7|@is_BOSS|2348
 #8|@VEER-OMEGA-BOT|2256
