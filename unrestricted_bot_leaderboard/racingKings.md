@@ -14,14 +14,14 @@ Rank|Bot|Rating
 #12|@Coolman2021|2527
 #13|@EmptikBot|2526
 #14|@Exogenetic-Bot|2524
-#15|@GoblinAjedrezAI|2518
+#15|@GoblinAjedrezAI|2516
 #16|@NecroMindX|2516
 #17|@strain-on-veins|2516
 #18|@Nebulogic|2514
 #19|@SCP079|2513
 #20|@tbhOnBot|2509
-#21|@MaggiChess16|2508
-#22|@Endogenetic-Bot|2507
+#21|@Endogenetic-Bot|2507
+#22|@MaggiChess16|2507
 #23|@Ghost_HunteR2998|2498
 #24|@SF_Bot1nok|2498
 #25|@Lili-ai|2497
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@Dark_evil_bot|2496
 #28|@ElPeonElectrico|2494
 #29|@mrchessmanager|2494
-#30|@FayEFish|2489
+#30|@FayEFish|2492
 #31|@TeamChelsie|2489
 #32|@PINEAPPLEMASK|2487
 #33|@DarkOnBot|2485
