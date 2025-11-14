@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@Ghost_HunteR2998|2299
 #3|@PINEAPPLEMASK|2277
 #4|@DarkOnBot|2241
-#5|@Groot123456|1544
-#6|@DavidsGuterBot|1528
+#5|@DavidsGuterBot|1535
+#6|@Groot123456|1533
 #7|@pawnrobot|1226

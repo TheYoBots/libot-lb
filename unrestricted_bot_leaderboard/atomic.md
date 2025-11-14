@@ -307,8 +307,8 @@ Rank|Bot|Rating
 #305|@anonymous5612|1384
 #306|@SLvov-bot|1359
 #307|@ChessBotHere|1351
-#308|@pawnrobot|1343
-#309|@kazakhfirstbot|1340
+#308|@kazakhfirstbot|1340
+#309|@pawnrobot|1340
 #310|@TheBullyBot|1339
 #311|@AveragePlayer757|1337
 #312|@mertovic119|1337

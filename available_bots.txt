@@ -1659,6 +1659,7 @@ l_taurus_l
 ladidacticabot
 ladoga_engine
 ladybugbot
+laikachessbot
 laira_z
 lalis1
 lamanodetal
@@ -3356,4 +3357,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-laikachessbot

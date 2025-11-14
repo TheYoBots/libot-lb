@@ -8,5 +8,4 @@ Rank|Bot|Rating
 #6|@RaspFish|2363
 #7|@is_BOSS|2356
 #8|@GoblinAjedrezAI|2350
-#9|@VEER-OMEGA-BOT|2256
-#10|@pawnrobot|1343
+#9|@pawnrobot|1340
