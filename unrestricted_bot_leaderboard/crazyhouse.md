@@ -42,11 +42,11 @@ Rank|Bot|Rating
 #40|@NormalBlitzBulletBot|2278
 #41|@MalanChess|2273
 #42|@BitExtender128|2272
-#43|@FayEFish|2264
-#44|@Bobby_Fischer_BOT|2251
-#45|@Mega_BOT|2240
-#46|@Endogenetic-Bot|2236
-#47|@RaspFish|2233
+#43|@RaspFish|2272
+#44|@FayEFish|2264
+#45|@Bobby_Fischer_BOT|2251
+#46|@Mega_BOT|2240
+#47|@Endogenetic-Bot|2236
 #48|@NecroMindX|2229
 #49|@ElPeonElectrico|2228
 #50|@GoblinAjedrezAI|2227

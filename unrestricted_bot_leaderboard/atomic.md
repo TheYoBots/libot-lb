@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@KingfishX|2369
 #45|@mrchessmanager|2369
 #46|@Stockfish-MEDIUM|2366
-#47|@RaspFish|2363
+#47|@RaspFish|2364
 #48|@Resolved-Bot|2363
 #49|@CloudBot_v2|2357
 #50|@faith_bot|2353

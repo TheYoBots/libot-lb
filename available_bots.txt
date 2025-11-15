@@ -2164,6 +2164,7 @@ number_one1
 nuttchess_bot
 nya-vp
 nyaabot
+nyxonyx
 o9mniej_bot
 obi-pawnkenobot
 obsidianchessengine
@@ -3357,4 +3358,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-nyxonyx
+ballin-bot

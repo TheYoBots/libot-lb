@@ -6,6 +6,6 @@ Rank|Bot|Rating
 #4|@DarkOnBot|2436
 #5|@PINEAPPLEMASK|2391
 #6|@is_BOSS|2384
-#7|@RaspFish|2363
+#7|@RaspFish|2364
 #8|@GoblinAjedrezAI|2342
 #9|@pawnrobot|1340
