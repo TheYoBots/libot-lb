@@ -1,8 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@PINEAPPLEMASK|2413
+#1|@PINEAPPLEMASK|2418
 #2|@MaggiChess16|2373
 #3|@VEER-OMEGA-BOT|2339
-#4|@Groot123456|1742
-#5|@DavidsGuterBot|1570
-#6|@pawnrobot|1288
+#4|@DarkOnBot|2259
+#5|@Groot123456|1742
+#6|@DavidsGuterBot|1568
+#7|@pawnrobot|1291

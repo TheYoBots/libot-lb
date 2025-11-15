@@ -252,6 +252,7 @@ bagpiperbot
 bakasbot
 balancefish
 balbla
+ballin-bot
 bananaaaaaaaaa_test
 bao-chessvn
 barbotte
@@ -3358,4 +3359,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ballin-bot

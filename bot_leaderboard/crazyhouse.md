@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2272
-#2|@FayEFish|2264
-#3|@GoblinAjedrezAI|2227
+#1|@FayEFish|2273
+#2|@RaspFish|2272
+#3|@GoblinAjedrezAI|2220
 #4|@MaggiChess16|2195
 #5|@Ghost_HunteR2998|2158
 #6|@PINEAPPLEMASK|2155

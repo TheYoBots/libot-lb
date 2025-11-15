@@ -16,12 +16,12 @@ Rank|Bot|Rating
 #14|@ElPeonElectrico|2351
 #15|@TheMatrix2025|2346
 #16|@AndromedaSX1|2344
-#17|@GoblinAjedrezAI|2322
+#17|@MaggiChess16|2320
 #18|@Sooraj_Kumar_P_S|2319
-#19|@Viet-AI|2317
-#20|@Fairy_Belzedar|2316
-#21|@MaggiChess16|2310
-#22|@FayEFish|2308
+#19|@FayEFish|2317
+#20|@Viet-AI|2317
+#21|@Fairy_Belzedar|2316
+#22|@GoblinAjedrezAI|2313
 #23|@Exogenetic-Bot|2305
 #24|@Ghost_HunteR2998|2300
 #25|@MalanChess|2292
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@lord-bot|2258
 #34|@strain-on-veins|2243
 #35|@YoBot_v2|2242
-#36|@DarkOnBot|2241
+#36|@DarkOnBot|2233
 #37|@ResoluteBot|2233
 #38|@ttBOT|2230
 #39|@tbhOnBot|2226
