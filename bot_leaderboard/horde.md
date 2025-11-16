@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@PINEAPPLEMASK|2433
 #3|@Ghost_HunteR2998|2397
 #4|@MaggiChess16|2385
-#5|@RaspFish|2363
+#5|@RaspFish|2364
 #6|@Bullet_bot_0526|2353
 #7|@Bot1nokk|2331
 #8|@SF_Bot1nok|2323

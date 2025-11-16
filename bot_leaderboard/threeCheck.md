@@ -4,6 +4,7 @@ Rank|Bot|Rating
 #2|@MaggiChess16|2373
 #3|@VEER-OMEGA-BOT|2339
 #4|@DarkOnBot|2259
-#5|@Groot123456|1742
-#6|@DavidsGuterBot|1568
-#7|@pawnrobot|1291
+#5|@RaspFish|2253
+#6|@Groot123456|1742
+#7|@DavidsGuterBot|1570
+#8|@pawnrobot|1295

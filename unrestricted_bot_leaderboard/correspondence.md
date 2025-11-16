@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@HulkBot|2387
 #27|@MehFish|2376
 #28|@Mega_BOT|2371
-#29|@WoodStyleEngine|2369
+#29|@WoodStyleEngine|2370
 #30|@CorrespondenceBot|2353
 #31|@duchessAI|2344
 #32|@Shocky_BOT|2344
@@ -330,7 +330,7 @@ Rank|Bot|Rating
 #328|@GyatsoBot|1469
 #329|@MRT23|1469
 #330|@TheSystem_Bot|1466
-#331|@Cimille|1465
+#331|@Cimille|1462
 #332|@Mate-AI|1454
 #333|@dtsudo|1449
 #334|@CheezyGlizzyEater|1444
