@@ -220,9 +220,9 @@ Rank|Bot|Rating
 #218|@Jannik08_fan|1163
 #219|@BSergey11-BOT|1149
 #220|@K_Shi_Bot|1149
-#221|@TeamChelsie|1125
-#222|@kazakhfirstbot|1119
-#223|@pawnrobot|1117
+#221|@pawnrobot|1137
+#222|@TeamChelsie|1125
+#223|@kazakhfirstbot|1119
 #224|@apollo_bot|1106
 #225|@BogoBot|1099
 #226|@DanerdBot2|1074

@@ -1,11 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Ghost_HunteR2998|2483
-#2|@MaggiChess16|2463
-#3|@DarkOnBot|2431
-#4|@is_BOSS|2405
-#5|@PINEAPPLEMASK|2383
+#2|@MaggiChess16|2466
+#3|@DarkOnBot|2423
+#4|@is_BOSS|2409
+#5|@PINEAPPLEMASK|2384
 #6|@RaspFish|2364
 #7|@GoblinAjedrezAI|2345
-#8|@VEER-OMEGA-BOT|2249
-#9|@pawnrobot|1332
+#8|@pawnrobot|1329
