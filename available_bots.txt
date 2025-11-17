@@ -816,6 +816,7 @@ cuteparakeet
 cutesnowman
 cva728_bot_1
 cxrmt
+cybercatanut
 czech-bot
 czech-bot-turbo
 czesc-bot
@@ -1626,6 +1627,7 @@ komodo18
 komodo_engine
 komodobot
 komodofish12
+komodoqueenodds
 komorebi_bot
 konaz
 konstantin_stepabot
@@ -3359,5 +3361,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-komodoqueenodds
-cybercatanut

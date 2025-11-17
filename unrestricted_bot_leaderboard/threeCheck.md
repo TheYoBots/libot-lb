@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@Botkingteam33|1633
 #135|@jasans_bot|1621
 #136|@newengine2022|1588
-#137|@DavidsGuterBot|1572
+#137|@DavidsGuterBot|1574
 #138|@knight_128|1563
 #139|@Alehkine_cat|1531
 #140|@TrashBot|1519
@@ -175,7 +175,7 @@ Rank|Bot|Rating
 #173|@Harry_Potterz|1316
 #174|@allvariants|1310
 #175|@NoTallkOnlyGames|1293
-#176|@pawnrobot|1293
+#176|@pawnrobot|1290
 #177|@Light_To_The_Rescue|1277
 #178|@Sanjana_Kambala-BOT|1273
 #179|@TheLegendaryKnight|1272
