@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@ElPeonElectrico|2475
 #23|@Less_of_a_threat|2469
 #24|@NormalBlitzBulletBot|2463
-#25|@ttBOT|2461
-#26|@NewChessEngine-ai|2454
+#25|@NewChessEngine-ai|2462
+#26|@ttBOT|2461
 #27|@TheMatrix2029|2448
 #28|@faith_bot|2447
 #29|@chessbot2880|2439
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@Botkingteam33|1633
 #135|@jasans_bot|1621
 #136|@newengine2022|1588
-#137|@DavidsGuterBot|1570
+#137|@DavidsGuterBot|1572
 #138|@knight_128|1563
 #139|@Alehkine_cat|1531
 #140|@TrashBot|1519
@@ -174,8 +174,8 @@ Rank|Bot|Rating
 #172|@cool_boy_bot|1321
 #173|@Harry_Potterz|1316
 #174|@allvariants|1310
-#175|@pawnrobot|1295
-#176|@NoTallkOnlyGames|1293
+#175|@NoTallkOnlyGames|1293
+#176|@pawnrobot|1293
 #177|@Light_To_The_Rescue|1277
 #178|@Sanjana_Kambala-BOT|1273
 #179|@TheLegendaryKnight|1272

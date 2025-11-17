@@ -40,10 +40,10 @@ Rank|Bot|Rating
 #38|@Yemmi-Yemmi|2305
 #39|@iplayonlyrandom|2282
 #40|@NormalBlitzBulletBot|2278
-#41|@FayEFish|2273
-#42|@MalanChess|2273
-#43|@BitExtender128|2272
-#44|@RaspFish|2272
+#41|@RaspFish|2276
+#42|@FayEFish|2273
+#43|@MalanChess|2273
+#44|@BitExtender128|2272
 #45|@Bobby_Fischer_BOT|2251
 #46|@Mega_BOT|2240
 #47|@Endogenetic-Bot|2236
