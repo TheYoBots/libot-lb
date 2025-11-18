@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@HIWIN1234|2123
 #70|@TestingBot1|2118
 #71|@Johnsun|2113
-#72|@DarkOnBot|2090
+#72|@DarkOnBot|2091
 #73|@SixtyFourEngine|2089
 #74|@relevantproblem|2077
 #75|@GodelEscherBot|2071
@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@Isaacwb_BOT|1640
 #140|@SriLankaChess|1623
 #141|@Viet_BOT|1617
-#142|@OpeningsBot|1616
+#142|@OpeningsBot|1613
 #143|@david9426_bot|1611
 #144|@CloudBotZero|1599
 #145|@PetersTestBot|1599

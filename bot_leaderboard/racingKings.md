@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@ToromBot|2548
 #2|@GoblinAjedrezAI|2516
 #3|@MaggiChess16|2507
-#4|@Ghost_HunteR2998|2498
+#4|@Ghost_HunteR2998|2501
 #5|@PINEAPPLEMASK|2487
 #6|@DarkOnBot|2485
-#7|@OpeningsBot|2200
+#7|@OpeningsBot|2195

@@ -3361,3 +3361,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+borkatower
+mdbot

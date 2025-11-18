@@ -37,9 +37,9 @@ Rank|Bot|Rating
 #35|@bekbot|2307
 #36|@Magnus-BOT|2304
 #37|@AVeryBigMistake|2301
-#38|@Xmas_dragon|2300
-#39|@Ujwal1001|2297
-#40|@OpeningsBot|2296
+#38|@OpeningsBot|2301
+#39|@Xmas_dragon|2300
+#40|@Ujwal1001|2297
 #41|@robiachess|2295
 #42|@Quanticade|2286
 #43|@mrohCentaur|2285
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@honzovy-sachy|2002
 #143|@TESTBOT23|2000
 #144|@Zer0_Tw0|1992
-#145|@GarboBot|1989
+#145|@GarboBot|1987
 #146|@YoBot_v2|1984
 #147|@Virutor|1980
 #148|@Bobby_Fishcer_Bot|1976
