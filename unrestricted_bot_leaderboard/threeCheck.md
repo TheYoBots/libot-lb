@@ -97,8 +97,8 @@ Rank|Bot|Rating
 #95|@pistol-play|1939
 #96|@PROBOT123567|1936
 #97|@PetersTestBot|1935
-#98|@Lila-Stockfish|1917
-#99|@OpeningsBot|1917
+#98|@OpeningsBot|1927
+#99|@Lila-Stockfish|1917
 #100|@SkyBlaster|1913
 #101|@HyperLitikBOT|1908
 #102|@PowerOnBot|1894
@@ -121,9 +121,9 @@ Rank|Bot|Rating
 #119|@varient-chess-bot1|1797
 #120|@pussaW|1785
 #121|@XXXTryandTryXXX|1747
-#122|@Groot123456|1742
-#123|@CBNguyen_Bot|1741
-#124|@No_Username2|1741
+#122|@CBNguyen_Bot|1741
+#123|@No_Username2|1741
+#124|@Groot123456|1736
 #125|@NotNateBot|1731
 #126|@Crepusculum|1724
 #127|@SUMEETTHEPRO|1708
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@Botkingteam33|1633
 #135|@jasans_bot|1621
 #136|@newengine2022|1588
-#137|@DavidsGuterBot|1579
+#137|@DavidsGuterBot|1581
 #138|@knight_128|1563
 #139|@Alehkine_cat|1531
 #140|@TrashBot|1519
@@ -175,7 +175,7 @@ Rank|Bot|Rating
 #173|@Harry_Potterz|1316
 #174|@allvariants|1310
 #175|@NoTallkOnlyGames|1293
-#176|@pawnrobot|1285
+#176|@pawnrobot|1283
 #177|@Light_To_The_Rescue|1277
 #178|@Sanjana_Kambala-BOT|1273
 #179|@TheLegendaryKnight|1272
