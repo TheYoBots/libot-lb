@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NecroMindX|2927
+#1|@NecroMindX|2926
 #2|@strain-on-veins|2920
-#3|@PINEAPPLEMASK|2894
+#3|@PINEAPPLEMASK|2895
 #4|@ToromBot|2882
 #5|@MEGA-NOOB-BOT|2858
 #6|@Ghost_HunteR2998|2855
@@ -17,6 +17,6 @@ Rank|Bot|Rating
 #15|@GoblinAjedrezAI|2561
 #16|@anti-bot|2254
 #17|@NilatacBot|2161
-#18|@CatNail|2098
+#18|@CatNail|2093
 #19|@ew-bot|2088
 #20|@pawnrobot|1875

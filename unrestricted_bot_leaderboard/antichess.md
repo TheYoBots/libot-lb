@@ -5,9 +5,9 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@NecroMindX|2927
+#6|@NecroMindX|2926
 #7|@strain-on-veins|2920
-#8|@PINEAPPLEMASK|2894
+#8|@PINEAPPLEMASK|2895
 #9|@ToromBot|2882
 #10|@Coolman2021|2879
 #11|@TheMatrix2029|2866
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@Stockfish-MEDIUM|2117
 #157|@PyChessBot|2102
 #158|@TurkiyeHogwartsBOT|2099
-#159|@CatNail|2098
+#159|@CatNail|2093
 #160|@ew-bot|2088
 #161|@ZamuChess|2049
 #162|@Botzer|2020

@@ -376,6 +376,7 @@ boosted_maia_1700
 boosted_maia_1900
 boringfish
 boris-trapsky
+borkatower
 bosburp777
 boss_chess_bot
 boss_of_the_gym_2
@@ -1933,6 +1934,7 @@ mcexpressbot
 mckapran78
 mcyborg
 md211bot
+mdbot
 mecbotchess1
 mechasoleil
 medipoluniversity
@@ -3361,5 +3363,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-borkatower
-mdbot
+larryz-alterego
+cloudberk

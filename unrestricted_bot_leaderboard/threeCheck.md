@@ -32,9 +32,9 @@ Rank|Bot|Rating
 #30|@ToromBot|2435
 #31|@PINEAPPLEMASK|2419
 #32|@tbhOnBot|2404
-#33|@MaggiChess16|2373
-#34|@Endogenetic-Bot|2372
-#35|@GoblinAjedrezAI|2372
+#33|@GoblinAjedrezAI|2374
+#34|@MaggiChess16|2373
+#35|@Endogenetic-Bot|2372
 #36|@Viet_BOT|2367
 #37|@NecroMindX|2358
 #38|@VEER-OMEGA-BOT|2339
@@ -97,8 +97,8 @@ Rank|Bot|Rating
 #95|@pistol-play|1939
 #96|@PROBOT123567|1936
 #97|@PetersTestBot|1935
-#98|@OpeningsBot|1920
-#99|@Lila-Stockfish|1917
+#98|@Lila-Stockfish|1917
+#99|@OpeningsBot|1917
 #100|@SkyBlaster|1913
 #101|@HyperLitikBOT|1908
 #102|@PowerOnBot|1894
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@Botkingteam33|1633
 #135|@jasans_bot|1621
 #136|@newengine2022|1588
-#137|@DavidsGuterBot|1577
+#137|@DavidsGuterBot|1579
 #138|@knight_128|1563
 #139|@Alehkine_cat|1531
 #140|@TrashBot|1519
@@ -175,7 +175,7 @@ Rank|Bot|Rating
 #173|@Harry_Potterz|1316
 #174|@allvariants|1310
 #175|@NoTallkOnlyGames|1293
-#176|@pawnrobot|1288
+#176|@pawnrobot|1285
 #177|@Light_To_The_Rescue|1277
 #178|@Sanjana_Kambala-BOT|1273
 #179|@TheLegendaryKnight|1272
