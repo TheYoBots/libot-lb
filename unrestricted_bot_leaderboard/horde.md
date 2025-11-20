@@ -161,7 +161,7 @@ Rank|Bot|Rating
 #159|@PowerOnBot|1258
 #160|@xDmanBOT|1258
 #161|@yobmef|1258
-#162|@pawnrobot|1244
+#162|@pawnrobot|1233
 #163|@Groot123456|1230
 #164|@TheSystem_Bot|1218
 #165|@GuineaBot3|1212
