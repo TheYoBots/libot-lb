@@ -17,6 +17,7 @@ accountbot
 achessboarduino
 aconcaguabot
 actual_magnus
+adamantbot_v1
 adathefury
 adeon-bot
 admete_bot
@@ -3365,4 +3366,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-adamantbot_v1

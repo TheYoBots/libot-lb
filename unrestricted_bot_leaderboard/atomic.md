@@ -38,11 +38,11 @@ Rank|Bot|Rating
 #36|@eNErGyOFbEiNGbOT|2431
 #37|@ToromBot|2425
 #38|@DarkOnBot|2423
-#39|@is_BOSS|2412
+#39|@is_BOSS|2417
 #40|@Fairy-Stockfish|2402
 #41|@Bullet_bot_0526|2391
 #42|@abhisun_bot|2384
-#43|@PINEAPPLEMASK|2382
+#43|@PINEAPPLEMASK|2375
 #44|@KingfishX|2369
 #45|@mrchessmanager|2369
 #46|@Stockfish-MEDIUM|2366

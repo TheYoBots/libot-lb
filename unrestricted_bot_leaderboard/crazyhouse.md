@@ -187,8 +187,8 @@ Rank|Bot|Rating
 #185|@Itzmoi6g19|1425
 #186|@xDmanBOT|1419
 #187|@chess-trainer-bot|1417
-#188|@Wayang|1411
-#189|@Groot123456|1404
+#188|@Groot123456|1413
+#189|@Wayang|1411
 #190|@cool_boy_bot|1398
 #191|@Classic_BOT-v2|1392
 #192|@are_bots_good|1367
@@ -221,7 +221,7 @@ Rank|Bot|Rating
 #219|@Jannik08_fan|1163
 #220|@BSergey11-BOT|1149
 #221|@K_Shi_Bot|1149
-#222|@pawnrobot|1137
+#222|@pawnrobot|1131
 #223|@TeamChelsie|1125
 #224|@kazakhfirstbot|1119
 #225|@apollo_bot|1106

@@ -144,8 +144,8 @@ Rank|Bot|Rating
 #142|@honzovy-sachy|2002
 #143|@TESTBOT23|2000
 #144|@Zer0_Tw0|1992
-#145|@GarboBot|1984
-#146|@YoBot_v2|1984
+#145|@YoBot_v2|1984
+#146|@GarboBot|1981
 #147|@Virutor|1980
 #148|@Bobby_Fishcer_Bot|1976
 #149|@CheckmateX1|1974

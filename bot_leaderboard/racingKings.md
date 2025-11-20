@@ -7,4 +7,4 @@ Rank|Bot|Rating
 #5|@Ghost_HunteR2998|2501
 #6|@PINEAPPLEMASK|2487
 #7|@DarkOnBot|2485
-#8|@OpeningsBot|2173
+#8|@OpeningsBot|2168
