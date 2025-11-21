@@ -312,12 +312,12 @@ Rank|Bot|Rating
 #310|@eubos|1518
 #311|@MistakeBOT|1515
 #312|@FelixLeonidovich|1505
-#313|@Chen_BOT|1500
-#314|@kylel4266_test|1500
-#315|@NiceToHitYou2000|1500
-#316|@GeraldBOT|1499
-#317|@ZokBot|1498
-#318|@Cimille|1497
+#313|@Cimille|1503
+#314|@Chen_BOT|1500
+#315|@kylel4266_test|1500
+#316|@NiceToHitYou2000|1500
+#317|@GeraldBOT|1499
+#318|@ZokBot|1498
 #319|@melsh_bot|1494
 #320|@akshadlawanibot|1490
 #321|@Stockfish_i7|1490
@@ -412,4 +412,4 @@ Rank|Bot|Rating
 #410|@G0thamB0t|954
 #411|@GuineaBot|866
 #412|@BogoBot|865
-#413|@grandQ_AI|854
+#413|@grandQ_AI|853

@@ -5,11 +5,11 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@strain-on-veins|2941
-#7|@NecroMindX|2936
+#6|@NecroMindX|2944
+#7|@strain-on-veins|2941
 #8|@ToromBot|2891
 #9|@Coolman2021|2879
-#10|@PINEAPPLEMASK|2875
+#10|@PINEAPPLEMASK|2871
 #11|@TheMatrix2029|2866
 #12|@MEGA-NOOB-BOT|2859
 #13|@UltronBot|2859
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@ttBOT|2739
 #26|@ibep|2733
 #27|@OpeningBooksTester|2712
-#28|@ElPeonElectrico|2704
+#28|@ElPeonElectrico|2703
 #29|@Lili-Variants|2693
 #30|@buffFishNet|2692
 #31|@FayEFish|2680
@@ -46,10 +46,10 @@ Rank|Bot|Rating
 #44|@bananaaaaaaaaa_test|2608
 #45|@IAMSTOCKFISH123|2603
 #46|@ChessBot3021|2599
-#47|@MaggiChess16|2599
-#48|@RaspFish|2599
-#49|@fairy-vvrr|2598
-#50|@Viet-BOT|2598
+#47|@RaspFish|2599
+#48|@fairy-vvrr|2598
+#49|@Viet-BOT|2598
+#50|@MaggiChess16|2597
 #51|@firstrobot|2593
 #52|@tbhOnBot|2593
 #53|@Bot1nokk|2592
@@ -134,7 +134,7 @@ Rank|Bot|Rating
 #132|@CocopikachuBOT|2226
 #133|@TungJohn|2225
 #134|@Good-Game-123|2221
-#135|@anti-bot|2218
+#135|@anti-bot|2219
 #136|@The-Fastest-Bot|2218
 #137|@All_Except_Chess960|2214
 #138|@SaturnBot|2214

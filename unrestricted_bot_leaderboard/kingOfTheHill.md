@@ -110,7 +110,7 @@ Rank|Bot|Rating
 #108|@Botzer|1851
 #109|@B0T5_RU13|1835
 #110|@STockfishdestroyBot|1825
-#111|@OpeningsBot|1818
+#111|@OpeningsBot|1823
 #112|@AldoGamer001_Bot|1813
 #113|@admin-bot|1809
 #114|@The-Fastest-Bot|1809
@@ -130,10 +130,10 @@ Rank|Bot|Rating
 #128|@TTC-BOT_2|1703
 #129|@Viet_BOT|1701
 #130|@QuickLiquid|1689
-#131|@SCP079|1660
-#132|@chessemkabot|1625
-#133|@CoderDen732|1621
-#134|@P-chessbot|1613
+#131|@P-chessbot|1660
+#132|@SCP079|1660
+#133|@chessemkabot|1625
+#134|@CoderDen732|1621
 #135|@Ramses-Chess|1608
 #136|@Breeze-Hot|1606
 #137|@Just-a-random-bot|1604
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@Toxic_Bot|1541
 #143|@SXDEFENDER|1534
 #144|@Light_To_The_Rescue|1523
-#145|@DavidsGuterBot|1520
+#145|@DavidsGuterBot|1518
 #146|@Z-Move|1495
 #147|@TFRChessClub|1494
 #148|@hyperchessbot1|1493
@@ -182,7 +182,7 @@ Rank|Bot|Rating
 #180|@knight_128|1233
 #181|@MyNameIsSpeedy|1226
 #182|@Bottios|1223
-#183|@pawnrobot|1216
+#183|@pawnrobot|1214
 #184|@DanerdBot|1207
 #185|@RSVMentor|1196
 #186|@Boom_Bot|1176
