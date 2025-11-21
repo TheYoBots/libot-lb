@@ -2,9 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2551
 #2|@RaspFish|2542
-#3|@GoblinAjedrezAI|2516
-#4|@MaggiChess16|2507
-#5|@Ghost_HunteR2998|2501
-#6|@PINEAPPLEMASK|2487
-#7|@DarkOnBot|2485
-#8|@OpeningsBot|2168
+#3|@Ghost_HunteR2998|2501
+#4|@DarkOnBot|2488
+#5|@PINEAPPLEMASK|2487
+#6|@varient-chess-bot1|2279
+#7|@OpeningsBot|2168

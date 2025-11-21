@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@mrchessmanager|2494
 #30|@FayEFish|2492
 #31|@TeamChelsie|2489
-#32|@PINEAPPLEMASK|2487
-#33|@DarkOnBot|2485
+#32|@DarkOnBot|2488
+#33|@PINEAPPLEMASK|2487
 #34|@Magnus-BOT|2479
 #35|@newengine2022|2473
 #36|@VEER-OMEGA-BOT|2472
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@NormalBulletBot|2291
 #72|@colinbot|2288
 #73|@YoBot_v2|2287
-#74|@varient-chess-bot1|2283
+#74|@varient-chess-bot1|2279
 #75|@AlfaBot|2278
 #76|@Mega_BOT|2264
 #77|@MalanChess|2261

@@ -176,10 +176,10 @@ Rank|Bot|Rating
 #174|@allvariants|1310
 #175|@NoTallkOnlyGames|1293
 #176|@Light_To_The_Rescue|1277
-#177|@pawnrobot|1273
-#178|@Sanjana_Kambala-BOT|1273
-#179|@TheLegendaryKnight|1272
-#180|@EstmileBot|1269
+#177|@Sanjana_Kambala-BOT|1273
+#178|@TheLegendaryKnight|1272
+#179|@EstmileBot|1269
+#180|@pawnrobot|1268
 #181|@Parth_Dhage_2|1258
 #182|@MyNameIsWhatLOL|1256
 #183|@SneakyBot21|1256

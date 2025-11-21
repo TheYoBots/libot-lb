@@ -145,8 +145,8 @@ Rank|Bot|Rating
 #143|@TESTBOT23|2000
 #144|@Zer0_Tw0|1992
 #145|@YoBot_v2|1984
-#146|@GarboBot|1981
-#147|@Virutor|1980
+#146|@Virutor|1980
+#147|@GarboBot|1977
 #148|@Bobby_Fishcer_Bot|1976
 #149|@CheckmateX1|1974
 #150|@matmoi|1972
