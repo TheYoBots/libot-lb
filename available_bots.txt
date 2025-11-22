@@ -2698,6 +2698,7 @@ slimiestsquid
 slipperiestseal
 slothengine
 slow-and-stupid
+slowmate_bot
 slvov-bot
 smallbrainpy
 smartieandyou
@@ -3366,4 +3367,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-slowmate_bot
