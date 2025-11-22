@@ -97,7 +97,7 @@ Rank|Bot|Rating
 #95|@Johnsun|2181
 #96|@HuxZero|2176
 #97|@AnUtterlyKarBot|2174
-#98|@OpeningsBot|2168
+#98|@OpeningsBot|2160
 #99|@knight_128|2144
 #100|@Kizburb|2126
 #101|@mc-king-098|2124
