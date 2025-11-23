@@ -2,11 +2,12 @@ Rank|Bot|Rating
 ---|---|---
 #1|@PINEAPPLEMASK|2481
 #2|@MaggiChess16|2420
-#3|@Ghost_HunteR2998|2397
+#3|@Ghost_HunteR2998|2398
 #4|@RaspFish|2364
 #5|@strain-on-veins|2347
 #6|@Bot1nokk|2290
 #7|@DarkOnBot|2277
 #8|@ElPeonElectrico|2242
-#9|@GoblinAjedrezAI|2221
+#9|@GoblinAjedrezAI|2218
 #10|@FayEFish|2213
+#11|@InvinxibleFlxsh|2034

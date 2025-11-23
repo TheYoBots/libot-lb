@@ -6,9 +6,9 @@ Rank|Bot|Rating
 #4|@Coolman2021|2757
 #5|@FireFishBOT|2726
 #6|@PepsiForAll|2699
-#7|@ttBOT|2584
-#8|@compchess2|2579
-#9|@Lili-ai|2570
+#7|@Lili-ai|2600
+#8|@ttBOT|2584
+#9|@compchess2|2579
 #10|@PINEAPPLEMASK|2481
 #11|@Nerubatskyi_Daniil_v|2471
 #12|@Endogenetic-Bot|2444
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@MaggiChess16|2420
 #15|@HIWIN1234|2412
 #16|@EmptikVariantsBot|2402
-#17|@Ghost_HunteR2998|2397
+#17|@Ghost_HunteR2998|2398
 #18|@EmptikBot|2378
 #19|@LoseisnotAvailablehe|2369
 #20|@NecroMindX|2367
@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@ElPeonElectrico|2242
 #38|@FairyTailRegimeBot|2235
 #39|@TacticalBot|2227
-#40|@GoblinAjedrezAI|2221
+#40|@GoblinAjedrezAI|2218
 #41|@Exogenetic-Bot|2214
 #42|@FayEFish|2213
 #43|@UltronBot|2199
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@Bot_AOOP11|2050
 #58|@Resolved-Bot|2045
 #59|@DrSmartBugs|2036
-#60|@InvinxibleFlxsh|2036
+#60|@InvinxibleFlxsh|2034
 #61|@YoBot_v2|2019
 #62|@ESC_BOT|2016
 #63|@lightspeed_bot|2010
