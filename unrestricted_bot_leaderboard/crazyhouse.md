@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@Yemmi-Yemmi|2305
 #39|@iplayonlyrandom|2282
 #40|@NormalBlitzBulletBot|2278
-#41|@RaspFish|2276
+#41|@RaspFish|2277
 #42|@FayEFish|2273
 #43|@MalanChess|2273
 #44|@BitExtender128|2272
