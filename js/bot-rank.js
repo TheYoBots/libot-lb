@@ -2,6 +2,7 @@
     var form = document.getElementById('botSearchForm');
     var input = document.getElementById('botSearch');
     var btn = document.getElementById('botSearchBtn');
+    var clearBtn = document.getElementById('botClear');
     var msg = document.getElementById('botMessage');
 
     var botsSet = null;
@@ -11,6 +12,37 @@
     function showMessage(text, isError){
         msg.textContent = text;
         msg.className = isError ? 'w3-text-red w3-margin-top' : 'w3-text-green w3-margin-top';
+    }
+
+    function updateClearVisibility(){
+        if(!clearBtn) return;
+        try{
+            clearBtn.hidden = !input.value.trim();
+        }catch(e){}
+    }
+
+    if(clearBtn){
+        clearBtn.addEventListener('click', function(e){
+            e && e.preventDefault();
+            input.value = '';
+            updateClearVisibility();
+            input.focus();
+            msg.textContent = '';
+            msg.className = '';
+        });
+    }
+    if(input){
+        input.addEventListener('input', updateClearVisibility);
+        input.addEventListener('keydown', function(e){
+            if(e.key === 'Escape' || e.key === 'Esc'){
+                input.value = '';
+                updateClearVisibility();
+                input.focus();
+                msg.textContent = '';
+                msg.className = '';
+            }
+        });
+        updateClearVisibility();
     }
 
     fetch('/available_bots.txt')
