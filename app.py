@@ -56,7 +56,6 @@ def serve_js(filename):
     else:
         return "Not found", 404
 
-
 @app.route('/css/<path:filename>')
 def serve_css(filename):
     safe_path = os.path.join(os.path.dirname(__file__), 'css', filename)
