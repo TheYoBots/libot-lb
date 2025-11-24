@@ -311,9 +311,9 @@ Rank|Bot|Rating
 #309|@LeelaNice|1520
 #310|@eubos|1518
 #311|@MistakeBOT|1515
-#312|@FelixLeonidovich|1505
-#313|@Chen_BOT|1500
-#314|@Cimille|1500
+#312|@Cimille|1509
+#313|@FelixLeonidovich|1505
+#314|@Chen_BOT|1500
 #315|@kylel4266_test|1500
 #316|@NiceToHitYou2000|1500
 #317|@GeraldBOT|1499
@@ -396,10 +396,10 @@ Rank|Bot|Rating
 #394|@Grand_MefBartu-BOT|1191
 #395|@TuroBot|1189
 #396|@BetaTree|1181
-#397|@sudobot_chess|1140
-#398|@ertugruldemir|1131
-#399|@Bot-31795|1127
-#400|@grandQ_AI|1117
+#397|@grandQ_AI|1167
+#398|@sudobot_chess|1140
+#399|@ertugruldemir|1131
+#400|@Bot-31795|1127
 #401|@szuwar8716|1116
 #402|@HCE_PUCT_MCTS_bot|1099
 #403|@AXWChessBot|1096

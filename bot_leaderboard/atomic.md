@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@tbhOnBot|2545
 #2|@ElPeonElectrico|2490
-#3|@MaggiChess16|2473
+#3|@MaggiChess16|2474
 #4|@is_BOSS|2446
 #5|@DarkOnBot|2398
 #6|@RaspFish|2372

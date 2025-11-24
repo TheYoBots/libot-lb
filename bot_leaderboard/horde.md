@@ -9,4 +9,3 @@ Rank|Bot|Rating
 #7|@ElPeonElectrico|2242
 #8|@GoblinAjedrezAI|2222
 #9|@FayEFish|2213
-#10|@InvinxibleFlxsh|2034
