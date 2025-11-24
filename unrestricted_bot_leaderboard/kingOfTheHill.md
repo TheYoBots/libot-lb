@@ -105,8 +105,8 @@ Rank|Bot|Rating
 #103|@relevantproblem|1857
 #104|@Botzer|1851
 #105|@B0T5_RU13|1835
-#106|@OpeningsBot|1834
-#107|@STockfishdestroyBot|1825
+#106|@STockfishdestroyBot|1825
+#107|@OpeningsBot|1814
 #108|@AldoGamer001_Bot|1813
 #109|@admin-bot|1809
 #110|@The-Fastest-Bot|1809
@@ -122,11 +122,11 @@ Rank|Bot|Rating
 #120|@clrsrc_lc0|1742
 #121|@K_Shi_Bot|1737
 #122|@natural-disaster|1726
-#123|@FairyTailRegimeBot|1705
-#124|@TTC-BOT_2|1703
-#125|@Viet_BOT|1701
-#126|@QuickLiquid|1689
-#127|@varient-chess-bot1|1677
+#123|@varient-chess-bot1|1719
+#124|@FairyTailRegimeBot|1705
+#125|@TTC-BOT_2|1703
+#126|@Viet_BOT|1701
+#127|@QuickLiquid|1689
 #128|@P-chessbot|1660
 #129|@SCP079|1660
 #130|@chessemkabot|1625
