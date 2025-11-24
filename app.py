@@ -56,6 +56,14 @@ def serve_js(filename):
     else:
         return "Not found", 404
 
+@app.route('/css/<path:filename>')
+def serve_css(filename):
+    safe_path = os.path.join(os.path.dirname(__file__), 'css', filename)
+    if os.path.exists(safe_path):
+        return send_file(safe_path)
+    else:
+        return "Not found", 404
+
 @app.route('/bot/<type_name>')
 def bot_type(type_name):
     if type_name in TYPES:
