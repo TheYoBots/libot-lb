@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@tbhOnBot|2535
+#1|@tbhOnBot|2525
 #2|@ElPeonElectrico|2490
-#3|@MaggiChess16|2473
-#4|@Ghost_HunteR2998|2471
-#5|@is_BOSS|2463
-#6|@DarkOnBot|2399
+#3|@is_BOSS|2475
+#4|@MaggiChess16|2473
+#5|@Ghost_HunteR2998|2470
+#6|@DarkOnBot|2394
 #7|@RaspFish|2372
 #8|@PINEAPPLEMASK|2365
 #9|@GoblinAjedrezAI|2338

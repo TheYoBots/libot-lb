@@ -1458,6 +1458,7 @@ indibot
 indusdragon
 inflames1996
 instantmover3000
+instinct_v4
 integralbot
 integralmathbot
 intelcorei7sf
@@ -2166,6 +2167,7 @@ notmorphy17-3
 notnatebot
 notropis
 novagcc
+novixxneural
 novixxse
 nowinforyoukid
 nucleargandhibot
@@ -3370,5 +3372,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-novixxneural
-instinct_v4
+knightlife-bot
+blackeventhorizon
