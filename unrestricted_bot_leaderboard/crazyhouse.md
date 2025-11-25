@@ -148,9 +148,9 @@ Rank|Bot|Rating
 #146|@Danielbot|1575
 #147|@BushyCamper|1563
 #148|@FairyTailRegimeBot|1558
-#149|@vidha-2009|1542
-#150|@DespacitoBot|1535
-#151|@varient-chess-bot1|1532
+#149|@varient-chess-bot1|1547
+#150|@vidha-2009|1542
+#151|@DespacitoBot|1535
 #152|@TheAwesomeBot|1527
 #153|@Botkingteam33|1525
 #154|@zipfile_chess-bot|1523
@@ -216,7 +216,7 @@ Rank|Bot|Rating
 #214|@heatseeker223|1191
 #215|@ChessPlayer1225|1183
 #216|@Jannik08_fan|1163
-#217|@pawnrobot|1163
+#217|@pawnrobot|1160
 #218|@BSergey11-BOT|1149
 #219|@K_Shi_Bot|1149
 #220|@TeamChelsie|1125

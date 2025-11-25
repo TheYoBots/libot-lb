@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@strain-on-veins|2953
+#1|@strain-on-veins|2954
 #2|@ToromBot|2891
 #3|@Ghost_HunteR2998|2863
 #4|@MEGA-NOOB-BOT|2859
@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@is_BOSS|2589
 #13|@tbhOnBot|2588
 #14|@GoblinAjedrezAI|2559
-#15|@varient-chess-bot1|2444
-#16|@anti-bot|2186
-#17|@NilatacBot|2170
+#15|@varient-chess-bot1|2439
+#16|@anti-bot|2207
+#17|@NilatacBot|2168
 #18|@CatNail|2133
 #19|@pawnrobot|1880

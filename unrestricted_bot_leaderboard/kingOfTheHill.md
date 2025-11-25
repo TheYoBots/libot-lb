@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@PowerOnBot|2195
 #41|@UnDisstoppableBot|2193
 #42|@Amrobotone|2184
-#43|@RaspFish|2176
+#43|@RaspFish|2178
 #44|@eNErGyOFbEiNGbOT|2166
 #45|@HuxZero|2163
 #46|@SF_Bot1nok|2159
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@clrsrc_lc0|1742
 #121|@K_Shi_Bot|1737
 #122|@natural-disaster|1726
-#123|@varient-chess-bot1|1719
+#123|@varient-chess-bot1|1715
 #124|@FairyTailRegimeBot|1705
 #125|@TTC-BOT_2|1703
 #126|@Viet_BOT|1701

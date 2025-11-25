@@ -76,6 +76,7 @@ aliabdelaalchess
 alice-cesarina
 alieknek
 alightbot
+aliooooooo444
 all_except_chess960
 allgames_bot
 allgamesbot
@@ -928,6 +929,7 @@ drawfish
 drawinone
 dream_bot
 drmeowmeow
+drsaeedking1
 drsmartbugs
 drunken-pipe-bomb
 drunkenmasterengine
@@ -1255,6 +1257,7 @@ graduallearning
 graduallylearning
 grail-bot
 grand-bot
+grand_mater_bot
 grand_mefbartu-bot
 grandchessbot
 grandmaplays
@@ -3367,6 +3370,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-grand_mater_bot
-drsaeedking1
-aliooooooo444
+novixxneural
+instinct_v4
