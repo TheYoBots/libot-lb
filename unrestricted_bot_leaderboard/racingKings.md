@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@lord-bot|2581
 #6|@Fairy_Belzedar|2559
 #7|@EmptikVariantsBot|2557
-#8|@ToromBot|2551
-#9|@RaspFish|2550
+#8|@RaspFish|2552
+#9|@ToromBot|2551
 #10|@FireFishBOT|2547
 #11|@NewChessEngine-ai|2545
 #12|@LudwigBOT|2536
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
-#77|@varient-chess-bot1|2234
+#77|@varient-chess-bot1|2233
 #78|@is_BOSS|2226
 #79|@ResoluteBot|2225
 #80|@XXIstCentury|2225

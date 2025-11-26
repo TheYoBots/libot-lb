@@ -47,10 +47,10 @@ Rank|Bot|Rating
 #45|@CocopikachuBOT|2274
 #46|@TheMatrix2025|2272
 #47|@vrnts_colinbot|2266
-#48|@HIWIN1234|2261
-#49|@DarkOnBot|2259
-#50|@YoBot_v2|2257
-#51|@RaspFish|2254
+#48|@RaspFish|2264
+#49|@HIWIN1234|2261
+#50|@DarkOnBot|2259
+#51|@YoBot_v2|2257
 #52|@Vinh_VariantsBot|2215
 #53|@Kizburb|2214
 #54|@xiang-qi|2207
