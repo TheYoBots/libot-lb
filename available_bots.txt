@@ -331,6 +331,7 @@ bkrivibot
 black_knight2006
 black_knight_ngalam
 blackcatengine
+blackeventhorizon
 blackholenn
 blacking-64
 blackknightrisesup
@@ -1623,6 +1624,7 @@ knight-to-c-sharp
 knight_128
 knight_bot
 knightlesskid
+knightlife-bot
 knightlight_engine
 knightowlbot
 knightsarmour
@@ -3372,5 +3374,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-knightlife-bot
-blackeventhorizon

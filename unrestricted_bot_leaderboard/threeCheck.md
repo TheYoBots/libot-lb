@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@ESC_BOT|2476
 #22|@ElPeonElectrico|2475
 #23|@Less_of_a_threat|2469
-#24|@NewChessEngine-ai|2463
+#24|@NewChessEngine-ai|2466
 #25|@NormalBlitzBulletBot|2463
 #26|@ttBOT|2461
 #27|@TheMatrix2029|2448

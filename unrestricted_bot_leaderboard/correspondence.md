@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@pawn_git|2676
 #8|@H-Zero|2650
 #9|@pawnocchio_bot|2623
-#10|@LeelaZero-UK|2585
-#11|@ChamberiAjedrez|2581
+#10|@ChamberiAjedrez|2586
+#11|@LeelaZero-UK|2585
 #12|@Alexnajax_Fan|2549
 #13|@SacrificialSage|2519
 #14|@peonasesino71|2512
@@ -311,7 +311,7 @@ Rank|Bot|Rating
 #309|@LeelaNice|1520
 #310|@eubos|1518
 #311|@MistakeBOT|1515
-#312|@Cimille|1509
+#312|@Cimille|1505
 #313|@FelixLeonidovich|1505
 #314|@Chen_BOT|1500
 #315|@kylel4266_test|1500
@@ -323,10 +323,10 @@ Rank|Bot|Rating
 #321|@Stockfish_i7|1490
 #322|@CosmicEbony|1485
 #323|@Jwsus|1485
-#324|@katzebot|1485
-#325|@PolyBOT|1481
-#326|@HerathHerath|1477
-#327|@YagizTurkiyeBOT|1476
+#324|@PolyBOT|1481
+#325|@HerathHerath|1477
+#326|@YagizTurkiyeBOT|1476
+#327|@katzebot|1475
 #328|@KnightOwlBot|1473
 #329|@MRT23|1469
 #330|@TheSystem_Bot|1466
@@ -396,7 +396,7 @@ Rank|Bot|Rating
 #394|@Grand_MefBartu-BOT|1191
 #395|@TuroBot|1189
 #396|@BetaTree|1181
-#397|@grandQ_AI|1158
+#397|@grandQ_AI|1154
 #398|@sudobot_chess|1140
 #399|@ertugruldemir|1131
 #400|@Bot-31795|1127
