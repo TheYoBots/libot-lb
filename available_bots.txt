@@ -800,6 +800,7 @@ crazyfishnn
 creaticachessbot
 creativecomputer
 creativerobot
+cremi_bot
 crepusculum
 crisubot
 crocodile5
@@ -3305,6 +3306,7 @@ yakup_0616
 yann-adam
 yasmarin1
 yebot
+yellow_anxiety7
 yellowflash-x
 yellowflash_v2
 yellowjackets_bot
@@ -3374,5 +3376,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-cremi_bot
-yellow_anxiety7
+rosaliaxadrez
+restframe_bot

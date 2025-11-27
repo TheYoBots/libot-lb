@@ -16,15 +16,15 @@ Rank|Bot|Rating
 #14|@strain-on-veins|2533
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
-#17|@tbhOnBot|2524
-#18|@Yebot|2518
+#17|@Yebot|2518
+#18|@tbhOnBot|2515
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
 #21|@FayEFish|2506
 #22|@ibep|2498
 #23|@HIWIN1234|2494
-#24|@ElPeonElectrico|2490
-#25|@is_BOSS|2486
+#24|@is_BOSS|2492
+#25|@ElPeonElectrico|2490
 #26|@firstrobot|2485
 #27|@ShredderGrizzly|2479
 #28|@NormalBulletBot|2474
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@eNErGyOFbEiNGbOT|2431
 #35|@ToromBot|2425
 #36|@Fairy-Stockfish|2402
-#37|@DarkOnBot|2394
+#37|@DarkOnBot|2393
 #38|@Bullet_bot_0526|2391
 #39|@abhisun_bot|2384
 #40|@RaspFish|2374
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@lord-bot|2349
 #50|@Viet-BOT|2349
 #51|@NormalBlitzBulletBot|2347
-#52|@GoblinAjedrezAI|2342
+#52|@GoblinAjedrezAI|2344
 #53|@HyperLitikBOT|2341
 #54|@LudwigBOT|2339
 #55|@newengine2022|2337
