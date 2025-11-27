@@ -3,7 +3,7 @@ import os
 
 app = Flask(__name__)
 
-TYPES = [
+TYPES = frozenset({
     'bullet',
     'blitz',
     'rapid',
@@ -17,7 +17,7 @@ TYPES = [
     'kingOfTheHill',
     'racingKings',
     'threeCheck'
-]
+})
 
 @app.route('/')
 @app.route('/home')

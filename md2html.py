@@ -44,37 +44,43 @@ footer_styles = """
 </footer>
 """
 
+# Dictionary for filename display name mapping - O(1) lookup instead of multiple conditionals
+FILENAME_DISPLAY_MAP = {
+    "chess960.md": "chess 960.md",
+    "threeCheck.md": "three-check.md",
+    "kingOfTheHill.md": "king of the hill.md",
+    "racingKings.md": "racing kings.md"
+}
+
+# Pre-compile regex patterns for better performance
+SEPARATOR_RE = re.compile(r'^\s*-+\s*\|\s*-+\s*\|\s*-+')
+CELL_SPLIT_RE = re.compile(r'\s*\|\s*')
+
 def generate_h1_tag(filename):
     title = os.path.splitext(filename)[0].capitalize()
-    h1_tag = f'<h1>{title} Leaderboard</h1>'
-    return h1_tag
+    return f'<h1>{title} Leaderboard</h1>'
 
 def markdown_table_to_html(markdown_table):
     raw_rows = [r.strip() for r in markdown_table.split('\n') if r.strip()]
-    rows = []
-    sep_re = re.compile(r'^\s*-+\s*\|\s*-+\s*\|\s*-+')
-    for r in raw_rows:
-        if sep_re.search(r):
-            continue
-        rows.append(r)
+    rows = [r for r in raw_rows if not SEPARATOR_RE.search(r)]
 
     if not rows:
         return '<table class="w3-table w3-striped"></table>'
 
-    html_table = ['<table class="w3-table w3-striped">']
+    html_parts = ['<table class="w3-table w3-striped">']
 
-    header_cells = re.split(r'\s*\|\s*', rows[0])
-    html_table.append('  <thead>')
-    html_table.append('    <tr>')
+    header_cells = CELL_SPLIT_RE.split(rows[0])
+    html_parts.append('  <thead>')
+    html_parts.append('    <tr>')
     for cell in header_cells:
-        html_table.append(f'      <th>{cell}</th>')
-    html_table.append('    </tr>')
-    html_table.append('  </thead>')
+        html_parts.append(f'      <th>{cell}</th>')
+    html_parts.append('    </tr>')
+    html_parts.append('  </thead>')
 
-    html_table.append('  <tbody>')
+    html_parts.append('  <tbody>')
     for row in rows[1:]:
-        cells = re.split(r'\s*\|\s*', row)
-        html_table.append('    <tr>')
+        cells = CELL_SPLIT_RE.split(row)
+        html_parts.append('    <tr>')
         for cell in cells:
             cell = cell.strip()
             if cell.startswith('@'):
@@ -82,12 +88,12 @@ def markdown_table_to_html(markdown_table):
                 cell_html = f'<td><a href="https://lichess.org/@/{username}">{cell}</a></td>'
             else:
                 cell_html = f'<td>{cell}</td>'
-            html_table.append(f'      {cell_html}')
-        html_table.append('    </tr>')
-    html_table.append('  </tbody>')
+            html_parts.append(f'      {cell_html}')
+        html_parts.append('    </tr>')
+    html_parts.append('  </tbody>')
 
-    html_table.append('</table>')
-    return '\n'.join(html_table)
+    html_parts.append('</table>')
+    return '\n'.join(html_parts)
 
 directories = ['bot_leaderboard', 'unrestricted_bot_leaderboard']
 
@@ -95,17 +101,9 @@ for directory in directories:
     for filename in os.listdir(directory):
         if filename.endswith('.md'):
             with open(os.path.join(directory, filename), 'r') as md_file:
-                if filename not in ['chess960.md', 'threeCheck.md', 'kingOfTheHill.md', 'racingKings.md']:
-                    f = filename
-                elif filename in ["chess960.md"]:
-                    f = "chess 960.md"
-                elif filename in ["threeCheck.md"]:
-                    f = "three-check.md"
-                elif filename in ["kingOfTheHill.md"]:
-                    f = "king of the hill.md"
-                else:
-                    f = "racing kings.md"
-                h1_tag = generate_h1_tag(f)
+                # Use dictionary lookup with default fallback
+                display_filename = FILENAME_DISPLAY_MAP.get(filename, filename)
+                h1_tag = generate_h1_tag(display_filename)
 
                 markdown_table = md_file.read()
                 html_table = markdown_table_to_html(markdown_table)

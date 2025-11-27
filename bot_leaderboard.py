@@ -26,6 +26,9 @@ TYPES = [
     'threeCheck'
 ]
 
+# Use frozenset for O(1) membership checks in get_bot_leaderboard
+STANDARD_VARIANTS = frozenset({'bullet', 'blitz', 'rapid', 'classical'})
+
 
 def get_file_name(type, dir):
     return os.path.join(dir, f"{type}.md")
@@ -65,21 +68,20 @@ def get_available_bots():
     available_bots = set()
     try:
         with open('available_bots.txt', 'r') as f:
-            available_bots = []
-            for bot in f.readlines():
-                available_bots.append(bot.strip())
-            available_bots = sorted(available_bots)
+            available_bots = {bot.strip() for bot in f if bot.strip()}
         with urllib.request.urlopen('https://lichess.org/api/bot/online') as online_bots:
             for i in online_bots:
                 d = orjson.loads(i)
-                if d['id'] not in available_bots:
-                    available_bots.append(d['id'])
-                    print(f"Adding {d['id']} to available bots list")
+                bot_id = d['id']
+                if bot_id not in available_bots:
+                    available_bots.add(bot_id)
+                    print(f"Adding {bot_id} to available bots list")
     except Exception as e:
         print(e)
+    # Sort only once when writing to file
+    sorted_bots = sorted(available_bots)
     with open('available_bots.txt', 'w') as f:
-        for bot in available_bots:
-            f.write(bot + '\n')
+        f.write('\n'.join(sorted_bots) + '\n')
     print("Updated List of Bots")
 
 
@@ -112,23 +114,27 @@ def get_all_bot_ratings():
     print("Updated bot_leaderboard.json file.")
 
 
-def get_bot_leaderboard(type, unrestricted=False):
+def get_bot_leaderboard(type, unrestricted=False, bot_ratings=None):
 #   banned_bots = get_banned_bots()
 
-    file_path = os.path.join(os.path.dirname(__file__), 'bot_leaderboard.json')
-    with open(file_path, 'r') as f:
-        bot_ratings = json.load(f)
+    # Reuse bot_ratings if passed to avoid redundant file reads
+    if bot_ratings is None:
+        file_path = os.path.join(os.path.dirname(__file__), 'bot_leaderboard.json')
+        with open(file_path, 'r') as f:
+            bot_ratings = json.load(f)
 
     user_arr = []
     count = 1
+    now = datetime.datetime.now(datetime.UTC)
+    one_week = datetime.timedelta(days=7)
+    is_standard_variant = type in STANDARD_VARIANTS
 
     for d in bot_ratings:
         perfs = d['perfs'].get(type)
         if perfs is not None:
             result = [d['username'], perfs.get('rating')]
             print(f'BOT {result[0]}: {result[1]} in {type}.')
-            now = datetime.datetime.now(datetime.UTC)
-            d['seenAt'] = datetime.datetime.fromtimestamp(d['seenAt'] / 1000, datetime.UTC)
+            seen_at = datetime.datetime.fromtimestamp(d['seenAt'] / 1000, datetime.UTC)
             if d.get('disabled', False) is True:
                 print("Account Closed")
             elif d.get('tosViolation', False) is True:
@@ -146,11 +152,11 @@ def get_bot_leaderboard(type, unrestricted=False):
                         print("Violated ToS")
                     elif perfs.get('games', 0) <= 50:
                         print("Too few games played")
-                    elif type in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 75:
+                    elif is_standard_variant and perfs.get('rd', 0) >= 75:
                         print("High rating deviation")
-                    elif type not in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 65:
+                    elif not is_standard_variant and perfs.get('rd', 0) >= 65:
                         print("High rating deviation")
-                    elif (now - d['seenAt']) > datetime.timedelta(days=7):
+                    elif (now - seen_at) > one_week:
                         print("Not active for 1 week")
 #                   elif d['id'] in banned_bots:
 #                       print("Banned Bot")
@@ -183,9 +189,15 @@ def main():
     try:
         get_available_bots()
         get_all_bot_ratings()
+        
+        # Load bot ratings once and reuse for all leaderboard generation
+        file_path = os.path.join(os.path.dirname(__file__), 'bot_leaderboard.json')
+        with open(file_path, 'r') as f:
+            bot_ratings = json.load(f)
+        
         for i in TYPES:
-            get_bot_leaderboard(i, unrestricted=True)
-            get_bot_leaderboard(i)
+            get_bot_leaderboard(i, unrestricted=True, bot_ratings=bot_ratings)
+            get_bot_leaderboard(i, bot_ratings=bot_ratings)
     except KeyboardInterrupt:
         sys.exit()
 
