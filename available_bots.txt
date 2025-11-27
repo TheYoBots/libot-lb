@@ -2489,6 +2489,7 @@ requinbot
 resolutebot
 resolved-bot
 resolved_bot
+restframe_bot
 reti_bot
 rewasabot
 rexbot1
@@ -2532,6 +2533,7 @@ rookierobot
 rookrusty
 root2323
 rootengine
+rosaliaxadrez
 rostigerritter
 rosybot
 roundmoundofrebounds
@@ -3376,5 +3378,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-rosaliaxadrez
-restframe_bot
+omegabot
+legendaryrobot

@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2835
 #4|@MaggiChess16|2806
-#5|@Magicianrobot|2755
+#5|@Magicianrobot|2760
 #6|@Moment-That-Inspires|2716
 #7|@pawn_git|2683
 #8|@H-Zero|2650
@@ -145,8 +145,8 @@ Rank|Bot|Rating
 #143|@TESTBOT23|2000
 #144|@Zer0_Tw0|1992
 #145|@YoBot_v2|1984
-#146|@GarboBot|1981
-#147|@Virutor|1980
+#146|@Virutor|1980
+#147|@GarboBot|1979
 #148|@Bobby_Fishcer_Bot|1976
 #149|@CheckmateX1|1974
 #150|@matmoi|1972
@@ -317,7 +317,7 @@ Rank|Bot|Rating
 #315|@NiceToHitYou2000|1500
 #316|@GeraldBOT|1499
 #317|@ZokBot|1498
-#318|@Cimille|1495
+#318|@Cimille|1494
 #319|@melsh_bot|1494
 #320|@akshadlawanibot|1490
 #321|@Stockfish_i7|1490
