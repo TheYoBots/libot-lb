@@ -195,7 +195,7 @@
             var fetchPromises = TYPES.map(function(type) {
                 return fetchRankForType(type, usernameLower).then(function(rank) {
                     return {
-                        display: DISPLAY[type] || type,
+                        display: DISPLAY[type],
                         rank: rank
                     };
                 });
