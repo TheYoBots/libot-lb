@@ -6,6 +6,6 @@ Rank|Bot|Rating
 #4|@strain-on-veins|2344
 #5|@DarkOnBot|2315
 #6|@tbhOnBot|2295
-#7|@Bot1nokk|2248
-#8|@GoblinAjedrezAI|2229
+#7|@GoblinAjedrezAI|2241
+#8|@Bot1nokk|2239
 #9|@FayEFish|2208

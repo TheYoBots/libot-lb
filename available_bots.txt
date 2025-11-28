@@ -1764,6 +1764,7 @@ leella-stockfish
 legend_engine
 legendary-ai
 legendarybot1
+legendaryrobot
 legendbot1
 legendg21
 legiontower
@@ -2213,6 +2214,7 @@ om_the_great_bot
 omblecavalier
 omblecavalierpp
 omega-pro
+omegabot
 omelettechessengine
 omerbot
 omnibot
@@ -3378,5 +3380,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-omegabot
-legendaryrobot
