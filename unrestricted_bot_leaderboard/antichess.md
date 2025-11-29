@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@strain-on-veins|2959
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2891
-#8|@Ghost_HunteR2998|2880
+#8|@Ghost_HunteR2998|2881
 #9|@Coolman2021|2879
 #10|@TheMatrix2029|2866
 #11|@PINEAPPLEMASK|2863
@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@Vinh_VariantsBot|2561
 #58|@chessbot2880|2560
 #59|@MMC_HUANGBAI|2559
-#60|@GoblinAjedrezAI|2556
-#61|@Bullet_bot_0526|2555
+#60|@Bullet_bot_0526|2555
+#61|@GoblinAjedrezAI|2554
 #62|@Xerus_1|2553
 #63|@PetersTestBot|2549
 #64|@tbhOnBot|2547
@@ -152,11 +152,11 @@ Rank|Bot|Rating
 #150|@AnUtterlyKarBot|2134
 #151|@XXIstCentury|2131
 #152|@NewChessEngine-ai|2130
-#153|@P-chessbot|2120
-#154|@Stockfish-MEDIUM|2117
-#155|@PyChessBot|2102
-#156|@ew-bot|2100
-#157|@CatNail|2099
+#153|@CatNail|2125
+#154|@P-chessbot|2120
+#155|@Stockfish-MEDIUM|2117
+#156|@PyChessBot|2102
+#157|@ew-bot|2100
 #158|@TurkiyeHogwartsBOT|2099
 #159|@ZamuChess|2049
 #160|@Botzer|2020

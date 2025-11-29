@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@ToromBot|2442
 #14|@HIWIN1234|2412
 #15|@EmptikVariantsBot|2402
-#16|@Ghost_HunteR2998|2379
-#17|@EmptikBot|2378
-#18|@RaspFish|2374
+#16|@EmptikBot|2378
+#17|@RaspFish|2374
+#18|@Ghost_HunteR2998|2371
 #19|@LoseisnotAvailablehe|2369
 #20|@SF_Bot1nok|2366
 #21|@lord-bot|2362
@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@LudwigBOT|2256
 #34|@CloudBot_v2|2252
 #35|@ElPeonElectrico|2242
-#36|@FairyTailRegimeBot|2235
-#37|@GoblinAjedrezAI|2233
+#36|@GoblinAjedrezAI|2241
+#37|@FairyTailRegimeBot|2235
 #38|@TacticalBot|2227
 #39|@UltronBot|2199
 #40|@FayEFish|2197

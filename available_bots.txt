@@ -321,6 +321,7 @@ bionic_x
 bird_xx
 bishop-bot
 bishopedcoaching
+bit-fish8
 bitarena
 bitbitbot
 bitbybyte
@@ -1783,6 +1784,7 @@ less_than_one
 liboto
 libott
 lichapibot
+lichslayerbot
 lifishbot
 light_to_the_rescue
 lightning_chess_1
@@ -3302,6 +3304,7 @@ xxgodxx
 xxistcentury
 xxproychessx1
 xxsaturnxx
+xxx_another_xxx
 xxxtryandtryxxx
 yacebot
 yachbot
@@ -3380,6 +3383,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-xxx_another_xxx
-bit-fish8
-lichslayerbot
+windmolen_bot
+rovanz
