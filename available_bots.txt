@@ -2542,6 +2542,7 @@ rostigerritter
 rosybot
 roundmoundofrebounds
 routerbot
+rovanz
 rowbot-stockfish
 roxy_migurdia16
 royalleela
@@ -3260,6 +3261,7 @@ willbochessengine
 williamengine
 williamgasaad
 winchess_bot
+windmolen_bot
 windowsi5bot
 winner4forever
 winterbot
@@ -3383,5 +3385,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-windmolen_bot
-rovanz

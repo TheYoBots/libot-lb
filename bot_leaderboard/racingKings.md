@@ -1,5 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2552
-#2|@varient-chess-bot1|2233
-#3|@OpeningsBot|2194
+#1|@RaspFish|2553
+#2|@Ghost_HunteR2998|2525
+#3|@MaggiChess16|2513
+#4|@PINEAPPLEMASK|2492
+#5|@varient-chess-bot1|2233
+#6|@OpeningsBot|2194

@@ -132,8 +132,8 @@ Rank|Bot|Rating
 #130|@Botkingteam33|1633
 #131|@jasans_bot|1621
 #132|@newengine2022|1588
-#133|@DavidsGuterBot|1581
-#134|@knight_128|1563
+#133|@knight_128|1563
+#134|@DavidsGuterBot|1559
 #135|@Alehkine_cat|1531
 #136|@TrashBot|1519
 #137|@relevantproblem|1514
