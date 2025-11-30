@@ -23,9 +23,9 @@ Rank|Bot|Rating
 #21|@lord-bot|2362
 #22|@Hyper-Stockfish|2358
 #23|@Bullet_bot_0526|2353
-#24|@strain-on-veins|2339
-#25|@DarkOnBot|2297
-#26|@AlfaBot|2293
+#24|@strain-on-veins|2344
+#25|@AlfaBot|2293
+#26|@DarkOnBot|2292
 #27|@Bot1nokk|2290
 #28|@Fairy-Stockfish|2289
 #29|@Kizburb|2276
@@ -38,9 +38,9 @@ Rank|Bot|Rating
 #36|@FairyTailRegimeBot|2235
 #37|@GoblinAjedrezAI|2227
 #38|@TacticalBot|2227
-#39|@UltronBot|2199
-#40|@FayEFish|2185
-#41|@NewChessEngine-ai|2166
+#39|@NewChessEngine-ai|2215
+#40|@UltronBot|2199
+#41|@FayEFish|2185
 #42|@Trumpfor2O2O|2162
 #43|@ResoluteBot|2155
 #44|@Karpov_bot|2145

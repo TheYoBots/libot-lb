@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@PINEAPPLEMASK|2450
 #3|@SF_Bot1nok|2396
 #4|@Ghost_HunteR2998|2382
-#5|@strain-on-veins|2339
-#6|@DarkOnBot|2297
+#5|@strain-on-veins|2344
+#6|@DarkOnBot|2292
 #7|@Bot1nokk|2290
 #8|@tbhOnBot|2253
 #9|@GoblinAjedrezAI|2227

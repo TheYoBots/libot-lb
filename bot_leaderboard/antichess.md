@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@strain-on-veins|2958
-#2|@ToromBot|2891
+#1|@strain-on-veins|2957
+#2|@ToromBot|2893
 #3|@Ghost_HunteR2998|2877
 #4|@PINEAPPLEMASK|2851
 #5|@ElPeonElectrico|2710
@@ -9,13 +9,13 @@ Rank|Bot|Rating
 #7|@SF_Bot1nok|2640
 #8|@FayEFish|2632
 #9|@Lili-ai|2622
-#10|@DarkOnBot|2605
-#11|@RaspFish|2600
+#10|@RaspFish|2608
+#11|@DarkOnBot|2605
 #12|@MaggiChess16|2576
 #13|@GoblinAjedrezAI|2553
 #14|@tbhOnBot|2550
-#15|@varient-chess-bot1|2432
-#16|@anti-bot|2187
+#15|@varient-chess-bot1|2427
+#16|@anti-bot|2167
 #17|@NilatacBot|2167
 #18|@ew-bot|2100
 #19|@CatNail|2099
