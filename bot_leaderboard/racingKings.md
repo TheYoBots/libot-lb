@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@BalloonBot|2655
+#1|@BalloonBot|2672
 #2|@RaspFish|2553
 #3|@Ghost_HunteR2998|2525
 #4|@MaggiChess16|2513

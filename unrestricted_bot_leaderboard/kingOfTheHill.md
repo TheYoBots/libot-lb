@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@TTC-BOT_2|1703
 #125|@Viet_BOT|1701
 #126|@QuickLiquid|1689
-#127|@varient-chess-bot1|1680
+#127|@varient-chess-bot1|1689
 #128|@P-chessbot|1660
 #129|@SCP079|1660
 #130|@chessemkabot|1625
@@ -177,9 +177,9 @@ Rank|Bot|Rating
 #175|@HiddeNL|1242
 #176|@knight_128|1233
 #177|@MyNameIsSpeedy|1226
-#178|@pawnrobot|1224
-#179|@Bottios|1223
-#180|@DanerdBot|1212
+#178|@Bottios|1223
+#179|@pawnrobot|1221
+#180|@DanerdBot|1210
 #181|@RSVMentor|1196
 #182|@Boom_Bot|1176
 #183|@TrashBot|1168

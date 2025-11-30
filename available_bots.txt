@@ -255,6 +255,7 @@ bakasbot
 balancefish
 balbla
 ballin-bot
+balloonbot
 bananaaaaaaaaa_test
 bao-chessvn
 barbotte
@@ -3385,4 +3386,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-balloonbot
+edwardkillick
+chessenginelc0
+chessenginestockfish

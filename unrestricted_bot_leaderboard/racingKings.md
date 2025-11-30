@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NewChessEngine-ai|2829
+#1|@NewChessEngine-ai|2824
 #2|@ttBOT|2716
 #3|@VariantsBot|2703
-#4|@BalloonBot|2655
+#4|@BalloonBot|2672
 #5|@SkyBlaster|2603
 #6|@Viet-AI|2600
 #7|@lord-bot|2581
