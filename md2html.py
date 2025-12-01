@@ -9,7 +9,7 @@ css_styles = """
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
   <link rel="stylesheet" href="/css/site.css">
-  <link rel="icon" href="https://raw.githubusercontent.com/TheYoBots/libot-lb/master/images/favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="https://raw.githubusercontent.com/TheYoBots/libot-lb/master/static/images/favicon.ico" type="image/x-icon" />
 </head>
 """
 

@@ -22,19 +22,19 @@ TYPES = [
 @app.route('/')
 @app.route('/home')
 def welcome_page():
-    return send_file('html/Home.html')
+    return send_file('static/html/Home.html')
 
 @app.route('/bot')
 def bot():
-    return send_file('html/Bot.html')
+    return send_file('static/html/Bot.html')
 
 @app.route('/unrestricted')
 def unrestricted():
-    return send_file('html/Unrestricted.html')
+    return send_file('static/html/Unrestricted.html')
 
 @app.route('/bot-rank')
 def botsearch():
-    return send_file('html/BotRank.html')
+    return send_file('static/html/BotRank.html')
 
 @app.route('/available_bots.txt')
 def available_bots_file():
@@ -50,7 +50,7 @@ def serve_bot_leaderboard_md(filename):
 
 @app.route('/js/<path:filename>')
 def serve_js(filename):
-    safe_path = os.path.join(os.path.dirname(__file__), 'js', filename)
+    safe_path = os.path.join(os.path.dirname(__file__), 'static', 'js', filename)
     if os.path.exists(safe_path):
         return send_file(safe_path)
     else:
@@ -58,7 +58,7 @@ def serve_js(filename):
 
 @app.route('/css/<path:filename>')
 def serve_css(filename):
-    safe_path = os.path.join(os.path.dirname(__file__), 'css', filename)
+    safe_path = os.path.join(os.path.dirname(__file__), 'static', 'css', filename)
     if os.path.exists(safe_path):
         return send_file(safe_path)
     else:
