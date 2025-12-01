@@ -2,7 +2,7 @@ import urllib.request
 import orjson
 import sys
 import lichess.api
-from lichess.format import SINGLE_PGN
+from lichess.format import JSON
 import json
 import os
 import datetime
@@ -51,15 +51,25 @@ def get_banned_bots():
 def get_user_last_rated(username, type):
     now = datetime.datetime.now(datetime.UTC)
     since = now - datetime.timedelta(days=7)
-    since = int(since.timestamp() * 1000)
-    user = lichess.api.user_games(username, max=1, rated='true', perfType=type, since=since, format=SINGLE_PGN, auth=TOKEN)
-    match = re.search(r'\[UTCDate "(.*?)"\]', user)
-    if match:
-        return match.group(1)
+    user = lichess.api.user_games(username, max=1, rated='true', perfType=type, format=JSON, auth=TOKEN)
+    games = list(user)
+    if not games:
+        return "2000.01.01"
+    game = games[0]
+
+    created = game.get("createdAt")
+    if created is None:
+        print(f"BOT {username}: Game has no createdAt field")
+        return "2000.01.01"
+
+    game_date = datetime.datetime.fromtimestamp(created / 1000, tz=datetime.UTC)
+    game_date_str = game_date.strftime("%Y.%m.%d")
+
+    if game_date >= since:
+        return game_date_str
     else:
         print(f"BOT {username}: No rated games for 1 week")
-        return "2000.01.01"  # random default date
-
+        return "2000.01.01" # random default date
 
 def get_available_bots():
     available_bots = set()

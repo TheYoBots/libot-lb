@@ -8,15 +8,15 @@ TYPES = [
     'blitz',
     'rapid',
     'classical',
-    'correspondence',
+    'chess960',
     'antichess',
     'atomic',
-    'chess960',
     'crazyhouse',
     'horde',
     'kingOfTheHill',
     'racingKings',
-    'threeCheck'
+    'threeCheck',
+    'correspondence'
 ]
 
 @app.route('/')

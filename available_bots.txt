@@ -666,6 +666,7 @@ chesscraftbot
 chessdotcpp
 chesseftal
 chessemkabot
+chessenginefairysf
 chessenginelc0
 chessenginestockfish
 chesserclonebot
@@ -3391,4 +3392,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chessenginefairysf
+firedragonbot
