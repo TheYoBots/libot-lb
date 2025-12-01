@@ -827,6 +827,7 @@ cutesnowman
 cva728_bot_1
 cxrmt
 cybercatanut
+cybersoleil
 czech-bot
 czech-bot-turbo
 czesc-bot
@@ -2398,6 +2399,7 @@ pseudonoixe
 psychedelicatomic
 ptit-biscuit
 puffinbot
+pumpkin-bot
 pure-eman
 purplehunter
 purwani
@@ -3389,5 +3391,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-pumpkin-bot
-cybersoleil
+chessenginefairysf

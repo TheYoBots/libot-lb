@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NewChessEngine-ai|2824
+#1|@NewChessEngine-ai|2833
 #2|@ttBOT|2716
 #3|@VariantsBot|2703
-#4|@BalloonBot|2672
+#4|@BalloonBot|2668
 #5|@SkyBlaster|2603
 #6|@Viet-AI|2600
 #7|@lord-bot|2581
@@ -71,9 +71,9 @@ Rank|Bot|Rating
 #69|@colinbot|2288
 #70|@YoBot_v2|2287
 #71|@AlfaBot|2278
-#72|@Mega_BOT|2264
-#73|@MalanChess|2261
-#74|@varient-chess-bot1|2260
+#72|@varient-chess-bot1|2265
+#73|@Mega_BOT|2264
+#74|@MalanChess|2261
 #75|@chesshyperbot|2259
 #76|@ESC_BOT|2253
 #77|@relevantproblem|2251
