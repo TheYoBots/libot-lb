@@ -1121,6 +1121,7 @@ fire8n_unoffical
 fireball-64
 firebolt194
 firebot_pl
+firedragonbot
 fireengine
 firefighter-the-b0t
 firefishbot
@@ -3392,4 +3393,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-firedragonbot
