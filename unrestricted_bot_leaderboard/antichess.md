@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@strain-on-veins|2942
+#6|@strain-on-veins|2943
 #7|@ToromBot|2903
 #8|@Ghost_HunteR2998|2883
 #9|@Coolman2021|2879
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@colinbot|2389
 #103|@AldoGamer001_Bot|2376
 #104|@Resolved-Bot|2369
-#105|@HakoAI|2368
+#105|@HakoAI|2366
 #106|@Trumpfor2O2O|2366
 #107|@HuxZero|2361
 #108|@Less_of_a_threat|2357
@@ -144,9 +144,9 @@ Rank|Bot|Rating
 #142|@HerokuHasnotplay|2196
 #143|@OpeningsBot|2192
 #144|@Lucror|2178
-#145|@anti-bot|2177
-#146|@GegeneBOT|2177
-#147|@NewChessEngine-ai|2177
+#145|@GegeneBOT|2177
+#146|@NewChessEngine-ai|2177
+#147|@anti-bot|2176
 #148|@NilatacBot|2168
 #149|@DeepFriedFish|2165
 #150|@lightspeed_bot|2152
@@ -155,10 +155,10 @@ Rank|Bot|Rating
 #153|@XXIstCentury|2131
 #154|@P-chessbot|2120
 #155|@Stockfish-MEDIUM|2117
-#156|@PyChessBot|2102
-#157|@ew-bot|2100
-#158|@TurkiyeHogwartsBOT|2099
-#159|@CatNail|2088
+#156|@CatNail|2116
+#157|@PyChessBot|2102
+#158|@ew-bot|2100
+#159|@TurkiyeHogwartsBOT|2099
 #160|@ZamuChess|2049
 #161|@Botzer|2020
 #162|@Jussicas|2019

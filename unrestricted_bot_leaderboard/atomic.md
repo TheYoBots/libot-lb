@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@Stockfish-MEDIUM|2366
 #44|@Resolved-Bot|2363
 #45|@PINEAPPLEMASK|2361
-#46|@CloudBot_v2|2357
-#47|@GoblinAjedrezAI|2357
+#46|@GoblinAjedrezAI|2358
+#47|@CloudBot_v2|2357
 #48|@faith_bot|2353
 #49|@Lila-Stockfish|2350
 #50|@lord-bot|2349
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@Lili-Variants|1926
 #158|@hjhjhjhjhjhj|1923
 #159|@FyChess2|1921
-#160|@HakoAI|1910
+#160|@HakoAI|1904
 #161|@B4dF1sh|1903
 #162|@Isotopebot|1900
 #163|@Just-a-random-bot|1898

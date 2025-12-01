@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@Lili-ai|2572
 #10|@Nerubatskyi_Daniil_v|2471
 #11|@MaggiChess16|2470
-#12|@ToromBot|2442
+#12|@ToromBot|2452
 #13|@PINEAPPLEMASK|2436
 #14|@HIWIN1234|2412
 #15|@SF_Bot1nok|2403
@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@lord-bot|2362
 #22|@Hyper-Stockfish|2358
 #23|@Bullet_bot_0526|2353
-#24|@strain-on-veins|2351
+#24|@strain-on-veins|2347
 #25|@Bot1nokk|2313
 #26|@AlfaBot|2293
 #27|@Fairy-Stockfish|2289

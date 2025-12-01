@@ -666,6 +666,8 @@ chesscraftbot
 chessdotcpp
 chesseftal
 chessemkabot
+chessenginelc0
+chessenginestockfish
 chesserclonebot
 chessfbot
 chessfybot
@@ -971,6 +973,7 @@ edgard_loomis
 edixonbot
 edobot
 edspbot
+edwardkillick
 eftalbot
 egebakken_bot
 egeytek
@@ -3386,6 +3389,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-edwardkillick
-chessenginelc0
-chessenginestockfish
+pumpkin-bot
+cybersoleil

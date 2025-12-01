@@ -9,5 +9,5 @@ Rank|Bot|Rating
 #7|@DarkOnBot|2387
 #8|@RaspFish|2384
 #9|@PINEAPPLEMASK|2361
-#10|@GoblinAjedrezAI|2357
+#10|@GoblinAjedrezAI|2358
 #11|@pawnrobot|1306

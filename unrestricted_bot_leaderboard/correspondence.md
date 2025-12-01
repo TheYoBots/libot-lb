@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@pawn_git|2683
 #8|@H-Zero|2650
 #9|@pawnocchio_bot|2623
-#10|@ChamberiAjedrez|2586
+#10|@ChamberiAjedrez|2591
 #11|@LeelaZero-UK|2585
 #12|@Alexnajax_Fan|2549
 #13|@SacrificialSage|2519
