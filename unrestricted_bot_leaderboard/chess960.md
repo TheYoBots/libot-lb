@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@AlPhAbEtACeta|2467
 #31|@VEER-OMEGA-BOT|2465
 #32|@Bharat_royals|2464
-#33|@IndiBot|2462
-#34|@is_BOSS|2460
+#33|@is_BOSS|2463
+#34|@IndiBot|2462
 #35|@AlwaysPlayMystery|2459
 #36|@mayhem23111|2459
 #37|@YoBot_v2|2459
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Viridithas|2410
 #63|@rascal1|2409
 #64|@ararimbelami|2402
-#65|@RaspFish|2402
+#65|@RaspFish|2398
 #66|@colinbot|2394
 #67|@TheFreshman1902|2391
 #68|@lord-bot|2389
@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@ssehCrevolC|2331
 #93|@Kizbuurb|2328
 #94|@AlfaBot|2327
-#95|@GoblinAjedrezAI|2323
+#95|@GoblinAjedrezAI|2325
 #96|@HiarcsFish|2319
 #97|@SylvestreC|2314
 #98|@jomfish_bot|2309
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@Phoenix_Engine|2293
 #106|@Anonymus-Bot|2288
 #107|@Puztel-bot|2285
-#108|@Monastedrez|2279
+#108|@Monastedrez|2282
 #109|@AMemeBot|2277
 #110|@Novixxse|2277
 #111|@linklake1532|2274
@@ -181,12 +181,12 @@ Rank|Bot|Rating
 #179|@FireFishBOT|2140
 #180|@cheeseNet|2139
 #181|@SFbot1|2137
-#182|@EmptikVariantsBot|2132
-#183|@pawn_git|2132
-#184|@Botgravity|2128
-#185|@F1R3BOT|2128
-#186|@Lc0Test|2128
-#187|@Lynx_BOT|2127
+#182|@pawn_git|2136
+#183|@EmptikVariantsBot|2132
+#184|@Lynx_BOT|2130
+#185|@Botgravity|2128
+#186|@F1R3BOT|2128
+#187|@Lc0Test|2128
 #188|@BetterAnalyze|2125
 #189|@Caissa-NNUE|2124
 #190|@Pseudo-1|2119
@@ -435,7 +435,7 @@ Rank|Bot|Rating
 #433|@jumbot|1545
 #434|@Less_of_a_threat|1542
 #435|@Just-a-random-bot|1541
-#436|@AconcaguaBot|1535
+#436|@AconcaguaBot|1540
 #437|@CocopikachuBOT|1535
 #438|@Variantenkoning|1534
 #439|@anarchychess-bot|1532

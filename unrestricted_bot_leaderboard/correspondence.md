@@ -397,8 +397,8 @@ Rank|Bot|Rating
 #395|@Grand_MefBartu-BOT|1191
 #396|@TuroBot|1189
 #397|@BetaTree|1181
-#398|@grandQ_AI|1142
-#399|@sudobot_chess|1140
+#398|@sudobot_chess|1140
+#399|@grandQ_AI|1138
 #400|@ertugruldemir|1131
 #401|@Bot-31795|1127
 #402|@szuwar8716|1116
