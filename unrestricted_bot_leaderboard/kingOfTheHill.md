@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@TTC-BOT_2|1703
 #125|@Viet_BOT|1701
 #126|@QuickLiquid|1689
-#127|@varient-chess-bot1|1689
+#127|@varient-chess-bot1|1684
 #128|@P-chessbot|1660
 #129|@SCP079|1660
 #130|@chessemkabot|1625

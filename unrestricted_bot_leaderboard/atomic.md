@@ -48,11 +48,11 @@ Rank|Bot|Rating
 #46|@Resolved-Bot|2363
 #47|@CloudBot_v2|2357
 #48|@faith_bot|2353
-#49|@Lila-Stockfish|2350
-#50|@lord-bot|2349
-#51|@Viet-BOT|2349
-#52|@NormalBlitzBulletBot|2347
-#53|@MEGA-NOOB-BOT|2342
+#49|@MEGA-NOOB-BOT|2353
+#50|@Lila-Stockfish|2350
+#51|@lord-bot|2349
+#52|@Viet-BOT|2349
+#53|@NormalBlitzBulletBot|2347
 #54|@HyperLitikBOT|2341
 #55|@LudwigBOT|2339
 #56|@newengine2022|2337
@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@Isotopebot|1900
 #162|@HakoAI|1898
 #163|@Just-a-random-bot|1898
-#164|@varient-chess-bot1|1898
+#164|@varient-chess-bot1|1894
 #165|@AX2XB2|1893
 #166|@TheAwesomeBot|1891
 #167|@FairyTailRegimeBot|1882

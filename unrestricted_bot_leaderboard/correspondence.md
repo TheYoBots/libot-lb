@@ -144,10 +144,10 @@ Rank|Bot|Rating
 #142|@zeekat|2004
 #143|@honzovy-sachy|2002
 #144|@TESTBOT23|2000
-#145|@Zer0_Tw0|1992
-#146|@YoBot_v2|1984
-#147|@Virutor|1980
-#148|@GarboBot|1979
+#145|@GarboBot|1992
+#146|@Zer0_Tw0|1992
+#147|@YoBot_v2|1984
+#148|@Virutor|1980
 #149|@Bobby_Fishcer_Bot|1976
 #150|@CheckmateX1|1974
 #151|@matmoi|1972

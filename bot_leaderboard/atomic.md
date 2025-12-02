@@ -4,10 +4,9 @@ Rank|Bot|Rating
 #2|@is_BOSS|2491
 #3|@tbhOnBot|2478
 #4|@MaggiChess16|2471
-#5|@Ghost_HunteR2998|2470
-#6|@ToromBot|2417
-#7|@RaspFish|2391
-#8|@DarkOnBot|2387
-#9|@GoblinAjedrezAI|2369
-#10|@PINEAPPLEMASK|2366
-#11|@pawnrobot|1306
+#5|@ToromBot|2417
+#6|@RaspFish|2391
+#7|@DarkOnBot|2387
+#8|@GoblinAjedrezAI|2369
+#9|@PINEAPPLEMASK|2366
+#10|@pawnrobot|1306
