@@ -10,9 +10,9 @@ Rank|Bot|Rating
 #8|@compchess2|2579
 #9|@Lili-ai|2572
 #10|@Nerubatskyi_Daniil_v|2471
-#11|@MaggiChess16|2461
+#11|@MaggiChess16|2457
 #12|@ToromBot|2452
-#13|@PINEAPPLEMASK|2448
+#13|@PINEAPPLEMASK|2440
 #14|@HIWIN1234|2412
 #15|@SF_Bot1nok|2403
 #16|@EmptikVariantsBot|2402
@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@LoseisnotAvailablehe|2369
 #21|@lord-bot|2362
 #22|@Hyper-Stockfish|2358
-#23|@Bullet_bot_0526|2353
-#24|@strain-on-veins|2339
+#23|@strain-on-veins|2358
+#24|@Bullet_bot_0526|2353
 #25|@Bot1nokk|2313
 #26|@AlfaBot|2293
 #27|@Fairy-Stockfish|2289
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@CloudBot_v2|2252
 #35|@ElPeonElectrico|2242
 #36|@FairyTailRegimeBot|2235
-#37|@GoblinAjedrezAI|2235
+#37|@GoblinAjedrezAI|2227
 #38|@TacticalBot|2227
 #39|@UltronBot|2199
 #40|@FayEFish|2179

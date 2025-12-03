@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@NotNateBot|1731
 #122|@Crepusculum|1724
 #123|@SUMEETTHEPRO|1708
-#124|@Yemmi-Yemmi|1702
-#125|@Groot123456|1695
+#124|@Groot123456|1703
+#125|@Yemmi-Yemmi|1702
 #126|@clueless-bot|1685
 #127|@NormalBulletBot|1657
 #128|@the_checkmating_bot|1643
