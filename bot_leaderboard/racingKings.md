@@ -5,4 +5,6 @@ Rank|Bot|Rating
 #3|@Ghost_HunteR2998|2525
 #4|@MaggiChess16|2513
 #5|@PINEAPPLEMASK|2492
-#6|@varient-chess-bot1|2265
+#6|@DarkOnBot|2490
+#7|@varient-chess-bot1|2265
+#8|@OpeningsBot|2203
