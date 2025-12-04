@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@GoblinAjedrezAI|2574
 #13|@tbhOnBot|2540
 #14|@varient-chess-bot1|2406
-#15|@anti-bot|2214
+#15|@anti-bot|2208
 #16|@NilatacBot|2175
-#17|@CatNail|2143
+#17|@CatNail|2129
 #18|@ew-bot|2100
 #19|@pawnrobot|1878

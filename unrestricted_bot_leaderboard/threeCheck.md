@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@ToromBot|2435
 #31|@PINEAPPLEMASK|2419
 #32|@tbhOnBot|2404
-#33|@MaggiChess16|2377
+#33|@MaggiChess16|2379
 #34|@GoblinAjedrezAI|2374
 #35|@Viet_BOT|2367
 #36|@SF_Bot1nok|2338
@@ -97,8 +97,8 @@ Rank|Bot|Rating
 #95|@PetersTestBot|1935
 #96|@Lila-Stockfish|1917
 #97|@SkyBlaster|1913
-#98|@OpeningsBot|1909
-#99|@HyperLitikBOT|1908
+#98|@HyperLitikBOT|1908
+#99|@OpeningsBot|1907
 #100|@PowerOnBot|1894
 #101|@CloudBOT|1892
 #102|@BetaZ|1889

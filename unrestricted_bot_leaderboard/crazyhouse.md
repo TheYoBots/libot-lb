@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@Less_of_a_threat|2025
 #80|@DeepFriedFish|2020
 #81|@GCNbyFayE|2019
-#82|@SF_Bot1nok|1999
+#82|@SF_Bot1nok|2004
 #83|@Bullet_bot_0526|1987
 #84|@Magnus-BOT|1986
 #85|@Stockfish-MEDIUM|1983
@@ -137,8 +137,8 @@ Rank|Bot|Rating
 #135|@MistakeBOT|1655
 #136|@Isaacwb_BOT|1640
 #137|@SriLankaChess|1623
-#138|@OpeningsBot|1617
-#139|@Viet_BOT|1617
+#138|@Viet_BOT|1617
+#139|@OpeningsBot|1613
 #140|@david9426_bot|1611
 #141|@CloudBotZero|1599
 #142|@PetersTestBot|1599
