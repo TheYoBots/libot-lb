@@ -7,4 +7,4 @@ Rank|Bot|Rating
 #5|@PINEAPPLEMASK|2492
 #6|@DarkOnBot|2490
 #7|@varient-chess-bot1|2265
-#8|@OpeningsBot|2203
+#8|@OpeningsBot|2192

@@ -296,11 +296,11 @@ Rank|Bot|Rating
 #294|@Chess_Bot-Child|1584
 #295|@FASTCHESSBOT|1584
 #296|@Boom_Bot|1582
-#297|@Wahoo_Bot|1575
-#298|@Genetic_Chess_Bot|1571
-#299|@knight_BOT|1566
-#300|@likeawizard-bot|1565
-#301|@katzebot|1562
+#297|@katzebot|1577
+#298|@Wahoo_Bot|1575
+#299|@Genetic_Chess_Bot|1571
+#300|@knight_BOT|1566
+#301|@likeawizard-bot|1565
 #302|@Cizme|1549
 #303|@LegendG21|1546
 #304|@LilDoctorJank|1546
@@ -312,8 +312,8 @@ Rank|Bot|Rating
 #310|@entebot|1523
 #311|@LeelaNice|1520
 #312|@eubos|1518
-#313|@MistakeBOT|1515
-#314|@Cimille|1507
+#313|@Cimille|1517
+#314|@MistakeBOT|1515
 #315|@FelixLeonidovich|1505
 #316|@Chen_BOT|1500
 #317|@kylel4266_test|1500

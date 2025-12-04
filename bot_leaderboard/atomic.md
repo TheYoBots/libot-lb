@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@SF_Bot1nok|2500
 #2|@is_BOSS|2485
-#3|@tbhOnBot|2472
-#4|@MaggiChess16|2465
+#3|@MaggiChess16|2465
+#4|@tbhOnBot|2465
 #5|@ToromBot|2417
 #6|@DarkOnBot|2396
 #7|@RaspFish|2391
