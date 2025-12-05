@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2835
 #4|@MaggiChess16|2806
-#5|@Magicianrobot|2760
+#5|@Magicianrobot|2762
 #6|@Moment-That-Inspires|2716
 #7|@pawn_git|2683
 #8|@H-Zero|2650
@@ -61,7 +61,7 @@ Rank|Bot|Rating
 #59|@ttBOT|2229
 #60|@Bot_of_jotim431|2227
 #61|@Tundra4|2227
-#62|@OpeningsBot|2222
+#62|@OpeningsBot|2220
 #63|@Abuziddin-BOT|2219
 #64|@BalloonBot|2204
 #65|@AbhijithHISBot|2201
@@ -209,10 +209,10 @@ Rank|Bot|Rating
 #207|@starker_bot|1766
 #208|@Johan201023_Twitch|1764
 #209|@bryan_12345|1762
-#210|@LogosEngine|1760
-#211|@Bot413522|1758
-#212|@EDSPBOT|1758
-#213|@Jibbby|1756
+#210|@Jibbby|1762
+#211|@LogosEngine|1760
+#212|@Bot413522|1758
+#213|@EDSPBOT|1758
 #214|@RoundMoundOfRebounds|1755
 #215|@AngryOfficePanda|1745
 #216|@wardnbot|1744

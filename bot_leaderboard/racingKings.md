@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@BalloonBot|2668
-#2|@RaspFish|2553
-#3|@Ghost_HunteR2998|2525
-#4|@MaggiChess16|2513
-#5|@PINEAPPLEMASK|2492
+#2|@PINEAPPLEMASK|2577
+#3|@RaspFish|2553
+#4|@Ghost_HunteR2998|2528
+#5|@MaggiChess16|2513
 #6|@DarkOnBot|2490
-#7|@varient-chess-bot1|2265
-#8|@OpeningsBot|2192
+#7|@varient-chess-bot1|2253
+#8|@OpeningsBot|2191
