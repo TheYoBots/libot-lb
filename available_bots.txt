@@ -598,6 +598,7 @@ cenizos
 centaur01
 centaur_unarmedlad
 cerebellumoriginal
+cesium119
 cgetacticmode
 ch4rl3s
 chai-chessbot
@@ -3394,4 +3395,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-cesium119
+jembok
