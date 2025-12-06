@@ -309,8 +309,8 @@ Rank|Bot|Rating
 #307|@XXIstCentury|1534
 #308|@lolchessbot69|1527
 #309|@maia1|1527
-#310|@Cimille|1525
-#311|@entebot|1523
+#310|@entebot|1523
+#311|@Cimille|1522
 #312|@LeelaNice|1520
 #313|@eubos|1518
 #314|@MistakeBOT|1515

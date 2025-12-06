@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@ttBOT|2716
 #2|@VariantsBot|2703
 #3|@NewChessEngine-ai|2702
-#4|@BalloonBot|2668
+#4|@BalloonBot|2669
 #5|@SkyBlaster|2603
 #6|@Viet-AI|2600
 #7|@lord-bot|2581

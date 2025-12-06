@@ -294,6 +294,7 @@ berserk12-x
 berserkengine
 berserkrandommover
 best_bot_king_bot
+bestbotever
 bestchessbot
 bestjsengine
 beststockfish16
@@ -514,6 +515,7 @@ bread_engine
 breadeater_engine
 breeze-hot
 breeze_bot
+bretemabot
 brettcomputer
 bright_vega
 bristol_amogus
@@ -3396,5 +3398,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bretemabot
-bestbotever
+geniusbotready
+knightandy-bot
+codemeout
