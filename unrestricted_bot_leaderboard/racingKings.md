@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NewChessEngine-ai|2720
-#2|@ttBOT|2716
-#3|@VariantsBot|2703
+#1|@ttBOT|2716
+#2|@VariantsBot|2703
+#3|@NewChessEngine-ai|2702
 #4|@BalloonBot|2668
 #5|@SkyBlaster|2603
 #6|@Viet-AI|2600
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@MaggiChess16|2513
 #23|@SCP079|2513
 #24|@tbhOnBot|2509
-#25|@SF_Bot1nok|2498
-#26|@Lili-ai|2497
+#25|@Lili-ai|2504
+#26|@SF_Bot1nok|2498
 #27|@TacticalBot|2497
 #28|@Dark_evil_bot|2496
 #29|@ElPeonElectrico|2494
@@ -90,8 +90,8 @@ Rank|Bot|Rating
 #88|@higuyuu67776|2200
 #89|@Nobody11892|2200
 #90|@Trainspotter|2200
-#91|@OpeningsBot|2191
-#92|@Hyper-Stockfish|2189
+#91|@Hyper-Stockfish|2189
+#92|@OpeningsBot|2189
 #93|@Johnsun|2181
 #94|@HuxZero|2176
 #95|@AnUtterlyKarBot|2174

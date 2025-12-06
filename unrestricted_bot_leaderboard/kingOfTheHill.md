@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@PowerOnBot|2195
 #40|@UnDisstoppableBot|2193
 #41|@Amrobotone|2184
-#42|@RaspFish|2178
+#42|@RaspFish|2180
 #43|@eNErGyOFbEiNGbOT|2166
 #44|@HuxZero|2163
 #45|@SF_Bot1nok|2159
@@ -125,7 +125,7 @@ Rank|Bot|Rating
 #123|@TTC-BOT_2|1703
 #124|@Viet_BOT|1701
 #125|@QuickLiquid|1689
-#126|@varient-chess-bot1|1684
+#126|@varient-chess-bot1|1681
 #127|@P-chessbot|1660
 #128|@SCP079|1660
 #129|@chessemkabot|1625

@@ -15,6 +15,6 @@ Rank|Bot|Rating
 #13|@varient-chess-bot1|2406
 #14|@anti-bot|2207
 #15|@NilatacBot|2196
-#16|@CatNail|2138
+#16|@CatNail|2115
 #17|@ew-bot|2104
-#18|@pawnrobot|1878
+#18|@pawnrobot|1876

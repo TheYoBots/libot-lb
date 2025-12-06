@@ -59,9 +59,9 @@ Rank|Bot|Rating
 #57|@DrSmartBugs|2230
 #58|@Jobabot|2229
 #59|@ttBOT|2229
-#60|@Bot_of_jotim431|2227
-#61|@Tundra4|2227
-#62|@OpeningsBot|2220
+#60|@OpeningsBot|2228
+#61|@Bot_of_jotim431|2227
+#62|@Tundra4|2227
 #63|@Abuziddin-BOT|2219
 #64|@BalloonBot|2204
 #65|@AbhijithHISBot|2201
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@honzovy-sachy|2002
 #144|@TESTBOT23|2000
 #145|@Zer0_Tw0|1992
-#146|@GarboBot|1989
+#146|@GarboBot|1985
 #147|@YoBot_v2|1984
 #148|@Virutor|1980
 #149|@Bobby_Fishcer_Bot|1976
@@ -209,7 +209,7 @@ Rank|Bot|Rating
 #207|@starker_bot|1766
 #208|@Johan201023_Twitch|1764
 #209|@bryan_12345|1762
-#210|@Jibbby|1762
+#210|@Jibbby|1760
 #211|@LogosEngine|1760
 #212|@Bot413522|1758
 #213|@EDSPBOT|1758
@@ -307,9 +307,9 @@ Rank|Bot|Rating
 #305|@maia9|1545
 #306|@DragonflyBOT|1535
 #307|@XXIstCentury|1534
-#308|@Cimille|1530
-#309|@lolchessbot69|1527
-#310|@maia1|1527
+#308|@lolchessbot69|1527
+#309|@maia1|1527
+#310|@Cimille|1525
 #311|@entebot|1523
 #312|@LeelaNice|1520
 #313|@eubos|1518
