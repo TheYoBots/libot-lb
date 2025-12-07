@@ -7,4 +7,4 @@ Rank|Bot|Rating
 #5|@RaspFish|2528
 #6|@DarkOnBot|2490
 #7|@varient-chess-bot1|2253
-#8|@OpeningsBot|2189
+#8|@OpeningsBot|2170

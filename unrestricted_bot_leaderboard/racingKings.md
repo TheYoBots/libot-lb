@@ -91,10 +91,10 @@ Rank|Bot|Rating
 #89|@Nobody11892|2200
 #90|@Trainspotter|2200
 #91|@Hyper-Stockfish|2189
-#92|@OpeningsBot|2189
-#93|@Johnsun|2181
-#94|@HuxZero|2176
-#95|@AnUtterlyKarBot|2174
+#92|@Johnsun|2181
+#93|@HuxZero|2176
+#94|@AnUtterlyKarBot|2174
+#95|@OpeningsBot|2170
 #96|@knight_128|2144
 #97|@Kizburb|2126
 #98|@mc-king-098|2124

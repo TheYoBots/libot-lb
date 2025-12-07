@@ -2765,6 +2765,7 @@ spirit_crusherii
 spiritofthenewyear
 spitfirebot
 spotlightbot
+spyros1bot
 square-grass
 squared-chess
 sri_pro_player
@@ -3401,4 +3402,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-spyros1bot
+suniferia
