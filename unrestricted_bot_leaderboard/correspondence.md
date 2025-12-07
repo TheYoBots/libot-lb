@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2946
-#2|@Grzechu86|2852
-#3|@AjedrezChamberi|2835
+#2|@AjedrezChamberi|2852
+#3|@Grzechu86|2852
 #4|@MaggiChess16|2806
 #5|@Magicianrobot|2762
 #6|@Moment-That-Inspires|2716
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@honzovy-sachy|2002
 #144|@TESTBOT23|2000
 #145|@Zer0_Tw0|1992
-#146|@GarboBot|1985
+#146|@GarboBot|1990
 #147|@YoBot_v2|1984
 #148|@Virutor|1980
 #149|@Bobby_Fishcer_Bot|1976

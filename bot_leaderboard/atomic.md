@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@SF_Bot1nok|2500
-#2|@is_BOSS|2487
-#3|@Ghost_HunteR2998|2472
-#4|@MaggiChess16|2467
+#2|@is_BOSS|2478
+#3|@MaggiChess16|2474
+#4|@Ghost_HunteR2998|2472
 #5|@tbhOnBot|2460
 #6|@ToromBot|2417
 #7|@RaspFish|2399
 #8|@DarkOnBot|2396
-#9|@GoblinAjedrezAI|2384
+#9|@GoblinAjedrezAI|2383
 #10|@PINEAPPLEMASK|2379
 #11|@pawnrobot|1293

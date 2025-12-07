@@ -4,6 +4,7 @@ Rank|Bot|Rating
 #2|@BalloonBot|2669
 #3|@PINEAPPLEMASK|2577
 #4|@Ghost_HunteR2998|2528
-#5|@DarkOnBot|2490
-#6|@varient-chess-bot1|2253
-#7|@OpeningsBot|2189
+#5|@RaspFish|2528
+#6|@DarkOnBot|2490
+#7|@varient-chess-bot1|2253
+#8|@OpeningsBot|2189
