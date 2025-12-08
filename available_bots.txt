@@ -2880,6 +2880,7 @@ sun_bird
 sunfish-c
 sunfish-engine
 sunfish_rs
+suniferia
 sunrise-reflections
 sunstone_bot
 super_sus
@@ -3402,4 +3403,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-suniferia
+aetherbot

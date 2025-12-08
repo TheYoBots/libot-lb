@@ -2,3 +2,4 @@ Rank|Bot|Rating
 ---|---|---
 #1|@PINEAPPLEMASK|2272
 #2|@DarkOnBot|2252
+#3|@pawnrobot|1220
