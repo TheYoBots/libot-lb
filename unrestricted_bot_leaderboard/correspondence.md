@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2946
-#2|@AjedrezChamberi|2872
+#1|@fibonachi|2947
+#2|@AjedrezChamberi|2873
 #3|@Grzechu86|2852
 #4|@MaggiChess16|2806
 #5|@Magicianrobot|2762
@@ -311,9 +311,9 @@ Rank|Bot|Rating
 #309|@maia1|1527
 #310|@entebot|1523
 #311|@LeelaNice|1520
-#312|@Cimille|1518
-#313|@eubos|1518
-#314|@MistakeBOT|1515
+#312|@eubos|1518
+#313|@MistakeBOT|1515
+#314|@Cimille|1514
 #315|@FelixLeonidovich|1505
 #316|@Chen_BOT|1500
 #317|@kylel4266_test|1500

@@ -26,6 +26,7 @@ admonitor
 ae_test
 aebroadusbotter
 aeternusmaster
+aetherbot
 africaata
 agamed2007
 aggrobot
@@ -3403,4 +3404,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-aetherbot
