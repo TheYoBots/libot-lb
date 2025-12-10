@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@SF_Bot1nok|2494
-#2|@is_BOSS|2489
+#1|@is_BOSS|2494
+#2|@SF_Bot1nok|2494
 #3|@tbhOnBot|2453
 #4|@RaspFish|2409
 #5|@DarkOnBot|2390

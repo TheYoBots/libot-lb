@@ -70,9 +70,9 @@ Rank|Bot|Rating
 #68|@Xerus_1|2070
 #69|@ROBOT_RANDEER2007|2059
 #70|@Official_bot|2041
-#71|@BalloonBot|2037
-#72|@Resolved-Bot|2026
-#73|@SacrificialSage|2026
+#71|@Resolved-Bot|2026
+#72|@SacrificialSage|2026
+#73|@BalloonBot|2017
 #74|@varient-chess-bot1|2004
 #75|@firstrobot|2003
 #76|@Hyper-Stockfish|1986
@@ -91,8 +91,8 @@ Rank|Bot|Rating
 #89|@PetersTestBot|1935
 #90|@Lila-Stockfish|1917
 #91|@SkyBlaster|1913
-#92|@HyperLitikBOT|1908
-#93|@OpeningsBot|1905
+#92|@OpeningsBot|1910
+#93|@HyperLitikBOT|1908
 #94|@PowerOnBot|1894
 #95|@CloudBOT|1892
 #96|@BetaZ|1889

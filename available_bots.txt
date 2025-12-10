@@ -1,6 +1,7 @@
 a1928371870982730982
 a5a7-chess-bot
 abcbot
+abdcebot
 abhijithhisbot
 abhinav-bot
 abhisun_bot
@@ -1217,6 +1218,7 @@ geemc
 gegenebot
 geminiai
 genericbot
+genesis1bot
 genetic_chess_bot
 gengochan
 geniusbot
@@ -3404,5 +3406,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-genesis1bot
-abdcebot
+bam_doctabka
+botbotbotbotbotrobot

@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@EmptikBot|2510
 #19|@ibep|2498
 #20|@HIWIN1234|2494
-#21|@SF_Bot1nok|2494
-#22|@ElPeonElectrico|2490
-#23|@is_BOSS|2489
+#21|@is_BOSS|2494
+#22|@SF_Bot1nok|2494
+#23|@ElPeonElectrico|2490
 #24|@firstrobot|2485
 #25|@ShredderGrizzly|2479
 #26|@FayEFish|2477
@@ -31,9 +31,9 @@ Rank|Bot|Rating
 #29|@tbhOnBot|2453
 #30|@PepsiForAll|2448
 #31|@eNErGyOFbEiNGbOT|2431
-#32|@MEGA-NOOB-BOT|2424
-#33|@ToromBot|2417
-#34|@RaspFish|2409
+#32|@ToromBot|2417
+#33|@RaspFish|2409
+#34|@MEGA-NOOB-BOT|2406
 #35|@Fairy-Stockfish|2402
 #36|@Bullet_bot_0526|2391
 #37|@DarkOnBot|2390
@@ -177,7 +177,7 @@ Rank|Bot|Rating
 #175|@CloudBotZero|1837
 #176|@CHESS1000BOT|1829
 #177|@Storm_Shadow2012|1825
-#178|@OpeningsBot|1818
+#178|@OpeningsBot|1817
 #179|@ReallyCrazyBOT|1816
 #180|@Sternenhimmel10|1811
 #181|@fairy-vvrr|1808
