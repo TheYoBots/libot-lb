@@ -258,6 +258,7 @@ balancefish
 balbla
 ballin-bot
 balloonbot
+bam_doctabka
 bananaaaaaaaaa_test
 bao-chessvn
 barbotte
@@ -451,6 +452,7 @@ botalexgrandmaster
 botalexm
 botalexmi
 botalexnc
+botbotbotbotbotrobot
 botdefoin
 botdefointesting
 boteagleeye2021
@@ -3406,5 +3408,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bam_doctabka
-botbotbotbotbotrobot
+stockfish5_3100elo

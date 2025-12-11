@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2947
-#2|@AjedrezChamberi|2873
-#3|@Grzechu86|2852
+#2|@Grzechu86|2852
+#3|@AjedrezChamberi|2835
 #4|@Moment-That-Inspires|2722
-#5|@Magicianrobot|2698
+#5|@Magicianrobot|2713
 #6|@pawn_git|2684
 #7|@H-Zero|2650
 #8|@pawnocchio_bot|2623
@@ -139,8 +139,8 @@ Rank|Bot|Rating
 #137|@MalanChess|2020
 #138|@RoyalLeela|2014
 #139|@SchachProg|2010
-#140|@GarboBot|2009
-#141|@ElPeonElectrico|2004
+#140|@ElPeonElectrico|2004
+#141|@GarboBot|2004
 #142|@zeekat|2004
 #143|@honzovy-sachy|2002
 #144|@TESTBOT23|2000
