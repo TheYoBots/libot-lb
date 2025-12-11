@@ -2818,6 +2818,7 @@ stockfish16_2023
 stockfish1node
 stockfish2021
 stockfish224
+stockfish5_3100elo
 stockfish9-fullpower
 stockfish_13-1
 stockfish_dev
@@ -3408,4 +3409,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-stockfish5_3100elo

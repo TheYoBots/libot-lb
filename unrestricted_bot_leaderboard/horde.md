@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@Nerubatskyi_Daniil_v|2471
 #12|@Bot1nokk|2416
 #13|@HIWIN1234|2412
-#14|@EmptikVariantsBot|2402
-#15|@SF_Bot1nok|2400
+#14|@SF_Bot1nok|2403
+#15|@EmptikVariantsBot|2402
 #16|@BOT_Stockfish13|2383
 #17|@EmptikBot|2378
 #18|@LoseisnotAvailablehe|2369
@@ -36,11 +36,11 @@ Rank|Bot|Rating
 #34|@ElPeonElectrico|2242
 #35|@FairyTailRegimeBot|2235
 #36|@TacticalBot|2227
-#37|@bot1e|2211
-#38|@FayEFish|2200
-#39|@UltronBot|2199
-#40|@GoblinAjedrezAI|2192
-#41|@abdcebot|2165
+#37|@abdcebot|2225
+#38|@bot1e|2223
+#39|@FayEFish|2215
+#40|@UltronBot|2199
+#41|@GoblinAjedrezAI|2171
 #42|@Trumpfor2O2O|2162
 #43|@ResoluteBot|2155
 #44|@Karpov_bot|2145
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@bestbotever|1551
 #120|@SybBot|1548
 #121|@AldoGamer001_Bot|1542
-#122|@OpeningsBot|1541
+#122|@OpeningsBot|1540
 #123|@PyChessBot|1525
 #124|@Just-a-random-bot|1524
 #125|@mephisto-chess|1500
