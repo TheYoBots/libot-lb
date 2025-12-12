@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@RaspFish|2331
 #6|@eNErGyOFbEiNGbOT|2326
 #7|@Alexnajax_Fan|2316
-#8|@DarkOnBot|2301
+#8|@DarkOnBot|2302
 #9|@tbhOnBot|2289
 #10|@FayEFish|2215
-#11|@GoblinAjedrezAI|2171
+#11|@GoblinAjedrezAI|2183
 #12|@Zimbabwean_chessbot|2073

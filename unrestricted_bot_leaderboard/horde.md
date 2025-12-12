@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@RaspFish|2331
 #23|@eNErGyOFbEiNGbOT|2326
 #24|@Alexnajax_Fan|2316
-#25|@DarkOnBot|2301
+#25|@DarkOnBot|2302
 #26|@AlfaBot|2293
 #27|@Fairy-Stockfish|2289
 #28|@tbhOnBot|2289
@@ -36,11 +36,11 @@ Rank|Bot|Rating
 #34|@ElPeonElectrico|2242
 #35|@FairyTailRegimeBot|2235
 #36|@TacticalBot|2227
-#37|@abdcebot|2225
-#38|@bot1e|2223
-#39|@FayEFish|2215
-#40|@UltronBot|2199
-#41|@GoblinAjedrezAI|2171
+#37|@bot1e|2217
+#38|@FayEFish|2215
+#39|@UltronBot|2199
+#40|@abdcebot|2189
+#41|@GoblinAjedrezAI|2183
 #42|@Trumpfor2O2O|2162
 #43|@ResoluteBot|2155
 #44|@Karpov_bot|2145
