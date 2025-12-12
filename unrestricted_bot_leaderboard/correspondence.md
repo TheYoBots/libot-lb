@@ -318,8 +318,8 @@ Rank|Bot|Rating
 #316|@kylel4266_test|1500
 #317|@NiceToHitYou2000|1500
 #318|@GeraldBOT|1499
-#319|@Cimille|1498
-#320|@ZokBot|1498
+#319|@ZokBot|1498
+#320|@Cimille|1494
 #321|@melsh_bot|1494
 #322|@akshadlawanibot|1490
 #323|@Stockfish_i7|1490

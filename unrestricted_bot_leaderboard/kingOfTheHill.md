@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@HIWIN1234|2268
 #25|@Bobby_Fischer_BOT|2267
 #26|@lord-bot|2258
-#27|@DarkOnBot|2252
+#27|@DarkOnBot|2253
 #28|@YoBot_v2|2242
 #29|@ResoluteBot|2233
 #30|@ttBOT|2230
@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@AldoGamer001_Bot|1813
 #103|@admin-bot|1809
 #104|@The-Fastest-Bot|1809
-#105|@TheLegitLegend|1804
-#106|@OpeningsBot|1803
+#105|@OpeningsBot|1808
+#106|@TheLegitLegend|1804
 #107|@Bot_AOOP11|1802
 #108|@ROBOT_RANDEER2007|1802
 #109|@mrchessmanager|1801
@@ -119,8 +119,8 @@ Rank|Bot|Rating
 #117|@FairyTailRegimeBot|1705
 #118|@TTC-BOT_2|1703
 #119|@Viet_BOT|1701
-#120|@QuickLiquid|1689
-#121|@varient-chess-bot1|1684
+#120|@varient-chess-bot1|1694
+#121|@QuickLiquid|1689
 #122|@P-chessbot|1660
 #123|@SCP079|1660
 #124|@chessemkabot|1625
@@ -134,11 +134,11 @@ Rank|Bot|Rating
 #132|@Toxic_Bot|1541
 #133|@SXDEFENDER|1534
 #134|@Light_To_The_Rescue|1523
-#135|@DavidsGuterBot|1496
-#136|@Z-Move|1495
-#137|@TFRChessClub|1494
-#138|@hyperchessbot1|1493
-#139|@MagnusCarlsen1507|1492
+#135|@Z-Move|1495
+#136|@TFRChessClub|1494
+#137|@hyperchessbot1|1493
+#138|@MagnusCarlsen1507|1492
+#139|@DavidsGuterBot|1490
 #140|@SugarAndSpice|1489
 #141|@rtx3080tibot|1487
 #142|@SUMAL_BRO|1476
