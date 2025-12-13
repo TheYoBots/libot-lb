@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@HIWIN1234|2623
 #38|@Kizbuurb|2621
 #39|@Lili-ai|2619
-#40|@RaspFish|2614
-#41|@KingfishX|2612
+#40|@KingfishX|2612
+#41|@RaspFish|2609
 #42|@IAMSTOCKFISH123|2603
 #43|@ChessBot3021|2599
 #44|@fairy-vvrr|2598
@@ -153,7 +153,7 @@ Rank|Bot|Rating
 #151|@Stockfish-MEDIUM|2117
 #152|@PyChessBot|2102
 #153|@TurkiyeHogwartsBOT|2099
-#154|@CatNail|2078
+#154|@CatNail|2075
 #155|@P-chessbot|2067
 #156|@ZamuChess|2049
 #157|@Botzer|2020

@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@bot1e|2731
 #4|@SF_Bot1nok|2702
 #5|@Lili-ai|2619
-#6|@RaspFish|2614
+#6|@RaspFish|2609
 #7|@DarkOnBot|2590
 #8|@FayEFish|2578
 #9|@GoblinAjedrezAI|2535
@@ -14,4 +14,4 @@ Rank|Bot|Rating
 #12|@anti-bot|2200
 #13|@NilatacBot|2184
 #14|@ew-bot|2128
-#15|@CatNail|2078
+#15|@CatNail|2075

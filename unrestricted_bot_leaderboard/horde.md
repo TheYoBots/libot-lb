@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@lord-bot|2362
 #20|@Hyper-Stockfish|2358
 #21|@Bullet_bot_0526|2344
-#22|@RaspFish|2331
+#22|@RaspFish|2332
 #23|@eNErGyOFbEiNGbOT|2326
 #24|@Alexnajax_Fan|2316
 #25|@DarkOnBot|2314

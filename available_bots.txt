@@ -2938,6 +2938,7 @@ tasmanrevenge
 tazo-tush
 tbhonbot
 team_bot_08512
+teamblackknightchess
 teamchelsie
 teamleaderbot
 tekibot
@@ -3409,4 +3410,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-teamblackknightchess
