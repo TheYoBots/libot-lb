@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@Nebulogic|2514
 #17|@SCP079|2513
 #18|@tbhOnBot|2512
-#19|@Lili-ai|2504
-#20|@RaspFish|2504
+#19|@RaspFish|2510
+#20|@Lili-ai|2504
 #21|@SF_Bot1nok|2498
 #22|@TacticalBot|2497
 #23|@Dark_evil_bot|2496
@@ -47,8 +47,8 @@ Rank|Bot|Rating
 #45|@lightspeed_bot|2396
 #46|@thibot|2393
 #47|@Jussicas|2373
-#48|@varient-chess-bot1|2373
-#49|@TheMatrix2025|2368
+#48|@TheMatrix2025|2368
+#49|@varient-chess-bot1|2367
 #50|@Lili-Variants|2357
 #51|@Viet_BOT|2344
 #52|@virus_exe-bot|2342
@@ -76,8 +76,8 @@ Rank|Bot|Rating
 #74|@ResoluteBot|2225
 #75|@XXIstCentury|2225
 #76|@Resolved-Bot|2223
-#77|@HerokuHasnotplay|2215
-#78|@OpeningsBot|2214
+#77|@OpeningsBot|2217
+#78|@HerokuHasnotplay|2215
 #79|@Zer0_Tw0|2210
 #80|@FairyTailRegimeBot|2206
 #81|@AIAlphaAI|2200

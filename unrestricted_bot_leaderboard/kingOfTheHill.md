@@ -100,10 +100,10 @@ Rank|Bot|Rating
 #98|@Botzer|1851
 #99|@B0T5_RU13|1835
 #100|@STockfishdestroyBot|1825
-#101|@AldoGamer001_Bot|1813
-#102|@admin-bot|1809
-#103|@The-Fastest-Bot|1809
-#104|@OpeningsBot|1808
+#101|@OpeningsBot|1814
+#102|@AldoGamer001_Bot|1813
+#103|@admin-bot|1809
+#104|@The-Fastest-Bot|1809
 #105|@TheLegitLegend|1804
 #106|@Bot_AOOP11|1802
 #107|@ROBOT_RANDEER2007|1802
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Just-a-random-bot|1604
 #128|@MMC_HUANGBAI|1569
 #129|@Epiano_Bot|1567
-#130|@Groot123456|1553
+#130|@Groot123456|1548
 #131|@Toxic_Bot|1541
 #132|@SXDEFENDER|1534
 #133|@Light_To_The_Rescue|1523
