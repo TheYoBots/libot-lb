@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@Zer0_Tw0|2200
 #53|@UltronBot|2197
 #54|@Viet-BOT|2185
-#55|@tbhOnBot|2179
-#56|@lightspeed_bot|2177
+#55|@lightspeed_bot|2177
+#56|@tbhOnBot|2174
 #57|@Sooraj_Kumar_P_S|2167
 #58|@Peaceful4Life|2160
 #59|@SCP079|2156
@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@HIWIN1234|2123
 #64|@TestingBot1|2118
 #65|@Johnsun|2113
-#66|@DarkOnBot|2111
+#66|@DarkOnBot|2098
 #67|@SixtyFourEngine|2089
 #68|@relevantproblem|2077
 #69|@GodelEscherBot|2071

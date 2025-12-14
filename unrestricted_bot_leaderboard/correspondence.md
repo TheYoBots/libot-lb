@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2947
 #2|@Grzechu86|2852
-#3|@AjedrezChamberi|2835
+#3|@AjedrezChamberi|2842
 #4|@Moment-That-Inspires|2723
 #5|@Magicianrobot|2713
 #6|@pawn_git|2684
@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@ChessatronBot|2279
 #44|@Toodfish|2273
 #45|@Cheng-4|2269
-#46|@OpeningsBot|2257
+#46|@OpeningsBot|2261
 #47|@eggnog-chess-engine|2254
 #48|@Blue_Mongoose|2249
 #49|@Zimbabwean_chessbot|2249
@@ -142,9 +142,9 @@ Rank|Bot|Rating
 #140|@ElPeonElectrico|2004
 #141|@zeekat|2004
 #142|@honzovy-sachy|2002
-#143|@GarboBot|2000
-#144|@TESTBOT23|2000
-#145|@Zer0_Tw0|1992
+#143|@TESTBOT23|2000
+#144|@Zer0_Tw0|1992
+#145|@GarboBot|1989
 #146|@YoBot_v2|1984
 #147|@Virutor|1980
 #148|@Bobby_Fishcer_Bot|1976

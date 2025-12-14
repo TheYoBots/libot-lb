@@ -553,6 +553,7 @@ byte-knight
 bytechessbot
 byteknightengine
 c0br4_bot
+c0kval
 c0llision
 cabolince
 cactusengine
@@ -1965,6 +1966,7 @@ mayhem23111
 mayhempi_cluster
 mc-king-098
 mcexpressbot
+mchess-engine
 mckapran78
 mcyborg
 md211bot
@@ -3412,5 +3414,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-c0kval
-mchess-engine
+pengyibot

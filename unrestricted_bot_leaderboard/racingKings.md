@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@lord-bot|2581
 #7|@Fairy_Belzedar|2559
 #8|@EmptikVariantsBot|2557
-#9|@FayEFish|2553
-#10|@ToromBot|2551
+#9|@ToromBot|2554
+#10|@FayEFish|2553
 #11|@FireFishBOT|2547
 #12|@GoblinAjedrezAI|2536
 #13|@LudwigBOT|2536
@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@Resolved-Bot|2223
 #77|@HerokuHasnotplay|2215
 #78|@Zer0_Tw0|2210
-#79|@OpeningsBot|2207
-#80|@FairyTailRegimeBot|2206
+#79|@FairyTailRegimeBot|2206
+#80|@OpeningsBot|2205
 #81|@AIAlphaAI|2200
 #82|@Berserk12-X|2200
 #83|@higuyuu67776|2200
