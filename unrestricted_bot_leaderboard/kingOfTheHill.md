@@ -97,10 +97,10 @@ Rank|Bot|Rating
 #95|@que-hyper|1865
 #96|@is_BOSS|1864
 #97|@relevantproblem|1857
-#98|@Botzer|1851
-#99|@B0T5_RU13|1835
-#100|@STockfishdestroyBot|1825
-#101|@OpeningsBot|1814
+#98|@OpeningsBot|1856
+#99|@Botzer|1851
+#100|@B0T5_RU13|1835
+#101|@STockfishdestroyBot|1825
 #102|@AldoGamer001_Bot|1813
 #103|@admin-bot|1809
 #104|@The-Fastest-Bot|1809
@@ -127,9 +127,9 @@ Rank|Bot|Rating
 #125|@Ramses-Chess|1608
 #126|@Breeze-Hot|1606
 #127|@Just-a-random-bot|1604
-#128|@MMC_HUANGBAI|1569
-#129|@Epiano_Bot|1567
-#130|@Groot123456|1548
+#128|@Groot123456|1581
+#129|@MMC_HUANGBAI|1569
+#130|@Epiano_Bot|1567
 #131|@Toxic_Bot|1541
 #132|@SXDEFENDER|1534
 #133|@Light_To_The_Rescue|1523

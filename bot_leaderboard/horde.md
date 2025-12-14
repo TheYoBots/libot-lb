@@ -3,12 +3,8 @@ Rank|Bot|Rating
 #1|@ToromBot|2550
 #2|@Bot1nokk|2428
 #3|@SF_Bot1nok|2391
-#4|@BOT_Stockfish13|2383
-#5|@RaspFish|2332
-#6|@eNErGyOFbEiNGbOT|2326
-#7|@Alexnajax_Fan|2316
-#8|@DarkOnBot|2312
-#9|@tbhOnBot|2270
-#10|@FayEFish|2205
-#11|@GoblinAjedrezAI|2165
-#12|@Zimbabwean_chessbot|2073
+#4|@RaspFish|2332
+#5|@DarkOnBot|2312
+#6|@tbhOnBot|2270
+#7|@FayEFish|2205
+#8|@GoblinAjedrezAI|2165

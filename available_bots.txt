@@ -1898,6 +1898,7 @@ magnum_carl
 magnus-bot
 magnuscalsen123
 magnuscarlsen1507
+magnuscarlsenmogger
 magnuscarlsenthebot
 magnusexp
 magnusglad_bot
@@ -1944,6 +1945,7 @@ mate-ai
 mate_bot
 mateai
 matecheckcapture
+matemakingmachine
 materialisoverrated
 matewithrook_sf17dev
 matmoi
@@ -3410,5 +3412,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-matemakingmachine
-magnuscarlsenmogger
+c0kval
+mchess-engine

@@ -138,8 +138,8 @@ Rank|Bot|Rating
 #136|@NormalBlitzBulletBot|2205
 #137|@EstmileBot|2200
 #138|@zipfile_chess-bot|2200
-#139|@anti-bot|2198
-#140|@HerokuHasnotplay|2196
+#139|@HerokuHasnotplay|2196
+#140|@anti-bot|2194
 #141|@NilatacBot|2184
 #142|@Lucror|2178
 #143|@GegeneBOT|2177
@@ -149,10 +149,10 @@ Rank|Bot|Rating
 #147|@AntiChessBot|2142
 #148|@AnUtterlyKarBot|2134
 #149|@XXIstCentury|2131
-#150|@CatNail|2128
-#151|@ew-bot|2128
-#152|@Stockfish-MEDIUM|2117
-#153|@PyChessBot|2102
+#150|@ew-bot|2128
+#151|@Stockfish-MEDIUM|2117
+#152|@PyChessBot|2102
+#153|@CatNail|2100
 #154|@TurkiyeHogwartsBOT|2099
 #155|@P-chessbot|2067
 #156|@ZamuChess|2049
@@ -166,8 +166,8 @@ Rank|Bot|Rating
 #164|@antichesssss|1964
 #165|@Menganti|1963
 #166|@CloudBOT|1950
-#167|@SriLankaChess|1925
-#168|@Groot123456|1922
+#167|@Groot123456|1927
+#168|@SriLankaChess|1925
 #169|@TestingBot1|1914
 #170|@Crepusculum|1881
 #171|@pawnrobot|1876
