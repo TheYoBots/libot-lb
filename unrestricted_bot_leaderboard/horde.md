@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@chesshyperbot|1702
 #103|@CoderDen732|1700
 #104|@relevantproblem|1667
-#105|@Epiano_Bot|1662
-#106|@varient-chess-bot1|1660
+#105|@varient-chess-bot1|1665
+#106|@Epiano_Bot|1662
 #107|@VariantsTop|1644
 #108|@PetersTestBot|1629
 #109|@The_dragon_bot|1625
@@ -165,7 +165,7 @@ Rank|Bot|Rating
 #163|@PowerOnBot|1258
 #164|@xDmanBOT|1258
 #165|@yobmef|1258
-#166|@pawnrobot|1248
+#166|@pawnrobot|1245
 #167|@Groot123456|1230
 #168|@TheSystem_Bot|1218
 #169|@GuineaBot3|1212

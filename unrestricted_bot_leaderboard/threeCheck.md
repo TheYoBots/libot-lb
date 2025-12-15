@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@TheMatrix2029|2448
 #26|@faith_bot|2447
 #27|@chessbot2880|2439
-#28|@ToromBot|2435
+#28|@ToromBot|2427
 #29|@tbhOnBot|2408
 #30|@GoblinAjedrezAI|2374
 #31|@Viet_BOT|2367
@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@Resolved-Bot|2026
 #71|@SacrificialSage|2026
 #72|@BalloonBot|2017
-#73|@varient-chess-bot1|2004
-#74|@firstrobot|2003
+#73|@firstrobot|2003
+#74|@varient-chess-bot1|1999
 #75|@Hyper-Stockfish|1986
 #76|@GodelEscherBot|1974
 #77|@XXIstCentury|1973
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@Harry_Potterz|1316
 #165|@allvariants|1310
 #166|@NoTallkOnlyGames|1293
-#167|@pawnrobot|1292
+#167|@pawnrobot|1291
 #168|@Light_To_The_Rescue|1277
 #169|@Sanjana_Kambala-BOT|1273
 #170|@TheLegendaryKnight|1272

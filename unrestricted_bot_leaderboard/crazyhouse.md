@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@chesshyperbot|2344
 #34|@EmptikBot|2332
 #35|@lord-bot|2329
-#36|@catalanbotI|2307
-#37|@ToromBot|2307
+#36|@ToromBot|2313
+#37|@catalanbotI|2307
 #38|@Yemmi-Yemmi|2305
 #39|@RaspFish|2284
 #40|@iplayonlyrandom|2282

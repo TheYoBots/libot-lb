@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@ToromBot|2929
+#6|@ToromBot|2950
 #7|@Coolman2021|2879
 #8|@TheMatrix2029|2866
 #9|@MEGA-NOOB-BOT|2859
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@firstrobot|2593
 #47|@AIAlphaAI|2589
 #48|@is_BOSS|2589
-#49|@DarkOnBot|2584
+#49|@DarkOnBot|2585
 #50|@WilliamGAsaad|2584
 #51|@Team_bot_08512|2581
 #52|@FayEFish|2576
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@YellowFlash_v2|2214
 #135|@CoderDen732|2207
 #136|@NormalBlitzBulletBot|2205
-#137|@anti-bot|2200
+#137|@anti-bot|2203
 #138|@EstmileBot|2200
 #139|@zipfile_chess-bot|2200
 #140|@HerokuHasnotplay|2196
@@ -151,9 +151,9 @@ Rank|Bot|Rating
 #149|@XXIstCentury|2131
 #150|@ew-bot|2128
 #151|@Stockfish-MEDIUM|2117
-#152|@PyChessBot|2102
-#153|@TurkiyeHogwartsBOT|2099
-#154|@CatNail|2086
+#152|@CatNail|2105
+#153|@PyChessBot|2102
+#154|@TurkiyeHogwartsBOT|2099
 #155|@P-chessbot|2067
 #156|@ZamuChess|2049
 #157|@Botzer|2020
