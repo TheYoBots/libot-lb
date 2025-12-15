@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@ttBOT|2540
 #14|@BitExtender128|2526
 #15|@ResoluteBot|2525
-#16|@is_BOSS|2521
+#16|@is_BOSS|2524
 #17|@Yebot|2518
 #18|@CatBot_14|2514
 #19|@EmptikBot|2510
@@ -26,9 +26,9 @@ Rank|Bot|Rating
 #24|@firstrobot|2485
 #25|@ShredderGrizzly|2479
 #26|@NormalBulletBot|2474
-#27|@FayEFish|2466
-#28|@LoseisnotAvailablehe|2466
-#29|@tbhOnBot|2457
+#27|@LoseisnotAvailablehe|2466
+#28|@tbhOnBot|2460
+#29|@FayEFish|2456
 #30|@PepsiForAll|2448
 #31|@eNErGyOFbEiNGbOT|2431
 #32|@RaspFish|2414
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@MEGA-NOOB-BOT|2401
 #35|@ToromBot|2401
 #36|@Bullet_bot_0526|2391
-#37|@GoblinAjedrezAI|2386
+#37|@GoblinAjedrezAI|2385
 #38|@abhisun_bot|2384
 #39|@DarkOnBot|2379
 #40|@KingfishX|2369
@@ -149,9 +149,9 @@ Rank|Bot|Rating
 #147|@AEBROADUSBOTTER|1958
 #148|@AtomicRouletteBot|1955
 #149|@atomicli|1951
-#150|@HappyDeepawali|1941
-#151|@EagleEye2021|1935
-#152|@HakoAI|1933
+#150|@HakoAI|1949
+#151|@HappyDeepawali|1941
+#152|@EagleEye2021|1935
 #153|@Lili-Variants|1926
 #154|@hjhjhjhjhjhj|1923
 #155|@FyChess2|1921
@@ -187,8 +187,8 @@ Rank|Bot|Rating
 #185|@MagicHacker123|1774
 #186|@bot1e|1773
 #187|@buffFishNet|1771
-#188|@OpeningsBot|1770
-#189|@EstmileBot|1769
+#188|@EstmileBot|1769
+#189|@OpeningsBot|1762
 #190|@SacrificialSage|1755
 #191|@PetersTestBot|1753
 #192|@AldoGamer001_Bot|1747

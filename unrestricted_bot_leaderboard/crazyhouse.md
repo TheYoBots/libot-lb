@@ -151,10 +151,10 @@ Rank|Bot|Rating
 #149|@zipfile_chess-bot|1523
 #150|@Bot1nokk|1511
 #151|@AldoGamer001_Bot|1507
-#152|@NoobMasterBOT|1499
-#153|@ararimbelami|1498
-#154|@HerokuHasnotplay|1498
-#155|@OpeningsBot|1497
+#152|@OpeningsBot|1504
+#153|@NoobMasterBOT|1499
+#154|@ararimbelami|1498
+#155|@HerokuHasnotplay|1498
 #156|@faith_bot|1494
 #157|@VariantsTop|1494
 #158|@CoderDen732|1493
@@ -212,7 +212,7 @@ Rank|Bot|Rating
 #210|@FluffBallCuddly|1191
 #211|@heatseeker223|1191
 #212|@ChessPlayer1225|1183
-#213|@pawnrobot|1176
+#213|@pawnrobot|1172
 #214|@Jannik08_fan|1163
 #215|@BSergey11-BOT|1149
 #216|@K_Shi_Bot|1149
@@ -220,7 +220,7 @@ Rank|Bot|Rating
 #218|@kazakhfirstbot|1119
 #219|@apollo_bot|1106
 #220|@BogoBot|1099
-#221|@DanerdBot2|1074
+#221|@DanerdBot2|1053
 #222|@TfXD_Bot|1050
 #223|@jasans_bot|1045
 #224|@Official_bot|1027
