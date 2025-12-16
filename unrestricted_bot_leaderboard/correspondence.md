@@ -42,9 +42,9 @@ Rank|Bot|Rating
 #40|@robiachess|2295
 #41|@Quanticade|2286
 #42|@mrohCentaur|2285
-#43|@ChessatronBot|2279
-#44|@Toodfish|2273
-#45|@OpeningsBot|2272
+#43|@OpeningsBot|2283
+#44|@ChessatronBot|2279
+#45|@Toodfish|2273
 #46|@Cheng-4|2269
 #47|@eggnog-chess-engine|2254
 #48|@Blue_Mongoose|2249
@@ -157,10 +157,10 @@ Rank|Bot|Rating
 #155|@Thera_Engine|1955
 #156|@BOTsharpchess|1952
 #157|@RadianceEngine|1946
-#158|@Humanoid_1800|1939
-#159|@ZE_ROOK|1938
-#160|@Los-Guerreros1|1935
-#161|@TheLegendaryKnight|1935
+#158|@ZE_ROOK|1938
+#159|@Los-Guerreros1|1935
+#160|@TheLegendaryKnight|1935
+#161|@Humanoid_1800|1932
 #162|@chicken_farmer|1926
 #163|@yowCapablanca|1914
 #164|@TrolliumBot|1894

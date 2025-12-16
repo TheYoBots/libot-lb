@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@SacrificialSage|2026
 #72|@BalloonBot|2017
 #73|@firstrobot|2003
-#74|@varient-chess-bot1|1999
+#74|@varient-chess-bot1|1992
 #75|@Hyper-Stockfish|1986
 #76|@GodelEscherBot|1974
 #77|@XXIstCentury|1973

@@ -3076,6 +3076,7 @@ togaii
 tokenstealer
 toluene1140
 toluene1140_experime
+tomahawkbot
 tomewyrm
 tomlesspit
 too_ez4me
@@ -3415,4 +3416,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tomahawkbot
