@@ -118,8 +118,8 @@ Rank|Bot|Rating
 #116|@FairyTailRegimeBot|1705
 #117|@TTC-BOT_2|1703
 #118|@Viet_BOT|1701
-#119|@varient-chess-bot1|1697
-#120|@QuickLiquid|1689
+#119|@QuickLiquid|1689
+#120|@varient-chess-bot1|1689
 #121|@P-chessbot|1660
 #122|@SCP079|1660
 #123|@chessemkabot|1625
@@ -127,8 +127,8 @@ Rank|Bot|Rating
 #125|@Ramses-Chess|1608
 #126|@Breeze-Hot|1606
 #127|@Just-a-random-bot|1604
-#128|@MMC_HUANGBAI|1569
-#129|@Groot123456|1568
+#128|@Groot123456|1584
+#129|@MMC_HUANGBAI|1569
 #130|@Epiano_Bot|1567
 #131|@Toxic_Bot|1541
 #132|@SXDEFENDER|1534
@@ -137,9 +137,9 @@ Rank|Bot|Rating
 #135|@TFRChessClub|1494
 #136|@hyperchessbot1|1493
 #137|@MagnusCarlsen1507|1492
-#138|@DavidsGuterBot|1490
-#139|@SugarAndSpice|1489
-#140|@rtx3080tibot|1487
+#138|@SugarAndSpice|1489
+#139|@rtx3080tibot|1487
+#140|@DavidsGuterBot|1482
 #141|@SUMAL_BRO|1476
 #142|@Ukraine-team-creator|1476
 #143|@Less_of_a_threat|1470

@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@No_Username2|1741
 #114|@NotNateBot|1731
 #115|@Crepusculum|1724
-#116|@SUMEETTHEPRO|1708
-#117|@Groot123456|1703
+#116|@Groot123456|1718
+#117|@SUMEETTHEPRO|1708
 #118|@Yemmi-Yemmi|1702
 #119|@clueless-bot|1685
 #120|@NormalBulletBot|1657

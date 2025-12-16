@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@mrohCentaur|2285
 #43|@ChessatronBot|2279
 #44|@Toodfish|2273
-#45|@Cheng-4|2269
-#46|@OpeningsBot|2268
+#45|@OpeningsBot|2272
+#46|@Cheng-4|2269
 #47|@eggnog-chess-engine|2254
 #48|@Blue_Mongoose|2249
 #49|@Zimbabwean_chessbot|2249
@@ -143,8 +143,8 @@ Rank|Bot|Rating
 #141|@honzovy-sachy|2002
 #142|@TESTBOT23|2000
 #143|@Zer0_Tw0|1992
-#144|@GarboBot|1984
-#145|@YoBot_v2|1984
+#144|@YoBot_v2|1984
+#145|@GarboBot|1981
 #146|@Virutor|1980
 #147|@Bobby_Fishcer_Bot|1976
 #148|@CheckmateX1|1974

@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@FayEFish|2556
 #10|@ToromBot|2554
 #11|@FireFishBOT|2547
-#12|@GoblinAjedrezAI|2536
+#12|@GoblinAjedrezAI|2543
 #13|@LudwigBOT|2536
 #14|@Coolman2021|2527
 #15|@EmptikBot|2526
@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@Jussicas|2373
 #48|@TheMatrix2025|2368
 #49|@Lili-Variants|2357
-#50|@varient-chess-bot1|2348
+#50|@varient-chess-bot1|2349
 #51|@Viet_BOT|2344
 #52|@virus_exe-bot|2342
 #53|@BotsFanClub|2338
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@higuyuu67776|2200
 #83|@Nobody11892|2200
 #84|@Trainspotter|2200
-#85|@OpeningsBot|2190
+#85|@OpeningsBot|2198
 #86|@Hyper-Stockfish|2189
 #87|@Johnsun|2181
 #88|@HuxZero|2176
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@TheSystem_Bot|1572
 #147|@QuickLiquid|1555
 #148|@MMC_HUANGBAI|1553
-#149|@Groot123456|1530
+#149|@Groot123456|1529
 #150|@faith_bot|1514
 #151|@CoderDen732|1507
 #152|@TorBot|1498
