@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Nebulogic|2514
 #17|@SCP079|2513
 #18|@tbhOnBot|2512
-#19|@RaspFish|2508
+#19|@RaspFish|2511
 #20|@Lili-ai|2504
 #21|@SF_Bot1nok|2498
 #22|@DarkOnBot|2497
@@ -79,11 +79,11 @@ Rank|Bot|Rating
 #77|@HerokuHasnotplay|2215
 #78|@Zer0_Tw0|2210
 #79|@FairyTailRegimeBot|2206
-#80|@OpeningsBot|2202
-#81|@AIAlphaAI|2200
-#82|@Berserk12-X|2200
-#83|@higuyuu67776|2200
-#84|@Nobody11892|2200
+#80|@AIAlphaAI|2200
+#81|@Berserk12-X|2200
+#82|@higuyuu67776|2200
+#83|@Nobody11892|2200
+#84|@OpeningsBot|2200
 #85|@Trainspotter|2200
 #86|@Hyper-Stockfish|2189
 #87|@Johnsun|2181
