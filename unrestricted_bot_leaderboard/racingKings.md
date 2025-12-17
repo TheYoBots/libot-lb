@@ -77,9 +77,9 @@ Rank|Bot|Rating
 #75|@XXIstCentury|2225
 #76|@Resolved-Bot|2223
 #77|@HerokuHasnotplay|2215
-#78|@OpeningsBot|2211
-#79|@Zer0_Tw0|2210
-#80|@FairyTailRegimeBot|2206
+#78|@Zer0_Tw0|2210
+#79|@FairyTailRegimeBot|2206
+#80|@OpeningsBot|2202
 #81|@AIAlphaAI|2200
 #82|@Berserk12-X|2200
 #83|@higuyuu67776|2200

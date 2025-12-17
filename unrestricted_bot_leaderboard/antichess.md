@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@YellowFlash_v2|2214
 #135|@CoderDen732|2207
 #136|@NormalBlitzBulletBot|2205
-#137|@anti-bot|2204
+#137|@anti-bot|2202
 #138|@EstmileBot|2200
 #139|@zipfile_chess-bot|2200
 #140|@HerokuHasnotplay|2196
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@SriLankaChess|1925
 #169|@TestingBot1|1914
 #170|@Crepusculum|1881
-#171|@pawnrobot|1876
+#171|@pawnrobot|1880
 #172|@NoTallkOnlyGames|1871
 #173|@Lumac0|1861
 #174|@Pineapple-Friendly|1858
