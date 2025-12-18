@@ -667,6 +667,7 @@ chessbot2880
 chessbot3021
 chessbot8051
 chessbot_2004
+chessbotbuddy
 chessbothere
 chessbotz-1
 chesschildren
@@ -3417,4 +3418,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chessbotbuddy
+stickshark99
