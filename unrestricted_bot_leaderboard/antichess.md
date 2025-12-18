@@ -138,9 +138,9 @@ Rank|Bot|Rating
 #136|@NormalBlitzBulletBot|2205
 #137|@EstmileBot|2200
 #138|@zipfile_chess-bot|2200
-#139|@anti-bot|2196
-#140|@HerokuHasnotplay|2196
-#141|@NilatacBot|2191
+#139|@HerokuHasnotplay|2196
+#140|@NilatacBot|2191
+#141|@anti-bot|2184
 #142|@Lucror|2178
 #143|@GegeneBOT|2177
 #144|@DeepFriedFish|2165

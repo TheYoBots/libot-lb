@@ -620,6 +620,7 @@ che_domi
 cheakykoala
 chebot_1
 checkbro_official
+checkersplayer192
 checkmate-ai
 checkmate-engine
 checkmate10101010
@@ -3416,4 +3417,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-checkersplayer192
+chessbotbuddy

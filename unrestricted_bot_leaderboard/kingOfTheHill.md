@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@Stockfish-MEDIUM|2198
 #35|@PowerOnBot|2195
 #36|@UnDisstoppableBot|2193
-#37|@Amrobotone|2184
-#38|@RaspFish|2180
+#37|@RaspFish|2190
+#38|@Amrobotone|2184
 #39|@SF_Bot1nok|2168
 #40|@eNErGyOFbEiNGbOT|2166
 #41|@HuxZero|2163
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@TTC-BOT_2|1703
 #118|@Viet_BOT|1701
 #119|@QuickLiquid|1689
-#120|@varient-chess-bot1|1678
+#120|@varient-chess-bot1|1687
 #121|@P-chessbot|1660
 #122|@SCP079|1660
 #123|@chessemkabot|1625
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@MagnusCarlsen1507|1492
 #138|@SugarAndSpice|1489
 #139|@rtx3080tibot|1487
-#140|@DavidsGuterBot|1482
+#140|@DavidsGuterBot|1479
 #141|@SUMAL_BRO|1476
 #142|@Ukraine-team-creator|1476
 #143|@Less_of_a_threat|1470
