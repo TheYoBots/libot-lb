@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@Less_of_a_threat|2025
 #77|@DeepFriedFish|2020
 #78|@GCNbyFayE|2019
-#79|@SF_Bot1nok|2007
+#79|@SF_Bot1nok|2011
 #80|@Bullet_bot_0526|1987
 #81|@Magnus-BOT|1986
 #82|@Stockfish-MEDIUM|1983
@@ -151,8 +151,8 @@ Rank|Bot|Rating
 #149|@Botkingteam33|1525
 #150|@zipfile_chess-bot|1523
 #151|@Bot1nokk|1511
-#152|@AldoGamer001_Bot|1507
-#153|@OpeningsBot|1507
+#152|@OpeningsBot|1511
+#153|@AldoGamer001_Bot|1507
 #154|@NoobMasterBOT|1499
 #155|@ararimbelami|1498
 #156|@HerokuHasnotplay|1498
@@ -213,7 +213,7 @@ Rank|Bot|Rating
 #211|@FluffBallCuddly|1191
 #212|@heatseeker223|1191
 #213|@ChessPlayer1225|1183
-#214|@pawnrobot|1168
+#214|@pawnrobot|1164
 #215|@Jannik08_fan|1163
 #216|@BSergey11-BOT|1149
 #217|@K_Shi_Bot|1149
@@ -221,9 +221,9 @@ Rank|Bot|Rating
 #219|@kazakhfirstbot|1119
 #220|@apollo_bot|1106
 #221|@BogoBot|1099
-#222|@DanerdBot2|1053
-#223|@TfXD_Bot|1050
-#224|@jasans_bot|1045
+#222|@TfXD_Bot|1050
+#223|@jasans_bot|1045
+#224|@DanerdBot2|1037
 #225|@Official_bot|1027
 #226|@ZX-Chess|1011
 #227|@Magic11bot_Coach|1001

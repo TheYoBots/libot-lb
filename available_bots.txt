@@ -860,6 +860,7 @@ darkb0t
 darkchessai
 darknode
 darkonbot
+darkonweakbot
 dartfish-engine
 daverobot
 david9426_bot
@@ -3419,4 +3420,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-darkonweakbot

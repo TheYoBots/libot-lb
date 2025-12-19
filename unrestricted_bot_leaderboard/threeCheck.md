@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@chessbot2880|2439
 #28|@ToromBot|2427
 #29|@tbhOnBot|2408
-#30|@GoblinAjedrezAI|2374
+#30|@GoblinAjedrezAI|2377
 #31|@Viet_BOT|2367
 #32|@SF_Bot1nok|2338
 #33|@Zer0_Tw0|2332
@@ -90,7 +90,7 @@ Rank|Bot|Rating
 #88|@PetersTestBot|1935
 #89|@Lila-Stockfish|1917
 #90|@SkyBlaster|1913
-#91|@OpeningsBot|1910
+#91|@OpeningsBot|1912
 #92|@HyperLitikBOT|1908
 #93|@PowerOnBot|1894
 #94|@CloudBOT|1892
@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@jasans_bot|1621
 #126|@newengine2022|1588
 #127|@knight_128|1563
-#128|@DavidsGuterBot|1544
+#128|@DavidsGuterBot|1542
 #129|@Alehkine_cat|1531
 #130|@TrashBot|1519
 #131|@FireDragonBOT|1518

@@ -324,10 +324,10 @@ Rank|Bot|Rating
 #322|@PolyBOT|1481
 #323|@EdwardKillick|1480
 #324|@HerathHerath|1477
-#325|@Cimille|1476
-#326|@YagizTurkiyeBOT|1476
-#327|@KnightOwlBot|1473
-#328|@MRT23|1469
+#325|@YagizTurkiyeBOT|1476
+#326|@KnightOwlBot|1473
+#327|@MRT23|1469
+#328|@Cimille|1467
 #329|@TheSystem_Bot|1466
 #330|@Mate-AI|1454
 #331|@dtsudo|1449
