@@ -2804,6 +2804,7 @@ stellarbot
 sternenhimmel10
 sticklebackbot
 sticklebacknnbot
+stickshark99
 stobot
 stock_nemo
 stockapibot
@@ -3418,4 +3419,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-stickshark99
+darkonweakbot

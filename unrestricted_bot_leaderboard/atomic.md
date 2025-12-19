@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
 #13|@ttBOT|2540
-#14|@is_BOSS|2531
+#14|@is_BOSS|2532
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
 #17|@Yebot|2518
@@ -28,13 +28,13 @@ Rank|Bot|Rating
 #26|@NormalBulletBot|2474
 #27|@LoseisnotAvailablehe|2466
 #28|@FayEFish|2458
-#29|@tbhOnBot|2454
+#29|@tbhOnBot|2449
 #30|@PepsiForAll|2448
 #31|@eNErGyOFbEiNGbOT|2431
 #32|@RaspFish|2412
 #33|@Fairy-Stockfish|2402
-#34|@MEGA-NOOB-BOT|2398
-#35|@GoblinAjedrezAI|2396
+#34|@GoblinAjedrezAI|2401
+#35|@MEGA-NOOB-BOT|2398
 #36|@ToromBot|2393
 #37|@Bullet_bot_0526|2391
 #38|@abhisun_bot|2384
@@ -150,8 +150,8 @@ Rank|Bot|Rating
 #148|@AtomicRouletteBot|1955
 #149|@atomicli|1951
 #150|@HappyDeepawali|1941
-#151|@HakoAI|1939
-#152|@EagleEye2021|1935
+#151|@EagleEye2021|1935
+#152|@HakoAI|1934
 #153|@Lili-Variants|1926
 #154|@hjhjhjhjhjhj|1923
 #155|@FyChess2|1921

@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2842
 #4|@Magicianrobot|2713
-#5|@Moment-That-Inspires|2697
+#5|@Moment-That-Inspires|2699
 #6|@pawn_git|2690
 #7|@H-Zero|2650
 #8|@pawnocchio_bot|2623
@@ -267,10 +267,10 @@ Rank|Bot|Rating
 #265|@EagleEye2021|1648
 #266|@ben-bot|1643
 #267|@Laurentos_bot|1641
-#268|@katzebot|1636
-#269|@BlackCatEngine|1634
-#270|@GyatsoBot|1634
-#271|@TheAwesomeBot|1634
+#268|@BlackCatEngine|1634
+#269|@GyatsoBot|1634
+#270|@TheAwesomeBot|1634
+#271|@katzebot|1631
 #272|@Ramses-Chess|1630
 #273|@Bobby_Fischer_BOT|1627
 #274|@ChessPlayer1225|1624
