@@ -196,3 +196,4 @@ Rank|Bot|Rating
 #194|@TheSystem_Bot|905
 #195|@MateCheckCapture|876
 #196|@BOT_Stockfish13|800
+#197|@BOTbotBOTbotBotrobot|726
