@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@HerokuHasnotplay|2196
 #141|@Lucror|2178
 #142|@GegeneBOT|2177
-#143|@anti-bot|2165
+#143|@anti-bot|2167
 #144|@DeepFriedFish|2165
 #145|@lightspeed_bot|2152
 #146|@OpeningsBot|2144
