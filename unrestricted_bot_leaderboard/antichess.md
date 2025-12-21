@@ -138,8 +138,8 @@ Rank|Bot|Rating
 #136|@NormalBlitzBulletBot|2205
 #137|@EstmileBot|2200
 #138|@zipfile_chess-bot|2200
-#139|@HerokuHasnotplay|2196
-#140|@NilatacBot|2196
+#139|@NilatacBot|2199
+#140|@HerokuHasnotplay|2196
 #141|@anti-bot|2184
 #142|@Lucror|2178
 #143|@GegeneBOT|2177
@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@PyChessBot|2102
 #153|@TurkiyeHogwartsBOT|2099
 #154|@P-chessbot|2067
-#155|@CatNail|2056
+#155|@CatNail|2051
 #156|@ZamuChess|2049
 #157|@Botzer|2020
 #158|@Jussicas|2019

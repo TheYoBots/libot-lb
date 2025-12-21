@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
 #13|@ttBOT|2540
-#14|@BitExtender128|2526
-#15|@is_BOSS|2526
+#14|@is_BOSS|2537
+#15|@BitExtender128|2526
 #16|@ResoluteBot|2525
 #17|@Yebot|2518
 #18|@CatBot_14|2514
@@ -34,11 +34,11 @@ Rank|Bot|Rating
 #32|@RaspFish|2412
 #33|@GoblinAjedrezAI|2411
 #34|@Fairy-Stockfish|2402
-#35|@ToromBot|2393
-#36|@Bullet_bot_0526|2391
-#37|@MEGA-NOOB-BOT|2389
+#35|@Bullet_bot_0526|2391
+#36|@MEGA-NOOB-BOT|2389
+#37|@ToromBot|2385
 #38|@abhisun_bot|2384
-#39|@DarkOnBot|2379
+#39|@DarkOnBot|2370
 #40|@KingfishX|2369
 #41|@mrchessmanager|2369
 #42|@Stockfish-MEDIUM|2366
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@atomicli|1951
 #150|@HappyDeepawali|1941
 #151|@EagleEye2021|1935
-#152|@HakoAI|1934
+#152|@HakoAI|1932
 #153|@Lili-Variants|1926
 #154|@hjhjhjhjhjhj|1923
 #155|@FyChess2|1921
@@ -188,7 +188,7 @@ Rank|Bot|Rating
 #186|@bot1e|1773
 #187|@buffFishNet|1771
 #188|@EstmileBot|1769
-#189|@OpeningsBot|1761
+#189|@OpeningsBot|1760
 #190|@SacrificialSage|1755
 #191|@PetersTestBot|1753
 #192|@AldoGamer001_Bot|1747

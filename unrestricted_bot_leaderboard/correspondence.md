@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@Lila-Stockfish|2238
 #53|@chesshyperbot|2236
 #54|@Dean_Summer_Bot|2236
-#55|@OpeningsBot|2232
+#55|@OpeningsBot|2235
 #56|@chmod-bot|2231
 #57|@DrSmartBugs|2230
 #58|@Jobabot|2229
@@ -165,9 +165,9 @@ Rank|Bot|Rating
 #163|@TrolliumBot|1894
 #164|@honzovy-sachy-2|1892
 #165|@yeoldwiz|1890
-#166|@Humanoid_1800|1889
-#167|@ChessChildren|1884
-#168|@XXXTryandTryXXX|1884
+#166|@ChessChildren|1884
+#167|@XXXTryandTryXXX|1884
+#168|@Humanoid_1800|1883
 #169|@KingsGamBot|1882
 #170|@lol7241Bot|1878
 #171|@PiratesBot|1876
@@ -192,9 +192,9 @@ Rank|Bot|Rating
 #190|@DrMeowMeow|1800
 #191|@stockfish12_Johan|1798
 #192|@BetaOneBot|1792
-#193|@Jibbby|1792
-#194|@MagicHacker123|1792
-#195|@maia5|1792
+#193|@MagicHacker123|1792
+#194|@maia5|1792
+#195|@Jibbby|1791
 #196|@JPSBOT|1789
 #197|@Nicholaswb_BOT|1788
 #198|@Heman36541234578|1786
@@ -327,8 +327,8 @@ Rank|Bot|Rating
 #325|@YagizTurkiyeBOT|1476
 #326|@KnightOwlBot|1473
 #327|@MRT23|1469
-#328|@Cimille|1467
-#329|@TheSystem_Bot|1466
+#328|@TheSystem_Bot|1466
+#329|@Cimille|1465
 #330|@Mate-AI|1454
 #331|@dtsudo|1449
 #332|@CheezyGlizzyEater|1444
