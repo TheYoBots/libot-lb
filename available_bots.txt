@@ -378,6 +378,7 @@ bogopi
 boldbladerunner
 boller1910
 bongcloudtest
+booboobot
 booktester
 boom_bot
 boosted_maia_1300
@@ -3423,4 +3424,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-booboobot
+lndlgo
+codethemout
