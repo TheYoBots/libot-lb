@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@ToromBot|2950
+#6|@ToromBot|2951
 #7|@Coolman2021|2879
 #8|@TheMatrix2029|2866
 #9|@MEGA-NOOB-BOT|2859
@@ -139,8 +139,8 @@ Rank|Bot|Rating
 #137|@EstmileBot|2200
 #138|@zipfile_chess-bot|2200
 #139|@NilatacBot|2199
-#140|@HerokuHasnotplay|2196
-#141|@anti-bot|2184
+#140|@anti-bot|2196
+#141|@HerokuHasnotplay|2196
 #142|@Lucror|2178
 #143|@GegeneBOT|2177
 #144|@DeepFriedFish|2165

@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@xiang-qi|1868
 #95|@que-hyper|1865
 #96|@is_BOSS|1864
-#97|@OpeningsBot|1861
+#97|@OpeningsBot|1862
 #98|@relevantproblem|1857
 #99|@Botzer|1851
 #100|@B0T5_RU13|1835

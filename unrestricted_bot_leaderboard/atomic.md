@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Bharat_royals|2575
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
-#13|@is_BOSS|2540
+#13|@is_BOSS|2542
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@atomicli|1951
 #150|@HappyDeepawali|1941
 #151|@EagleEye2021|1935
-#152|@HakoAI|1932
+#152|@HakoAI|1929
 #153|@Lili-Variants|1926
 #154|@hjhjhjhjhjhj|1923
 #155|@FyChess2|1921
@@ -160,7 +160,7 @@ Rank|Bot|Rating
 #158|@Just-a-random-bot|1898
 #159|@AX2XB2|1893
 #160|@TheAwesomeBot|1891
-#161|@varient-chess-bot1|1885
+#161|@varient-chess-bot1|1886
 #162|@FairyTailRegimeBot|1882
 #163|@kostasvl-bot|1877
 #164|@B0T5_RU13|1871
@@ -188,7 +188,7 @@ Rank|Bot|Rating
 #186|@bot1e|1773
 #187|@buffFishNet|1771
 #188|@EstmileBot|1769
-#189|@OpeningsBot|1760
+#189|@OpeningsBot|1759
 #190|@SacrificialSage|1755
 #191|@PetersTestBot|1753
 #192|@AldoGamer001_Bot|1747
@@ -312,7 +312,7 @@ Rank|Bot|Rating
 #310|@TheSystem_Bot|1318
 #311|@PROBROMAN|1317
 #312|@Atomicbot1|1294
-#313|@pawnrobot|1293
+#313|@pawnrobot|1292
 #314|@DavidsGuterBot|1287
 #315|@XXXTryandTryXXX|1280
 #316|@legendbot1|1277
