@@ -763,6 +763,7 @@ coconochao_bot
 cocopikachubot
 codemeout
 coderden732
+codethemout
 codfishbot
 codingadventurebot
 codingadventuresback
@@ -1838,6 +1839,7 @@ littlesamsun
 littletony
 lizzardbot
 lk-stockfish
+lndlgo
 lobsterbot
 loev07
 loevbot
@@ -3424,5 +3426,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-lndlgo
-codethemout
