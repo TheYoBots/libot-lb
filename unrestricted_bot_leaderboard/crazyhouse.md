@@ -217,7 +217,7 @@ Rank|Bot|Rating
 #215|@pawnrobot|1161
 #216|@BSergey11-BOT|1149
 #217|@K_Shi_Bot|1149
-#218|@BooBooBot|1142
+#218|@BooBooBot|1131
 #219|@TeamChelsie|1125
 #220|@kazakhfirstbot|1119
 #221|@apollo_bot|1106
@@ -227,9 +227,9 @@ Rank|Bot|Rating
 #225|@Official_bot|1027
 #226|@ZX-Chess|1011
 #227|@Magic11bot_Coach|1001
-#228|@DanerdBot2|965
-#229|@JPSBOT|958
-#230|@FireTorchV2|955
+#228|@JPSBOT|958
+#229|@FireTorchV2|955
+#230|@DanerdBot2|943
 #231|@RSVMentor|862
 #232|@GuineaBot3|845
 #233|@MateCheckCapture|828
