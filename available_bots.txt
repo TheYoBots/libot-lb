@@ -912,6 +912,7 @@ digi-bot
 dinkelhuber
 dinora
 dissidentaggressor
+ditb0
 djungel_lc0
 djungelbot
 dkf33
@@ -3426,4 +3427,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ditb0

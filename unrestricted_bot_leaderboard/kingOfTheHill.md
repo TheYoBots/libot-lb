@@ -179,8 +179,8 @@ Rank|Bot|Rating
 #177|@TrashBot|1168
 #178|@shakboy9824453231op|1152
 #179|@GuineaBot3|1121
-#180|@BooBooBot|1116
-#181|@DespacitoBot|1094
+#180|@DespacitoBot|1094
+#181|@BooBooBot|1088
 #182|@ZokBot|1076
 #183|@Happy_One|1074
 #184|@ZX-Chess|1059
