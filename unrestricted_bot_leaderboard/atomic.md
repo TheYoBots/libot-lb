@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@Bharat_royals|2575
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
-#13|@ttBOT|2540
-#14|@is_BOSS|2534
+#13|@is_BOSS|2546
+#14|@ttBOT|2540
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
 #17|@Yebot|2518
@@ -27,14 +27,14 @@ Rank|Bot|Rating
 #25|@ShredderGrizzly|2479
 #26|@NormalBulletBot|2474
 #27|@LoseisnotAvailablehe|2466
-#28|@FayEFish|2449
-#29|@PepsiForAll|2448
-#30|@tbhOnBot|2447
+#28|@PepsiForAll|2448
+#29|@tbhOnBot|2443
+#30|@FayEFish|2440
 #31|@eNErGyOFbEiNGbOT|2431
 #32|@RaspFish|2415
 #33|@GoblinAjedrezAI|2414
 #34|@Fairy-Stockfish|2402
-#35|@DarkOnBot|2397
+#35|@DarkOnBot|2393
 #36|@Bullet_bot_0526|2391
 #37|@ToromBot|2385
 #38|@abhisun_bot|2384
@@ -359,4 +359,4 @@ Rank|Bot|Rating
 #357|@BetaOneBot|690
 #358|@MateCheckCapture|680
 #359|@Ujwal1001|600
-#360|@BooBooBot|440
+#360|@BooBooBot|430

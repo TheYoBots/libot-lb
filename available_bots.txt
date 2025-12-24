@@ -3427,3 +3427,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+solobot
+marvin-1200
