@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Bharat_royals|2575
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
-#13|@is_BOSS|2545
+#13|@is_BOSS|2546
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
@@ -27,8 +27,8 @@ Rank|Bot|Rating
 #25|@ShredderGrizzly|2479
 #26|@NormalBulletBot|2474
 #27|@LoseisnotAvailablehe|2466
-#28|@PepsiForAll|2448
-#29|@tbhOnBot|2448
+#28|@tbhOnBot|2451
+#29|@PepsiForAll|2448
 #30|@FayEFish|2440
 #31|@eNErGyOFbEiNGbOT|2431
 #32|@RaspFish|2415
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@Bullet_bot_0526|2391
 #37|@ToromBot|2385
 #38|@abhisun_bot|2384
-#39|@MEGA-NOOB-BOT|2382
+#39|@MEGA-NOOB-BOT|2375
 #40|@KingfishX|2369
 #41|@mrchessmanager|2369
 #42|@Stockfish-MEDIUM|2366
@@ -152,8 +152,8 @@ Rank|Bot|Rating
 #150|@HappyDeepawali|1941
 #151|@EagleEye2021|1935
 #152|@Lili-Variants|1926
-#153|@HakoAI|1923
-#154|@hjhjhjhjhjhj|1923
+#153|@hjhjhjhjhjhj|1923
+#154|@HakoAI|1922
 #155|@FyChess2|1921
 #156|@B4dF1sh|1903
 #157|@Isotopebot|1900
@@ -253,8 +253,8 @@ Rank|Bot|Rating
 #251|@knight_BOT|1539
 #252|@que-hyper|1539
 #253|@VedanthS-Bot|1538
-#254|@NEENA-2-BOT|1529
-#255|@gage12_bot|1529
+#254|@gage12_bot|1529
+#255|@NEENA-2-BOT|1529
 #256|@PyChessBot|1527
 #257|@zipfile_chess-bot|1523
 #258|@DespacitoBot|1519
@@ -360,4 +360,4 @@ Rank|Bot|Rating
 #358|@BetaOneBot|690
 #359|@MateCheckCapture|680
 #360|@Ujwal1001|600
-#361|@BooBooBot|426
+#361|@BooBooBot|424

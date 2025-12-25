@@ -1206,6 +1206,7 @@ futuregmbot
 fychess2
 fychess_bot
 g0thamb0t
+gage12_bot
 galaxy_guardian
 gam3play3r
 gam3play3r-bot
@@ -3429,4 +3430,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-gage12_bot

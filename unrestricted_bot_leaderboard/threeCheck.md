@@ -193,7 +193,7 @@ Rank|Bot|Rating
 #191|@Happy_One|1105
 #192|@DespacitoBot|1080
 #193|@ZX-Chess|1063
-#194|@BooBooBot|1021
+#194|@BooBooBot|1003
 #195|@GuineaBot3|972
 #196|@BogoBot|928
 #197|@MinOpponentMoves|910
