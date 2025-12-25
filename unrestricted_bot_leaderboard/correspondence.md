@@ -393,7 +393,7 @@ Rank|Bot|Rating
 #391|@haibrid_bot|1206
 #392|@rayking311|1206
 #393|@weaklean|1203
-#394|@BooBooBot|1202
+#394|@BooBooBot|1196
 #395|@Grand_MefBartu-BOT|1191
 #396|@TuroBot|1189
 #397|@BetaTree|1181

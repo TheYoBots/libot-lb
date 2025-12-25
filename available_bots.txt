@@ -1936,6 +1936,7 @@ mario_5o
 marlia123456
 marsbot
 martianbot
+marvin-1200
 marvinxbot
 maslenj30
 maslenj5
@@ -2762,6 +2763,7 @@ sohamchessbot
 sohilbot
 solidor59
 solistabot
+solobot
 somebot
 somegobot
 somepythonbot
@@ -3427,5 +3429,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-solobot
-marvin-1200
+gage12_bot
