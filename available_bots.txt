@@ -2599,6 +2599,7 @@ rudim-bot
 rudolph-bot
 ruka-chess
 rukhbot
+rusnikeeai
 rust-bot
 rust-engine
 rust_lang_chess
@@ -3430,4 +3431,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-rusnikeeai
+cruelken
+greek_trainingbot

@@ -186,10 +186,10 @@ Rank|Bot|Rating
 #184|@ZX-Chess|1059
 #185|@morphbot|1035
 #186|@Jannik08_fan|993
-#187|@BooBooBot|975
-#188|@thousandatom|970
-#189|@BogoBot|946
-#190|@SacrificeBot|934
-#191|@MinOpponentMoves|928
+#187|@thousandatom|970
+#188|@BogoBot|946
+#189|@SacrificeBot|934
+#190|@MinOpponentMoves|928
+#191|@BooBooBot|909
 #192|@GuineaBot2|884
 #193|@MateCheckCapture|795
