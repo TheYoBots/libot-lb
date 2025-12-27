@@ -31,6 +31,7 @@ aeternusmaster
 aetherbot
 africaata
 agamed2007
+aggressivestockfish
 aggrobot
 agnay_202524
 ahavaisbotting
@@ -263,6 +264,7 @@ bam_doctabka
 bananaaaaaaaaa_test
 bao-chessvn
 barbotte
+barkoz-tempo
 barryallen14
 basbabas
 battlebot
@@ -1276,6 +1278,7 @@ goldfish-engine
 gonzobot
 good-game-123
 good_bot223344
+goopis
 gorinko_fun_bot
 gothamchessbot
 goutambot
@@ -1940,6 +1943,8 @@ marlia123456
 marsbot
 martianbot
 marvin-1200
+marvin-1600
+marvin-2000
 marvinxbot
 maslenj30
 maslenj5
@@ -3433,8 +3438,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-goopis
-barkoz-tempo
-marvin-1600
-marvin-2000
-aggressivestockfish
