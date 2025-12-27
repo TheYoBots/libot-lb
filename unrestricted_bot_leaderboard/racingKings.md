@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@FayEFish|2556
 #11|@FireFishBOT|2547
 #12|@LudwigBOT|2536
-#13|@ToromBot|2536
+#13|@ToromBot|2533
 #14|@Coolman2021|2527
 #15|@RaspFish|2527
 #16|@EmptikBot|2526
@@ -52,9 +52,9 @@ Rank|Bot|Rating
 #50|@Viet_BOT|2344
 #51|@virus_exe-bot|2342
 #52|@BotsFanClub|2338
-#53|@EvenMatchup|2336
-#54|@chessbot2880|2334
-#55|@varient-chess-bot1|2334
+#53|@varient-chess-bot1|2338
+#54|@EvenMatchup|2336
+#55|@chessbot2880|2334
 #56|@ibep|2333
 #57|@CloudBot_v2|2331
 #58|@Bot_AOOP11|2314
@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@chesshyperbot|2259
 #71|@ESC_BOT|2253
 #72|@relevantproblem|2251
-#73|@OpeningsBot|2246
-#74|@GodelEscherBot|2244
+#73|@GodelEscherBot|2244
+#74|@OpeningsBot|2244
 #75|@is_BOSS|2226
 #76|@ResoluteBot|2225
 #77|@XXIstCentury|2225

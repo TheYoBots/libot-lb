@@ -827,6 +827,7 @@ crocrodile
 crocrodile-dev
 croissantdealer
 cruelbot
+cruelken
 cruisemissile
 cryst_v1
 crystalbot
@@ -1296,6 +1297,7 @@ gravitystorm
 gravy1
 great_bot_7
 greece_bot
+greek_trainingbot
 green_tea_ice_cream
 greg0lord-bot
 greko-bot
@@ -3431,5 +3433,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-cruelken
-greek_trainingbot
+goopis
+barkoz-tempo
+marvin-1600
+marvin-2000
+aggressivestockfish

@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@TTC-BOT_2|1596
 #140|@Karpov_bot|1594
 #141|@Hagfish|1593
-#142|@varient-chess-bot1|1592
+#142|@varient-chess-bot1|1591
 #143|@Danielbot|1575
 #144|@BushyCamper|1563
 #145|@FairyTailRegimeBot|1558
@@ -221,11 +221,11 @@ Rank|Bot|Rating
 #219|@TeamChelsie|1125
 #220|@kazakhfirstbot|1119
 #221|@apollo_bot|1106
-#222|@BooBooBot|1100
-#223|@BogoBot|1099
-#224|@TfXD_Bot|1050
-#225|@jasans_bot|1045
-#226|@Official_bot|1027
+#222|@BogoBot|1099
+#223|@TfXD_Bot|1050
+#224|@jasans_bot|1045
+#225|@Official_bot|1027
+#226|@BooBooBot|1015
 #227|@ZX-Chess|1011
 #228|@Magic11bot_Coach|1001
 #229|@JPSBOT|958
