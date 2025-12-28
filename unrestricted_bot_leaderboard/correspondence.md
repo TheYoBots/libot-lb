@@ -406,7 +406,7 @@ Rank|Bot|Rating
 #404|@Light_To_The_Rescue|1057
 #405|@KateFish|1027
 #406|@NoQueenBot|1011
-#407|@BooBooBot|1010
+#407|@BooBooBot|1009
 #408|@B4ux1t3s-Bot|998
 #409|@mustaley|973
 #410|@BerserkRandomMover|963
