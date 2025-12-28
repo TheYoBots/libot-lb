@@ -116,11 +116,11 @@ Rank|Bot|Rating
 #114|@K_Shi_Bot|1737
 #115|@natural-disaster|1726
 #116|@gage12_bot|1716
-#117|@FairyTailRegimeBot|1705
-#118|@TTC-BOT_2|1703
-#119|@Viet_BOT|1701
-#120|@QuickLiquid|1689
-#121|@varient-chess-bot1|1685
+#117|@varient-chess-bot1|1708
+#118|@FairyTailRegimeBot|1705
+#119|@TTC-BOT_2|1703
+#120|@Viet_BOT|1701
+#121|@QuickLiquid|1689
 #122|@P-chessbot|1660
 #123|@SCP079|1660
 #124|@chessemkabot|1625
