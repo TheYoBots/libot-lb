@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@NienishiEngine|2392
 #30|@TacticalBot|2373
 #31|@EagleEye2021|2365
-#32|@CodeThemOut|2354
+#32|@CodeThemOut|2364
 #33|@KingfishX|2347
 #34|@chesshyperbot|2344
 #35|@EmptikBot|2332
@@ -59,9 +59,9 @@ Rank|Bot|Rating
 #57|@lightspeed_bot|2177
 #58|@Sooraj_Kumar_P_S|2167
 #59|@Peaceful4Life|2160
-#60|@tbhOnBot|2157
-#61|@SCP079|2156
-#62|@BSTAF|2154
+#60|@SCP079|2156
+#61|@BSTAF|2154
+#62|@tbhOnBot|2151
 #63|@TheMatrix2025|2142
 #64|@CloudBot_v2|2131
 #65|@HIWIN1234|2123
@@ -153,7 +153,7 @@ Rank|Bot|Rating
 #151|@Botkingteam33|1525
 #152|@zipfile_chess-bot|1523
 #153|@Monastedrez|1518
-#154|@OpeningsBot|1512
+#154|@OpeningsBot|1511
 #155|@AldoGamer001_Bot|1507
 #156|@NoobMasterBOT|1499
 #157|@ararimbelami|1498
@@ -227,7 +227,7 @@ Rank|Bot|Rating
 #225|@Official_bot|1027
 #226|@ZX-Chess|1011
 #227|@Magic11bot_Coach|1001
-#228|@BooBooBot|972
+#228|@BooBooBot|961
 #229|@JPSBOT|958
 #230|@FireTorchV2|955
 #231|@DanerdBot2|943

@@ -90,9 +90,9 @@ Rank|Bot|Rating
 #88|@pistol-play|1939
 #89|@PROBOT123567|1936
 #90|@PetersTestBot|1935
-#91|@Lila-Stockfish|1917
-#92|@SkyBlaster|1913
-#93|@OpeningsBot|1912
+#91|@OpeningsBot|1921
+#92|@Lila-Stockfish|1917
+#93|@SkyBlaster|1913
 #94|@HyperLitikBOT|1908
 #95|@PowerOnBot|1894
 #96|@CloudBOT|1892
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@No_Username2|1741
 #116|@NotNateBot|1731
 #117|@Crepusculum|1724
-#118|@Groot123456|1718
+#118|@Groot123456|1711
 #119|@SUMEETTHEPRO|1708
 #120|@Yemmi-Yemmi|1702
 #121|@clueless-bot|1685
@@ -194,8 +194,8 @@ Rank|Bot|Rating
 #192|@DespacitoBot|1080
 #193|@ZX-Chess|1063
 #194|@GuineaBot3|972
-#195|@BooBooBot|971
-#196|@BogoBot|928
+#195|@BogoBot|928
+#196|@BooBooBot|926
 #197|@MinOpponentMoves|910
 #198|@TheSystem_Bot|905
 #199|@MateCheckCapture|876

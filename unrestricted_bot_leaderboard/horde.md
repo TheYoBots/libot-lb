@@ -181,8 +181,8 @@ Rank|Bot|Rating
 #179|@alvin-chess-bot|1091
 #180|@FireTorchV2|1011
 #181|@MinOpponentMoves|988
-#182|@MateCheckCapture|885
-#183|@BooBooBot|878
+#182|@BooBooBot|905
+#183|@MateCheckCapture|885
 #184|@GuineaBot2|851
 #185|@RichmondOnBot|834
 #186|@Ramses-Chess|800
