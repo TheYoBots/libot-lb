@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@FireFishBOT|2547
 #12|@ToromBot|2537
 #13|@LudwigBOT|2536
-#14|@Coolman2021|2527
-#15|@RaspFish|2527
+#14|@RaspFish|2529
+#15|@Coolman2021|2527
 #16|@EmptikBot|2526
 #17|@DarkOnBot|2522
 #18|@Nebulogic|2514

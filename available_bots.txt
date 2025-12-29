@@ -753,6 +753,7 @@ cloudbot_v2
 cloudbotzero
 cloudfish
 cloudfunction
+cloudnetbot
 clrsrc_lc0
 clubajedrezchileno
 clubinfosc21
@@ -3438,4 +3439,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-cloudnetbot
