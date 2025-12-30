@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@pistol-play|2437
 #27|@YoBot_v2|2394
 #28|@CloudBOT|2393
-#29|@NienishiEngine|2392
-#30|@CodeThemOut|2386
+#29|@CodeThemOut|2392
+#30|@NienishiEngine|2392
 #31|@TacticalBot|2373
 #32|@EagleEye2021|2365
 #33|@KingfishX|2347
@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@SCP079|2156
 #61|@BSTAF|2154
 #62|@TheMatrix2025|2142
-#63|@tbhOnBot|2140
+#63|@tbhOnBot|2136
 #64|@CloudBot_v2|2131
 #65|@HIWIN1234|2123
 #66|@TestingBot1|2118
@@ -230,7 +230,7 @@ Rank|Bot|Rating
 #228|@JPSBOT|958
 #229|@FireTorchV2|955
 #230|@DanerdBot2|943
-#231|@BooBooBot|924
+#231|@BooBooBot|916
 #232|@RSVMentor|862
 #233|@GuineaBot3|845
 #234|@MateCheckCapture|828

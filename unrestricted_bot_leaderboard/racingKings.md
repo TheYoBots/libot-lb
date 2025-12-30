@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@chesshyperbot|2259
 #71|@ESC_BOT|2253
 #72|@relevantproblem|2251
-#73|@OpeningsBot|2246
+#73|@OpeningsBot|2249
 #74|@GodelEscherBot|2244
 #75|@is_BOSS|2226
 #76|@ResoluteBot|2225

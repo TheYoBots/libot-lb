@@ -9,8 +9,7 @@ Rank|Bot|Rating
 #7|@GoblinAjedrezAI|2518
 #8|@FayEFish|2500
 #9|@tbhOnBot|2465
-#10|@anti-bot|2344
-#11|@ew-bot|2202
-#12|@NilatacBot|2193
-#13|@CatNail|2188
-#14|@OpeningsBot|2154
+#10|@anti-bot|2333
+#11|@NilatacBot|2193
+#12|@CatNail|2190
+#13|@OpeningsBot|2154

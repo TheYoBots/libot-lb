@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
 #13|@ttBOT|2540
-#14|@is_BOSS|2531
+#14|@is_BOSS|2529
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
 #17|@Yebot|2518
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@ElPeonElectrico|2490
 #23|@SF_Bot1nok|2488
 #24|@firstrobot|2485
-#25|@ShredderGrizzly|2479
-#26|@tbhOnBot|2478
+#25|@tbhOnBot|2480
+#26|@ShredderGrizzly|2479
 #27|@NormalBulletBot|2474
 #28|@LoseisnotAvailablehe|2466
 #29|@PepsiForAll|2448
@@ -199,8 +199,8 @@ Rank|Bot|Rating
 #197|@pussaW|1732
 #198|@QuickLiquid|1730
 #199|@NuclearGandhiBOT|1729
-#200|@OpeningsBot|1727
-#201|@MyNameIsWhatLOL|1726
+#200|@MyNameIsWhatLOL|1726
+#201|@OpeningsBot|1726
 #202|@Epiano_Bot|1724
 #203|@Bot1nokk|1722
 #204|@SomeBot|1711

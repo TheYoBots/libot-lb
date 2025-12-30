@@ -3439,3 +3439,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+philiengine
+marvin-2400

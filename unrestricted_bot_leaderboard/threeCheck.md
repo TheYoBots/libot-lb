@@ -197,8 +197,8 @@ Rank|Bot|Rating
 #195|@GuineaBot3|972
 #196|@BogoBot|928
 #197|@MinOpponentMoves|910
-#198|@BooBooBot|909
-#199|@TheSystem_Bot|905
+#198|@TheSystem_Bot|905
+#199|@BooBooBot|880
 #200|@MateCheckCapture|876
 #201|@BOT_Stockfish13|800
 #202|@BOTbotBOTbotBotrobot|726
