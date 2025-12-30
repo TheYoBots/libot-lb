@@ -1,4 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2244
-#2|@Cimille|1442
+#1|@OpeningsBot|2247
+#2|@GarboBot|2001
+#3|@Cimille|1435

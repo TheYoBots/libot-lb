@@ -114,9 +114,9 @@ Rank|Bot|Rating
 #112|@Viet-BOT|1750
 #113|@clrsrc_lc0|1742
 #114|@K_Shi_Bot|1737
-#115|@natural-disaster|1726
-#116|@gage12_bot|1716
-#117|@varient-chess-bot1|1708
+#115|@varient-chess-bot1|1730
+#116|@natural-disaster|1726
+#117|@gage12_bot|1716
 #118|@FairyTailRegimeBot|1705
 #119|@TTC-BOT_2|1703
 #120|@Viet_BOT|1701
@@ -128,9 +128,9 @@ Rank|Bot|Rating
 #126|@Ramses-Chess|1608
 #127|@Breeze-Hot|1606
 #128|@Just-a-random-bot|1604
-#129|@Groot123456|1584
-#130|@MMC_HUANGBAI|1569
-#131|@Epiano_Bot|1567
+#129|@MMC_HUANGBAI|1569
+#130|@Epiano_Bot|1567
+#131|@Groot123456|1567
 #132|@Toxic_Bot|1541
 #133|@SXDEFENDER|1534
 #134|@Light_To_The_Rescue|1523
@@ -191,5 +191,5 @@ Rank|Bot|Rating
 #189|@SacrificeBot|934
 #190|@MinOpponentMoves|928
 #191|@GuineaBot2|884
-#192|@BooBooBot|853
+#192|@BooBooBot|835
 #193|@MateCheckCapture|795

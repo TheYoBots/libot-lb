@@ -1946,6 +1946,7 @@ martianbot
 marvin-1200
 marvin-1600
 marvin-2000
+marvin-2400
 marvinxbot
 maslenj30
 maslenj5
@@ -2338,6 +2339,7 @@ phalanx-xxv
 phamhoangbaoaa
 phanxuanhuy1972
 phess
+philiengine
 phoenix-the-bot
 phoenix3-1
 phoenix_engine
@@ -3439,5 +3441,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-philiengine
-marvin-2400
+ai_council
