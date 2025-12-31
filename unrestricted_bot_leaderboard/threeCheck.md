@@ -74,10 +74,10 @@ Rank|Bot|Rating
 #72|@Official_bot|2041
 #73|@Resolved-Bot|2026
 #74|@SacrificialSage|2026
-#75|@varient-chess-bot1|2022
-#76|@BalloonBot|2017
-#77|@firstrobot|2003
-#78|@Hyper-Stockfish|1986
+#75|@BalloonBot|2017
+#76|@firstrobot|2003
+#77|@Hyper-Stockfish|1986
+#78|@varient-chess-bot1|1978
 #79|@GodelEscherBot|1974
 #80|@XXIstCentury|1973
 #81|@MMC_HUANGBAI|1965
@@ -116,9 +116,9 @@ Rank|Bot|Rating
 #114|@XXXTryandTryXXX|1747
 #115|@CBNguyen_Bot|1741
 #116|@No_Username2|1741
-#117|@NotNateBot|1731
-#118|@Crepusculum|1724
-#119|@Groot123456|1711
+#117|@Groot123456|1734
+#118|@NotNateBot|1731
+#119|@Crepusculum|1724
 #120|@SUMEETTHEPRO|1708
 #121|@Yemmi-Yemmi|1702
 #122|@clueless-bot|1685
@@ -199,6 +199,6 @@ Rank|Bot|Rating
 #197|@MinOpponentMoves|910
 #198|@TheSystem_Bot|905
 #199|@MateCheckCapture|876
-#200|@BooBooBot|869
+#200|@BooBooBot|853
 #201|@BOT_Stockfish13|800
 #202|@BOTbotBOTbotBotrobot|726

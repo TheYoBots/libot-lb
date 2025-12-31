@@ -184,5 +184,5 @@ Rank|Bot|Rating
 #182|@MateCheckCapture|885
 #183|@GuineaBot2|851
 #184|@RichmondOnBot|834
-#185|@BooBooBot|830
+#185|@BooBooBot|828
 #186|@Ramses-Chess|800

@@ -41,6 +41,7 @@ ai-electro
 ai-energy
 ai-rapid
 ai69
+ai_council
 aialphaai
 aicaroline
 aiden_987
@@ -3441,4 +3442,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ai_council
