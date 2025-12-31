@@ -199,6 +199,5 @@ Rank|Bot|Rating
 #197|@MinOpponentMoves|910
 #198|@TheSystem_Bot|905
 #199|@MateCheckCapture|876
-#200|@BooBooBot|853
-#201|@BOT_Stockfish13|800
-#202|@BOTbotBOTbotBotrobot|726
+#200|@BOT_Stockfish13|800
+#201|@BOTbotBOTbotBotrobot|726

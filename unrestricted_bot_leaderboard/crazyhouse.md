@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@TheMatrix2029|2458
 #25|@abhisun_bot|2444
 #26|@pistol-play|2437
-#27|@CodeThemOut|2426
+#27|@CodeThemOut|2435
 #28|@YoBot_v2|2394
 #29|@CloudBOT|2393
 #30|@NienishiEngine|2392
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@NormalBlitzBulletBot|2278
 #43|@MalanChess|2273
 #44|@BitExtender128|2272
-#45|@FayEFish|2272
+#45|@FayEFish|2265
 #46|@Bobby_Fischer_BOT|2251
 #47|@Mega_BOT|2240
 #48|@ElPeonElectrico|2228
@@ -233,7 +233,6 @@ Rank|Bot|Rating
 #231|@RSVMentor|862
 #232|@GuineaBot3|845
 #233|@MateCheckCapture|828
-#234|@BooBooBot|808
-#235|@DanerdBot|808
-#236|@TrashBot|800
-#237|@MinOpponentMoves|783
+#234|@DanerdBot|808
+#235|@TrashBot|800
+#236|@MinOpponentMoves|783
