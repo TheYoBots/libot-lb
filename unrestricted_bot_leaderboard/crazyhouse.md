@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@TheMatrix2029|2458
 #25|@abhisun_bot|2444
 #26|@pistol-play|2437
-#27|@CodeThemOut|2426
+#27|@CodeThemOut|2429
 #28|@YoBot_v2|2394
 #29|@CloudBOT|2393
 #30|@NienishiEngine|2392
@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@SixtyFourEngine|2089
 #69|@relevantproblem|2077
 #70|@GodelEscherBot|2071
-#71|@DarkOnBot|2064
+#71|@DarkOnBot|2061
 #72|@TheLegitLegend2|2059
 #73|@newengine2022|2050
 #74|@PowerOnBot|2050
