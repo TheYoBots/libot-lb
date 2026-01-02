@@ -333,7 +333,7 @@ Rank|Bot|Rating
 #331|@dtsudo|1449
 #332|@CheezyGlizzyEater|1444
 #333|@AndrewYXZBot|1436
-#334|@Cimille|1430
+#334|@Cimille|1434
 #335|@ReallyBadPlayerBot|1428
 #336|@LuciferCat|1426
 #337|@JupiterBot|1421
@@ -397,7 +397,7 @@ Rank|Bot|Rating
 #395|@TuroBot|1189
 #396|@BetaTree|1181
 #397|@sudobot_chess|1140
-#398|@grandQ_AI|1137
+#398|@grandQ_AI|1134
 #399|@ertugruldemir|1131
 #400|@Bot-31795|1127
 #401|@szuwar8716|1116
