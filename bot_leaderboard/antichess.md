@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@FayEFish|2490
 #10|@tbhOnBot|2473
 #11|@anti-bot|2337
-#12|@NilatacBot|2200
+#12|@NilatacBot|2213
 #13|@OpeningsBot|2158
 #14|@CatNail|2078
 #15|@Groot123456|1965

@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Coolman2021|2757
 #5|@FireFishBOT|2726
 #6|@PepsiForAll|2699
-#7|@ToromBot|2654
+#7|@ToromBot|2684
 #8|@ttBOT|2584
 #9|@compchess2|2579
 #10|@Lili-ai|2572

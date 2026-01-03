@@ -136,10 +136,10 @@ Rank|Bot|Rating
 #134|@SaturnBot|2214
 #135|@xDmanBOT|2214
 #136|@YellowFlash_v2|2214
-#137|@CoderDen732|2207
-#138|@NormalBlitzBulletBot|2205
-#139|@EstmileBot|2200
-#140|@NilatacBot|2200
+#137|@NilatacBot|2213
+#138|@CoderDen732|2207
+#139|@NormalBlitzBulletBot|2205
+#140|@EstmileBot|2200
 #141|@zipfile_chess-bot|2200
 #142|@HerokuHasnotplay|2196
 #143|@Lucror|2178

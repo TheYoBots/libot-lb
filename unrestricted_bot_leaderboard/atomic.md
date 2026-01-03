@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Bharat_royals|2575
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
-#13|@is_BOSS|2545
+#13|@is_BOSS|2548
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@firstrobot|2485
 #24|@SF_Bot1nok|2480
 #25|@ShredderGrizzly|2479
-#26|@tbhOnBot|2475
+#26|@tbhOnBot|2476
 #27|@NormalBulletBot|2474
 #28|@LoseisnotAvailablehe|2466
 #29|@PepsiForAll|2448
@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@FayEFish|2430
 #32|@RaspFish|2416
 #33|@GoblinAjedrezAI|2411
-#34|@ToromBot|2404
-#35|@Fairy-Stockfish|2402
+#34|@Fairy-Stockfish|2402
+#35|@ToromBot|2396
 #36|@Bullet_bot_0526|2391
 #37|@DarkOnBot|2390
 #38|@abhisun_bot|2384
@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@VariantsTop|1974
 #145|@VarianteBOT|1970
 #146|@Ssech_BOT|1967
-#147|@HakoAI|1959
-#148|@AEBROADUSBOTTER|1958
+#147|@AEBROADUSBOTTER|1958
+#148|@HakoAI|1958
 #149|@AtomicRouletteBot|1955
 #150|@atomicli|1951
 #151|@HappyDeepawali|1941
@@ -205,7 +205,7 @@ Rank|Bot|Rating
 #203|@SomeBot|1711
 #204|@Grand_MefBartu-BOT|1709
 #205|@Crepusculum|1708
-#206|@OpeningsBot|1704
+#206|@OpeningsBot|1703
 #207|@KuhusBOT|1697
 #208|@CloudBOT|1689
 #209|@TheLegendaryKnight|1689

@@ -333,7 +333,7 @@ Rank|Bot|Rating
 #331|@dtsudo|1449
 #332|@CheezyGlizzyEater|1444
 #333|@AndrewYXZBot|1436
-#334|@Cimille|1434
+#334|@Cimille|1431
 #335|@ReallyBadPlayerBot|1428
 #336|@LuciferCat|1426
 #337|@JupiterBot|1421
