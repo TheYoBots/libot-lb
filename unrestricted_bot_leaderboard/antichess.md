@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@HIWIN1234|2623
 #39|@Kizbuurb|2621
 #40|@Lili-ai|2619
-#41|@KingfishX|2612
-#42|@RaspFish|2612
+#41|@RaspFish|2616
+#42|@KingfishX|2612
 #43|@IAMSTOCKFISH123|2603
 #44|@ChessBot3021|2599
 #45|@fairy-vvrr|2598
@@ -104,9 +104,9 @@ Rank|Bot|Rating
 #102|@Resolved-Bot|2369
 #103|@Trumpfor2O2O|2366
 #104|@HuxZero|2361
-#105|@Nakshatra3|2360
-#106|@Less_of_a_threat|2357
-#107|@Viet_BOT|2354
+#105|@Less_of_a_threat|2357
+#106|@Viet_BOT|2354
+#107|@Nakshatra3|2353
 #108|@higuyuu67776|2352
 #109|@HakoAI|2338
 #110|@anti-bot|2337

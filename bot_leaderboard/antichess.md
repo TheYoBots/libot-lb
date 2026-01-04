@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@SF_Bot1nok|2795
 #4|@abdcebot|2769
 #5|@bot1e|2767
-#6|@RaspFish|2612
+#6|@RaspFish|2616
 #7|@DarkOnBot|2506
 #8|@GoblinAjedrezAI|2496
 #9|@FayEFish|2487
