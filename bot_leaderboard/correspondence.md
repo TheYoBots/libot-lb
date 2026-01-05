@@ -4,4 +4,4 @@ Rank|Bot|Rating
 #2|@GarboBot|1998
 #3|@Jibbby|1853
 #4|@katzebot|1618
-#5|@Cimille|1427
+#5|@Cimille|1423

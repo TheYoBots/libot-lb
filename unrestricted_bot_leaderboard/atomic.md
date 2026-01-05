@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@KizVariant|2597
 #9|@pistol-play|2590
 #10|@Bharat_royals|2575
-#11|@is_BOSS|2567
+#11|@is_BOSS|2561
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
 #14|@ttBOT|2540
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@NormalBulletBot|2474
 #26|@SF_Bot1nok|2472
 #27|@LoseisnotAvailablehe|2466
-#28|@tbhOnBot|2462
+#28|@tbhOnBot|2466
 #29|@PepsiForAll|2448
 #30|@eNErGyOFbEiNGbOT|2431
 #31|@FayEFish|2430
@@ -35,14 +35,14 @@ Rank|Bot|Rating
 #33|@GoblinAjedrezAI|2411
 #34|@ToromBot|2409
 #35|@Fairy-Stockfish|2402
-#36|@DarkOnBot|2393
+#36|@DarkOnBot|2397
 #37|@Bullet_bot_0526|2391
 #38|@abhisun_bot|2384
 #39|@KingfishX|2369
 #40|@mrchessmanager|2369
 #41|@Stockfish-MEDIUM|2366
 #42|@Resolved-Bot|2363
-#43|@MEGA-NOOB-BOT|2361
+#43|@MEGA-NOOB-BOT|2362
 #44|@CloudBot_v2|2357
 #45|@faith_bot|2353
 #46|@Lila-Stockfish|2350
@@ -205,8 +205,8 @@ Rank|Bot|Rating
 #203|@SomeBot|1711
 #204|@Grand_MefBartu-BOT|1709
 #205|@Crepusculum|1708
-#206|@OpeningsBot|1702
-#207|@KuhusBOT|1697
+#206|@KuhusBOT|1697
+#207|@OpeningsBot|1692
 #208|@CloudBOT|1689
 #209|@TheLegendaryKnight|1689
 #210|@Bot-2564|1686

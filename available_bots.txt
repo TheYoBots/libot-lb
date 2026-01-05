@@ -105,6 +105,7 @@ alphagpt
 alphaleela0
 alphaminustwo
 alphamovebot
+alphaonebot
 alphazher0
 altair8000
 altair_engine
@@ -3444,4 +3445,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-alphaonebot
+bilbob47
