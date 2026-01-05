@@ -144,8 +144,8 @@ Rank|Bot|Rating
 #142|@HerokuHasnotplay|2196
 #143|@Lucror|2178
 #144|@GegeneBOT|2177
-#145|@DeepFriedFish|2165
-#146|@OpeningsBot|2163
+#145|@OpeningsBot|2166
+#146|@DeepFriedFish|2165
 #147|@lightspeed_bot|2152
 #148|@AntiChessBot|2142
 #149|@AnUtterlyKarBot|2134
@@ -153,9 +153,9 @@ Rank|Bot|Rating
 #151|@Stockfish-MEDIUM|2117
 #152|@PyChessBot|2102
 #153|@TurkiyeHogwartsBOT|2099
-#154|@P-chessbot|2067
-#155|@ZamuChess|2049
-#156|@CatNail|2042
+#154|@CatNail|2072
+#155|@P-chessbot|2067
+#156|@ZamuChess|2049
 #157|@Botzer|2020
 #158|@Jussicas|2019
 #159|@CloudBotZero|2018
@@ -169,7 +169,7 @@ Rank|Bot|Rating
 #167|@CloudBOT|1950
 #168|@SriLankaChess|1925
 #169|@TestingBot1|1914
-#170|@pawnrobot|1882
+#170|@pawnrobot|1883
 #171|@Crepusculum|1881
 #172|@NoTallkOnlyGames|1871
 #173|@Lumac0|1861

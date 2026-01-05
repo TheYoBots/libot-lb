@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@tbhOnBot|2471
 #10|@anti-bot|2337
 #11|@NilatacBot|2203
-#12|@OpeningsBot|2163
-#13|@CatNail|2042
+#12|@OpeningsBot|2166
+#13|@CatNail|2072
 #14|@Groot123456|1965
-#15|@pawnrobot|1882
+#15|@pawnrobot|1883

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Magicianrobot|2853
+#1|@Magicianrobot|2880
 #2|@AlfaBot|2590
 #3|@VariantsBot|2579
 #4|@KizVariant|2521
