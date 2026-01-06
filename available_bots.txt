@@ -326,6 +326,7 @@ bharat_royals
 bigbrainen
 bigbrainernn
 bigearschess
+bilbob47
 binarybrain
 bingo202
 bionic_x
@@ -3445,4 +3446,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bilbob47
+nice_bot
+sxphia
+bot_mittens
