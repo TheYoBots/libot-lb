@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@XXXTryandTryXXX|1747
 #115|@CBNguyen_Bot|1741
 #116|@No_Username2|1741
-#117|@Groot123456|1734
-#118|@NotNateBot|1731
+#117|@NotNateBot|1731
+#118|@Groot123456|1725
 #119|@Crepusculum|1724
 #120|@SUMEETTHEPRO|1708
 #121|@Yemmi-Yemmi|1702

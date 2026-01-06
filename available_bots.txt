@@ -440,6 +440,7 @@ bot_hara
 bot_licorne
 bot_master_1359
 bot_mcbotface
+bot_mittens
 bot_of_jotim431
 bot_prueba_xd
 bot_stockfish13
@@ -2162,6 +2163,7 @@ nezh-bot
 nezuko_chess
 nibblebot
 nicarao_chess
+nice_bot
 nicetohityou2000
 nicholaswb_bot
 nichteliasbot
@@ -2948,6 +2950,7 @@ sxdefender
 sxdraw
 sxdrawbetter
 sxdrawworse
+sxphia
 sxrandom
 sybbot
 sylvestrec
@@ -3446,6 +3449,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-nice_bot
-sxphia
-bot_mittens
+felipe_bot_53

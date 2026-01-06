@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@KizVariant|2597
 #9|@pistol-play|2590
 #10|@Bharat_royals|2575
-#11|@is_BOSS|2564
+#11|@is_BOSS|2561
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
 #14|@ttBOT|2540
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@NormalBulletBot|2474
 #26|@SF_Bot1nok|2472
 #27|@LoseisnotAvailablehe|2466
-#28|@tbhOnBot|2462
+#28|@tbhOnBot|2465
 #29|@PepsiForAll|2448
 #30|@eNErGyOFbEiNGbOT|2431
 #31|@FayEFish|2430
@@ -277,11 +277,11 @@ Rank|Bot|Rating
 #275|@thibot|1470
 #276|@fastandfurious10|1464
 #277|@EDSPBOT|1463
-#278|@Groot123456|1455
-#279|@Dong_Xiao_Yuan|1454
-#280|@Future_Chess_Pro|1453
-#281|@MyNameIsSpeeedy|1453
-#282|@BotGeorge|1449
+#278|@Dong_Xiao_Yuan|1454
+#279|@Future_Chess_Pro|1453
+#280|@MyNameIsSpeeedy|1453
+#281|@BotGeorge|1449
+#282|@Groot123456|1445
 #283|@AIAlphaAI|1442
 #284|@darkb0t|1441
 #285|@KaTHHHH|1440
