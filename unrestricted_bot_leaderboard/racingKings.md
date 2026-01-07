@@ -67,10 +67,10 @@ Rank|Bot|Rating
 #65|@YoBot_v2|2287
 #66|@AlfaBot|2278
 #67|@gage12_bot|2266
-#68|@OpeningsBot|2266
-#69|@Mega_BOT|2264
-#70|@MalanChess|2261
-#71|@chesshyperbot|2259
+#68|@Mega_BOT|2264
+#69|@MalanChess|2261
+#70|@chesshyperbot|2259
+#71|@OpeningsBot|2257
 #72|@ESC_BOT|2253
 #73|@relevantproblem|2251
 #74|@GodelEscherBot|2244

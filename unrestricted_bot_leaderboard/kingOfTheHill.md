@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Magicianrobot|2904
+#1|@Magicianrobot|2919
 #2|@AlfaBot|2590
 #3|@VariantsBot|2579
 #4|@KizVariant|2521
@@ -174,8 +174,8 @@ Rank|Bot|Rating
 #172|@knight_128|1233
 #173|@MyNameIsSpeedy|1226
 #174|@Bottios|1223
-#175|@pawnrobot|1220
-#176|@DanerdBot|1210
+#175|@DanerdBot|1210
+#176|@pawnrobot|1210
 #177|@RSVMentor|1196
 #178|@Boom_Bot|1176
 #179|@TrashBot|1168
