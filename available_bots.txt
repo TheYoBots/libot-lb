@@ -1182,6 +1182,7 @@ fluffballcuddly
 flying-dutchman-bot
 flying-rebel
 fn_waldi
+follychess-com
 for9e
 forerito
 fornax-engine
@@ -1216,6 +1217,7 @@ future_training96
 futuregmbot
 fychess2
 fychess_bot
+g-sigmag-13
 g0thamb0t
 gage12_bot
 galaxy_guardian
@@ -1630,6 +1632,7 @@ kelpbot
 kerchbot
 keremcura15r
 kevbot_sf
+kevbot_v2
 kewin1
 khanh-chess-stocfish
 khanh_bot
@@ -2529,6 +2532,7 @@ re-bot
 realchessengine
 reallybadplayerbot
 reallycrazybot
+reaper1bot
 recklessengine
 recontinue
 redengine
@@ -2894,6 +2898,7 @@ stormphraxengine
 storng766555
 strain-on-veins
 strategemx
+strawberrychess1
 strawberrycupcakee
 streamervschat
 striker_bot
@@ -3451,8 +3456,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-follychess-com
-strawberrychess1
-reaper1bot
-g-sigmag-13
-kevbot_v2
