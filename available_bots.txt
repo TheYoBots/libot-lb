@@ -3351,6 +3351,7 @@ worstfishv2
 wretchedzero
 wrychess-bot
 wtrcc
+wujabbot
 x2-itl
 xadreco
 xbbjp
@@ -3450,4 +3451,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-wujabbot
+follychess-com
+strawberrychess1
+reaper1bot
+g-sigmag-13
+kevbot_v2

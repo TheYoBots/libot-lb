@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Bharat_royals|2575
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
-#13|@is_BOSS|2554
+#13|@is_BOSS|2553
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
@@ -24,9 +24,9 @@ Rank|Bot|Rating
 #22|@ElPeonElectrico|2490
 #23|@firstrobot|2485
 #24|@ShredderGrizzly|2479
-#25|@NormalBulletBot|2474
-#26|@SF_Bot1nok|2472
-#27|@tbhOnBot|2472
+#25|@tbhOnBot|2476
+#26|@NormalBulletBot|2474
+#27|@SF_Bot1nok|2472
 #28|@LoseisnotAvailablehe|2466
 #29|@PepsiForAll|2448
 #30|@eNErGyOFbEiNGbOT|2431
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@GoblinAjedrezAI|2412
 #34|@DarkOnBot|2404
 #35|@Fairy-Stockfish|2402
-#36|@ToromBot|2402
+#36|@ToromBot|2396
 #37|@Bullet_bot_0526|2391
 #38|@abhisun_bot|2384
 #39|@KingfishX|2369
@@ -217,7 +217,7 @@ Rank|Bot|Rating
 #215|@Bosburp777|1675
 #216|@OpeningsBot|1675
 #217|@Hagfish|1670
-#218|@P-chessbot|1668
+#218|@P-chessbot|1666
 #219|@DaKingsOfficialBOT|1660
 #220|@TurritopsisDohrnii0|1656
 #221|@Johan201023_Twitch|1655
@@ -311,9 +311,9 @@ Rank|Bot|Rating
 #309|@DobbyBot|1334
 #310|@The_A_and_D_Club|1332
 #311|@NOTBOTFORSURE|1327
-#312|@pawnrobot|1323
-#313|@TheSystem_Bot|1318
-#314|@PROBROMAN|1317
+#312|@TheSystem_Bot|1318
+#313|@PROBROMAN|1317
+#314|@pawnrobot|1313
 #315|@Atomicbot1|1294
 #316|@DavidsGuterBot|1287
 #317|@XXXTryandTryXXX|1280
