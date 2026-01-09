@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@lord-bot|2362
 #22|@Hyper-Stockfish|2358
 #23|@Bullet_bot_0526|2344
-#24|@RaspFish|2343
+#24|@RaspFish|2344
 #25|@eNErGyOFbEiNGbOT|2326
 #26|@Alexnajax_Fan|2316
 #27|@AlfaBot|2293
@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@PowerOnBot|1258
 #167|@xDmanBOT|1258
 #168|@yobmef|1258
-#169|@pawnrobot|1222
+#169|@pawnrobot|1235
 #170|@TheSystem_Bot|1218
 #171|@GuineaBot3|1212
 #172|@admin-bot|1209

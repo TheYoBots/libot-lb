@@ -185,10 +185,10 @@ Rank|Bot|Rating
 #183|@OurBot|1836
 #184|@Aromik_s_bot|1831
 #185|@BestJSEngine|1826
-#186|@Humanoid_1800|1820
-#187|@untrained4406|1817
-#188|@Black_Knight2006|1815
-#189|@Hoplites|1813
+#186|@untrained4406|1817
+#187|@Black_Knight2006|1815
+#188|@Hoplites|1813
+#189|@Humanoid_1800|1813
 #190|@cool_boy_bot|1812
 #191|@Sub_Bot|1808
 #192|@DrMeowMeow|1800
@@ -337,8 +337,8 @@ Rank|Bot|Rating
 #335|@LuciferCat|1426
 #336|@JupiterBot|1421
 #337|@sunfish_rs|1414
-#338|@Cimille|1413
-#339|@emptedkiller|1413
+#338|@emptedkiller|1413
+#339|@Cimille|1410
 #340|@WaspBot|1410
 #341|@Egeytek|1405
 #342|@AllieTheChessBot|1394

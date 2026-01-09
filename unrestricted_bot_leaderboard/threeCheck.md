@@ -170,10 +170,10 @@ Rank|Bot|Rating
 #168|@Harry_Potterz|1316
 #169|@allvariants|1310
 #170|@NoTallkOnlyGames|1293
-#171|@pawnrobot|1291
-#172|@Light_To_The_Rescue|1277
-#173|@Sanjana_Kambala-BOT|1273
-#174|@TheLegendaryKnight|1272
+#171|@Light_To_The_Rescue|1277
+#172|@Sanjana_Kambala-BOT|1273
+#173|@TheLegendaryKnight|1272
+#174|@pawnrobot|1270
 #175|@EstmileBot|1269
 #176|@Parth_Dhage_2|1258
 #177|@MyNameIsWhatLOL|1256

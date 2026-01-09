@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@abdcebot|2447
 #4|@Bot1nokk|2426
 #5|@bot1e|2421
-#6|@RaspFish|2343
+#6|@RaspFish|2344
 #7|@FayEFish|2192
 #8|@tbhOnBot|2178
 #9|@DarkOnBot|2177
