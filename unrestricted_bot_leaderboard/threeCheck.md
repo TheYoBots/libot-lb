@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Magicianrobot|2843
+#1|@Magicianrobot|2847
 #2|@AlfaBot|2797
 #3|@VariantsBot|2759
 #4|@Viet-AI|2672
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@vrnts_colinbot|2266
 #43|@HIWIN1234|2261
 #44|@YoBot_v2|2257
-#45|@RaspFish|2237
+#45|@RaspFish|2241
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
 #48|@xiang-qi|2207

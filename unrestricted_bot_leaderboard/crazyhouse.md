@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@UltronBot|2197
 #55|@Viet-BOT|2185
 #56|@lightspeed_bot|2177
-#57|@Bot_Mittens|2172
+#57|@Bot_Mittens|2173
 #58|@Sooraj_Kumar_P_S|2167
 #59|@Peaceful4Life|2160
 #60|@SCP079|2156

@@ -2875,6 +2875,7 @@ stockfishdevbuilds
 stockfishengine_v12
 stockfishjs
 stockfishlevel_8
+stockfishlowdepth
 stockfishofficial
 stockfishpower
 stockfishpro-2025
@@ -3456,4 +3457,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-stockfishlowdepth
+zeno-bot

@@ -143,7 +143,7 @@ Rank|Bot|Rating
 #141|@zeekat|2004
 #142|@honzovy-sachy|2002
 #143|@TESTBOT23|2000
-#144|@GarboBot|1992
+#144|@GarboBot|1993
 #145|@Zer0_Tw0|1992
 #146|@YoBot_v2|1984
 #147|@Virutor|1980
@@ -188,9 +188,9 @@ Rank|Bot|Rating
 #186|@untrained4406|1817
 #187|@Black_Knight2006|1815
 #188|@Hoplites|1813
-#189|@Humanoid_1800|1813
-#190|@cool_boy_bot|1812
-#191|@Sub_Bot|1808
+#189|@cool_boy_bot|1812
+#190|@Sub_Bot|1808
+#191|@Humanoid_1800|1801
 #192|@DrMeowMeow|1800
 #193|@stockfish12_Johan|1798
 #194|@BetaOneBot|1792
