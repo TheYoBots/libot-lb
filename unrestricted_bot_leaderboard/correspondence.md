@@ -338,8 +338,8 @@ Rank|Bot|Rating
 #336|@JupiterBot|1421
 #337|@sunfish_rs|1414
 #338|@emptedkiller|1413
-#339|@Cimille|1410
-#340|@WaspBot|1410
+#339|@WaspBot|1410
+#340|@Cimille|1405
 #341|@Egeytek|1405
 #342|@AllieTheChessBot|1394
 #343|@PZChessBot|1387

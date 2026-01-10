@@ -3432,6 +3432,7 @@ zamuchess
 zas_en_toda_la_boca
 ze_rook
 zeekat
+zeno-bot
 zeputikkubot
 zer0_tw0
 zerbinetto
@@ -3457,4 +3458,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-zeno-bot
+botsuxx
+leelaanyodds
