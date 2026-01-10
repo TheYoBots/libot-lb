@@ -20,14 +20,14 @@ Rank|Bot|Rating
 #18|@FayEFish|2317
 #19|@Viet-AI|2317
 #20|@Fairy_Belzedar|2316
-#21|@GoblinAjedrezAI|2313
+#21|@GoblinAjedrezAI|2316
 #22|@MalanChess|2292
 #23|@LudwigBOT|2281
 #24|@LoseisnotAvailablehe|2274
 #25|@HIWIN1234|2268
 #26|@Bobby_Fischer_BOT|2267
 #27|@lord-bot|2258
-#28|@DarkOnBot|2253
+#28|@DarkOnBot|2257
 #29|@YoBot_v2|2242
 #30|@ResoluteBot|2233
 #31|@ttBOT|2230
@@ -88,7 +88,7 @@ Rank|Bot|Rating
 #86|@azdad|1936
 #87|@HyperLitikBOT|1930
 #88|@SacrificialSage|1925
-#89|@colinbot|1914
+#89|@colinbot|1905
 #90|@DrSmartBugs|1904
 #91|@Variantenkoning|1892
 #92|@PetersTestBot|1890

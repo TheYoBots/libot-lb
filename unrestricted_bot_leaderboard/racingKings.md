@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@IAMSTOCKFISH123|2307
 #62|@TestingBot1|2294
 #63|@NormalBulletBot|2291
-#64|@colinbot|2288
+#64|@colinbot|2289
 #65|@YoBot_v2|2287
 #66|@AlfaBot|2278
 #67|@gage12_bot|2266

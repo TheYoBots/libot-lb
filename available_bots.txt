@@ -498,6 +498,7 @@ botsimulator
 botsky16
 botsss
 botstockfish09
+botsuxx
 botsy
 bottdr08
 botteam-com
@@ -1761,6 +1762,7 @@ leela_960
 leela_bot
 leela_policy
 leela_t40_42810
+leelaanyodds
 leelablunderbot
 leelabotmaster
 leelabotsy
@@ -3458,5 +3460,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-botsuxx
-leelaanyodds
+ultra_master2000
+haikuro-bot
+cgtbot
+quantumknightv2
