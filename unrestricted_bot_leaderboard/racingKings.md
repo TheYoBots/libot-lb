@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@Coolman2021|2527
 #15|@EmptikBot|2526
 #16|@DarkOnBot|2522
-#17|@RaspFish|2520
+#17|@RaspFish|2522
 #18|@Nebulogic|2514
 #19|@SCP079|2513
 #20|@tbhOnBot|2512

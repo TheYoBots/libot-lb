@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@Kizburb|2214
 #48|@xiang-qi|2207
 #49|@YellowFlash_v2|2200
-#50|@colinbot|2187
+#50|@colinbot|2188
 #51|@DeepFriedFish|2185
 #52|@virus_exe-bot|2180
 #53|@ReallyCrazyBOT|2172
@@ -173,8 +173,8 @@ Rank|Bot|Rating
 #171|@Light_To_The_Rescue|1277
 #172|@Sanjana_Kambala-BOT|1273
 #173|@TheLegendaryKnight|1272
-#174|@pawnrobot|1270
-#175|@EstmileBot|1269
+#174|@EstmileBot|1269
+#175|@pawnrobot|1261
 #176|@Parth_Dhage_2|1258
 #177|@MyNameIsWhatLOL|1256
 #178|@SneakyBot21|1256

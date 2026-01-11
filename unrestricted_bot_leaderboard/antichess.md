@@ -40,9 +40,9 @@ Rank|Bot|Rating
 #38|@HIWIN1234|2623
 #39|@Kizbuurb|2621
 #40|@Lili-ai|2619
-#41|@RaspFish|2616
-#42|@KingfishX|2612
-#43|@Bot_Mittens|2604
+#41|@Bot_Mittens|2616
+#42|@RaspFish|2616
+#43|@KingfishX|2612
 #44|@IAMSTOCKFISH123|2603
 #45|@ChessBot3021|2599
 #46|@fairy-vvrr|2598
@@ -66,8 +66,8 @@ Rank|Bot|Rating
 #64|@Nam-Robot|2537
 #65|@DarkOnBot|2530
 #66|@Dark_evil_bot|2525
-#67|@Nakshatra3|2522
-#68|@Bot_AOOP11|2521
+#67|@Bot_AOOP11|2521
+#68|@Nakshatra3|2517
 #69|@HyperLitikBOT|2511
 #70|@pistol-play|2498
 #71|@FayEFish|2490
@@ -152,8 +152,8 @@ Rank|Bot|Rating
 #150|@AnUtterlyKarBot|2134
 #151|@XXIstCentury|2131
 #152|@Stockfish-MEDIUM|2117
-#153|@CatNail|2106
-#154|@PyChessBot|2102
+#153|@PyChessBot|2102
+#154|@CatNail|2100
 #155|@TurkiyeHogwartsBOT|2099
 #156|@P-chessbot|2067
 #157|@ZamuChess|2049

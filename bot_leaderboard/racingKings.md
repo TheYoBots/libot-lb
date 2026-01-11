@@ -1,3 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2257
+#1|@RaspFish|2522
+#2|@OpeningsBot|2257

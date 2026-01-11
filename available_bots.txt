@@ -617,6 +617,7 @@ centaur_unarmedlad
 cerebellumoriginal
 cesium119
 cgetacticmode
+cgtbot
 ch4rl3s
 chai-chessbot
 challengeme2anything
@@ -1344,6 +1345,7 @@ hades-921
 hagfish
 haibrid_bot
 haibrid_bot_2
+haikuro-bot
 hakoai
 halcyonbot
 halfstockfishbot
@@ -2473,6 +2475,7 @@ qioui
 quackstrike
 quanticade
 quantumknightv1
+quantumknightv2
 quaviverbot
 que-encrypt
 que-hyper
@@ -3206,6 +3209,7 @@ ultimatel
 ultimatestockfish
 ultimatevariants
 ultra-bot
+ultra_master2000
 ultraaggressivebot
 ultrabrick
 ultrabulletbot
@@ -3460,7 +3464,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ultra_master2000
-haikuro-bot
-cgtbot
-quantumknightv2

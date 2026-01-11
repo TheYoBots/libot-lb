@@ -140,8 +140,8 @@ Rank|Bot|Rating
 #138|@RoyalLeela|2014
 #139|@SchachProg|2010
 #140|@ElPeonElectrico|2004
-#141|@zeekat|2004
-#142|@Ultra_Master2000|2004
+#141|@Ultra_Master2000|2004
+#142|@zeekat|2004
 #143|@honzovy-sachy|2002
 #144|@TESTBOT23|2000
 #145|@GarboBot|1993
@@ -340,8 +340,8 @@ Rank|Bot|Rating
 #338|@sunfish_rs|1414
 #339|@emptedkiller|1413
 #340|@WaspBot|1410
-#341|@Cimille|1405
-#342|@Egeytek|1405
+#341|@Egeytek|1405
+#342|@Cimille|1402
 #343|@PZChessBot|1387
 #344|@schnecken_bot|1382
 #345|@VimBot|1380
