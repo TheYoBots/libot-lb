@@ -860,6 +860,7 @@ czesc-bot
 d2d4go
 dabestfarmer
 dakingsofficialbot
+dan_thebot
 danerdbot
 danerdbot2
 dangerousride
@@ -2977,6 +2978,7 @@ t3000
 ta_2020_bot
 ta_alexopoulakia
 tacticalbot
+tacticall_bot
 tacticoferoz
 takticproches
 talbotbot
@@ -3464,5 +3466,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tacticall_bot
-dan_thebot
