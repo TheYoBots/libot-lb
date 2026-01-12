@@ -46,8 +46,8 @@ Rank|Bot|Rating
 #44|@BitExtender128|2272
 #45|@FayEFish|2265
 #46|@Bobby_Fischer_BOT|2251
-#47|@Mega_BOT|2240
-#48|@Bot_Mittens|2238
+#47|@Bot_Mittens|2247
+#48|@Mega_BOT|2240
 #49|@ElPeonElectrico|2228
 #50|@Coolman2021|2219
 #51|@xiang-qi|2203
@@ -73,9 +73,9 @@ Rank|Bot|Rating
 #71|@Tacticall_Bot|2075
 #72|@GodelEscherBot|2071
 #73|@TheLegitLegend2|2059
-#74|@DarkOnBot|2054
-#75|@newengine2022|2050
-#76|@PowerOnBot|2050
+#74|@newengine2022|2050
+#75|@PowerOnBot|2050
+#76|@DarkOnBot|2048
 #77|@Jussicas|2035
 #78|@thibot|2032
 #79|@Less_of_a_threat|2025

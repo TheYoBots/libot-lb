@@ -176,10 +176,10 @@ Rank|Bot|Rating
 #174|@TheLegendaryKnight|1272
 #175|@EstmileBot|1269
 #176|@DanerdBot|1267
-#177|@pawnrobot|1261
-#178|@Parth_Dhage_2|1258
-#179|@MyNameIsWhatLOL|1256
-#180|@SneakyBot21|1256
+#177|@Parth_Dhage_2|1258
+#178|@MyNameIsWhatLOL|1256
+#179|@SneakyBot21|1256
+#180|@pawnrobot|1250
 #181|@TORTADEMANZANA023|1233
 #182|@heatseeker223|1191
 #183|@admin-bot|1188

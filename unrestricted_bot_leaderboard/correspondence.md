@@ -277,9 +277,9 @@ Rank|Bot|Rating
 #275|@Ramses-Chess|1630
 #276|@Bobby_Fischer_BOT|1627
 #277|@ChessPlayer1225|1624
-#278|@Wirtanen|1620
-#279|@bestchessbot|1618
-#280|@katzebot|1618
+#278|@katzebot|1623
+#279|@Wirtanen|1620
+#280|@bestchessbot|1618
 #281|@Rishab_Bindal|1618
 #282|@OverHead_BOT|1615
 #283|@Toxic_Bot|1607
@@ -340,9 +340,9 @@ Rank|Bot|Rating
 #338|@JupiterBot|1421
 #339|@sunfish_rs|1414
 #340|@emptedkiller|1413
-#341|@WaspBot|1410
-#342|@Egeytek|1405
-#343|@Cimille|1402
+#341|@Cimille|1410
+#342|@WaspBot|1410
+#343|@Egeytek|1405
 #344|@PZChessBot|1387
 #345|@schnecken_bot|1382
 #346|@VimBot|1380

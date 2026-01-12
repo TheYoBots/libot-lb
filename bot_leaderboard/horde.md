@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2455
-#2|@SF_Bot1nok|2453
-#3|@Bot1nokk|2441
-#4|@bot1e|2417
+#1|@SF_Bot1nok|2473
+#2|@Bot1nokk|2440
+#3|@abdcebot|2439
+#4|@bot1e|2421
 #5|@RaspFish|2344
-#6|@FayEFish|2196
+#6|@FayEFish|2186
 #7|@tbhOnBot|2176
-#8|@DarkOnBot|2172
+#8|@DarkOnBot|2174
 #9|@GoblinAjedrezAI|2141
