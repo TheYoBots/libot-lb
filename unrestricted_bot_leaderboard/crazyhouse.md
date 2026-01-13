@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@MalanChess|2273
 #44|@BitExtender128|2272
 #45|@FayEFish|2265
-#46|@Bobby_Fischer_BOT|2251
-#47|@Bot_Mittens|2247
+#46|@Bot_Mittens|2259
+#47|@Bobby_Fischer_BOT|2251
 #48|@Mega_BOT|2240
 #49|@ElPeonElectrico|2228
 #50|@Coolman2021|2219
@@ -64,8 +64,8 @@ Rank|Bot|Rating
 #62|@BSTAF|2154
 #63|@TheMatrix2025|2142
 #64|@CloudBot_v2|2131
-#65|@tbhOnBot|2125
-#66|@HIWIN1234|2123
+#65|@HIWIN1234|2123
+#66|@tbhOnBot|2118
 #67|@TestingBot1|2118
 #68|@Johnsun|2113
 #69|@SixtyFourEngine|2089

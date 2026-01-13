@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@AntichessAnalyzer|2673
 #34|@LegoTechnicControlPl|2662
 #35|@SCP079|2662
-#36|@Bot_Mittens|2651
+#36|@Bot_Mittens|2659
 #37|@MalanChess|2638
 #38|@vrnts_colinbot|2637
 #39|@HIWIN1234|2623
@@ -68,11 +68,11 @@ Rank|Bot|Rating
 #66|@Bot_AOOP11|2521
 #67|@DarkOnBot|2519
 #68|@HyperLitikBOT|2511
-#69|@Nakshatra3|2504
-#70|@pistol-play|2498
+#69|@pistol-play|2498
+#70|@Nakshatra3|2497
 #71|@FayEFish|2488
-#72|@GoblinAjedrezAI|2483
-#73|@tbhOnBot|2481
+#72|@tbhOnBot|2485
+#73|@GoblinAjedrezAI|2483
 #74|@MrBOThacker|2477
 #75|@hauptschuleBOT|2475
 #76|@Alehkine_cat|2474
@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@Stockfish-MEDIUM|2117
 #153|@PyChessBot|2102
 #154|@TurkiyeHogwartsBOT|2099
-#155|@CatNail|2084
+#155|@CatNail|2078
 #156|@P-chessbot|2067
 #157|@ZamuChess|2049
 #158|@Botzer|2020

@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@TheSystem_Bot|1572
 #149|@QuickLiquid|1555
 #150|@MMC_HUANGBAI|1553
-#151|@Groot123456|1529
+#151|@Groot123456|1521
 #152|@faith_bot|1514
 #153|@CoderDen732|1507
 #154|@TorBot|1498
