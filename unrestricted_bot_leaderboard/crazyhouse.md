@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@MalanChess|2273
 #44|@BitExtender128|2272
 #45|@FayEFish|2265
-#46|@Bot_Mittens|2259
+#46|@Bot_Mittens|2258
 #47|@Bobby_Fischer_BOT|2251
 #48|@Mega_BOT|2240
 #49|@ElPeonElectrico|2228
