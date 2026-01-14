@@ -177,8 +177,8 @@ Rank|Bot|Rating
 #175|@RoboTal|1874
 #176|@TheMatrix2025|1872
 #177|@ViVe_2_chess_pro|1869
-#178|@Thera_Engine|1857
-#179|@Jibbby|1856
+#178|@Jibbby|1862
+#179|@Thera_Engine|1857
 #180|@ayodia|1853
 #181|@Boris-Trapsky|1853
 #182|@natural-disaster|1853

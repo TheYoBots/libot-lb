@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@NormalBlitzBulletBot|2278
 #43|@MalanChess|2273
 #44|@BitExtender128|2272
-#45|@FayEFish|2265
-#46|@Bot_Mittens|2258
+#45|@Bot_Mittens|2268
+#46|@FayEFish|2265
 #47|@Bobby_Fischer_BOT|2251
 #48|@Mega_BOT|2240
 #49|@ElPeonElectrico|2228
@@ -65,9 +65,9 @@ Rank|Bot|Rating
 #63|@TheMatrix2025|2142
 #64|@CloudBot_v2|2131
 #65|@HIWIN1234|2123
-#66|@tbhOnBot|2118
-#67|@TestingBot1|2118
-#68|@Johnsun|2113
+#66|@TestingBot1|2118
+#67|@Johnsun|2113
+#68|@tbhOnBot|2111
 #69|@SixtyFourEngine|2089
 #70|@relevantproblem|2077
 #71|@Tacticall_Bot|2075
@@ -195,7 +195,7 @@ Rank|Bot|Rating
 #193|@NormalBulletBot|1341
 #194|@MrDeepSeekGPT|1339
 #195|@Harry_Potterz|1337
-#196|@Groot123456|1331
+#196|@Groot123456|1330
 #197|@admin-bot|1297
 #198|@GravityStorm|1293
 #199|@Boom_Bot|1277

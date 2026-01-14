@@ -33,9 +33,9 @@ Rank|Bot|Rating
 #31|@Magicianrobot|2688
 #32|@LoseisnotAvailablehe|2677
 #33|@AntichessAnalyzer|2673
-#34|@LegoTechnicControlPl|2662
-#35|@SCP079|2662
-#36|@Bot_Mittens|2654
+#34|@Bot_Mittens|2667
+#35|@LegoTechnicControlPl|2662
+#36|@SCP079|2662
 #37|@MalanChess|2638
 #38|@vrnts_colinbot|2637
 #39|@HIWIN1234|2623
@@ -67,9 +67,9 @@ Rank|Bot|Rating
 #65|@Dark_evil_bot|2525
 #66|@Bot_AOOP11|2521
 #67|@HyperLitikBOT|2511
-#68|@DarkOnBot|2506
+#68|@DarkOnBot|2502
 #69|@pistol-play|2498
-#70|@Nakshatra3|2497
+#70|@Nakshatra3|2493
 #71|@FayEFish|2488
 #72|@tbhOnBot|2487
 #73|@GoblinAjedrezAI|2483
@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@B0T5_RU13|2011
 #162|@TheLegitLegend|2010
 #163|@CrayyBot|1989
-#164|@Groot123456|1983
+#164|@Groot123456|1982
 #165|@BetaZ|1973
 #166|@antichesssss|1964
 #167|@Menganti|1963
