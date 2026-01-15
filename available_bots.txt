@@ -885,6 +885,7 @@ dcaibot
 dean_summer_bot
 death1234567-hell
 debugbot
+debzero
 dechessbot
 deepbecky
 deepchessengine
@@ -3366,6 +3367,7 @@ wretchedzero
 wrychess-bot
 wtrcc
 wujabbot
+wunderbot
 x2-itl
 xadreco
 xbbjp
@@ -3466,5 +3468,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-debzero
-wunderbot
+chess26_bot
+nickl1bot

@@ -341,8 +341,8 @@ Rank|Bot|Rating
 #339|@sunfish_rs|1414
 #340|@emptedkiller|1413
 #341|@WaspBot|1410
-#342|@Cimille|1407
-#343|@Egeytek|1405
+#342|@Egeytek|1405
+#343|@Cimille|1404
 #344|@PZChessBot|1387
 #345|@schnecken_bot|1382
 #346|@VimBot|1380
