@@ -192,9 +192,9 @@ Rank|Bot|Rating
 #190|@Hoplites|1813
 #191|@cool_boy_bot|1812
 #192|@Sub_Bot|1808
-#193|@Humanoid_1800|1801
-#194|@DrMeowMeow|1800
-#195|@stockfish12_Johan|1798
+#193|@DrMeowMeow|1800
+#194|@stockfish12_Johan|1798
+#195|@Humanoid_1800|1795
 #196|@BetaOneBot|1792
 #197|@MagicHacker123|1792
 #198|@maia5|1792
