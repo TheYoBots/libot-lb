@@ -1,4 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Jibbby|1862
-#2|@Cimille|1414
+#1|@GarboBot|1998
+#2|@Jibbby|1862
+#3|@Cimille|1414
