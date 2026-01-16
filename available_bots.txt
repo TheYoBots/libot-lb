@@ -660,6 +660,7 @@ chess-otter
 chess-trainer-bot
 chess-trainer2424
 chess1000bot
+chess26_bot
 chess3bot
 chess_bot-child
 chess_inator_bot
@@ -2177,6 +2178,7 @@ nice_bot
 nicetohityou2000
 nicholaswb_bot
 nichteliasbot
+nickl1bot
 nicoccino
 nie_bot
 nienishiengine
@@ -3468,5 +3470,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chess26_bot
-nickl1bot

@@ -338,11 +338,11 @@ Rank|Bot|Rating
 #336|@ReallyBadPlayerBot|1428
 #337|@LuciferCat|1426
 #338|@JupiterBot|1421
-#339|@sunfish_rs|1414
-#340|@emptedkiller|1413
-#341|@WaspBot|1410
-#342|@Egeytek|1405
-#343|@Cimille|1404
+#339|@Cimille|1414
+#340|@sunfish_rs|1414
+#341|@emptedkiller|1413
+#342|@WaspBot|1410
+#343|@Egeytek|1405
 #344|@PZChessBot|1387
 #345|@schnecken_bot|1382
 #346|@VimBot|1380
