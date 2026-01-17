@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2551
-#2|@tbhOnBot|2488
+#1|@is_BOSS|2532
+#2|@tbhOnBot|2495
 #3|@SF_Bot1nok|2453
-#4|@RaspFish|2427
-#5|@DarkOnBot|2422
+#4|@DarkOnBot|2431
+#5|@RaspFish|2427
 #6|@GoblinAjedrezAI|2419

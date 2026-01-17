@@ -6,13 +6,13 @@ Rank|Bot|Rating
 #4|@bot1e|2796
 #5|@abdcebot|2790
 #6|@RaspFish|2618
-#7|@DarkOnBot|2502
+#7|@DarkOnBot|2498
 #8|@FayEFish|2491
 #9|@Nakshatra3|2487
 #10|@GoblinAjedrezAI|2481
 #11|@tbhOnBot|2477
-#12|@anti-bot|2307
+#12|@anti-bot|2302
 #13|@NilatacBot|2255
 #14|@CatNail|2078
-#15|@pawnrobot|1911
-#16|@Groot123456|1861
+#15|@Groot123456|1921
+#16|@pawnrobot|1911

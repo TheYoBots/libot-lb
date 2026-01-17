@@ -338,9 +338,9 @@ Rank|Bot|Rating
 #336|@ReallyBadPlayerBot|1428
 #337|@LuciferCat|1426
 #338|@JupiterBot|1421
-#339|@Cimille|1414
-#340|@sunfish_rs|1414
-#341|@emptedkiller|1413
+#339|@sunfish_rs|1414
+#340|@emptedkiller|1413
+#341|@Cimille|1410
 #342|@WaspBot|1410
 #343|@Egeytek|1405
 #344|@PZChessBot|1387
@@ -362,8 +362,8 @@ Rank|Bot|Rating
 #360|@checkmate-engine|1336
 #361|@IOs_bot|1336
 #362|@Jannik08_fan|1332
-#363|@AllieTheChessBot|1322
-#364|@TMFish|1321
+#363|@TMFish|1321
+#364|@AllieTheChessBot|1316
 #365|@Awesome32|1316
 #366|@proustagm|1316
 #367|@elninodiablo|1312
