@@ -144,8 +144,8 @@ Rank|Bot|Rating
 #142|@Ultra_Master2000|2004
 #143|@zeekat|2004
 #144|@honzovy-sachy|2002
-#145|@TESTBOT23|2000
-#146|@GarboBot|1998
+#145|@GarboBot|2000
+#146|@TESTBOT23|2000
 #147|@Zer0_Tw0|1992
 #148|@YoBot_v2|1984
 #149|@Virutor|1980
