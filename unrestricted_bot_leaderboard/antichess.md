@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@Yellow_Anxiety7|2708
 #29|@Lili-Variants|2693
 #30|@buffFishNet|2692
-#31|@Magicianrobot|2688
-#32|@Bot_Mittens|2681
+#31|@Bot_Mittens|2691
+#32|@Magicianrobot|2688
 #33|@LoseisnotAvailablehe|2677
 #34|@AntichessAnalyzer|2673
 #35|@LegoTechnicControlPl|2662
@@ -96,9 +96,9 @@ Rank|Bot|Rating
 #94|@DrSmartBugs|2412
 #95|@Monastedrez|2410
 #96|@AttackingOrDefending|2409
-#97|@HakoAI|2406
-#98|@varient-chess-bot1|2404
-#99|@BitExtender128|2403
+#97|@varient-chess-bot1|2404
+#98|@BitExtender128|2403
+#99|@HakoAI|2396
 #100|@ESC_BOT|2394
 #101|@CatBot_14|2393
 #102|@NormalBulletBot|2393
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Karpov_bot|2335
 #112|@TeamChelsie|2331
 #113|@AI69|2312
-#114|@anti-bot|2307
+#114|@anti-bot|2312
 #115|@Kizburb|2307
 #116|@MagicverseBOT|2306
 #117|@abhisun_bot|2305

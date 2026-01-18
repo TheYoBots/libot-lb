@@ -5,14 +5,14 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2806
 #4|@abdcebot|2796
 #5|@bot1e|2793
-#6|@Bot_Mittens|2681
+#6|@Bot_Mittens|2691
 #7|@RaspFish|2618
 #8|@FayEFish|2491
 #9|@DarkOnBot|2490
 #10|@Nakshatra3|2487
 #11|@GoblinAjedrezAI|2481
 #12|@tbhOnBot|2478
-#13|@anti-bot|2307
+#13|@anti-bot|2312
 #14|@CatNail|2078
 #15|@Groot123456|1935
 #16|@pawnrobot|1911

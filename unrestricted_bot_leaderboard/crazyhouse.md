@@ -36,9 +36,9 @@ Rank|Bot|Rating
 #34|@chesshyperbot|2344
 #35|@EmptikBot|2332
 #36|@lord-bot|2329
-#37|@Bot_Mittens|2310
-#38|@catalanbotI|2307
-#39|@Yemmi-Yemmi|2305
+#37|@catalanbotI|2307
+#38|@Yemmi-Yemmi|2305
+#39|@Bot_Mittens|2292
 #40|@RaspFish|2286
 #41|@iplayonlyrandom|2282
 #42|@NormalBlitzBulletBot|2278
@@ -65,9 +65,9 @@ Rank|Bot|Rating
 #63|@TheMatrix2025|2142
 #64|@CloudBot_v2|2131
 #65|@HIWIN1234|2123
-#66|@TestingBot1|2118
-#67|@Johnsun|2113
-#68|@tbhOnBot|2100
+#66|@tbhOnBot|2118
+#67|@TestingBot1|2118
+#68|@Johnsun|2113
 #69|@SixtyFourEngine|2089
 #70|@relevantproblem|2077
 #71|@Tacticall_Bot|2075
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@TheLegitLegend2|2059
 #74|@newengine2022|2050
 #75|@PowerOnBot|2050
-#76|@DarkOnBot|2042
+#76|@DarkOnBot|2038
 #77|@Jussicas|2035
 #78|@thibot|2032
 #79|@Less_of_a_threat|2025
