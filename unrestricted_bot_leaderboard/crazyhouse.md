@@ -195,7 +195,7 @@ Rank|Bot|Rating
 #193|@NormalBulletBot|1341
 #194|@MrDeepSeekGPT|1339
 #195|@Harry_Potterz|1337
-#196|@Groot123456|1330
+#196|@Groot123456|1329
 #197|@admin-bot|1297
 #198|@GravityStorm|1293
 #199|@Boom_Bot|1277

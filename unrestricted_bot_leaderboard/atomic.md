@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@FatihMertBOT|2837
-#2|@BotSuxX|2793
+#2|@BotSuxX|2720
 #3|@VariantsBot|2714
 #4|@AlfaBot|2674
 #5|@EmptikVariantsBot|2671
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@is_BOSS|2550
+#14|@is_BOSS|2542
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@EmptikBot|2510
 #21|@ibep|2498
 #22|@HIWIN1234|2494
-#23|@ElPeonElectrico|2490
-#24|@tbhOnBot|2486
+#23|@tbhOnBot|2494
+#24|@ElPeonElectrico|2490
 #25|@firstrobot|2485
 #26|@ShredderGrizzly|2479
 #27|@NormalBulletBot|2474
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@SF_Bot1nok|2444
 #31|@eNErGyOFbEiNGbOT|2431
 #32|@RaspFish|2427
-#33|@DarkOnBot|2426
+#33|@DarkOnBot|2421
 #34|@GoblinAjedrezAI|2419
 #35|@FayEFish|2415
 #36|@Fairy-Stockfish|2402
@@ -49,10 +49,10 @@ Rank|Bot|Rating
 #47|@lord-bot|2349
 #48|@Viet-BOT|2349
 #49|@NormalBlitzBulletBot|2347
-#50|@HyperLitikBOT|2341
-#51|@LudwigBOT|2339
-#52|@NotNateBot|2336
-#53|@MEGA-NOOB-BOT|2324
+#50|@MEGA-NOOB-BOT|2344
+#51|@HyperLitikBOT|2341
+#52|@LudwigBOT|2339
+#53|@NotNateBot|2336
 #54|@The-Fastest-Bot|2314
 #55|@Alehkine_cat|2312
 #56|@Team_bot_08512|2307

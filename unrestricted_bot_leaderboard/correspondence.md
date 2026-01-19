@@ -306,9 +306,9 @@ Rank|Bot|Rating
 #304|@LegendG21|1546
 #305|@LilDoctorJank|1546
 #306|@maia9|1545
-#307|@DragonflyBOT|1535
-#308|@XXIstCentury|1534
-#309|@EdwardKillick|1527
+#307|@EdwardKillick|1537
+#308|@DragonflyBOT|1535
+#309|@XXIstCentury|1534
 #310|@lolchessbot69|1527
 #311|@maia1|1527
 #312|@entebot|1523
@@ -342,7 +342,7 @@ Rank|Bot|Rating
 #340|@emptedkiller|1413
 #341|@WaspBot|1410
 #342|@Egeytek|1405
-#343|@Cimille|1401
+#343|@Cimille|1396
 #344|@PZChessBot|1387
 #345|@schnecken_bot|1382
 #346|@VimBot|1380
