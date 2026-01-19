@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@is_BOSS|2542
+#14|@is_BOSS|2541
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
@@ -21,8 +21,8 @@ Rank|Bot|Rating
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
 #21|@ibep|2498
-#22|@HIWIN1234|2494
-#23|@tbhOnBot|2494
+#22|@tbhOnBot|2496
+#23|@HIWIN1234|2494
 #24|@ElPeonElectrico|2490
 #25|@firstrobot|2485
 #26|@ShredderGrizzly|2479

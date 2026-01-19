@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@tbhOnBot|2112
+#1|@tbhOnBot|2107
