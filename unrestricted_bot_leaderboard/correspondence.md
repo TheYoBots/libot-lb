@@ -197,10 +197,10 @@ Rank|Bot|Rating
 #195|@BetaOneBot|1792
 #196|@MagicHacker123|1792
 #197|@maia5|1792
-#198|@Humanoid_1800|1789
-#199|@JPSBOT|1789
-#200|@Nicholaswb_BOT|1788
-#201|@Heman36541234578|1786
+#198|@JPSBOT|1789
+#199|@Nicholaswb_BOT|1788
+#200|@Heman36541234578|1786
+#201|@Humanoid_1800|1784
 #202|@Variantenkoning|1781
 #203|@caissa-ai|1773
 #204|@Ymin_dragon|1773
@@ -342,7 +342,7 @@ Rank|Bot|Rating
 #340|@emptedkiller|1413
 #341|@WaspBot|1410
 #342|@Egeytek|1405
-#343|@Cimille|1395
+#343|@Cimille|1388
 #344|@PZChessBot|1387
 #345|@schnecken_bot|1382
 #346|@VimBot|1380

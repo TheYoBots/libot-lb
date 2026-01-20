@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@is_BOSS|2541
-#15|@ttBOT|2540
+#14|@ttBOT|2540
+#15|@is_BOSS|2538
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
 #18|@Yebot|2518
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@SF_Bot1nok|2444
 #31|@eNErGyOFbEiNGbOT|2431
 #32|@RaspFish|2427
-#33|@DarkOnBot|2421
+#33|@DarkOnBot|2426
 #34|@GoblinAjedrezAI|2419
 #35|@FayEFish|2415
 #36|@Fairy-Stockfish|2402
@@ -135,9 +135,9 @@ Rank|Bot|Rating
 #133|@colinbot|2028
 #134|@Kizbuurb|2024
 #135|@ESC_BOT|2011
-#136|@HakoAI|2008
-#137|@are_bots_good|2006
-#138|@Breeze-Hot|2006
+#136|@are_bots_good|2006
+#137|@Breeze-Hot|2006
+#138|@HakoAI|2004
 #139|@BalloonBot|2003
 #140|@CatBot329|2000
 #141|@Zer0_Tw0|1991
