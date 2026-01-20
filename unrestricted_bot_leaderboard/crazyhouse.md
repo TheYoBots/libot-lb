@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@lord-bot|2329
 #37|@catalanbotI|2307
 #38|@Yemmi-Yemmi|2305
-#39|@Bot_Mittens|2294
+#39|@Bot_Mittens|2304
 #40|@RaspFish|2286
 #41|@iplayonlyrandom|2282
 #42|@NormalBlitzBulletBot|2278
@@ -67,13 +67,13 @@ Rank|Bot|Rating
 #65|@HIWIN1234|2123
 #66|@TestingBot1|2118
 #67|@Johnsun|2113
-#68|@tbhOnBot|2097
+#68|@tbhOnBot|2092
 #69|@SixtyFourEngine|2089
 #70|@relevantproblem|2077
 #71|@Tacticall_Bot|2075
 #72|@GodelEscherBot|2071
-#73|@DarkOnBot|2062
-#74|@TheLegitLegend2|2059
+#73|@TheLegitLegend2|2059
+#74|@DarkOnBot|2057
 #75|@newengine2022|2050
 #76|@PowerOnBot|2050
 #77|@Jussicas|2035
