@@ -172,9 +172,9 @@ Rank|Bot|Rating
 #170|@FireDragonBOT|1253
 #171|@HiddeNL|1242
 #172|@knight_128|1233
-#173|@MyNameIsSpeedy|1226
-#174|@Bottios|1223
-#175|@pawnrobot|1210
+#173|@pawnrobot|1233
+#174|@MyNameIsSpeedy|1226
+#175|@Bottios|1223
 #176|@DanerdBot|1208
 #177|@RSVMentor|1196
 #178|@Boom_Bot|1176

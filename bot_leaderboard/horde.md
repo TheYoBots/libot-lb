@@ -1,10 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2692
-#2|@SF_Bot1nok|2453
+#2|@abdcebot|2463
 #3|@bot1e|2448
-#4|@Bot1nokk|2440
-#5|@abdcebot|2436
-#6|@DarkOnBot|2190
-#7|@FayEFish|2172
-#8|@tbhOnBot|2159
+#4|@Bot1nokk|2443
+#5|@SF_Bot1nok|2435
+#6|@DarkOnBot|2175
+#7|@tbhOnBot|2163
