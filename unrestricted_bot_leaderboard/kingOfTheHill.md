@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@lord-bot|2258
 #28|@DarkOnBot|2257
 #29|@YoBot_v2|2242
-#30|@ResoluteBot|2233
-#31|@RaspFish|2232
+#30|@RaspFish|2235
+#31|@ResoluteBot|2233
 #32|@ttBOT|2230
 #33|@Magnus-BOT|2224
 #34|@SkyBlaster|2220

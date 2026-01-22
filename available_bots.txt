@@ -155,6 +155,7 @@ anti-bot
 anti-human-bot
 antichessanalyzer
 antichessbot
+antichessbot_ai
 antichesssss
 antifish-mk289
 antifish-rx560x
@@ -3473,4 +3474,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-antichessbot_ai
