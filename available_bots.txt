@@ -1383,6 +1383,7 @@ heckerbot
 heckno2021
 hedgehog_bot
 hedwigchess1
+helena-engine
 hellochess27
 hellraiser99
 heman36541234578
@@ -1517,6 +1518,7 @@ intron014
 intuitive_ai
 invincibot
 invinxibleflxsh
+io-bot
 ios_bot
 ipk_mahaweli
 iplayonlyrandom
@@ -3237,6 +3239,7 @@ usunfish-l0
 usunfish-l1
 usunfish-l7
 uvuvwevwevwesrevenge
+uzenatch
 v7p3r_bot
 valhalla-bot
 valiantbot
@@ -3470,6 +3473,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-io-bot
-uzenatch
-helena-engine
+antichessbot_ai

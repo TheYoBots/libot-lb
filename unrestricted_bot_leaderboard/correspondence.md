@@ -342,7 +342,7 @@ Rank|Bot|Rating
 #340|@emptedkiller|1413
 #341|@WaspBot|1410
 #342|@Egeytek|1405
-#343|@Cimille|1387
+#343|@Cimille|1392
 #344|@PZChessBot|1387
 #345|@schnecken_bot|1382
 #346|@VimBot|1380

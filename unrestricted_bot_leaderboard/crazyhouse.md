@@ -36,10 +36,10 @@ Rank|Bot|Rating
 #34|@chesshyperbot|2344
 #35|@EmptikBot|2332
 #36|@lord-bot|2329
-#37|@catalanbotI|2307
-#38|@Yemmi-Yemmi|2305
-#39|@Bot_Mittens|2304
-#40|@RaspFish|2286
+#37|@Bot_Mittens|2313
+#38|@catalanbotI|2307
+#39|@Yemmi-Yemmi|2305
+#40|@RaspFish|2290
 #41|@iplayonlyrandom|2282
 #42|@NormalBlitzBulletBot|2278
 #43|@MalanChess|2273
@@ -68,9 +68,9 @@ Rank|Bot|Rating
 #66|@TestingBot1|2118
 #67|@Johnsun|2113
 #68|@SixtyFourEngine|2089
-#69|@tbhOnBot|2084
-#70|@relevantproblem|2077
-#71|@Tacticall_Bot|2075
+#69|@relevantproblem|2077
+#70|@Tacticall_Bot|2075
+#71|@tbhOnBot|2075
 #72|@GodelEscherBot|2071
 #73|@DarkOnBot|2067
 #74|@TheLegitLegend2|2059
