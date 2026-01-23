@@ -5,11 +5,11 @@ Rank|Bot|Rating
 #3|@abdcebot|2808
 #4|@Bot1nokk|2794
 #5|@bot1e|2782
-#6|@Bot_Mittens|2730
-#7|@RaspFish|2629
+#6|@Bot_Mittens|2731
+#7|@RaspFish|2636
 #8|@DarkOnBot|2481
-#9|@Nakshatra3|2468
-#10|@tbhOnBot|2467
-#11|@anti-bot|2323
+#9|@tbhOnBot|2467
+#10|@Nakshatra3|2464
+#11|@anti-bot|2327
 #12|@Groot123456|1935
 #13|@pawnrobot|1902
