@@ -29,10 +29,10 @@ Rank|Bot|Rating
 #27|@NormalBulletBot|2474
 #28|@LoseisnotAvailablehe|2466
 #29|@PepsiForAll|2448
-#30|@DarkOnBot|2441
-#31|@RaspFish|2436
-#32|@SF_Bot1nok|2436
-#33|@eNErGyOFbEiNGbOT|2431
+#30|@DarkOnBot|2446
+#31|@RaspFish|2438
+#32|@eNErGyOFbEiNGbOT|2431
+#33|@SF_Bot1nok|2427
 #34|@GoblinAjedrezAI|2419
 #35|@FayEFish|2415
 #36|@Fairy-Stockfish|2402
@@ -139,9 +139,9 @@ Rank|Bot|Rating
 #137|@Breeze-Hot|2006
 #138|@BalloonBot|2003
 #139|@CatBot329|2000
-#140|@Zer0_Tw0|1991
-#141|@BigBrainen|1984
-#142|@HakoAI|1979
+#140|@HakoAI|1993
+#141|@Zer0_Tw0|1991
+#142|@BigBrainen|1984
 #143|@relevantproblem|1976
 #144|@All_Except_Chess960|1975
 #145|@Sub_Bot|1974

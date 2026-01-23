@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@Tacticall_Bot|2075
 #71|@GodelEscherBot|2071
 #72|@tbhOnBot|2071
-#73|@DarkOnBot|2067
+#73|@DarkOnBot|2069
 #74|@TheLegitLegend2|2059
 #75|@newengine2022|2050
 #76|@PowerOnBot|2050
