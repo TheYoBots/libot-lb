@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@abdcebot|2474
 #13|@Nerubatskyi_Daniil_v|2471
 #14|@Bot1nokk|2443
-#15|@bot1e|2432
+#15|@bot1e|2435
 #16|@SF_Bot1nok|2429
 #17|@HIWIN1234|2412
 #18|@EmptikVariantsBot|2402
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@FairyTailRegimeBot|2235
 #37|@TacticalBot|2227
 #38|@UltronBot|2199
-#39|@DarkOnBot|2190
+#39|@DarkOnBot|2188
 #40|@FayEFish|2172
 #41|@Trumpfor2O2O|2162
 #42|@tbhOnBot|2161
@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@Toxic_Bot|1352
 #156|@DespacitoBot|1345
 #157|@weaklean|1338
-#158|@Groot123456|1315
+#158|@Groot123456|1314
 #159|@BinaryBrain|1299
 #160|@Nicholaswb_BOT|1288
 #161|@AEBROADUSBOTTER|1279
