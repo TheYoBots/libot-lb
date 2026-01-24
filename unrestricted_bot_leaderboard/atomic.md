@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
-#17|@is_BOSS|2519
+#17|@is_BOSS|2521
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@NormalBulletBot|2474
 #28|@LoseisnotAvailablehe|2466
 #29|@PepsiForAll|2448
-#30|@DarkOnBot|2446
+#30|@DarkOnBot|2447
 #31|@RaspFish|2438
 #32|@eNErGyOFbEiNGbOT|2431
 #33|@SF_Bot1nok|2427
@@ -51,8 +51,8 @@ Rank|Bot|Rating
 #49|@NormalBlitzBulletBot|2347
 #50|@HyperLitikBOT|2341
 #51|@LudwigBOT|2339
-#52|@MEGA-NOOB-BOT|2338
-#53|@NotNateBot|2336
+#52|@NotNateBot|2336
+#53|@MEGA-NOOB-BOT|2331
 #54|@The-Fastest-Bot|2314
 #55|@Alehkine_cat|2312
 #56|@Team_bot_08512|2307
