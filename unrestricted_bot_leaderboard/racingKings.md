@@ -107,10 +107,10 @@ Rank|Bot|Rating
 #105|@BGSBot|1969
 #106|@Yemmi-Yemmi|1964
 #107|@admin-bot|1955
-#108|@HakoAI|1946
-#109|@MyNameIsSpeedy|1935
-#110|@Pineapple-Friendly|1912
-#111|@Teamleaderbot|1904
+#108|@MyNameIsSpeedy|1935
+#109|@Pineapple-Friendly|1912
+#110|@Teamleaderbot|1904
+#111|@HakoAI|1900
 #112|@legendbot1|1893
 #113|@Hagfish|1879
 #114|@PyChessBot|1847

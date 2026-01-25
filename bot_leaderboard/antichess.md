@@ -11,6 +11,6 @@ Rank|Bot|Rating
 #9|@DarkOnBot|2487
 #10|@Nakshatra3|2477
 #11|@tbhOnBot|2467
-#12|@anti-bot|2314
+#12|@anti-bot|2313
 #13|@Groot123456|1935
 #14|@pawnrobot|1902

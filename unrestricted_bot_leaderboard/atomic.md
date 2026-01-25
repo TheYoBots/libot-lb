@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
-#17|@is_BOSS|2521
+#17|@is_BOSS|2519
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@ShredderGrizzly|2479
 #27|@NormalBulletBot|2474
 #28|@LoseisnotAvailablehe|2466
-#29|@PepsiForAll|2448
-#30|@DarkOnBot|2447
+#29|@DarkOnBot|2448
+#30|@PepsiForAll|2448
 #31|@RaspFish|2438
 #32|@eNErGyOFbEiNGbOT|2431
 #33|@SF_Bot1nok|2427
@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@FayEFish|2415
 #36|@Fairy-Stockfish|2402
 #37|@Bullet_bot_0526|2391
-#38|@abhisun_bot|2384
-#39|@ToromBot|2384
+#38|@ToromBot|2388
+#39|@abhisun_bot|2384
 #40|@KingfishX|2369
 #41|@mrchessmanager|2369
 #42|@Stockfish-MEDIUM|2366
@@ -132,9 +132,9 @@ Rank|Bot|Rating
 #130|@MagnusCarlsen1507|2037
 #131|@HuxZero|2035
 #132|@EasyWinGG|2032
-#133|@colinbot|2028
-#134|@Kizbuurb|2024
-#135|@HakoAI|2012
+#133|@HakoAI|2031
+#134|@colinbot|2028
+#135|@Kizbuurb|2024
 #136|@ESC_BOT|2011
 #137|@are_bots_good|2006
 #138|@Breeze-Hot|2006
@@ -360,6 +360,6 @@ Rank|Bot|Rating
 #358|@bfdzvfsgaergfds|800
 #359|@TheThanosBot|696
 #360|@BetaOneBot|690
-#361|@DanerdBot|689
+#361|@DanerdBot|687
 #362|@MateCheckCapture|680
 #363|@Ujwal1001|600

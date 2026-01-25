@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Karpov_bot|2335
 #112|@TeamChelsie|2331
 #113|@HakoAI|2330
-#114|@anti-bot|2314
+#114|@anti-bot|2313
 #115|@AI69|2312
 #116|@Kizburb|2307
 #117|@MagicverseBOT|2306

@@ -77,10 +77,10 @@ Rank|Bot|Rating
 #75|@firstrobot|2003
 #76|@Bot1nokk|1995
 #77|@Hyper-Stockfish|1986
-#78|@HakoAI|1979
-#79|@varient-chess-bot1|1978
-#80|@GodelEscherBot|1974
-#81|@XXIstCentury|1973
+#78|@varient-chess-bot1|1978
+#79|@GodelEscherBot|1974
+#80|@XXIstCentury|1973
+#81|@HakoAI|1967
 #82|@MMC_HUANGBAI|1965
 #83|@mrchessmanager|1963
 #84|@Team_bot_08512|1963
