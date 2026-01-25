@@ -28,9 +28,9 @@ Rank|Bot|Rating
 #26|@ShredderGrizzly|2479
 #27|@NormalBulletBot|2474
 #28|@LoseisnotAvailablehe|2466
-#29|@DarkOnBot|2448
-#30|@PepsiForAll|2448
-#31|@RaspFish|2438
+#29|@RaspFish|2464
+#30|@DarkOnBot|2449
+#31|@PepsiForAll|2448
 #32|@eNErGyOFbEiNGbOT|2431
 #33|@SF_Bot1nok|2427
 #34|@GoblinAjedrezAI|2419
@@ -164,7 +164,7 @@ Rank|Bot|Rating
 #162|@AX2XB2|1893
 #163|@TheAwesomeBot|1891
 #164|@FairyTailRegimeBot|1882
-#165|@varient-chess-bot1|1882
+#165|@varient-chess-bot1|1880
 #166|@kostasvl-bot|1877
 #167|@B0T5_RU13|1871
 #168|@RobotTigerSlav|1871
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@Pikachu_270|1497
 #272|@ZeroesAndOnes|1496
 #273|@sus2098|1494
-#274|@Groot123456|1493
+#274|@Groot123456|1492
 #275|@Iwantedtoplaychess|1486
 #276|@MeezKool|1485
 #277|@RSVMentor|1476
