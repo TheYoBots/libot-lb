@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@Nobody11892|1785
 #113|@Viet-BOT|1750
 #114|@clrsrc_lc0|1742
-#115|@K_Shi_Bot|1737
-#116|@varient-chess-bot1|1730
+#115|@varient-chess-bot1|1738
+#116|@K_Shi_Bot|1737
 #117|@natural-disaster|1726
 #118|@gage12_bot|1716
 #119|@FairyTailRegimeBot|1705
@@ -141,9 +141,9 @@ Rank|Bot|Rating
 #139|@MagnusCarlsen1507|1492
 #140|@SugarAndSpice|1489
 #141|@rtx3080tibot|1487
-#142|@DavidsGuterBot|1479
-#143|@SUMAL_BRO|1476
-#144|@Ukraine-team-creator|1476
+#142|@SUMAL_BRO|1476
+#143|@Ukraine-team-creator|1476
+#144|@DavidsGuterBot|1474
 #145|@Less_of_a_threat|1470
 #146|@Bbao23-chess|1469
 #147|@Trainspotter|1466

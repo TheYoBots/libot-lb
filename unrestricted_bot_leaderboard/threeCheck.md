@@ -77,7 +77,7 @@ Rank|Bot|Rating
 #75|@firstrobot|2003
 #76|@Bot1nokk|1995
 #77|@Hyper-Stockfish|1986
-#78|@varient-chess-bot1|1978
+#78|@varient-chess-bot1|1983
 #79|@GodelEscherBot|1974
 #80|@XXIstCentury|1973
 #81|@HakoAI|1967
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@jasans_bot|1621
 #131|@newengine2022|1588
 #132|@knight_128|1563
-#133|@DavidsGuterBot|1562
+#133|@DavidsGuterBot|1560
 #134|@Alehkine_cat|1531
 #135|@TrashBot|1519
 #136|@FireDragonBOT|1518

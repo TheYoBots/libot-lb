@@ -70,9 +70,9 @@ Rank|Bot|Rating
 #68|@SixtyFourEngine|2089
 #69|@relevantproblem|2077
 #70|@Tacticall_Bot|2075
-#71|@GodelEscherBot|2071
-#72|@tbhOnBot|2071
-#73|@DarkOnBot|2069
+#71|@DarkOnBot|2071
+#72|@GodelEscherBot|2071
+#73|@tbhOnBot|2071
 #74|@TheLegitLegend2|2059
 #75|@newengine2022|2050
 #76|@PowerOnBot|2050
@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@MistakeBOT|1655
 #134|@colinbot|1648
 #135|@Isaacwb_BOT|1640
-#136|@varient-chess-bot1|1635
-#137|@Monastedrez|1634
+#136|@Monastedrez|1634
+#137|@varient-chess-bot1|1631
 #138|@SriLankaChess|1623
 #139|@Viet_BOT|1617
 #140|@david9426_bot|1611
