@@ -37,9 +37,9 @@ Rank|Bot|Rating
 #35|@AntichessAnalyzer|2673
 #36|@LegoTechnicControlPl|2662
 #37|@SCP079|2662
-#38|@MalanChess|2638
-#39|@vrnts_colinbot|2637
-#40|@RaspFish|2636
+#38|@RaspFish|2642
+#39|@MalanChess|2638
+#40|@vrnts_colinbot|2637
 #41|@HIWIN1234|2623
 #42|@Kizbuurb|2621
 #43|@Lili-ai|2619
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@NienishiEngine|2304
 #119|@BromiumAI|2302
 #120|@EvenMatchup|2302
-#121|@anti-bot|2301
+#121|@anti-bot|2298
 #122|@GodelEscherBot|2284
 #123|@Dean_Summer_Bot|2279
 #124|@Johnsun|2269

@@ -143,8 +143,8 @@ Rank|Bot|Rating
 #141|@Ultra_Master2000|2004
 #142|@zeekat|2004
 #143|@honzovy-sachy|2002
-#144|@TESTBOT23|2000
-#145|@GarboBot|1996
+#144|@GarboBot|2001
+#145|@TESTBOT23|2000
 #146|@Zer0_Tw0|1992
 #147|@YoBot_v2|1984
 #148|@Virutor|1980
@@ -311,10 +311,10 @@ Rank|Bot|Rating
 #309|@lolchessbot69|1527
 #310|@maia1|1527
 #311|@entebot|1523
-#312|@EdwardKillick|1520
-#313|@LeelaNice|1520
-#314|@eubos|1518
-#315|@MistakeBOT|1515
+#312|@LeelaNice|1520
+#313|@eubos|1518
+#314|@MistakeBOT|1515
+#315|@EdwardKillick|1511
 #316|@FelixLeonidovich|1505
 #317|@Chen_BOT|1500
 #318|@kylel4266_test|1500
