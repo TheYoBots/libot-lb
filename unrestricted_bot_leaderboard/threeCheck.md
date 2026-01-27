@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@vrnts_colinbot|2266
 #43|@HIWIN1234|2261
 #44|@YoBot_v2|2257
-#45|@RaspFish|2221
+#45|@RaspFish|2227
 #46|@Vinh_VariantsBot|2215
 #47|@Kizburb|2214
 #48|@xiang-qi|2207
@@ -94,8 +94,8 @@ Rank|Bot|Rating
 #92|@PetersTestBot|1935
 #93|@Lila-Stockfish|1917
 #94|@SkyBlaster|1913
-#95|@OpeningsBot|1912
-#96|@HyperLitikBOT|1908
+#95|@HyperLitikBOT|1908
+#96|@OpeningsBot|1905
 #97|@PowerOnBot|1894
 #98|@CloudBOT|1892
 #99|@BetaZ|1889
