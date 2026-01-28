@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@mrohCentaur|2285
 #44|@Toodfish|2273
 #45|@Cheng-4|2269
-#46|@OpeningsBot|2257
+#46|@OpeningsBot|2259
 #47|@eggnog-chess-engine|2254
 #48|@Blue_Mongoose|2249
 #49|@Zimbabwean_chessbot|2249
@@ -192,7 +192,7 @@ Rank|Bot|Rating
 #190|@Hoplites|1813
 #191|@cool_boy_bot|1812
 #192|@Sub_Bot|1808
-#193|@Humanoid_1800|1807
+#193|@Humanoid_1800|1804
 #194|@DrMeowMeow|1800
 #195|@stockfish12_Johan|1798
 #196|@BetaOneBot|1792
@@ -333,10 +333,10 @@ Rank|Bot|Rating
 #331|@MRT23|1469
 #332|@TheSystem_Bot|1466
 #333|@Mate-AI|1454
-#334|@dtsudo|1449
-#335|@CheezyGlizzyEater|1444
-#336|@AndrewYXZBot|1436
-#337|@Cimille|1435
+#334|@Cimille|1449
+#335|@dtsudo|1449
+#336|@CheezyGlizzyEater|1444
+#337|@AndrewYXZBot|1436
 #338|@ReallyBadPlayerBot|1428
 #339|@LuciferCat|1426
 #340|@JupiterBot|1421

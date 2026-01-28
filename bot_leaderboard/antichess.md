@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@SF_Bot1nok|2844
-#2|@abdcebot|2840
-#3|@Bot1nokk|2834
+#1|@abdcebot|2852
+#2|@SF_Bot1nok|2852
+#3|@Bot1nokk|2816
 #4|@bot1e|2766
 #5|@Bot_Mittens|2731
 #6|@RaspFish|2642
@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@DarkOnBot|2480
 #9|@Nakshatra3|2479
 #10|@tbhOnBot|2467
-#11|@anti-bot|2213
+#11|@anti-bot|2204
 #12|@OpeningsBot|2115
 #13|@Groot123456|1934
 #14|@StockfishLowDepth|1124
