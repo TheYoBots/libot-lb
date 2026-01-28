@@ -7,14 +7,14 @@ Rank|Bot|Rating
 #5|@Magicianrobot|2741
 #6|@FireFishBOT|2726
 #7|@PepsiForAll|2699
-#8|@ToromBot|2692
+#8|@ToromBot|2696
 #9|@ttBOT|2584
 #10|@compchess2|2579
 #11|@Lili-ai|2572
 #12|@Nerubatskyi_Daniil_v|2471
-#13|@Bot1nokk|2458
-#14|@abdcebot|2457
-#15|@bot1e|2451
+#13|@bot1e|2459
+#14|@abdcebot|2451
+#15|@Bot1nokk|2450
 #16|@SF_Bot1nok|2420
 #17|@HIWIN1234|2412
 #18|@EmptikVariantsBot|2402
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@FairyTailRegimeBot|2235
 #37|@TacticalBot|2227
 #38|@UltronBot|2199
-#39|@DarkOnBot|2182
+#39|@DarkOnBot|2188
 #40|@FayEFish|2172
 #41|@Trumpfor2O2O|2162
 #42|@tbhOnBot|2161
@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@Nebulogic|1606
 #117|@Stockfish-MEDIUM|1604
 #118|@varient-chess-bot1|1603
-#119|@OpeningsBot|1581
+#119|@OpeningsBot|1580
 #120|@Zer0_Tw0|1580
 #121|@LeelaChessTest|1565
 #122|@chicken_farmer|1557
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@Toxic_Bot|1352
 #158|@DespacitoBot|1345
 #159|@weaklean|1338
-#160|@Groot123456|1307
+#160|@Groot123456|1306
 #161|@BinaryBrain|1299
 #162|@Nicholaswb_BOT|1288
 #163|@AEBROADUSBOTTER|1279
