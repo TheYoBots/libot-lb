@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Magicianrobot|2741
 #6|@FireFishBOT|2726
 #7|@PepsiForAll|2699
-#8|@ToromBot|2696
+#8|@ToromBot|2697
 #9|@ttBOT|2584
 #10|@compchess2|2579
 #11|@Lili-ai|2572
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@virus_exe-bot|2054
 #57|@Bot_AOOP11|2050
 #58|@Resolved-Bot|2045
-#59|@PumpkinLatteBob|2043
-#60|@DrSmartBugs|2036
+#59|@DrSmartBugs|2036
+#60|@PumpkinLatteBob|2027
 #61|@YoBot_v2|2019
 #62|@ESC_BOT|2016
 #63|@lightspeed_bot|2010
