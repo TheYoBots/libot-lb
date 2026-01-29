@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@tbhOnBot|2409
 #31|@GoblinAjedrezAI|2377
 #32|@Viet_BOT|2367
-#33|@SF_Bot1nok|2338
+#33|@SF_Bot1nok|2343
 #34|@Zer0_Tw0|2332
 #35|@DarkOnBot|2310
 #36|@LudwigBOT|2304
@@ -90,8 +90,8 @@ Rank|Bot|Rating
 #88|@Galaxy_Guardian|1947
 #89|@pistol-play|1939
 #90|@PROBOT123567|1936
-#91|@PetersTestBot|1935
-#92|@OpeningsBot|1929
+#91|@OpeningsBot|1935
+#92|@PetersTestBot|1935
 #93|@Lila-Stockfish|1917
 #94|@SkyBlaster|1913
 #95|@HyperLitikBOT|1908
@@ -119,7 +119,7 @@ Rank|Bot|Rating
 #117|@XXXTryandTryXXX|1747
 #118|@CBNguyen_Bot|1741
 #119|@No_Username2|1741
-#120|@Groot123456|1740
+#120|@Groot123456|1732
 #121|@NotNateBot|1731
 #122|@Crepusculum|1724
 #123|@SUMEETTHEPRO|1708
