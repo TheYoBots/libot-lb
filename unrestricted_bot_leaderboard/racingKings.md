@@ -74,10 +74,10 @@ Rank|Bot|Rating
 #72|@ESC_BOT|2253
 #73|@relevantproblem|2251
 #74|@GodelEscherBot|2244
-#75|@is_BOSS|2226
-#76|@ResoluteBot|2225
-#77|@XXIstCentury|2225
-#78|@OpeningsBot|2223
+#75|@OpeningsBot|2227
+#76|@is_BOSS|2226
+#77|@ResoluteBot|2225
+#78|@XXIstCentury|2225
 #79|@Resolved-Bot|2223
 #80|@HerokuHasnotplay|2215
 #81|@Zer0_Tw0|2210

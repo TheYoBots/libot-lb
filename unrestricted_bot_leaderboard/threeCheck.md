@@ -89,8 +89,8 @@ Rank|Bot|Rating
 #87|@lightspeed_bot|1951
 #88|@Galaxy_Guardian|1947
 #89|@pistol-play|1939
-#90|@PROBOT123567|1936
-#91|@OpeningsBot|1935
+#90|@OpeningsBot|1937
+#91|@PROBOT123567|1936
 #92|@PetersTestBot|1935
 #93|@Lila-Stockfish|1917
 #94|@SkyBlaster|1913

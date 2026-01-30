@@ -1,8 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2533
+#1|@is_BOSS|2530
 #2|@RaspFish|2487
-#3|@DarkOnBot|2462
-#4|@ToromBot|2386
-#5|@MEGA-NOOB-BOT|2322
-#6|@HakoAI|2009
+#3|@DarkOnBot|2470
+#4|@SF_Bot1nok|2431
+#5|@ToromBot|2386
+#6|@MEGA-NOOB-BOT|2312
+#7|@HakoAI|2008
+#8|@OpeningsBot|1782
