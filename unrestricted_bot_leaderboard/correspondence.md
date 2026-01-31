@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@Magicianrobot|2740
 #5|@Moment-That-Inspires|2706
 #6|@H-Zero|2650
-#7|@pawnocchio_bot|2623
-#8|@pawn_git|2619
+#7|@pawn_git|2630
+#8|@pawnocchio_bot|2623
 #9|@ChamberiAjedrez|2591
 #10|@LeelaZero-UK|2585
 #11|@Alexnajax_Fan|2549
@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@Xmas_dragon|2300
 #40|@Ujwal1001|2297
 #41|@robiachess|2295
-#42|@OpeningsBot|2286
-#43|@Quanticade|2286
-#44|@mrohCentaur|2285
+#42|@Quanticade|2286
+#43|@mrohCentaur|2285
+#44|@OpeningsBot|2282
 #45|@Toodfish|2273
 #46|@Cheng-4|2269
 #47|@eggnog-chess-engine|2254
@@ -221,10 +221,10 @@ Rank|Bot|Rating
 #219|@Jaymombot|1741
 #220|@Ssech_BOT|1741
 #221|@P-chessbot|1739
-#222|@Hand_coded_ai_90565|1735
-#223|@noobic_bot|1735
-#224|@Uras21|1735
-#225|@walrusbot|1730
+#222|@noobic_bot|1735
+#223|@Uras21|1735
+#224|@walrusbot|1730
+#225|@Hand_coded_ai_90565|1726
 #226|@Viridithas|1722
 #227|@St6090|1721
 #228|@Stockfish-MEDIUM|1721
@@ -351,7 +351,7 @@ Rank|Bot|Rating
 #349|@VimBot|1380
 #350|@Danielbot|1377
 #351|@dream_bot|1375
-#352|@AllieTheChessBot|1364
+#352|@AllieTheChessBot|1363
 #353|@MartianBot|1361
 #354|@MyNameIsSpeeedy|1356
 #355|@WittenbergAdmin|1355

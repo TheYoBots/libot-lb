@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@TacticalBot|2227
 #38|@UltronBot|2199
 #39|@FayEFish|2172
-#40|@DarkOnBot|2165
+#40|@DarkOnBot|2166
 #41|@Trumpfor2O2O|2162
 #42|@tbhOnBot|2161
 #43|@ResoluteBot|2155
@@ -146,9 +146,9 @@ Rank|Bot|Rating
 #144|@VedanthS-Bot|1428
 #145|@FireDragonBOT|1423
 #146|@szuwar8716|1415
-#147|@HakoAI|1410
-#148|@KuhusBOT|1406
-#149|@fchess-bot|1405
+#147|@KuhusBOT|1406
+#148|@fchess-bot|1405
+#149|@HakoAI|1405
 #150|@random_movesBOT|1402
 #151|@potato638|1399
 #152|@Bosburp777|1392

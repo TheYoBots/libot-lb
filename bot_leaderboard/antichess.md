@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@bot1e|2794
 #7|@RaspFish|2642
 #8|@GoblinAjedrezAI|2491
-#9|@Nakshatra3|2482
+#9|@Nakshatra3|2485
 #10|@DarkOnBot|2480
 #11|@HakoAI|2294
-#12|@anti-bot|2278
+#12|@anti-bot|2289
 #13|@OpeningsBot|2110
-#14|@Groot123456|1960
-#15|@pawnrobot|1908
+#14|@Groot123456|1956
+#15|@pawnrobot|1925
 #16|@StockfishLowDepth|1124

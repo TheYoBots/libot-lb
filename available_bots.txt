@@ -1,6 +1,7 @@
 a1928371870982730982
 a5a7-chess-bot
 aaronsengine
+aaronsenginenew
 abcbot
 abcd_engine
 abdcebot
@@ -145,6 +146,7 @@ anmols99
 annie_archy
 annieedison
 annihilatoru47333
+anodos-bot-dev
 anonymous5612
 anonymousbotter
 anonymus-bot
@@ -246,6 +248,7 @@ b0ngfish
 b0red_bot
 b0t5_ru13
 b4df1sh
+b4kv
 b4ux1t3s-bot
 babibot
 baby-bot
@@ -1163,6 +1166,7 @@ firelearn-dev
 fireofficial
 firetorchv2
 firstrobot
+fischer_bot
 fish-engine
 fishadmiral
 fishfingersmcgee
@@ -1294,6 +1298,7 @@ goldfish-engine
 gonzobot
 good-game-123
 good_bot223344
+goofygooberbot104
 goopis
 gorinko_fun_bot
 gothamchessbot
@@ -1947,6 +1952,7 @@ maia9
 maia9_10n
 maia9_30n
 maiamystery
+maiarosen
 main_line
 majaitobot
 major-maxy
@@ -2071,6 +2077,7 @@ mnscp
 mobius-grey
 mocheezero
 mochi_bot
+mockba_cbepxcekpetho
 mokbot
 moment-that-inspires
 mon_robot
@@ -2396,6 +2403,7 @@ playgea
 playinglikegiftian
 playleela
 playleelachess
+playmarius
 playsf
 playtdfa
 playwithkomodo
@@ -2526,6 +2534,7 @@ rapidchessbot
 rascal1
 raspberryisfishy
 raspfish
+ratsu-bot
 raubfish_me262
 ravenengine
 ravenengine_depth2
@@ -3474,12 +3483,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-fischer_bot
-goofygooberbot104
-mockba_cbepxcekpetho
-maiarosen
-aaronsenginenew
-b4kv
-ratsu-bot
-anodos-bot-dev
-playmarius

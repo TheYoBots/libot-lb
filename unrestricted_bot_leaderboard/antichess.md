@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@pistol-play|2498
 #70|@FayEFish|2491
 #71|@GoblinAjedrezAI|2491
-#72|@Nakshatra3|2482
+#72|@Nakshatra3|2485
 #73|@DarkOnBot|2480
 #74|@MrBOThacker|2477
 #75|@hauptschuleBOT|2475
@@ -121,9 +121,9 @@ Rank|Bot|Rating
 #119|@BromiumAI|2302
 #120|@EvenMatchup|2302
 #121|@HakoAI|2294
-#122|@GodelEscherBot|2284
-#123|@Dean_Summer_Bot|2279
-#124|@anti-bot|2278
+#122|@anti-bot|2289
+#123|@GodelEscherBot|2284
+#124|@Dean_Summer_Bot|2279
 #125|@Johnsun|2269
 #126|@NilatacBot|2255
 #127|@SkyBlaster|2254
@@ -168,11 +168,11 @@ Rank|Bot|Rating
 #166|@BetaZ|1973
 #167|@antichesssss|1964
 #168|@Menganti|1963
-#169|@Groot123456|1960
+#169|@Groot123456|1956
 #170|@CloudBOT|1950
-#171|@SriLankaChess|1925
-#172|@TestingBot1|1914
-#173|@pawnrobot|1908
+#171|@pawnrobot|1925
+#172|@SriLankaChess|1925
+#173|@TestingBot1|1914
 #174|@Crepusculum|1881
 #175|@NoTallkOnlyGames|1871
 #176|@Lumac0|1861
