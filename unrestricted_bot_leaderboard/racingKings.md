@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@LudwigBOT|2536
 #14|@Coolman2021|2527
 #15|@EmptikBot|2526
-#16|@RaspFish|2526
-#17|@DarkOnBot|2524
-#18|@PumpkinLatteBob|2524
+#16|@DarkOnBot|2524
+#17|@PumpkinLatteBob|2524
+#18|@RaspFish|2520
 #19|@Nebulogic|2514
 #20|@SCP079|2513
 #21|@tbhOnBot|2512
@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@thibot|2393
 #48|@Jussicas|2373
 #49|@TheMatrix2025|2368
-#50|@varient-chess-bot1|2361
+#50|@varient-chess-bot1|2366
 #51|@Lili-Variants|2357
 #52|@Viet_BOT|2344
 #53|@virus_exe-bot|2342

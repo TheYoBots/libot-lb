@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@ResoluteBot|2233
 #31|@ttBOT|2230
 #32|@Magnus-BOT|2224
-#33|@RaspFish|2221
+#33|@RaspFish|2223
 #34|@SkyBlaster|2220
 #35|@tbhOnBot|2220
 #36|@Stockfish-MEDIUM|2198
@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@AnUtterlyKarBot|1796
 #113|@Nobody11892|1785
 #114|@Viet-BOT|1750
-#115|@clrsrc_lc0|1742
-#116|@varient-chess-bot1|1738
+#115|@varient-chess-bot1|1743
+#116|@clrsrc_lc0|1742
 #117|@K_Shi_Bot|1737
 #118|@natural-disaster|1726
 #119|@gage12_bot|1716
@@ -140,9 +140,9 @@ Rank|Bot|Rating
 #138|@TFRChessClub|1494
 #139|@hyperchessbot1|1493
 #140|@MagnusCarlsen1507|1492
-#141|@DavidsGuterBot|1490
-#142|@SugarAndSpice|1489
-#143|@rtx3080tibot|1487
+#141|@SugarAndSpice|1489
+#142|@rtx3080tibot|1487
+#143|@DavidsGuterBot|1485
 #144|@SUMAL_BRO|1476
 #145|@Ukraine-team-creator|1476
 #146|@Less_of_a_threat|1470

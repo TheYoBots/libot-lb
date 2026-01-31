@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@is_BOSS|2542
+#14|@is_BOSS|2544
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@ShredderGrizzly|2479
 #28|@NormalBulletBot|2474
 #29|@LoseisnotAvailablehe|2466
-#30|@DarkOnBot|2465
+#30|@DarkOnBot|2460
 #31|@PepsiForAll|2448
 #32|@eNErGyOFbEiNGbOT|2431
 #33|@SF_Bot1nok|2431
@@ -52,9 +52,9 @@ Rank|Bot|Rating
 #50|@HyperLitikBOT|2341
 #51|@LudwigBOT|2339
 #52|@NotNateBot|2336
-#53|@The-Fastest-Bot|2314
-#54|@Alehkine_cat|2312
-#55|@MEGA-NOOB-BOT|2312
+#53|@MEGA-NOOB-BOT|2318
+#54|@The-Fastest-Bot|2314
+#55|@Alehkine_cat|2312
 #56|@Team_bot_08512|2307
 #57|@Dean_Summer_Bot|2305
 #58|@PsychedelicAtomic|2296
@@ -137,9 +137,9 @@ Rank|Bot|Rating
 #135|@colinbot|2028
 #136|@Kizbuurb|2024
 #137|@ESC_BOT|2011
-#138|@HakoAI|2007
-#139|@are_bots_good|2006
-#140|@Breeze-Hot|2006
+#138|@are_bots_good|2006
+#139|@Breeze-Hot|2006
+#140|@HakoAI|2005
 #141|@BalloonBot|2003
 #142|@CatBot329|2000
 #143|@Zer0_Tw0|1991

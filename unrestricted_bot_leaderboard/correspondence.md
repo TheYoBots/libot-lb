@@ -332,8 +332,8 @@ Rank|Bot|Rating
 #330|@YagizTurkiyeBOT|1476
 #331|@MRT23|1469
 #332|@TheSystem_Bot|1466
-#333|@Mate-AI|1454
-#334|@Cimille|1449
+#333|@Cimille|1455
+#334|@Mate-AI|1454
 #335|@dtsudo|1449
 #336|@CheezyGlizzyEater|1444
 #337|@AndrewYXZBot|1436

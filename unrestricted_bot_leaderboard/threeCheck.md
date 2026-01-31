@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@firstrobot|2003
 #77|@Bot1nokk|1995
 #78|@Hyper-Stockfish|1986
-#79|@varient-chess-bot1|1983
+#79|@varient-chess-bot1|1984
 #80|@GodelEscherBot|1974
 #81|@XXIstCentury|1973
 #82|@MMC_HUANGBAI|1965
@@ -181,7 +181,7 @@ Rank|Bot|Rating
 #179|@Parth_Dhage_2|1258
 #180|@MyNameIsWhatLOL|1256
 #181|@SneakyBot21|1256
-#182|@pawnrobot|1250
+#182|@pawnrobot|1249
 #183|@TORTADEMANZANA023|1233
 #184|@heatseeker223|1191
 #185|@admin-bot|1188
