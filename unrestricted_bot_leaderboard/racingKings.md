@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@LudwigBOT|2536
 #14|@Coolman2021|2527
 #15|@EmptikBot|2526
-#16|@DarkOnBot|2524
+#16|@DarkOnBot|2525
 #17|@PumpkinLatteBob|2524
 #18|@RaspFish|2520
 #19|@Nebulogic|2514
@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@MyNameIsSpeedy|1935
 #110|@Pineapple-Friendly|1912
 #111|@Teamleaderbot|1904
-#112|@HakoAI|1893
-#113|@legendbot1|1893
+#112|@legendbot1|1893
+#113|@HakoAI|1885
 #114|@Hagfish|1879
 #115|@PyChessBot|1847
 #116|@king12345678910BOT|1833

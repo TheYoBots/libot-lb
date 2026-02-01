@@ -32,9 +32,9 @@ Rank|Bot|Rating
 #30|@tbhOnBot|2409
 #31|@GoblinAjedrezAI|2377
 #32|@Viet_BOT|2367
-#33|@SF_Bot1nok|2343
+#33|@DarkOnBot|2363
 #34|@Zer0_Tw0|2332
-#35|@DarkOnBot|2324
+#35|@SF_Bot1nok|2319
 #36|@LudwigBOT|2304
 #37|@lord-bot|2300
 #38|@KingfishX|2285
@@ -46,9 +46,9 @@ Rank|Bot|Rating
 #44|@YoBot_v2|2257
 #45|@Vinh_VariantsBot|2215
 #46|@Kizburb|2214
-#47|@RaspFish|2213
-#48|@xiang-qi|2207
-#49|@YellowFlash_v2|2200
+#47|@xiang-qi|2207
+#48|@YellowFlash_v2|2200
+#49|@RaspFish|2192
 #50|@colinbot|2188
 #51|@DeepFriedFish|2185
 #52|@virus_exe-bot|2180

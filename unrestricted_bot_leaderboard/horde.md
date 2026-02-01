@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@compchess2|2579
 #11|@Lili-ai|2572
 #12|@Nerubatskyi_Daniil_v|2471
-#13|@bot1e|2464
-#14|@abdcebot|2462
-#15|@Bot1nokk|2460
-#16|@SF_Bot1nok|2422
+#13|@bot1e|2465
+#14|@abdcebot|2463
+#15|@Bot1nokk|2450
+#16|@SF_Bot1nok|2424
 #17|@HIWIN1234|2412
 #18|@EmptikVariantsBot|2402
 #19|@BOT_Stockfish13|2383
@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@LoseisnotAvailablehe|2369
 #22|@lord-bot|2362
 #23|@Hyper-Stockfish|2358
-#24|@Bullet_bot_0526|2344
-#25|@RaspFish|2344
+#24|@RaspFish|2351
+#25|@Bullet_bot_0526|2344
 #26|@eNErGyOFbEiNGbOT|2326
 #27|@Alexnajax_Fan|2316
 #28|@AlfaBot|2293
@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@TacticalBot|2227
 #38|@UltronBot|2199
 #39|@FayEFish|2172
-#40|@DarkOnBot|2162
+#40|@DarkOnBot|2164
 #41|@Trumpfor2O2O|2162
 #42|@tbhOnBot|2161
 #43|@ResoluteBot|2155
