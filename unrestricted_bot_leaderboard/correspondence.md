@@ -224,10 +224,10 @@ Rank|Bot|Rating
 #222|@noobic_bot|1735
 #223|@Uras21|1735
 #224|@walrusbot|1730
-#225|@Hand_coded_ai_90565|1726
-#226|@Viridithas|1722
-#227|@St6090|1721
-#228|@Stockfish-MEDIUM|1721
+#225|@Viridithas|1722
+#226|@St6090|1721
+#227|@Stockfish-MEDIUM|1721
+#228|@Hand_coded_ai_90565|1720
 #229|@shakboy9824453231op|1720
 #230|@The_Tortoise|1719
 #231|@FluffBallCuddly|1718
@@ -351,7 +351,7 @@ Rank|Bot|Rating
 #349|@VimBot|1380
 #350|@Danielbot|1377
 #351|@dream_bot|1375
-#352|@AllieTheChessBot|1363
+#352|@AllieTheChessBot|1362
 #353|@MartianBot|1361
 #354|@MyNameIsSpeeedy|1356
 #355|@WittenbergAdmin|1355
