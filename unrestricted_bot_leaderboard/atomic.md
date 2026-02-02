@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@is_BOSS|2542
+#14|@is_BOSS|2546
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@mrchessmanager|2369
 #41|@Stockfish-MEDIUM|2366
 #42|@Resolved-Bot|2363
-#43|@CloudBot_v2|2357
-#44|@ToromBot|2357
+#43|@ToromBot|2359
+#44|@CloudBot_v2|2357
 #45|@faith_bot|2353
 #46|@Lila-Stockfish|2350
 #47|@lord-bot|2349
@@ -140,8 +140,8 @@ Rank|Bot|Rating
 #138|@are_bots_good|2006
 #139|@Breeze-Hot|2006
 #140|@BalloonBot|2003
-#141|@HakoAI|2003
-#142|@CatBot329|2000
+#141|@CatBot329|2000
+#142|@HakoAI|1991
 #143|@Zer0_Tw0|1991
 #144|@BigBrainen|1984
 #145|@relevantproblem|1976
