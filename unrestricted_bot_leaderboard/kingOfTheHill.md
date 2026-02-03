@@ -177,7 +177,7 @@ Rank|Bot|Rating
 #175|@MyNameIsSpeedy|1226
 #176|@Bottios|1223
 #177|@Hand_coded_ai_90565|1209
-#178|@DanerdBot|1208
+#178|@DanerdBot|1197
 #179|@RSVMentor|1196
 #180|@Boom_Bot|1176
 #181|@TrashBot|1168

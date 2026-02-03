@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@catalanbotI|2307
 #38|@Yemmi-Yemmi|2305
 #39|@Bot_Mittens|2303
-#40|@RaspFish|2290
+#40|@RaspFish|2291
 #41|@iplayonlyrandom|2282
 #42|@NormalBlitzBulletBot|2278
 #43|@MalanChess|2273
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@TTC-BOT_2|1596
 #144|@Karpov_bot|1594
 #145|@Hagfish|1593
-#146|@varient-chess-bot1|1583
+#146|@varient-chess-bot1|1582
 #147|@Danielbot|1575
 #148|@BushyCamper|1563
 #149|@FairyTailRegimeBot|1558

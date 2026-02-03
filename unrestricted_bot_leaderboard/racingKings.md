@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@Fairy_Belzedar|2559
 #10|@EmptikVariantsBot|2557
 #11|@FireFishBOT|2547
-#12|@ToromBot|2542
+#12|@ToromBot|2537
 #13|@LudwigBOT|2536
 #14|@Coolman2021|2527
 #15|@EmptikBot|2526
@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@lightspeed_bot|2396
 #47|@thibot|2393
 #48|@Jussicas|2373
-#49|@TheMatrix2025|2368
-#50|@varient-chess-bot1|2366
+#49|@varient-chess-bot1|2369
+#50|@TheMatrix2025|2368
 #51|@Lili-Variants|2357
 #52|@Viet_BOT|2344
 #53|@virus_exe-bot|2342

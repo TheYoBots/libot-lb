@@ -582,6 +582,7 @@ caissachessengine
 caissaix
 calcili
 calciumbot
+calciumengine
 calico1
 calliopean_account
 callmecool
@@ -878,6 +879,7 @@ dark_cloud_bot
 dark_evil_bot
 darkb0t
 darkchessai
+darkelectronbot
 darknode
 darkonbot
 darkonweakbot
@@ -3483,5 +3485,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-darkelectronbot
-calciumengine
+m8000_bot
+matrix_core
+kiyengine
+anodos-bot
+grindle_x_bot1
+rachl1

@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2842
 #4|@Magicianrobot|2740
-#5|@Moment-That-Inspires|2706
+#5|@Moment-That-Inspires|2709
 #6|@H-Zero|2650
 #7|@pawn_git|2630
 #8|@pawnocchio_bot|2623
