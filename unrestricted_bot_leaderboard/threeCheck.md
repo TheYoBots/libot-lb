@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@SacrificialSage|2026
 #75|@BalloonBot|2017
 #76|@firstrobot|2003
-#77|@varient-chess-bot1|1997
+#77|@varient-chess-bot1|1998
 #78|@Bot1nokk|1995
 #79|@Hyper-Stockfish|1986
 #80|@GodelEscherBot|1974
@@ -182,7 +182,7 @@ Rank|Bot|Rating
 #180|@SneakyBot21|1256
 #181|@pawnrobot|1248
 #182|@TORTADEMANZANA023|1233
-#183|@DanerdBot|1221
+#183|@DanerdBot|1217
 #184|@heatseeker223|1191
 #185|@admin-bot|1188
 #186|@Ujwal1001|1179

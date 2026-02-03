@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@is_BOSS|2555
+#14|@is_BOSS|2545
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
@@ -25,10 +25,10 @@ Rank|Bot|Rating
 #23|@HIWIN1234|2494
 #24|@ElPeonElectrico|2490
 #25|@firstrobot|2485
-#26|@ShredderGrizzly|2479
-#27|@RaspFish|2477
-#28|@NormalBulletBot|2474
-#29|@DarkOnBot|2469
+#26|@DarkOnBot|2479
+#27|@ShredderGrizzly|2479
+#28|@RaspFish|2477
+#29|@NormalBulletBot|2474
 #30|@LoseisnotAvailablehe|2466
 #31|@PepsiForAll|2448
 #32|@eNErGyOFbEiNGbOT|2431

@@ -146,6 +146,7 @@ anmols99
 annie_archy
 annieedison
 annihilatoru47333
+anodos-bot
 anodos-bot-dev
 anonymous5612
 anonymousbotter
@@ -1330,6 +1331,7 @@ greko-bot
 grey_wolf3000
 grey_wolf3000_2
 grimmerai
+grindle_x_bot1
 grogros_zero
 groot123456
 groundshaker
@@ -1674,6 +1676,7 @@ kireevi
 kirinchessbot
 kittenengine
 kiwibot
+kiyengine
 kizburb
 kizbuurb
 kizvariant
@@ -1922,6 +1925,7 @@ m-i-0
 m-z_bot
 m07002
 m0e7gr77
+m8000_bot
 machinamas
 macos23
 macroman952
@@ -1999,6 +2003,7 @@ matewithrook_sf17dev
 matmoi
 matrioshka_brain
 matrix-ai
+matrix_core
 matrixmovebot80
 mattaberk-bot
 mautlier
@@ -2513,6 +2518,7 @@ r-o-b-o-t
 r0bspierre
 r4033
 rablitz-test
+rachl1
 racingkingskingsbot
 raddelgo14bot
 radianceengine
@@ -3485,9 +3491,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-m8000_bot
-matrix_core
-kiyengine
-anodos-bot
-grindle_x_bot1
-rachl1
+hydray
+lunaenginechess
