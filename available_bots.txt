@@ -718,6 +718,7 @@ chessly-bot
 chessmaster6k
 chessmasterbot5
 chessmasterofin2012
+chessmindbots
 chessnoobcomp
 chessopenerbot
 chessosity
@@ -3493,4 +3494,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chessmindbots
+aspirebot
+strawberrychessdev
+royal-bot
