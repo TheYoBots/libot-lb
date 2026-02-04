@@ -1463,6 +1463,7 @@ huy-stockfish
 hwh2008
 hx2tooorch
 hybot
+hydray
 hydrochessle
 hydrovolt
 hyper-stockfish
@@ -1913,6 +1914,7 @@ luhut_robot
 lumac0
 lunabottest
 lunachessengine
+lunaenginechess
 lunanetengine
 lunarengine
 lunaticengine
@@ -3491,5 +3493,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-hydray
-lunaenginechess
+chessmindbots
