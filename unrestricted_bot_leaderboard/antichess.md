@@ -39,10 +39,10 @@ Rank|Bot|Rating
 #37|@SCP079|2662
 #38|@MalanChess|2638
 #39|@vrnts_colinbot|2637
-#40|@HIWIN1234|2623
-#41|@Kizbuurb|2621
-#42|@Lili-ai|2619
-#43|@Royal-Bot|2617
+#40|@Royal-Bot|2632
+#41|@HIWIN1234|2623
+#42|@Kizbuurb|2621
+#43|@Lili-ai|2619
 #44|@KingfishX|2612
 #45|@IAMSTOCKFISH123|2603
 #46|@ChessBot3021|2599
@@ -80,9 +80,9 @@ Rank|Bot|Rating
 #78|@newengine2022|2469
 #79|@tbhOnBot|2466
 #80|@Fairy-Stockfish|2460
-#81|@PepsiForAll|2460
-#82|@gage12_bot|2456
-#83|@Nakshatra3|2456
+#81|@Nakshatra3|2460
+#82|@PepsiForAll|2460
+#83|@gage12_bot|2456
 #84|@CloudBot_v2|2455
 #85|@ResoluteBot|2455
 #86|@BotsFanClub|2454
@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@SaturnBot|2214
 #139|@xDmanBOT|2214
 #140|@YellowFlash_v2|2214
-#141|@anti-bot|2211
+#141|@anti-bot|2212
 #142|@CoderDen732|2207
 #143|@NormalBlitzBulletBot|2205
 #144|@EstmileBot|2200

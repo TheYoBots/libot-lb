@@ -208,6 +208,7 @@ asalfish_15
 asdfbot2
 ashnostromo
 asimusbot
+aspirebot
 aspyfish
 assasino_legend
 asterix_20k20
@@ -2636,6 +2637,7 @@ routerbot
 rovanz
 rowbot-stockfish
 roxy_migurdia16
+royal-bot
 royalleela
 rpean_bot
 rrsimpelbot
@@ -2932,6 +2934,7 @@ storng766555
 strain-on-veins
 strategemx
 strawberrychess1
+strawberrychessdev
 strawberrycupcakee
 streamervschat
 striker_bot
@@ -3494,6 +3497,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-aspirebot
-strawberrychessdev
-royal-bot
