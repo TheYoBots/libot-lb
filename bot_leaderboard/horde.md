@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2481
-#2|@SF_Bot1nok|2447
-#3|@bot1e|2418
-#4|@Bot1nokk|2415
+#1|@abdcebot|2488
+#2|@SF_Bot1nok|2453
+#3|@bot1e|2425
+#4|@Bot1nokk|2406
 #5|@NewChessEngine-ai|2260
-#6|@GoblinAjedrezAI|2193
-#7|@DarkOnBot|2165
-#8|@tbhOnBot|2164
+#6|@GoblinAjedrezAI|2188
+#7|@tbhOnBot|2161
+#8|@DarkOnBot|2158

@@ -239,6 +239,7 @@ averybigmistake
 awesome32
 awesome_stockfish
 ax2xb2
+axiom_bot
 axwchessbot
 ayodia
 ayrostpon
@@ -3497,4 +3498,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-axiom_bot
