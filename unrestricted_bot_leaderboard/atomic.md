@@ -13,15 +13,15 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@is_BOSS|2552
+#14|@is_BOSS|2546
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
-#21|@ibep|2498
-#22|@tbhOnBot|2496
+#21|@tbhOnBot|2504
+#22|@ibep|2498
 #23|@HIWIN1234|2494
 #24|@ElPeonElectrico|2490
 #25|@firstrobot|2485
@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@vrnts_colinbot|2282
 #62|@TheMatrix2029|2278
 #63|@BGSBot|2272
-#64|@icbmsaregoated2|2272
-#65|@AtomicVsEngineBot|2268
+#64|@AtomicVsEngineBot|2268
+#65|@icbmsaregoated2|2268
 #66|@xiang-qi|2268
 #67|@CocopikachuBOT|2265
 #68|@chessbot2880|2261
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@CatBot329|2000
 #143|@Zer0_Tw0|1991
 #144|@BigBrainen|1984
-#145|@HakoAI|1984
+#145|@HakoAI|1983
 #146|@relevantproblem|1976
 #147|@All_Except_Chess960|1975
 #148|@Sub_Bot|1974
@@ -325,7 +325,7 @@ Rank|Bot|Rating
 #323|@legendbot1|1277
 #324|@PranavChessBot|1273
 #325|@SkyBlaster|1269
-#326|@pawnrobot|1268
+#326|@pawnrobot|1267
 #327|@Galaxy_Guardian|1265
 #328|@Bot-31795|1258
 #329|@LegoTechnicControlPl|1258
