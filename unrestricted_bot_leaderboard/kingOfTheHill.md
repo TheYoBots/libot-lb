@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
 #7|@TacticalBot|2439
-#8|@ToromBot|2412
+#8|@ToromBot|2413
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@PowerOnBot|2195
 #38|@UnDisstoppableBot|2193
 #39|@Amrobotone|2184
-#40|@Bot1nokk|2167
+#40|@Bot1nokk|2175
 #41|@eNErGyOFbEiNGbOT|2166
 #42|@HuxZero|2163
 #43|@Mega_BOT|2148
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@AnUtterlyKarBot|1796
 #114|@Nobody11892|1785
 #115|@Viet-BOT|1750
-#116|@varient-chess-bot1|1743
+#116|@varient-chess-bot1|1748
 #117|@clrsrc_lc0|1742
 #118|@K_Shi_Bot|1737
 #119|@natural-disaster|1726
@@ -143,9 +143,9 @@ Rank|Bot|Rating
 #141|@MagnusCarlsen1507|1492
 #142|@SugarAndSpice|1489
 #143|@rtx3080tibot|1487
-#144|@DavidsGuterBot|1478
-#145|@SUMAL_BRO|1476
-#146|@Ukraine-team-creator|1476
+#144|@SUMAL_BRO|1476
+#145|@Ukraine-team-creator|1476
+#146|@DavidsGuterBot|1474
 #147|@Less_of_a_threat|1470
 #148|@Bbao23-chess|1469
 #149|@Trainspotter|1466
@@ -179,7 +179,7 @@ Rank|Bot|Rating
 #177|@Bottios|1223
 #178|@Hand_coded_ai_90565|1209
 #179|@RSVMentor|1196
-#180|@DanerdBot|1190
+#180|@DanerdBot|1188
 #181|@Boom_Bot|1176
 #182|@TrashBot|1168
 #183|@shakboy9824453231op|1152

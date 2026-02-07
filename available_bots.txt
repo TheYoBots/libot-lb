@@ -3408,6 +3408,7 @@ xdmanbot
 xenog
 xentroniumbot
 xerus_1
+xewali
 xiang-qi
 xidm
 xmas_dragon
@@ -3498,4 +3499,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-xewali
