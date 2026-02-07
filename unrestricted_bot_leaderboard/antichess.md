@@ -85,10 +85,10 @@ Rank|Bot|Rating
 #83|@CloudBot_v2|2455
 #84|@ResoluteBot|2455
 #85|@BotsFanClub|2454
-#86|@Nakshatra3|2440
-#87|@Bobby_Fischer_BOT|2435
-#88|@Nobody11892|2435
-#89|@FairyTailRegimeBot|2434
+#86|@Bobby_Fischer_BOT|2435
+#87|@Nobody11892|2435
+#88|@FairyTailRegimeBot|2434
+#89|@Nakshatra3|2434
 #90|@Hagfish|2432
 #91|@EmptikBot247|2422
 #92|@xiang-qi|2422

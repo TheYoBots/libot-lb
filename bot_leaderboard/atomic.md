@@ -6,6 +6,6 @@ Rank|Bot|Rating
 #4|@DarkOnBot|2473
 #5|@GoblinAjedrezAI|2410
 #6|@SF_Bot1nok|2409
-#7|@ToromBot|2359
+#7|@ToromBot|2361
 #8|@MEGA-NOOB-BOT|2287
 #9|@HakoAI|1983
