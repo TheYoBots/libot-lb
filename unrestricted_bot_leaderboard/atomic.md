@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@is_BOSS|2557
+#12|@is_BOSS|2567
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -20,14 +20,14 @@ Rank|Bot|Rating
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
-#21|@tbhOnBot|2508
+#21|@tbhOnBot|2503
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
 #24|@firstrobot|2485
 #25|@ShredderGrizzly|2479
 #26|@RaspFish|2478
-#27|@DarkOnBot|2477
-#28|@NormalBulletBot|2474
+#27|@NormalBulletBot|2474
+#28|@DarkOnBot|2473
 #29|@LoseisnotAvailablehe|2466
 #30|@HIWIN1234|2464
 #31|@PepsiForAll|2448
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@Team_bot_08512|2307
 #57|@Dean_Summer_Bot|2305
 #58|@PsychedelicAtomic|2296
-#59|@MEGA-NOOB-BOT|2288
-#60|@AndromedaSX1|2284
+#59|@AndromedaSX1|2284
+#60|@MEGA-NOOB-BOT|2284
 #61|@vrnts_colinbot|2282
 #62|@TheMatrix2029|2278
 #63|@BGSBot|2272
@@ -163,8 +163,8 @@ Rank|Bot|Rating
 #161|@B4dF1sh|1903
 #162|@Isotopebot|1900
 #163|@Just-a-random-bot|1898
-#164|@bot1e|1895
-#165|@AX2XB2|1893
+#164|@AX2XB2|1893
+#165|@bot1e|1893
 #166|@TheAwesomeBot|1891
 #167|@FairyTailRegimeBot|1882
 #168|@kostasvl-bot|1877
@@ -363,6 +363,5 @@ Rank|Bot|Rating
 #361|@bfdzvfsgaergfds|800
 #362|@TheThanosBot|696
 #363|@BetaOneBot|690
-#364|@DanerdBot|683
-#365|@MateCheckCapture|680
-#366|@Ujwal1001|600
+#364|@MateCheckCapture|680
+#365|@Ujwal1001|600

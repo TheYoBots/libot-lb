@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@The-Fastest-Bot|2402
 #47|@lightspeed_bot|2396
 #48|@thibot|2393
-#49|@Jussicas|2373
-#50|@varient-chess-bot1|2369
+#49|@varient-chess-bot1|2374
+#50|@Jussicas|2373
 #51|@TheMatrix2025|2368
 #52|@Lili-Variants|2357
 #53|@Viet_BOT|2344

@@ -233,10 +233,9 @@ Rank|Bot|Rating
 #231|@Magic11bot_Coach|1001
 #232|@JPSBOT|958
 #233|@FireTorchV2|955
-#234|@DanerdBot|870
-#235|@RSVMentor|862
-#236|@GuineaBot3|845
-#237|@MateCheckCapture|828
-#238|@TrashBot|800
-#239|@MinOpponentMoves|783
-#240|@MontyPythonFlying|754
+#234|@RSVMentor|862
+#235|@GuineaBot3|845
+#236|@MateCheckCapture|828
+#237|@TrashBot|800
+#238|@MinOpponentMoves|783
+#239|@MontyPythonFlying|754
