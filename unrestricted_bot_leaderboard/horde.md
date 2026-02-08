@@ -117,9 +117,9 @@ Rank|Bot|Rating
 #115|@P-chessbot|1618
 #116|@ElFinsBoT|1617
 #117|@Lila-Stockfish|1616
-#118|@Nebulogic|1606
-#119|@Stockfish-MEDIUM|1604
-#120|@varient-chess-bot1|1601
+#118|@varient-chess-bot1|1609
+#119|@Nebulogic|1606
+#120|@Stockfish-MEDIUM|1604
 #121|@OpeningsBot|1591
 #122|@HakoAI|1584
 #123|@Zer0_Tw0|1580
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@Nicholaswb_BOT|1288
 #165|@AEBROADUSBOTTER|1279
 #166|@ReallyCrazyBOT|1279
-#167|@pawnrobot|1264
+#167|@pawnrobot|1260
 #168|@AbhijithHISBot|1258
 #169|@Humuhumunukunukuapu|1258
 #170|@Jannik08_fan|1258

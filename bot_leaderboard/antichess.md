@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@Royal-Bot|2702
 #6|@RaspFish|2686
 #7|@GoblinAjedrezAI|2502
-#8|@DarkOnBot|2495
+#8|@DarkOnBot|2499
 #9|@tbhOnBot|2474
-#10|@Nakshatra3|2434
+#10|@Nakshatra3|2436
 #11|@HakoAI|2283
 #12|@anti-bot|2228
 #13|@pawnrobot|1988
