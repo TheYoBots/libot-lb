@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@is_BOSS|2573
+#12|@is_BOSS|2569
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -20,13 +20,13 @@ Rank|Bot|Rating
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
-#21|@tbhOnBot|2501
+#21|@tbhOnBot|2504
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
 #24|@firstrobot|2485
 #25|@ShredderGrizzly|2479
 #26|@RaspFish|2478
-#27|@DarkOnBot|2474
+#27|@DarkOnBot|2477
 #28|@NormalBulletBot|2474
 #29|@LoseisnotAvailablehe|2466
 #30|@PepsiForAll|2448
@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@Dean_Summer_Bot|2305
 #58|@PsychedelicAtomic|2296
 #59|@AndromedaSX1|2284
-#60|@MEGA-NOOB-BOT|2284
-#61|@vrnts_colinbot|2282
+#60|@vrnts_colinbot|2282
+#61|@MEGA-NOOB-BOT|2281
 #62|@TheMatrix2029|2278
 #63|@BGSBot|2272
 #64|@AtomicVsEngineBot|2268
@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@Johnsun|2257
 #71|@YoBot_v2|2243
 #72|@MalanChess|2238
-#73|@STockfishdestroyBot|2227
-#74|@icbmsaregoated2|2224
+#73|@icbmsaregoated2|2228
+#74|@STockfishdestroyBot|2227
 #75|@Kizburb|2220
 #76|@MagnusCarlsenTheBOT|2215
 #77|@GravityStorm|2214
@@ -190,7 +190,7 @@ Rank|Bot|Rating
 #188|@PiratesBot|1800
 #189|@CoderDen732|1791
 #190|@TheLegitLegend|1786
-#191|@OpeningsBot|1782
+#191|@OpeningsBot|1780
 #192|@MagicHacker123|1774
 #193|@buffFishNet|1771
 #194|@EstmileBot|1769

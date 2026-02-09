@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@Xmas_dragon|2300
 #40|@Ujwal1001|2297
 #41|@robiachess|2295
-#42|@Quanticade|2286
-#43|@mrohCentaur|2285
-#44|@OpeningsBot|2282
+#42|@OpeningsBot|2294
+#43|@Quanticade|2286
+#44|@mrohCentaur|2285
 #45|@Toodfish|2273
 #46|@Cheng-4|2269
 #47|@eggnog-chess-engine|2254
@@ -149,10 +149,10 @@ Rank|Bot|Rating
 #147|@Virutor|1980
 #148|@Bobby_Fishcer_Bot|1976
 #149|@CheckmateX1|1974
-#150|@matmoi|1972
-#151|@BigBrainen|1970
-#152|@BritBot|1970
-#153|@GarboBot|1970
+#150|@GarboBot|1973
+#151|@matmoi|1972
+#152|@BigBrainen|1970
+#153|@BritBot|1970
 #154|@Test_God_50_BOT|1965
 #155|@WMatt|1958
 #156|@SohamChessBot|1956
@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@Los-Guerreros1|1935
 #162|@TheLegendaryKnight|1935
 #163|@chicken_farmer|1926
-#164|@Jibbby|1923
+#164|@Jibbby|1920
 #165|@yowCapablanca|1914
 #166|@TrolliumBot|1894
 #167|@honzovy-sachy-2|1892
@@ -192,8 +192,8 @@ Rank|Bot|Rating
 #190|@Hoplites|1813
 #191|@cool_boy_bot|1812
 #192|@Sub_Bot|1808
-#193|@Humanoid_1800|1803
-#194|@DrMeowMeow|1800
+#193|@DrMeowMeow|1800
+#194|@Humanoid_1800|1800
 #195|@stockfish12_Johan|1798
 #196|@BetaOneBot|1792
 #197|@grindle_x_bot1|1792

@@ -89,8 +89,8 @@ Rank|Bot|Rating
 #87|@Lili-Variants|1955
 #88|@lightspeed_bot|1951
 #89|@Galaxy_Guardian|1947
-#90|@pistol-play|1939
-#91|@OpeningsBot|1937
+#90|@OpeningsBot|1941
+#91|@pistol-play|1939
 #92|@PROBOT123567|1936
 #93|@PetersTestBot|1935
 #94|@Lila-Stockfish|1917
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@Bottios|1620
 #134|@newengine2022|1588
 #135|@knight_128|1563
-#136|@DavidsGuterBot|1556
+#136|@DavidsGuterBot|1553
 #137|@Alehkine_cat|1531
 #138|@TrashBot|1519
 #139|@FireDragonBOT|1518
