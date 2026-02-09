@@ -13,5 +13,4 @@ Rank|Bot|Rating
 #11|@HakoAI|2283
 #12|@anti-bot|2228
 #13|@pawnrobot|1988
-#14|@Groot123456|1956
-#15|@StockfishLowDepth|1124
+#14|@StockfishLowDepth|1124
