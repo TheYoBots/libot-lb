@@ -755,6 +755,7 @@ cimille
 cinder-bot
 cizme
 classic_bot-v2
+clawde
 clementyne1
 cleobot
 cleoengine
@@ -2480,6 +2481,7 @@ pseudonoixe
 psychedelicatomic
 ptit-biscuit
 puffinbot
+puisne
 pumpkin-bot
 pumpkinlattebob
 pure-eman
@@ -3301,6 +3303,7 @@ vidha-2009
 viet-ai
 viet-bot
 viet_bot
+vietnamesecoffee
 vigneshjohanbot
 viictorya
 vikingnnue
@@ -3499,6 +3502,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-puisne
-clawde
-vietnamesecoffee
