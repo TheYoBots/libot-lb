@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@is_BOSS|2569
+#12|@is_BOSS|2571
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -24,9 +24,9 @@ Rank|Bot|Rating
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
 #24|@firstrobot|2485
-#25|@ShredderGrizzly|2479
-#26|@RaspFish|2478
-#27|@DarkOnBot|2477
+#25|@DarkOnBot|2479
+#26|@ShredderGrizzly|2479
+#27|@RaspFish|2478
 #28|@NormalBulletBot|2474
 #29|@LoseisnotAvailablehe|2466
 #30|@PepsiForAll|2448
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@eNErGyOFbEiNGbOT|2431
 #33|@FayEFish|2415
 #34|@SF_Bot1nok|2409
-#35|@GoblinAjedrezAI|2404
-#36|@Fairy-Stockfish|2402
+#35|@Fairy-Stockfish|2402
+#36|@GoblinAjedrezAI|2399
 #37|@Bullet_bot_0526|2391
 #38|@abhisun_bot|2384
 #39|@KingfishX|2369
@@ -190,7 +190,7 @@ Rank|Bot|Rating
 #188|@PiratesBot|1800
 #189|@CoderDen732|1791
 #190|@TheLegitLegend|1786
-#191|@OpeningsBot|1780
+#191|@OpeningsBot|1779
 #192|@MagicHacker123|1774
 #193|@buffFishNet|1771
 #194|@EstmileBot|1769

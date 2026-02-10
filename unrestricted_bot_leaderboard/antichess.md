@@ -26,9 +26,9 @@ Rank|Bot|Rating
 #24|@ibep|2733
 #25|@Bot_Mittens|2731
 #26|@BalloonBot|2724
-#27|@OpeningBooksTester|2712
-#28|@ElPeonElectrico|2710
-#29|@Royal-Bot|2709
+#27|@Royal-Bot|2714
+#28|@OpeningBooksTester|2712
+#29|@ElPeonElectrico|2710
 #30|@Yellow_Anxiety7|2708
 #31|@Lili-Variants|2693
 #32|@buffFishNet|2692
@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@Nobody11892|2435
 #88|@FairyTailRegimeBot|2434
 #89|@Hagfish|2432
-#90|@Nakshatra3|2432
+#90|@Nakshatra3|2430
 #91|@EmptikBot247|2422
 #92|@xiang-qi|2422
 #93|@faith_bot|2420
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@EagleEye2021|2235
 #131|@chesshyperbot|2234
 #132|@Hyper-Stockfish|2230
-#133|@anti-bot|2228
+#133|@anti-bot|2227
 #134|@CocopikachuBOT|2226
 #135|@TungJohn|2225
 #136|@Good-Game-123|2221
@@ -304,7 +304,7 @@ Rank|Bot|Rating
 #302|@DespacitoBot|1175
 #303|@BogoBot|1155
 #304|@thousandatom|1146
-#305|@StockfishLowDepth|1124
+#305|@StockfishLowDepth|1123
 #306|@Green_Tea_Ice_Cream|1107
 #307|@Md211bot|1107
 #308|@The_dragon_bot|1076
