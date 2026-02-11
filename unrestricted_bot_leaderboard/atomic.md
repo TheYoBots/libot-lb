@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@is_BOSS|2564
+#12|@is_BOSS|2567
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -20,11 +20,11 @@ Rank|Bot|Rating
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
-#21|@tbhOnBot|2503
+#21|@tbhOnBot|2501
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
 #24|@firstrobot|2485
-#25|@DarkOnBot|2483
+#25|@DarkOnBot|2484
 #26|@ShredderGrizzly|2479
 #27|@RaspFish|2478
 #28|@NormalBulletBot|2474
@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@MagnusCarlsen1507|2037
 #134|@HuxZero|2035
 #135|@EasyWinGG|2032
-#136|@colinbot|2028
-#137|@Kizbuurb|2024
+#136|@Kizbuurb|2024
+#137|@colinbot|2021
 #138|@ESC_BOT|2011
 #139|@are_bots_good|2006
 #140|@Breeze-Hot|2006

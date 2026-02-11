@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@icbmsaregoated2|2305
 #39|@Yemmi-Yemmi|2305
 #40|@Bot_Mittens|2303
-#41|@RaspFish|2291
+#41|@RaspFish|2295
 #42|@iplayonlyrandom|2282
 #43|@NormalBlitzBulletBot|2278
 #44|@MalanChess|2273

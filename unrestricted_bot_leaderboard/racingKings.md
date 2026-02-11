@@ -18,9 +18,9 @@ Rank|Bot|Rating
 #16|@Coolman2021|2527
 #17|@EmptikBot|2526
 #18|@PumpkinLatteBob|2524
-#19|@tbhOnBot|2524
-#20|@RaspFish|2520
-#21|@Nebulogic|2514
+#19|@tbhOnBot|2523
+#20|@Nebulogic|2514
+#21|@RaspFish|2513
 #22|@SCP079|2513
 #23|@Lili-ai|2504
 #24|@SF_Bot1nok|2498
@@ -63,9 +63,9 @@ Rank|Bot|Rating
 #61|@KingfishX|2312
 #62|@Viet-BOT|2312
 #63|@IAMSTOCKFISH123|2307
-#64|@TestingBot1|2294
-#65|@NormalBulletBot|2291
-#66|@colinbot|2289
+#64|@colinbot|2303
+#65|@TestingBot1|2294
+#66|@NormalBulletBot|2291
 #67|@YoBot_v2|2287
 #68|@AlfaBot|2278
 #69|@gage12_bot|2266

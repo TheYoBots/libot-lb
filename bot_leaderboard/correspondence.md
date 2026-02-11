@@ -1,5 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@GarboBot|1973
-#2|@katzebot|1616
-#3|@Cimille|1479
+#1|@GarboBot|1969
+#2|@katzebot|1646
