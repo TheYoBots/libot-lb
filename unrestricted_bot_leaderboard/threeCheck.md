@@ -178,10 +178,10 @@ Rank|Bot|Rating
 #176|@Sanjana_Kambala-BOT|1273
 #177|@TheLegendaryKnight|1272
 #178|@EstmileBot|1269
-#179|@pawnrobot|1262
-#180|@Parth_Dhage_2|1258
-#181|@MyNameIsWhatLOL|1256
-#182|@SneakyBot21|1256
+#179|@Parth_Dhage_2|1258
+#180|@MyNameIsWhatLOL|1256
+#181|@SneakyBot21|1256
+#182|@pawnrobot|1247
 #183|@TORTADEMANZANA023|1233
 #184|@heatseeker223|1191
 #185|@admin-bot|1188

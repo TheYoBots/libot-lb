@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@MalanChess|2292
 #23|@LudwigBOT|2281
 #24|@DarkOnBot|2275
-#25|@LoseisnotAvailablehe|2274
-#26|@HIWIN1234|2268
+#25|@HIWIN1234|2274
+#26|@LoseisnotAvailablehe|2274
 #27|@Bobby_Fischer_BOT|2267
 #28|@lord-bot|2258
 #29|@YoBot_v2|2242
@@ -99,7 +99,7 @@ Rank|Bot|Rating
 #97|@xiang-qi|1868
 #98|@que-hyper|1865
 #99|@is_BOSS|1864
-#100|@OpeningsBot|1862
+#100|@OpeningsBot|1858
 #101|@relevantproblem|1857
 #102|@Botzer|1851
 #103|@B0T5_RU13|1835
