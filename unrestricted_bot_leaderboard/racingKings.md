@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@PumpkinLatteBob|2524
 #19|@tbhOnBot|2523
 #20|@Nebulogic|2514
-#21|@RaspFish|2513
+#21|@RaspFish|2514
 #22|@SCP079|2513
 #23|@Lili-ai|2504
 #24|@SF_Bot1nok|2498
@@ -75,10 +75,10 @@ Rank|Bot|Rating
 #73|@ESC_BOT|2253
 #74|@relevantproblem|2251
 #75|@GodelEscherBot|2244
-#76|@is_BOSS|2226
-#77|@ResoluteBot|2225
-#78|@XXIstCentury|2225
-#79|@OpeningsBot|2223
+#76|@OpeningsBot|2235
+#77|@is_BOSS|2226
+#78|@ResoluteBot|2225
+#79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
 #81|@HerokuHasnotplay|2215
 #82|@Zer0_Tw0|2210

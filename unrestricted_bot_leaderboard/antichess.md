@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@Bot_AOOP11|2521
 #69|@HyperLitikBOT|2511
 #70|@pistol-play|2498
-#71|@DarkOnBot|2493
+#71|@DarkOnBot|2497
 #72|@FayEFish|2491
 #73|@MrBOThacker|2477
 #74|@hauptschuleBOT|2475
@@ -97,7 +97,7 @@ Rank|Bot|Rating
 #95|@DrSmartBugs|2412
 #96|@Monastedrez|2410
 #97|@AttackingOrDefending|2409
-#98|@Nakshatra3|2409
+#98|@Nakshatra3|2405
 #99|@varient-chess-bot1|2404
 #100|@BitExtender128|2403
 #101|@PumpkinLatteBob|2403
@@ -304,7 +304,7 @@ Rank|Bot|Rating
 #302|@DespacitoBot|1175
 #303|@BogoBot|1155
 #304|@thousandatom|1146
-#305|@StockfishLowDepth|1123
+#305|@StockfishLowDepth|1133
 #306|@Green_Tea_Ice_Cream|1107
 #307|@Md211bot|1107
 #308|@The_dragon_bot|1076

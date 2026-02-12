@@ -6,10 +6,10 @@ Rank|Bot|Rating
 #4|@SF_Bot1nok|2810
 #5|@Royal-Bot|2701
 #6|@GoblinAjedrezAI|2532
-#7|@DarkOnBot|2493
+#7|@DarkOnBot|2497
 #8|@tbhOnBot|2468
-#9|@Nakshatra3|2409
+#9|@Nakshatra3|2405
 #10|@anti-bot|2205
 #11|@OpeningsBot|2098
 #12|@pawnrobot|1988
-#13|@StockfishLowDepth|1123
+#13|@StockfishLowDepth|1133

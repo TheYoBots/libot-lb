@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@is_BOSS|2567
+#12|@is_BOSS|2572
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
 #24|@firstrobot|2485
-#25|@DarkOnBot|2484
+#25|@DarkOnBot|2480
 #26|@ShredderGrizzly|2479
 #27|@RaspFish|2478
 #28|@NormalBulletBot|2474
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@mrchessmanager|2369
 #41|@Stockfish-MEDIUM|2366
 #42|@Resolved-Bot|2363
-#43|@NewChessEngine-ai|2361
-#44|@ToromBot|2361
+#43|@ToromBot|2362
+#44|@NewChessEngine-ai|2361
 #45|@CloudBot_v2|2357
 #46|@faith_bot|2353
 #47|@Lila-Stockfish|2350
@@ -190,7 +190,7 @@ Rank|Bot|Rating
 #188|@PiratesBot|1800
 #189|@CoderDen732|1791
 #190|@TheLegitLegend|1786
-#191|@OpeningsBot|1779
+#191|@OpeningsBot|1778
 #192|@MagicHacker123|1774
 #193|@buffFishNet|1771
 #194|@EstmileBot|1769
