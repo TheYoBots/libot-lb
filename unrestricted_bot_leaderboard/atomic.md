@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@is_BOSS|2566
+#12|@is_BOSS|2567
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@mrchessmanager|2369
 #41|@Stockfish-MEDIUM|2366
 #42|@Resolved-Bot|2363
-#43|@ToromBot|2362
+#43|@ToromBot|2363
 #44|@NewChessEngine-ai|2361
 #45|@CloudBot_v2|2357
 #46|@faith_bot|2353

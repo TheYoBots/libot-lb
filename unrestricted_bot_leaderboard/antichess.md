@@ -143,10 +143,10 @@ Rank|Bot|Rating
 #141|@YellowFlash_v2|2214
 #142|@CoderDen732|2207
 #143|@NormalBlitzBulletBot|2205
-#144|@anti-bot|2201
-#145|@EstmileBot|2200
-#146|@zipfile_chess-bot|2200
-#147|@HerokuHasnotplay|2196
+#144|@EstmileBot|2200
+#145|@zipfile_chess-bot|2200
+#146|@HerokuHasnotplay|2196
+#147|@anti-bot|2180
 #148|@Lucror|2178
 #149|@GegeneBOT|2177
 #150|@DeepFriedFish|2165
