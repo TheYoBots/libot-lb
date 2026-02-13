@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Fairy_Belzedar|2559
 #11|@EmptikVariantsBot|2557
 #12|@FireFishBOT|2547
-#13|@DarkOnBot|2537
+#13|@DarkOnBot|2542
 #14|@ToromBot|2537
 #15|@LudwigBOT|2536
 #16|@Coolman2021|2527
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@ESC_BOT|2253
 #74|@relevantproblem|2251
 #75|@GodelEscherBot|2244
-#76|@OpeningsBot|2228
-#77|@is_BOSS|2226
+#76|@is_BOSS|2226
+#77|@OpeningsBot|2226
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
