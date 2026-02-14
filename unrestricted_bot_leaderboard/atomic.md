@@ -20,10 +20,10 @@ Rank|Bot|Rating
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
-#21|@tbhOnBot|2508
+#21|@tbhOnBot|2505
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
-#24|@DarkOnBot|2485
+#24|@DarkOnBot|2488
 #25|@firstrobot|2485
 #26|@ShredderGrizzly|2479
 #27|@RaspFish|2478
@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@MagnusCarlsen1507|2037
 #134|@HuxZero|2035
 #135|@EasyWinGG|2032
-#136|@Kizbuurb|2024
-#137|@colinbot|2021
+#136|@colinbot|2024
+#137|@Kizbuurb|2024
 #138|@ESC_BOT|2011
 #139|@are_bots_good|2006
 #140|@Breeze-Hot|2006
@@ -194,7 +194,7 @@ Rank|Bot|Rating
 #192|@MagicHacker123|1774
 #193|@buffFishNet|1771
 #194|@EstmileBot|1769
-#195|@OpeningsBot|1760
+#195|@OpeningsBot|1761
 #196|@SacrificialSage|1755
 #197|@PetersTestBot|1753
 #198|@AldoGamer001_Bot|1747
@@ -306,7 +306,7 @@ Rank|Bot|Rating
 #304|@Trumpfor2O2O|1386
 #305|@DrunkenMasterEngine|1385
 #306|@anonymous5612|1384
-#307|@pawnrobot|1383
+#307|@pawnrobot|1376
 #308|@SLvov-bot|1359
 #309|@ChessBotHere|1351
 #310|@kazakhfirstbot|1340

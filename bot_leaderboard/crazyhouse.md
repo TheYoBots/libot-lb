@@ -1,2 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
+#1|@kowalabi|2990
+#2|@QiOui|2849
+#3|@JemBok|2205
+#4|@tbhOnBot|2153
+#5|@clementyne1|2120
+#6|@Lancelbot|1960
+#7|@spyros1bot|1746
+#8|@hashcake1|1641

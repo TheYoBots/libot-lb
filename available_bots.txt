@@ -3356,6 +3356,7 @@ waychess-bot
 wb5-nosearchnaivebot
 we-friend
 weakbot
+weakchesszero-wc0
 weaklean
 weakstash
 weiawaga
@@ -3503,4 +3504,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-weakchesszero-wc0
