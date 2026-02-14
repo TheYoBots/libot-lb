@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@tbhOnBot|2225
 #33|@Magnus-BOT|2224
 #34|@SkyBlaster|2220
-#35|@RaspFish|2211
+#35|@RaspFish|2214
 #36|@patzerbot135|2200
 #37|@Stockfish-MEDIUM|2198
 #38|@PowerOnBot|2195
@@ -94,9 +94,9 @@ Rank|Bot|Rating
 #92|@colinbot|1907
 #93|@DrSmartBugs|1904
 #94|@Variantenkoning|1892
-#95|@PetersTestBot|1890
-#96|@MistakeBOT|1886
-#97|@OpeningsBot|1881
+#95|@OpeningsBot|1891
+#96|@PetersTestBot|1890
+#97|@MistakeBOT|1886
 #98|@EagleEye2021|1880
 #99|@xiang-qi|1868
 #100|@que-hyper|1865
@@ -115,9 +115,9 @@ Rank|Bot|Rating
 #113|@CloudBotZero|1798
 #114|@AnUtterlyKarBot|1796
 #115|@Nobody11892|1785
-#116|@varient-chess-bot1|1753
-#117|@Viet-BOT|1750
-#118|@clrsrc_lc0|1742
+#116|@Viet-BOT|1750
+#117|@clrsrc_lc0|1742
+#118|@varient-chess-bot1|1738
 #119|@K_Shi_Bot|1737
 #120|@natural-disaster|1726
 #121|@gage12_bot|1716

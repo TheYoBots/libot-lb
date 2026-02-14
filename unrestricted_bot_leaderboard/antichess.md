@@ -95,9 +95,9 @@ Rank|Bot|Rating
 #93|@faith_bot|2420
 #94|@Nithin-das|2420
 #95|@DrSmartBugs|2412
-#96|@Monastedrez|2410
-#97|@AttackingOrDefending|2409
-#98|@Nakshatra3|2409
+#96|@Nakshatra3|2411
+#97|@Monastedrez|2410
+#98|@AttackingOrDefending|2409
 #99|@varient-chess-bot1|2404
 #100|@BitExtender128|2403
 #101|@PumpkinLatteBob|2403
@@ -143,9 +143,9 @@ Rank|Bot|Rating
 #141|@YellowFlash_v2|2214
 #142|@CoderDen732|2207
 #143|@NormalBlitzBulletBot|2205
-#144|@EstmileBot|2200
-#145|@zipfile_chess-bot|2200
-#146|@anti-bot|2196
+#144|@anti-bot|2200
+#145|@EstmileBot|2200
+#146|@zipfile_chess-bot|2200
 #147|@HerokuHasnotplay|2196
 #148|@Lucror|2178
 #149|@GegeneBOT|2177
@@ -155,7 +155,7 @@ Rank|Bot|Rating
 #153|@AnUtterlyKarBot|2134
 #154|@P-chessbot|2134
 #155|@XXIstCentury|2131
-#156|@OpeningsBot|2122
+#156|@OpeningsBot|2124
 #157|@Stockfish-MEDIUM|2117
 #158|@PyChessBot|2102
 #159|@TurkiyeHogwartsBOT|2099
@@ -166,9 +166,9 @@ Rank|Bot|Rating
 #164|@CloudBotZero|2018
 #165|@B0T5_RU13|2011
 #166|@TheLegitLegend|2010
-#167|@pawnrobot|1994
-#168|@CrayyBot|1989
-#169|@BetaZ|1973
+#167|@CrayyBot|1989
+#168|@BetaZ|1973
+#169|@pawnrobot|1965
 #170|@antichesssss|1964
 #171|@Menganti|1963
 #172|@Groot123456|1956
@@ -305,7 +305,7 @@ Rank|Bot|Rating
 #303|@DespacitoBot|1175
 #304|@BogoBot|1155
 #305|@thousandatom|1146
-#306|@StockfishLowDepth|1133
+#306|@StockfishLowDepth|1132
 #307|@Green_Tea_Ice_Cream|1107
 #308|@Md211bot|1107
 #309|@The_dragon_bot|1076

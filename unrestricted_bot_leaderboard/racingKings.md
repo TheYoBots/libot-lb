@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@The-Fastest-Bot|2402
 #47|@lightspeed_bot|2396
 #48|@thibot|2393
-#49|@varient-chess-bot1|2374
+#49|@varient-chess-bot1|2388
 #50|@Jussicas|2373
 #51|@TheMatrix2025|2368
 #52|@Lili-Variants|2357
@@ -76,10 +76,10 @@ Rank|Bot|Rating
 #74|@relevantproblem|2251
 #75|@GodelEscherBot|2244
 #76|@is_BOSS|2226
-#77|@OpeningsBot|2226
-#78|@ResoluteBot|2225
-#79|@XXIstCentury|2225
-#80|@Resolved-Bot|2223
+#77|@ResoluteBot|2225
+#78|@XXIstCentury|2225
+#79|@Resolved-Bot|2223
+#80|@OpeningsBot|2220
 #81|@HerokuHasnotplay|2215
 #82|@Zer0_Tw0|2210
 #83|@FairyTailRegimeBot|2206
