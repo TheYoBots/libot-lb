@@ -5,12 +5,12 @@ Rank|Bot|Rating
 #3|@rachl1|2652
 #4|@nickl1bot|2450
 #5|@JemBok|2216
-#6|@tbhOnBot|2155
-#7|@clementyne1|2074
+#6|@tbhOnBot|2147
+#7|@clementyne1|2068
 #8|@Lancelbot|1954
-#9|@spyros1bot|1770
+#9|@spyros1bot|1778
 #10|@hashcake1|1617
 #11|@Groot123456|1577
-#12|@reaper1bot|1384
+#12|@reaper1bot|1382
 #13|@genesis1bot|1108
-#14|@pawnrobot|965
+#14|@pawnrobot|974

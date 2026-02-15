@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@is_BOSS|2566
+#12|@is_BOSS|2564
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
-#21|@tbhOnBot|2501
+#21|@tbhOnBot|2504
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
 #24|@DarkOnBot|2488
@@ -60,8 +60,8 @@ Rank|Bot|Rating
 #58|@PsychedelicAtomic|2296
 #59|@AndromedaSX1|2284
 #60|@vrnts_colinbot|2282
-#61|@MEGA-NOOB-BOT|2281
-#62|@TheMatrix2029|2278
+#61|@TheMatrix2029|2278
+#62|@MEGA-NOOB-BOT|2275
 #63|@BGSBot|2272
 #64|@AtomicVsEngineBot|2268
 #65|@xiang-qi|2268
@@ -132,10 +132,10 @@ Rank|Bot|Rating
 #130|@XXIstCentury|2061
 #131|@azdad|2047
 #132|@Less_of_a_threat|2047
-#133|@MagnusCarlsen1507|2037
-#134|@HuxZero|2035
-#135|@EasyWinGG|2032
-#136|@colinbot|2024
+#133|@colinbot|2039
+#134|@MagnusCarlsen1507|2037
+#135|@HuxZero|2035
+#136|@EasyWinGG|2032
 #137|@Kizbuurb|2024
 #138|@ESC_BOT|2011
 #139|@are_bots_good|2006

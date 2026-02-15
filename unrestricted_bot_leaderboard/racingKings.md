@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@EmptikBot|2526
 #18|@PumpkinLatteBob|2524
 #19|@tbhOnBot|2523
-#20|@Nebulogic|2514
-#21|@RaspFish|2514
+#20|@RaspFish|2520
+#21|@Nebulogic|2514
 #22|@SCP079|2513
 #23|@Lili-ai|2504
 #24|@SF_Bot1nok|2498
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@chessbot2880|2334
 #58|@ibep|2333
 #59|@CloudBot_v2|2331
-#60|@colinbot|2328
+#60|@colinbot|2319
 #61|@Bot_AOOP11|2314
 #62|@KingfishX|2312
 #63|@Viet-BOT|2312
