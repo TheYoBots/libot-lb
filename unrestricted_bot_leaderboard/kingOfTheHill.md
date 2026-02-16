@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@tbhOnBot|2225
 #33|@Magnus-BOT|2224
 #34|@SkyBlaster|2220
-#35|@RaspFish|2214
+#35|@RaspFish|2216
 #36|@patzerbot135|2200
 #37|@Stockfish-MEDIUM|2198
 #38|@PowerOnBot|2195
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@CloudBotZero|1798
 #114|@AnUtterlyKarBot|1796
 #115|@Nobody11892|1785
-#116|@varient-chess-bot1|1763
+#116|@varient-chess-bot1|1764
 #117|@Viet-BOT|1750
 #118|@clrsrc_lc0|1742
 #119|@K_Shi_Bot|1737
@@ -175,7 +175,7 @@ Rank|Bot|Rating
 #173|@Hrant_Petrosyan_BOT|1258
 #174|@HiddeNL|1242
 #175|@knight_128|1233
-#176|@pawnrobot|1232
+#176|@pawnrobot|1229
 #177|@MyNameIsSpeedy|1226
 #178|@Bottios|1223
 #179|@Hand_coded_ai_90565|1209
