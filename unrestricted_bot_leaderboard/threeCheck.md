@@ -30,12 +30,12 @@ Rank|Bot|Rating
 #28|@faith_bot|2447
 #29|@chessbot2880|2439
 #30|@ToromBot|2430
-#31|@Viet_BOT|2367
-#32|@tbhOnBot|2363
+#31|@tbhOnBot|2373
+#32|@Viet_BOT|2367
 #33|@GoblinAjedrezAI|2351
 #34|@DarkOnBot|2335
 #35|@Zer0_Tw0|2332
-#36|@SF_Bot1nok|2319
+#36|@SF_Bot1nok|2324
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
 #39|@KingfishX|2285
@@ -50,8 +50,8 @@ Rank|Bot|Rating
 #48|@Kizburb|2214
 #49|@xiang-qi|2207
 #50|@YellowFlash_v2|2200
-#51|@colinbot|2188
-#52|@DeepFriedFish|2185
+#51|@DeepFriedFish|2185
+#52|@colinbot|2180
 #53|@virus_exe-bot|2180
 #54|@ReallyCrazyBOT|2172
 #55|@ResoluteBot|2150
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@newengine2022|1588
 #135|@knight_128|1563
 #136|@Alehkine_cat|1531
-#137|@DavidsGuterBot|1528
+#137|@DavidsGuterBot|1527
 #138|@TrashBot|1519
 #139|@relevantproblem|1514
 #140|@Toxic_Bot|1511
@@ -180,7 +180,7 @@ Rank|Bot|Rating
 #178|@Parth_Dhage_2|1258
 #179|@MyNameIsWhatLOL|1256
 #180|@SneakyBot21|1256
-#181|@pawnrobot|1242
+#181|@pawnrobot|1239
 #182|@TORTADEMANZANA023|1233
 #183|@heatseeker223|1191
 #184|@admin-bot|1188
