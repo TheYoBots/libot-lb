@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@xiang-qi|2207
 #50|@YellowFlash_v2|2200
 #51|@DeepFriedFish|2185
-#52|@colinbot|2180
+#52|@colinbot|2181
 #53|@virus_exe-bot|2180
 #54|@ReallyCrazyBOT|2172
 #55|@ResoluteBot|2150
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@newengine2022|1588
 #135|@knight_128|1563
 #136|@Alehkine_cat|1531
-#137|@DavidsGuterBot|1527
+#137|@DavidsGuterBot|1526
 #138|@TrashBot|1519
 #139|@relevantproblem|1514
 #140|@Toxic_Bot|1511

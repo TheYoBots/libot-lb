@@ -12,11 +12,11 @@ Rank|Bot|Rating
 #10|@Fairy_Belzedar|2559
 #11|@EmptikVariantsBot|2557
 #12|@FireFishBOT|2547
-#13|@DarkOnBot|2542
-#14|@tbhOnBot|2539
-#15|@ToromBot|2537
-#16|@LudwigBOT|2536
-#17|@RaspFish|2533
+#13|@DarkOnBot|2540
+#14|@ToromBot|2537
+#15|@LudwigBOT|2536
+#16|@RaspFish|2536
+#17|@tbhOnBot|2536
 #18|@Coolman2021|2527
 #19|@EmptikBot|2526
 #20|@PumpkinLatteBob|2524
@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@KingfishX|2312
 #62|@Viet-BOT|2312
 #63|@IAMSTOCKFISH123|2307
-#64|@colinbot|2296
+#64|@colinbot|2301
 #65|@TestingBot1|2294
 #66|@NormalBulletBot|2291
 #67|@YoBot_v2|2287

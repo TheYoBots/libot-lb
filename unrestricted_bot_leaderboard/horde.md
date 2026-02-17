@@ -40,11 +40,11 @@ Rank|Bot|Rating
 #38|@TacticalBot|2227
 #39|@GoblinAjedrezAI|2205
 #40|@UltronBot|2199
-#41|@FayEFish|2172
-#42|@Trumpfor2O2O|2162
-#43|@DarkOnBot|2157
-#44|@tbhOnBot|2156
-#45|@ResoluteBot|2155
+#41|@tbhOnBot|2173
+#42|@FayEFish|2172
+#43|@Trumpfor2O2O|2162
+#44|@ResoluteBot|2155
+#45|@DarkOnBot|2151
 #46|@Karpov_bot|2145
 #47|@Bobby_Fischer_BOT|2136
 #48|@TheMatrix2025|2132

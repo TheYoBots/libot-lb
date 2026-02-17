@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@lord-bot|2258
 #29|@YoBot_v2|2242
 #30|@ResoluteBot|2233
-#31|@ttBOT|2230
-#32|@tbhOnBot|2225
+#31|@tbhOnBot|2230
+#32|@ttBOT|2230
 #33|@Magnus-BOT|2224
 #34|@SkyBlaster|2220
 #35|@RaspFish|2216
@@ -91,8 +91,8 @@ Rank|Bot|Rating
 #89|@azdad|1936
 #90|@HyperLitikBOT|1930
 #91|@SacrificialSage|1925
-#92|@colinbot|1907
-#93|@DrSmartBugs|1904
+#92|@DrSmartBugs|1904
+#93|@colinbot|1901
 #94|@Variantenkoning|1892
 #95|@PetersTestBot|1890
 #96|@MistakeBOT|1886
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@CloudBotZero|1798
 #114|@AnUtterlyKarBot|1796
 #115|@Nobody11892|1785
-#116|@varient-chess-bot1|1764
+#116|@varient-chess-bot1|1765
 #117|@Viet-BOT|1750
 #118|@clrsrc_lc0|1742
 #119|@K_Shi_Bot|1737
@@ -177,7 +177,7 @@ Rank|Bot|Rating
 #175|@knight_128|1233
 #176|@MyNameIsSpeedy|1226
 #177|@Bottios|1223
-#178|@pawnrobot|1221
+#178|@pawnrobot|1219
 #179|@Hand_coded_ai_90565|1209
 #180|@RSVMentor|1196
 #181|@Boom_Bot|1176
