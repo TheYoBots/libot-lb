@@ -117,11 +117,11 @@ Rank|Bot|Rating
 #115|@Nobody11892|1785
 #116|@varient-chess-bot1|1765
 #117|@Viet-BOT|1750
-#118|@clrsrc_lc0|1742
-#119|@K_Shi_Bot|1737
-#120|@natural-disaster|1726
-#121|@gage12_bot|1716
-#122|@StockfishLowDepth|1707
+#118|@StockfishLowDepth|1743
+#119|@clrsrc_lc0|1742
+#120|@K_Shi_Bot|1737
+#121|@natural-disaster|1726
+#122|@gage12_bot|1716
 #123|@FairyTailRegimeBot|1705
 #124|@TTC-BOT_2|1703
 #125|@Viet_BOT|1701
@@ -177,7 +177,7 @@ Rank|Bot|Rating
 #175|@knight_128|1233
 #176|@MyNameIsSpeedy|1226
 #177|@Bottios|1223
-#178|@pawnrobot|1219
+#178|@pawnrobot|1216
 #179|@Hand_coded_ai_90565|1209
 #180|@RSVMentor|1196
 #181|@Boom_Bot|1176
