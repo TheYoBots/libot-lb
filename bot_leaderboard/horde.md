@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@SF_Bot1nok|2454
-#2|@abdcebot|2439
-#3|@bot1e|2437
-#4|@Bot1nokk|2413
+#1|@SF_Bot1nok|2461
+#2|@bot1e|2433
+#3|@abdcebot|2426
+#4|@Bot1nokk|2424
 #5|@GoblinAjedrezAI|2205
-#6|@tbhOnBot|2173
-#7|@DarkOnBot|2151
+#6|@tbhOnBot|2177
+#7|@DarkOnBot|2147

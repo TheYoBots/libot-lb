@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@OpeningsBot|2312
-#2|@GarboBot|1964
+#2|@GarboBot|1965
 #3|@katzebot|1673
-#4|@Cimille|1486
+#4|@Cimille|1515
