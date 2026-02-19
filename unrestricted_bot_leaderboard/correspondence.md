@@ -132,9 +132,9 @@ Rank|Bot|Rating
 #130|@faith_bot|2037
 #131|@CocopikachuBOT|2036
 #132|@HyperPhoenix21|2035
-#133|@grindle_x_bot1|2033
-#134|@EmptikCorrespondence|2031
-#135|@StrongMagnusCarlsen|2027
+#133|@EmptikCorrespondence|2031
+#134|@StrongMagnusCarlsen|2027
+#135|@grindle_x_bot1|2026
 #136|@duythong1402|2025
 #137|@kybot|2025
 #138|@MalanChess|2020
@@ -329,9 +329,9 @@ Rank|Bot|Rating
 #327|@CosmicEbony|1485
 #328|@Jwsus|1485
 #329|@PolyBOT|1481
-#330|@EdwardKillick|1478
-#331|@HerathHerath|1477
-#332|@YagizTurkiyeBOT|1476
+#330|@HerathHerath|1477
+#331|@YagizTurkiyeBOT|1476
+#332|@EdwardKillick|1470
 #333|@MRT23|1469
 #334|@TheSystem_Bot|1466
 #335|@Mate-AI|1454

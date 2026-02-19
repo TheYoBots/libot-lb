@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@Fairy_Belzedar|2559
 #11|@EmptikVariantsBot|2557
 #12|@FireFishBOT|2547
-#13|@DarkOnBot|2540
-#14|@ToromBot|2537
+#13|@ToromBot|2547
+#14|@DarkOnBot|2539
 #15|@LudwigBOT|2536
 #16|@RaspFish|2536
 #17|@tbhOnBot|2536
@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@The-Fastest-Bot|2402
 #47|@lightspeed_bot|2396
 #48|@thibot|2393
-#49|@varient-chess-bot1|2382
-#50|@Jussicas|2373
+#49|@Jussicas|2373
+#50|@varient-chess-bot1|2370
 #51|@TheMatrix2025|2368
 #52|@Lili-Variants|2357
 #53|@Viet_BOT|2344
@@ -62,8 +62,8 @@ Rank|Bot|Rating
 #60|@Bot_AOOP11|2314
 #61|@KingfishX|2312
 #62|@Viet-BOT|2312
-#63|@IAMSTOCKFISH123|2307
-#64|@colinbot|2301
+#63|@colinbot|2309
+#64|@IAMSTOCKFISH123|2307
 #65|@TestingBot1|2294
 #66|@NormalBulletBot|2291
 #67|@YoBot_v2|2287
