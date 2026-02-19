@@ -69,10 +69,10 @@ Rank|Bot|Rating
 #67|@Dark_evil_bot|2525
 #68|@Bot_AOOP11|2521
 #69|@HyperLitikBOT|2511
-#70|@tbhOnBot|2506
+#70|@tbhOnBot|2510
 #71|@icbmsaregoated2|2498
 #72|@pistol-play|2498
-#73|@DarkOnBot|2493
+#73|@DarkOnBot|2497
 #74|@FayEFish|2491
 #75|@PumpkinLatteBob|2484
 #76|@MrBOThacker|2477
@@ -167,7 +167,7 @@ Rank|Bot|Rating
 #165|@B0T5_RU13|2011
 #166|@TheLegitLegend|2010
 #167|@CrayyBot|1989
-#168|@pawnrobot|1981
+#168|@pawnrobot|1983
 #169|@BetaZ|1973
 #170|@antichesssss|1964
 #171|@Menganti|1963
