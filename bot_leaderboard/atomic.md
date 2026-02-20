@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2559
+#1|@is_BOSS|2552
 #2|@tbhOnBot|2497
 #3|@DarkOnBot|2485
 #4|@RaspFish|2480
