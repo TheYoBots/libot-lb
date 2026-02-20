@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@FireFishBOT|2547
 #13|@ToromBot|2547
 #14|@DarkOnBot|2539
-#15|@LudwigBOT|2536
-#16|@RaspFish|2536
+#15|@RaspFish|2538
+#16|@LudwigBOT|2536
 #17|@tbhOnBot|2536
 #18|@Coolman2021|2527
 #19|@EmptikBot|2526

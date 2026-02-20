@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@TacticalBot|2227
 #39|@GoblinAjedrezAI|2205
 #40|@UltronBot|2199
-#41|@tbhOnBot|2196
+#41|@tbhOnBot|2181
 #42|@FayEFish|2172
 #43|@Trumpfor2O2O|2162
 #44|@DarkOnBot|2159
@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@PowerOnBot|1258
 #170|@xDmanBOT|1258
 #171|@yobmef|1258
-#172|@pawnrobot|1237
+#172|@pawnrobot|1236
 #173|@TheSystem_Bot|1218
 #174|@GuineaBot3|1212
 #175|@admin-bot|1209

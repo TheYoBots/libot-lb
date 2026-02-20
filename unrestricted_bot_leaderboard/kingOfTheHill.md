@@ -175,9 +175,9 @@ Rank|Bot|Rating
 #173|@Hrant_Petrosyan_BOT|1258
 #174|@HiddeNL|1242
 #175|@knight_128|1233
-#176|@MyNameIsSpeedy|1226
-#177|@Bottios|1223
-#178|@pawnrobot|1216
+#176|@pawnrobot|1228
+#177|@MyNameIsSpeedy|1226
+#178|@Bottios|1223
 #179|@Hand_coded_ai_90565|1209
 #180|@RSVMentor|1196
 #181|@Boom_Bot|1176

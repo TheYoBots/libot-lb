@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2818
-#2|@DarkOnBot|2710
+#2|@DarkOnBot|2704
 #3|@colinbot|2694
 #4|@tbhOnBot|2649
 #5|@ToromBot|2623
@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@spyros1bot|1697
 #16|@Groot123456|1577
 #17|@hashcake1|1570
-#18|@reaper1bot|1446
-#19|@puisne|1265
+#18|@reaper1bot|1403
+#19|@puisne|1308
 #20|@genesis1bot|1072
 #21|@pawnrobot|930

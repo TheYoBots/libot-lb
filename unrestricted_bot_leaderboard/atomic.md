@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@is_BOSS|2552
+#14|@is_BOSS|2555
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
 #21|@ibep|2498
-#22|@tbhOnBot|2497
+#22|@tbhOnBot|2494
 #23|@ElPeonElectrico|2490
 #24|@DarkOnBot|2485
 #25|@firstrobot|2485
@@ -281,11 +281,11 @@ Rank|Bot|Rating
 #279|@TheWeakestBot|1476
 #280|@thibot|1470
 #281|@fastandfurious10|1464
-#282|@pawnrobot|1464
-#283|@EDSPBOT|1463
-#284|@Dong_Xiao_Yuan|1454
-#285|@Future_Chess_Pro|1453
-#286|@MyNameIsSpeeedy|1453
+#282|@EDSPBOT|1463
+#283|@Dong_Xiao_Yuan|1454
+#284|@Future_Chess_Pro|1453
+#285|@MyNameIsSpeeedy|1453
+#286|@pawnrobot|1452
 #287|@BotGeorge|1449
 #288|@AIAlphaAI|1442
 #289|@darkb0t|1441
