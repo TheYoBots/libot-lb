@@ -14,13 +14,13 @@ Rank|Bot|Rating
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
 #14|@ttBOT|2540
-#15|@is_BOSS|2530
-#16|@BitExtender128|2526
-#17|@ResoluteBot|2525
+#15|@BitExtender128|2526
+#16|@ResoluteBot|2525
+#17|@is_BOSS|2523
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
-#21|@tbhOnBot|2501
+#21|@tbhOnBot|2507
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
 #24|@DarkOnBot|2487

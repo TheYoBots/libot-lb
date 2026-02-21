@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@Mega_BOT|2240
 #58|@rachl1|2230
 #59|@ElPeonElectrico|2228
-#60|@GoblinAjedrezAI|2224
+#60|@GoblinAjedrezAI|2225
 #61|@Coolman2021|2219
 #62|@xiang-qi|2203
 #63|@Magicianrobot|2200
@@ -138,9 +138,9 @@ Rank|Bot|Rating
 #136|@TJchessBot|1741
 #137|@SacrificialSage|1733
 #138|@calico1|1727
-#139|@Lili-Variants|1698
-#140|@Lightning_SpeedChess|1696
-#141|@spyros1bot|1690
+#139|@spyros1bot|1714
+#140|@Lili-Variants|1698
+#141|@Lightning_SpeedChess|1696
 #142|@B0T5_RU13|1683
 #143|@FASTCHESSBOT|1666
 #144|@SipsonsamsonBOT|1665
@@ -158,8 +158,8 @@ Rank|Bot|Rating
 #156|@TTC-BOT_2|1596
 #157|@Karpov_bot|1594
 #158|@Hagfish|1593
-#159|@Groot123456|1577
-#160|@hashcake1|1577
+#159|@hashcake1|1578
+#160|@Groot123456|1576
 #161|@Danielbot|1575
 #162|@BushyCamper|1563
 #163|@newengine2022|1563
@@ -201,8 +201,8 @@ Rank|Bot|Rating
 #199|@chess-trainer-bot|1417
 #200|@Wayang|1411
 #201|@cool_boy_bot|1398
-#202|@reaper1bot|1398
-#203|@Classic_BOT-v2|1392
+#202|@Classic_BOT-v2|1392
+#203|@reaper1bot|1381
 #204|@are_bots_good|1367
 #205|@GothamChessBot|1358
 #206|@XiDM|1351
@@ -210,9 +210,9 @@ Rank|Bot|Rating
 #208|@NormalBulletBot|1341
 #209|@MrDeepSeekGPT|1339
 #210|@Harry_Potterz|1337
-#211|@puisne|1301
-#212|@admin-bot|1297
-#213|@GravityStorm|1293
+#211|@admin-bot|1297
+#212|@GravityStorm|1293
+#213|@puisne|1293
 #214|@Boom_Bot|1277
 #215|@knight_128|1274
 #216|@SybBot|1265
@@ -240,7 +240,7 @@ Rank|Bot|Rating
 #238|@kazakhfirstbot|1119
 #239|@apollo_bot|1106
 #240|@BogoBot|1099
-#241|@genesis1bot|1083
+#241|@genesis1bot|1087
 #242|@TfXD_Bot|1050
 #243|@jasans_bot|1045
 #244|@Official_bot|1027
@@ -248,7 +248,7 @@ Rank|Bot|Rating
 #246|@Magic11bot_Coach|1001
 #247|@JPSBOT|958
 #248|@FireTorchV2|955
-#249|@pawnrobot|924
+#249|@pawnrobot|921
 #250|@RSVMentor|862
 #251|@GuineaBot3|845
 #252|@MateCheckCapture|828

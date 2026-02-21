@@ -5,5 +5,5 @@ Rank|Bot|Rating
 #3|@bot1e|2432
 #4|@Bot1nokk|2418
 #5|@GoblinAjedrezAI|2205
-#6|@tbhOnBot|2175
+#6|@tbhOnBot|2178
 #7|@DarkOnBot|2154
