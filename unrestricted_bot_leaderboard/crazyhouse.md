@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@TJchessBot|1741
 #137|@SacrificialSage|1733
 #138|@calico1|1727
-#139|@spyros1bot|1714
+#139|@spyros1bot|1710
 #140|@Lili-Variants|1698
 #141|@Lightning_SpeedChess|1696
 #142|@B0T5_RU13|1683
@@ -155,12 +155,12 @@ Rank|Bot|Rating
 #153|@OpeningsBot|1605
 #154|@CloudBotZero|1599
 #155|@PetersTestBot|1599
-#156|@TTC-BOT_2|1596
-#157|@Karpov_bot|1594
-#158|@Hagfish|1593
-#159|@hashcake1|1578
-#160|@Groot123456|1576
-#161|@Danielbot|1575
+#156|@hashcake1|1596
+#157|@TTC-BOT_2|1596
+#158|@Karpov_bot|1594
+#159|@Hagfish|1593
+#160|@Danielbot|1575
+#161|@Groot123456|1572
 #162|@BushyCamper|1563
 #163|@newengine2022|1563
 #164|@FairyTailRegimeBot|1558
@@ -202,7 +202,7 @@ Rank|Bot|Rating
 #200|@Wayang|1411
 #201|@cool_boy_bot|1398
 #202|@Classic_BOT-v2|1392
-#203|@reaper1bot|1381
+#203|@reaper1bot|1373
 #204|@are_bots_good|1367
 #205|@GothamChessBot|1358
 #206|@XiDM|1351
@@ -212,7 +212,7 @@ Rank|Bot|Rating
 #210|@Harry_Potterz|1337
 #211|@admin-bot|1297
 #212|@GravityStorm|1293
-#213|@puisne|1293
+#213|@puisne|1286
 #214|@Boom_Bot|1277
 #215|@knight_128|1274
 #216|@SybBot|1265
@@ -248,7 +248,7 @@ Rank|Bot|Rating
 #246|@Magic11bot_Coach|1001
 #247|@JPSBOT|958
 #248|@FireTorchV2|955
-#249|@pawnrobot|921
+#249|@pawnrobot|919
 #250|@RSVMentor|862
 #251|@GuineaBot3|845
 #252|@MateCheckCapture|828

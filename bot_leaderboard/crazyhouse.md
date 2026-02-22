@@ -14,10 +14,10 @@ Rank|Bot|Rating
 #12|@JemBok|2082
 #13|@clementyne1|2002
 #14|@Lancelbot|1928
-#15|@spyros1bot|1714
-#16|@hashcake1|1578
-#17|@Groot123456|1576
-#18|@reaper1bot|1381
-#19|@puisne|1293
+#15|@spyros1bot|1710
+#16|@hashcake1|1596
+#17|@Groot123456|1572
+#18|@reaper1bot|1373
+#19|@puisne|1286
 #20|@genesis1bot|1087
-#21|@pawnrobot|921
+#21|@pawnrobot|919
