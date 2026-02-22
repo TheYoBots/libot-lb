@@ -87,7 +87,7 @@ Rank|Bot|Rating
 #85|@higuyuu67776|2200
 #86|@Nobody11892|2200
 #87|@Trainspotter|2200
-#88|@OpeningsBot|2197
+#88|@OpeningsBot|2190
 #89|@Hyper-Stockfish|2189
 #90|@Johnsun|2181
 #91|@HuxZero|2176

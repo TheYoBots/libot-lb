@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2518
-#2|@tbhOnBot|2507
+#1|@is_BOSS|2517
+#2|@tbhOnBot|2514
 #3|@DarkOnBot|2488
 #4|@RaspFish|2480
-#5|@MEGA-NOOB-BOT|2292
+#5|@MEGA-NOOB-BOT|2287
 #6|@pawnrobot|1468
 #7|@StockfishLowDepth|1177

@@ -1,3 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@DavidsGuterBot|1479
+#1|@Groot123456|1611
+#2|@DavidsGuterBot|1475
