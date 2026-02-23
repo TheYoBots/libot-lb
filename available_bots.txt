@@ -2371,6 +2371,7 @@ pensivepuffer
 peonasesino71
 pepsiforall
 perceval_de_galles
+perl-gigachess
 perseusbot
 perseverancerover
 peterquillbot
@@ -2815,6 +2816,7 @@ slvov-bot
 smallbrainpy
 smartieandyou
 smoking_python
+smolstock
 smoothrotation
 sneakybot21
 soccerbot
@@ -3504,5 +3506,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-smolstock
-perl-gigachess

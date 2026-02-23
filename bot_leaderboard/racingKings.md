@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2553
+#1|@RaspFish|2559
 #2|@varient-chess-bot1|2370
 #3|@OpeningsBot|2190
