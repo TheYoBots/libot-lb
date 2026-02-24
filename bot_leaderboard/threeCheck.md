@@ -1,6 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2346
-#2|@Groot123456|1771
-#3|@DavidsGuterBot|1532
-#4|@pawnrobot|1252
+#1|@DarkOnBot|2429
+#2|@RaspFish|2352
+#3|@Groot123456|1753
+#4|@DavidsGuterBot|1532
+#5|@pawnrobot|1252
