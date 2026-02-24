@@ -12,5 +12,6 @@ Rank|Bot|Rating
 #10|@DarkOnBot|2504
 #11|@Nakshatra3|2379
 #12|@anti-bot|2152
-#13|@pawnrobot|1999
-#14|@StockfishLowDepth|1240
+#13|@pawnrobot|1992
+#14|@Groot123456|1839
+#15|@StockfishLowDepth|1255
