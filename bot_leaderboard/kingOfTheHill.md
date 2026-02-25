@@ -1,5 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rachl1|1915
-#2|@Groot123456|1565
-#3|@DavidsGuterBot|1481
+#1|@rachl1|1891
+#2|@nickl1bot|1829
+#3|@Groot123456|1587
+#4|@DavidsGuterBot|1463

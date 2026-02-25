@@ -434,6 +434,7 @@ bot5551
 bot64jaques
 bot7800
 bot8983
+bot913
 bot_adario
 bot_aoop11
 bot_aoop9_2
@@ -1612,6 +1613,7 @@ jpsbot
 jryan_bot
 ju-ke-box
 judging_entity
+juggerbot
 jumbot
 jupiterbot
 juroj
@@ -1952,6 +1954,7 @@ magnus-bot
 magnuscalsen123
 magnuscarlsen1507
 magnuscarlsenmogger
+magnuscarlsenstyles
 magnuscarlsenthebot
 magnusexp
 magnusglad_bot
@@ -2026,6 +2029,7 @@ mc-king-098
 mcexpressbot
 mchess-engine
 mckapran78
+mcufish
 mcyborg
 md211bot
 mdbot
@@ -2585,6 +2589,7 @@ relevantproblem
 remstalbot
 renegadeengine
 repl_chess
+reptilesbedamned
 requinbot
 resolutebot
 resolved-bot
@@ -2730,6 +2735,7 @@ sergiofransiss21
 servan2345
 serverfish
 serversofflinebot
+sethechessgod
 sewbot
 sf-dev
 sf-nnue
@@ -3000,6 +3006,7 @@ sxdrawworse
 sxphia
 sxrandom
 sybbot
+sykorabot
 sylvestrec
 symnium
 syrinx-bot
@@ -3506,10 +3513,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bot913
-sethechessgod
-juggerbot
-reptilesbedamned
-sykorabot
-magnuscarlsenstyles
-mcufish
