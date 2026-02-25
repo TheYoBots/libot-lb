@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@Viet-AI|2600
 #7|@lord-bot|2581
 #8|@GoblinAjedrezAI|2570
-#9|@FayEFish|2561
-#10|@Fairy_Belzedar|2559
-#11|@RaspFish|2559
+#9|@RaspFish|2564
+#10|@FayEFish|2561
+#11|@Fairy_Belzedar|2559
 #12|@EmptikVariantsBot|2557
 #13|@FireFishBOT|2547
 #14|@ToromBot|2547
@@ -62,8 +62,8 @@ Rank|Bot|Rating
 #60|@Bot_AOOP11|2314
 #61|@KingfishX|2312
 #62|@Viet-BOT|2312
-#63|@colinbot|2309
-#64|@IAMSTOCKFISH123|2307
+#63|@IAMSTOCKFISH123|2307
+#64|@colinbot|2303
 #65|@TestingBot1|2294
 #66|@NormalBulletBot|2291
 #67|@YoBot_v2|2287

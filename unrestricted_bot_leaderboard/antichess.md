@@ -10,12 +10,12 @@ Rank|Bot|Rating
 #8|@TheMatrix2029|2866
 #9|@MEGA-NOOB-BOT|2859
 #10|@UltronBot|2859
-#11|@abdcebot|2853
-#12|@bot1e|2847
-#13|@Bot1nokk|2828
+#11|@Bot1nokk|2854
+#12|@abdcebot|2840
+#13|@bot1e|2836
 #14|@TorBot|2824
 #15|@WennDieSoldatBOT|2818
-#16|@SF_Bot1nok|2805
+#16|@SF_Bot1nok|2799
 #17|@TacticalBot|2796
 #18|@lord-bot|2789
 #19|@FireFishBOT|2785
@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@GoblinAjedrezAI|2617
 #44|@KingfishX|2612
 #45|@IAMSTOCKFISH123|2603
-#46|@Royal-Bot|2601
+#46|@Royal-Bot|2600
 #47|@ChessBot3021|2599
 #48|@fairy-vvrr|2598
 #49|@Viet-BOT|2598
@@ -66,9 +66,9 @@ Rank|Bot|Rating
 #64|@AlfaBot|2541
 #65|@Leelabotmaster|2538
 #66|@Nam-Robot|2537
-#67|@Dark_evil_bot|2525
-#68|@Bot_AOOP11|2521
-#69|@tbhOnBot|2520
+#67|@tbhOnBot|2530
+#68|@Dark_evil_bot|2525
+#69|@Bot_AOOP11|2521
 #70|@HyperLitikBOT|2511
 #71|@DarkOnBot|2504
 #72|@pistol-play|2498
@@ -87,7 +87,7 @@ Rank|Bot|Rating
 #85|@CloudBot_v2|2455
 #86|@ResoluteBot|2455
 #87|@BotsFanClub|2454
-#88|@colinbot|2454
+#88|@colinbot|2442
 #89|@Bobby_Fischer_BOT|2435
 #90|@Nobody11892|2435
 #91|@FairyTailRegimeBot|2434
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@Lucror|2178
 #148|@GegeneBOT|2177
 #149|@DeepFriedFish|2165
-#150|@anti-bot|2152
+#150|@anti-bot|2156
 #151|@lightspeed_bot|2152
 #152|@AntiChessBot|2142
 #153|@AnUtterlyKarBot|2134
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@Lumac0|1861
 #177|@Pineapple-Friendly|1858
 #178|@SriLankaChess|1848
-#179|@Groot123456|1839
+#179|@Groot123456|1841
 #180|@MyNameIsWhatLOL|1826
 #181|@Bot2000|1807
 #182|@Emil_V2|1789
