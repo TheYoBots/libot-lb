@@ -1,6 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rachl1|1891
-#2|@nickl1bot|1829
-#3|@Groot123456|1587
-#4|@DavidsGuterBot|1463
+#1|@RaspFish|2309
+#2|@colinbot|2125
+#3|@OSaurus|2071
+#4|@rachl1|1814
+#5|@nickl1bot|1780
+#6|@Groot123456|1578
+#7|@DavidsGuterBot|1443

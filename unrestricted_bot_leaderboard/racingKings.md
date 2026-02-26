@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@EmptikVariantsBot|2557
 #13|@FireFishBOT|2547
 #14|@ToromBot|2547
-#15|@DarkOnBot|2539
+#15|@DarkOnBot|2545
 #16|@LudwigBOT|2536
 #17|@tbhOnBot|2536
 #18|@Coolman2021|2527
@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@KingfishX|2312
 #62|@Viet-BOT|2312
 #63|@IAMSTOCKFISH123|2307
-#64|@colinbot|2303
+#64|@colinbot|2297
 #65|@TestingBot1|2294
 #66|@NormalBulletBot|2291
 #67|@YoBot_v2|2287
