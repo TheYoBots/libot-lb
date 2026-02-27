@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@Viet-AI|2756
 #10|@VariantsBot|2754
 #11|@LoseisnotAvailablehe|2735
-#12|@DarkOnBot|2726
+#12|@DarkOnBot|2721
 #13|@chessbot2880|2709
 #14|@tbhOnBot|2703
 #15|@PepsiForAll|2702
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@bot1e|2623
 #23|@SkyBlaster|2614
 #24|@Xerus_1|2611
-#25|@Iwantedtoplaychess|2600
-#26|@SF_Bot1nok|2598
+#25|@SF_Bot1nok|2607
+#26|@Iwantedtoplaychess|2600
 #27|@Bot1nokk|2554
 #28|@EmptikVariantsBot|2548
 #29|@BotSuxX|2538
@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@catalanbotI|2307
 #49|@Yemmi-Yemmi|2305
 #50|@Bot_Mittens|2303
-#51|@OSaurus|2294
+#51|@OSaurus|2295
 #52|@iplayonlyrandom|2282
 #53|@rascal1|2279
 #54|@NormalBlitzBulletBot|2278
@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@mrchessmanager|1962
 #102|@Hyper-Stockfish|1947
 #103|@PolyBOT|1945
-#104|@JemBok|1931
+#104|@JemBok|1929
 #105|@AndromedaSX1|1919
 #106|@Lili-ai|1911
 #107|@Dean_Summer_Bot|1898
@@ -114,12 +114,12 @@ Rank|Bot|Rating
 #112|@XXIstCentury|1875
 #113|@ChessBot3021|1872
 #114|@Galaxy_Guardian|1871
-#115|@CocopikachuBOT|1868
-#116|@BalloonBot|1867
-#117|@legendbot1|1866
-#118|@MyNameIsSpeeedy|1861
-#119|@Bot_AOOP11|1858
-#120|@clementyne1|1857
+#115|@clementyne1|1870
+#116|@CocopikachuBOT|1868
+#117|@BalloonBot|1867
+#118|@legendbot1|1866
+#119|@MyNameIsSpeeedy|1861
+#120|@Bot_AOOP11|1858
 #121|@AnUtterlyKarBot|1829
 #122|@Dong_Xiao_Yuan|1829
 #123|@Alehkine_cat|1828
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@RobotTigerSlav|1805
 #129|@bot1996123|1800
 #130|@Botzer|1787
-#131|@Lancelbot|1786
+#131|@Lancelbot|1783
 #132|@HyperLitikBOT|1778
 #133|@EstmileBot|1777
 #134|@Pineapple-Friendly|1773
@@ -160,7 +160,7 @@ Rank|Bot|Rating
 #158|@TTC-BOT_2|1596
 #159|@Karpov_bot|1594
 #160|@Hagfish|1593
-#161|@spyros1bot|1580
+#161|@spyros1bot|1590
 #162|@Danielbot|1575
 #163|@BushyCamper|1563
 #164|@newengine2022|1563
@@ -170,8 +170,8 @@ Rank|Bot|Rating
 #168|@DespacitoBot|1535
 #169|@TheAwesomeBot|1527
 #170|@Botkingteam33|1525
-#171|@hashcake1|1525
-#172|@zipfile_chess-bot|1523
+#171|@zipfile_chess-bot|1523
+#172|@hashcake1|1519
 #173|@AldoGamer001_Bot|1507
 #174|@NoobMasterBOT|1499
 #175|@ararimbelami|1498
@@ -203,7 +203,7 @@ Rank|Bot|Rating
 #201|@Wayang|1411
 #202|@cool_boy_bot|1398
 #203|@Classic_BOT-v2|1392
-#204|@reaper1bot|1391
+#204|@reaper1bot|1392
 #205|@are_bots_good|1367
 #206|@GothamChessBot|1358
 #207|@XiDM|1351
@@ -211,8 +211,8 @@ Rank|Bot|Rating
 #209|@NormalBulletBot|1341
 #210|@MrDeepSeekGPT|1339
 #211|@Harry_Potterz|1337
-#212|@puisne|1303
-#213|@admin-bot|1297
+#212|@admin-bot|1297
+#213|@puisne|1297
 #214|@GravityStorm|1293
 #215|@Boom_Bot|1277
 #216|@knight_128|1274
@@ -240,7 +240,7 @@ Rank|Bot|Rating
 #238|@TeamChelsie|1125
 #239|@kazakhfirstbot|1119
 #240|@apollo_bot|1106
-#241|@genesis1bot|1103
+#241|@genesis1bot|1102
 #242|@BogoBot|1099
 #243|@TfXD_Bot|1050
 #244|@jasans_bot|1045
@@ -249,7 +249,7 @@ Rank|Bot|Rating
 #247|@Magic11bot_Coach|1001
 #248|@JPSBOT|958
 #249|@FireTorchV2|955
-#250|@pawnrobot|910
+#250|@pawnrobot|904
 #251|@RSVMentor|862
 #252|@GuineaBot3|845
 #253|@MateCheckCapture|828
