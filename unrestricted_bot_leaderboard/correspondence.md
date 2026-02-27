@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@fibonachi|2956
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2799
-#4|@Magicianrobot|2740
-#5|@Moment-That-Inspires|2738
+#4|@Moment-That-Inspires|2758
+#5|@Magicianrobot|2740
 #6|@H-Zero|2650
 #7|@pawnocchio_bot|2623
 #8|@ChamberiAjedrez|2595
