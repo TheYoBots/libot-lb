@@ -32,14 +32,14 @@ Rank|Bot|Rating
 #30|@faith_bot|2447
 #31|@ToromBot|2436
 #32|@tbhOnBot|2424
-#33|@DarkOnBot|2403
-#34|@RaspFish|2399
+#33|@RaspFish|2405
+#34|@DarkOnBot|2403
 #35|@GoblinAjedrezAI|2383
 #36|@Viet_BOT|2367
 #37|@Bot1nokk|2335
 #38|@Zer0_Tw0|2332
 #39|@SF_Bot1nok|2330
-#40|@colinbot|2324
+#40|@colinbot|2320
 #41|@LudwigBOT|2304
 #42|@lord-bot|2300
 #43|@KingfishX|2285
@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@vrnts_colinbot|2266
 #48|@HIWIN1234|2261
 #49|@YoBot_v2|2257
-#50|@rascal1|2231
+#50|@rascal1|2228
 #51|@Vinh_VariantsBot|2215
 #52|@Kizburb|2214
 #53|@xiang-qi|2207
@@ -76,9 +76,9 @@ Rank|Bot|Rating
 #74|@ROBOT_RANDEER2007|2059
 #75|@Official_bot|2041
 #76|@PumpkinLatteBob|2036
-#77|@calico1|2026
-#78|@Resolved-Bot|2026
-#79|@SacrificialSage|2026
+#77|@Resolved-Bot|2026
+#78|@SacrificialSage|2026
+#79|@calico1|2024
 #80|@BalloonBot|2017
 #81|@firstrobot|2003
 #82|@Hyper-Stockfish|1986
@@ -97,7 +97,7 @@ Rank|Bot|Rating
 #95|@PROBOT123567|1936
 #96|@PetersTestBot|1935
 #97|@rachl1|1932
-#98|@OSaurus|1925
+#98|@OSaurus|1930
 #99|@nickl1bot|1924
 #100|@JemBok|1923
 #101|@OpeningsBot|1921
@@ -135,7 +135,7 @@ Rank|Bot|Rating
 #133|@SUMEETTHEPRO|1708
 #134|@Yemmi-Yemmi|1702
 #135|@clueless-bot|1685
-#136|@Groot123456|1665
+#136|@Groot123456|1663
 #137|@Lancelbot|1659
 #138|@NormalBulletBot|1657
 #139|@Bottios|1643

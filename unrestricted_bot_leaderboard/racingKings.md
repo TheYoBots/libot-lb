@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@thibot|2393
 #50|@Jussicas|2373
 #51|@TheMatrix2025|2368
-#52|@varient-chess-bot1|2358
+#52|@varient-chess-bot1|2359
 #53|@Lili-Variants|2357
 #54|@Viet_BOT|2344
 #55|@virus_exe-bot|2342
