@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@tbhOnBot|2395
-#2|@DarkOnBot|2384
+#1|@DarkOnBot|2400
+#2|@tbhOnBot|2400
 #3|@RaspFish|2360
-#4|@colinbot|2134
-#5|@OSaurus|2001
+#4|@colinbot|2143
+#5|@OSaurus|1995
 #6|@kowalabi|1873
 #7|@rachl1|1831
 #8|@nickl1bot|1793

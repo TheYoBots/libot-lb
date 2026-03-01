@@ -42,9 +42,9 @@ Rank|Bot|Rating
 #40|@FayEFish|2172
 #41|@Trumpfor2O2O|2162
 #42|@ResoluteBot|2155
-#43|@DarkOnBot|2150
-#44|@Karpov_bot|2145
-#45|@tbhOnBot|2141
+#43|@Karpov_bot|2145
+#44|@DarkOnBot|2143
+#45|@tbhOnBot|2143
 #46|@Bobby_Fischer_BOT|2136
 #47|@TheMatrix2025|2132
 #48|@Yebot|2118
@@ -91,9 +91,9 @@ Rank|Bot|Rating
 #89|@NormalBulletBot|1774
 #90|@Botzer|1772
 #91|@gage12_bot|1772
-#92|@colinbot|1761
-#93|@CloudBOT|1758
-#94|@CocopikachuBOT|1757
+#92|@CloudBOT|1758
+#93|@CocopikachuBOT|1757
+#94|@colinbot|1756
 #95|@is_BOSS|1744
 #96|@Heman36541234578|1741
 #97|@Vinh_VariantsBot|1741

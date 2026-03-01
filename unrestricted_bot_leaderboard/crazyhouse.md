@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@VariantsBot|2754
 #11|@LoseisnotAvailablehe|2735
 #12|@chessbot2880|2722
-#13|@DarkOnBot|2714
-#14|@tbhOnBot|2703
-#15|@PepsiForAll|2702
-#16|@GilgameshTheBot|2697
+#13|@DarkOnBot|2716
+#14|@PepsiForAll|2702
+#15|@GilgameshTheBot|2697
+#16|@tbhOnBot|2693
 #17|@Fairy_Belzedar|2683
 #18|@colinbot|2674
 #19|@ToromBot|2673
@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@catalanbotI|2307
 #49|@Yemmi-Yemmi|2305
 #50|@Bot_Mittens|2303
-#51|@OSaurus|2292
+#51|@OSaurus|2291
 #52|@iplayonlyrandom|2282
 #53|@NormalBlitzBulletBot|2278
 #54|@MalanChess|2273
@@ -165,8 +165,8 @@ Rank|Bot|Rating
 #163|@newengine2022|1563
 #164|@FairyTailRegimeBot|1558
 #165|@vidha-2009|1542
-#166|@varient-chess-bot1|1538
-#167|@DespacitoBot|1535
+#166|@DespacitoBot|1535
+#167|@varient-chess-bot1|1535
 #168|@TheAwesomeBot|1527
 #169|@Botkingteam33|1525
 #170|@zipfile_chess-bot|1523
@@ -202,7 +202,7 @@ Rank|Bot|Rating
 #200|@Wayang|1411
 #201|@cool_boy_bot|1398
 #202|@Classic_BOT-v2|1392
-#203|@reaper1bot|1392
+#203|@reaper1bot|1381
 #204|@are_bots_good|1367
 #205|@GothamChessBot|1358
 #206|@XiDM|1351
@@ -238,7 +238,7 @@ Rank|Bot|Rating
 #236|@K_Shi_Bot|1149
 #237|@TeamChelsie|1125
 #238|@kazakhfirstbot|1119
-#239|@genesis1bot|1108
+#239|@genesis1bot|1118
 #240|@apollo_bot|1106
 #241|@BogoBot|1099
 #242|@TfXD_Bot|1050

@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@AlfaBot|2541
 #65|@Leelabotmaster|2538
 #66|@Nam-Robot|2537
-#67|@tbhOnBot|2526
+#67|@tbhOnBot|2530
 #68|@Dark_evil_bot|2525
 #69|@Bot_AOOP11|2521
 #70|@HyperLitikBOT|2511
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@ESC_BOT|2394
 #103|@CatBot_14|2393
 #104|@NormalBulletBot|2393
-#105|@Nakshatra3|2379
+#105|@Nakshatra3|2382
 #106|@AldoGamer001_Bot|2376
 #107|@Resolved-Bot|2369
 #108|@Trumpfor2O2O|2366
@@ -148,8 +148,8 @@ Rank|Bot|Rating
 #146|@HerokuHasnotplay|2196
 #147|@Lucror|2178
 #148|@GegeneBOT|2177
-#149|@anti-bot|2167
-#150|@DeepFriedFish|2165
+#149|@DeepFriedFish|2165
+#150|@anti-bot|2158
 #151|@lightspeed_bot|2152
 #152|@AntiChessBot|2142
 #153|@AnUtterlyKarBot|2134
