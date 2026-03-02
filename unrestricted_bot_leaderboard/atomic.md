@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
-#16|@is_BOSS|2529
+#16|@is_BOSS|2534
 #17|@BitExtender128|2526
 #18|@ResoluteBot|2525
 #19|@tbhOnBot|2524
@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@RaspFish|2484
 #27|@ShredderGrizzly|2479
 #28|@NormalBulletBot|2474
-#29|@DarkOnBot|2468
-#30|@LoseisnotAvailablehe|2466
+#29|@LoseisnotAvailablehe|2466
+#30|@DarkOnBot|2463
 #31|@PepsiForAll|2448
 #32|@HIWIN1234|2440
 #33|@eNErGyOFbEiNGbOT|2431

@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@VariantsBot|2754
 #11|@LoseisnotAvailablehe|2735
 #12|@chessbot2880|2722
-#13|@DarkOnBot|2702
+#13|@DarkOnBot|2709
 #14|@PepsiForAll|2702
 #15|@GilgameshTheBot|2697
 #16|@Fairy_Belzedar|2683
@@ -248,7 +248,7 @@ Rank|Bot|Rating
 #246|@Magic11bot_Coach|1001
 #247|@JPSBOT|958
 #248|@FireTorchV2|955
-#249|@pawnrobot|895
+#249|@pawnrobot|892
 #250|@RSVMentor|862
 #251|@GuineaBot3|845
 #252|@MateCheckCapture|828

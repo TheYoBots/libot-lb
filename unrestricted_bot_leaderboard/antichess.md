@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@tbhOnBot|2524
 #69|@Bot_AOOP11|2521
 #70|@HyperLitikBOT|2511
-#71|@DarkOnBot|2505
+#71|@DarkOnBot|2504
 #72|@icbmsaregoated2|2499
 #73|@pistol-play|2498
 #74|@FayEFish|2491

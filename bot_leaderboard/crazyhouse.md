@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2818
 #2|@chessbot2880|2722
-#3|@DarkOnBot|2702
+#3|@DarkOnBot|2709
 #4|@tbhOnBot|2682
 #5|@colinbot|2674
 #6|@ToromBot|2673
@@ -24,4 +24,4 @@ Rank|Bot|Rating
 #22|@reaper1bot|1357
 #23|@puisne|1300
 #24|@genesis1bot|1142
-#25|@pawnrobot|895
+#25|@pawnrobot|892

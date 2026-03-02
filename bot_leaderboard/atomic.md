@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2529
+#1|@is_BOSS|2534
 #2|@tbhOnBot|2524
-#3|@DarkOnBot|2468
+#3|@DarkOnBot|2463
 #4|@GoblinAjedrezAI|2392
 #5|@MEGA-NOOB-BOT|2272
 #6|@colinbot|2021
