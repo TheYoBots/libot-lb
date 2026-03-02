@@ -301,7 +301,7 @@ Rank|Bot|Rating
 #299|@xDmanBOT|1437
 #300|@MrMolotov|1436
 #301|@BOSS_CHESS_BOT|1431
-#302|@pawnrobot|1429
+#302|@pawnrobot|1430
 #303|@Blazum|1426
 #304|@random_movesBOT|1422
 #305|@shakboy9824453231op|1420

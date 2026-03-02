@@ -121,11 +121,11 @@ Rank|Bot|Rating
 #119|@CloudBotZero|1798
 #120|@AnUtterlyKarBot|1796
 #121|@nickl1bot|1796
-#122|@Nobody11892|1785
-#123|@JemBok|1776
-#124|@varient-chess-bot1|1774
-#125|@Viet-BOT|1750
-#126|@StockfishLowDepth|1743
+#122|@StockfishLowDepth|1791
+#123|@Nobody11892|1785
+#124|@JemBok|1776
+#125|@varient-chess-bot1|1774
+#126|@Viet-BOT|1750
 #127|@clrsrc_lc0|1742
 #128|@K_Shi_Bot|1737
 #129|@natural-disaster|1726

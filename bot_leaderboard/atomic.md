@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@nickl1bot|1609
 #11|@JemBok|1496
 #12|@Groot123456|1459
-#13|@pawnrobot|1429
+#13|@pawnrobot|1430
 #14|@Lancelbot|1413
 #15|@clementyne1|1405
 #16|@hashcake1|1405
