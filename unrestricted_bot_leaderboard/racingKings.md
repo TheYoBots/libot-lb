@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@VariantsBot|2703
 #3|@NewChessEngine-ai|2680
 #4|@BalloonBot|2668
-#5|@RaspFish|2605
+#5|@RaspFish|2613
 #6|@SkyBlaster|2603
 #7|@Viet-AI|2600
 #8|@lord-bot|2581

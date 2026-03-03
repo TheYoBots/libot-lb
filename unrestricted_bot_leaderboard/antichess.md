@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@ToromBot|2922
+#6|@ToromBot|2918
 #7|@Coolman2021|2879
 #8|@abdcebot|2866
 #9|@TheMatrix2029|2866
@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@TorBot|2824
 #14|@WennDieSoldatBOT|2818
 #15|@SF_Bot1nok|2816
-#16|@Bot1nokk|2807
+#16|@Bot1nokk|2809
 #17|@TacticalBot|2796
 #18|@lord-bot|2789
 #19|@FireFishBOT|2785
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@HerokuHasnotplay|2196
 #147|@Lucror|2178
 #148|@GegeneBOT|2177
-#149|@anti-bot|2170
+#149|@anti-bot|2171
 #150|@DeepFriedFish|2165
 #151|@lightspeed_bot|2152
 #152|@AntiChessBot|2142
