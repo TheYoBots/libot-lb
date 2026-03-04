@@ -91,9 +91,9 @@ Rank|Bot|Rating
 #89|@NormalBulletBot|1774
 #90|@Botzer|1772
 #91|@gage12_bot|1772
-#92|@CloudBOT|1758
-#93|@CocopikachuBOT|1757
-#94|@colinbot|1756
+#92|@colinbot|1761
+#93|@CloudBOT|1758
+#94|@CocopikachuBOT|1757
 #95|@is_BOSS|1744
 #96|@Heman36541234578|1741
 #97|@Vinh_VariantsBot|1741
@@ -169,7 +169,7 @@ Rank|Bot|Rating
 #167|@PowerOnBot|1258
 #168|@xDmanBOT|1258
 #169|@yobmef|1258
-#170|@pawnrobot|1234
+#170|@pawnrobot|1230
 #171|@TheSystem_Bot|1218
 #172|@GuineaBot3|1212
 #173|@admin-bot|1209

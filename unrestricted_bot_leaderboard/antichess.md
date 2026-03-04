@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@buffFishNet|2692
 #32|@Magicianrobot|2688
 #33|@LoseisnotAvailablehe|2677
-#34|@AntichessAnalyzer|2673
-#35|@RaspFish|2668
+#34|@RaspFish|2674
+#35|@AntichessAnalyzer|2673
 #36|@LegoTechnicControlPl|2662
 #37|@SCP079|2662
 #38|@MalanChess|2638
@@ -68,7 +68,7 @@ Rank|Bot|Rating
 #66|@Nam-Robot|2537
 #67|@Dark_evil_bot|2525
 #68|@Bot_AOOP11|2521
-#69|@tbhOnBot|2514
+#69|@tbhOnBot|2513
 #70|@HyperLitikBOT|2511
 #71|@icbmsaregoated2|2499
 #72|@DarkOnBot|2498
@@ -79,9 +79,9 @@ Rank|Bot|Rating
 #77|@hauptschuleBOT|2475
 #78|@Alehkine_cat|2474
 #79|@Chefisin|2474
-#80|@SacrificialSage|2472
-#81|@newengine2022|2469
-#82|@colinbot|2468
+#80|@colinbot|2472
+#81|@SacrificialSage|2472
+#82|@newengine2022|2469
 #83|@Fairy-Stockfish|2460
 #84|@PepsiForAll|2460
 #85|@gage12_bot|2456
@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@ESC_BOT|2394
 #103|@CatBot_14|2393
 #104|@NormalBulletBot|2393
-#105|@Nakshatra3|2380
-#106|@AldoGamer001_Bot|2376
+#105|@AldoGamer001_Bot|2376
+#106|@Nakshatra3|2375
 #107|@Resolved-Bot|2369
 #108|@Trumpfor2O2O|2366
 #109|@HuxZero|2361
@@ -146,9 +146,9 @@ Rank|Bot|Rating
 #144|@EstmileBot|2200
 #145|@zipfile_chess-bot|2200
 #146|@HerokuHasnotplay|2196
-#147|@Lucror|2178
-#148|@GegeneBOT|2177
-#149|@anti-bot|2168
+#147|@anti-bot|2182
+#148|@Lucror|2178
+#149|@GegeneBOT|2177
 #150|@DeepFriedFish|2165
 #151|@lightspeed_bot|2152
 #152|@AntiChessBot|2142
@@ -165,8 +165,8 @@ Rank|Bot|Rating
 #163|@CloudBotZero|2018
 #164|@B0T5_RU13|2011
 #165|@TheLegitLegend|2010
-#166|@pawnrobot|1990
-#167|@CrayyBot|1989
+#166|@CrayyBot|1989
+#167|@pawnrobot|1976
 #168|@BetaZ|1973
 #169|@antichesssss|1964
 #170|@Menganti|1963

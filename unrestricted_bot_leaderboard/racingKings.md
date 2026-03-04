@@ -4,9 +4,9 @@ Rank|Bot|Rating
 #2|@VariantsBot|2703
 #3|@NewChessEngine-ai|2680
 #4|@BalloonBot|2668
-#5|@RaspFish|2613
-#6|@SkyBlaster|2603
-#7|@Viet-AI|2600
+#5|@SkyBlaster|2603
+#6|@Viet-AI|2600
+#7|@RaspFish|2598
 #8|@lord-bot|2581
 #9|@GoblinAjedrezAI|2570
 #10|@DarkOnBot|2565
@@ -63,10 +63,10 @@ Rank|Bot|Rating
 #61|@KingfishX|2312
 #62|@Viet-BOT|2312
 #63|@IAMSTOCKFISH123|2307
-#64|@TestingBot1|2294
-#65|@NormalBulletBot|2291
-#66|@YoBot_v2|2287
-#67|@colinbot|2281
+#64|@colinbot|2306
+#65|@TestingBot1|2294
+#66|@NormalBulletBot|2291
+#67|@YoBot_v2|2287
 #68|@AlfaBot|2278
 #69|@gage12_bot|2266
 #70|@Mega_BOT|2264

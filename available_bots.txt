@@ -3183,6 +3183,7 @@ tortademanzana023
 tortoialpha
 toxic_bot
 tracer_bot
+tradebot
 trainingbot0
 trainingbuddy
 trainspotter
@@ -3513,4 +3514,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tradebot
