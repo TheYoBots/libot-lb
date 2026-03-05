@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@compchess2|2579
 #11|@Lili-ai|2572
 #12|@bot1e|2479
-#13|@SF_Bot1nok|2470
+#13|@SF_Bot1nok|2471
 #14|@RaspFish|2450
 #15|@abdcebot|2429
 #16|@Bot1nokk|2425
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@ResoluteBot|2155
 #43|@Karpov_bot|2145
 #44|@Bobby_Fischer_BOT|2136
-#45|@DarkOnBot|2134
+#45|@DarkOnBot|2133
 #46|@tbhOnBot|2132
 #47|@TheMatrix2025|2132
 #48|@Yebot|2118

@@ -25,9 +25,9 @@ Rank|Bot|Rating
 #23|@Viet-BOT|2448
 #24|@BitByByte|2444
 #25|@F0rgot|2434
-#26|@WoodStyleEngine|2429
-#27|@MrDeepSeekGPT|2407
-#28|@HulkBot|2387
+#26|@MrDeepSeekGPT|2407
+#27|@HulkBot|2387
+#28|@WoodStyleEngine|2382
 #29|@MehFish|2376
 #30|@Mega_BOT|2371
 #31|@CorrespondenceBot|2353
@@ -110,10 +110,10 @@ Rank|Bot|Rating
 #108|@TheAstroBot|2101
 #109|@ZhangirKhanBOT|2093
 #110|@allvariants|2091
-#111|@Pro-Python-BOT|2084
-#112|@Chess_ni_BOSS|2080
-#113|@ajedrezarBOT|2079
-#114|@grindle_x_bot1|2077
+#111|@grindle_x_bot1|2088
+#112|@Pro-Python-BOT|2084
+#113|@Chess_ni_BOSS|2080
+#114|@ajedrezarBOT|2079
 #115|@GucciBot|2074
 #116|@HyperLitikBOT|2073
 #117|@maello_bot|2071

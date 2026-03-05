@@ -3,11 +3,10 @@ Rank|Bot|Rating
 #1|@ToromBot|2948
 #2|@abdcebot|2851
 #3|@bot1e|2844
-#4|@SF_Bot1nok|2834
+#4|@SF_Bot1nok|2835
 #5|@Bot1nokk|2830
-#6|@tbhOnBot|2516
-#7|@DarkOnBot|2489
+#6|@tbhOnBot|2514
+#7|@DarkOnBot|2494
 #8|@Nakshatra3|2375
-#9|@anti-bot|2180
-#10|@pawnrobot|1958
-#11|@Groot123456|1838
+#9|@anti-bot|2193
+#10|@pawnrobot|1944
