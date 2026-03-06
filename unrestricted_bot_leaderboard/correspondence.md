@@ -168,8 +168,8 @@ Rank|Bot|Rating
 #166|@RadianceEngine|1894
 #167|@TrolliumBot|1894
 #168|@honzovy-sachy-2|1892
-#169|@grindle_x_bot1|1890
-#170|@yeoldwiz|1890
+#169|@yeoldwiz|1890
+#170|@grindle_x_bot1|1886
 #171|@ChessChildren|1884
 #172|@XXXTryandTryXXX|1884
 #173|@KingsGamBot|1882
@@ -331,9 +331,9 @@ Rank|Bot|Rating
 #329|@PolyBOT|1481
 #330|@HerathHerath|1477
 #331|@YagizTurkiyeBOT|1476
-#332|@EdwardKillick|1472
-#333|@MRT23|1469
-#334|@TheSystem_Bot|1466
+#332|@MRT23|1469
+#333|@TheSystem_Bot|1466
+#334|@EdwardKillick|1458
 #335|@Mate-AI|1454
 #336|@dtsudo|1449
 #337|@CheezyGlizzyEater|1444

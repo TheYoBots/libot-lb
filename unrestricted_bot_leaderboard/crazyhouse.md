@@ -17,12 +17,12 @@ Rank|Bot|Rating
 #15|@GilgameshTheBot|2697
 #16|@Fairy_Belzedar|2683
 #17|@ToromBot|2677
-#18|@tbhOnBot|2671
-#19|@ResoluteBot|2668
+#18|@ResoluteBot|2668
+#19|@tbhOnBot|2655
 #20|@PumpkinLatteBob|2647
 #21|@colinbot|2645
 #22|@ibep|2633
-#23|@bot1e|2620
+#23|@bot1e|2623
 #24|@SkyBlaster|2614
 #25|@Xerus_1|2611
 #26|@Iwantedtoplaychess|2600
@@ -165,8 +165,8 @@ Rank|Bot|Rating
 #163|@BushyCamper|1563
 #164|@newengine2022|1563
 #165|@FairyTailRegimeBot|1558
-#166|@spyros1bot|1549
-#167|@vidha-2009|1542
+#166|@vidha-2009|1542
+#167|@spyros1bot|1540
 #168|@DespacitoBot|1535
 #169|@TheAwesomeBot|1527
 #170|@Botkingteam33|1525
@@ -205,9 +205,9 @@ Rank|Bot|Rating
 #203|@Classic_BOT-v2|1392
 #204|@are_bots_good|1367
 #205|@GothamChessBot|1358
-#206|@reaper1bot|1352
-#207|@XiDM|1351
-#208|@puisne|1347
+#206|@puisne|1356
+#207|@reaper1bot|1352
+#208|@XiDM|1351
 #209|@Hrant_Petrosyan_BOT|1346
 #210|@NormalBulletBot|1341
 #211|@MrDeepSeekGPT|1339
@@ -237,7 +237,7 @@ Rank|Bot|Rating
 #235|@Jannik08_fan|1163
 #236|@BSergey11-BOT|1149
 #237|@K_Shi_Bot|1149
-#238|@genesis1bot|1137
+#238|@genesis1bot|1141
 #239|@TeamChelsie|1125
 #240|@kazakhfirstbot|1119
 #241|@apollo_bot|1106
@@ -249,7 +249,7 @@ Rank|Bot|Rating
 #247|@Magic11bot_Coach|1001
 #248|@JPSBOT|958
 #249|@FireTorchV2|955
-#250|@pawnrobot|889
+#250|@pawnrobot|884
 #251|@RSVMentor|862
 #252|@GuineaBot3|845
 #253|@MateCheckCapture|828
