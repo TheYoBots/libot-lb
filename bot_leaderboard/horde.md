@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2445
 #4|@abdcebot|2414
 #5|@DarkOnBot|2126
-#6|@tbhOnBot|2125
+#6|@tbhOnBot|2117

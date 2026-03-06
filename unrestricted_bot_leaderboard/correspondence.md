@@ -165,10 +165,10 @@ Rank|Bot|Rating
 #163|@chicken_farmer|1926
 #164|@Jibbby|1920
 #165|@yowCapablanca|1914
-#166|@grindle_x_bot1|1904
-#167|@RadianceEngine|1894
-#168|@TrolliumBot|1894
-#169|@honzovy-sachy-2|1892
+#166|@RadianceEngine|1894
+#167|@TrolliumBot|1894
+#168|@honzovy-sachy-2|1892
+#169|@grindle_x_bot1|1890
 #170|@yeoldwiz|1890
 #171|@ChessChildren|1884
 #172|@XXXTryandTryXXX|1884

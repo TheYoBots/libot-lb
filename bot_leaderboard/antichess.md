@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2846
 #4|@SF_Bot1nok|2830
 #5|@bot1e|2829
-#6|@tbhOnBot|2510
-#7|@DarkOnBot|2495
-#8|@Nakshatra3|2382
-#9|@anti-bot|2193
-#10|@pawnrobot|1919
+#6|@tbhOnBot|2514
+#7|@DarkOnBot|2492
+#8|@Nakshatra3|2386
+#9|@anti-bot|2187
+#10|@pawnrobot|1942

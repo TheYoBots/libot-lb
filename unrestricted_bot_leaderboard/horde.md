@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@Fairy_Belzedar|2857
 #4|@Coolman2021|2757
 #5|@Magicianrobot|2741
-#6|@ToromBot|2730
-#7|@FireFishBOT|2726
+#6|@FireFishBOT|2726
+#7|@ToromBot|2712
 #8|@PepsiForAll|2699
 #9|@ttBOT|2584
 #10|@compchess2|2579
@@ -46,8 +46,8 @@ Rank|Bot|Rating
 #44|@Bobby_Fischer_BOT|2136
 #45|@TheMatrix2025|2132
 #46|@DarkOnBot|2126
-#47|@tbhOnBot|2125
-#48|@Yebot|2118
+#47|@Yebot|2118
+#48|@tbhOnBot|2117
 #49|@jasans_bot|2116
 #50|@xiang-qi|2115
 #51|@GCNbyFayE|2110
@@ -169,7 +169,7 @@ Rank|Bot|Rating
 #167|@PowerOnBot|1258
 #168|@xDmanBOT|1258
 #169|@yobmef|1258
-#170|@pawnrobot|1230
+#170|@pawnrobot|1229
 #171|@TheSystem_Bot|1218
 #172|@GuineaBot3|1212
 #173|@admin-bot|1209
