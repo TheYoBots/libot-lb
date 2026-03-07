@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@antichesssss|1964
 #169|@Menganti|1963
 #170|@CloudBOT|1950
-#171|@pawnrobot|1942
+#171|@pawnrobot|1940
 #172|@TestingBot1|1914
 #173|@Crepusculum|1881
 #174|@NoTallkOnlyGames|1871
