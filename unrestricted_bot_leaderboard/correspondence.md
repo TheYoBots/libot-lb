@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@fibonachi|2956
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2799
-#4|@Moment-That-Inspires|2758
+#4|@Moment-That-Inspires|2759
 #5|@Magicianrobot|2740
 #6|@H-Zero|2650
 #7|@pawnocchio_bot|2623
@@ -333,8 +333,8 @@ Rank|Bot|Rating
 #331|@HerathHerath|1477
 #332|@YagizTurkiyeBOT|1476
 #333|@MRT23|1469
-#334|@TheSystem_Bot|1466
-#335|@EdwardKillick|1458
+#334|@EdwardKillick|1468
+#335|@TheSystem_Bot|1466
 #336|@Mate-AI|1454
 #337|@dtsudo|1449
 #338|@CheezyGlizzyEater|1444
