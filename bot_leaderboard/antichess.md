@@ -1,2 +1,16 @@
 Rank|Bot|Rating
 ---|---|---
+#1|@ToromBot|2942
+#2|@Bot1nokk|2850
+#3|@bot1e|2847
+#4|@abdcebot|2841
+#5|@SF_Bot1nok|2835
+#6|@RaspFish|2688
+#7|@GoblinAjedrezAI|2607
+#8|@tbhOnBot|2524
+#9|@DarkOnBot|2490
+#10|@PumpkinLatteBob|2447
+#11|@Nakshatra3|2389
+#12|@anti-bot|2188
+#13|@pawnrobot|1940
+#14|@StockfishLowDepth|1255
