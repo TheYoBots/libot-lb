@@ -86,8 +86,8 @@ Rank|Bot|Rating
 #84|@Berserk12-X|2200
 #85|@higuyuu67776|2200
 #86|@Nobody11892|2200
-#87|@Trainspotter|2200
-#88|@OpeningsBot|2190
+#87|@OpeningsBot|2200
+#88|@Trainspotter|2200
 #89|@Hyper-Stockfish|2189
 #90|@Johnsun|2181
 #91|@HuxZero|2176
