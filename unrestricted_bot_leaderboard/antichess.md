@@ -74,11 +74,11 @@ Rank|Bot|Rating
 #72|@icbmsaregoated2|2497
 #73|@FayEFish|2491
 #74|@DarkOnBot|2490
-#75|@MrBOThacker|2477
-#76|@hauptschuleBOT|2475
-#77|@Alehkine_cat|2474
-#78|@Chefisin|2474
-#79|@colinbot|2472
+#75|@colinbot|2482
+#76|@MrBOThacker|2477
+#77|@hauptschuleBOT|2475
+#78|@Alehkine_cat|2474
+#79|@Chefisin|2474
 #80|@SacrificialSage|2472
 #81|@newengine2022|2469
 #82|@Fairy-Stockfish|2460
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@ESC_BOT|2394
 #103|@CatBot_14|2393
 #104|@NormalBulletBot|2393
-#105|@Nakshatra3|2389
+#105|@Nakshatra3|2387
 #106|@AldoGamer001_Bot|2376
 #107|@Resolved-Bot|2369
 #108|@Trumpfor2O2O|2366
@@ -142,8 +142,8 @@ Rank|Bot|Rating
 #140|@xDmanBOT|2214
 #141|@YellowFlash_v2|2214
 #142|@CoderDen732|2207
-#143|@NormalBlitzBulletBot|2205
-#144|@anti-bot|2202
+#143|@anti-bot|2205
+#144|@NormalBlitzBulletBot|2205
 #145|@EstmileBot|2200
 #146|@zipfile_chess-bot|2200
 #147|@HerokuHasnotplay|2196
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@antichesssss|1964
 #169|@Menganti|1963
 #170|@CloudBOT|1950
-#171|@pawnrobot|1941
+#171|@pawnrobot|1949
 #172|@TestingBot1|1914
 #173|@Crepusculum|1881
 #174|@NoTallkOnlyGames|1871

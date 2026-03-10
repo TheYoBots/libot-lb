@@ -6,5 +6,5 @@ Rank|Bot|Rating
 #4|@SF_Bot1nok|2465
 #5|@abdcebot|2413
 #6|@GoblinAjedrezAI|2204
-#7|@DarkOnBot|2143
+#7|@DarkOnBot|2145
 #8|@tbhOnBot|2124

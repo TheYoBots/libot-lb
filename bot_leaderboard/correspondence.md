@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@GarboBot|1948
+#1|@GarboBot|1946
