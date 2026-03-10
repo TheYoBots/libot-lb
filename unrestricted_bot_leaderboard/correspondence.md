@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@Xmas_dragon|2300
 #41|@Ujwal1001|2297
 #42|@robiachess|2295
-#43|@OpeningsBot|2287
+#43|@OpeningsBot|2290
 #44|@Quanticade|2286
 #45|@mrohCentaur|2285
 #46|@Toodfish|2273
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@WMatt|1958
 #157|@SohamChessBot|1956
 #158|@BOTsharpchess|1952
-#159|@GarboBot|1946
+#159|@GarboBot|1945
 #160|@ZE_ROOK|1938
 #161|@Los-Guerreros1|1935
 #162|@TheLegendaryKnight|1935

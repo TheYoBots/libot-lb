@@ -13,13 +13,13 @@ Rank|Bot|Rating
 #11|@rachl1|1806
 #12|@nickl1bot|1803
 #13|@JemBok|1783
-#14|@OpeningsBot|1777
+#14|@OpeningsBot|1778
 #15|@clementyne1|1668
 #16|@Lancelbot|1656
 #17|@Groot123456|1580
 #18|@spyros1bot|1442
 #19|@hashcake1|1429
-#20|@DavidsGuterBot|1369
+#20|@DavidsGuterBot|1368
 #21|@reaper1bot|1321
 #22|@Hand_coded_ai_90565|1306
 #23|@genesis1bot|1177

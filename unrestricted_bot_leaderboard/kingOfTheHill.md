@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@HIWIN1234|2274
 #30|@LoseisnotAvailablehe|2274
 #31|@Bobby_Fischer_BOT|2267
-#32|@SF_Bot1nok|2263
+#32|@SF_Bot1nok|2265
 #33|@lord-bot|2258
 #34|@YoBot_v2|2242
 #35|@ResoluteBot|2233
@@ -125,7 +125,7 @@ Rank|Bot|Rating
 #123|@AnUtterlyKarBot|1796
 #124|@Nobody11892|1785
 #125|@JemBok|1783
-#126|@OpeningsBot|1777
+#126|@OpeningsBot|1778
 #127|@Viet-BOT|1750
 #128|@clrsrc_lc0|1742
 #129|@K_Shi_Bot|1737
@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@CVA728_BOT_1|1412
 #171|@Lightning_SpeedChess|1400
 #172|@cool_boy_bot|1388
-#173|@DavidsGuterBot|1369
+#173|@DavidsGuterBot|1368
 #174|@ReallyCrazyBOT|1363
 #175|@JEDDYCOCO12345|1355
 #176|@Sanjana_Kambala-BOT|1355

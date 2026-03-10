@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@OlympusCz|2408
 #34|@GoblinAjedrezAI|2392
 #35|@DarkOnBot|2380
-#36|@tbhOnBot|2376
+#36|@tbhOnBot|2380
 #37|@Viet_BOT|2367
 #38|@Bot1nokk|2339
 #39|@SF_Bot1nok|2339
@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@Botzer|1961
 #91|@Lili-Variants|1955
 #92|@lightspeed_bot|1951
-#93|@OpeningsBot|1951
-#94|@Galaxy_Guardian|1947
+#93|@Galaxy_Guardian|1947
+#94|@OpeningsBot|1947
 #95|@OSaurus|1940
 #96|@pistol-play|1939
 #97|@PROBOT123567|1936
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@Rishab_Bindal|1489
 #158|@eNErGyOFbEiNGbOT|1488
 #159|@Iliketolose69|1488
-#160|@DavidsGuterBot|1485
+#160|@DavidsGuterBot|1484
 #161|@ChessBot3021|1483
 #162|@PyChessBot|1480
 #163|@SLvov-bot|1466
