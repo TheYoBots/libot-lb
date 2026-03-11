@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ttBOT|3038
 #2|@AlfaBot|2914
-#3|@RaspFish|2854
-#4|@KYsoPlaysCrazyhouse|2840
-#5|@CrazyAra|2839
+#3|@KYsoPlaysCrazyhouse|2840
+#4|@CrazyAra|2839
+#5|@RaspFish|2827
 #6|@Corvus-1|2820
 #7|@Kizburb|2815
 #8|@Viet-AI|2756
@@ -32,9 +32,9 @@ Rank|Bot|Rating
 #30|@BotSuxX|2538
 #31|@LudwigBOT|2527
 #32|@X2-ITL|2501
-#33|@Berserk12-X|2467
-#34|@Fairy-Stockfish|2464
-#35|@rascal1|2464
+#33|@rascal1|2489
+#34|@Berserk12-X|2467
+#35|@Fairy-Stockfish|2464
 #36|@Leelabotmaster|2458
 #37|@TheMatrix2029|2458
 #38|@abhisun_bot|2444
@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@Bobby_Fischer_BOT|2251
 #60|@OSaurus|2251
 #61|@Mega_BOT|2240
-#62|@kowalabi|2233
-#63|@ElPeonElectrico|2228
+#62|@ElPeonElectrico|2228
+#63|@kowalabi|2224
 #64|@GoblinAjedrezAI|2222
 #65|@QiOui|2220
 #66|@Coolman2021|2219
@@ -84,8 +84,8 @@ Rank|Bot|Rating
 #82|@TestingBot1|2118
 #83|@Johnsun|2113
 #84|@NewChessEngine-ai|2110
-#85|@SixtyFourEngine|2089
-#86|@OpeningsBot|2087
+#85|@OpeningsBot|2095
+#86|@SixtyFourEngine|2089
 #87|@relevantproblem|2077
 #88|@Tacticall_Bot|2075
 #89|@GodelEscherBot|2071
@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@TheAwesomeBot|1527
 #171|@Botkingteam33|1525
 #172|@zipfile_chess-bot|1523
-#173|@hashcake1|1515
+#173|@hashcake1|1519
 #174|@AldoGamer001_Bot|1507
 #175|@NoobMasterBOT|1499
 #176|@ararimbelami|1498
@@ -206,8 +206,8 @@ Rank|Bot|Rating
 #204|@Classic_BOT-v2|1392
 #205|@puisne|1371
 #206|@are_bots_good|1367
-#207|@GothamChessBot|1358
-#208|@reaper1bot|1352
+#207|@reaper1bot|1359
+#208|@GothamChessBot|1358
 #209|@XiDM|1351
 #210|@Hrant_Petrosyan_BOT|1346
 #211|@NormalBulletBot|1341
@@ -239,7 +239,7 @@ Rank|Bot|Rating
 #237|@BSergey11-BOT|1149
 #238|@K_Shi_Bot|1149
 #239|@TeamChelsie|1125
-#240|@genesis1bot|1119
+#240|@genesis1bot|1124
 #241|@kazakhfirstbot|1119
 #242|@apollo_bot|1106
 #243|@BogoBot|1099
@@ -250,7 +250,7 @@ Rank|Bot|Rating
 #248|@Magic11bot_Coach|1001
 #249|@JPSBOT|958
 #250|@FireTorchV2|955
-#251|@pawnrobot|885
+#251|@pawnrobot|869
 #252|@RSVMentor|862
 #253|@GuineaBot3|845
 #254|@MateCheckCapture|828

@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@ESC_BOT|2253
 #74|@relevantproblem|2251
 #75|@GodelEscherBot|2244
-#76|@OpeningsBot|2229
+#76|@OpeningsBot|2227
 #77|@is_BOSS|2226
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225

@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@fibonachi|2957
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2799
-#4|@Moment-That-Inspires|2759
+#4|@Moment-That-Inspires|2764
 #5|@Magicianrobot|2740
 #6|@H-Zero|2650
 #7|@pawnocchio_bot|2623
@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@Xmas_dragon|2300
 #41|@Ujwal1001|2297
 #42|@robiachess|2295
-#43|@OpeningsBot|2290
+#43|@OpeningsBot|2288
 #44|@Quanticade|2286
 #45|@mrohCentaur|2285
 #46|@Toodfish|2273
@@ -180,8 +180,8 @@ Rank|Bot|Rating
 #178|@RoboTal|1874
 #179|@TheMatrix2025|1872
 #180|@ViVe_2_chess_pro|1869
-#181|@Thera_Engine|1857
-#182|@vanibot|1857
+#181|@vanibot|1865
+#182|@Thera_Engine|1857
 #183|@ayodia|1853
 #184|@Boris-Trapsky|1853
 #185|@natural-disaster|1853
@@ -202,8 +202,8 @@ Rank|Bot|Rating
 #200|@JPSBOT|1789
 #201|@Nicholaswb_BOT|1788
 #202|@Heman36541234578|1786
-#203|@Variantenkoning|1781
-#204|@Humanoid_1800|1780
+#203|@Humanoid_1800|1782
+#204|@Variantenkoning|1781
 #205|@caissa-ai|1773
 #206|@Ymin_dragon|1773
 #207|@azdad|1772

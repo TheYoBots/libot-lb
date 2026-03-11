@@ -7,7 +7,8 @@ Rank|Bot|Rating
 #5|@Bot1nokk|2824
 #6|@tbhOnBot|2530
 #7|@DarkOnBot|2487
-#8|@Nakshatra3|2391
-#9|@anti-bot|2199
-#10|@pawnrobot|1949
-#11|@StockfishLowDepth|1255
+#8|@Nakshatra3|2397
+#9|@anti-bot|2153
+#10|@OpeningsBot|2090
+#11|@pawnrobot|1949
+#12|@StockfishLowDepth|1255
