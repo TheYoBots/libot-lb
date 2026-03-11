@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@VariantsBot|2703
 #3|@NewChessEngine-ai|2680
 #4|@BalloonBot|2668
-#5|@SkyBlaster|2603
-#6|@RaspFish|2600
+#5|@RaspFish|2604
+#6|@SkyBlaster|2603
 #7|@Viet-AI|2600
 #8|@lord-bot|2581
 #9|@GoblinAjedrezAI|2570
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@ESC_BOT|2253
 #74|@relevantproblem|2251
 #75|@GodelEscherBot|2244
-#76|@OpeningsBot|2227
-#77|@is_BOSS|2226
+#76|@is_BOSS|2226
+#77|@OpeningsBot|2225
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
