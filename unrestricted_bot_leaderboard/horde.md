@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@Lila-Stockfish|1616
 #116|@Nebulogic|1606
 #117|@Stockfish-MEDIUM|1604
-#118|@OpeningsBot|1603
+#118|@OpeningsBot|1601
 #119|@varient-chess-bot1|1592
 #120|@HakoAI|1584
 #121|@Zer0_Tw0|1580

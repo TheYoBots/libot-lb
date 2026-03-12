@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@EmptikVariantsBot|2557
 #14|@ToromBot|2554
 #15|@FireFishBOT|2547
-#16|@LudwigBOT|2536
-#17|@tbhOnBot|2536
+#16|@tbhOnBot|2541
+#17|@LudwigBOT|2536
 #18|@Coolman2021|2527
 #19|@EmptikBot|2526
 #20|@PumpkinLatteBob|2524
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@eNErGyOFbEiNGbOT|2469
 #33|@vrnts_colinbot|2462
 #34|@CocopikachuBOT|2451
-#35|@Fairy-Stockfish|2438
-#36|@varient-chess-bot1|2438
+#35|@varient-chess-bot1|2440
+#36|@Fairy-Stockfish|2438
 #37|@NormalBlitzBulletBot|2435
 #38|@MyNameIsWhatLOL|2432
 #39|@Bobby_Fischer_BOT|2430
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@ESC_BOT|2253
 #74|@relevantproblem|2251
 #75|@GodelEscherBot|2244
-#76|@is_BOSS|2226
-#77|@OpeningsBot|2225
+#76|@OpeningsBot|2243
+#77|@is_BOSS|2226
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223

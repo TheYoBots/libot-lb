@@ -96,12 +96,12 @@ Rank|Bot|Rating
 #94|@xiang-qi|2422
 #95|@faith_bot|2420
 #96|@Nithin-das|2420
-#97|@DrSmartBugs|2412
-#98|@Monastedrez|2410
-#99|@AttackingOrDefending|2409
-#100|@varient-chess-bot1|2404
-#101|@BitExtender128|2403
-#102|@Nakshatra3|2397
+#97|@Nakshatra3|2413
+#98|@DrSmartBugs|2412
+#99|@Monastedrez|2410
+#100|@AttackingOrDefending|2409
+#101|@varient-chess-bot1|2404
+#102|@BitExtender128|2403
 #103|@ESC_BOT|2394
 #104|@CatBot_14|2393
 #105|@NormalBulletBot|2393
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@antichesssss|1964
 #169|@Menganti|1963
 #170|@CloudBOT|1950
-#171|@pawnrobot|1949
+#171|@pawnrobot|1933
 #172|@TestingBot1|1914
 #173|@Crepusculum|1881
 #174|@NoTallkOnlyGames|1871

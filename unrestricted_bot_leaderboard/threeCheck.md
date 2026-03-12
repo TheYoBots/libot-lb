@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@TheMatrix2029|2448
 #30|@faith_bot|2447
 #31|@ToromBot|2436
-#32|@RaspFish|2401
-#33|@GoblinAjedrezAI|2392
+#32|@RaspFish|2413
+#33|@GoblinAjedrezAI|2408
 #34|@DarkOnBot|2382
 #35|@tbhOnBot|2376
 #36|@Viet_BOT|2367
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@colinbot|2309
 #41|@LudwigBOT|2304
 #42|@lord-bot|2300
-#43|@rascal1|2294
-#44|@KingfishX|2285
+#43|@KingfishX|2285
+#44|@rascal1|2278
 #45|@The-Fastest-Bot|2277
 #46|@CocopikachuBOT|2274
 #47|@TheMatrix2025|2272
@@ -161,8 +161,8 @@ Rank|Bot|Rating
 #159|@Iliketolose69|1488
 #160|@ChessBot3021|1483
 #161|@PyChessBot|1480
-#162|@hashcake1|1478
-#163|@DavidsGuterBot|1472
+#162|@DavidsGuterBot|1478
+#163|@hashcake1|1478
 #164|@SLvov-bot|1466
 #165|@Bobby_Fishcer_Bot|1458
 #166|@BOT-2021|1453
@@ -187,9 +187,9 @@ Rank|Bot|Rating
 #185|@cool_boy_bot|1321
 #186|@Harry_Potterz|1316
 #187|@allvariants|1310
-#188|@pawnrobot|1303
-#189|@genesis1bot|1294
-#190|@NoTallkOnlyGames|1293
+#188|@pawnrobot|1301
+#189|@NoTallkOnlyGames|1293
+#190|@genesis1bot|1288
 #191|@Light_To_The_Rescue|1277
 #192|@Sanjana_Kambala-BOT|1273
 #193|@TheLegendaryKnight|1272
