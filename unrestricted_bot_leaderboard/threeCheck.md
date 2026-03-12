@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@RaspFish|2413
 #33|@GoblinAjedrezAI|2408
 #34|@DarkOnBot|2382
-#35|@tbhOnBot|2376
+#35|@tbhOnBot|2377
 #36|@Viet_BOT|2367
 #37|@Bot1nokk|2339
 #38|@SF_Bot1nok|2339
@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@LudwigBOT|2304
 #42|@lord-bot|2300
 #43|@KingfishX|2285
-#44|@rascal1|2278
+#44|@rascal1|2282
 #45|@The-Fastest-Bot|2277
 #46|@CocopikachuBOT|2274
 #47|@TheMatrix2025|2272
@@ -67,9 +67,9 @@ Rank|Bot|Rating
 #65|@abhisun_bot|2129
 #66|@NienishiEngine|2124
 #67|@is_BOSS|2119
-#68|@varient-chess-bot1|2107
-#69|@AnUtterlyKarBot|2103
-#70|@Lili-ai|2099
+#68|@AnUtterlyKarBot|2103
+#69|@Lili-ai|2099
+#70|@varient-chess-bot1|2099
 #71|@Dean_Summer_Bot|2086
 #72|@Magnus-BOT|2084
 #73|@Stockfish-MEDIUM|2080
@@ -82,8 +82,8 @@ Rank|Bot|Rating
 #80|@SacrificialSage|2026
 #81|@BalloonBot|2017
 #82|@firstrobot|2003
-#83|@OpeningsBot|1987
-#84|@Hyper-Stockfish|1986
+#83|@Hyper-Stockfish|1986
+#84|@OpeningsBot|1986
 #85|@GodelEscherBot|1974
 #86|@XXIstCentury|1973
 #87|@PumpkinLatteBob|1967

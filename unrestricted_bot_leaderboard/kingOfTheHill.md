@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@LoseisnotAvailablehe|2274
 #31|@SF_Bot1nok|2269
 #32|@Bobby_Fischer_BOT|2267
-#33|@rascal1|2259
+#33|@rascal1|2267
 #34|@lord-bot|2258
 #35|@YoBot_v2|2242
 #36|@ResoluteBot|2233
@@ -91,11 +91,11 @@ Rank|Bot|Rating
 #89|@PyChessBot|1957
 #90|@abhisun_bot|1947
 #91|@Resolved-Bot|1942
-#92|@varient-chess-bot1|1939
-#93|@Pineapple-Friendly|1937
-#94|@azdad|1936
-#95|@HyperLitikBOT|1930
-#96|@SacrificialSage|1925
+#92|@Pineapple-Friendly|1937
+#93|@azdad|1936
+#94|@HyperLitikBOT|1930
+#95|@SacrificialSage|1925
+#96|@varient-chess-bot1|1924
 #97|@DrSmartBugs|1904
 #98|@StockfishLowDepth|1892
 #99|@Variantenkoning|1892

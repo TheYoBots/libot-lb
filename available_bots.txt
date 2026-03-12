@@ -52,6 +52,7 @@ aienginebot
 aifun
 aihellobot
 ailc0
+ailedbot
 aitron
 aivanj10
 ajatarbot
@@ -2178,6 +2179,7 @@ natto-bot
 natural-disaster
 naughty-dottie
 nc3nc6bot
+nebubot
 nebulogic
 necromindx
 neena-2-bot
@@ -2585,6 +2587,7 @@ redsquirrelbot
 redtail-zero
 refutemygambit
 reggieokevin
+reggz
 reinforcementtrial
 relevantproblem
 remstalbot
@@ -3516,6 +3519,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-nebubot
-reggz
-ailedbot

@@ -3,10 +3,10 @@ Rank|Bot|Rating
 #1|@tbhOnBot|2438
 #2|@DarkOnBot|2426
 #3|@RaspFish|2389
-#4|@rascal1|2259
+#4|@rascal1|2267
 #5|@colinbot|2148
 #6|@calico1|1967
-#7|@varient-chess-bot1|1939
+#7|@varient-chess-bot1|1924
 #8|@OSaurus|1890
 #9|@kowalabi|1834
 #10|@QiOui|1833
