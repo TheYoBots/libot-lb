@@ -2740,6 +2740,8 @@ servan2345
 serverfish
 serversofflinebot
 sethechessbot5
+sethechessbot7
+sethechessbot8
 sethechessgod
 sewbot
 sf-dev
@@ -3519,5 +3521,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sethechessbot8
-sethechessbot7

@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@PumpkinLatteBob|2524
 #21|@Nebulogic|2514
 #22|@SCP079|2513
-#23|@Lili-ai|2504
-#24|@SF_Bot1nok|2498
+#23|@SF_Bot1nok|2508
+#24|@Lili-ai|2504
 #25|@TacticalBot|2497
 #26|@Dark_evil_bot|2496
 #27|@ElPeonElectrico|2494
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@ESC_BOT|2253
 #74|@relevantproblem|2251
 #75|@GodelEscherBot|2244
-#76|@OpeningsBot|2242
+#76|@OpeningsBot|2244
 #77|@is_BOSS|2226
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
