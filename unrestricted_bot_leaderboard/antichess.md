@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@Stockfish-MEDIUM|2117
 #156|@PyChessBot|2102
 #157|@TurkiyeHogwartsBOT|2099
-#158|@OpeningsBot|2084
+#158|@OpeningsBot|2089
 #159|@CatNail|2078
 #160|@ZamuChess|2049
 #161|@Botzer|2020
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@antichesssss|1964
 #169|@Menganti|1963
 #170|@CloudBOT|1950
-#171|@pawnrobot|1933
+#171|@pawnrobot|1936
 #172|@TestingBot1|1914
 #173|@Crepusculum|1881
 #174|@NoTallkOnlyGames|1871
