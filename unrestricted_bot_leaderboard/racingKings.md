@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@eNErGyOFbEiNGbOT|2469
 #33|@vrnts_colinbot|2462
 #34|@CocopikachuBOT|2451
-#35|@Fairy-Stockfish|2438
-#36|@varient-chess-bot1|2436
+#35|@varient-chess-bot1|2450
+#36|@Fairy-Stockfish|2438
 #37|@NormalBlitzBulletBot|2435
 #38|@MyNameIsWhatLOL|2432
 #39|@Bobby_Fischer_BOT|2430

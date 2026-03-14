@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@abdcebot|2847
 #12|@bot1e|2836
 #13|@SF_Bot1nok|2832
-#14|@TorBot|2824
-#15|@Bot1nokk|2820
+#14|@Bot1nokk|2828
+#15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
 #17|@TacticalBot|2796
 #18|@lord-bot|2789
@@ -67,7 +67,7 @@ Rank|Bot|Rating
 #65|@AlfaBot|2541
 #66|@Leelabotmaster|2538
 #67|@Nam-Robot|2537
-#68|@tbhOnBot|2528
+#68|@tbhOnBot|2527
 #69|@Dark_evil_bot|2525
 #70|@Bot_AOOP11|2521
 #71|@HyperLitikBOT|2511

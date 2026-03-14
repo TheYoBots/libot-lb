@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@Lili-ai|2572
 #12|@bot1e|2509
 #13|@abdcebot|2468
-#14|@Bot1nokk|2456
-#15|@RaspFish|2450
+#14|@RaspFish|2450
+#15|@Bot1nokk|2447
 #16|@SF_Bot1nok|2431
 #17|@HIWIN1234|2412
 #18|@EmptikVariantsBot|2402
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@The_dragon_bot|1625
 #114|@ElFinsBoT|1617
 #115|@Lila-Stockfish|1616
-#116|@OpeningsBot|1609
+#116|@OpeningsBot|1608
 #117|@Nebulogic|1606
 #118|@Stockfish-MEDIUM|1604
 #119|@varient-chess-bot1|1591

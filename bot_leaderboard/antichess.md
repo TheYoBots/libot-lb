@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@abdcebot|2847
 #3|@bot1e|2836
 #4|@SF_Bot1nok|2832
-#5|@Bot1nokk|2820
-#6|@tbhOnBot|2528
+#5|@Bot1nokk|2828
+#6|@tbhOnBot|2527
 #7|@DarkOnBot|2488
 #8|@Nakshatra3|2413
 #9|@anti-bot|2153
