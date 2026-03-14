@@ -1209,6 +1209,7 @@ fortunechess
 fougade
 fourbot
 foxchessbot
+franiquilafish
 frank-triolo-bot
 fred-fast-chess
 freddystehtaufteddy
@@ -3521,4 +3522,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-franiquilafish

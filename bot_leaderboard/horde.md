@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2659
-#2|@bot1e|2509
-#3|@abdcebot|2468
-#4|@Bot1nokk|2447
-#5|@SF_Bot1nok|2431
-#6|@DarkOnBot|2153
-#7|@tbhOnBot|2144
+#2|@bot1e|2499
+#3|@abdcebot|2466
+#4|@Bot1nokk|2459
+#5|@SF_Bot1nok|2442
+#6|@DarkOnBot|2144
+#7|@tbhOnBot|2141
