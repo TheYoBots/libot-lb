@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@FayEFish|2172
 #41|@Trumpfor2O2O|2162
 #42|@ResoluteBot|2155
-#43|@Karpov_bot|2145
-#44|@DarkOnBot|2144
+#43|@DarkOnBot|2146
+#44|@Karpov_bot|2145
 #45|@tbhOnBot|2141
 #46|@Bobby_Fischer_BOT|2136
 #47|@TheMatrix2025|2132

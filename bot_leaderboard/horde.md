@@ -5,5 +5,5 @@ Rank|Bot|Rating
 #3|@abdcebot|2466
 #4|@Bot1nokk|2459
 #5|@SF_Bot1nok|2442
-#6|@DarkOnBot|2144
+#6|@DarkOnBot|2146
 #7|@tbhOnBot|2141

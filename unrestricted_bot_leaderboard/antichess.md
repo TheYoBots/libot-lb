@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@HyperLitikBOT|2511
 #72|@pistol-play|2498
 #73|@FayEFish|2491
-#74|@DarkOnBot|2488
+#74|@DarkOnBot|2487
 #75|@colinbot|2482
 #76|@MrBOThacker|2477
 #77|@hauptschuleBOT|2475
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@GegeneBOT|2177
 #149|@DeepFriedFish|2165
 #150|@lightspeed_bot|2152
-#151|@anti-bot|2143
+#151|@anti-bot|2145
 #152|@AntiChessBot|2142
 #153|@AnUtterlyKarBot|2134
 #154|@XXIstCentury|2131
