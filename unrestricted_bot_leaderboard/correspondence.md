@@ -242,7 +242,7 @@ Rank|Bot|Rating
 #240|@ACC_Bot|1696
 #241|@TortoiAlpha|1696
 #242|@thousandatom|1692
-#243|@katzebot|1690
+#243|@katzebot|1689
 #244|@ArcaBOT|1688
 #245|@B4dF1sh|1687
 #246|@The_dragon_bot|1687

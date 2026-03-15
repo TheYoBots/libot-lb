@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@Magnus-BOT|2479
 #31|@newengine2022|2473
 #32|@eNErGyOFbEiNGbOT|2469
-#33|@varient-chess-bot1|2465
-#34|@vrnts_colinbot|2462
+#33|@vrnts_colinbot|2462
+#34|@varient-chess-bot1|2457
 #35|@CocopikachuBOT|2451
 #36|@Fairy-Stockfish|2438
 #37|@NormalBlitzBulletBot|2435
@@ -66,9 +66,9 @@ Rank|Bot|Rating
 #64|@IAMSTOCKFISH123|2307
 #65|@TestingBot1|2294
 #66|@NormalBulletBot|2291
-#67|@OpeningsBot|2288
-#68|@YoBot_v2|2287
-#69|@AlfaBot|2278
+#67|@YoBot_v2|2287
+#68|@AlfaBot|2278
+#69|@OpeningsBot|2272
 #70|@gage12_bot|2266
 #71|@Mega_BOT|2264
 #72|@MalanChess|2261
