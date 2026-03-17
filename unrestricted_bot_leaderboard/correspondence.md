@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@H-Zero|2650
 #7|@pawnocchio_bot|2623
 #8|@ChamberiAjedrez|2595
-#9|@LeelaZero-UK|2585
-#10|@pawn_git|2576
+#9|@pawn_git|2588
+#10|@LeelaZero-UK|2585
 #11|@Alexnajax_Fan|2549
 #12|@SacrificialSage|2519
 #13|@peonasesino71|2512
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@robiachess|2295
 #43|@Quanticade|2286
 #44|@mrohCentaur|2285
-#45|@OpeningsBot|2281
+#45|@OpeningsBot|2277
 #46|@Toodfish|2273
 #47|@Cheng-4|2269
 #48|@eggnog-chess-engine|2254
@@ -241,8 +241,8 @@ Rank|Bot|Rating
 #239|@HotLeela|1702
 #240|@ACC_Bot|1696
 #241|@TortoiAlpha|1696
-#242|@thousandatom|1692
-#243|@katzebot|1689
+#242|@katzebot|1694
+#243|@thousandatom|1692
 #244|@ArcaBOT|1688
 #245|@B4dF1sh|1687
 #246|@The_dragon_bot|1687

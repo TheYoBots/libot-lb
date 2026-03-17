@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@Lucror|2178
 #148|@GegeneBOT|2177
 #149|@DeepFriedFish|2165
-#150|@anti-bot|2155
+#150|@anti-bot|2160
 #151|@lightspeed_bot|2152
 #152|@AntiChessBot|2142
 #153|@AnUtterlyKarBot|2134
