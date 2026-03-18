@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2558
-#2|@tbhOnBot|2496
+#1|@is_BOSS|2563
+#2|@tbhOnBot|2494
 #3|@DarkOnBot|2468
 #4|@rascal1|2103
 #5|@colinbot|2014

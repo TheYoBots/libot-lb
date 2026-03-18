@@ -31,10 +31,10 @@ Rank|Bot|Rating
 #29|@TheMatrix2029|2448
 #30|@faith_bot|2447
 #31|@ToromBot|2436
-#32|@tbhOnBot|2380
-#33|@GoblinAjedrezAI|2370
-#34|@Viet_BOT|2367
-#35|@RaspFish|2363
+#32|@RaspFish|2388
+#33|@tbhOnBot|2380
+#34|@GoblinAjedrezAI|2370
+#35|@Viet_BOT|2367
 #36|@Bot1nokk|2362
 #37|@DarkOnBot|2361
 #38|@Zer0_Tw0|2332
@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@vrnts_colinbot|2266
 #48|@HIWIN1234|2261
 #49|@YoBot_v2|2257
-#50|@rascal1|2253
+#50|@rascal1|2242
 #51|@Vinh_VariantsBot|2215
 #52|@Kizburb|2214
 #53|@OlympusCz|2211
@@ -68,8 +68,8 @@ Rank|Bot|Rating
 #66|@abhisun_bot|2129
 #67|@NienishiEngine|2124
 #68|@is_BOSS|2119
-#69|@AnUtterlyKarBot|2103
-#70|@calico1|2102
+#69|@calico1|2105
+#70|@AnUtterlyKarBot|2103
 #71|@Lili-ai|2099
 #72|@Dean_Summer_Bot|2086
 #73|@Magnus-BOT|2084
@@ -93,8 +93,8 @@ Rank|Bot|Rating
 #91|@Team_bot_08512|1963
 #92|@Botzer|1961
 #93|@Lili-Variants|1955
-#94|@OpeningsBot|1953
-#95|@lightspeed_bot|1951
+#94|@lightspeed_bot|1951
+#95|@OpeningsBot|1950
 #96|@Galaxy_Guardian|1947
 #97|@pistol-play|1939
 #98|@PROBOT123567|1936
