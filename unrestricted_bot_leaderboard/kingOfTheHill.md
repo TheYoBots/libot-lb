@@ -27,9 +27,9 @@ Rank|Bot|Rating
 #25|@Viet-AI|2317
 #26|@Fairy_Belzedar|2316
 #27|@MalanChess|2292
-#28|@rascal1|2285
-#29|@LudwigBOT|2281
-#30|@GoblinAjedrezAI|2274
+#28|@GoblinAjedrezAI|2288
+#29|@rascal1|2285
+#30|@LudwigBOT|2281
 #31|@HIWIN1234|2274
 #32|@LoseisnotAvailablehe|2274
 #33|@Bobby_Fischer_BOT|2267
@@ -84,10 +84,10 @@ Rank|Bot|Rating
 #82|@CloudBOT|1986
 #83|@NormalBlitzBulletBot|1986
 #84|@TeamChelsie|1983
-#85|@Alehkine_cat|1980
-#86|@calico1|1980
-#87|@beastie1|1977
-#88|@ESC_BOT|1976
+#85|@beastie1|1981
+#86|@Alehkine_cat|1980
+#87|@ESC_BOT|1976
+#88|@calico1|1975
 #89|@Lila-Stockfish|1963
 #90|@PyChessBot|1957
 #91|@abhisun_bot|1947
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@azdad|1936
 #95|@varient-chess-bot1|1931
 #96|@HyperLitikBOT|1930
-#97|@OSaurus|1928
+#97|@OSaurus|1930
 #98|@SacrificialSage|1925
 #99|@DrSmartBugs|1904
 #100|@StockfishLowDepth|1892
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@xiang-qi|1868
 #106|@que-hyper|1865
 #107|@is_BOSS|1864
-#108|@kowalabi|1863
+#108|@kowalabi|1859
 #109|@relevantproblem|1857
 #110|@Botzer|1851
 #111|@QiOui|1848
@@ -136,8 +136,8 @@ Rank|Bot|Rating
 #134|@clementyne1|1708
 #135|@TTC-BOT_2|1703
 #136|@Viet_BOT|1701
-#137|@Lancelbot|1689
-#138|@QuickLiquid|1689
+#137|@QuickLiquid|1689
+#138|@Lancelbot|1688
 #139|@SCP079|1660
 #140|@chessemkabot|1625
 #141|@CoderDen732|1621
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@Toxic_Bot|1541
 #148|@SXDEFENDER|1534
 #149|@Light_To_The_Rescue|1523
-#150|@spyros1bot|1501
+#150|@spyros1bot|1507
 #151|@Z-Move|1495
 #152|@TFRChessClub|1494
 #153|@hyperchessbot1|1493
@@ -181,9 +181,9 @@ Rank|Bot|Rating
 #179|@BinaryBrain|1341
 #180|@reaper1bot|1329
 #181|@THEANDROIDBOT|1317
-#182|@DavidsGuterBot|1314
+#182|@DavidsGuterBot|1313
 #183|@Challengeme2anything|1307
-#184|@Hand_coded_ai_90565|1306
+#184|@Hand_coded_ai_90565|1295
 #185|@NoTallkOnlyGames|1291
 #186|@jasans_bot|1268
 #187|@ChessChipBot|1258
@@ -197,7 +197,7 @@ Rank|Bot|Rating
 #195|@TrashBot|1168
 #196|@genesis1bot|1163
 #197|@shakboy9824453231op|1152
-#198|@pawnrobot|1124
+#198|@pawnrobot|1130
 #199|@GuineaBot3|1121
 #200|@DespacitoBot|1094
 #201|@ZokBot|1076

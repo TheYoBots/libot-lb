@@ -284,6 +284,7 @@ bbc_bot
 bbcpp
 bcbchess
 beast_engine
+beastie1
 beatmekiddos
 beatrijs-bot
 begginerbot
@@ -1532,6 +1533,7 @@ imnotpro1906_beta
 implosio
 imporver-engine
 impossiblewin
+imranmelikovbot
 imreallynotabot
 inanisbot
 indi_bot
@@ -2883,6 +2885,7 @@ spirit_crusherii
 spiritofthenewyear
 spitfirebot
 spotlightbot
+sprat_engine
 spyros1bot
 square-grass
 squared-chess
@@ -3309,6 +3312,7 @@ usunfish-l0
 usunfish-l1
 usunfish-l7
 uvuvwevwevwesrevenge
+uxugin-bot
 uzenatch
 v7p3r_bot
 valhalla-bot
@@ -3549,7 +3553,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-uxugin-bot
-imranmelikovbot
-beastie1
-sprat_engine

@@ -31,9 +31,9 @@ Rank|Bot|Rating
 #29|@TheMatrix2029|2448
 #30|@faith_bot|2447
 #31|@ToromBot|2436
-#32|@GoblinAjedrezAI|2398
+#32|@GoblinAjedrezAI|2418
 #33|@RaspFish|2395
-#34|@tbhOnBot|2374
+#34|@tbhOnBot|2381
 #35|@Viet_BOT|2367
 #36|@Bot1nokk|2362
 #37|@DarkOnBot|2353
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@DeepFriedFish|2185
 #57|@virus_exe-bot|2180
 #58|@ReallyCrazyBOT|2172
-#59|@beastie1|2161
-#60|@OSaurus|2154
+#59|@beastie1|2163
+#60|@OSaurus|2160
 #61|@ResoluteBot|2150
 #62|@ZhangirKhanBOT|2148
 #63|@Mega_BOT|2146
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@abhisun_bot|2129
 #68|@NienishiEngine|2124
 #69|@is_BOSS|2119
-#70|@calico1|2115
+#70|@calico1|2105
 #71|@AnUtterlyKarBot|2103
 #72|@Lili-ai|2099
 #73|@Dean_Summer_Bot|2086
@@ -100,7 +100,7 @@ Rank|Bot|Rating
 #98|@pistol-play|1939
 #99|@PROBOT123567|1936
 #100|@PetersTestBot|1935
-#101|@QiOui|1927
+#101|@QiOui|1924
 #102|@Lila-Stockfish|1917
 #103|@SkyBlaster|1913
 #104|@HyperLitikBOT|1908
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@PowerOnBot|1894
 #108|@CloudBOT|1892
 #109|@BetaZ|1889
-#110|@nickl1bot|1874
+#110|@nickl1bot|1872
 #111|@MagicHacker123|1865
 #112|@Johnsun|1863
 #113|@SriLankaChess|1854
@@ -191,10 +191,10 @@ Rank|Bot|Rating
 #189|@NoTallkOnlyGames|1293
 #190|@Light_To_The_Rescue|1277
 #191|@Sanjana_Kambala-BOT|1273
-#192|@TheLegendaryKnight|1272
-#193|@genesis1bot|1271
-#194|@EstmileBot|1269
-#195|@pawnrobot|1266
+#192|@pawnrobot|1272
+#193|@TheLegendaryKnight|1272
+#194|@genesis1bot|1271
+#195|@EstmileBot|1269
 #196|@Parth_Dhage_2|1258
 #197|@MyNameIsWhatLOL|1256
 #198|@SneakyBot21|1256
