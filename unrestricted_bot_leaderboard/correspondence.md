@@ -175,9 +175,9 @@ Rank|Bot|Rating
 #173|@XXXTryandTryXXX|1884
 #174|@KingsGamBot|1882
 #175|@lol7241Bot|1878
-#176|@PiratesBot|1876
-#177|@Yukoo-BOT|1876
-#178|@CCI-2|1876
+#176|@CCI-2|1876
+#177|@PiratesBot|1876
+#178|@Yukoo-BOT|1876
 #179|@beststockfish16|1875
 #180|@RoboTal|1874
 #181|@TheMatrix2025|1872

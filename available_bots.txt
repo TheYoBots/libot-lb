@@ -371,6 +371,7 @@ blazingsunbot
 blazum
 blitzsagebot
 blitzz_bot
+blobfish-bot
 bloody_bone
 blue_bot_one
 blue_ice_bot
@@ -596,6 +597,7 @@ camel_bot
 canary_colinbot
 caps-bot
 capturebot
+capybara_chessbot
 carlsenbot
 carlsencantbeatme
 carp_bot
@@ -613,6 +615,10 @@ cbnguyen_bot
 cbot801
 cc35bot
 cci-0
+cci-2
+cci-3
+cci-4
+cci_bot
 ccrl-clover
 ccsf
 ccy-oficiall-bot
@@ -625,6 +631,7 @@ cemle
 cenizos
 centaur01
 centaur_unarmedlad
+cerberus_bot
 cerebellumoriginal
 cesium119
 cgetacticmode
@@ -640,12 +647,14 @@ charlesbot
 chat_bot
 che_domi
 cheakykoala
+cheapvps
 chebot_1
 checkbro_official
 checkersplayer192
 checkmate-ai
 checkmate-engine
 checkmate10101010
+checkmatego-bot
 checkmatex1
 checkmatian228
 checkmmate2014
@@ -705,6 +714,7 @@ chessenginestockfish
 chesserclonebot
 chessfbot
 chessfybot
+chessgpt_11
 chesshackerhehe
 chessharmon
 chesshunterbot
@@ -1246,6 +1256,7 @@ galaxy_guardian
 gam3play3r
 gam3play3r-bot
 gambit-bot
+gambitdreamer
 gambitengine
 game-bot
 gameromanbot
@@ -1343,6 +1354,7 @@ grimmerai
 grindle_x_bot1
 grogros_zero
 groot123456
+groshboss
 groundshaker
 grozadvijkov
 gryndor
@@ -2034,6 +2046,7 @@ mc-king-098
 mcexpressbot
 mchess-engine
 mckapran78
+mcpeasearch
 mcufish
 mcyborg
 md211bot
@@ -2073,6 +2086,7 @@ midnyght
 mihansolo
 mikhailtal_ai
 mikhailtal_jp
+mimirbot
 mimmic
 minh_thuyet
 minhduc12
@@ -2777,6 +2791,7 @@ shashchess2020
 shashchess_msp
 shashchessbot
 shashchesspower
+sherlockholmes_221
 shineshou90_bot
 shirozer0
 shocky_bot
@@ -2883,6 +2898,7 @@ sseh-c
 ssehcilx
 ssehcrevolc
 st6090
+stalebot
 stallion_eas
 starfaith
 starker_bot
@@ -3018,6 +3034,7 @@ sxdrawbetter
 sxdrawworse
 sxphia
 sxrandom
+sybaibot
 sybbot
 sykorabot
 sylvestrec
@@ -3035,6 +3052,7 @@ tacticalbot
 tacticall_bot
 tacticoferoz
 takticproches
+takticprochess
 talbotbot
 taleelavshumans
 tapobot
@@ -3178,6 +3196,7 @@ tokenstealer
 toluene1140
 toluene1140_experime
 tomahawkbot
+tombot1234
 tomewyrm
 tomlesspit
 too_ez4me
@@ -3346,6 +3365,7 @@ vixen_is_very_cool
 vlad_777_0
 vladeabot
 vodkabot
+void_bot
 voidbot
 volkchessengine
 volterbot
@@ -3355,6 +3375,7 @@ vpbot
 vrnts_colinbot
 vvrr
 vvv0rtex_bot
+vynnik
 w1z4rd_b0t
 w_a_l_d_e_m_a_r
 wahoo_bot
@@ -3528,24 +3549,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-capybara_chessbot
-mcpeasearch
-groshboss
-blobfish-bot
-sybaibot
-vynnik
-chessgpt_11
-tombot1234
-gambitdreamer
-cerberus_bot
-cci-3
-mimirbot
-sherlockholmes_221
-stalebot
-cci-2
-cci-4
-void_bot
-cheapvps
-cci_bot
-checkmatego-bot
-takticprochess
+uxugin-bot
+imranmelikovbot
+beastie1
+sprat_engine

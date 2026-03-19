@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@tbhOnBot|2527
 #9|@DarkOnBot|2486
 #10|@Nakshatra3|2413
-#11|@anti-bot|2213
+#11|@anti-bot|2214
 #12|@OpeningsBot|2109
 #13|@pawnrobot|1933
 #14|@Groot123456|1808

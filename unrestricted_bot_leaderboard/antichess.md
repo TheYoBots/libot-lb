@@ -139,10 +139,10 @@ Rank|Bot|Rating
 #137|@Good-Game-123|2221
 #138|@The-Fastest-Bot|2218
 #139|@All_Except_Chess960|2214
-#140|@SaturnBot|2214
-#141|@xDmanBOT|2214
-#142|@YellowFlash_v2|2214
-#143|@anti-bot|2213
+#140|@anti-bot|2214
+#141|@SaturnBot|2214
+#142|@xDmanBOT|2214
+#143|@YellowFlash_v2|2214
 #144|@CoderDen732|2207
 #145|@NormalBlitzBulletBot|2205
 #146|@EstmileBot|2200
