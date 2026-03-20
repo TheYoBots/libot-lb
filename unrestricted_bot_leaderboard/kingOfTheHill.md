@@ -86,9 +86,9 @@ Rank|Bot|Rating
 #84|@TeamChelsie|1983
 #85|@beastie1|1981
 #86|@Alehkine_cat|1980
-#87|@ESC_BOT|1976
-#88|@calico1|1975
-#89|@OSaurus|1974
+#87|@calico1|1978
+#88|@ESC_BOT|1976
+#89|@OSaurus|1972
 #90|@Lila-Stockfish|1963
 #91|@PyChessBot|1957
 #92|@abhisun_bot|1947
@@ -110,7 +110,7 @@ Rank|Bot|Rating
 #108|@kowalabi|1860
 #109|@relevantproblem|1857
 #110|@Botzer|1851
-#111|@QiOui|1848
+#111|@QiOui|1847
 #112|@B0T5_RU13|1835
 #113|@STockfishdestroyBot|1825
 #114|@OpeningsBot|1817

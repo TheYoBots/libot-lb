@@ -859,6 +859,7 @@ crepusculum
 crisubot
 croco_bot
 crocodile5
+crocodile_bot
 crocrodile
 crocrodile-dev
 croissantdealer
@@ -3553,4 +3554,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-crocodile_bot
