@@ -2,11 +2,11 @@ Rank|Bot|Rating
 ---|---|---
 #1|@DarkOnBot|2707
 #2|@icbmsaregoated2|2700
-#3|@RaspFish|2683
-#4|@tbhOnBot|2680
+#3|@tbhOnBot|2685
+#4|@RaspFish|2683
 #5|@bot1e|2626
-#6|@rascal1|2622
-#7|@SF_Bot1nok|2620
+#6|@SF_Bot1nok|2620
+#7|@rascal1|2617
 #8|@beastie1|2348
 #9|@GoblinAjedrezAI|2344
 #10|@calico1|2231
@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@kowalabi|2198
 #13|@QiOui|2160
 #14|@rachl1|2118
-#15|@OpeningsBot|2061
-#16|@varient-chess-bot1|2006
+#15|@OpeningsBot|2054
+#16|@varient-chess-bot1|2014
 #17|@nickl1bot|2000
 #18|@JemBok|1976
 #19|@clementyne1|1906

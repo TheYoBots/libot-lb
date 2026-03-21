@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@EmptikVariantsBot|2443
 #7|@TacticalBot|2439
 #8|@ToromBot|2435
-#9|@tbhOnBot|2421
+#9|@tbhOnBot|2433
 #10|@DarkOnBot|2416
 #11|@Peaceful4Life|2390
 #12|@Corvus-1|2386
@@ -26,9 +26,9 @@ Rank|Bot|Rating
 #24|@FayEFish|2317
 #25|@Viet-AI|2317
 #26|@Fairy_Belzedar|2316
-#27|@rascal1|2297
-#28|@GoblinAjedrezAI|2293
-#29|@MalanChess|2292
+#27|@GoblinAjedrezAI|2293
+#28|@MalanChess|2292
+#29|@rascal1|2291
 #30|@LudwigBOT|2281
 #31|@HIWIN1234|2274
 #32|@LoseisnotAvailablehe|2274
@@ -80,10 +80,10 @@ Rank|Bot|Rating
 #78|@Yemmi-Yemmi|1994
 #79|@Galaxy_Guardian|1993
 #80|@XXIstCentury|1993
-#81|@OlympusCz|1990
-#82|@beastie1|1987
-#83|@CloudBOT|1986
-#84|@NormalBlitzBulletBot|1986
+#81|@beastie1|1987
+#82|@CloudBOT|1986
+#83|@NormalBlitzBulletBot|1986
+#84|@OlympusCz|1986
 #85|@TeamChelsie|1983
 #86|@Alehkine_cat|1980
 #87|@calico1|1978
@@ -95,7 +95,7 @@ Rank|Bot|Rating
 #93|@Resolved-Bot|1942
 #94|@Pineapple-Friendly|1937
 #95|@azdad|1936
-#96|@varient-chess-bot1|1931
+#96|@varient-chess-bot1|1932
 #97|@HyperLitikBOT|1930
 #98|@SacrificialSage|1925
 #99|@DrSmartBugs|1904

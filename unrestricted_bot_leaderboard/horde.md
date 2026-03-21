@@ -11,11 +11,11 @@ Rank|Bot|Rating
 #9|@ttBOT|2584
 #10|@compchess2|2579
 #11|@Lili-ai|2572
-#12|@bot1e|2498
-#13|@SF_Bot1nok|2492
-#14|@abdcebot|2463
-#15|@RaspFish|2450
-#16|@Bot1nokk|2426
+#12|@bot1e|2507
+#13|@SF_Bot1nok|2468
+#14|@abdcebot|2464
+#15|@RaspFish|2451
+#16|@Bot1nokk|2440
 #17|@HIWIN1234|2412
 #18|@EmptikVariantsBot|2402
 #19|@BOT_Stockfish13|2383
