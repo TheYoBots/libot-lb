@@ -151,11 +151,11 @@ Rank|Bot|Rating
 #149|@GegeneBOT|2177
 #150|@DeepFriedFish|2165
 #151|@lightspeed_bot|2152
-#152|@anti-bot|2145
-#153|@AntiChessBot|2142
-#154|@AnUtterlyKarBot|2134
-#155|@XXIstCentury|2131
-#156|@Stockfish-MEDIUM|2117
+#152|@AntiChessBot|2142
+#153|@AnUtterlyKarBot|2134
+#154|@XXIstCentury|2131
+#155|@Stockfish-MEDIUM|2117
+#156|@anti-bot|2113
 #157|@OpeningsBot|2109
 #158|@PyChessBot|2102
 #159|@TurkiyeHogwartsBOT|2099
@@ -179,8 +179,8 @@ Rank|Bot|Rating
 #177|@Pineapple-Friendly|1858
 #178|@SriLankaChess|1848
 #179|@MyNameIsWhatLOL|1826
-#180|@Bot2000|1807
-#181|@Groot123456|1805
+#180|@Groot123456|1813
+#181|@Bot2000|1807
 #182|@WildorderBot|1796
 #183|@Emil_V2|1789
 #184|@bot1996123|1787

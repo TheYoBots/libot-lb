@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@icbmsaregoated2|2591
 #8|@tbhOnBot|2524
 #9|@DarkOnBot|2497
-#10|@anti-bot|2145
+#10|@anti-bot|2113
 #11|@OpeningsBot|2109
 #12|@pawnrobot|1933
-#13|@Groot123456|1805
+#13|@Groot123456|1813
