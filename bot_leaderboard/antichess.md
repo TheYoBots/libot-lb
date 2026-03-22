@@ -5,11 +5,11 @@ Rank|Bot|Rating
 #3|@SF_Bot1nok|2839
 #4|@Bot1nokk|2818
 #5|@abdcebot|2810
-#6|@GoblinAjedrezAI|2594
-#7|@icbmsaregoated2|2591
+#6|@icbmsaregoated2|2601
+#7|@GoblinAjedrezAI|2594
 #8|@tbhOnBot|2524
 #9|@DarkOnBot|2497
-#10|@OpeningsBot|2109
-#11|@anti-bot|2079
-#12|@pawnrobot|1933
+#10|@OpeningsBot|2099
+#11|@anti-bot|2043
+#12|@pawnrobot|1934
 #13|@Groot123456|1813

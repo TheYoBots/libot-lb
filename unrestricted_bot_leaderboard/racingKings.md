@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@SCP079|2513
 #23|@SF_Bot1nok|2508
 #24|@Lili-ai|2504
-#25|@varient-chess-bot1|2503
+#25|@varient-chess-bot1|2504
 #26|@TacticalBot|2497
 #27|@Dark_evil_bot|2496
 #28|@ElPeonElectrico|2494
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@ESC_BOT|2253
 #74|@relevantproblem|2251
 #75|@GodelEscherBot|2244
-#76|@OpeningsBot|2244
+#76|@OpeningsBot|2239
 #77|@is_BOSS|2226
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225

@@ -1451,6 +1451,7 @@ honeyfried
 honggphat2006
 honkufish
 honkurandom
+honkuweak
 honzovy-sachy
 honzovy-sachy-2
 hoon_bot
@@ -2364,6 +2365,7 @@ ozibot
 ozinatorbot
 p-chessbot
 pacman3000
+paconbot
 paddibot
 painbotpain
 palisade
@@ -3554,5 +3556,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-paconbot
-honkuweak
+croco_little_bot
