@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2957
+#1|@fibonachi|2938
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2799
 #4|@Moment-That-Inspires|2780
@@ -284,7 +284,7 @@ Rank|Bot|Rating
 #282|@Wirtanen|1620
 #283|@bestchessbot|1618
 #284|@Rishab_Bindal|1618
-#285|@katzebot|1616
+#285|@katzebot|1615
 #286|@OverHead_BOT|1615
 #287|@Toxic_Bot|1607
 #288|@NeuralKnight1500|1605

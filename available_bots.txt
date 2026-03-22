@@ -858,6 +858,7 @@ cremi_bot
 crepusculum
 crisubot
 croco_bot
+croco_little_bot
 crocodile5
 crocodile_bot
 crocrodile
@@ -3556,4 +3557,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-croco_little_bot

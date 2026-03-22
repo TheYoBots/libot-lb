@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@kowalabi|2198
 #13|@QiOui|2160
 #14|@rachl1|2118
-#15|@OpeningsBot|2054
+#15|@OpeningsBot|2045
 #16|@varient-chess-bot1|2014
 #17|@nickl1bot|2000
 #18|@JemBok|1976

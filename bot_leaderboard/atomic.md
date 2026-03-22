@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2550
-#2|@tbhOnBot|2496
-#3|@DarkOnBot|2439
+#1|@is_BOSS|2552
+#2|@tbhOnBot|2498
+#3|@DarkOnBot|2435
 #4|@RaspFish|2380
 #5|@GoblinAjedrezAI|2375
 #6|@rascal1|2194
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@QiOui|1825
 #11|@OSaurus|1791
 #12|@rachl1|1723
-#13|@OpeningsBot|1681
+#13|@OpeningsBot|1684
 #14|@nickl1bot|1628
 #15|@JemBok|1610
 #16|@clementyne1|1516
@@ -22,4 +22,5 @@ Rank|Bot|Rating
 #20|@pawnrobot|1306
 #21|@hashcake1|1300
 #22|@reaper1bot|1228
-#23|@genesis1bot|1196
+#23|@StockfishLowDepth|1209
+#24|@genesis1bot|1196

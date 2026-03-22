@@ -113,10 +113,10 @@ Rank|Bot|Rating
 #111|@QiOui|1847
 #112|@B0T5_RU13|1835
 #113|@STockfishdestroyBot|1825
-#114|@OpeningsBot|1817
-#115|@AldoGamer001_Bot|1813
-#116|@admin-bot|1809
-#117|@The-Fastest-Bot|1809
+#114|@AldoGamer001_Bot|1813
+#115|@admin-bot|1809
+#116|@The-Fastest-Bot|1809
+#117|@OpeningsBot|1808
 #118|@TheLegitLegend|1804
 #119|@Bot_AOOP11|1802
 #120|@ROBOT_RANDEER2007|1802

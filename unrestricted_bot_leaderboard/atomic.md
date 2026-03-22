@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@chessbot2880|2557
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
-#15|@is_BOSS|2550
+#15|@is_BOSS|2552
 #16|@ttBOT|2540
 #17|@BitExtender128|2526
 #18|@ResoluteBot|2525
@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@CatBot_14|2514
 #21|@EmptikBot|2510
 #22|@ibep|2498
-#23|@tbhOnBot|2496
+#23|@tbhOnBot|2498
 #24|@ElPeonElectrico|2490
 #25|@firstrobot|2485
 #26|@ShredderGrizzly|2479
@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@LoseisnotAvailablehe|2466
 #29|@PepsiForAll|2448
 #30|@HIWIN1234|2440
-#31|@DarkOnBot|2439
+#31|@DarkOnBot|2435
 #32|@eNErGyOFbEiNGbOT|2431
 #33|@FayEFish|2415
 #34|@Fairy-Stockfish|2402
@@ -225,8 +225,8 @@ Rank|Bot|Rating
 #223|@Bot-2564|1686
 #224|@NoobMasterBOT|1685
 #225|@Parth_Dhage_2|1685
-#226|@TeamChelsie|1682
-#227|@OpeningsBot|1681
+#226|@OpeningsBot|1684
+#227|@TeamChelsie|1682
 #228|@Rishab_Bindal|1681
 #229|@badplayer33|1680
 #230|@Bosburp777|1675
@@ -348,11 +348,11 @@ Rank|Bot|Rating
 #346|@Ar4Asd1-BOT|1230
 #347|@reaper1bot|1228
 #348|@GuineaBot3|1215
-#349|@kidobot2911|1202
-#350|@Lozza-Bot|1198
-#351|@genesis1bot|1196
-#352|@ElFinsBoT|1191
-#353|@StockfishLowDepth|1190
+#349|@StockfishLowDepth|1209
+#350|@kidobot2911|1202
+#351|@Lozza-Bot|1198
+#352|@genesis1bot|1196
+#353|@ElFinsBoT|1191
 #354|@GuineaBot2|1173
 #355|@clrsrc_lc0|1168
 #356|@Jaymombot|1166

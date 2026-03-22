@@ -95,8 +95,8 @@ Rank|Bot|Rating
 #93|@Botzer|1961
 #94|@Lili-Variants|1955
 #95|@lightspeed_bot|1951
-#96|@OpeningsBot|1950
-#97|@Galaxy_Guardian|1947
+#96|@Galaxy_Guardian|1947
+#97|@OpeningsBot|1942
 #98|@pistol-play|1939
 #99|@PROBOT123567|1936
 #100|@PetersTestBot|1935

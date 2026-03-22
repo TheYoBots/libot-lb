@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@varient-chess-bot1|1932
 #9|@kowalabi|1868
 #10|@QiOui|1847
-#11|@OpeningsBot|1817
+#11|@OpeningsBot|1808
 #12|@rachl1|1792
 #13|@nickl1bot|1779
 #14|@JemBok|1769
