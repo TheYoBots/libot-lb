@@ -173,9 +173,9 @@ Rank|Bot|Rating
 #171|@TheWeakestBot|1431
 #172|@BKriviBOT|1427
 #173|@hashcake1|1426
-#174|@Kyle_0111|1421
-#175|@azdad|1420
-#176|@DavidsGuterBot|1420
+#174|@DavidsGuterBot|1424
+#175|@Kyle_0111|1421
+#176|@azdad|1420
 #177|@Peaceful4Life|1412
 #178|@reaper1bot|1403
 #179|@Blazum|1398
@@ -189,7 +189,7 @@ Rank|Bot|Rating
 #187|@Harry_Potterz|1316
 #188|@allvariants|1310
 #189|@NoTallkOnlyGames|1293
-#190|@genesis1bot|1283
+#190|@genesis1bot|1279
 #191|@Light_To_The_Rescue|1277
 #192|@Sanjana_Kambala-BOT|1273
 #193|@TheLegendaryKnight|1272

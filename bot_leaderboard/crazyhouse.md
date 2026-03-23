@@ -24,5 +24,5 @@ Rank|Bot|Rating
 #22|@spyros1bot|1598
 #23|@hashcake1|1477
 #24|@reaper1bot|1438
-#25|@genesis1bot|1093
-#26|@pawnrobot|866
+#25|@genesis1bot|1098
+#26|@pawnrobot|861

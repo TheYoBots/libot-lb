@@ -23,4 +23,4 @@ Rank|Bot|Rating
 #21|@reaper1bot|1343
 #22|@Hand_coded_ai_90565|1292
 #23|@genesis1bot|1147
-#24|@pawnrobot|1130
+#24|@pawnrobot|1133

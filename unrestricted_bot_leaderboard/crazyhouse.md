@@ -244,7 +244,7 @@ Rank|Bot|Rating
 #242|@kazakhfirstbot|1119
 #243|@apollo_bot|1106
 #244|@BogoBot|1099
-#245|@genesis1bot|1093
+#245|@genesis1bot|1098
 #246|@TfXD_Bot|1050
 #247|@jasans_bot|1045
 #248|@Official_bot|1027
@@ -252,8 +252,8 @@ Rank|Bot|Rating
 #250|@Magic11bot_Coach|1001
 #251|@JPSBOT|958
 #252|@FireTorchV2|955
-#253|@pawnrobot|866
-#254|@RSVMentor|862
+#253|@RSVMentor|862
+#254|@pawnrobot|861
 #255|@GuineaBot3|845
 #256|@MateCheckCapture|828
 #257|@TrashBot|800

@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@spyros1bot|1599
 #18|@Groot123456|1536
 #19|@hashcake1|1426
-#20|@DavidsGuterBot|1420
+#20|@DavidsGuterBot|1424
 #21|@reaper1bot|1403
-#22|@genesis1bot|1283
+#22|@genesis1bot|1279
 #23|@pawnrobot|1267

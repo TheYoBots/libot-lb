@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@chessbot2880|2557
-#13|@is_BOSS|2556
+#12|@is_BOSS|2560
+#13|@chessbot2880|2557
 #14|@UltronBot|2556
 #15|@Viet-AI|2556
 #16|@ttBOT|2540
@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@CatBot_14|2514
 #21|@EmptikBot|2510
 #22|@ibep|2498
-#23|@tbhOnBot|2498
+#23|@tbhOnBot|2494
 #24|@ElPeonElectrico|2490
 #25|@firstrobot|2485
 #26|@ShredderGrizzly|2479
@@ -329,9 +329,9 @@ Rank|Bot|Rating
 #327|@NOTBOTFORSURE|1327
 #328|@TheSystem_Bot|1318
 #329|@PROBROMAN|1317
-#330|@hashcake1|1300
-#331|@Atomicbot1|1294
-#332|@pawnrobot|1290
+#330|@pawnrobot|1313
+#331|@hashcake1|1300
+#332|@Atomicbot1|1294
 #333|@DavidsGuterBot|1287
 #334|@XXXTryandTryXXX|1280
 #335|@legendbot1|1277
@@ -351,8 +351,8 @@ Rank|Bot|Rating
 #349|@GuineaBot3|1215
 #350|@kidobot2911|1202
 #351|@Lozza-Bot|1198
-#352|@genesis1bot|1196
-#353|@ElFinsBoT|1191
+#352|@ElFinsBoT|1191
+#353|@genesis1bot|1184
 #354|@GuineaBot2|1173
 #355|@clrsrc_lc0|1168
 #356|@Jaymombot|1166
