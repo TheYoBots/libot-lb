@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@OpeningBooksTester|2712
 #29|@ElPeonElectrico|2710
 #30|@Yellow_Anxiety7|2708
-#31|@RaspFish|2699
+#31|@RaspFish|2702
 #32|@Lili-Variants|2693
 #33|@buffFishNet|2692
 #34|@Magicianrobot|2688

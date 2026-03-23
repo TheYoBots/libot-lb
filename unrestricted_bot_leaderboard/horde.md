@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Magicianrobot|2741
 #6|@FireFishBOT|2726
 #7|@PepsiForAll|2699
-#8|@ToromBot|2660
+#8|@ToromBot|2666
 #9|@ttBOT|2584
 #10|@compchess2|2579
 #11|@Lili-ai|2572

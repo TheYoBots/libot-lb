@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2660
+#1|@ToromBot|2666
 #2|@bot1e|2520
 #3|@SF_Bot1nok|2470
 #4|@abdcebot|2442
