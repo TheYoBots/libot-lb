@@ -284,8 +284,8 @@ Rank|Bot|Rating
 #282|@Wirtanen|1620
 #283|@bestchessbot|1618
 #284|@Rishab_Bindal|1618
-#285|@katzebot|1615
-#286|@OverHead_BOT|1615
+#285|@OverHead_BOT|1615
+#286|@katzebot|1608
 #287|@Toxic_Bot|1607
 #288|@NeuralKnight1500|1605
 #289|@JonoX|1604

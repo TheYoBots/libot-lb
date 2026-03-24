@@ -887,6 +887,7 @@ czech-bot-turbo
 czesc-bot
 d2d4go
 dabestfarmer
+daftnot
 dakingsofficialbot
 dan_thebot
 danerdbot
@@ -3558,4 +3559,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-daftnot

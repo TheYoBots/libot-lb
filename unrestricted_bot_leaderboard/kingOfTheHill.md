@@ -177,10 +177,10 @@ Rank|Bot|Rating
 #175|@JEDDYCOCO12345|1355
 #176|@Sanjana_Kambala-BOT|1355
 #177|@VedanthS-Bot|1353
-#178|@allvariants|1348
-#179|@DavidsGuterBot|1343
-#180|@reaper1bot|1343
-#181|@BinaryBrain|1341
+#178|@reaper1bot|1349
+#179|@allvariants|1348
+#180|@BinaryBrain|1341
+#181|@DavidsGuterBot|1335
 #182|@THEANDROIDBOT|1317
 #183|@Challengeme2anything|1307
 #184|@Hand_coded_ai_90565|1292
@@ -196,7 +196,7 @@ Rank|Bot|Rating
 #194|@Boom_Bot|1176
 #195|@TrashBot|1168
 #196|@shakboy9824453231op|1152
-#197|@genesis1bot|1147
+#197|@genesis1bot|1150
 #198|@pawnrobot|1133
 #199|@GuineaBot3|1121
 #200|@DespacitoBot|1094

@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@faith_bot|2447
 #31|@ToromBot|2436
 #32|@GoblinAjedrezAI|2401
-#33|@RaspFish|2388
+#33|@RaspFish|2384
 #34|@tbhOnBot|2373
 #35|@Viet_BOT|2367
 #36|@Bot1nokk|2362
@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@LudwigBOT|2304
 #42|@lord-bot|2300
 #43|@KingfishX|2285
-#44|@rascal1|2279
+#44|@rascal1|2282
 #45|@The-Fastest-Bot|2277
 #46|@CocopikachuBOT|2274
 #47|@TheMatrix2025|2272
@@ -189,10 +189,10 @@ Rank|Bot|Rating
 #187|@Harry_Potterz|1316
 #188|@allvariants|1310
 #189|@NoTallkOnlyGames|1293
-#190|@genesis1bot|1279
-#191|@Light_To_The_Rescue|1277
-#192|@Sanjana_Kambala-BOT|1273
-#193|@TheLegendaryKnight|1272
+#190|@Light_To_The_Rescue|1277
+#191|@Sanjana_Kambala-BOT|1273
+#192|@TheLegendaryKnight|1272
+#193|@genesis1bot|1271
 #194|@EstmileBot|1269
 #195|@pawnrobot|1267
 #196|@Parth_Dhage_2|1258

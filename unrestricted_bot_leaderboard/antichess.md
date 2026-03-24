@@ -156,10 +156,10 @@ Rank|Bot|Rating
 #154|@XXIstCentury|2131
 #155|@Stockfish-MEDIUM|2117
 #156|@PyChessBot|2102
-#157|@TurkiyeHogwartsBOT|2099
-#158|@OpeningsBot|2098
-#159|@CatNail|2078
-#160|@anti-bot|2074
+#157|@anti-bot|2101
+#158|@TurkiyeHogwartsBOT|2099
+#159|@OpeningsBot|2098
+#160|@CatNail|2078
 #161|@ZamuChess|2049
 #162|@Botzer|2020
 #163|@Jussicas|2019
