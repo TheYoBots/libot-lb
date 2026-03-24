@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Lili-ai|2572
 #12|@bot1e|2522
 #13|@SF_Bot1nok|2472
-#14|@RaspFish|2451
+#14|@RaspFish|2452
 #15|@abdcebot|2441
 #16|@Bot1nokk|2430
 #17|@HIWIN1234|2412
