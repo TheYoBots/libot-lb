@@ -2765,8 +2765,10 @@ sergiofransiss21
 servan2345
 serverfish
 serversofflinebot
+sethechessbot3
 sethechessbot4
 sethechessbot5
+sethechessbot6
 sethechessbot7
 sethechessbot8
 sethechessgod
@@ -2839,6 +2841,7 @@ skvrwl
 skyattacker
 skybeam
 skyblaster
+skybotinok
 skymark2009
 skyray7
 skywalker2006
@@ -3559,6 +3562,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-skybotinok
-sethechessbot3
-sethechessbot6
