@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@MMC_HUANGBAI|1965
 #91|@mrchessmanager|1963
 #92|@Team_bot_08512|1963
-#93|@Botzer|1961
-#94|@OpeningsBot|1958
+#93|@OpeningsBot|1962
+#94|@Botzer|1961
 #95|@Lili-Variants|1955
 #96|@lightspeed_bot|1951
 #97|@Galaxy_Guardian|1947
@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@Johnsun|1863
 #113|@SriLankaChess|1854
 #114|@AldoGamer001_Bot|1851
-#115|@JemBok|1850
-#116|@chesshyperbot|1846
+#115|@chesshyperbot|1846
+#116|@JemBok|1846
 #117|@HumanBOT_lv1929|1844
 #118|@szuwar8716|1844
 #119|@B0T5_RU13|1841

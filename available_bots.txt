@@ -3559,3 +3559,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+skybotinok
+sethechessbot3
+sethechessbot6

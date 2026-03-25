@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@OSaurus|2117
 #7|@calico1|2105
 #8|@kowalabi|1971
-#9|@OpeningsBot|1958
+#9|@OpeningsBot|1962
 #10|@QiOui|1924
 #11|@rachl1|1898
 #12|@nickl1bot|1872
-#13|@JemBok|1850
+#13|@JemBok|1846
 #14|@clementyne1|1809
 #15|@Lancelbot|1692
 #16|@spyros1bot|1599
