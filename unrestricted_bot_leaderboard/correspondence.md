@@ -404,8 +404,8 @@ Rank|Bot|Rating
 #402|@BetaTree|1181
 #403|@sudobot_chess|1140
 #404|@ertugruldemir|1131
-#405|@grandQ_AI|1129
-#406|@Bot-31795|1127
+#405|@Bot-31795|1127
+#406|@grandQ_AI|1118
 #407|@szuwar8716|1116
 #408|@AXWChessBot|1096
 #409|@StashBot|1075
