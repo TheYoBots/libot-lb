@@ -150,10 +150,10 @@ Rank|Bot|Rating
 #148|@B0T5_RU13|1683
 #149|@FASTCHESSBOT|1666
 #150|@SipsonsamsonBOT|1665
-#151|@StockfishLowDepth|1662
-#152|@is_BOSS|1657
-#153|@MistakeBOT|1655
-#154|@Groot123456|1652
+#151|@Groot123456|1662
+#152|@StockfishLowDepth|1662
+#153|@is_BOSS|1657
+#154|@MistakeBOT|1655
 #155|@Isaacwb_BOT|1640
 #156|@Monastedrez|1634
 #157|@SriLankaChess|1623

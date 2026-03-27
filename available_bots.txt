@@ -1582,6 +1582,7 @@ iwantedtoplaychess
 ix-aze
 iyihamle-com
 j1-chessnost
+jackalbot
 jaimelesmacarons
 jake-bot
 jakyllbot
@@ -3563,4 +3564,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-jackalbot

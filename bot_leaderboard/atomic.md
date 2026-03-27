@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2548
-#2|@tbhOnBot|2442
-#3|@DarkOnBot|2428
-#4|@RaspFish|2365
-#5|@rascal1|2238
+#1|@is_BOSS|2552
+#2|@tbhOnBot|2438
+#3|@DarkOnBot|2415
+#4|@RaspFish|2361
+#5|@rascal1|2249
 #6|@calico1|1970
 #7|@beastie1|1936
 #8|@kowalabi|1850

@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@nickl1bot|2004
 #19|@JemBok|1970
 #20|@clementyne1|1897
-#21|@Groot123456|1652
+#21|@Groot123456|1662
 #22|@reaper1bot|1464
 #23|@genesis1bot|1096
 #24|@pawnrobot|858

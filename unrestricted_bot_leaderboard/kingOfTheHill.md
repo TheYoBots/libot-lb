@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@TacticalBot|2439
 #8|@ToromBot|2435
 #9|@DarkOnBot|2416
-#10|@RaspFish|2399
+#10|@RaspFish|2392
 #11|@Peaceful4Life|2390
 #12|@Corvus-1|2386
 #13|@FireFishBOT|2385
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@ElPeonElectrico|2351
 #19|@TheMatrix2025|2346
 #20|@AndromedaSX1|2344
-#21|@rascal1|2330
+#21|@rascal1|2337
 #22|@Bot1nokk|2327
 #23|@SF_Bot1nok|2323
 #24|@Sooraj_Kumar_P_S|2319
@@ -98,8 +98,8 @@ Rank|Bot|Rating
 #96|@varient-chess-bot1|1931
 #97|@HyperLitikBOT|1930
 #98|@SacrificialSage|1925
-#99|@DrSmartBugs|1904
-#100|@StockfishLowDepth|1892
+#99|@StockfishLowDepth|1919
+#100|@DrSmartBugs|1904
 #101|@Variantenkoning|1892
 #102|@PetersTestBot|1890
 #103|@MistakeBOT|1886
@@ -168,7 +168,7 @@ Rank|Bot|Rating
 #166|@EZWipe|1432
 #167|@BetaOneBot|1424
 #168|@ShredderGrizzly|1418
-#169|@Groot123456|1416
+#169|@Groot123456|1415
 #170|@CVA728_BOT_1|1412
 #171|@Lightning_SpeedChess|1400
 #172|@cool_boy_bot|1388
