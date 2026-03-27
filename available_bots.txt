@@ -2420,6 +2420,7 @@ phoenix3-1
 phoenix_engine
 phoenixleyi
 physbot
+pi0w
 pideciomerusta
 piebot
 pifishzero
@@ -3562,4 +3563,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-pi0w
+jackalbot
