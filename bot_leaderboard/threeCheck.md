@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@tbhOnBot|2377
-#2|@RaspFish|2370
+#1|@RaspFish|2378
+#2|@tbhOnBot|2377
 #3|@DarkOnBot|2346
-#4|@rascal1|2317
+#4|@rascal1|2313
 #5|@OlympusCz|2239
-#6|@beastie1|2190
+#6|@beastie1|2187
 #7|@calico1|2129
 #8|@OSaurus|2120
 #9|@kowalabi|1982

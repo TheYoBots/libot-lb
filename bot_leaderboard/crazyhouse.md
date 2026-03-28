@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@DarkOnBot|2711
-#2|@tbhOnBot|2675
-#3|@RaspFish|2670
+#2|@RaspFish|2675
+#3|@tbhOnBot|2675
 #4|@icbmsaregoated2|2664
 #5|@rascal1|2660
 #6|@SF_Bot1nok|2630
 #7|@bot1e|2616
-#8|@beastie1|2374
+#8|@beastie1|2370
 #9|@GoblinAjedrezAI|2342
 #10|@OlympusCz|2293
 #11|@calico1|2275

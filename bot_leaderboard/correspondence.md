@@ -1,3 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@katzebot|1605
+#1|@GarboBot|1954
+#2|@katzebot|1605
