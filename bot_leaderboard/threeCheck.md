@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@DarkOnBot|2346
 #4|@rascal1|2313
 #5|@OlympusCz|2239
-#6|@beastie1|2187
+#6|@beastie1|2193
 #7|@calico1|2129
 #8|@OSaurus|2120
 #9|@kowalabi|1982
