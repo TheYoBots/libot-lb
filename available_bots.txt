@@ -1164,6 +1164,7 @@ fatmoon
 fayefish
 fbot
 fchess-bot
+fdg-bot_1718
 featbeweir
 feeks99
 feligamer
@@ -1500,6 +1501,7 @@ hyperopic
 hyperphoenix21
 hysharp
 hyyyyyyyyyyiiiii
+hyzero
 i3_1115g4
 i3_5005u
 i7_stockfish
@@ -2300,6 +2302,7 @@ nuttchess_bot
 nya-vp
 nyaabot
 nyxonyx
+o-rei-cx
 o9mniej_bot
 obi-pawnkenobot
 obsidianchessengine
@@ -2388,6 +2391,7 @@ patung
 patzerbot135
 paul_morphine_bot
 paulmorphybot
+pawelbot
 pawn-bot
 pawn_git
 pawn_stormer_d4
@@ -2767,6 +2771,7 @@ sergiofransiss21
 servan2345
 serverfish
 serversofflinebot
+sethechessbot1
 sethechessbot3
 sethechessbot4
 sethechessbot5
@@ -3453,6 +3458,7 @@ woodstyleengine
 world-best-ninja-jnr
 worldofchampions
 worldplayer035bot
+worst-ai
 worst_colinbot
 worstbotever123
 worstfish
@@ -3564,9 +3570,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-o-rei-cx
-hyzero
-fdg-bot_1718
-sethechessbot1
-pawelbot
-worst-ai
+bot1221

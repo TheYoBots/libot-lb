@@ -162,13 +162,13 @@ Rank|Bot|Rating
 #160|@Toxic_Bot|1352
 #161|@DespacitoBot|1345
 #162|@weaklean|1338
-#163|@pawnrobot|1328
+#163|@pawnrobot|1337
 #164|@BinaryBrain|1299
 #165|@Nicholaswb_BOT|1288
 #166|@AEBROADUSBOTTER|1279
 #167|@ReallyCrazyBOT|1279
 #168|@Worst-ai|1276
-#169|@hashcake1|1275
+#169|@hashcake1|1274
 #170|@AbhijithHISBot|1258
 #171|@Humuhumunukunukuapu|1258
 #172|@Jannik08_fan|1258
@@ -179,7 +179,7 @@ Rank|Bot|Rating
 #177|@GuineaBot3|1212
 #178|@admin-bot|1209
 #179|@Happy_One|1207
-#180|@reaper1bot|1203
+#180|@reaper1bot|1205
 #181|@St6090|1191
 #182|@ChessLLModel|1178
 #183|@BetaOneBot|1166
