@@ -424,6 +424,7 @@ bot-ugurpc
 bot-variants
 bot-whiteworm
 bot-win-loh-nick
+bot1221
 bot1996123
 bot1cwc
 bot1e
@@ -3570,4 +3571,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bot1221

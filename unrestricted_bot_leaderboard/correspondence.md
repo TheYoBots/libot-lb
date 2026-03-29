@@ -285,8 +285,8 @@ Rank|Bot|Rating
 #283|@bestchessbot|1618
 #284|@Rishab_Bindal|1618
 #285|@OverHead_BOT|1615
-#286|@Toxic_Bot|1607
-#287|@katzebot|1605
+#286|@katzebot|1613
+#287|@Toxic_Bot|1607
 #288|@NeuralKnight1500|1605
 #289|@JonoX|1604
 #290|@DrawFish|1601
