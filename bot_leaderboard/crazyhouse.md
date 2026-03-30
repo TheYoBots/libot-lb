@@ -18,10 +18,10 @@ Rank|Bot|Rating
 #16|@OpeningsBot|2053
 #17|@nickl1bot|2004
 #18|@JemBok|1970
-#19|@clementyne1|1885
-#20|@Lancelbot|1751
-#21|@Groot123456|1657
-#22|@spyros1bot|1609
+#19|@clementyne1|1888
+#20|@Lancelbot|1757
+#21|@Groot123456|1643
+#22|@spyros1bot|1617
 #23|@reaper1bot|1464
 #24|@hashcake1|1458
 #25|@genesis1bot|1078

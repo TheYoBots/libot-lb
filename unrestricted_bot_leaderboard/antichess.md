@@ -148,9 +148,9 @@ Rank|Bot|Rating
 #146|@EstmileBot|2200
 #147|@zipfile_chess-bot|2200
 #148|@HerokuHasnotplay|2196
-#149|@Lucror|2178
-#150|@GegeneBOT|2177
-#151|@anti-bot|2172
+#149|@anti-bot|2194
+#150|@Lucror|2178
+#151|@GegeneBOT|2177
 #152|@DeepFriedFish|2165
 #153|@lightspeed_bot|2152
 #154|@AntiChessBot|2142
