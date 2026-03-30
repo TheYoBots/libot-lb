@@ -25,4 +25,4 @@ Rank|Bot|Rating
 #23|@reaper1bot|1464
 #24|@hashcake1|1458
 #25|@genesis1bot|1078
-#26|@pawnrobot|869
+#26|@pawnrobot|867

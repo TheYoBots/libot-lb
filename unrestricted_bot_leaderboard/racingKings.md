@@ -117,8 +117,8 @@ Rank|Bot|Rating
 #115|@legendbot1|1893
 #116|@Hagfish|1879
 #117|@HakoAI|1878
-#118|@PyChessBot|1847
-#119|@StockfishLowDepth|1836
+#118|@StockfishLowDepth|1862
+#119|@PyChessBot|1847
 #120|@king12345678910BOT|1833
 #121|@cool_boy_bot|1829
 #122|@Just-a-random-bot|1816

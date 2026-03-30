@@ -253,7 +253,7 @@ Rank|Bot|Rating
 #251|@Magic11bot_Coach|1001
 #252|@JPSBOT|958
 #253|@FireTorchV2|955
-#254|@pawnrobot|869
+#254|@pawnrobot|867
 #255|@RSVMentor|862
 #256|@GuineaBot3|845
 #257|@MateCheckCapture|828

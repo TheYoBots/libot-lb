@@ -20,5 +20,5 @@ Rank|Bot|Rating
 #18|@DavidsGuterBot|1432
 #19|@reaper1bot|1391
 #20|@hashcake1|1387
-#21|@pawnrobot|1271
+#21|@pawnrobot|1280
 #22|@genesis1bot|1260

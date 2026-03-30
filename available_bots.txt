@@ -187,6 +187,7 @@ arasanx
 aravdadhaniabot
 arcabot
 arcanumbot
+archangel-bot
 archduchessbot
 ardabasara
 ardacrazy_10
@@ -2050,6 +2051,7 @@ maxthedog
 maxthedog-esp32
 maxwellonlc
 mayan_mex
+maybyen
 mayhem23111
 mayhempi_cluster
 mc-king-098
@@ -3571,5 +3573,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-archangel-bot
-maybyen
