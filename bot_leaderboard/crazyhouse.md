@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@DarkOnBot|2704
-#2|@RaspFish|2675
+#2|@RaspFish|2687
 #3|@tbhOnBot|2675
 #4|@icbmsaregoated2|2664
-#5|@rascal1|2656
+#5|@rascal1|2645
 #6|@SF_Bot1nok|2630
 #7|@bot1e|2616
 #8|@GoblinAjedrezAI|2383
@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@OlympusCz|2292
 #11|@calico1|2270
 #12|@OSaurus|2215
-#13|@kowalabi|2202
+#13|@kowalabi|2206
 #14|@QiOui|2152
 #15|@rachl1|2089
-#16|@OpeningsBot|2053
+#16|@OpeningsBot|2050
 #17|@nickl1bot|2004
 #18|@JemBok|1970
 #19|@clementyne1|1888
@@ -25,4 +25,4 @@ Rank|Bot|Rating
 #23|@reaper1bot|1464
 #24|@hashcake1|1458
 #25|@genesis1bot|1078
-#26|@pawnrobot|867
+#26|@pawnrobot|866

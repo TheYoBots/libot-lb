@@ -70,12 +70,12 @@ Rank|Bot|Rating
 #68|@AlfaBot|2278
 #69|@gage12_bot|2266
 #70|@Mega_BOT|2264
-#71|@MalanChess|2261
-#72|@chesshyperbot|2259
-#73|@ESC_BOT|2253
-#74|@relevantproblem|2251
-#75|@GodelEscherBot|2244
-#76|@OpeningsBot|2238
+#71|@OpeningsBot|2264
+#72|@MalanChess|2261
+#73|@chesshyperbot|2259
+#74|@ESC_BOT|2253
+#75|@relevantproblem|2251
+#76|@GodelEscherBot|2244
 #77|@is_BOSS|2226
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
@@ -153,7 +153,7 @@ Rank|Bot|Rating
 #151|@aliooooooo444|1596
 #152|@HiddeNL|1573
 #153|@TheSystem_Bot|1572
-#154|@Groot123456|1568
+#154|@Groot123456|1566
 #155|@QuickLiquid|1555
 #156|@MMC_HUANGBAI|1553
 #157|@faith_bot|1514

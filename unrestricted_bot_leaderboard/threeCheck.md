@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@faith_bot|2447
 #31|@ToromBot|2405
 #32|@tbhOnBot|2403
-#33|@RaspFish|2381
+#33|@RaspFish|2391
 #34|@GoblinAjedrezAI|2371
 #35|@Viet_BOT|2367
 #36|@DarkOnBot|2346
@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@SF_Bot1nok|2314
 #40|@colinbot|2309
 #41|@LudwigBOT|2304
-#42|@rascal1|2301
-#43|@lord-bot|2300
-#44|@Worst-ai|2296
+#42|@lord-bot|2300
+#43|@Worst-ai|2296
+#44|@rascal1|2292
 #45|@KingfishX|2285
 #46|@The-Fastest-Bot|2277
 #47|@CocopikachuBOT|2274
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@BalloonBot|2017
 #85|@firstrobot|2003
 #86|@Hyper-Stockfish|1986
-#87|@kowalabi|1980
+#87|@kowalabi|1978
 #88|@GodelEscherBot|1974
 #89|@XXIstCentury|1973
 #90|@PumpkinLatteBob|1967
@@ -99,10 +99,10 @@ Rank|Bot|Rating
 #97|@Galaxy_Guardian|1947
 #98|@pistol-play|1939
 #99|@PROBOT123567|1936
-#100|@PetersTestBot|1935
-#101|@OpeningsBot|1927
-#102|@QiOui|1920
-#103|@Lila-Stockfish|1917
+#100|@OpeningsBot|1935
+#101|@PetersTestBot|1935
+#102|@Lila-Stockfish|1917
+#103|@QiOui|1916
 #104|@SkyBlaster|1913
 #105|@rachl1|1909
 #106|@HyperLitikBOT|1908
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@newengine2022|1588
 #149|@knight_128|1563
 #150|@Alehkine_cat|1531
-#151|@Groot123456|1531
+#151|@Groot123456|1528
 #152|@TrashBot|1519
 #153|@relevantproblem|1514
 #154|@Toxic_Bot|1511

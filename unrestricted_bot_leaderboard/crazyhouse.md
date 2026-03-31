@@ -15,13 +15,13 @@ Rank|Bot|Rating
 #13|@DarkOnBot|2704
 #14|@PepsiForAll|2702
 #15|@GilgameshTheBot|2697
-#16|@Fairy_Belzedar|2683
-#17|@RaspFish|2675
+#16|@RaspFish|2687
+#17|@Fairy_Belzedar|2683
 #18|@tbhOnBot|2675
 #19|@ResoluteBot|2668
 #20|@icbmsaregoated2|2664
 #21|@PumpkinLatteBob|2658
-#22|@rascal1|2656
+#22|@rascal1|2645
 #23|@ibep|2633
 #24|@SF_Bot1nok|2630
 #25|@bot1e|2616
@@ -67,8 +67,8 @@ Rank|Bot|Rating
 #65|@ElPeonElectrico|2228
 #66|@Coolman2021|2219
 #67|@OSaurus|2215
-#68|@xiang-qi|2203
-#69|@kowalabi|2202
+#68|@kowalabi|2206
+#69|@xiang-qi|2203
 #70|@Magicianrobot|2200
 #71|@MyNameIsWhatLOL|2200
 #72|@Zer0_Tw0|2200
@@ -92,7 +92,7 @@ Rank|Bot|Rating
 #90|@Tacticall_Bot|2075
 #91|@GodelEscherBot|2071
 #92|@TheLegitLegend2|2059
-#93|@OpeningsBot|2053
+#93|@OpeningsBot|2050
 #94|@PowerOnBot|2050
 #95|@Jussicas|2035
 #96|@thibot|2032
@@ -253,7 +253,7 @@ Rank|Bot|Rating
 #251|@Magic11bot_Coach|1001
 #252|@JPSBOT|958
 #253|@FireTorchV2|955
-#254|@pawnrobot|867
+#254|@pawnrobot|866
 #255|@RSVMentor|862
 #256|@GuineaBot3|845
 #257|@MateCheckCapture|828
