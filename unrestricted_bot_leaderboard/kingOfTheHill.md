@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@chessbot2880|2384
 #15|@tbhOnBot|2379
 #16|@Coolman2021|2378
-#17|@rascal1|2366
+#17|@rascal1|2368
 #18|@Karpov_bot|2359
 #19|@ElPeonElectrico|2351
 #20|@TheMatrix2025|2346
@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@calico1|2062
 #69|@NewChessEngine-ai|2046
 #70|@Hyper-Stockfish|2044
-#71|@beastie1|2036
-#72|@Kizbuurb|2035
+#71|@Kizbuurb|2035
+#72|@beastie1|2034
 #73|@CloudBot_v2|2027
 #74|@Lili-ai|2027
 #75|@faith_bot|2026
@@ -180,8 +180,8 @@ Rank|Bot|Rating
 #178|@hashcake1|1350
 #179|@allvariants|1348
 #180|@reaper1bot|1344
-#181|@DavidsGuterBot|1343
-#182|@BinaryBrain|1341
+#181|@BinaryBrain|1341
+#182|@DavidsGuterBot|1341
 #183|@THEANDROIDBOT|1317
 #184|@Challengeme2anything|1307
 #185|@Hand_coded_ai_90565|1292

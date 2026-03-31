@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@DarkOnBot|2416
 #2|@RaspFish|2393
 #3|@tbhOnBot|2379
-#4|@rascal1|2366
+#4|@rascal1|2368
 #5|@calico1|2062
-#6|@beastie1|2036
+#6|@beastie1|2034
 #7|@OSaurus|1968
 #8|@varient-chess-bot1|1931
 #9|@kowalabi|1847
@@ -20,6 +20,6 @@ Rank|Bot|Rating
 #18|@Groot123456|1400
 #19|@hashcake1|1350
 #20|@reaper1bot|1344
-#21|@DavidsGuterBot|1343
+#21|@DavidsGuterBot|1341
 #22|@genesis1bot|1163
 #23|@pawnrobot|1094
