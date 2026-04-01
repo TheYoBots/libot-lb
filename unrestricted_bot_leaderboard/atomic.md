@@ -328,9 +328,9 @@ Rank|Bot|Rating
 #326|@DobbyBot|1334
 #327|@The_A_and_D_Club|1332
 #328|@NOTBOTFORSURE|1327
-#329|@TheSystem_Bot|1318
-#330|@PROBROMAN|1317
-#331|@pawnrobot|1312
+#329|@pawnrobot|1323
+#330|@TheSystem_Bot|1318
+#331|@PROBROMAN|1317
 #332|@Atomicbot1|1294
 #333|@DavidsGuterBot|1287
 #334|@XXXTryandTryXXX|1280

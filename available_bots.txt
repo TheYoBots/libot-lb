@@ -607,6 +607,7 @@ carlsencantbeatme
 carp_bot
 casanchess-nnue
 castlematestockfish
+catachess-cata2500
 catalanboti
 catbot329
 catbot_14
@@ -3574,4 +3575,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-catachess-cata2500
