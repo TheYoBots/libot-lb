@@ -383,6 +383,7 @@ bluefake
 blundar_bot
 blunder_engine
 blunderbuss-bot
+blunderfishengine
 blundernet_engine
 bob_the_bot
 bobandi
@@ -3573,4 +3574,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-blunderfishengine
+catachess-cata2500

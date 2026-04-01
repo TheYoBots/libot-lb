@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@GoblinAjedrezAI|2601
 #8|@tbhOnBot|2520
 #9|@DarkOnBot|2497
-#10|@anti-bot|2199
+#10|@anti-bot|2200
 #11|@OpeningsBot|2183
 #12|@pawnrobot|1914
 #13|@Groot123456|1826
