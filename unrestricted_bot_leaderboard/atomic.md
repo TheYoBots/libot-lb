@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@is_BOSS|2563
+#12|@is_BOSS|2565
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
 #15|@ttBOT|2540
@@ -97,10 +97,10 @@ Rank|Bot|Rating
 #95|@FASTCHESSBOT|2179
 #96|@Nebulogic|2178
 #97|@Bobby_Fischer_BOT|2177
-#98|@bot1e|2176
-#99|@TheMatrix2025|2176
-#100|@ChessBot3021|2174
-#101|@Worldplayer035bot|2173
+#98|@TheMatrix2025|2176
+#99|@ChessBot3021|2174
+#100|@Worldplayer035bot|2173
+#101|@bot1e|2170
 #102|@Magnus-BOT|2169
 #103|@OurBot|2166
 #104|@CrayyBot|2165
@@ -261,8 +261,8 @@ Rank|Bot|Rating
 #259|@PROBOT123567|1589
 #260|@Chess_omar_2009|1575
 #261|@Pineapple-Friendly|1569
-#262|@Bottios|1561
-#263|@clementyne1|1558
+#262|@clementyne1|1563
+#263|@Bottios|1561
 #264|@AntarticAnonymous|1553
 #265|@HiddeNL|1551
 #266|@katzebot|1545
@@ -289,8 +289,8 @@ Rank|Bot|Rating
 #287|@MeezKool|1485
 #288|@RSVMentor|1476
 #289|@TheWeakestBot|1476
-#290|@Lancelbot|1471
-#291|@thibot|1470
+#290|@thibot|1470
+#291|@Lancelbot|1466
 #292|@fastandfurious10|1464
 #293|@EDSPBOT|1463
 #294|@Dong_Xiao_Yuan|1454

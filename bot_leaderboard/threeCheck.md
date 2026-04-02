@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@rachl1|1910
 #12|@nickl1bot|1870
 #13|@JemBok|1839
-#14|@clementyne1|1805
+#14|@clementyne1|1816
 #15|@Lancelbot|1690
 #16|@spyros1bot|1658
 #17|@Groot123456|1533

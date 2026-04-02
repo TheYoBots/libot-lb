@@ -368,7 +368,7 @@ Rank|Bot|Rating
 #366|@checkmate-engine|1336
 #367|@IOs_bot|1336
 #368|@Jannik08_fan|1332
-#369|@croco_little_bot|1331
+#369|@croco_little_bot|1330
 #370|@TMFish|1321
 #371|@Awesome32|1316
 #372|@proustagm|1316
@@ -408,8 +408,8 @@ Rank|Bot|Rating
 #406|@szuwar8716|1116
 #407|@AXWChessBot|1096
 #408|@CCI-0|1092
-#409|@grandQ_AI|1083
-#410|@StashBot|1075
+#409|@StashBot|1075
+#410|@grandQ_AI|1073
 #411|@Light_To_The_Rescue|1057
 #412|@KateFish|1027
 #413|@NoQueenBot|1011

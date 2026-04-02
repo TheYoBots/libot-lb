@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2563
+#1|@is_BOSS|2565
 #2|@tbhOnBot|2448
 #3|@DarkOnBot|2404
 #4|@GoblinAjedrezAI|2375
@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@OpeningsBot|1672
 #14|@nickl1bot|1643
 #15|@JemBok|1626
-#16|@clementyne1|1558
-#17|@Lancelbot|1471
+#16|@clementyne1|1563
+#17|@Lancelbot|1466
 #18|@Groot123456|1404
 #19|@spyros1bot|1392
 #20|@pawnrobot|1321

@@ -125,9 +125,9 @@ Rank|Bot|Rating
 #123|@FairyTailRegimeBot|1818
 #124|@TeamChelsie|1818
 #125|@Storm_Shadow2012|1817
-#126|@Chesz_Art|1815
-#127|@ElFinsBoT|1808
-#128|@clementyne1|1805
+#126|@clementyne1|1816
+#127|@Chesz_Art|1815
+#128|@ElFinsBoT|1808
 #129|@pussaW|1785
 #130|@Tacticall_Bot|1779
 #131|@XXXTryandTryXXX|1747

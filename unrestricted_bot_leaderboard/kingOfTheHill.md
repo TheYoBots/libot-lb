@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@FairyTailRegimeBot|1785
 #126|@Nobody11892|1785
 #127|@rachl1|1760
-#128|@clementyne1|1750
+#128|@clementyne1|1759
 #129|@JemBok|1750
 #130|@Viet-BOT|1750
 #131|@nickl1bot|1748
@@ -140,8 +140,8 @@ Rank|Bot|Rating
 #138|@QuickLiquid|1689
 #139|@SCP079|1660
 #140|@chessemkabot|1625
-#141|@Lancelbot|1622
-#142|@CoderDen732|1621
+#141|@CoderDen732|1621
+#142|@Lancelbot|1614
 #143|@Ramses-Chess|1608
 #144|@Breeze-Hot|1606
 #145|@Just-a-random-bot|1604
