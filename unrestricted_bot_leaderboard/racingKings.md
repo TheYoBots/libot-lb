@@ -113,11 +113,11 @@ Rank|Bot|Rating
 #111|@admin-bot|1955
 #112|@MyNameIsSpeedy|1935
 #113|@Pineapple-Friendly|1912
-#114|@Teamleaderbot|1904
-#115|@legendbot1|1893
-#116|@Hagfish|1879
-#117|@HakoAI|1878
-#118|@StockfishLowDepth|1862
+#114|@StockfishLowDepth|1909
+#115|@Teamleaderbot|1904
+#116|@legendbot1|1893
+#117|@Hagfish|1879
+#118|@HakoAI|1878
 #119|@PyChessBot|1847
 #120|@king12345678910BOT|1833
 #121|@cool_boy_bot|1829

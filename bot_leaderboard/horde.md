@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@rachl1|2126
 #16|@JemBok|1994
 #17|@clementyne1|1947
-#18|@pawnrobot|1337
-#19|@hashcake1|1261
-#20|@reaper1bot|1205
+#18|@pawnrobot|1334
+#19|@hashcake1|1264
+#20|@reaper1bot|1212
 #21|@genesis1bot|1095

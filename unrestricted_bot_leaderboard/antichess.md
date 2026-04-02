@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@EstmileBot|2200
 #147|@zipfile_chess-bot|2200
 #148|@HerokuHasnotplay|2196
-#149|@anti-bot|2191
+#149|@anti-bot|2192
 #150|@OpeningsBot|2183
 #151|@Lucror|2178
 #152|@GegeneBOT|2177
@@ -304,8 +304,8 @@ Rank|Bot|Rating
 #302|@GuineaBot3|1297
 #303|@MeetNarangBOT|1287
 #304|@KaTHHHH|1264
-#305|@StockfishLowDepth|1243
-#306|@chicken_farmer|1241
+#305|@chicken_farmer|1241
+#306|@StockfishLowDepth|1239
 #307|@PranavChessBot|1212
 #308|@puisne|1212
 #309|@Toxic_Bot|1202

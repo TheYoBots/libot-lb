@@ -408,7 +408,7 @@ Rank|Bot|Rating
 #406|@szuwar8716|1116
 #407|@AXWChessBot|1096
 #408|@CCI-0|1092
-#409|@grandQ_AI|1085
+#409|@grandQ_AI|1083
 #410|@StashBot|1075
 #411|@Light_To_The_Rescue|1057
 #412|@KateFish|1027
