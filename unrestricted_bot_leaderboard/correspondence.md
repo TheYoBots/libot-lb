@@ -409,7 +409,7 @@ Rank|Bot|Rating
 #407|@AXWChessBot|1096
 #408|@CCI-0|1092
 #409|@StashBot|1075
-#410|@grandQ_AI|1073
+#410|@grandQ_AI|1069
 #411|@Light_To_The_Rescue|1057
 #412|@KateFish|1027
 #413|@NoQueenBot|1011
