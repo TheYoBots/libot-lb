@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2567
+#1|@is_BOSS|2573
 #2|@tbhOnBot|2448
 #3|@DarkOnBot|2404
 #4|@RaspFish|2378
 #5|@GoblinAjedrezAI|2375
 #6|@rascal1|2252
 #7|@beastie1|1988
-#8|@calico1|1979
+#8|@calico1|1982
 #9|@kowalabi|1836
 #10|@QiOui|1826
 #11|@OSaurus|1803
@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Lancelbot|1466
 #18|@Groot123456|1404
 #19|@spyros1bot|1392
-#20|@pawnrobot|1310
+#20|@pawnrobot|1302
 #21|@hashcake1|1255
 #22|@reaper1bot|1205
 #23|@genesis1bot|1202

@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@tbhOnBot|2403
-#2|@RaspFish|2396
-#3|@rascal1|2275
+#2|@RaspFish|2399
+#3|@rascal1|2278
 #4|@OlympusCz|2231
-#5|@beastie1|2211
+#5|@beastie1|2204
 #6|@calico1|2150
 #7|@OSaurus|2100
 #8|@kowalabi|1976
@@ -21,4 +21,4 @@ Rank|Bot|Rating
 #19|@hashcake1|1375
 #20|@reaper1bot|1368
 #21|@genesis1bot|1259
-#22|@pawnrobot|1248
+#22|@pawnrobot|1246
