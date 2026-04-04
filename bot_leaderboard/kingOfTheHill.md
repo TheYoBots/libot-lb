@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@calico1|2051
 #5|@beastie1|2050
 #6|@OSaurus|1964
-#7|@varient-chess-bot1|1923
-#8|@kowalabi|1847
+#7|@varient-chess-bot1|1932
+#8|@kowalabi|1842
 #9|@QiOui|1826
 #10|@OpeningsBot|1812
 #11|@rachl1|1760

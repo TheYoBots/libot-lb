@@ -280,9 +280,9 @@ Rank|Bot|Rating
 #278|@KnightOwlBot|1630
 #279|@Ramses-Chess|1630
 #280|@Bobby_Fischer_BOT|1627
-#281|@katzebot|1627
-#282|@ChessPlayer1225|1624
-#283|@Wirtanen|1620
+#281|@ChessPlayer1225|1624
+#282|@Wirtanen|1620
+#283|@katzebot|1619
 #284|@bestchessbot|1618
 #285|@Rishab_Bindal|1618
 #286|@OverHead_BOT|1615
@@ -408,8 +408,8 @@ Rank|Bot|Rating
 #406|@szuwar8716|1116
 #407|@AXWChessBot|1096
 #408|@CCI-0|1092
-#409|@StashBot|1075
-#410|@grandQ_AI|1060
+#409|@grandQ_AI|1083
+#410|@StashBot|1075
 #411|@Light_To_The_Rescue|1057
 #412|@KateFish|1027
 #413|@NoQueenBot|1011

@@ -10,10 +10,10 @@ Rank|Bot|Rating
 #8|@TheMatrix2029|2866
 #9|@MEGA-NOOB-BOT|2859
 #10|@UltronBot|2859
-#11|@bot1e|2853
-#12|@SF_Bot1nok|2844
-#13|@abdcebot|2831
-#14|@Bot1nokk|2829
+#11|@bot1e|2854
+#12|@SF_Bot1nok|2849
+#13|@Bot1nokk|2831
+#14|@abdcebot|2827
 #15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
 #17|@TacticalBot|2796
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@NienishiEngine|2304
 #122|@BromiumAI|2302
 #123|@EvenMatchup|2302
-#124|@anti-bot|2301
+#124|@anti-bot|2300
 #125|@GodelEscherBot|2284
 #126|@HakoAI|2283
 #127|@Dean_Summer_Bot|2279

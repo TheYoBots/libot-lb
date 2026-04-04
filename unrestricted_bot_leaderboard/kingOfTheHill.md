@@ -96,9 +96,9 @@ Rank|Bot|Rating
 #94|@Resolved-Bot|1942
 #95|@Pineapple-Friendly|1937
 #96|@azdad|1936
-#97|@HyperLitikBOT|1930
-#98|@SacrificialSage|1925
-#99|@varient-chess-bot1|1923
+#97|@varient-chess-bot1|1932
+#98|@HyperLitikBOT|1930
+#99|@SacrificialSage|1925
 #100|@StockfishLowDepth|1919
 #101|@DrSmartBugs|1904
 #102|@Variantenkoning|1892
@@ -110,7 +110,7 @@ Rank|Bot|Rating
 #108|@is_BOSS|1864
 #109|@relevantproblem|1857
 #110|@Botzer|1851
-#111|@kowalabi|1847
+#111|@kowalabi|1842
 #112|@B0T5_RU13|1835
 #113|@QiOui|1826
 #114|@STockfishdestroyBot|1825
