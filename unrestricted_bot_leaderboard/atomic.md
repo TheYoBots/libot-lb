@@ -354,10 +354,10 @@ Rank|Bot|Rating
 #352|@Lozza-Bot|1198
 #353|@ElFinsBoT|1191
 #354|@GuineaBot2|1173
-#355|@clrsrc_lc0|1168
-#356|@Jaymombot|1166
-#357|@SipsonsamsonBOT|1161
-#358|@StockfishLowDepth|1149
+#355|@StockfishLowDepth|1170
+#356|@clrsrc_lc0|1168
+#357|@Jaymombot|1166
+#358|@SipsonsamsonBOT|1161
 #359|@Happy_One|1138
 #360|@Pawn_Stormer_D4|1124
 #361|@the_nicholas_bot|1110

@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@icbmsaregoated2|2614
 #7|@GoblinAjedrezAI|2601
 #8|@tbhOnBot|2520
-#9|@anti-bot|2300
+#9|@anti-bot|2351
 #10|@OpeningsBot|2183
 #11|@pawnrobot|1914
 #12|@StockfishLowDepth|1239

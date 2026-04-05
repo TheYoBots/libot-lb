@@ -22,4 +22,4 @@ Rank|Bot|Rating
 #20|@hashcake1|1255
 #21|@reaper1bot|1205
 #22|@genesis1bot|1202
-#23|@StockfishLowDepth|1149
+#23|@StockfishLowDepth|1170

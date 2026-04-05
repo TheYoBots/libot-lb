@@ -44,12 +44,12 @@ Rank|Bot|Rating
 #42|@UltronBot|2199
 #43|@GoblinAjedrezAI|2185
 #44|@FayEFish|2172
-#45|@varient-chess-bot1|2165
+#45|@kowalabi|2168
 #46|@Trumpfor2O2O|2162
-#47|@kowalabi|2160
-#48|@ResoluteBot|2155
-#49|@DarkOnBot|2154
-#50|@tbhOnBot|2153
+#47|@ResoluteBot|2155
+#48|@DarkOnBot|2154
+#49|@tbhOnBot|2153
+#50|@varient-chess-bot1|2153
 #51|@Karpov_bot|2145
 #52|@Bobby_Fischer_BOT|2136
 #53|@TheMatrix2025|2132
