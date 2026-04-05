@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@MEGA-NOOB-BOT|2859
 #10|@UltronBot|2859
 #11|@bot1e|2854
-#12|@SF_Bot1nok|2849
-#13|@Bot1nokk|2831
-#14|@abdcebot|2827
+#12|@SF_Bot1nok|2845
+#13|@abdcebot|2841
+#14|@Bot1nokk|2828
 #15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
 #17|@TacticalBot|2796
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Less_of_a_threat|2357
 #112|@Viet_BOT|2354
 #113|@higuyuu67776|2352
-#114|@anti-bot|2351
+#114|@anti-bot|2350
 #115|@Karpov_bot|2335
 #116|@TeamChelsie|2331
 #117|@AI69|2312

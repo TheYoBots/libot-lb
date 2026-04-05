@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2574
+#1|@is_BOSS|2583
 #2|@tbhOnBot|2448
 #3|@RaspFish|2377
 #4|@GoblinAjedrezAI|2375
@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Lancelbot|1466
 #17|@Groot123456|1404
 #18|@spyros1bot|1392
-#19|@pawnrobot|1302
+#19|@pawnrobot|1290
 #20|@hashcake1|1255
 #21|@reaper1bot|1205
 #22|@genesis1bot|1202

@@ -92,7 +92,7 @@ Rank|Bot|Rating
 #90|@OSaurus|1964
 #91|@Lila-Stockfish|1963
 #92|@PyChessBot|1957
-#93|@varient-chess-bot1|1953
+#93|@varient-chess-bot1|1957
 #94|@abhisun_bot|1947
 #95|@Resolved-Bot|1942
 #96|@Pineapple-Friendly|1937
@@ -126,8 +126,8 @@ Rank|Bot|Rating
 #124|@AnUtterlyKarBot|1796
 #125|@FairyTailRegimeBot|1785
 #126|@Nobody11892|1785
-#127|@rachl1|1760
-#128|@clementyne1|1759
+#127|@clementyne1|1768
+#128|@rachl1|1760
 #129|@JemBok|1750
 #130|@Viet-BOT|1750
 #131|@nickl1bot|1748
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@Just-a-random-bot|1604
 #146|@MMC_HUANGBAI|1569
 #147|@Epiano_Bot|1567
-#148|@spyros1bot|1561
+#148|@spyros1bot|1564
 #149|@Toxic_Bot|1541
 #150|@SXDEFENDER|1534
 #151|@Light_To_The_Rescue|1523
@@ -180,8 +180,8 @@ Rank|Bot|Rating
 #178|@allvariants|1348
 #179|@BinaryBrain|1341
 #180|@hashcake1|1326
-#181|@DavidsGuterBot|1324
-#182|@reaper1bot|1321
+#181|@reaper1bot|1321
+#182|@DavidsGuterBot|1317
 #183|@THEANDROIDBOT|1317
 #184|@Challengeme2anything|1307
 #185|@Hand_coded_ai_90565|1292

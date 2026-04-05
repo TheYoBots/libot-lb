@@ -77,8 +77,8 @@ Rank|Bot|Rating
 #75|@Magnus-BOT|2084
 #76|@Stockfish-MEDIUM|2080
 #77|@Bullet_bot_0526|2077
-#78|@varient-chess-bot1|2077
-#79|@Xerus_1|2070
+#78|@Xerus_1|2070
+#79|@varient-chess-bot1|2065
 #80|@ROBOT_RANDEER2007|2059
 #81|@Galaxy_Guardian|2041
 #82|@Official_bot|2041
@@ -137,9 +137,9 @@ Rank|Bot|Rating
 #135|@Crepusculum|1724
 #136|@SUMEETTHEPRO|1708
 #137|@Yemmi-Yemmi|1702
-#138|@Lancelbot|1690
+#138|@Lancelbot|1694
 #139|@clueless-bot|1685
-#140|@spyros1bot|1658
+#140|@spyros1bot|1661
 #141|@NormalBulletBot|1657
 #142|@Bottios|1643
 #143|@the_checkmating_bot|1643
@@ -175,8 +175,8 @@ Rank|Bot|Rating
 #173|@BKriviBOT|1427
 #174|@Kyle_0111|1421
 #175|@azdad|1420
-#176|@DavidsGuterBot|1414
-#177|@Peaceful4Life|1412
+#176|@Peaceful4Life|1412
+#177|@DavidsGuterBot|1403
 #178|@Blazum|1398
 #179|@Nithin-das|1397
 #180|@RochadeSchachzeitung|1392
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@Parth_Dhage_2|1258
 #197|@MyNameIsWhatLOL|1256
 #198|@SneakyBot21|1256
-#199|@pawnrobot|1246
+#199|@pawnrobot|1243
 #200|@TORTADEMANZANA023|1233
 #201|@heatseeker223|1191
 #202|@admin-bot|1188

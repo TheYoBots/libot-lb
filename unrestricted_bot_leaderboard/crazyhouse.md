@@ -82,9 +82,9 @@ Rank|Bot|Rating
 #80|@TheMatrix2025|2142
 #81|@CloudBot_v2|2131
 #82|@HIWIN1234|2123
-#83|@TestingBot1|2118
-#84|@Johnsun|2113
-#85|@varient-chess-bot1|2112
+#83|@varient-chess-bot1|2120
+#84|@TestingBot1|2118
+#85|@Johnsun|2113
 #86|@NewChessEngine-ai|2110
 #87|@SixtyFourEngine|2089
 #88|@relevantproblem|2077
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@mrchessmanager|1962
 #108|@Hyper-Stockfish|1947
 #109|@PolyBOT|1945
-#110|@clementyne1|1922
+#110|@clementyne1|1924
 #111|@AndromedaSX1|1919
 #112|@Lili-ai|1911
 #113|@Dean_Summer_Bot|1898
@@ -141,11 +141,11 @@ Rank|Bot|Rating
 #139|@Lila-Stockfish|1761
 #140|@virus_exe-bot|1744
 #141|@Giphy_Logo|1741
-#142|@Lancelbot|1741
-#143|@sauwkhamari|1741
-#144|@TJchessBot|1741
+#142|@sauwkhamari|1741
+#143|@TJchessBot|1741
+#144|@Lancelbot|1739
 #145|@SacrificialSage|1733
-#146|@spyros1bot|1719
+#146|@spyros1bot|1717
 #147|@Lili-Variants|1698
 #148|@Lightning_SpeedChess|1696
 #149|@B0T5_RU13|1683

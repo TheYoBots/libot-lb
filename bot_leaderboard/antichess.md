@@ -2,13 +2,13 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2956
 #2|@bot1e|2854
-#3|@SF_Bot1nok|2849
-#4|@Bot1nokk|2831
-#5|@abdcebot|2827
+#3|@SF_Bot1nok|2845
+#4|@abdcebot|2841
+#5|@Bot1nokk|2828
 #6|@icbmsaregoated2|2614
 #7|@GoblinAjedrezAI|2601
 #8|@tbhOnBot|2520
-#9|@anti-bot|2351
+#9|@anti-bot|2350
 #10|@OpeningsBot|2183
 #11|@pawnrobot|1914
 #12|@StockfishLowDepth|1239
