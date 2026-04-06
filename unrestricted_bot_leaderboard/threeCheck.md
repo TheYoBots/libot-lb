@@ -38,10 +38,10 @@ Rank|Bot|Rating
 #36|@Bot1nokk|2350
 #37|@DarkOnBot|2346
 #38|@Zer0_Tw0|2332
-#39|@SF_Bot1nok|2314
-#40|@colinbot|2309
-#41|@rascal1|2309
-#42|@LudwigBOT|2304
+#39|@colinbot|2309
+#40|@rascal1|2309
+#41|@LudwigBOT|2304
+#42|@SF_Bot1nok|2302
 #43|@lord-bot|2300
 #44|@Worst-ai|2296
 #45|@KingfishX|2285

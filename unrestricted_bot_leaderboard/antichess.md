@@ -10,11 +10,11 @@ Rank|Bot|Rating
 #8|@TheMatrix2029|2866
 #9|@MEGA-NOOB-BOT|2859
 #10|@UltronBot|2859
-#11|@bot1e|2854
-#12|@SF_Bot1nok|2845
-#13|@abdcebot|2841
-#14|@Bot1nokk|2828
-#15|@TorBot|2824
+#11|@abdcebot|2858
+#12|@bot1e|2854
+#13|@SF_Bot1nok|2842
+#14|@TorBot|2824
+#15|@Bot1nokk|2820
 #16|@WennDieSoldatBOT|2818
 #17|@TacticalBot|2796
 #18|@lord-bot|2789
@@ -113,8 +113,8 @@ Rank|Bot|Rating
 #111|@Less_of_a_threat|2357
 #112|@Viet_BOT|2354
 #113|@higuyuu67776|2352
-#114|@anti-bot|2339
-#115|@Karpov_bot|2335
+#114|@Karpov_bot|2335
+#115|@anti-bot|2333
 #116|@TeamChelsie|2331
 #117|@AI69|2312
 #118|@NewChessEngine-ai|2309
@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@antichesssss|1964
 #170|@Menganti|1963
 #171|@CloudBOT|1950
-#172|@pawnrobot|1914
+#172|@pawnrobot|1919
 #173|@TestingBot1|1914
 #174|@Crepusculum|1881
 #175|@NoTallkOnlyGames|1871

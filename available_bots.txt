@@ -2829,6 +2829,7 @@ silverfishengine
 simbelmyne-bot
 simintel
 simpafteur
+simple-bot
 simple_bot_lt
 simplechessengine
 simpleeval
@@ -3575,4 +3576,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-simple-bot
