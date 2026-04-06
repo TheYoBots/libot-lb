@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Less_of_a_threat|2357
 #112|@Viet_BOT|2354
 #113|@higuyuu67776|2352
-#114|@anti-bot|2350
+#114|@anti-bot|2339
 #115|@Karpov_bot|2335
 #116|@TeamChelsie|2331
 #117|@AI69|2312
