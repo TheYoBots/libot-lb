@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@ToromBot|2711
 #12|@DarkOnBot|2704
 #13|@PepsiForAll|2702
-#14|@RaspFish|2701
-#15|@GilgameshTheBot|2697
+#14|@GilgameshTheBot|2697
+#15|@RaspFish|2690
 #16|@Fairy_Belzedar|2683
 #17|@tbhOnBot|2675
 #18|@ResoluteBot|2668
@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@GoblinAjedrezAI|2383
 #44|@TacticalBot|2373
 #45|@EagleEye2021|2365
-#46|@beastie1|2356
+#46|@beastie1|2364
 #47|@KingfishX|2347
 #48|@Worst-ai|2346
 #49|@chesshyperbot|2344
@@ -241,7 +241,7 @@ Rank|Bot|Rating
 #239|@BSergey11-BOT|1149
 #240|@K_Shi_Bot|1149
 #241|@TeamChelsie|1125
-#242|@genesis1bot|1120
+#242|@genesis1bot|1122
 #243|@kazakhfirstbot|1119
 #244|@apollo_bot|1106
 #245|@BogoBot|1099
@@ -252,7 +252,7 @@ Rank|Bot|Rating
 #250|@Magic11bot_Coach|1001
 #251|@JPSBOT|958
 #252|@FireTorchV2|955
-#253|@pawnrobot|875
+#253|@pawnrobot|884
 #254|@RSVMentor|862
 #255|@GuineaBot3|845
 #256|@MateCheckCapture|828

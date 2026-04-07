@@ -5,7 +5,6 @@ Rank|Bot|Rating
 #3|@bot1e|2854
 #4|@SF_Bot1nok|2842
 #5|@Bot1nokk|2820
-#6|@anti-bot|2333
-#7|@OpeningsBot|2183
-#8|@pawnrobot|1919
-#9|@StockfishLowDepth|1239
+#6|@anti-bot|2326
+#7|@pawnrobot|1923
+#8|@StockfishLowDepth|1274

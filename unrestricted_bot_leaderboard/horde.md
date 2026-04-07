@@ -6,10 +6,10 @@ Rank|Bot|Rating
 #4|@Coolman2021|2757
 #5|@Magicianrobot|2741
 #6|@FireFishBOT|2726
-#7|@RaspFish|2705
-#8|@PepsiForAll|2699
-#9|@ToromBot|2692
-#10|@rascal1|2593
+#7|@ToromBot|2712
+#8|@RaspFish|2710
+#9|@PepsiForAll|2699
+#10|@rascal1|2588
 #11|@ttBOT|2584
 #12|@compchess2|2579
 #13|@Lili-ai|2572
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@lord-bot|2362
 #24|@Hyper-Stockfish|2358
 #25|@Bullet_bot_0526|2344
-#26|@beastie1|2330
+#26|@beastie1|2329
 #27|@eNErGyOFbEiNGbOT|2326
 #28|@Alexnajax_Fan|2316
 #29|@AlfaBot|2293
@@ -174,7 +174,7 @@ Rank|Bot|Rating
 #172|@Toxic_Bot|1352
 #173|@DespacitoBot|1345
 #174|@weaklean|1338
-#175|@pawnrobot|1321
+#175|@pawnrobot|1317
 #176|@BinaryBrain|1299
 #177|@Nicholaswb_BOT|1288
 #178|@AEBROADUSBOTTER|1279
@@ -197,7 +197,7 @@ Rank|Bot|Rating
 #195|@ZX-Chess|1145
 #196|@duythong1402|1120
 #197|@fairy-vvrr|1102
-#198|@genesis1bot|1092
+#198|@genesis1bot|1101
 #199|@alvin-chess-bot|1091
 #200|@MontyPythonFlying|1037
 #201|@FireTorchV2|1011

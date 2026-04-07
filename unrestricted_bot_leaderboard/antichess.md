@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@Viet_BOT|2354
 #113|@higuyuu67776|2352
 #114|@Karpov_bot|2335
-#115|@anti-bot|2333
-#116|@TeamChelsie|2331
+#115|@TeamChelsie|2331
+#116|@anti-bot|2326
 #117|@AI69|2312
 #118|@NewChessEngine-ai|2309
 #119|@Kizburb|2307
@@ -171,7 +171,7 @@ Rank|Bot|Rating
 #169|@antichesssss|1964
 #170|@Menganti|1963
 #171|@CloudBOT|1950
-#172|@pawnrobot|1919
+#172|@pawnrobot|1923
 #173|@TestingBot1|1914
 #174|@Crepusculum|1881
 #175|@NoTallkOnlyGames|1871
@@ -302,9 +302,9 @@ Rank|Bot|Rating
 #300|@Official_bot|1301
 #301|@GuineaBot3|1297
 #302|@MeetNarangBOT|1287
-#303|@KaTHHHH|1264
-#304|@chicken_farmer|1241
-#305|@StockfishLowDepth|1239
+#303|@StockfishLowDepth|1274
+#304|@KaTHHHH|1264
+#305|@chicken_farmer|1241
 #306|@PranavChessBot|1212
 #307|@puisne|1212
 #308|@Toxic_Bot|1202
