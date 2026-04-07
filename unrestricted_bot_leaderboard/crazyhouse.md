@@ -22,12 +22,12 @@ Rank|Bot|Rating
 #20|@PumpkinLatteBob|2658
 #21|@rascal1|2652
 #22|@ibep|2633
-#23|@SF_Bot1nok|2631
+#23|@SF_Bot1nok|2633
 #24|@bot1e|2616
 #25|@SkyBlaster|2614
 #26|@colinbot|2612
-#27|@Xerus_1|2611
-#28|@Bot1nokk|2608
+#27|@Bot1nokk|2611
+#28|@Xerus_1|2611
 #29|@Iwantedtoplaychess|2600
 #30|@EmptikVariantsBot|2548
 #31|@BotSuxX|2538
@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@catalanbotI|2307
 #53|@Yemmi-Yemmi|2305
 #54|@Bot_Mittens|2303
-#55|@calico1|2293
-#56|@OlympusCz|2292
+#55|@OlympusCz|2292
+#56|@calico1|2289
 #57|@iplayonlyrandom|2282
 #58|@NormalBlitzBulletBot|2278
 #59|@MalanChess|2273

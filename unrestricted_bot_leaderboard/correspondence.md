@@ -161,9 +161,9 @@ Rank|Bot|Rating
 #159|@ZE_ROOK|1938
 #160|@Los-Guerreros1|1935
 #161|@TheLegendaryKnight|1935
-#162|@GarboBot|1934
-#163|@chicken_farmer|1926
-#164|@grindle_x_bot1|1924
+#162|@chicken_farmer|1926
+#163|@grindle_x_bot1|1924
+#164|@GarboBot|1922
 #165|@yowCapablanca|1914
 #166|@Jibbby|1905
 #167|@RadianceEngine|1903

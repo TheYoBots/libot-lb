@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@RaspFish|2386
 #2|@rascal1|2383
 #3|@beastie1|2062
-#4|@calico1|2036
+#4|@calico1|2034
 #5|@OSaurus|1973
 #6|@varient-chess-bot1|1957
 #7|@kowalabi|1843

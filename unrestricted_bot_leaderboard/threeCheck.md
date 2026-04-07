@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@ttBOT|2461
 #29|@TheMatrix2029|2448
 #30|@faith_bot|2447
-#31|@RaspFish|2406
+#31|@RaspFish|2409
 #32|@ToromBot|2405
 #33|@tbhOnBot|2403
 #34|@GoblinAjedrezAI|2371
@@ -67,8 +67,8 @@ Rank|Bot|Rating
 #65|@gage12_bot|2140
 #66|@Bobby_Fischer_BOT|2138
 #67|@abhisun_bot|2129
-#68|@calico1|2125
-#69|@NienishiEngine|2124
+#68|@NienishiEngine|2124
+#69|@calico1|2123
 #70|@is_BOSS|2119
 #71|@AnUtterlyKarBot|2103
 #72|@OSaurus|2103

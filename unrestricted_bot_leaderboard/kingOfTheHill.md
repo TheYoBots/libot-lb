@@ -25,9 +25,9 @@ Rank|Bot|Rating
 #23|@FayEFish|2317
 #24|@Viet-AI|2317
 #25|@Fairy_Belzedar|2316
-#26|@SF_Bot1nok|2301
-#27|@GoblinAjedrezAI|2299
-#28|@Bot1nokk|2295
+#26|@Bot1nokk|2302
+#27|@SF_Bot1nok|2301
+#28|@GoblinAjedrezAI|2299
 #29|@MalanChess|2292
 #30|@LudwigBOT|2281
 #31|@HIWIN1234|2274
@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@beastie1|2062
 #69|@NewChessEngine-ai|2046
 #70|@Hyper-Stockfish|2044
-#71|@calico1|2036
-#72|@Kizbuurb|2035
+#71|@Kizbuurb|2035
+#72|@calico1|2034
 #73|@CloudBot_v2|2027
 #74|@Lili-ai|2027
 #75|@faith_bot|2026
