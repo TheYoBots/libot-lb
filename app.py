@@ -36,6 +36,10 @@ def unrestricted():
 def botsearch():
     return send_file('static/html/BotRank.html')
 
+@app.route('/rules')
+def rules():
+    return send_file('static/html/Rules.html')
+
 @app.route('/available_bots.txt')
 def available_bots_file():
     return send_file('available_bots.txt')

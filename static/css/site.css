@@ -197,6 +197,29 @@ h1{margin:0 0 12px 0;font-size:1.6rem}
     #themeToggle{backdrop-filter:none}
 }
 
+.rules-content {
+    margin-top: 24px;
+}
+
+.rules-list {
+    margin-left: 20px;
+    line-height: 1.8;
+}
+
+.rules-list li {
+    margin-bottom: 16px;
+    color: var(--text);
+}
+
+.rules-list a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.rules-list a:hover {
+    text-decoration: underline;
+}
+
 .loader {
     border: 4px solid rgba(0,0,0,0.08);
     border-top: 4px solid var(--accent);
