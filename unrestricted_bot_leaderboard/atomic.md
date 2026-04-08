@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@mrchessmanager|2369
 #41|@Stockfish-MEDIUM|2366
 #42|@Resolved-Bot|2363
-#43|@NewChessEngine-ai|2361
-#44|@RaspFish|2360
+#43|@RaspFish|2362
+#44|@NewChessEngine-ai|2361
 #45|@CloudBot_v2|2357
 #46|@faith_bot|2353
 #47|@Lila-Stockfish|2350
@@ -51,9 +51,9 @@ Rank|Bot|Rating
 #49|@Viet-BOT|2349
 #50|@NormalBlitzBulletBot|2347
 #51|@HyperLitikBOT|2341
-#52|@LudwigBOT|2339
-#53|@NotNateBot|2336
-#54|@ToromBot|2336
+#52|@ToromBot|2341
+#53|@LudwigBOT|2339
+#54|@NotNateBot|2336
 #55|@The-Fastest-Bot|2314
 #56|@Alehkine_cat|2312
 #57|@Team_bot_08512|2307
@@ -149,9 +149,9 @@ Rank|Bot|Rating
 #147|@Zer0_Tw0|1991
 #148|@BigBrainen|1984
 #149|@HakoAI|1983
-#150|@beastie1|1976
-#151|@relevantproblem|1976
-#152|@All_Except_Chess960|1975
+#150|@relevantproblem|1976
+#151|@All_Except_Chess960|1975
+#152|@beastie1|1974
 #153|@Sub_Bot|1974
 #154|@VariantsTop|1974
 #155|@calico1|1970

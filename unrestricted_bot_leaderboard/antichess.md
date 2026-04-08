@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@Less_of_a_threat|2357
 #112|@Viet_BOT|2354
 #113|@higuyuu67776|2352
-#114|@anti-bot|2341
+#114|@anti-bot|2344
 #115|@Karpov_bot|2335
 #116|@TeamChelsie|2331
 #117|@AI69|2312
@@ -302,9 +302,9 @@ Rank|Bot|Rating
 #300|@Official_bot|1301
 #301|@GuineaBot3|1297
 #302|@MeetNarangBOT|1287
-#303|@StockfishLowDepth|1274
-#304|@KaTHHHH|1264
-#305|@chicken_farmer|1241
+#303|@KaTHHHH|1264
+#304|@chicken_farmer|1241
+#305|@StockfishLowDepth|1215
 #306|@PranavChessBot|1212
 #307|@puisne|1212
 #308|@Toxic_Bot|1202

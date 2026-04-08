@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@DarkOnBot|2704
 #13|@PepsiForAll|2702
 #14|@GilgameshTheBot|2697
-#15|@RaspFish|2690
+#15|@RaspFish|2692
 #16|@Fairy_Belzedar|2683
 #17|@tbhOnBot|2675
 #18|@ResoluteBot|2668
@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@GoblinAjedrezAI|2383
 #44|@TacticalBot|2373
 #45|@EagleEye2021|2365
-#46|@beastie1|2364
+#46|@beastie1|2362
 #47|@KingfishX|2347
 #48|@Worst-ai|2346
 #49|@chesshyperbot|2344

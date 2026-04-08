@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@ttBOT|2461
 #29|@TheMatrix2029|2448
 #30|@faith_bot|2447
-#31|@RaspFish|2409
+#31|@RaspFish|2412
 #32|@ToromBot|2405
 #33|@tbhOnBot|2403
 #34|@GoblinAjedrezAI|2371
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@Kizburb|2214
 #55|@xiang-qi|2207
 #56|@YellowFlash_v2|2200
-#57|@beastie1|2198
+#57|@beastie1|2196
 #58|@DeepFriedFish|2185
 #59|@virus_exe-bot|2180
 #60|@ReallyCrazyBOT|2172
