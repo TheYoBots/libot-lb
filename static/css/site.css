@@ -184,6 +184,9 @@ h1{margin:0 0 12px 0;font-size:1.6rem}
     color:var(--muted);
     font-size:0.95rem;
 }
+.page-footer p{
+    margin:0;
+}
 .github-logo{width:1.4em;vertical-align:middle;margin-right:8px}
 @media (max-width:520px){
     .card{padding:18px}
