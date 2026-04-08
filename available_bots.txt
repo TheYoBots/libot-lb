@@ -527,6 +527,7 @@ bottyfischer
 bottytwins1516
 botvinnik808
 botvminic
+botwilsonator
 botworld
 botxx
 botyuliirma
@@ -1355,6 +1356,7 @@ great_bot_7
 greece_bot
 greek_trainingbot
 green_tea_ice_cream
+greenteatree
 greg0lord-bot
 greko-bot
 grey_wolf3000
@@ -3576,5 +3578,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-botwilsonator
-greenteatree

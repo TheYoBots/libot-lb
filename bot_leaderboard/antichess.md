@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2956
-#2|@abdcebot|2856
-#3|@bot1e|2850
-#4|@SF_Bot1nok|2842
-#5|@Bot1nokk|2830
-#6|@anti-bot|2344
+#1|@ToromBot|2932
+#2|@bot1e|2863
+#3|@SF_Bot1nok|2850
+#4|@abdcebot|2844
+#5|@Bot1nokk|2834
+#6|@anti-bot|2343
 #7|@pawnrobot|1923
 #8|@StockfishLowDepth|1215

@@ -10,10 +10,10 @@ Rank|Bot|Rating
 #8|@ToromBot|2430
 #9|@DarkOnBot|2416
 #10|@Peaceful4Life|2390
-#11|@Corvus-1|2386
-#12|@RaspFish|2386
+#11|@rascal1|2389
+#12|@Corvus-1|2386
 #13|@FireFishBOT|2385
-#14|@rascal1|2383
+#14|@RaspFish|2379
 #15|@tbhOnBot|2379
 #16|@Coolman2021|2378
 #17|@chessbot2880|2377
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@Sanjana_Kambala-BOT|1355
 #177|@VedanthS-Bot|1353
 #178|@allvariants|1348
-#179|@hashcake1|1343
+#179|@hashcake1|1345
 #180|@BinaryBrain|1341
 #181|@DavidsGuterBot|1337
 #182|@THEANDROIDBOT|1317
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@TrashBot|1168
 #197|@shakboy9824453231op|1152
 #198|@pawnrobot|1138
-#199|@genesis1bot|1132
+#199|@genesis1bot|1128
 #200|@GuineaBot3|1121
 #201|@DespacitoBot|1094
 #202|@ZokBot|1076

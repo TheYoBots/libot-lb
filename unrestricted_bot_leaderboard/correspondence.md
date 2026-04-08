@@ -327,11 +327,11 @@ Rank|Bot|Rating
 #325|@GeraldBOT|1499
 #326|@ZokBot|1498
 #327|@melsh_bot|1494
-#328|@EdwardKillick|1492
-#329|@akshadlawanibot|1490
-#330|@Stockfish_i7|1490
-#331|@CosmicEbony|1485
-#332|@Jwsus|1485
+#328|@akshadlawanibot|1490
+#329|@Stockfish_i7|1490
+#330|@CosmicEbony|1485
+#331|@Jwsus|1485
+#332|@EdwardKillick|1483
 #333|@PolyBOT|1481
 #334|@HerathHerath|1477
 #335|@YagizTurkiyeBOT|1476
@@ -409,8 +409,8 @@ Rank|Bot|Rating
 #407|@AXWChessBot|1096
 #408|@grandQ_AI|1083
 #409|@StashBot|1075
-#410|@CCI-0|1074
-#411|@Light_To_The_Rescue|1057
+#410|@Light_To_The_Rescue|1057
+#411|@CCI-0|1044
 #412|@KateFish|1027
 #413|@NoQueenBot|1011
 #414|@B4ux1t3s-Bot|998
