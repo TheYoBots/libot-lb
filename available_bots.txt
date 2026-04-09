@@ -2849,6 +2849,7 @@ sisyphus-engine
 sitrik_asit
 sixteen-sixty
 sixtyfourengine
+sj_norbot
 skakoengine
 skiazbot
 skiullofficial
@@ -3279,6 +3280,7 @@ tungmanhgiang020709
 tunguska_br
 turaatomicabot
 turan_unification
+turk_gambit
 turkbot3
 turkish_bot
 turkishbaklava
@@ -3578,5 +3580,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sj_norbot
-turk_gambit

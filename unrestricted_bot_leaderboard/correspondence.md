@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@TheLegendaryKnight|1935
 #162|@chicken_farmer|1926
 #163|@grindle_x_bot1|1924
-#164|@GarboBot|1921
+#164|@GarboBot|1920
 #165|@yowCapablanca|1914
 #166|@Jibbby|1905
 #167|@RadianceEngine|1903
@@ -413,9 +413,9 @@ Rank|Bot|Rating
 #411|@KateFish|1027
 #412|@NoQueenBot|1011
 #413|@B4ux1t3s-Bot|998
-#414|@CCI-0|996
-#415|@mustaley|973
-#416|@BerserkRandomMover|963
+#414|@mustaley|973
+#415|@BerserkRandomMover|963
+#416|@CCI-0|961
 #417|@G0thamB0t|954
 #418|@GuineaBot|866
 #419|@BogoBot|865
