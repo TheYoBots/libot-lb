@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@is_BOSS|2577
-#2|@RaspFish|2371
-#3|@rascal1|2282
+#2|@RaspFish|2364
+#3|@rascal1|2274
 #4|@beastie1|1974
 #5|@calico1|1970
 #6|@OSaurus|1895
@@ -18,4 +18,4 @@ Rank|Bot|Rating
 #16|@hashcake1|1251
 #17|@reaper1bot|1246
 #18|@genesis1bot|1211
-#19|@StockfishLowDepth|1165
+#19|@StockfishLowDepth|1183

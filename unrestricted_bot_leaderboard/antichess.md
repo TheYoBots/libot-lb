@@ -113,9 +113,9 @@ Rank|Bot|Rating
 #111|@Less_of_a_threat|2357
 #112|@Viet_BOT|2354
 #113|@higuyuu67776|2352
-#114|@anti-bot|2343
-#115|@Karpov_bot|2335
-#116|@TeamChelsie|2331
+#114|@Karpov_bot|2335
+#115|@TeamChelsie|2331
+#116|@anti-bot|2314
 #117|@AI69|2312
 #118|@NewChessEngine-ai|2309
 #119|@Kizburb|2307

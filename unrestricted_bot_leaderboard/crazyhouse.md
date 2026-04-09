@@ -14,13 +14,13 @@ Rank|Bot|Rating
 #12|@DarkOnBot|2704
 #13|@PepsiForAll|2702
 #14|@GilgameshTheBot|2697
-#15|@RaspFish|2690
+#15|@RaspFish|2688
 #16|@Fairy_Belzedar|2683
 #17|@tbhOnBot|2675
 #18|@ResoluteBot|2668
 #19|@icbmsaregoated2|2664
 #20|@PumpkinLatteBob|2658
-#21|@rascal1|2641
+#21|@rascal1|2643
 #22|@SF_Bot1nok|2634
 #23|@ibep|2633
 #24|@bot1e|2625
@@ -202,8 +202,8 @@ Rank|Bot|Rating
 #200|@Itzmoi6g19|1425
 #201|@xDmanBOT|1419
 #202|@chess-trainer-bot|1417
-#203|@hashcake1|1411
-#204|@Wayang|1411
+#203|@Wayang|1411
+#204|@hashcake1|1404
 #205|@cool_boy_bot|1398
 #206|@Classic_BOT-v2|1392
 #207|@reaper1bot|1390
