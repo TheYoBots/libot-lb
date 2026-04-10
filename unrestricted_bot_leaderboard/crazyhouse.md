@@ -21,11 +21,11 @@ Rank|Bot|Rating
 #19|@ResoluteBot|2668
 #20|@icbmsaregoated2|2664
 #21|@PumpkinLatteBob|2658
-#22|@rascal1|2645
+#22|@Bot1nokk|2641
 #23|@SF_Bot1nok|2634
 #24|@ibep|2633
-#25|@bot1e|2625
-#26|@Bot1nokk|2622
+#25|@rascal1|2633
+#26|@bot1e|2625
 #27|@SkyBlaster|2614
 #28|@colinbot|2612
 #29|@Xerus_1|2611

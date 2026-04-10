@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@is_BOSS|2577
 #2|@rascal1|2277
-#3|@RaspFish|2079
+#3|@RaspFish|2028
 #4|@beastie1|1991
 #5|@calico1|1967
 #6|@OSaurus|1878
