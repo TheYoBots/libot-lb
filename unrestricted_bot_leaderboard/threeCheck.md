@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@LudwigBOT|2304
 #41|@SF_Bot1nok|2302
 #42|@lord-bot|2300
-#43|@rascal1|2296
-#44|@Worst-ai|2296
+#43|@Worst-ai|2296
+#44|@rascal1|2289
 #45|@KingfishX|2285
 #46|@The-Fastest-Bot|2277
 #47|@CocopikachuBOT|2274
@@ -54,9 +54,9 @@ Rank|Bot|Rating
 #52|@OlympusCz|2231
 #53|@Vinh_VariantsBot|2215
 #54|@Kizburb|2214
-#55|@xiang-qi|2207
-#56|@YellowFlash_v2|2200
-#57|@beastie1|2196
+#55|@beastie1|2208
+#56|@xiang-qi|2207
+#57|@YellowFlash_v2|2200
 #58|@DeepFriedFish|2185
 #59|@virus_exe-bot|2180
 #60|@ReallyCrazyBOT|2172
@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@calico1|2123
 #70|@is_BOSS|2119
 #71|@AnUtterlyKarBot|2103
-#72|@OSaurus|2103
-#73|@Lili-ai|2099
+#72|@Lili-ai|2099
+#73|@OSaurus|2099
 #74|@Dean_Summer_Bot|2086
 #75|@Magnus-BOT|2084
 #76|@Stockfish-MEDIUM|2080
@@ -120,8 +120,8 @@ Rank|Bot|Rating
 #118|@HumanBOT_lv1929|1844
 #119|@szuwar8716|1844
 #120|@B0T5_RU13|1841
-#121|@Pineapple-Friendly|1837
-#122|@clementyne1|1832
+#121|@clementyne1|1837
+#122|@Pineapple-Friendly|1837
 #123|@CloudBotZero|1818
 #124|@FairyTailRegimeBot|1818
 #125|@TeamChelsie|1818
@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@No_Username2|1741
 #134|@NotNateBot|1731
 #135|@Crepusculum|1724
-#136|@SUMEETTHEPRO|1708
-#137|@Lancelbot|1704
+#136|@Lancelbot|1716
+#137|@SUMEETTHEPRO|1708
 #138|@Yemmi-Yemmi|1702
 #139|@clueless-bot|1685
 #140|@spyros1bot|1664

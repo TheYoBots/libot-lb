@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@MyNameIsSpeedy|1935
 #113|@Pineapple-Friendly|1912
 #114|@Teamleaderbot|1904
-#115|@StockfishLowDepth|1894
-#116|@legendbot1|1893
+#115|@legendbot1|1893
+#116|@StockfishLowDepth|1890
 #117|@Hagfish|1879
 #118|@HakoAI|1878
 #119|@PyChessBot|1847
