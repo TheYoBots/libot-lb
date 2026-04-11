@@ -381,9 +381,9 @@ Rank|Bot|Rating
 #379|@Gravy1|1294
 #380|@czesc-bot|1291
 #381|@Kapablanca_balls|1291
-#382|@croco_little_bot|1285
-#383|@kidobot2911|1284
-#384|@TORTADEMANZANA023|1272
+#382|@kidobot2911|1284
+#383|@TORTADEMANZANA023|1272
+#384|@croco_little_bot|1269
 #385|@Blasting4|1258
 #386|@CheakyKoala|1258
 #387|@johnwick_babayoga|1258
@@ -416,6 +416,6 @@ Rank|Bot|Rating
 #414|@mustaley|973
 #415|@BerserkRandomMover|963
 #416|@G0thamB0t|954
-#417|@CCI-0|950
+#417|@CCI-0|940
 #418|@GuineaBot|866
 #419|@BogoBot|865

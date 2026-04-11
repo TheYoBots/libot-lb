@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@abdcebot|2855
 #4|@bot1e|2843
 #5|@Bot1nokk|2843
-#6|@anti-bot|2281
+#6|@anti-bot|2262
 #7|@OpeningsBot|2183
 #8|@pawnrobot|1923
 #9|@StockfishLowDepth|1254

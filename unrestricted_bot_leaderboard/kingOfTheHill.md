@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@Jussicas|2086
 #61|@Kizburb|2086
 #62|@Dean_Summer_Bot|2085
-#63|@beastie1|2079
+#63|@beastie1|2083
 #64|@ibep|2078
 #65|@Xerus_1|2076
 #66|@newengine2022|2071
@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@KingfishX|2066
 #70|@NewChessEngine-ai|2046
 #71|@Hyper-Stockfish|2044
-#72|@Kizbuurb|2035
-#73|@calico1|2033
+#72|@calico1|2037
+#73|@Kizbuurb|2035
 #74|@CloudBot_v2|2027
 #75|@Lili-ai|2027
 #76|@faith_bot|2026
@@ -93,7 +93,7 @@ Rank|Bot|Rating
 #91|@OSaurus|1967
 #92|@Lila-Stockfish|1963
 #93|@PyChessBot|1957
-#94|@varient-chess-bot1|1957
+#94|@varient-chess-bot1|1949
 #95|@abhisun_bot|1947
 #96|@Resolved-Bot|1942
 #97|@Pineapple-Friendly|1937
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@rachl1|1768
 #129|@nickl1bot|1760
 #130|@JemBok|1758
-#131|@clementyne1|1757
+#131|@clementyne1|1753
 #132|@Viet-BOT|1750
 #133|@clrsrc_lc0|1742
 #134|@K_Shi_Bot|1737
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@Lancelbot|1604
 #147|@MMC_HUANGBAI|1569
 #148|@Epiano_Bot|1567
-#149|@spyros1bot|1566
+#149|@spyros1bot|1564
 #150|@Toxic_Bot|1541
 #151|@SXDEFENDER|1534
 #152|@Light_To_The_Rescue|1523
