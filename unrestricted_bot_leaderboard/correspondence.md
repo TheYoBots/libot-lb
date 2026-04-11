@@ -416,6 +416,6 @@ Rank|Bot|Rating
 #414|@mustaley|973
 #415|@BerserkRandomMover|963
 #416|@G0thamB0t|954
-#417|@CCI-0|940
+#417|@CCI-0|936
 #418|@GuineaBot|866
 #419|@BogoBot|865

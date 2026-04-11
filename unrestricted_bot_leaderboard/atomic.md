@@ -349,7 +349,7 @@ Rank|Bot|Rating
 #347|@XiDM|1241
 #348|@AlwaysPlayMystery|1240
 #349|@Ar4Asd1-BOT|1230
-#350|@StockfishLowDepth|1217
+#350|@StockfishLowDepth|1229
 #351|@GuineaBot3|1215
 #352|@genesis1bot|1211
 #353|@kidobot2911|1202
