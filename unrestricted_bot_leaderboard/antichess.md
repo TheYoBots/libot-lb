@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@Bot1nokk|2849
 #14|@TorBot|2824
 #15|@bot1e|2822
-#16|@WennDieSoldatBOT|2818
-#17|@CheckmateX1|2803
+#16|@CheckmateX1|2818
+#17|@WennDieSoldatBOT|2818
 #18|@TacticalBot|2796
 #19|@varient-chess-bot1|2792
 #20|@lord-bot|2789
@@ -128,11 +128,11 @@ Rank|Bot|Rating
 #126|@HakoAI|2283
 #127|@Dean_Summer_Bot|2279
 #128|@Johnsun|2269
-#129|@anti-bot|2256
-#130|@NilatacBot|2255
-#131|@SkyBlaster|2254
-#132|@mrchessmanager|2240
-#133|@TurkiyeHogwarts|2240
+#129|@NilatacBot|2255
+#130|@SkyBlaster|2254
+#131|@mrchessmanager|2240
+#132|@TurkiyeHogwarts|2240
+#133|@anti-bot|2236
 #134|@EagleEye2021|2235
 #135|@chesshyperbot|2234
 #136|@Hyper-Stockfish|2230
@@ -303,7 +303,7 @@ Rank|Bot|Rating
 #301|@Official_bot|1301
 #302|@GuineaBot3|1297
 #303|@MeetNarangBOT|1287
-#304|@StockfishLowDepth|1270
+#304|@StockfishLowDepth|1279
 #305|@KaTHHHH|1264
 #306|@chicken_farmer|1241
 #307|@PranavChessBot|1212

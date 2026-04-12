@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@PowerOnBot|1258
 #185|@xDmanBOT|1258
 #186|@yobmef|1258
-#187|@reaper1bot|1230
+#187|@reaper1bot|1235
 #188|@TheSystem_Bot|1218
 #189|@GuineaBot3|1212
 #190|@admin-bot|1209
@@ -196,8 +196,8 @@ Rank|Bot|Rating
 #194|@BetaOneBot|1166
 #195|@ZX-Chess|1145
 #196|@duythong1402|1120
-#197|@fairy-vvrr|1102
-#198|@genesis1bot|1093
+#197|@genesis1bot|1105
+#198|@fairy-vvrr|1102
 #199|@alvin-chess-bot|1091
 #200|@MontyPythonFlying|1037
 #201|@FireTorchV2|1011

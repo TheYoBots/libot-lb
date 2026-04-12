@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@LudwigBOT|2304
 #41|@lord-bot|2300
 #42|@Worst-ai|2296
-#43|@rascal1|2290
+#43|@rascal1|2294
 #44|@KingfishX|2285
 #45|@SF_Bot1nok|2284
 #46|@The-Fastest-Bot|2277
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@Bullet_bot_0526|2077
 #78|@Xerus_1|2070
 #79|@ROBOT_RANDEER2007|2059
-#80|@varient-chess-bot1|2057
+#80|@varient-chess-bot1|2046
 #81|@Galaxy_Guardian|2041
 #82|@Official_bot|2041
 #83|@Resolved-Bot|2026
@@ -181,10 +181,10 @@ Rank|Bot|Rating
 #179|@Nithin-das|1397
 #180|@RochadeSchachzeitung|1392
 #181|@MasterofChessBOT800|1391
-#182|@HiddeNL|1385
-#183|@apraz|1383
-#184|@DavidsGuterBot|1383
-#185|@reaper1bot|1382
+#182|@reaper1bot|1390
+#183|@HiddeNL|1385
+#184|@apraz|1383
+#185|@DavidsGuterBot|1383
 #186|@TTC-BOT_2|1322
 #187|@cool_boy_bot|1321
 #188|@Harry_Potterz|1316
@@ -195,9 +195,9 @@ Rank|Bot|Rating
 #193|@TheLegendaryKnight|1272
 #194|@EstmileBot|1269
 #195|@Parth_Dhage_2|1258
-#196|@genesis1bot|1257
-#197|@MyNameIsWhatLOL|1256
-#198|@SneakyBot21|1256
+#196|@MyNameIsWhatLOL|1256
+#197|@SneakyBot21|1256
+#198|@genesis1bot|1249
 #199|@TORTADEMANZANA023|1233
 #200|@pawnrobot|1213
 #201|@heatseeker223|1191

@@ -184,7 +184,7 @@ Rank|Bot|Rating
 #182|@hashcake1|1337
 #183|@THEANDROIDBOT|1317
 #184|@Challengeme2anything|1307
-#185|@reaper1bot|1303
+#185|@reaper1bot|1307
 #186|@Hand_coded_ai_90565|1292
 #187|@NoTallkOnlyGames|1291
 #188|@jasans_bot|1268
@@ -199,7 +199,7 @@ Rank|Bot|Rating
 #197|@TrashBot|1168
 #198|@shakboy9824453231op|1152
 #199|@pawnrobot|1138
-#200|@genesis1bot|1128
+#200|@genesis1bot|1136
 #201|@GuineaBot3|1121
 #202|@DespacitoBot|1094
 #203|@ZokBot|1076
