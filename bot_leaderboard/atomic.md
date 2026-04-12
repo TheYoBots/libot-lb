@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@is_BOSS|2577
-#2|@rascal1|2267
-#3|@calico1|1995
-#4|@RaspFish|1994
+#2|@rascal1|2270
+#3|@RaspFish|2006
+#4|@calico1|1995
 #5|@beastie1|1982
 #6|@OSaurus|1878
 #7|@kowalabi|1814
@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@Lancelbot|1436
 #14|@spyros1bot|1400
 #15|@pawnrobot|1316
-#16|@reaper1bot|1266
-#17|@StockfishLowDepth|1262
+#16|@StockfishLowDepth|1268
+#17|@reaper1bot|1266
 #18|@hashcake1|1251
 #19|@genesis1bot|1198

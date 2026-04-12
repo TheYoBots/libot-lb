@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@ttBOT|2461
 #29|@TheMatrix2029|2448
 #30|@faith_bot|2447
-#31|@ToromBot|2422
-#32|@RaspFish|2419
+#31|@RaspFish|2424
+#32|@ToromBot|2422
 #33|@tbhOnBot|2403
 #34|@GoblinAjedrezAI|2371
 #35|@Viet_BOT|2367
@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@LudwigBOT|2304
 #41|@lord-bot|2300
 #42|@Worst-ai|2296
-#43|@rascal1|2294
+#43|@rascal1|2292
 #44|@KingfishX|2285
 #45|@SF_Bot1nok|2284
 #46|@The-Fastest-Bot|2277
@@ -99,8 +99,8 @@ Rank|Bot|Rating
 #97|@lightspeed_bot|1951
 #98|@pistol-play|1939
 #99|@PROBOT123567|1936
-#100|@OpeningsBot|1935
-#101|@PetersTestBot|1935
+#100|@PetersTestBot|1935
+#101|@OpeningsBot|1933
 #102|@QiOui|1932
 #103|@Lila-Stockfish|1917
 #104|@SkyBlaster|1913
