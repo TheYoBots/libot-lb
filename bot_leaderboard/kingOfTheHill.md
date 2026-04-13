@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2380
-#2|@rascal1|2376
+#1|@RaspFish|2388
+#2|@rascal1|2374
 #3|@beastie1|2083
-#4|@calico1|2036
-#5|@OSaurus|1964
+#4|@calico1|2033
+#5|@OSaurus|1961
 #6|@varient-chess-bot1|1949
 #7|@OpeningsBot|1804
 #8|@clementyne1|1753

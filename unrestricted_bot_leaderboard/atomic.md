@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@xiang-qi|2268
 #69|@Bot1nokk|2265
 #70|@CocopikachuBOT|2265
-#71|@rascal1|2264
-#72|@chesshyperbot|2260
+#71|@chesshyperbot|2260
+#72|@rascal1|2260
 #73|@SCP079|2259
 #74|@Johnsun|2257
 #75|@YoBot_v2|2243
@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@MagnusCarlsen1507|2037
 #137|@HuxZero|2035
 #138|@EasyWinGG|2032
-#139|@RaspFish|2027
+#139|@RaspFish|2028
 #140|@Kizbuurb|2024
 #141|@colinbot|2014
 #142|@ESC_BOT|2011
@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@Breeze-Hot|2006
 #145|@OlympusCz|2004
 #146|@BalloonBot|2003
-#147|@CatBot329|2000
-#148|@calico1|1992
+#147|@calico1|2002
+#148|@CatBot329|2000
 #149|@Zer0_Tw0|1991
 #150|@BigBrainen|1984
 #151|@HakoAI|1983
@@ -193,8 +193,8 @@ Rank|Bot|Rating
 #191|@ReallyCrazyBOT|1816
 #192|@Sternenhimmel10|1811
 #193|@fairy-vvrr|1808
-#194|@kowalabi|1808
-#195|@PowerOnBot|1806
+#194|@PowerOnBot|1806
+#195|@kowalabi|1805
 #196|@PiratesBot|1800
 #197|@QiOui|1800
 #198|@WildorderBot|1799
@@ -337,9 +337,9 @@ Rank|Bot|Rating
 #335|@XXXTryandTryXXX|1280
 #336|@legendbot1|1277
 #337|@PranavChessBot|1273
-#338|@SkyBlaster|1269
-#339|@reaper1bot|1266
-#340|@StockfishLowDepth|1266
+#338|@StockfishLowDepth|1271
+#339|@SkyBlaster|1269
+#340|@reaper1bot|1266
 #341|@Galaxy_Guardian|1265
 #342|@Bot-31795|1258
 #343|@LegoTechnicControlPl|1258
