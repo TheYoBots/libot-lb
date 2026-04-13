@@ -12,11 +12,11 @@ Rank|Bot|Rating
 #10|@Peaceful4Life|2390
 #11|@Corvus-1|2386
 #12|@FireFishBOT|2385
-#13|@rascal1|2383
+#13|@RaspFish|2380
 #14|@tbhOnBot|2379
 #15|@Coolman2021|2378
 #16|@chessbot2880|2377
-#17|@RaspFish|2371
+#17|@rascal1|2376
 #18|@Karpov_bot|2359
 #19|@ElPeonElectrico|2351
 #20|@TheMatrix2025|2346
@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@KingfishX|2066
 #70|@NewChessEngine-ai|2046
 #71|@Hyper-Stockfish|2044
-#72|@calico1|2037
+#72|@calico1|2036
 #73|@Kizbuurb|2035
 #74|@CloudBot_v2|2027
 #75|@Lili-ai|2027
@@ -90,7 +90,7 @@ Rank|Bot|Rating
 #88|@TeamChelsie|1983
 #89|@Alehkine_cat|1980
 #90|@ESC_BOT|1976
-#91|@OSaurus|1967
+#91|@OSaurus|1964
 #92|@Lila-Stockfish|1963
 #93|@PyChessBot|1957
 #94|@varient-chess-bot1|1949
@@ -116,9 +116,9 @@ Rank|Bot|Rating
 #114|@STockfishdestroyBot|1825
 #115|@QiOui|1819
 #116|@AldoGamer001_Bot|1813
-#117|@OpeningsBot|1812
-#118|@admin-bot|1809
-#119|@The-Fastest-Bot|1809
+#117|@admin-bot|1809
+#118|@The-Fastest-Bot|1809
+#119|@OpeningsBot|1804
 #120|@TheLegitLegend|1804
 #121|@Bot_AOOP11|1802
 #122|@ROBOT_RANDEER2007|1802

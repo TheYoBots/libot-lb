@@ -4,5 +4,5 @@ Rank|Bot|Rating
 #2|@ToromBot|2573
 #3|@varient-chess-bot1|2448
 #4|@Worst-ai|2319
-#5|@OpeningsBot|2264
+#5|@OpeningsBot|2273
 #6|@StockfishLowDepth|1890
