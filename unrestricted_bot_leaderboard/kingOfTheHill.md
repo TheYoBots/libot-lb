@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@AldoGamer001_Bot|1813
 #117|@admin-bot|1809
 #118|@The-Fastest-Bot|1809
-#119|@OpeningsBot|1804
+#119|@OpeningsBot|1807
 #120|@TheLegitLegend|1804
 #121|@Bot_AOOP11|1802
 #122|@ROBOT_RANDEER2007|1802
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@rachl1|1768
 #129|@nickl1bot|1760
 #130|@JemBok|1758
-#131|@clementyne1|1753
+#131|@clementyne1|1757
 #132|@Viet-BOT|1750
 #133|@clrsrc_lc0|1742
 #134|@K_Shi_Bot|1737
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@Lancelbot|1604
 #147|@MMC_HUANGBAI|1569
 #148|@Epiano_Bot|1567
-#149|@spyros1bot|1564
+#149|@spyros1bot|1558
 #150|@Toxic_Bot|1541
 #151|@SXDEFENDER|1534
 #152|@Light_To_The_Rescue|1523
@@ -181,12 +181,12 @@ Rank|Bot|Rating
 #179|@allvariants|1348
 #180|@BinaryBrain|1341
 #181|@DavidsGuterBot|1337
-#182|@hashcake1|1337
+#182|@hashcake1|1330
 #183|@THEANDROIDBOT|1317
 #184|@Challengeme2anything|1307
-#185|@reaper1bot|1307
-#186|@Hand_coded_ai_90565|1292
-#187|@NoTallkOnlyGames|1291
+#185|@Hand_coded_ai_90565|1292
+#186|@NoTallkOnlyGames|1291
+#187|@reaper1bot|1289
 #188|@jasans_bot|1268
 #189|@ChessChipBot|1258
 #190|@Hrant_Petrosyan_BOT|1258
@@ -197,9 +197,9 @@ Rank|Bot|Rating
 #195|@RSVMentor|1196
 #196|@Boom_Bot|1176
 #197|@TrashBot|1168
-#198|@shakboy9824453231op|1152
-#199|@pawnrobot|1138
-#200|@genesis1bot|1136
+#198|@genesis1bot|1154
+#199|@shakboy9824453231op|1152
+#200|@pawnrobot|1138
 #201|@GuineaBot3|1121
 #202|@DespacitoBot|1094
 #203|@ZokBot|1076

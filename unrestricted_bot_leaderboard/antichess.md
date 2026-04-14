@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@OpeningBooksTester|2712
 #30|@ElPeonElectrico|2710
 #31|@Yellow_Anxiety7|2708
-#32|@RaspFish|2699
+#32|@RaspFish|2700
 #33|@Lili-Variants|2693
 #34|@buffFishNet|2692
 #35|@Magicianrobot|2688
@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@Viet_BOT|2354
 #114|@higuyuu67776|2352
 #115|@Karpov_bot|2335
-#116|@TeamChelsie|2331
-#117|@anti-bot|2324
+#116|@anti-bot|2334
+#117|@TeamChelsie|2331
 #118|@AI69|2312
 #119|@NewChessEngine-ai|2309
 #120|@Kizburb|2307
@@ -303,8 +303,8 @@ Rank|Bot|Rating
 #301|@Official_bot|1301
 #302|@GuineaBot3|1297
 #303|@MeetNarangBOT|1287
-#304|@StockfishLowDepth|1270
-#305|@KaTHHHH|1264
+#304|@KaTHHHH|1264
+#305|@StockfishLowDepth|1263
 #306|@chicken_farmer|1241
 #307|@PranavChessBot|1212
 #308|@puisne|1212

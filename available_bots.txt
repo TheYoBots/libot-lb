@@ -1448,6 +1448,7 @@ hikaru-nakamurabot
 hikaruexp
 historyexplorer
 hitmebaby1moretime
+hiusbot
 hiwin1234
 hjhjhjhjhjhj
 hoaboxerchesss
@@ -3582,4 +3583,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-hiusbot
+botlarson
