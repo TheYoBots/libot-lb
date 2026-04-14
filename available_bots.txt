@@ -491,6 +491,7 @@ botinator1337
 botkajmen
 botkinghunter
 botkingteam33
+botlarson
 botmertens
 botmgmg
 botmikhailtal
@@ -3583,4 +3584,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-botlarson

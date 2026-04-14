@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@rachl1|2067
 #93|@TheLegitLegend2|2059
 #94|@PowerOnBot|2050
-#95|@OpeningsBot|2036
+#95|@OpeningsBot|2038
 #96|@Jussicas|2035
 #97|@thibot|2032
 #98|@Less_of_a_threat|2025
@@ -202,11 +202,11 @@ Rank|Bot|Rating
 #200|@MagnusCarlsen1507|1431
 #201|@Nicholaswb_BOT|1426
 #202|@Itzmoi6g19|1425
-#203|@reaper1bot|1419
-#204|@xDmanBOT|1419
-#205|@chess-trainer-bot|1417
+#203|@xDmanBOT|1419
+#204|@chess-trainer-bot|1417
+#205|@reaper1bot|1416
 #206|@Wayang|1411
-#207|@hashcake1|1410
+#207|@hashcake1|1407
 #208|@cool_boy_bot|1398
 #209|@Classic_BOT-v2|1392
 #210|@puisne|1371
@@ -246,7 +246,7 @@ Rank|Bot|Rating
 #244|@kazakhfirstbot|1119
 #245|@apollo_bot|1106
 #246|@BogoBot|1099
-#247|@genesis1bot|1092
+#247|@genesis1bot|1089
 #248|@TfXD_Bot|1050
 #249|@jasans_bot|1045
 #250|@Official_bot|1027

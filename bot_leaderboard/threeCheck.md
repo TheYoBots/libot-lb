@@ -11,7 +11,8 @@ Rank|Bot|Rating
 #9|@clementyne1|1849
 #10|@Lancelbot|1732
 #11|@spyros1bot|1636
-#12|@hashcake1|1391
-#13|@reaper1bot|1376
-#14|@DavidsGuterBot|1373
-#15|@genesis1bot|1275
+#12|@hashcake1|1385
+#13|@reaper1bot|1379
+#14|@DavidsGuterBot|1369
+#15|@genesis1bot|1261
+#16|@pawnrobot|1201

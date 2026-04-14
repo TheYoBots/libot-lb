@@ -10,10 +10,10 @@ Rank|Bot|Rating
 #8|@calico1|2280
 #9|@OSaurus|2230
 #10|@varient-chess-bot1|2144
-#11|@OpeningsBot|2036
+#11|@OpeningsBot|2038
 #12|@clementyne1|1916
 #13|@Lancelbot|1748
 #14|@spyros1bot|1703
-#15|@reaper1bot|1419
-#16|@hashcake1|1410
-#17|@genesis1bot|1092
+#15|@reaper1bot|1416
+#16|@hashcake1|1407
+#17|@genesis1bot|1089
