@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2418
+#1|@RaspFish|2412
 #2|@DarkOnBot|2328
 #3|@rascal1|2285
 #4|@beastie1|2216
@@ -13,6 +13,6 @@ Rank|Bot|Rating
 #11|@spyros1bot|1636
 #12|@hashcake1|1385
 #13|@reaper1bot|1379
-#14|@DavidsGuterBot|1369
+#14|@DavidsGuterBot|1368
 #15|@genesis1bot|1261
 #16|@pawnrobot|1201

@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@chessbot2880|2718
 #11|@DarkOnBot|2718
 #12|@ToromBot|2711
-#13|@CheckmateX1|2705
+#13|@CheckmateX1|2704
 #14|@PepsiForAll|2702
 #15|@RaspFish|2700
 #16|@GilgameshTheBot|2697

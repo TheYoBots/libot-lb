@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@NewChessEngine-ai|2680
 #4|@BalloonBot|2668
 #5|@chessbot2880|2623
-#6|@RaspFish|2609
+#6|@RaspFish|2603
 #7|@SkyBlaster|2603
 #8|@Viet-AI|2600
 #9|@lord-bot|2581
@@ -16,12 +16,12 @@ Rank|Bot|Rating
 #14|@EmptikVariantsBot|2557
 #15|@FireFishBOT|2547
 #16|@LudwigBOT|2536
-#17|@tbhOnBot|2529
-#18|@GoblinAjedrezAI|2528
-#19|@Coolman2021|2527
-#20|@EmptikBot|2526
-#21|@PumpkinLatteBob|2524
-#22|@CheckmateX1|2515
+#17|@CheckmateX1|2532
+#18|@tbhOnBot|2529
+#19|@GoblinAjedrezAI|2528
+#20|@Coolman2021|2527
+#21|@EmptikBot|2526
+#22|@PumpkinLatteBob|2524
 #23|@Nebulogic|2514
 #24|@SCP079|2513
 #25|@SF_Bot1nok|2508
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@AlfaBot|2278
 #71|@gage12_bot|2266
 #72|@Mega_BOT|2264
-#73|@OpeningsBot|2263
+#73|@OpeningsBot|2264
 #74|@MalanChess|2261
 #75|@chesshyperbot|2259
 #76|@ESC_BOT|2253
