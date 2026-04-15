@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@DarkOnBot|2708
+#1|@DarkOnBot|2718
 #2|@RaspFish|2700
 #3|@rascal1|2644
 #4|@SF_Bot1nok|2634
@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@calico1|2280
 #9|@OSaurus|2230
 #10|@varient-chess-bot1|2144
-#11|@OpeningsBot|2038
+#11|@OpeningsBot|2037
 #12|@clementyne1|1916
 #13|@Lancelbot|1748
 #14|@spyros1bot|1703

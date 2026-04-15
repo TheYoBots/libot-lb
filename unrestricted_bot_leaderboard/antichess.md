@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@MEGA-NOOB-BOT|2859
 #12|@UltronBot|2859
 #13|@Bot1nokk|2846
-#14|@TorBot|2824
-#15|@bot1e|2819
-#16|@CheckmateX1|2818
+#14|@CheckmateX1|2838
+#15|@TorBot|2824
+#16|@bot1e|2819
 #17|@WennDieSoldatBOT|2818
 #18|@TacticalBot|2796
 #19|@varient-chess-bot1|2792
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@higuyuu67776|2352
 #115|@Karpov_bot|2335
 #116|@TeamChelsie|2331
-#117|@anti-bot|2325
-#118|@AI69|2312
+#117|@AI69|2312
+#118|@anti-bot|2310
 #119|@NewChessEngine-ai|2309
 #120|@Kizburb|2307
 #121|@MagicverseBOT|2306
@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@antichesssss|1964
 #171|@Menganti|1963
 #172|@CloudBOT|1950
-#173|@pawnrobot|1923
+#173|@pawnrobot|1922
 #174|@TestingBot1|1914
 #175|@Crepusculum|1881
 #176|@NoTallkOnlyGames|1871
@@ -303,8 +303,8 @@ Rank|Bot|Rating
 #301|@Official_bot|1301
 #302|@GuineaBot3|1297
 #303|@MeetNarangBOT|1287
-#304|@KaTHHHH|1264
-#305|@StockfishLowDepth|1263
+#304|@StockfishLowDepth|1268
+#305|@KaTHHHH|1264
 #306|@chicken_farmer|1241
 #307|@PranavChessBot|1212
 #308|@puisne|1212

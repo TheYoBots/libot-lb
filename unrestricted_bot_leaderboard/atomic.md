@@ -131,9 +131,9 @@ Rank|Bot|Rating
 #129|@Dark_evil_bot|2071
 #130|@Karpov_bot|2069
 #131|@alvinl22_LBot|2068
-#132|@Vinnikk|2061
-#133|@XXIstCentury|2061
-#134|@RaspFish|2058
+#132|@RaspFish|2067
+#133|@Vinnikk|2061
+#134|@XXIstCentury|2061
 #135|@azdad|2047
 #136|@Less_of_a_threat|2047
 #137|@MagnusCarlsen1507|2037
@@ -345,7 +345,7 @@ Rank|Bot|Rating
 #343|@Mr-Bob|1258
 #344|@NarratingSince86|1258
 #345|@rayking311|1258
-#346|@StockfishLowDepth|1256
+#346|@StockfishLowDepth|1245
 #347|@reaper1bot|1242
 #348|@XiDM|1241
 #349|@AlwaysPlayMystery|1240

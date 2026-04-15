@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@OSaurus|2218
 #11|@DarkOnBot|2190
 #12|@kowalabi|2178
-#13|@OpeningsBot|2169
+#13|@OpeningsBot|2170
 #14|@varient-chess-bot1|2156
 #15|@nickl1bot|2003
 #16|@clementyne1|1972

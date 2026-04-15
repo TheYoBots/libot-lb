@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@GoblinAjedrezAI|2185
 #44|@kowalabi|2178
 #45|@FayEFish|2172
-#46|@OpeningsBot|2169
+#46|@OpeningsBot|2170
 #47|@Trumpfor2O2O|2162
 #48|@varient-chess-bot1|2156
 #49|@ResoluteBot|2155
@@ -148,12 +148,12 @@ Rank|Bot|Rating
 #146|@HerokuHasnotplay|1497
 #147|@MagnusCarlsen1507|1497
 #148|@IAMSTOCKFISH123|1496
-#149|@CheckmateX1|1495
-#150|@Rishab_Bindal|1494
-#151|@LegoTechnicControlPl|1491
-#152|@Jussicas|1483
-#153|@Kizbuurb|1479
-#154|@faith_bot|1474
+#149|@Rishab_Bindal|1494
+#150|@LegoTechnicControlPl|1491
+#151|@Jussicas|1483
+#152|@Kizbuurb|1479
+#153|@faith_bot|1474
+#154|@CheckmateX1|1470
 #155|@suniferia|1459
 #156|@MagicHacker123|1451
 #157|@NienishiEngine|1445

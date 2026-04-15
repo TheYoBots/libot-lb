@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@calico1|2033
 #5|@OSaurus|1961
 #6|@varient-chess-bot1|1949
-#7|@OpeningsBot|1807
+#7|@OpeningsBot|1809
 #8|@clementyne1|1757
 #9|@spyros1bot|1558
 #10|@DavidsGuterBot|1344
