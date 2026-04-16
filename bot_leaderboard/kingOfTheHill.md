@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@OpeningsBot|1809
 #8|@clementyne1|1757
 #9|@spyros1bot|1558
-#10|@DavidsGuterBot|1344
+#10|@DavidsGuterBot|1343
 #11|@hashcake1|1341
 #12|@reaper1bot|1282
 #13|@genesis1bot|1150

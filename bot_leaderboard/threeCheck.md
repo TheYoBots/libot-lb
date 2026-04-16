@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@beastie1|2216
 #5|@calico1|2149
 #6|@OSaurus|2102
-#7|@OpeningsBot|1919
+#7|@OpeningsBot|1915
 #8|@JemBok|1850
 #9|@clementyne1|1849
 #10|@Lancelbot|1732

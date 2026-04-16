@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@bot1e|2840
 #6|@varient-chess-bot1|2792
 #7|@DarkOnBot|2487
-#8|@anti-bot|2311
+#8|@anti-bot|2310
 #9|@OpeningsBot|2208
-#10|@pawnrobot|1920
+#10|@pawnrobot|1931
 #11|@StockfishLowDepth|1268

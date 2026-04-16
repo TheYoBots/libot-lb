@@ -100,12 +100,12 @@ Rank|Bot|Rating
 #98|@HyperLitikBOT|1930
 #99|@SacrificialSage|1925
 #100|@StockfishLowDepth|1919
-#101|@DrSmartBugs|1904
-#102|@Variantenkoning|1892
-#103|@PetersTestBot|1890
-#104|@MistakeBOT|1886
-#105|@EagleEye2021|1880
-#106|@CheckmateX1|1874
+#101|@CheckmateX1|1904
+#102|@DrSmartBugs|1904
+#103|@Variantenkoning|1892
+#104|@PetersTestBot|1890
+#105|@MistakeBOT|1886
+#106|@EagleEye2021|1880
 #107|@xiang-qi|1868
 #108|@que-hyper|1865
 #109|@is_BOSS|1864
@@ -179,7 +179,7 @@ Rank|Bot|Rating
 #177|@Sanjana_Kambala-BOT|1355
 #178|@VedanthS-Bot|1353
 #179|@allvariants|1348
-#180|@DavidsGuterBot|1344
+#180|@DavidsGuterBot|1343
 #181|@BinaryBrain|1341
 #182|@hashcake1|1341
 #183|@THEANDROIDBOT|1317

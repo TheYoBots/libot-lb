@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@varient-chess-bot1|2792
 #19|@lord-bot|2789
 #20|@FireFishBOT|2785
-#21|@VariantsTop|2765
-#22|@Viet-AI|2765
-#23|@CheckmateX1|2757
+#21|@CheckmateX1|2783
+#22|@VariantsTop|2765
+#23|@Viet-AI|2765
 #24|@TheMatrix2025|2746
 #25|@ttBOT|2739
 #26|@ibep|2733
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@Karpov_bot|2335
 #116|@TeamChelsie|2331
 #117|@AI69|2312
-#118|@anti-bot|2311
+#118|@anti-bot|2310
 #119|@NewChessEngine-ai|2309
 #120|@Kizburb|2307
 #121|@MagicverseBOT|2306
@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@antichesssss|1964
 #171|@Menganti|1963
 #172|@CloudBOT|1950
-#173|@pawnrobot|1920
+#173|@pawnrobot|1931
 #174|@TestingBot1|1914
 #175|@Crepusculum|1881
 #176|@NoTallkOnlyGames|1871

@@ -41,11 +41,11 @@ Rank|Bot|Rating
 #39|@TacticalBot|2227
 #40|@OSaurus|2218
 #41|@UltronBot|2199
-#42|@GoblinAjedrezAI|2185
-#43|@DarkOnBot|2180
-#44|@kowalabi|2178
-#45|@FayEFish|2172
-#46|@CheckmateX1|2170
+#42|@CheckmateX1|2186
+#43|@GoblinAjedrezAI|2185
+#44|@DarkOnBot|2180
+#45|@kowalabi|2178
+#46|@FayEFish|2172
 #47|@Trumpfor2O2O|2162
 #48|@varient-chess-bot1|2156
 #49|@ResoluteBot|2155
@@ -174,7 +174,7 @@ Rank|Bot|Rating
 #172|@Toxic_Bot|1352
 #173|@DespacitoBot|1345
 #174|@weaklean|1338
-#175|@pawnrobot|1316
+#175|@pawnrobot|1315
 #176|@BinaryBrain|1299
 #177|@Nicholaswb_BOT|1288
 #178|@AEBROADUSBOTTER|1279
