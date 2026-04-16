@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@FairyTailRegimeBot|1785
 #127|@Nobody11892|1785
 #128|@rachl1|1768
-#129|@nickl1bot|1760
+#129|@nickl1bot|1761
 #130|@JemBok|1758
 #131|@clementyne1|1757
 #132|@Viet-BOT|1750
@@ -179,7 +179,7 @@ Rank|Bot|Rating
 #177|@Sanjana_Kambala-BOT|1355
 #178|@VedanthS-Bot|1353
 #179|@allvariants|1348
-#180|@DavidsGuterBot|1343
+#180|@DavidsGuterBot|1342
 #181|@BinaryBrain|1341
 #182|@hashcake1|1341
 #183|@THEANDROIDBOT|1317

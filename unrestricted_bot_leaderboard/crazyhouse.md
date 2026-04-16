@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@chessbot2880|2718
 #11|@DarkOnBot|2718
 #12|@ToromBot|2711
-#13|@RaspFish|2707
-#14|@PepsiForAll|2702
+#13|@PepsiForAll|2702
+#14|@RaspFish|2699
 #15|@GilgameshTheBot|2697
 #16|@Fairy_Belzedar|2683
 #17|@tbhOnBot|2675
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@icbmsaregoated2|2664
 #20|@CheckmateX1|2658
 #21|@PumpkinLatteBob|2658
-#22|@rascal1|2644
+#22|@rascal1|2651
 #23|@SF_Bot1nok|2634
 #24|@ibep|2633
 #25|@Bot1nokk|2632

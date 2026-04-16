@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2933
-#2|@SF_Bot1nok|2889
-#3|@abdcebot|2855
-#4|@Bot1nokk|2845
-#5|@bot1e|2840
+#2|@SF_Bot1nok|2886
+#3|@abdcebot|2858
+#4|@bot1e|2843
+#5|@Bot1nokk|2842
 #6|@varient-chess-bot1|2792
-#7|@DarkOnBot|2487
+#7|@DarkOnBot|2513
 #8|@anti-bot|2310
 #9|@OpeningsBot|2208
 #10|@pawnrobot|1931

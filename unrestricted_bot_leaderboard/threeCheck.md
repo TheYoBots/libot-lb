@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@TheMatrix2029|2448
 #30|@faith_bot|2447
 #31|@ToromBot|2422
-#32|@RaspFish|2412
+#32|@RaspFish|2416
 #33|@tbhOnBot|2403
 #34|@GoblinAjedrezAI|2371
 #35|@Viet_BOT|2367
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@Worst-ai|2296
 #43|@SF_Bot1nok|2293
 #44|@KingfishX|2285
-#45|@rascal1|2285
+#45|@rascal1|2281
 #46|@The-Fastest-Bot|2277
 #47|@CocopikachuBOT|2274
 #48|@TheMatrix2025|2272

@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@WennDieSoldatBOT|2156
 #83|@david9426_bot|2153
 #84|@Vetinari_Computer|2152
-#85|@Blunderbuss-bot|2145
+#85|@Blunderbuss-bot|2151
 #86|@mrchessmanager|2143
 #87|@corr_sunfish|2138
 #88|@GonzoBOT|2134
@@ -170,10 +170,10 @@ Rank|Bot|Rating
 #168|@yeoldwiz|1890
 #169|@ChessChildren|1884
 #170|@XXXTryandTryXXX|1884
-#171|@GarboBot|1882
-#172|@KingsGamBot|1882
-#173|@lol7241Bot|1878
-#174|@CCI-2|1876
+#171|@KingsGamBot|1882
+#172|@lol7241Bot|1878
+#173|@CCI-2|1876
+#174|@GarboBot|1876
 #175|@PiratesBot|1876
 #176|@vanibot|1876
 #177|@Yukoo-BOT|1876
