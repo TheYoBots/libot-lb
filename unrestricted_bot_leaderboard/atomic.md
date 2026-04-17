@@ -27,10 +27,10 @@ Rank|Bot|Rating
 #25|@ShredderGrizzly|2479
 #26|@NormalBulletBot|2474
 #27|@LoseisnotAvailablehe|2466
-#28|@PepsiForAll|2448
-#29|@tbhOnBot|2448
-#30|@HIWIN1234|2440
-#31|@CheckmateX1|2438
+#28|@CheckmateX1|2460
+#29|@PepsiForAll|2448
+#30|@tbhOnBot|2448
+#31|@HIWIN1234|2440
 #32|@eNErGyOFbEiNGbOT|2431
 #33|@FayEFish|2415
 #34|@Fairy-Stockfish|2402
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@BishoP-BOT|2138
 #119|@Mega_BOT|2136
 #120|@Nobody11892|2134
-#121|@RaspFish|2127
+#121|@RaspFish|2126
 #122|@Variantenkoning|2121
 #123|@AnUtterlyKarBot|2113
 #124|@lightspeed_bot|2105
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@Zer0_Tw0|1991
 #150|@BigBrainen|1984
 #151|@HakoAI|1983
-#152|@beastie1|1982
+#152|@beastie1|1979
 #153|@relevantproblem|1976
 #154|@All_Except_Chess960|1975
 #155|@Sub_Bot|1974
@@ -174,7 +174,7 @@ Rank|Bot|Rating
 #172|@AX2XB2|1893
 #173|@TheAwesomeBot|1891
 #174|@kostasvl-bot|1877
-#175|@OSaurus|1874
+#175|@OSaurus|1877
 #176|@Worst-ai|1872
 #177|@B0T5_RU13|1871
 #178|@RobotTigerSlav|1871

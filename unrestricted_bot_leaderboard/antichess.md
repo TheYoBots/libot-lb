@@ -16,11 +16,11 @@ Rank|Bot|Rating
 #14|@Bot1nokk|2842
 #15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
-#17|@TacticalBot|2796
-#18|@varient-chess-bot1|2792
-#19|@lord-bot|2789
-#20|@FireFishBOT|2785
-#21|@CheckmateX1|2783
+#17|@CheckmateX1|2804
+#18|@TacticalBot|2796
+#19|@varient-chess-bot1|2792
+#20|@lord-bot|2789
+#21|@FireFishBOT|2785
 #22|@VariantsTop|2765
 #23|@Viet-AI|2765
 #24|@TheMatrix2025|2746
@@ -117,8 +117,8 @@ Rank|Bot|Rating
 #115|@Karpov_bot|2335
 #116|@TeamChelsie|2331
 #117|@AI69|2312
-#118|@anti-bot|2310
-#119|@NewChessEngine-ai|2309
+#118|@NewChessEngine-ai|2309
+#119|@anti-bot|2308
 #120|@Kizburb|2307
 #121|@MagicverseBOT|2306
 #122|@abhisun_bot|2305

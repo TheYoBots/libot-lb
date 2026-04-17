@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pawn_git|2588
 #10|@LeelaZero-UK|2585
 #11|@Alexnajax_Fan|2549
-#12|@CheckmateX1|2544
+#12|@CheckmateX1|2545
 #13|@SacrificialSage|2519
 #14|@peonasesino71|2512
 #15|@ServerFish|2494
@@ -336,7 +336,7 @@ Rank|Bot|Rating
 #334|@YagizTurkiyeBOT|1476
 #335|@MRT23|1469
 #336|@TheSystem_Bot|1466
-#337|@EdwardKillick|1465
+#337|@EdwardKillick|1458
 #338|@Mate-AI|1454
 #339|@dtsudo|1449
 #340|@CheezyGlizzyEater|1444
