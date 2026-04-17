@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2416
-#2|@DarkOnBot|2328
-#3|@rascal1|2281
-#4|@beastie1|2204
-#5|@calico1|2134
-#6|@OSaurus|2129
+#1|@RaspFish|2411
+#2|@DarkOnBot|2335
+#3|@rascal1|2279
+#4|@beastie1|2203
+#5|@OSaurus|2135
+#6|@calico1|2127
 #7|@OpeningsBot|1915
 #8|@JemBok|1850
 #9|@clementyne1|1849
