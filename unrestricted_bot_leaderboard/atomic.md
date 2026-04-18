@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@BishoP-BOT|2138
 #119|@Mega_BOT|2136
 #120|@Nobody11892|2134
-#121|@RaspFish|2126
+#121|@RaspFish|2128
 #122|@Variantenkoning|2121
 #123|@AnUtterlyKarBot|2113
 #124|@lightspeed_bot|2105
@@ -145,9 +145,9 @@ Rank|Bot|Rating
 #143|@are_bots_good|2006
 #144|@Breeze-Hot|2006
 #145|@calico1|2005
-#146|@OlympusCz|2004
-#147|@BalloonBot|2003
-#148|@beastie1|2001
+#146|@beastie1|2004
+#147|@OlympusCz|2004
+#148|@BalloonBot|2003
 #149|@CatBot329|2000
 #150|@Zer0_Tw0|1991
 #151|@BigBrainen|1984
@@ -200,9 +200,9 @@ Rank|Bot|Rating
 #198|@WildorderBot|1799
 #199|@CoderDen732|1791
 #200|@TheLegitLegend|1786
-#201|@varient-chess-bot1|1786
-#202|@MagicHacker123|1774
-#203|@buffFishNet|1771
+#201|@MagicHacker123|1774
+#202|@buffFishNet|1771
+#203|@varient-chess-bot1|1770
 #204|@EstmileBot|1769
 #205|@SacrificialSage|1755
 #206|@PetersTestBot|1753
@@ -331,7 +331,7 @@ Rank|Bot|Rating
 #329|@NOTBOTFORSURE|1327
 #330|@TheSystem_Bot|1318
 #331|@PROBROMAN|1317
-#332|@pawnrobot|1304
+#332|@pawnrobot|1295
 #333|@Atomicbot1|1294
 #334|@DavidsGuterBot|1287
 #335|@XXXTryandTryXXX|1280
@@ -350,7 +350,7 @@ Rank|Bot|Rating
 #348|@AlwaysPlayMystery|1240
 #349|@Ar4Asd1-BOT|1230
 #350|@StockfishLowDepth|1230
-#351|@genesis1bot|1220
+#351|@genesis1bot|1228
 #352|@GuineaBot3|1215
 #353|@kidobot2911|1202
 #354|@Lozza-Bot|1198

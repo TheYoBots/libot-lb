@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@NewChessEngine-ai|2680
 #4|@BalloonBot|2668
 #5|@chessbot2880|2623
-#6|@RaspFish|2603
-#7|@SkyBlaster|2603
+#6|@SkyBlaster|2603
+#7|@RaspFish|2601
 #8|@Viet-AI|2600
 #9|@lord-bot|2581
 #10|@ToromBot|2573
@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@Fairy_Belzedar|2559
 #14|@EmptikVariantsBot|2557
 #15|@FireFishBOT|2547
-#16|@LudwigBOT|2536
-#17|@CheckmateX1|2532
+#16|@CheckmateX1|2542
+#17|@LudwigBOT|2536
 #18|@tbhOnBot|2529
 #19|@GoblinAjedrezAI|2528
 #20|@Coolman2021|2527

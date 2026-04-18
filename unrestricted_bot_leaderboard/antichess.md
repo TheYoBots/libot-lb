@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@Bot1nokk|2837
 #15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
-#17|@CheckmateX1|2804
+#17|@CheckmateX1|2799
 #18|@TacticalBot|2796
 #19|@varient-chess-bot1|2792
 #20|@lord-bot|2789
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@OpeningBooksTester|2712
 #30|@ElPeonElectrico|2710
 #31|@Yellow_Anxiety7|2708
-#32|@RaspFish|2702
+#32|@RaspFish|2705
 #33|@Lili-Variants|2693
 #34|@buffFishNet|2692
 #35|@Magicianrobot|2688
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@Johnsun|2269
 #129|@NilatacBot|2255
 #130|@SkyBlaster|2254
-#131|@anti-bot|2246
+#131|@anti-bot|2248
 #132|@mrchessmanager|2240
 #133|@TurkiyeHogwarts|2240
 #134|@EagleEye2021|2235
