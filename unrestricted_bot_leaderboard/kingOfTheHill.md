@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@EmptikVariantsBot|2443
 #7|@TacticalBot|2439
 #8|@ToromBot|2430
-#9|@DarkOnBot|2391
-#10|@RaspFish|2391
-#11|@Peaceful4Life|2390
+#9|@DarkOnBot|2400
+#10|@Peaceful4Life|2390
+#11|@RaspFish|2390
 #12|@Corvus-1|2386
 #13|@FireFishBOT|2385
 #14|@tbhOnBot|2379
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@ElPeonElectrico|2351
 #19|@TheMatrix2025|2346
 #20|@AndromedaSX1|2344
-#21|@rascal1|2342
+#21|@rascal1|2338
 #22|@Sooraj_Kumar_P_S|2319
 #23|@FayEFish|2317
 #24|@SF_Bot1nok|2317

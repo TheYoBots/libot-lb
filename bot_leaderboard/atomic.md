@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@RaspFish|2128
 #4|@calico1|2005
 #5|@beastie1|2004
-#6|@OSaurus|1860
+#6|@OSaurus|1880
 #7|@kowalabi|1805
 #8|@OpeningsBot|1688
 #9|@pawnrobot|1295

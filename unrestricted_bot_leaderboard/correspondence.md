@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2940
+#1|@fibonachi|2942
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2799
 #4|@Moment-That-Inspires|2780
@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@ChamberiAjedrez|2596
 #9|@pawn_git|2588
 #10|@LeelaZero-UK|2585
-#11|@Alexnajax_Fan|2549
-#12|@CheckmateX1|2549
+#11|@CheckmateX1|2550
+#12|@Alexnajax_Fan|2549
 #13|@SacrificialSage|2519
 #14|@peonasesino71|2512
 #15|@ServerFish|2494
@@ -82,9 +82,9 @@ Rank|Bot|Rating
 #80|@mrohBOT|2158
 #81|@dbce|2156
 #82|@WennDieSoldatBOT|2156
-#83|@david9426_bot|2153
-#84|@Vetinari_Computer|2152
-#85|@Blunderbuss-bot|2151
+#83|@Blunderbuss-bot|2155
+#84|@david9426_bot|2153
+#85|@Vetinari_Computer|2152
 #86|@mrchessmanager|2143
 #87|@corr_sunfish|2138
 #88|@GonzoBOT|2134
@@ -155,9 +155,9 @@ Rank|Bot|Rating
 #153|@Test_God_50_BOT|1965
 #154|@Official_bot|1962
 #155|@WMatt|1958
-#156|@RadianceEngine|1957
-#157|@SohamChessBot|1956
-#158|@BOTsharpchess|1952
+#156|@SohamChessBot|1956
+#157|@BOTsharpchess|1952
+#158|@RadianceEngine|1946
 #159|@ZE_ROOK|1938
 #160|@Los-Guerreros1|1935
 #161|@TheLegendaryKnight|1935
