@@ -66,10 +66,10 @@ Rank|Bot|Rating
 #64|@Mega_BOT|2146
 #65|@Bot_AOOP11|2141
 #66|@gage12_bot|2140
-#67|@OSaurus|2140
-#68|@Bobby_Fischer_BOT|2138
-#69|@abhisun_bot|2129
-#70|@calico1|2127
+#67|@Bobby_Fischer_BOT|2138
+#68|@calico1|2134
+#69|@OSaurus|2133
+#70|@abhisun_bot|2129
 #71|@NienishiEngine|2124
 #72|@is_BOSS|2119
 #73|@AnUtterlyKarBot|2103

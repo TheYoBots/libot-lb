@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@SF_Bot1nok|2317
 #25|@Viet-AI|2317
 #26|@Fairy_Belzedar|2316
-#27|@Bot1nokk|2302
+#27|@Bot1nokk|2307
 #28|@GoblinAjedrezAI|2299
 #29|@MalanChess|2292
 #30|@LudwigBOT|2281
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@pistol-play|2121
 #55|@firstrobot|2114
 #56|@NormalBulletBot|2109
-#57|@beastie1|2099
+#57|@beastie1|2104
 #58|@GodelEscherBot|2092
 #59|@Johnsun|2091
 #60|@Lili-Variants|2089
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@PumpkinLatteBob|2069
 #68|@vrnts_colinbot|2068
 #69|@KingfishX|2066
-#70|@calico1|2055
+#70|@calico1|2054
 #71|@NewChessEngine-ai|2046
 #72|@Hyper-Stockfish|2044
 #73|@Kizbuurb|2035
@@ -92,12 +92,12 @@ Rank|Bot|Rating
 #90|@ESC_BOT|1976
 #91|@Lila-Stockfish|1963
 #92|@PyChessBot|1957
-#93|@OSaurus|1953
-#94|@varient-chess-bot1|1950
-#95|@abhisun_bot|1947
-#96|@Resolved-Bot|1942
-#97|@Pineapple-Friendly|1937
-#98|@azdad|1936
+#93|@OSaurus|1955
+#94|@abhisun_bot|1947
+#95|@Resolved-Bot|1942
+#96|@Pineapple-Friendly|1937
+#97|@azdad|1936
+#98|@varient-chess-bot1|1936
 #99|@HyperLitikBOT|1930
 #100|@SacrificialSage|1925
 #101|@StockfishLowDepth|1919
