@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2933
+#1|@ToromBot|2934
 #2|@SF_Bot1nok|2877
 #3|@bot1e|2870
 #4|@Bot1nokk|2841
@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@DarkOnBot|2565
 #8|@beastie1|2273
 #9|@calico1|2254
-#10|@OpeningsBot|2208
-#11|@anti-bot|2183
+#10|@anti-bot|2253
+#11|@OpeningsBot|2208
 #12|@OSaurus|2149
 #13|@pawnrobot|1811
-#14|@StockfishLowDepth|1268
+#14|@StockfishLowDepth|1265

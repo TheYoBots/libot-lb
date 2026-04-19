@@ -126,11 +126,11 @@ Rank|Bot|Rating
 #124|@legendbot1|1866
 #125|@MyNameIsSpeeedy|1861
 #126|@Bot_AOOP11|1858
-#127|@AnUtterlyKarBot|1829
-#128|@Dong_Xiao_Yuan|1829
-#129|@Alehkine_cat|1828
-#130|@SugarAndSpice|1828
-#131|@StockfishLowDepth|1823
+#127|@StockfishLowDepth|1838
+#128|@AnUtterlyKarBot|1829
+#129|@Dong_Xiao_Yuan|1829
+#130|@Alehkine_cat|1828
+#131|@SugarAndSpice|1828
 #132|@HumanBOT_lv1929|1808
 #133|@rayking311|1808
 #134|@RobotTigerSlav|1805
@@ -254,7 +254,7 @@ Rank|Bot|Rating
 #252|@Magic11bot_Coach|1001
 #253|@JPSBOT|958
 #254|@FireTorchV2|955
-#255|@pawnrobot|869
+#255|@pawnrobot|880
 #256|@RSVMentor|862
 #257|@GuineaBot3|845
 #258|@MateCheckCapture|828
