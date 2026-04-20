@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@ResoluteBot|2668
 #20|@icbmsaregoated2|2664
 #21|@PumpkinLatteBob|2658
-#22|@rascal1|2652
+#22|@rascal1|2650
 #23|@ibep|2633
 #24|@SF_Bot1nok|2632
 #25|@Bot1nokk|2626
@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@CloudBOT|2393
 #43|@NienishiEngine|2392
 #44|@GoblinAjedrezAI|2383
-#45|@beastie1|2375
-#46|@TacticalBot|2373
+#45|@TacticalBot|2373
+#46|@beastie1|2372
 #47|@EagleEye2021|2365
 #48|@KingfishX|2347
 #49|@Worst-ai|2346
@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@calico1|2265
 #62|@FayEFish|2265
 #63|@Bobby_Fischer_BOT|2251
-#64|@Mega_BOT|2240
-#65|@OSaurus|2239
+#64|@OSaurus|2243
+#65|@Mega_BOT|2240
 #66|@ElPeonElectrico|2228
 #67|@Coolman2021|2219
 #68|@xiang-qi|2203

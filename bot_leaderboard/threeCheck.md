@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@RaspFish|2403
 #2|@DarkOnBot|2335
 #3|@rascal1|2290
-#4|@beastie1|2203
-#5|@calico1|2134
-#6|@OSaurus|2133
+#4|@beastie1|2185
+#5|@OSaurus|2151
+#6|@calico1|2134
 #7|@OpeningsBot|1915
 #8|@clementyne1|1849
 #9|@spyros1bot|1635

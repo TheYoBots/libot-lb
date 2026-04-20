@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@bot1e|2569
 #15|@abdcebot|2565
 #16|@SF_Bot1nok|2564
-#17|@rascal1|2426
+#17|@rascal1|2435
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
 #20|@BOT_Stockfish13|2383
@@ -27,9 +27,9 @@ Rank|Bot|Rating
 #25|@Bullet_bot_0526|2344
 #26|@eNErGyOFbEiNGbOT|2326
 #27|@Alexnajax_Fan|2316
-#28|@AlfaBot|2293
-#29|@Fairy-Stockfish|2289
-#30|@beastie1|2280
+#28|@beastie1|2296
+#29|@AlfaBot|2293
+#30|@Fairy-Stockfish|2289
 #31|@Kizburb|2276
 #32|@Team_bot_08512|2267
 #33|@NewChessEngine-ai|2260
@@ -41,10 +41,10 @@ Rank|Bot|Rating
 #39|@DarkOnBot|2241
 #40|@TacticalBot|2227
 #41|@UltronBot|2199
-#42|@OSaurus|2189
-#43|@GoblinAjedrezAI|2185
-#44|@kowalabi|2178
-#45|@FayEFish|2172
+#42|@GoblinAjedrezAI|2185
+#43|@kowalabi|2178
+#44|@FayEFish|2172
+#45|@OSaurus|2164
 #46|@Trumpfor2O2O|2162
 #47|@varient-chess-bot1|2156
 #48|@ResoluteBot|2155

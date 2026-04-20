@@ -6,11 +6,11 @@ Rank|Bot|Rating
 #4|@bot1e|2569
 #5|@abdcebot|2565
 #6|@SF_Bot1nok|2564
-#7|@rascal1|2426
-#8|@beastie1|2280
+#7|@rascal1|2435
+#8|@beastie1|2296
 #9|@calico1|2244
 #10|@DarkOnBot|2241
-#11|@OSaurus|2189
+#11|@OSaurus|2164
 #12|@varient-chess-bot1|2156
 #13|@OpeningsBot|2060
 #14|@pawnrobot|1285

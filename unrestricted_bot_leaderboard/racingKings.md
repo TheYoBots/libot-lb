@@ -9,13 +9,13 @@ Rank|Bot|Rating
 #7|@RaspFish|2601
 #8|@Viet-AI|2600
 #9|@lord-bot|2581
-#10|@ToromBot|2573
+#10|@ToromBot|2572
 #11|@DarkOnBot|2562
 #12|@FayEFish|2561
 #13|@Fairy_Belzedar|2559
 #14|@EmptikVariantsBot|2557
 #15|@FireFishBOT|2547
-#16|@CheckmateX1|2542
+#16|@CheckmateX1|2546
 #17|@LudwigBOT|2536
 #18|@tbhOnBot|2529
 #19|@GoblinAjedrezAI|2528

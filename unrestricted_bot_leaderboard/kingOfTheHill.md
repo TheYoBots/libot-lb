@@ -18,9 +18,9 @@ Rank|Bot|Rating
 #16|@chessbot2880|2377
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
-#19|@TheMatrix2025|2346
-#20|@AndromedaSX1|2344
-#21|@rascal1|2338
+#19|@rascal1|2347
+#20|@TheMatrix2025|2346
+#21|@AndromedaSX1|2344
 #22|@Sooraj_Kumar_P_S|2319
 #23|@FayEFish|2317
 #24|@SF_Bot1nok|2317
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@pistol-play|2121
 #55|@firstrobot|2114
 #56|@NormalBulletBot|2109
-#57|@beastie1|2104
+#57|@beastie1|2099
 #58|@GodelEscherBot|2092
 #59|@Johnsun|2091
 #60|@Lili-Variants|2089
@@ -92,7 +92,7 @@ Rank|Bot|Rating
 #90|@ESC_BOT|1976
 #91|@Lila-Stockfish|1963
 #92|@PyChessBot|1957
-#93|@OSaurus|1955
+#93|@OSaurus|1950
 #94|@abhisun_bot|1947
 #95|@Resolved-Bot|1942
 #96|@Pineapple-Friendly|1937
