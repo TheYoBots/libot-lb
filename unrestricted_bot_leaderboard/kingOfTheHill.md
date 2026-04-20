@@ -5,9 +5,9 @@ Rank|Bot|Rating
 #3|@VariantsBot|2579
 #4|@KizVariant|2521
 #5|@Fairy-Stockfish|2486
-#6|@EmptikVariantsBot|2443
-#7|@TacticalBot|2439
-#8|@ToromBot|2430
+#6|@ToromBot|2451
+#7|@EmptikVariantsBot|2443
+#8|@TacticalBot|2439
 #9|@DarkOnBot|2400
 #10|@Peaceful4Life|2390
 #11|@RaspFish|2390
@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@chessbot2880|2377
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
-#19|@rascal1|2347
+#19|@rascal1|2348
 #20|@TheMatrix2025|2346
 #21|@AndromedaSX1|2344
 #22|@Sooraj_Kumar_P_S|2319
@@ -26,9 +26,9 @@ Rank|Bot|Rating
 #24|@SF_Bot1nok|2317
 #25|@Viet-AI|2317
 #26|@Fairy_Belzedar|2316
-#27|@Bot1nokk|2307
-#28|@GoblinAjedrezAI|2299
-#29|@MalanChess|2292
+#27|@GoblinAjedrezAI|2299
+#28|@MalanChess|2292
+#29|@Bot1nokk|2290
 #30|@LudwigBOT|2281
 #31|@HIWIN1234|2274
 #32|@LoseisnotAvailablehe|2274
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@pistol-play|2121
 #55|@firstrobot|2114
 #56|@NormalBulletBot|2109
-#57|@beastie1|2099
+#57|@beastie1|2106
 #58|@GodelEscherBot|2092
 #59|@Johnsun|2091
 #60|@Lili-Variants|2089
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@PumpkinLatteBob|2069
 #68|@vrnts_colinbot|2068
 #69|@KingfishX|2066
-#70|@calico1|2054
+#70|@calico1|2046
 #71|@NewChessEngine-ai|2046
 #72|@Hyper-Stockfish|2044
 #73|@Kizbuurb|2035
