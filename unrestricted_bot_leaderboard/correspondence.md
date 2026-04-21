@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
 #35|@HansNiemannBot|2338
-#36|@ChessatronBot|2330
+#36|@ChessatronBot|2312
 #37|@chmod-bot|2310
 #38|@bekbot|2307
 #39|@Magnus-BOT|2304
