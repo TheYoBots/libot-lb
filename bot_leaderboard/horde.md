@@ -14,6 +14,4 @@ Rank|Bot|Rating
 #12|@varient-chess-bot1|2156
 #13|@OpeningsBot|2060
 #14|@pawnrobot|1285
-#15|@hashcake1|1256
-#16|@reaper1bot|1237
-#17|@genesis1bot|1123
+#15|@genesis1bot|1123

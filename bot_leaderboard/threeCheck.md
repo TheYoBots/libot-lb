@@ -7,10 +7,7 @@ Rank|Bot|Rating
 #5|@beastie1|2160
 #6|@OSaurus|2151
 #7|@OpeningsBot|1915
-#8|@clementyne1|1849
-#9|@spyros1bot|1635
-#10|@hashcake1|1385
-#11|@reaper1bot|1379
-#12|@DavidsGuterBot|1367
-#13|@genesis1bot|1284
-#14|@pawnrobot|1185
+#8|@spyros1bot|1635
+#9|@DavidsGuterBot|1367
+#10|@genesis1bot|1284
+#11|@pawnrobot|1185

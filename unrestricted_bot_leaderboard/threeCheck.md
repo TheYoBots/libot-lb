@@ -62,9 +62,9 @@ Rank|Bot|Rating
 #60|@calico1|2161
 #61|@beastie1|2160
 #62|@OSaurus|2151
-#63|@ResoluteBot|2150
-#64|@ZhangirKhanBOT|2148
-#65|@CheckmateX1|2147
+#63|@CheckmateX1|2150
+#64|@ResoluteBot|2150
+#65|@ZhangirKhanBOT|2148
 #66|@Mega_BOT|2146
 #67|@Bot_AOOP11|2141
 #68|@gage12_bot|2140

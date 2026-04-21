@@ -5,13 +5,13 @@ Rank|Bot|Rating
 #3|@SF_Bot1nok|2866
 #4|@abdcebot|2847
 #5|@Bot1nokk|2846
-#6|@RaspFish|2747
+#6|@RaspFish|2758
 #7|@DarkOnBot|2578
 #8|@rascal1|2391
 #9|@beastie1|2306
 #10|@calico1|2291
 #11|@OpeningsBot|2208
-#12|@anti-bot|2173
+#12|@anti-bot|2172
 #13|@OSaurus|2109
 #14|@pawnrobot|1808
-#15|@StockfishLowDepth|1204
+#15|@StockfishLowDepth|1217

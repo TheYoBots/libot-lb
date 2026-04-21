@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@DarkOnBot|2707
-#2|@RaspFish|2695
+#2|@RaspFish|2688
 #3|@rascal1|2652
 #4|@SF_Bot1nok|2632
 #5|@bot1e|2622
@@ -11,8 +11,5 @@ Rank|Bot|Rating
 #9|@OSaurus|2243
 #10|@varient-chess-bot1|2120
 #11|@OpeningsBot|2037
-#12|@spyros1bot|1703
-#13|@reaper1bot|1416
-#14|@hashcake1|1407
-#15|@genesis1bot|1098
-#16|@pawnrobot|880
+#12|@genesis1bot|1098
+#13|@pawnrobot|879
