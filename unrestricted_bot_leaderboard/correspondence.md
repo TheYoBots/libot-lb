@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@pawnocchio_bot|2623
 #8|@ChamberiAjedrez|2596
 #9|@LeelaZero-UK|2585
-#10|@pawn_git|2573
-#11|@CheckmateX1|2554
+#10|@pawn_git|2565
+#11|@CheckmateX1|2555
 #12|@Alexnajax_Fan|2549
 #13|@SacrificialSage|2519
 #14|@peonasesino71|2512
@@ -331,10 +331,10 @@ Rank|Bot|Rating
 #329|@Stockfish_i7|1490
 #330|@CosmicEbony|1485
 #331|@Jwsus|1485
-#332|@PolyBOT|1481
-#333|@HerathHerath|1477
-#334|@YagizTurkiyeBOT|1476
-#335|@EdwardKillick|1469
+#332|@EdwardKillick|1484
+#333|@PolyBOT|1481
+#334|@HerathHerath|1477
+#335|@YagizTurkiyeBOT|1476
 #336|@MRT23|1469
 #337|@TheSystem_Bot|1466
 #338|@Mate-AI|1454
@@ -348,7 +348,7 @@ Rank|Bot|Rating
 #346|@emptedkiller|1413
 #347|@WaspBot|1410
 #348|@Egeytek|1405
-#349|@croco_little_bot|1395
+#349|@croco_little_bot|1388
 #350|@PZChessBot|1387
 #351|@schnecken_bot|1382
 #352|@VimBot|1380
@@ -416,6 +416,6 @@ Rank|Bot|Rating
 #414|@mustaley|973
 #415|@BerserkRandomMover|963
 #416|@G0thamB0t|954
-#417|@CCI-0|920
+#417|@CCI-0|924
 #418|@GuineaBot|866
 #419|@BogoBot|865
