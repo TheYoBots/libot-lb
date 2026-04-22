@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@DarkOnBot|2400
 #2|@RaspFish|2390
-#3|@rascal1|2344
-#4|@beastie1|2095
-#5|@calico1|2050
+#3|@rascal1|2343
+#4|@beastie1|2083
+#5|@calico1|2063
 #6|@OSaurus|1954
 #7|@varient-chess-bot1|1936
 #8|@QiOui|1819
