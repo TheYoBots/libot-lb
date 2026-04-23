@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@chessbot2880|2718
 #12|@ToromBot|2716
 #13|@PepsiForAll|2702
-#14|@DarkOnBot|2697
-#15|@GilgameshTheBot|2697
-#16|@Fairy_Belzedar|2683
+#14|@GilgameshTheBot|2697
+#15|@Fairy_Belzedar|2683
+#16|@DarkOnBot|2680
 #17|@tbhOnBot|2675
 #18|@RaspFish|2670
 #19|@ResoluteBot|2668
@@ -23,9 +23,9 @@ Rank|Bot|Rating
 #21|@PumpkinLatteBob|2658
 #22|@SF_Bot1nok|2646
 #23|@rascal1|2638
-#24|@ibep|2633
-#25|@Bot1nokk|2625
-#26|@bot1e|2617
+#24|@Bot1nokk|2633
+#25|@ibep|2633
+#26|@bot1e|2618
 #27|@SkyBlaster|2614
 #28|@colinbot|2612
 #29|@Xerus_1|2611
@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@CloudBOT|2393
 #43|@NienishiEngine|2392
 #44|@GoblinAjedrezAI|2383
-#45|@beastie1|2376
-#46|@TacticalBot|2373
+#45|@TacticalBot|2373
+#46|@beastie1|2370
 #47|@EagleEye2021|2365
 #48|@KingfishX|2347
 #49|@Worst-ai|2346
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@Yemmi-Yemmi|2305
 #55|@Bot_Mittens|2303
 #56|@OlympusCz|2292
-#57|@calico1|2282
+#57|@calico1|2287
 #58|@iplayonlyrandom|2282
 #59|@NormalBlitzBulletBot|2278
 #60|@MalanChess|2273
