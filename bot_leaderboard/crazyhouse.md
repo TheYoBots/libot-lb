@@ -13,10 +13,9 @@ Rank|Bot|Rating
 #11|@QiOui|2153
 #12|@varient-chess-bot1|2120
 #13|@rachl1|2083
-#14|@OpeningsBot|2037
-#15|@JemBok|2004
-#16|@nickl1bot|1949
-#17|@clementyne1|1896
-#18|@Lancelbot|1716
-#19|@genesis1bot|1098
-#20|@pawnrobot|879
+#14|@JemBok|2004
+#15|@nickl1bot|1949
+#16|@clementyne1|1896
+#17|@Lancelbot|1716
+#18|@genesis1bot|1098
+#19|@pawnrobot|879

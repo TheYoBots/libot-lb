@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2602
-#2|@ToromBot|2562
+#1|@RaspFish|2573
+#2|@ToromBot|2557
 #3|@varient-chess-bot1|2449
-#4|@rascal1|1955
+#4|@rascal1|1979
 #5|@StockfishLowDepth|1791
-#6|@beastie1|1751
-#7|@calico1|1700
+#6|@beastie1|1746
+#7|@calico1|1704

@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@ToromBot|2929
+#6|@ToromBot|2932
 #7|@Coolman2021|2879
 #8|@TheMatrix2029|2866
 #9|@abdcebot|2864
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@varient-chess-bot1|2792
 #19|@lord-bot|2789
 #20|@FireFishBOT|2785
-#21|@CheckmateX1|2773
+#21|@CheckmateX1|2775
 #22|@VariantsTop|2765
 #23|@Viet-AI|2765
 #24|@TheMatrix2025|2746
@@ -164,7 +164,7 @@ Rank|Bot|Rating
 #162|@kowalabi|2103
 #163|@PyChessBot|2102
 #164|@TurkiyeHogwartsBOT|2099
-#165|@anti-bot|2091
+#165|@anti-bot|2088
 #166|@CatNail|2078
 #167|@ZamuChess|2049
 #168|@Botzer|2020

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2929
+#1|@ToromBot|2932
 #2|@abdcebot|2864
 #3|@SF_Bot1nok|2861
 #4|@bot1e|2854
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@calico1|2316
 #11|@OSaurus|2174
 #12|@kowalabi|2103
-#13|@anti-bot|2091
+#13|@anti-bot|2088
 #14|@QiOui|1976
 #15|@pawnrobot|1808
 #16|@StockfishLowDepth|1200
