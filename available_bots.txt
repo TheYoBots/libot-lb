@@ -1238,6 +1238,7 @@ fred-fast-chess
 freddystehtaufteddy
 freddyybot
 freedbeast
+friendlybot_1700
 friendoftosik2
 fringe407
 fringecases
@@ -3585,4 +3586,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-friendlybot_1700

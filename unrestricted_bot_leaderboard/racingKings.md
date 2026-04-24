@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@DarkOnBot|2562
 #11|@FayEFish|2561
 #12|@Fairy_Belzedar|2559
-#13|@EmptikVariantsBot|2557
-#14|@RaspFish|2557
+#13|@RaspFish|2558
+#14|@EmptikVariantsBot|2557
 #15|@FireFishBOT|2547
 #16|@CheckmateX1|2541
 #17|@LudwigBOT|2536
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@Stockfish-MEDIUM|2043
 #108|@Crepusculum|2036
 #109|@EstmileBot|2018
-#110|@rascal1|1987
+#110|@rascal1|1986
 #111|@Less_of_a_threat|1979
 #112|@BGSBot|1969
 #113|@Yemmi-Yemmi|1964
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@GgKedi|1729
 #143|@david9426_bot|1727
 #144|@SLvov-bot|1710
-#145|@calico1|1704
+#145|@calico1|1702
 #146|@Aravdadhaniabot|1701
 #147|@PowerOnBot|1701
 #148|@Chess_omar_2009|1698
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@ROBOT_RANDEER2007|1651
 #155|@Heman36541234578|1647
 #156|@aliooooooo444|1596
-#157|@OSaurus|1583
+#157|@OSaurus|1590
 #158|@HiddeNL|1573
 #159|@TheSystem_Bot|1572
 #160|@Groot123456|1566
