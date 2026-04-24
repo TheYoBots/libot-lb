@@ -23,9 +23,9 @@ Rank|Bot|Rating
 #21|@PumpkinLatteBob|2658
 #22|@SF_Bot1nok|2646
 #23|@rascal1|2638
-#24|@Bot1nokk|2633
-#25|@ibep|2633
-#26|@bot1e|2618
+#24|@ibep|2633
+#25|@Bot1nokk|2627
+#26|@bot1e|2625
 #27|@SkyBlaster|2614
 #28|@colinbot|2612
 #29|@Xerus_1|2611

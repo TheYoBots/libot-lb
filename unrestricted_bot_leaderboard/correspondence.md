@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@LeelaZero-UK|2585
 #10|@CheckmateX1|2555
 #11|@Alexnajax_Fan|2549
-#12|@pawn_git|2529
-#13|@SacrificialSage|2519
-#14|@peonasesino71|2512
+#12|@SacrificialSage|2519
+#13|@peonasesino71|2512
+#14|@pawn_git|2504
 #15|@ServerFish|2494
 #16|@colinbot|2492
 #17|@Bingo202|2484
@@ -348,7 +348,7 @@ Rank|Bot|Rating
 #346|@emptedkiller|1413
 #347|@WaspBot|1410
 #348|@Egeytek|1405
-#349|@croco_little_bot|1388
+#349|@croco_little_bot|1387
 #350|@PZChessBot|1387
 #351|@schnecken_bot|1382
 #352|@VimBot|1380

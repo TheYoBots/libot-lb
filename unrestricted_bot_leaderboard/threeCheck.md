@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@GoblinAjedrezAI|2371
 #35|@Viet_BOT|2367
 #36|@Bot1nokk|2348
-#37|@DarkOnBot|2335
+#37|@DarkOnBot|2339
 #38|@Zer0_Tw0|2332
 #39|@colinbot|2309
 #40|@LudwigBOT|2304
