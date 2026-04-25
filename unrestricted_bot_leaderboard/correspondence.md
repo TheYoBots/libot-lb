@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2942
 #2|@Grzechu86|2852
-#3|@AjedrezChamberi|2799
-#4|@Moment-That-Inspires|2780
+#3|@Moment-That-Inspires|2815
+#4|@AjedrezChamberi|2799
 #5|@Magicianrobot|2740
 #6|@H-Zero|2650
 #7|@pawnocchio_bot|2623
@@ -42,11 +42,11 @@ Rank|Bot|Rating
 #40|@Xmas_dragon|2300
 #41|@Ujwal1001|2297
 #42|@robiachess|2295
-#43|@ChessatronBot|2287
-#44|@Quanticade|2286
-#45|@mrohCentaur|2285
-#46|@Toodfish|2273
-#47|@Cheng-4|2269
+#43|@Quanticade|2286
+#44|@mrohCentaur|2285
+#45|@Toodfish|2273
+#46|@Cheng-4|2269
+#47|@ChessatronBot|2257
 #48|@eggnog-chess-engine|2254
 #49|@Blue_Mongoose|2249
 #50|@Zimbabwean_chessbot|2249
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Tundra4|2227
 #63|@SEtheChessGod|2224
 #64|@Abuziddin-BOT|2219
-#65|@Blunderbuss-bot|2209
+#65|@Blunderbuss-bot|2217
 #66|@BalloonBot|2204
 #67|@AbhijithHISBot|2201
 #68|@Ar4Asd1-BOT|2197

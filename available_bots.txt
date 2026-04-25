@@ -2271,6 +2271,7 @@ nishythebot
 nithin-das
 nittedal
 niyazicarlsen
+nmai252withnnue
 nmasdfbot
 nmi_bot
 nnue
@@ -2836,6 +2837,7 @@ sillybot
 silverfishengine
 simbelmyne-bot
 simintel
+simonericafonso
 simpafteur
 simple-bot
 simple_bot_lt
@@ -3586,5 +3588,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-nmai252withnnue
-simonericafonso
