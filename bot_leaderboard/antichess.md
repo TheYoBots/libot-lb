@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2925
-#2|@Bot1nokk|2883
-#3|@abdcebot|2869
-#4|@bot1e|2841
-#5|@SF_Bot1nok|2837
+#1|@ToromBot|2922
+#2|@Bot1nokk|2894
+#3|@abdcebot|2872
+#4|@bot1e|2838
+#5|@SF_Bot1nok|2830
 #6|@RaspFish|2703
 #7|@DarkOnBot|2567
 #8|@rascal1|2388
@@ -16,4 +16,4 @@ Rank|Bot|Rating
 #14|@anti-bot|1971
 #15|@rachl1|1939
 #16|@pawnrobot|1808
-#17|@StockfishLowDepth|1210
+#17|@StockfishLowDepth|1192

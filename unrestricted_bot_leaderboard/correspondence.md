@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@Alexnajax_Fan|2549
 #12|@SacrificialSage|2519
 #13|@peonasesino71|2512
-#14|@pawn_git|2504
-#15|@ServerFish|2494
-#16|@colinbot|2492
+#14|@ServerFish|2494
+#15|@colinbot|2492
+#16|@pawn_git|2492
 #17|@Bingo202|2484
 #18|@TorBot|2475
 #19|@Viet-AI|2471
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Tundra4|2227
 #63|@SEtheChessGod|2224
 #64|@Abuziddin-BOT|2219
-#65|@Blunderbuss-bot|2217
+#65|@Blunderbuss-bot|2214
 #66|@BalloonBot|2204
 #67|@AbhijithHISBot|2201
 #68|@Ar4Asd1-BOT|2197
