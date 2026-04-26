@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@Worst-ai|2585
 #57|@WilliamGAsaad|2584
 #58|@Team_bot_08512|2581
-#59|@DarkOnBot|2567
+#59|@DarkOnBot|2571
 #60|@YoBot_v2|2565
 #61|@Nebulogic|2564
 #62|@Vinh_VariantsBot|2561
@@ -115,9 +115,9 @@ Rank|Bot|Rating
 #113|@Less_of_a_threat|2357
 #114|@Viet_BOT|2354
 #115|@higuyuu67776|2352
-#116|@beastie1|2337
-#117|@Karpov_bot|2335
-#118|@TeamChelsie|2331
+#116|@Karpov_bot|2335
+#117|@TeamChelsie|2331
+#118|@beastie1|2327
 #119|@calico1|2325
 #120|@AI69|2312
 #121|@NewChessEngine-ai|2309
@@ -140,9 +140,9 @@ Rank|Bot|Rating
 #138|@Hyper-Stockfish|2230
 #139|@CocopikachuBOT|2226
 #140|@TungJohn|2225
-#141|@Good-Game-123|2221
-#142|@The-Fastest-Bot|2218
-#143|@OSaurus|2215
+#141|@OSaurus|2222
+#142|@Good-Game-123|2221
+#143|@The-Fastest-Bot|2218
 #144|@All_Except_Chess960|2214
 #145|@SaturnBot|2214
 #146|@xDmanBOT|2214
@@ -315,7 +315,7 @@ Rank|Bot|Rating
 #313|@PranavChessBot|1212
 #314|@puisne|1212
 #315|@Toxic_Bot|1202
-#316|@StockfishLowDepth|1192
+#316|@StockfishLowDepth|1194
 #317|@Ar4Asd1-BOT|1181
 #318|@DespacitoBot|1175
 #319|@reaper1bot|1162
