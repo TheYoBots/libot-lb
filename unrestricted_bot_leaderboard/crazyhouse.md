@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@PepsiForAll|2702
 #14|@GilgameshTheBot|2697
 #15|@Fairy_Belzedar|2683
-#16|@DarkOnBot|2676
+#16|@DarkOnBot|2680
 #17|@tbhOnBot|2675
 #18|@ResoluteBot|2668
 #19|@RaspFish|2665
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@SF_Bot1nok|2647
 #23|@rascal1|2634
 #24|@ibep|2633
-#25|@Bot1nokk|2622
-#26|@bot1e|2620
+#25|@bot1e|2620
+#26|@Bot1nokk|2617
 #27|@SkyBlaster|2614
 #28|@colinbot|2612
 #29|@Xerus_1|2611
@@ -53,9 +53,9 @@ Rank|Bot|Rating
 #51|@EmptikBot|2332
 #52|@lord-bot|2329
 #53|@catalanbotI|2307
-#54|@Yemmi-Yemmi|2305
-#55|@Bot_Mittens|2303
-#56|@OSaurus|2302
+#54|@OSaurus|2307
+#55|@Yemmi-Yemmi|2305
+#56|@Bot_Mittens|2303
 #57|@OlympusCz|2292
 #58|@iplayonlyrandom|2282
 #59|@NormalBlitzBulletBot|2278
@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@MyNameIsWhatLOL|2200
 #71|@Zer0_Tw0|2200
 #72|@UltronBot|2197
-#73|@QiOui|2188
-#74|@Viet-BOT|2185
+#73|@Viet-BOT|2185
+#74|@QiOui|2183
 #75|@lightspeed_bot|2177
 #76|@Sooraj_Kumar_P_S|2167
 #77|@Peaceful4Life|2160

@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@peonasesino71|2512
 #14|@ServerFish|2494
 #15|@colinbot|2492
-#16|@Bingo202|2484
-#17|@pawn_git|2475
+#16|@pawn_git|2488
+#17|@Bingo202|2484
 #18|@TorBot|2475
 #19|@Viet-AI|2471
 #20|@LaQuaisha|2465
@@ -416,6 +416,5 @@ Rank|Bot|Rating
 #414|@mustaley|973
 #415|@BerserkRandomMover|963
 #416|@G0thamB0t|954
-#417|@CCI-0|900
-#418|@GuineaBot|866
-#419|@BogoBot|865
+#417|@GuineaBot|866
+#418|@BogoBot|865

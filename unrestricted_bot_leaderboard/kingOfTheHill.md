@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@virus_exe-bot|2013
 #79|@CocopikachuBOT|2009
 #80|@lightspeed_bot|2007
-#81|@OSaurus|2004
+#81|@OSaurus|2005
 #82|@chesshyperbot|2002
 #83|@Yemmi-Yemmi|1994
 #84|@Galaxy_Guardian|1993
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@kowalabi|1853
 #112|@Botzer|1851
 #113|@B0T5_RU13|1835
-#114|@QiOui|1827
+#114|@QiOui|1826
 #115|@STockfishdestroyBot|1825
 #116|@AldoGamer001_Bot|1813
 #117|@admin-bot|1809
