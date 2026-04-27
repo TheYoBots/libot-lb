@@ -1543,6 +1543,7 @@ illuminachessengine
 ilovecatgirl
 ilya0510karimvagapov
 imitation-net
+imitator2000
 immortaldwirz
 imnotpro1906_beta
 implosio
@@ -3588,4 +3589,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-imitator2000

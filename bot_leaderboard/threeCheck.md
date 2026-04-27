@@ -16,4 +16,3 @@ Rank|Bot|Rating
 #14|@Lancelbot|1724
 #15|@spyros1bot|1626
 #16|@DavidsGuterBot|1367
-#17|@pawnrobot|1185
