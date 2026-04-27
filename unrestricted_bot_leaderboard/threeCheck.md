@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@lord-bot|2300
 #42|@Worst-ai|2296
 #43|@KingfishX|2285
-#44|@rascal1|2277
+#44|@rascal1|2278
 #45|@The-Fastest-Bot|2277
 #46|@CocopikachuBOT|2274
 #47|@TheMatrix2025|2272
