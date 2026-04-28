@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2391
+#1|@RaspFish|2380
 #2|@DarkOnBot|2314
 #3|@rascal1|2278
 #4|@beastie1|2198
@@ -9,10 +9,13 @@ Rank|Bot|Rating
 #7|@kowalabi|2025
 #8|@QiOui|1960
 #9|@OpeningsBot|1914
-#10|@clementyne1|1873
-#11|@JemBok|1867
-#12|@rachl1|1864
+#10|@JemBok|1867
+#11|@rachl1|1864
+#12|@clementyne1|1856
 #13|@nickl1bot|1853
-#14|@Lancelbot|1724
-#15|@spyros1bot|1626
-#16|@DavidsGuterBot|1367
+#14|@spyros1bot|1670
+#15|@Lancelbot|1659
+#16|@Groot123456|1531
+#17|@hashcake1|1381
+#18|@reaper1bot|1377
+#19|@genesis1bot|1286

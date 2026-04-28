@@ -14,6 +14,9 @@ Rank|Bot|Rating
 #12|@rachl1|2109
 #13|@QiOui|2095
 #14|@OpeningsBot|2083
-#15|@JemBok|1977
-#16|@nickl1bot|1970
-#17|@clementyne1|1962
+#15|@clementyne1|1980
+#16|@JemBok|1977
+#17|@nickl1bot|1970
+#18|@hashcake1|1244
+#19|@reaper1bot|1234
+#20|@genesis1bot|1131
