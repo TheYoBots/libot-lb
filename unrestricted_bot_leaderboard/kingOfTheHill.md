@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@chessbot2880|2377
 #16|@DarkOnBot|2373
 #17|@Karpov_bot|2359
-#18|@rascal1|2356
+#18|@rascal1|2353
 #19|@ElPeonElectrico|2351
 #20|@TheMatrix2025|2346
 #21|@AndromedaSX1|2344
@@ -67,8 +67,8 @@ Rank|Bot|Rating
 #65|@newengine2022|2071
 #66|@PumpkinLatteBob|2069
 #67|@vrnts_colinbot|2068
-#68|@KingfishX|2066
-#69|@beastie1|2064
+#68|@beastie1|2066
+#69|@KingfishX|2066
 #70|@calico1|2049
 #71|@NewChessEngine-ai|2046
 #72|@Hyper-Stockfish|2044

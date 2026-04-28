@@ -6,14 +6,14 @@ Rank|Bot|Rating
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
 #6|@ToromBot|2924
-#7|@Bot1nokk|2903
+#7|@Bot1nokk|2905
 #8|@abdcebot|2881
 #9|@Coolman2021|2879
 #10|@TheMatrix2029|2866
 #11|@MEGA-NOOB-BOT|2859
 #12|@UltronBot|2859
-#13|@SF_Bot1nok|2827
-#14|@bot1e|2826
+#13|@bot1e|2829
+#14|@SF_Bot1nok|2827
 #15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
 #17|@TacticalBot|2796
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@Worst-ai|2585
 #57|@WilliamGAsaad|2584
 #58|@Team_bot_08512|2581
-#59|@DarkOnBot|2572
+#59|@DarkOnBot|2567
 #60|@YoBot_v2|2565
 #61|@Nebulogic|2564
 #62|@Vinh_VariantsBot|2561
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@ESC_BOT|2394
 #105|@CatBot_14|2393
 #106|@NormalBulletBot|2393
-#107|@rascal1|2383
+#107|@rascal1|2385
 #108|@AldoGamer001_Bot|2376
 #109|@Resolved-Bot|2369
 #110|@Trumpfor2O2O|2366
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@higuyuu67776|2352
 #115|@Karpov_bot|2335
 #116|@TeamChelsie|2331
-#117|@beastie1|2330
+#117|@beastie1|2329
 #118|@calico1|2329
 #119|@AI69|2312
 #120|@NewChessEngine-ai|2309
@@ -173,7 +173,7 @@ Rank|Bot|Rating
 #171|@TheLegitLegend|2010
 #172|@CrayyBot|1989
 #173|@BetaZ|1973
-#174|@anti-bot|1966
+#174|@anti-bot|1972
 #175|@antichesssss|1964
 #176|@Menganti|1963
 #177|@CloudBOT|1950
@@ -312,8 +312,8 @@ Rank|Bot|Rating
 #310|@KaTHHHH|1264
 #311|@chicken_farmer|1241
 #312|@PranavChessBot|1212
-#313|@Toxic_Bot|1202
-#314|@StockfishLowDepth|1188
+#313|@StockfishLowDepth|1209
+#314|@Toxic_Bot|1202
 #315|@Ar4Asd1-BOT|1181
 #316|@DespacitoBot|1175
 #317|@BogoBot|1155

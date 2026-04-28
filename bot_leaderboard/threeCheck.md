@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2380
 #2|@DarkOnBot|2314
-#3|@rascal1|2278
-#4|@beastie1|2198
+#3|@rascal1|2260
+#4|@beastie1|2216
 #5|@calico1|2171
 #6|@OSaurus|2151
 #7|@kowalabi|2025
