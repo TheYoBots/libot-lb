@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2914
-#2|@Bot1nokk|2905
-#3|@abdcebot|2881
-#4|@bot1e|2836
-#5|@SF_Bot1nok|2827
+#2|@Bot1nokk|2909
+#3|@abdcebot|2887
+#4|@bot1e|2833
+#5|@SF_Bot1nok|2821
 #6|@RaspFish|2705
-#7|@DarkOnBot|2567
+#7|@DarkOnBot|2566
 #8|@rascal1|2398
 #9|@beastie1|2334
 #10|@calico1|2301
@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@kowalabi|2101
 #13|@QiOui|2018
 #14|@anti-bot|1972
-#15|@rachl1|1953
-#16|@Groot123456|1826
+#15|@rachl1|1965
+#16|@Groot123456|1830
 #17|@clementyne1|1712
 #18|@StockfishLowDepth|1209

@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@EmptikBot|2616
 #10|@LoseisnotAvailablehe|2613
 #11|@EmptikVariantsBot|2589
-#12|@Jussicas|2577
-#13|@Coolman2021|2568
-#14|@bot1e|2567
+#12|@bot1e|2582
+#13|@Jussicas|2577
+#14|@Coolman2021|2568
 #15|@Viet-BOT|2555
 #16|@CloudBot_v2|2544
 #17|@Fairy_Belzedar|2544
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@SF_Bot1nok|2238
 #51|@rascal1|2232
 #52|@OlympusCz|2231
-#53|@beastie1|2216
+#53|@beastie1|2215
 #54|@Vinh_VariantsBot|2215
 #55|@Kizburb|2214
 #56|@xiang-qi|2207

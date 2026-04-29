@@ -99,7 +99,7 @@ Rank|Bot|Rating
 #97|@azdad|1936
 #98|@varient-chess-bot1|1936
 #99|@HyperLitikBOT|1930
-#100|@StockfishLowDepth|1919
+#100|@StockfishLowDepth|1922
 #101|@DrSmartBugs|1904
 #102|@Variantenkoning|1892
 #103|@PetersTestBot|1890
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@relevantproblem|1857
 #111|@Botzer|1851
 #112|@B0T5_RU13|1835
-#113|@QiOui|1826
+#113|@QiOui|1831
 #114|@STockfishdestroyBot|1825
 #115|@AldoGamer001_Bot|1813
 #116|@admin-bot|1809
@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@FairyTailRegimeBot|1785
 #126|@Nobody11892|1785
 #127|@JemBok|1782
-#128|@rachl1|1776
+#128|@rachl1|1771
 #129|@clementyne1|1757
 #130|@Viet-BOT|1750
 #131|@clrsrc_lc0|1742
