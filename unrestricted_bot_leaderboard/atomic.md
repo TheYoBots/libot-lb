@@ -73,8 +73,8 @@ Rank|Bot|Rating
 #71|@Johnsun|2257
 #72|@ToromBot|2245
 #73|@YoBot_v2|2243
-#74|@MalanChess|2238
-#75|@rascal1|2234
+#74|@rascal1|2239
+#75|@MalanChess|2238
 #76|@STockfishdestroyBot|2227
 #77|@Kizburb|2220
 #78|@MagnusCarlsenTheBOT|2215
@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@SugarAndSpice|2102
 #126|@Botzer|2097
 #127|@Sharkbot|2095
-#128|@beastie1|2083
+#128|@beastie1|2077
 #129|@DrSmartBugs|2077
 #130|@Einstein_NNUE|2072
 #131|@Dark_evil_bot|2071

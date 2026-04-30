@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@peonasesino71|2512
 #13|@ServerFish|2494
 #14|@colinbot|2492
-#15|@pawn_git|2485
+#15|@pawn_git|2489
 #16|@Bingo202|2484
 #17|@TorBot|2475
 #18|@Viet-AI|2471
@@ -46,8 +46,8 @@ Rank|Bot|Rating
 #44|@Toodfish|2273
 #45|@Cheng-4|2269
 #46|@ChessatronBot|2257
-#47|@OpeningsBot|2255
-#48|@eggnog-chess-engine|2254
+#47|@eggnog-chess-engine|2254
+#48|@OpeningsBot|2250
 #49|@Blue_Mongoose|2249
 #50|@Zimbabwean_chessbot|2249
 #51|@nukechess-bot|2244
@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@Tundra4|2227
 #62|@SEtheChessGod|2224
 #63|@Abuziddin-BOT|2219
-#64|@Blunderbuss-bot|2205
+#64|@Blunderbuss-bot|2207
 #65|@BalloonBot|2204
 #66|@AbhijithHISBot|2201
 #67|@Ar4Asd1-BOT|2197
