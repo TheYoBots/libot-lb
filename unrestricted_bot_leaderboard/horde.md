@@ -36,11 +36,11 @@ Rank|Bot|Rating
 #34|@ibep|2258
 #35|@LudwigBOT|2256
 #36|@CloudBot_v2|2252
-#37|@calico1|2247
+#37|@beastie1|2249
 #38|@ElPeonElectrico|2242
-#39|@beastie1|2227
-#40|@TacticalBot|2227
-#41|@OSaurus|2218
+#39|@TacticalBot|2227
+#40|@calico1|2223
+#41|@OSaurus|2219
 #42|@UltronBot|2199
 #43|@GoblinAjedrezAI|2185
 #44|@FayEFish|2172
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@xDmanBOT|1258
 #184|@yobmef|1258
 #185|@hashcake1|1247
-#186|@reaper1bot|1234
+#186|@reaper1bot|1242
 #187|@TheSystem_Bot|1218
 #188|@GuineaBot3|1212
 #189|@admin-bot|1209
@@ -194,8 +194,8 @@ Rank|Bot|Rating
 #192|@ChessLLModel|1178
 #193|@BetaOneBot|1166
 #194|@ZX-Chess|1145
-#195|@genesis1bot|1127
-#196|@duythong1402|1120
+#195|@duythong1402|1120
+#196|@genesis1bot|1119
 #197|@fairy-vvrr|1102
 #198|@alvin-chess-bot|1091
 #199|@MontyPythonFlying|1037

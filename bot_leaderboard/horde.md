@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@SF_Bot1nok|2546
 #6|@rascal1|2375
 #7|@DarkOnBot|2259
-#8|@calico1|2247
-#9|@beastie1|2227
-#10|@OSaurus|2218
+#8|@beastie1|2249
+#9|@calico1|2223
+#10|@OSaurus|2219
 #11|@kowalabi|2127
 #12|@rachl1|2109
 #13|@QiOui|2101
@@ -18,5 +18,5 @@ Rank|Bot|Rating
 #16|@clementyne1|1970
 #17|@nickl1bot|1965
 #18|@hashcake1|1247
-#19|@reaper1bot|1234
-#20|@genesis1bot|1127
+#19|@reaper1bot|1242
+#20|@genesis1bot|1119
