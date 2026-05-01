@@ -73,8 +73,8 @@ Rank|Bot|Rating
 #71|@Johnsun|2257
 #72|@ToromBot|2245
 #73|@YoBot_v2|2243
-#74|@rascal1|2239
-#75|@MalanChess|2238
+#74|@MalanChess|2238
+#75|@rascal1|2228
 #76|@STockfishdestroyBot|2227
 #77|@Kizburb|2220
 #78|@MagnusCarlsenTheBOT|2215
@@ -127,10 +127,10 @@ Rank|Bot|Rating
 #125|@SugarAndSpice|2102
 #126|@Botzer|2097
 #127|@Sharkbot|2095
-#128|@DrSmartBugs|2077
-#129|@Einstein_NNUE|2072
-#130|@Dark_evil_bot|2071
-#131|@beastie1|2070
+#128|@beastie1|2086
+#129|@DrSmartBugs|2077
+#130|@Einstein_NNUE|2072
+#131|@Dark_evil_bot|2071
 #132|@Karpov_bot|2069
 #133|@alvinl22_LBot|2068
 #134|@Vinnikk|2061
@@ -149,8 +149,8 @@ Rank|Bot|Rating
 #147|@OlympusCz|2004
 #148|@BalloonBot|2003
 #149|@CatBot329|2000
-#150|@OSaurus|1994
-#151|@Zer0_Tw0|1991
+#150|@Zer0_Tw0|1991
+#151|@OSaurus|1989
 #152|@BigBrainen|1984
 #153|@HakoAI|1983
 #154|@relevantproblem|1976

@@ -49,10 +49,10 @@ Rank|Bot|Rating
 #47|@vrnts_colinbot|2266
 #48|@HIWIN1234|2261
 #49|@YoBot_v2|2257
-#50|@beastie1|2250
+#50|@rascal1|2248
 #51|@SF_Bot1nok|2238
 #52|@OlympusCz|2231
-#53|@rascal1|2225
+#53|@beastie1|2226
 #54|@Vinh_VariantsBot|2215
 #55|@Kizburb|2214
 #56|@xiang-qi|2207
