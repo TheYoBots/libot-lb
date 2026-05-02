@@ -46,10 +46,10 @@ Rank|Bot|Rating
 #44|@lightspeed_bot|2396
 #45|@thibot|2393
 #46|@ToromBot|2387
-#47|@DarkOnBot|2376
-#48|@Jussicas|2373
-#49|@RaspFish|2372
-#50|@SF_Bot1nok|2372
+#47|@Jussicas|2373
+#48|@RaspFish|2372
+#49|@SF_Bot1nok|2372
+#50|@DarkOnBot|2371
 #51|@TheMatrix2025|2368
 #52|@Lili-Variants|2357
 #53|@Viet_BOT|2344
@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@Bot_AOOP11|2314
 #62|@KingfishX|2312
 #63|@Viet-BOT|2312
-#64|@IAMSTOCKFISH123|2307
-#65|@rascal1|2303
+#64|@rascal1|2308
+#65|@IAMSTOCKFISH123|2307
 #66|@TestingBot1|2294
 #67|@Bot1nokk|2292
 #68|@NormalBulletBot|2291
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@BGSBot|1969
 #112|@Yemmi-Yemmi|1964
 #113|@admin-bot|1955
-#114|@OpeningsBot|1951
+#114|@OpeningsBot|1950
 #115|@MyNameIsSpeedy|1935
 #116|@Pineapple-Friendly|1912
 #117|@Teamleaderbot|1904

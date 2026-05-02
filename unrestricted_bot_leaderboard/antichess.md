@@ -7,13 +7,13 @@ Rank|Bot|Rating
 #5|@EmptikVariantsBot|2957
 #6|@ToromBot|2914
 #7|@Bot1nokk|2902
-#8|@abdcebot|2888
+#8|@abdcebot|2890
 #9|@Coolman2021|2879
 #10|@TheMatrix2029|2866
 #11|@MEGA-NOOB-BOT|2859
 #12|@UltronBot|2859
-#13|@bot1e|2838
-#14|@SF_Bot1nok|2830
+#13|@bot1e|2840
+#14|@SF_Bot1nok|2827
 #15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
 #17|@TacticalBot|2796
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@ESC_BOT|2394
 #105|@CatBot_14|2393
 #106|@NormalBulletBot|2393
-#107|@rascal1|2388
+#107|@rascal1|2390
 #108|@AldoGamer001_Bot|2376
 #109|@Resolved-Bot|2369
 #110|@Trumpfor2O2O|2366
@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@B0T5_RU13|2011
 #171|@TheLegitLegend|2010
 #172|@CrayyBot|1989
-#173|@anti-bot|1985
+#173|@anti-bot|1981
 #174|@BetaZ|1973
 #175|@antichesssss|1964
 #176|@Menganti|1963

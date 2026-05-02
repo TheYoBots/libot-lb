@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@ServerFish|2494
 #14|@colinbot|2492
 #15|@Bingo202|2484
-#16|@pawn_git|2478
+#16|@pawn_git|2484
 #17|@TorBot|2475
 #18|@Viet-AI|2471
 #19|@LaQuaisha|2465
@@ -49,8 +49,8 @@ Rank|Bot|Rating
 #47|@eggnog-chess-engine|2254
 #48|@Blue_Mongoose|2249
 #49|@Zimbabwean_chessbot|2249
-#50|@OpeningsBot|2246
-#51|@nukechess-bot|2244
+#50|@nukechess-bot|2244
+#51|@OpeningsBot|2244
 #52|@SicilianViper|2243
 #53|@mayhem23111|2240
 #54|@Lila-Stockfish|2238
