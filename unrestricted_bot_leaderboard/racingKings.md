@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@KingfishX|2312
 #63|@Viet-BOT|2312
 #64|@IAMSTOCKFISH123|2307
-#65|@rascal1|2306
+#65|@rascal1|2303
 #66|@TestingBot1|2294
 #67|@Bot1nokk|2292
 #68|@NormalBulletBot|2291
@@ -113,7 +113,7 @@ Rank|Bot|Rating
 #111|@BGSBot|1969
 #112|@Yemmi-Yemmi|1964
 #113|@admin-bot|1955
-#114|@OpeningsBot|1948
+#114|@OpeningsBot|1951
 #115|@MyNameIsSpeedy|1935
 #116|@Pineapple-Friendly|1912
 #117|@Teamleaderbot|1904

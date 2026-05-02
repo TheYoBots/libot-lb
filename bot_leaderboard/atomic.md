@@ -19,5 +19,5 @@ Rank|Bot|Rating
 #17|@Lancelbot|1381
 #18|@hashcake1|1246
 #19|@reaper1bot|1238
-#20|@genesis1bot|1193
+#20|@genesis1bot|1183
 #21|@StockfishLowDepth|1127

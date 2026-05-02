@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@ToromBot|2732
 #2|@bot1e|2605
 #3|@Bot1nokk|2597
-#4|@abdcebot|2581
+#4|@abdcebot|2582
 #5|@SF_Bot1nok|2547
-#6|@rascal1|2375
+#6|@rascal1|2365
 #7|@DarkOnBot|2261
 #8|@beastie1|2249
 #9|@calico1|2223
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@kowalabi|2127
 #12|@rachl1|2109
 #13|@QiOui|2101
-#14|@OpeningsBot|2083
+#14|@OpeningsBot|2098
 #15|@JemBok|1997
 #16|@clementyne1|1970
 #17|@nickl1bot|1965

@@ -47,9 +47,9 @@ Rank|Bot|Rating
 #45|@Cheng-4|2269
 #46|@ChessatronBot|2257
 #47|@eggnog-chess-engine|2254
-#48|@OpeningsBot|2250
-#49|@Blue_Mongoose|2249
-#50|@Zimbabwean_chessbot|2249
+#48|@Blue_Mongoose|2249
+#49|@Zimbabwean_chessbot|2249
+#50|@OpeningsBot|2246
 #51|@nukechess-bot|2244
 #52|@SicilianViper|2243
 #53|@mayhem23111|2240

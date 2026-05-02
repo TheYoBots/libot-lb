@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@bot1e|2605
 #11|@Bot1nokk|2597
 #12|@ttBOT|2584
-#13|@abdcebot|2581
+#13|@abdcebot|2582
 #14|@compchess2|2579
 #15|@Lili-ai|2572
 #16|@SF_Bot1nok|2547
@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@EmptikVariantsBot|2402
 #19|@BOT_Stockfish13|2383
 #20|@EmptikBot|2378
-#21|@rascal1|2375
-#22|@LoseisnotAvailablehe|2369
+#21|@LoseisnotAvailablehe|2369
+#22|@rascal1|2365
 #23|@lord-bot|2362
 #24|@Hyper-Stockfish|2358
 #25|@Bullet_bot_0526|2344
@@ -60,8 +60,8 @@ Rank|Bot|Rating
 #58|@CheckmateX1|2102
 #59|@QiOui|2101
 #60|@chessbot2880|2098
-#61|@Galaxy_Guardian|2096
-#62|@OpeningsBot|2083
+#61|@OpeningsBot|2098
+#62|@Galaxy_Guardian|2096
 #63|@KingfishX|2081
 #64|@iplayonlyrandom|2075
 #65|@Zimbabwean_chessbot|2073

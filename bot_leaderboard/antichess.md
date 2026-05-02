@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2914
 #2|@Bot1nokk|2902
-#3|@abdcebot|2887
-#4|@bot1e|2841
+#3|@abdcebot|2888
+#4|@bot1e|2838
 #5|@SF_Bot1nok|2830
 #6|@RaspFish|2708
 #7|@DarkOnBot|2554
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@OSaurus|2256
 #12|@kowalabi|2108
 #13|@QiOui|2024
-#14|@anti-bot|1976
+#14|@anti-bot|1985
 #15|@rachl1|1939
 #16|@nickl1bot|1929
 #17|@JemBok|1797
