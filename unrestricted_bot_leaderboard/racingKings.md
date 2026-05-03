@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@EvenMatchup|2336
 #57|@ibep|2333
 #58|@CloudBot_v2|2331
-#59|@rascal1|2325
+#59|@rascal1|2323
 #60|@colinbot|2322
 #61|@Worst-ai|2319
 #62|@Bot_AOOP11|2314
@@ -91,8 +91,8 @@ Rank|Bot|Rating
 #89|@OlympusCz|2200
 #90|@Trainspotter|2200
 #91|@Hyper-Stockfish|2189
-#92|@Johnsun|2181
-#93|@bot1e|2177
+#92|@bot1e|2183
+#93|@Johnsun|2181
 #94|@HuxZero|2176
 #95|@AnUtterlyKarBot|2174
 #96|@knight_128|2144
@@ -110,10 +110,10 @@ Rank|Bot|Rating
 #108|@Crepusculum|2036
 #109|@EstmileBot|2018
 #110|@Less_of_a_threat|1979
-#111|@BGSBot|1969
-#112|@Yemmi-Yemmi|1964
-#113|@admin-bot|1955
-#114|@OpeningsBot|1947
+#111|@OpeningsBot|1979
+#112|@BGSBot|1969
+#113|@Yemmi-Yemmi|1964
+#114|@admin-bot|1955
 #115|@MyNameIsSpeedy|1935
 #116|@Pineapple-Friendly|1912
 #117|@Teamleaderbot|1904

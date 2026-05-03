@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2942
 #2|@Grzechu86|2852
-#3|@Moment-That-Inspires|2815
-#4|@AjedrezChamberi|2799
+#3|@AjedrezChamberi|2799
+#4|@Moment-That-Inspires|2765
 #5|@Magicianrobot|2740
 #6|@H-Zero|2650
 #7|@pawnocchio_bot|2623
@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@peonasesino71|2512
 #13|@ServerFish|2494
 #14|@colinbot|2492
-#15|@Bingo202|2484
-#16|@pawn_git|2484
+#15|@pawn_git|2489
+#16|@Bingo202|2484
 #17|@TorBot|2475
 #18|@Viet-AI|2471
 #19|@LaQuaisha|2465

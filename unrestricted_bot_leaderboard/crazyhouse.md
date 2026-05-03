@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@RaspFish|2667
 #19|@icbmsaregoated2|2664
 #20|@PumpkinLatteBob|2658
-#21|@DarkOnBot|2655
-#22|@SF_Bot1nok|2654
+#21|@DarkOnBot|2651
+#22|@SF_Bot1nok|2649
 #23|@ibep|2633
 #24|@bot1e|2625
 #25|@rascal1|2617
@@ -212,7 +212,7 @@ Rank|Bot|Rating
 #210|@GothamChessBot|1358
 #211|@XiDM|1351
 #212|@Hrant_Petrosyan_BOT|1346
-#213|@puisne|1345
+#213|@puisne|1343
 #214|@NormalBulletBot|1341
 #215|@MrDeepSeekGPT|1339
 #216|@Harry_Potterz|1337
