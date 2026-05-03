@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@chicken_farmer|1926
 #162|@yowCapablanca|1914
 #163|@grindle_x_bot1|1913
-#164|@RadianceEngine|1902
+#164|@RadianceEngine|1898
 #165|@vanibot|1895
 #166|@TrolliumBot|1894
 #167|@honzovy-sachy-2|1892

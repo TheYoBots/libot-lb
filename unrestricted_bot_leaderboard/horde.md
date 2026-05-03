@@ -20,10 +20,10 @@ Rank|Bot|Rating
 #18|@EmptikVariantsBot|2402
 #19|@BOT_Stockfish13|2383
 #20|@EmptikBot|2378
-#21|@LoseisnotAvailablehe|2369
-#22|@lord-bot|2362
-#23|@Hyper-Stockfish|2358
-#24|@rascal1|2356
+#21|@rascal1|2371
+#22|@LoseisnotAvailablehe|2369
+#23|@lord-bot|2362
+#24|@Hyper-Stockfish|2358
 #25|@Bullet_bot_0526|2344
 #26|@eNErGyOFbEiNGbOT|2326
 #27|@Alexnajax_Fan|2316
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@ibep|2258
 #35|@LudwigBOT|2256
 #36|@CloudBot_v2|2252
-#37|@beastie1|2249
-#38|@ElPeonElectrico|2242
+#37|@ElPeonElectrico|2242
+#38|@beastie1|2233
 #39|@TacticalBot|2227
 #40|@calico1|2223
 #41|@OSaurus|2219

@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@TheMatrix2025|2346
 #20|@AndromedaSX1|2344
 #21|@SF_Bot1nok|2333
-#22|@rascal1|2326
+#22|@rascal1|2325
 #23|@Sooraj_Kumar_P_S|2319
 #24|@FayEFish|2317
 #25|@Viet-AI|2317
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@pistol-play|2121
 #55|@firstrobot|2114
 #56|@NormalBulletBot|2109
-#57|@beastie1|2097
+#57|@beastie1|2098
 #58|@GodelEscherBot|2092
 #59|@Johnsun|2091
 #60|@Lili-Variants|2089

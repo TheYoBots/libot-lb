@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@SF_Bot1nok|2654
 #23|@ibep|2633
 #24|@bot1e|2625
-#25|@rascal1|2619
+#25|@rascal1|2617
 #26|@SkyBlaster|2614
 #27|@colinbot|2612
 #28|@Xerus_1|2611
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@TheMatrix2029|2458
 #39|@abhisun_bot|2444
 #40|@pistol-play|2437
-#41|@beastie1|2396
+#41|@beastie1|2398
 #42|@YoBot_v2|2394
 #43|@CloudBOT|2393
 #44|@NienishiEngine|2392
@@ -211,8 +211,8 @@ Rank|Bot|Rating
 #209|@are_bots_good|1367
 #210|@GothamChessBot|1358
 #211|@XiDM|1351
-#212|@puisne|1349
-#213|@Hrant_Petrosyan_BOT|1346
+#212|@Hrant_Petrosyan_BOT|1346
+#213|@puisne|1345
 #214|@NormalBulletBot|1341
 #215|@MrDeepSeekGPT|1339
 #216|@Harry_Potterz|1337
