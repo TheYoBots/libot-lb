@@ -47,10 +47,10 @@ Rank|Bot|Rating
 #45|@thibot|2393
 #46|@ToromBot|2374
 #47|@Jussicas|2373
-#48|@SF_Bot1nok|2372
-#49|@DarkOnBot|2371
-#50|@RaspFish|2368
-#51|@TheMatrix2025|2368
+#48|@DarkOnBot|2371
+#49|@TheMatrix2025|2368
+#50|@RaspFish|2367
+#51|@SF_Bot1nok|2364
 #52|@Lili-Variants|2357
 #53|@Viet_BOT|2344
 #54|@virus_exe-bot|2342
@@ -60,9 +60,9 @@ Rank|Bot|Rating
 #58|@CloudBot_v2|2331
 #59|@colinbot|2322
 #60|@Worst-ai|2319
-#61|@Bot_AOOP11|2314
-#62|@KingfishX|2312
-#63|@rascal1|2312
+#61|@rascal1|2315
+#62|@Bot_AOOP11|2314
+#63|@KingfishX|2312
 #64|@Viet-BOT|2312
 #65|@IAMSTOCKFISH123|2307
 #66|@TestingBot1|2294

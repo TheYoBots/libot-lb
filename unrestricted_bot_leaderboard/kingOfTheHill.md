@@ -15,13 +15,13 @@ Rank|Bot|Rating
 #13|@tbhOnBot|2379
 #14|@Coolman2021|2378
 #15|@chessbot2880|2377
-#16|@DarkOnBot|2377
+#16|@DarkOnBot|2376
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
 #19|@TheMatrix2025|2346
 #20|@AndromedaSX1|2344
 #21|@SF_Bot1nok|2333
-#22|@rascal1|2325
+#22|@rascal1|2326
 #23|@Sooraj_Kumar_P_S|2319
 #24|@FayEFish|2317
 #25|@Viet-AI|2317

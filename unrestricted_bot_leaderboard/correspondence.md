@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@fibonachi|2942
 #2|@Grzechu86|2852
 #3|@AjedrezChamberi|2799
-#4|@Moment-That-Inspires|2765
+#4|@Moment-That-Inspires|2754
 #5|@Magicianrobot|2740
 #6|@H-Zero|2650
 #7|@pawnocchio_bot|2623
@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@peonasesino71|2512
 #13|@ServerFish|2494
 #14|@colinbot|2492
-#15|@pawn_git|2489
-#16|@Bingo202|2484
+#15|@Bingo202|2484
+#16|@pawn_git|2480
 #17|@TorBot|2475
 #18|@Viet-AI|2471
 #19|@LaQuaisha|2465
@@ -317,8 +317,8 @@ Rank|Bot|Rating
 #315|@entebot|1523
 #316|@LeelaNice|1520
 #317|@eubos|1518
-#318|@MistakeBOT|1515
-#319|@EdwardKillick|1510
+#318|@EdwardKillick|1516
+#319|@MistakeBOT|1515
 #320|@FelixLeonidovich|1505
 #321|@Bottios|1504
 #322|@Chen_BOT|1500

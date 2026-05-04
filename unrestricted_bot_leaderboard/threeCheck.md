@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@tbhOnBot|2403
 #33|@GoblinAjedrezAI|2371
 #34|@Viet_BOT|2367
-#35|@RaspFish|2353
+#35|@RaspFish|2352
 #36|@Zer0_Tw0|2332
 #37|@Bot1nokk|2326
 #38|@DarkOnBot|2316
