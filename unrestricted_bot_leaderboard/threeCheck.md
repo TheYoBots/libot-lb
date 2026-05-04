@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@tbhOnBot|2403
 #33|@GoblinAjedrezAI|2371
 #34|@Viet_BOT|2367
-#35|@RaspFish|2356
+#35|@RaspFish|2353
 #36|@Zer0_Tw0|2332
 #37|@Bot1nokk|2326
 #38|@DarkOnBot|2316
@@ -44,9 +44,9 @@ Rank|Bot|Rating
 #42|@Worst-ai|2296
 #43|@KingfishX|2285
 #44|@The-Fastest-Bot|2277
-#45|@CocopikachuBOT|2274
-#46|@TheMatrix2025|2272
-#47|@rascal1|2268
+#45|@rascal1|2276
+#46|@CocopikachuBOT|2274
+#47|@TheMatrix2025|2272
 #48|@vrnts_colinbot|2266
 #49|@HIWIN1234|2261
 #50|@YoBot_v2|2257

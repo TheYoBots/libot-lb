@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@ibep|2733
 #27|@Bot_Mittens|2731
 #28|@BalloonBot|2724
-#29|@RaspFish|2714
+#29|@RaspFish|2722
 #30|@OpeningBooksTester|2712
 #31|@ElPeonElectrico|2710
 #32|@Yellow_Anxiety7|2708

@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2667
+#1|@RaspFish|2670
 #2|@DarkOnBot|2651
 #3|@SF_Bot1nok|2649
 #4|@bot1e|2625
-#5|@rascal1|2617
+#5|@rascal1|2622
 #6|@Bot1nokk|2607
-#7|@beastie1|2398
+#7|@beastie1|2391
 #8|@calico1|2288
 #9|@OSaurus|2255
 #10|@QiOui|2176
@@ -21,5 +21,5 @@ Rank|Bot|Rating
 #19|@Groot123456|1624
 #20|@reaper1bot|1430
 #21|@hashcake1|1407
-#22|@puisne|1343
+#22|@puisne|1337
 #23|@genesis1bot|1080
