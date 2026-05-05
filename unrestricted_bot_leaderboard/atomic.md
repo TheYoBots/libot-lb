@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@YoBot_v2|2243
 #73|@rascal1|2239
 #74|@MalanChess|2238
-#75|@ToromBot|2236
+#75|@ToromBot|2238
 #76|@STockfishdestroyBot|2227
 #77|@Kizburb|2220
 #78|@MagnusCarlsenTheBOT|2215
@@ -229,8 +229,8 @@ Rank|Bot|Rating
 #227|@TeamChelsie|1682
 #228|@Rishab_Bindal|1681
 #229|@badplayer33|1680
-#230|@Bosburp777|1675
-#231|@OpeningsBot|1675
+#230|@OpeningsBot|1680
+#231|@Bosburp777|1675
 #232|@Hagfish|1670
 #233|@nickl1bot|1669
 #234|@DaKingsOfficialBOT|1660
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@clrsrc_lc0|1168
 #356|@Jaymombot|1166
 #357|@SipsonsamsonBOT|1161
-#358|@StockfishLowDepth|1148
+#358|@StockfishLowDepth|1142
 #359|@Happy_One|1138
 #360|@Pawn_Stormer_D4|1124
 #361|@the_nicholas_bot|1110

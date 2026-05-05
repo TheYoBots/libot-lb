@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@ibep|2733
 #27|@Bot_Mittens|2731
 #28|@BalloonBot|2724
-#29|@RaspFish|2722
+#29|@RaspFish|2723
 #30|@OpeningBooksTester|2712
 #31|@ElPeonElectrico|2710
 #32|@Yellow_Anxiety7|2708
@@ -114,7 +114,7 @@ Rank|Bot|Rating
 #112|@Less_of_a_threat|2357
 #113|@Viet_BOT|2354
 #114|@higuyuu67776|2352
-#115|@beastie1|2348
+#115|@beastie1|2349
 #116|@Karpov_bot|2335
 #117|@TeamChelsie|2331
 #118|@AI69|2312
@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@B0T5_RU13|2011
 #171|@TheLegitLegend|2010
 #172|@CrayyBot|1989
-#173|@anti-bot|1974
+#173|@anti-bot|1988
 #174|@BetaZ|1973
 #175|@antichesssss|1964
 #176|@Menganti|1963
@@ -312,8 +312,8 @@ Rank|Bot|Rating
 #310|@KaTHHHH|1264
 #311|@chicken_farmer|1241
 #312|@Lancelbot|1237
-#313|@PranavChessBot|1212
-#314|@StockfishLowDepth|1209
+#313|@StockfishLowDepth|1224
+#314|@PranavChessBot|1212
 #315|@Toxic_Bot|1202
 #316|@Ar4Asd1-BOT|1181
 #317|@DespacitoBot|1175

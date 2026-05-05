@@ -47,10 +47,10 @@ Rank|Bot|Rating
 #45|@Cheng-4|2269
 #46|@ChessatronBot|2257
 #47|@eggnog-chess-engine|2254
-#48|@Blue_Mongoose|2249
-#49|@Zimbabwean_chessbot|2249
-#50|@nukechess-bot|2244
-#51|@OpeningsBot|2244
+#48|@OpeningsBot|2253
+#49|@Blue_Mongoose|2249
+#50|@Zimbabwean_chessbot|2249
+#51|@nukechess-bot|2244
 #52|@SicilianViper|2243
 #53|@mayhem23111|2240
 #54|@Lila-Stockfish|2238
@@ -63,9 +63,9 @@ Rank|Bot|Rating
 #61|@Tundra4|2227
 #62|@SEtheChessGod|2224
 #63|@Abuziddin-BOT|2219
-#64|@Blunderbuss-bot|2207
-#65|@BalloonBot|2204
-#66|@AbhijithHISBot|2201
+#64|@BalloonBot|2204
+#65|@AbhijithHISBot|2201
+#66|@Blunderbuss-bot|2200
 #67|@Ar4Asd1-BOT|2197
 #68|@HerokuHasnotplay|2196
 #69|@Digi-bot|2192
