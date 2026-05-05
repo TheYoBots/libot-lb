@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@AlfaBot|2293
 #29|@Fairy-Stockfish|2289
 #30|@Kizburb|2276
-#31|@DarkOnBot|2267
+#31|@DarkOnBot|2271
 #32|@Team_bot_08512|2267
 #33|@NewChessEngine-ai|2260
 #34|@ibep|2258

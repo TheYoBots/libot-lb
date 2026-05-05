@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@bot1e|2843
 #5|@SF_Bot1nok|2820
 #6|@RaspFish|2723
-#7|@DarkOnBot|2537
+#7|@DarkOnBot|2536
 #8|@rascal1|2414
 #9|@beastie1|2349
 #10|@calico1|2303

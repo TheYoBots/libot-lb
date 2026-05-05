@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@ServerFish|2494
 #14|@colinbot|2492
 #15|@Bingo202|2484
-#16|@pawn_git|2480
-#17|@TorBot|2475
+#16|@TorBot|2475
+#17|@pawn_git|2471
 #18|@Viet-AI|2471
 #19|@LaQuaisha|2465
 #20|@bot-win-loh-nick|2456

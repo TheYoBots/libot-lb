@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@LudwigBOT|2545
 #68|@AlfaBot|2541
 #69|@Leelabotmaster|2538
-#70|@DarkOnBot|2537
-#71|@Nam-Robot|2537
+#70|@Nam-Robot|2537
+#71|@DarkOnBot|2536
 #72|@FairyTailRegimeBot|2529
 #73|@Dark_evil_bot|2525
 #74|@Bot_AOOP11|2521

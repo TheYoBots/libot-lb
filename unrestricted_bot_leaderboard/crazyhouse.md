@@ -21,8 +21,8 @@ Rank|Bot|Rating
 #19|@SF_Bot1nok|2665
 #20|@icbmsaregoated2|2664
 #21|@PumpkinLatteBob|2658
-#22|@DarkOnBot|2643
-#23|@rascal1|2640
+#22|@rascal1|2640
+#23|@DarkOnBot|2639
 #24|@ibep|2633
 #25|@bot1e|2625
 #26|@SkyBlaster|2614
