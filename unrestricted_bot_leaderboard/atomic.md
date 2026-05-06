@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@YoBot_v2|2243
 #73|@rascal1|2239
 #74|@MalanChess|2238
-#75|@ToromBot|2229
-#76|@STockfishdestroyBot|2227
+#75|@STockfishdestroyBot|2227
+#76|@ToromBot|2224
 #77|@Kizburb|2220
 #78|@MagnusCarlsenTheBOT|2215
 #79|@Bot1nokk|2214
@@ -106,9 +106,9 @@ Rank|Bot|Rating
 #104|@GodelEscherBot|2161
 #105|@The_dragon_bot|2160
 #106|@MagicverseBOT|2157
-#107|@RaspFish|2155
-#108|@jasans_bot|2153
-#109|@JEDDYCOCO12345|2153
+#107|@jasans_bot|2153
+#108|@JEDDYCOCO12345|2153
+#109|@RaspFish|2153
 #110|@virus_exe-bot|2153
 #111|@TJchessBot|2149
 #112|@Lili-ai|2144
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@clrsrc_lc0|1168
 #356|@Jaymombot|1166
 #357|@SipsonsamsonBOT|1161
-#358|@StockfishLowDepth|1142
+#358|@StockfishLowDepth|1160
 #359|@Happy_One|1138
 #360|@Pawn_Stormer_D4|1124
 #361|@the_nicholas_bot|1110
