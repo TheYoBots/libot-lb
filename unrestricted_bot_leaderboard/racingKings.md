@@ -48,9 +48,9 @@ Rank|Bot|Rating
 #46|@Jussicas|2373
 #47|@DarkOnBot|2371
 #48|@TheMatrix2025|2368
-#49|@ToromBot|2368
-#50|@RaspFish|2366
-#51|@SF_Bot1nok|2364
+#49|@RaspFish|2365
+#50|@SF_Bot1nok|2364
+#51|@ToromBot|2360
 #52|@Lili-Variants|2357
 #53|@Viet_BOT|2344
 #54|@virus_exe-bot|2342
@@ -58,9 +58,9 @@ Rank|Bot|Rating
 #56|@EvenMatchup|2336
 #57|@ibep|2333
 #58|@CloudBot_v2|2331
-#59|@colinbot|2322
-#60|@Worst-ai|2319
-#61|@rascal1|2316
+#59|@rascal1|2323
+#60|@colinbot|2322
+#61|@Worst-ai|2319
 #62|@Bot_AOOP11|2314
 #63|@KingfishX|2312
 #64|@Viet-BOT|2312
@@ -134,8 +134,8 @@ Rank|Bot|Rating
 #132|@SriLankaChess|1784
 #133|@YoBot_v1|1782
 #134|@Bot2000|1767
-#135|@StockfishLowDepth|1761
-#136|@B0T5_RU13|1749
+#135|@B0T5_RU13|1749
+#136|@StockfishLowDepth|1744
 #137|@azdad|1741
 #138|@NoTallkOnlyGames|1741
 #139|@TheBossBot|1741

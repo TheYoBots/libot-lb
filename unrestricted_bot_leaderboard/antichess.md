@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@ToromBot|2916
+#6|@ToromBot|2917
 #7|@abdcebot|2902
 #8|@Bot1nokk|2887
 #9|@Coolman2021|2879
@@ -25,9 +25,9 @@ Rank|Bot|Rating
 #23|@Viet-AI|2765
 #24|@TheMatrix2025|2746
 #25|@ttBOT|2739
-#26|@ibep|2733
-#27|@Bot_Mittens|2731
-#28|@RaspFish|2728
+#26|@RaspFish|2736
+#27|@ibep|2733
+#28|@Bot_Mittens|2731
 #29|@BalloonBot|2724
 #30|@OpeningBooksTester|2712
 #31|@ElPeonElectrico|2710
@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@AlfaBot|2541
 #69|@Leelabotmaster|2538
 #70|@Nam-Robot|2537
-#71|@DarkOnBot|2536
+#71|@DarkOnBot|2534
 #72|@FairyTailRegimeBot|2529
 #73|@Dark_evil_bot|2525
 #74|@Bot_AOOP11|2521
@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@Bobby_Fischer_BOT|2435
 #93|@Nobody11892|2435
 #94|@Hagfish|2432
-#95|@rascal1|2430
+#95|@rascal1|2424
 #96|@EmptikBot247|2422
 #97|@xiang-qi|2422
 #98|@faith_bot|2420
@@ -169,9 +169,9 @@ Rank|Bot|Rating
 #167|@Botzer|2020
 #168|@Jussicas|2019
 #169|@CloudBotZero|2018
-#170|@B0T5_RU13|2011
-#171|@TheLegitLegend|2010
-#172|@anti-bot|2009
+#170|@anti-bot|2013
+#171|@B0T5_RU13|2011
+#172|@TheLegitLegend|2010
 #173|@CrayyBot|1989
 #174|@BetaZ|1973
 #175|@antichesssss|1964

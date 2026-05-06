@@ -3,12 +3,12 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
 #3|@Fairy_Belzedar|2857
-#4|@Coolman2021|2757
-#5|@RaspFish|2751
+#4|@RaspFish|2760
+#5|@Coolman2021|2757
 #6|@Magicianrobot|2741
 #7|@FireFishBOT|2726
 #8|@PepsiForAll|2699
-#9|@ToromBot|2667
+#9|@ToromBot|2675
 #10|@Bot1nokk|2623
 #11|@bot1e|2605
 #12|@ttBOT|2584
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@abdcebot|2575
 #15|@Lili-ai|2572
 #16|@SF_Bot1nok|2536
-#17|@rascal1|2476
+#17|@rascal1|2471
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
 #20|@BOT_Stockfish13|2383
@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@Alexnajax_Fan|2316
 #28|@AlfaBot|2293
 #29|@Fairy-Stockfish|2289
-#30|@Kizburb|2276
-#31|@DarkOnBot|2271
+#30|@DarkOnBot|2278
+#31|@Kizburb|2276
 #32|@Team_bot_08512|2267
 #33|@NewChessEngine-ai|2260
 #34|@ibep|2258

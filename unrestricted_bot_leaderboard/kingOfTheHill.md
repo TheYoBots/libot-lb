@@ -5,9 +5,9 @@ Rank|Bot|Rating
 #3|@VariantsBot|2579
 #4|@KizVariant|2521
 #5|@Fairy-Stockfish|2486
-#6|@ToromBot|2475
-#7|@EmptikVariantsBot|2443
-#8|@TacticalBot|2439
+#6|@EmptikVariantsBot|2443
+#7|@TacticalBot|2439
+#8|@ToromBot|2439
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -18,9 +18,9 @@ Rank|Bot|Rating
 #16|@RaspFish|2376
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
-#19|@TheMatrix2025|2346
-#20|@AndromedaSX1|2344
-#21|@rascal1|2337
+#19|@rascal1|2346
+#20|@TheMatrix2025|2346
+#21|@AndromedaSX1|2344
 #22|@SF_Bot1nok|2333
 #23|@Sooraj_Kumar_P_S|2319
 #24|@FayEFish|2317

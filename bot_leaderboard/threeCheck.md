@@ -9,10 +9,8 @@ Rank|Bot|Rating
 #7|@kowalabi|2017
 #8|@QiOui|1966
 #9|@OpeningsBot|1907
-#10|@rachl1|1869
-#11|@clementyne1|1831
-#12|@nickl1bot|1817
-#13|@spyros1bot|1679
-#14|@Lancelbot|1650
-#15|@reaper1bot|1394
-#16|@genesis1bot|1260
+#10|@clementyne1|1831
+#11|@spyros1bot|1679
+#12|@Lancelbot|1650
+#13|@reaper1bot|1394
+#14|@genesis1bot|1260
