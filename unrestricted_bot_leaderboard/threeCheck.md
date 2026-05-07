@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@ttBOT|2461
 #29|@TheMatrix2029|2448
 #30|@faith_bot|2447
-#31|@ToromBot|2405
+#31|@ToromBot|2418
 #32|@tbhOnBot|2403
 #33|@GoblinAjedrezAI|2371
 #34|@Viet_BOT|2367
@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@LudwigBOT|2304
 #41|@lord-bot|2300
 #42|@Worst-ai|2296
-#43|@rascal1|2293
+#43|@rascal1|2287
 #44|@KingfishX|2285
 #45|@The-Fastest-Bot|2277
 #46|@CocopikachuBOT|2274
@@ -51,8 +51,8 @@ Rank|Bot|Rating
 #49|@HIWIN1234|2261
 #50|@YoBot_v2|2257
 #51|@SF_Bot1nok|2238
-#52|@OlympusCz|2231
-#53|@beastie1|2229
+#52|@beastie1|2232
+#53|@OlympusCz|2231
 #54|@Vinh_VariantsBot|2215
 #55|@Kizburb|2214
 #56|@xiang-qi|2207

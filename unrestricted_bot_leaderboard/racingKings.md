@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Jussicas|2373
 #47|@DarkOnBot|2371
 #48|@TheMatrix2025|2368
-#49|@RaspFish|2365
+#49|@RaspFish|2364
 #50|@SF_Bot1nok|2364
 #51|@ToromBot|2360
 #52|@Lili-Variants|2357
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@EvenMatchup|2336
 #57|@ibep|2333
 #58|@CloudBot_v2|2331
-#59|@rascal1|2323
+#59|@rascal1|2329
 #60|@colinbot|2322
 #61|@Worst-ai|2319
 #62|@Bot_AOOP11|2314
@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@xiang-qi|2113
 #101|@atomicli|2111
 #102|@Trumpfor2O2O|2103
-#103|@beastie1|2098
+#103|@beastie1|2093
 #104|@PetersTestBot|2081
 #105|@CloudBOT|2073
 #106|@JustDontFlagMe|2048

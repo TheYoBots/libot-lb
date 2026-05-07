@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@ServerFish|2494
 #14|@colinbot|2492
 #15|@Bingo202|2484
-#16|@TorBot|2475
-#17|@pawn_git|2471
+#16|@pawn_git|2477
+#17|@TorBot|2475
 #18|@Viet-AI|2471
 #19|@LaQuaisha|2465
 #20|@bot-win-loh-nick|2456
@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@Abuziddin-BOT|2219
 #64|@BalloonBot|2204
 #65|@AbhijithHISBot|2201
-#66|@Blunderbuss-bot|2200
-#67|@Ar4Asd1-BOT|2197
+#66|@Ar4Asd1-BOT|2197
+#67|@Blunderbuss-bot|2197
 #68|@HerokuHasnotplay|2196
 #69|@Digi-bot|2192
 #70|@IAMSTOCKFISH123|2192

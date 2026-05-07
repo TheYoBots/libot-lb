@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
 #7|@TacticalBot|2439
-#8|@ToromBot|2439
+#8|@ToromBot|2430
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@DarkOnBot|2376
 #16|@RaspFish|2376
 #17|@Karpov_bot|2359
-#18|@ElPeonElectrico|2351
-#19|@rascal1|2346
+#18|@rascal1|2353
+#19|@ElPeonElectrico|2351
 #20|@TheMatrix2025|2346
 #21|@AndromedaSX1|2344
 #22|@SF_Bot1nok|2333
@@ -56,10 +56,10 @@ Rank|Bot|Rating
 #54|@pistol-play|2121
 #55|@firstrobot|2114
 #56|@NormalBulletBot|2109
-#57|@beastie1|2093
-#58|@GodelEscherBot|2092
-#59|@Johnsun|2091
-#60|@Lili-Variants|2089
+#57|@GodelEscherBot|2092
+#58|@Johnsun|2091
+#59|@Lili-Variants|2089
+#60|@beastie1|2088
 #61|@Jussicas|2086
 #62|@Kizburb|2086
 #63|@Dean_Summer_Bot|2085
