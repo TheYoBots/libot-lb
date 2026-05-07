@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2749
+#1|@RaspFish|2744
 #2|@ToromBot|2695
 #3|@Bot1nokk|2623
 #4|@bot1e|2605
 #5|@abdcebot|2575
 #6|@SF_Bot1nok|2536
-#7|@rascal1|2475
+#7|@rascal1|2472
 #8|@DarkOnBot|2278
 #9|@calico1|2223
 #10|@OSaurus|2219

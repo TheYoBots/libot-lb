@@ -55,11 +55,11 @@ Rank|Bot|Rating
 #53|@The-Fastest-Bot|2314
 #54|@Alehkine_cat|2312
 #55|@Team_bot_08512|2307
-#56|@DarkOnBot|2305
-#57|@Dean_Summer_Bot|2305
-#58|@icbmsaregoated2|2305
-#59|@PumpkinLatteBob|2301
-#60|@PsychedelicAtomic|2296
+#56|@Dean_Summer_Bot|2305
+#57|@icbmsaregoated2|2305
+#58|@PumpkinLatteBob|2301
+#59|@PsychedelicAtomic|2296
+#60|@DarkOnBot|2295
 #61|@AndromedaSX1|2284
 #62|@vrnts_colinbot|2282
 #63|@TheMatrix2029|2278
@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@chesshyperbot|2260
 #70|@SCP079|2259
 #71|@Johnsun|2257
-#72|@YoBot_v2|2243
-#73|@rascal1|2239
+#72|@rascal1|2249
+#73|@YoBot_v2|2243
 #74|@MalanChess|2238
 #75|@STockfishdestroyBot|2227
 #76|@ToromBot|2224
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@clrsrc_lc0|1168
 #356|@Jaymombot|1166
 #357|@SipsonsamsonBOT|1161
-#358|@StockfishLowDepth|1159
+#358|@StockfishLowDepth|1158
 #359|@Happy_One|1138
 #360|@Pawn_Stormer_D4|1124
 #361|@the_nicholas_bot|1110

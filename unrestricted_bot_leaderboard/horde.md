@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Viet-AI|2915
 #3|@Fairy_Belzedar|2857
 #4|@Coolman2021|2757
-#5|@RaspFish|2749
+#5|@RaspFish|2744
 #6|@Magicianrobot|2741
 #7|@FireFishBOT|2726
 #8|@PepsiForAll|2699
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@abdcebot|2575
 #15|@Lili-ai|2572
 #16|@SF_Bot1nok|2536
-#17|@rascal1|2475
+#17|@rascal1|2472
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
 #20|@BOT_Stockfish13|2383
