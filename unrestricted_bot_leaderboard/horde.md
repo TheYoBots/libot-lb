@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@Alexnajax_Fan|2316
 #28|@AlfaBot|2293
 #29|@Fairy-Stockfish|2289
-#30|@DarkOnBot|2278
-#31|@Kizburb|2276
+#30|@Kizburb|2276
+#31|@DarkOnBot|2269
 #32|@Team_bot_08512|2267
 #33|@NewChessEngine-ai|2260
 #34|@ibep|2258
@@ -56,9 +56,9 @@ Rank|Bot|Rating
 #54|@jasans_bot|2116
 #55|@xiang-qi|2115
 #56|@GCNbyFayE|2110
-#57|@OpeningsBot|2109
-#58|@rachl1|2109
-#59|@CheckmateX1|2102
+#57|@rachl1|2109
+#58|@CheckmateX1|2102
+#59|@OpeningsBot|2102
 #60|@QiOui|2101
 #61|@chessbot2880|2098
 #62|@Galaxy_Guardian|2096

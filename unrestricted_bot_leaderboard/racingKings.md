@@ -110,9 +110,9 @@ Rank|Bot|Rating
 #108|@Crepusculum|2036
 #109|@EstmileBot|2018
 #110|@Less_of_a_threat|1979
-#111|@OpeningsBot|1972
-#112|@BGSBot|1969
-#113|@Yemmi-Yemmi|1964
+#111|@BGSBot|1969
+#112|@Yemmi-Yemmi|1964
+#113|@OpeningsBot|1963
 #114|@admin-bot|1955
 #115|@MyNameIsSpeedy|1935
 #116|@Pineapple-Friendly|1912
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@PowerOnBot|1701
 #147|@Chess_omar_2009|1698
 #148|@JEDDYCOCO12345|1692
-#149|@StockfishLowDepth|1688
+#149|@StockfishLowDepth|1685
 #150|@kowalabi|1678
 #151|@Harry_Potterz|1674
 #152|@XXXTryandTryXXX|1674

@@ -7,6 +7,6 @@ Rank|Bot|Rating
 #5|@abdcebot|2575
 #6|@SF_Bot1nok|2536
 #7|@rascal1|2472
-#8|@DarkOnBot|2278
+#8|@DarkOnBot|2269
 #9|@beastie1|2204
-#10|@OpeningsBot|2109
+#10|@OpeningsBot|2102

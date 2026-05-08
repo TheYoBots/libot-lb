@@ -5,5 +5,6 @@ Rank|Bot|Rating
 #3|@ToromBot|2361
 #4|@rascal1|2335
 #5|@beastie1|2093
-#6|@OpeningsBot|1972
-#7|@StockfishLowDepth|1688
+#6|@OpeningsBot|1963
+#7|@calico1|1898
+#8|@StockfishLowDepth|1685
