@@ -4,8 +4,3 @@ Rank|Bot|Rating
 #2|@DarkOnBot|2375
 #3|@rascal1|2353
 #4|@beastie1|2088
-#5|@calico1|2057
-#6|@OSaurus|1975
-#7|@hashcake1|1395
-#8|@reaper1bot|1276
-#9|@genesis1bot|1108

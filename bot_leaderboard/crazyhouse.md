@@ -7,9 +7,5 @@ Rank|Bot|Rating
 #5|@bot1e|2625
 #6|@Bot1nokk|2607
 #7|@beastie1|2373
-#8|@calico1|2288
-#9|@OSaurus|2255
-#10|@reaper1bot|1430
-#11|@hashcake1|1407
-#12|@puisne|1337
-#13|@genesis1bot|1080
+#8|@puisne|1337
+#9|@genesis1bot|1080
