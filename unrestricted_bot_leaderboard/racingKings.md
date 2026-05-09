@@ -47,13 +47,13 @@ Rank|Bot|Rating
 #45|@thibot|2393
 #46|@Jussicas|2373
 #47|@TheMatrix2025|2368
-#48|@DarkOnBot|2364
-#49|@SF_Bot1nok|2364
+#48|@SF_Bot1nok|2364
+#49|@DarkOnBot|2362
 #50|@ToromBot|2361
 #51|@Lili-Variants|2357
 #52|@RaspFish|2355
-#53|@Viet_BOT|2344
-#54|@rascal1|2342
+#53|@rascal1|2344
+#54|@Viet_BOT|2344
 #55|@virus_exe-bot|2342
 #56|@BotsFanClub|2338
 #57|@EvenMatchup|2336
