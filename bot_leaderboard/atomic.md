@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@rascal1|2249
 #3|@ToromBot|2218
 #4|@RaspFish|2153
-#5|@beastie1|2104
-#6|@calico1|2036
-#7|@OpeningsBot|1679
-#8|@genesis1bot|1183
+#5|@beastie1|2082
+#6|@calico1|2073
+#7|@OSaurus|1976
+#8|@OpeningsBot|1679
 #9|@StockfishLowDepth|1153

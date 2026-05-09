@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2251
-#2|@Blunderbuss-bot|2197
+#1|@OpeningsBot|2249
+#2|@Blunderbuss-bot|2194
