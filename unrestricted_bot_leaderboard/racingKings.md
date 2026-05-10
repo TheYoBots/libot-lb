@@ -48,11 +48,11 @@ Rank|Bot|Rating
 #46|@Jussicas|2373
 #47|@TheMatrix2025|2368
 #48|@SF_Bot1nok|2364
-#49|@DarkOnBot|2362
-#50|@ToromBot|2361
+#49|@DarkOnBot|2360
+#50|@ToromBot|2360
 #51|@Lili-Variants|2357
 #52|@RaspFish|2355
-#53|@rascal1|2344
+#53|@rascal1|2345
 #54|@Viet_BOT|2344
 #55|@virus_exe-bot|2342
 #56|@BotsFanClub|2338
@@ -147,9 +147,9 @@ Rank|Bot|Rating
 #145|@Aravdadhaniabot|1701
 #146|@PowerOnBot|1701
 #147|@Chess_omar_2009|1698
-#148|@JEDDYCOCO12345|1692
-#149|@StockfishLowDepth|1681
-#150|@kowalabi|1678
+#148|@kowalabi|1697
+#149|@JEDDYCOCO12345|1692
+#150|@StockfishLowDepth|1681
 #151|@Harry_Potterz|1674
 #152|@XXXTryandTryXXX|1674
 #153|@rachl1|1669

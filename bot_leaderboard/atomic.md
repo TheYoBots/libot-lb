@@ -7,5 +7,6 @@ Rank|Bot|Rating
 #5|@beastie1|2082
 #6|@calico1|2073
 #7|@OSaurus|1976
-#8|@OpeningsBot|1679
-#9|@StockfishLowDepth|1163
+#8|@kowalabi|1892
+#9|@OpeningsBot|1679
+#10|@StockfishLowDepth|1160

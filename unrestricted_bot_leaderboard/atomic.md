@@ -173,8 +173,8 @@ Rank|Bot|Rating
 #171|@Isotopebot|1900
 #172|@Just-a-random-bot|1898
 #173|@AX2XB2|1893
-#174|@TheAwesomeBot|1891
-#175|@kowalabi|1878
+#174|@kowalabi|1892
+#175|@TheAwesomeBot|1891
 #176|@kostasvl-bot|1877
 #177|@Worst-ai|1872
 #178|@B0T5_RU13|1871
@@ -356,8 +356,8 @@ Rank|Bot|Rating
 #354|@GuineaBot2|1173
 #355|@clrsrc_lc0|1168
 #356|@Jaymombot|1166
-#357|@StockfishLowDepth|1163
-#358|@SipsonsamsonBOT|1161
+#357|@SipsonsamsonBOT|1161
+#358|@StockfishLowDepth|1160
 #359|@Happy_One|1138
 #360|@Pawn_Stormer_D4|1124
 #361|@the_nicholas_bot|1110

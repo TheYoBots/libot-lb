@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@Galaxy_Guardian|2041
 #83|@Official_bot|2041
 #84|@Resolved-Bot|2026
-#85|@kowalabi|2022
+#85|@kowalabi|2025
 #86|@BalloonBot|2017
 #87|@firstrobot|2003
 #88|@Hyper-Stockfish|1986

@@ -347,11 +347,11 @@ Rank|Bot|Rating
 #345|@emptedkiller|1413
 #346|@WaspBot|1410
 #347|@Egeytek|1405
-#348|@croco_little_bot|1403
-#349|@PZChessBot|1387
-#350|@schnecken_bot|1382
-#351|@VimBot|1380
-#352|@Danielbot|1377
+#348|@PZChessBot|1387
+#349|@schnecken_bot|1382
+#350|@VimBot|1380
+#351|@Danielbot|1377
+#352|@croco_little_bot|1376
 #353|@dream_bot|1375
 #354|@AllieTheChessBot|1362
 #355|@MartianBot|1361
