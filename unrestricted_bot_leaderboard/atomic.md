@@ -354,9 +354,9 @@ Rank|Bot|Rating
 #352|@ElFinsBoT|1191
 #353|@genesis1bot|1183
 #354|@GuineaBot2|1173
-#355|@StockfishLowDepth|1169
-#356|@clrsrc_lc0|1168
-#357|@Jaymombot|1166
+#355|@clrsrc_lc0|1168
+#356|@Jaymombot|1166
+#357|@StockfishLowDepth|1163
 #358|@SipsonsamsonBOT|1161
 #359|@Happy_One|1138
 #360|@Pawn_Stormer_D4|1124

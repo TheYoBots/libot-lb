@@ -8,4 +8,4 @@ Rank|Bot|Rating
 #6|@calico1|2073
 #7|@OSaurus|1976
 #8|@OpeningsBot|1679
-#9|@StockfishLowDepth|1169
+#9|@StockfishLowDepth|1163
