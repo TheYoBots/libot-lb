@@ -89,8 +89,8 @@ Rank|Bot|Rating
 #87|@OlympusCz|1986
 #88|@TeamChelsie|1983
 #89|@Alehkine_cat|1980
-#90|@ESC_BOT|1976
-#91|@OSaurus|1972
+#90|@OSaurus|1977
+#91|@ESC_BOT|1976
 #92|@Lila-Stockfish|1963
 #93|@PyChessBot|1957
 #94|@StockfishLowDepth|1953

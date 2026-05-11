@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@rascal1|2320
 #3|@beastie1|2242
 #4|@calico1|2199
-#5|@OSaurus|2163
+#5|@OSaurus|2165
 #6|@kowalabi|2025
 #7|@OpeningsBot|1905

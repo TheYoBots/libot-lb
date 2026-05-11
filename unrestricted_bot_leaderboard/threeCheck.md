@@ -61,7 +61,7 @@ Rank|Bot|Rating
 #59|@DeepFriedFish|2185
 #60|@virus_exe-bot|2180
 #61|@ReallyCrazyBOT|2172
-#62|@OSaurus|2163
+#62|@OSaurus|2165
 #63|@CheckmateX1|2150
 #64|@ResoluteBot|2150
 #65|@ZhangirKhanBOT|2148

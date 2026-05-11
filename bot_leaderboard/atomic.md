@@ -9,4 +9,4 @@ Rank|Bot|Rating
 #7|@OSaurus|1976
 #8|@kowalabi|1892
 #9|@OpeningsBot|1679
-#10|@StockfishLowDepth|1160
+#10|@StockfishLowDepth|1150

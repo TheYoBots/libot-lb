@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@VariantsBot|2754
 #9|@CheckmateX1|2735
 #10|@LoseisnotAvailablehe|2735
-#11|@chessbot2880|2718
-#12|@ToromBot|2707
+#11|@ToromBot|2722
+#12|@chessbot2880|2718
 #13|@PepsiForAll|2702
 #14|@GilgameshTheBot|2697
 #15|@Fairy_Belzedar|2683
@@ -20,10 +20,10 @@ Rank|Bot|Rating
 #18|@SF_Bot1nok|2665
 #19|@icbmsaregoated2|2664
 #20|@PumpkinLatteBob|2658
-#21|@RaspFish|2656
-#22|@rascal1|2653
-#23|@ibep|2633
-#24|@DarkOnBot|2630
+#21|@rascal1|2648
+#22|@ibep|2633
+#23|@DarkOnBot|2630
+#24|@RaspFish|2629
 #25|@bot1e|2625
 #26|@SkyBlaster|2614
 #27|@colinbot|2612
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@catalanbotI|2307
 #54|@Yemmi-Yemmi|2305
 #55|@Bot_Mittens|2303
-#56|@OSaurus|2295
+#56|@OSaurus|2297
 #57|@OlympusCz|2292
 #58|@iplayonlyrandom|2282
 #59|@NormalBlitzBulletBot|2278

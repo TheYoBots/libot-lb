@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
 #3|@Fairy_Belzedar|2857
-#4|@RaspFish|2765
+#4|@RaspFish|2771
 #5|@Coolman2021|2757
-#6|@ToromBot|2742
+#6|@ToromBot|2746
 #7|@Magicianrobot|2741
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@abdcebot|2575
 #15|@Lili-ai|2572
 #16|@SF_Bot1nok|2536
-#17|@rascal1|2473
+#17|@rascal1|2461
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
 #20|@BOT_Stockfish13|2383
@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@eNErGyOFbEiNGbOT|2326
 #27|@Alexnajax_Fan|2316
 #28|@AlfaBot|2293
-#29|@beastie1|2289
-#30|@Fairy-Stockfish|2289
+#29|@Fairy-Stockfish|2289
+#30|@beastie1|2285
 #31|@Kizburb|2276
 #32|@DarkOnBot|2269
 #33|@Team_bot_08512|2267
@@ -38,11 +38,11 @@ Rank|Bot|Rating
 #36|@LudwigBOT|2256
 #37|@CloudBot_v2|2252
 #38|@ElPeonElectrico|2242
-#39|@calico1|2235
-#40|@TacticalBot|2227
+#39|@TacticalBot|2227
+#40|@calico1|2224
 #41|@UltronBot|2199
-#42|@GoblinAjedrezAI|2185
-#43|@OSaurus|2181
+#42|@OSaurus|2197
+#43|@GoblinAjedrezAI|2185
 #44|@FayEFish|2172
 #45|@Trumpfor2O2O|2162
 #46|@varient-chess-bot1|2156
@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@tbhOnBot|2153
 #49|@Karpov_bot|2145
 #50|@Bobby_Fischer_BOT|2136
-#51|@kowalabi|2136
+#51|@kowalabi|2135
 #52|@TheMatrix2025|2132
 #53|@OpeningsBot|2118
 #54|@Yebot|2118

@@ -5,5 +5,5 @@ Rank|Bot|Rating
 #3|@rascal1|2360
 #4|@calico1|2081
 #5|@beastie1|2067
-#6|@OSaurus|1972
+#6|@OSaurus|1977
 #7|@kowalabi|1903
