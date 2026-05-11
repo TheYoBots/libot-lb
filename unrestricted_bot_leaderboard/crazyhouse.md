@@ -21,8 +21,8 @@ Rank|Bot|Rating
 #19|@icbmsaregoated2|2664
 #20|@PumpkinLatteBob|2658
 #21|@rascal1|2648
-#22|@ibep|2633
-#23|@DarkOnBot|2630
+#22|@DarkOnBot|2640
+#23|@ibep|2633
 #24|@RaspFish|2629
 #25|@bot1e|2625
 #26|@SkyBlaster|2614
@@ -74,12 +74,12 @@ Rank|Bot|Rating
 #72|@UltronBot|2197
 #73|@Viet-BOT|2185
 #74|@lightspeed_bot|2177
-#75|@QiOui|2176
-#76|@Sooraj_Kumar_P_S|2167
+#75|@Sooraj_Kumar_P_S|2167
+#76|@kowalabi|2165
 #77|@Peaceful4Life|2160
 #78|@SCP079|2156
 #79|@BSTAF|2154
-#80|@kowalabi|2148
+#80|@QiOui|2151
 #81|@TheMatrix2025|2142
 #82|@CloudBot_v2|2131
 #83|@HIWIN1234|2123

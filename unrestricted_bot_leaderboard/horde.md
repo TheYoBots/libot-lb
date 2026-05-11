@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@Fairy-Stockfish|2289
 #30|@beastie1|2285
 #31|@Kizburb|2276
-#32|@DarkOnBot|2269
-#33|@Team_bot_08512|2267
+#32|@Team_bot_08512|2267
+#33|@DarkOnBot|2261
 #34|@NewChessEngine-ai|2260
 #35|@ibep|2258
 #36|@LudwigBOT|2256
@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@tbhOnBot|2153
 #49|@Karpov_bot|2145
 #50|@Bobby_Fischer_BOT|2136
-#51|@kowalabi|2135
+#51|@kowalabi|2134
 #52|@TheMatrix2025|2132
 #53|@OpeningsBot|2118
 #54|@Yebot|2118
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@xiang-qi|2115
 #57|@GCNbyFayE|2110
 #58|@CheckmateX1|2102
-#59|@QiOui|2099
-#60|@chessbot2880|2098
+#59|@chessbot2880|2098
+#60|@QiOui|2098
 #61|@Galaxy_Guardian|2096
 #62|@KingfishX|2081
 #63|@iplayonlyrandom|2075

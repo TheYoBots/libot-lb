@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@MalanChess|2238
 #75|@STockfishdestroyBot|2227
 #76|@Kizburb|2220
-#77|@ToromBot|2218
+#77|@ToromBot|2219
 #78|@MagnusCarlsenTheBOT|2215
 #79|@Bot1nokk|2214
 #80|@GravityStorm|2214
@@ -173,8 +173,8 @@ Rank|Bot|Rating
 #171|@Isotopebot|1900
 #172|@Just-a-random-bot|1898
 #173|@AX2XB2|1893
-#174|@kowalabi|1892
-#175|@TheAwesomeBot|1891
+#174|@TheAwesomeBot|1891
+#175|@kowalabi|1890
 #176|@kostasvl-bot|1877
 #177|@Worst-ai|1872
 #178|@B0T5_RU13|1871
@@ -199,7 +199,7 @@ Rank|Bot|Rating
 #197|@PiratesBot|1800
 #198|@WildorderBot|1799
 #199|@CoderDen732|1791
-#200|@QiOui|1786
+#200|@QiOui|1788
 #201|@TheLegitLegend|1786
 #202|@MagicHacker123|1774
 #203|@buffFishNet|1771
@@ -354,10 +354,10 @@ Rank|Bot|Rating
 #352|@ElFinsBoT|1191
 #353|@genesis1bot|1183
 #354|@GuineaBot2|1173
-#355|@clrsrc_lc0|1168
-#356|@Jaymombot|1166
-#357|@SipsonsamsonBOT|1161
-#358|@StockfishLowDepth|1150
+#355|@StockfishLowDepth|1173
+#356|@clrsrc_lc0|1168
+#357|@Jaymombot|1166
+#358|@SipsonsamsonBOT|1161
 #359|@Happy_One|1138
 #360|@Pawn_Stormer_D4|1124
 #361|@the_nicholas_bot|1110

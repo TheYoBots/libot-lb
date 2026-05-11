@@ -157,7 +157,7 @@ Rank|Bot|Rating
 #155|@Challenger_crazy|1652
 #156|@ROBOT_RANDEER2007|1651
 #157|@Heman36541234578|1647
-#158|@QiOui|1636
+#158|@QiOui|1633
 #159|@aliooooooo444|1596
 #160|@JemBok|1579
 #161|@HiddeNL|1573
