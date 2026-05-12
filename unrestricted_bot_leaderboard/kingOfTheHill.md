@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@tbhOnBot|2379
 #13|@Coolman2021|2378
 #14|@chessbot2880|2377
-#15|@RaspFish|2367
-#16|@rascal1|2366
+#15|@rascal1|2370
+#16|@RaspFish|2367
 #17|@DarkOnBot|2364
 #18|@Karpov_bot|2359
 #19|@ElPeonElectrico|2351
@@ -68,8 +68,8 @@ Rank|Bot|Rating
 #66|@newengine2022|2071
 #67|@PumpkinLatteBob|2069
 #68|@vrnts_colinbot|2068
-#69|@beastie1|2067
-#70|@KingfishX|2066
+#69|@KingfishX|2066
+#70|@beastie1|2063
 #71|@NewChessEngine-ai|2046
 #72|@Hyper-Stockfish|2044
 #73|@Kizbuurb|2035
@@ -128,10 +128,10 @@ Rank|Bot|Rating
 #126|@Nobody11892|1785
 #127|@clementyne1|1783
 #128|@rachl1|1777
-#129|@StockfishLowDepth|1761
-#130|@Viet-BOT|1750
-#131|@clrsrc_lc0|1742
-#132|@K_Shi_Bot|1737
+#129|@Viet-BOT|1750
+#130|@clrsrc_lc0|1742
+#131|@K_Shi_Bot|1737
+#132|@StockfishLowDepth|1735
 #133|@natural-disaster|1726
 #134|@gage12_bot|1716
 #135|@TTC-BOT_2|1703

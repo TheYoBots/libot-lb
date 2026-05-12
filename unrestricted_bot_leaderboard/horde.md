@@ -32,10 +32,10 @@ Rank|Bot|Rating
 #30|@Fairy-Stockfish|2289
 #31|@Kizburb|2276
 #32|@Team_bot_08512|2267
-#33|@DarkOnBot|2261
-#34|@NewChessEngine-ai|2260
-#35|@ibep|2258
-#36|@LudwigBOT|2256
+#33|@NewChessEngine-ai|2260
+#34|@ibep|2258
+#35|@LudwigBOT|2256
+#36|@DarkOnBot|2253
 #37|@CloudBot_v2|2252
 #38|@ElPeonElectrico|2242
 #39|@TacticalBot|2227
