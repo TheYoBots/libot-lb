@@ -10,4 +10,4 @@ Rank|Bot|Rating
 #8|@kowalabi|1890
 #9|@QiOui|1788
 #10|@OpeningsBot|1679
-#11|@StockfishLowDepth|1173
+#11|@StockfishLowDepth|1169

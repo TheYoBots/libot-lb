@@ -351,8 +351,8 @@ Rank|Bot|Rating
 #349|@schnecken_bot|1382
 #350|@VimBot|1380
 #351|@Danielbot|1377
-#352|@croco_little_bot|1376
-#353|@dream_bot|1375
+#352|@dream_bot|1375
+#353|@croco_little_bot|1364
 #354|@AllieTheChessBot|1362
 #355|@MartianBot|1361
 #356|@MyNameIsSpeeedy|1356

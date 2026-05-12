@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@Chess_omar_2009|1698
 #148|@kowalabi|1697
 #149|@JEDDYCOCO12345|1692
-#150|@StockfishLowDepth|1681
+#150|@StockfishLowDepth|1686
 #151|@Harry_Potterz|1674
 #152|@XXXTryandTryXXX|1674
 #153|@rachl1|1669
