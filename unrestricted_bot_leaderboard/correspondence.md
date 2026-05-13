@@ -162,7 +162,7 @@ Rank|Bot|Rating
 #160|@TheLegendaryKnight|1935
 #161|@chicken_farmer|1926
 #162|@yowCapablanca|1914
-#163|@grindle_x_bot1|1913
+#163|@grindle_x_bot1|1912
 #164|@RadianceEngine|1898
 #165|@vanibot|1895
 #166|@TrolliumBot|1894

@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@DarkOnBot|2360
 #50|@ToromBot|2360
 #51|@Lili-Variants|2357
-#52|@RaspFish|2354
+#52|@RaspFish|2349
 #53|@Viet_BOT|2344
 #54|@virus_exe-bot|2342
 #55|@BotsFanClub|2338
