@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@NewChessEngine-ai|2260
 #34|@ibep|2258
 #35|@LudwigBOT|2256
-#36|@DarkOnBot|2253
+#36|@DarkOnBot|2254
 #37|@CloudBot_v2|2252
 #38|@ElPeonElectrico|2242
 #39|@TacticalBot|2227

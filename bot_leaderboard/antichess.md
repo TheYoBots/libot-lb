@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2910
 #2|@RaspFish|2745
-#3|@DarkOnBot|2584
+#3|@DarkOnBot|2581
 #4|@rascal1|2554
 #5|@bot-win-loh-nick|2475
 #6|@beastie1|2424
@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@NilatacBot|2206
 #10|@kowalabi|2198
 #11|@QiOui|2180
-#12|@CatNail|2022
-#13|@anti-bot|2011
+#12|@CatNail|2048
+#13|@anti-bot|2020
 #14|@rachl1|1942
 #15|@nickl1bot|1902
 #16|@StockfishLowDepth|1289

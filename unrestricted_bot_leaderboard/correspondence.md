@@ -68,7 +68,7 @@ Rank|Bot|Rating
 #66|@AbhijithHISBot|2201
 #67|@Ar4Asd1-BOT|2197
 #68|@HerokuHasnotplay|2196
-#69|@Blunderbuss-bot|2192
+#69|@Blunderbuss-bot|2194
 #70|@Digi-bot|2192
 #71|@IAMSTOCKFISH123|2192
 #72|@GothamChessBot|2183
@@ -163,10 +163,10 @@ Rank|Bot|Rating
 #161|@chicken_farmer|1926
 #162|@yowCapablanca|1914
 #163|@grindle_x_bot1|1912
-#164|@RadianceEngine|1898
-#165|@vanibot|1895
-#166|@TrolliumBot|1894
-#167|@honzovy-sachy-2|1892
+#164|@vanibot|1895
+#165|@TrolliumBot|1894
+#166|@honzovy-sachy-2|1892
+#167|@RadianceEngine|1892
 #168|@yeoldwiz|1890
 #169|@ChessChildren|1884
 #170|@XXXTryandTryXXX|1884

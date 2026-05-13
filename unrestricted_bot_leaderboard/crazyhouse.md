@@ -21,9 +21,9 @@ Rank|Bot|Rating
 #19|@icbmsaregoated2|2664
 #20|@PumpkinLatteBob|2658
 #21|@rascal1|2652
-#22|@ibep|2633
-#23|@RaspFish|2629
-#24|@DarkOnBot|2628
+#22|@DarkOnBot|2635
+#23|@ibep|2633
+#24|@RaspFish|2629
 #25|@bot1e|2625
 #26|@SkyBlaster|2614
 #27|@colinbot|2612

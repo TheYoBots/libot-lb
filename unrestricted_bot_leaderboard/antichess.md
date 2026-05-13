@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@AIAlphaAI|2589
 #55|@is_BOSS|2589
 #56|@Worst-ai|2585
-#57|@DarkOnBot|2584
-#58|@WilliamGAsaad|2584
+#57|@WilliamGAsaad|2584
+#58|@DarkOnBot|2581
 #59|@Team_bot_08512|2581
 #60|@YoBot_v2|2565
 #61|@Nebulogic|2564
@@ -166,11 +166,11 @@ Rank|Bot|Rating
 #164|@PyChessBot|2102
 #165|@TurkiyeHogwartsBOT|2099
 #166|@ZamuChess|2049
-#167|@CatNail|2022
-#168|@Botzer|2020
-#169|@Jussicas|2019
-#170|@CloudBotZero|2018
-#171|@anti-bot|2011
+#167|@CatNail|2048
+#168|@anti-bot|2020
+#169|@Botzer|2020
+#170|@Jussicas|2019
+#171|@CloudBotZero|2018
 #172|@B0T5_RU13|2011
 #173|@TheLegitLegend|2010
 #174|@CrayyBot|1989
@@ -328,7 +328,7 @@ Rank|Bot|Rating
 #326|@MinOpponentMoves|1031
 #327|@katzebot|1016
 #328|@ZX-Chess|1000
-#329|@puisne|988
+#329|@puisne|987
 #330|@Epiano_Bot|986
 #331|@BetaOneBot|954
 #332|@Lozza-Bot|954
