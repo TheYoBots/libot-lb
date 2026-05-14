@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@icbmsaregoated2|2664
 #20|@PumpkinLatteBob|2658
 #21|@rascal1|2652
-#22|@DarkOnBot|2635
+#22|@DarkOnBot|2645
 #23|@ibep|2633
 #24|@RaspFish|2629
 #25|@bot1e|2625
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@catalanbotI|2307
 #54|@Yemmi-Yemmi|2305
 #55|@Bot_Mittens|2303
-#56|@OSaurus|2297
+#56|@OSaurus|2298
 #57|@OlympusCz|2292
 #58|@iplayonlyrandom|2282
 #59|@NormalBlitzBulletBot|2278

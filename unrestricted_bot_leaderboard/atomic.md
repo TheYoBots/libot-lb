@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
 #9|@pistol-play|2590
-#10|@BotSuxX|2580
-#11|@is_BOSS|2577
+#10|@is_BOSS|2581
+#11|@BotSuxX|2580
 #12|@Bharat_royals|2575
 #13|@UltronBot|2556
 #14|@Viet-AI|2556
@@ -60,8 +60,8 @@ Rank|Bot|Rating
 #58|@PumpkinLatteBob|2301
 #59|@PsychedelicAtomic|2296
 #60|@AndromedaSX1|2284
-#61|@DarkOnBot|2282
-#62|@vrnts_colinbot|2282
+#61|@vrnts_colinbot|2282
+#62|@DarkOnBot|2280
 #63|@TheMatrix2029|2278
 #64|@MEGA-NOOB-BOT|2275
 #65|@rascal1|2275
@@ -152,7 +152,7 @@ Rank|Bot|Rating
 #150|@Zer0_Tw0|1991
 #151|@BigBrainen|1984
 #152|@HakoAI|1983
-#153|@OSaurus|1976
+#153|@OSaurus|1980
 #154|@relevantproblem|1976
 #155|@All_Except_Chess960|1975
 #156|@Sub_Bot|1974
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@kidobot2911|1202
 #352|@Lozza-Bot|1198
 #353|@ElFinsBoT|1191
-#354|@genesis1bot|1183
+#354|@genesis1bot|1182
 #355|@GuineaBot2|1173
 #356|@clrsrc_lc0|1168
 #357|@StockfishLowDepth|1168
