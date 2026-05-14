@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@Less_of_a_threat|2469
 #27|@NormalBlitzBulletBot|2463
 #28|@ttBOT|2461
-#29|@ToromBot|2451
+#29|@ToromBot|2454
 #30|@TheMatrix2029|2448
 #31|@faith_bot|2447
 #32|@tbhOnBot|2403
@@ -133,9 +133,9 @@ Rank|Bot|Rating
 #131|@XXXTryandTryXXX|1747
 #132|@CBNguyen_Bot|1741
 #133|@No_Username2|1741
-#134|@bot-win-loh-nick|1736
-#135|@NotNateBot|1731
-#136|@Crepusculum|1724
+#134|@NotNateBot|1731
+#135|@Crepusculum|1724
+#136|@bot-win-loh-nick|1722
 #137|@SUMEETTHEPRO|1708
 #138|@Yemmi-Yemmi|1702
 #139|@clueless-bot|1685

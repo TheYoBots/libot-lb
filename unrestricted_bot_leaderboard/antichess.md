@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@ToromBot|2910
+#6|@ToromBot|2911
 #7|@abdcebot|2902
 #8|@Bot1nokk|2887
 #9|@Coolman2021|2879
@@ -79,12 +79,12 @@ Rank|Bot|Rating
 #77|@HyperLitikBOT|2511
 #78|@pistol-play|2498
 #79|@FayEFish|2491
-#80|@colinbot|2482
+#80|@colinbot|2489
 #81|@MrBOThacker|2477
-#82|@bot-win-loh-nick|2475
-#83|@hauptschuleBOT|2475
-#84|@Alehkine_cat|2474
-#85|@Chefisin|2474
+#82|@hauptschuleBOT|2475
+#83|@Alehkine_cat|2474
+#84|@Chefisin|2474
+#85|@bot-win-loh-nick|2473
 #86|@newengine2022|2469
 #87|@Fairy-Stockfish|2460
 #88|@PepsiForAll|2460
@@ -148,8 +148,8 @@ Rank|Bot|Rating
 #146|@xDmanBOT|2214
 #147|@YellowFlash_v2|2214
 #148|@CoderDen732|2207
-#149|@NilatacBot|2206
-#150|@NormalBlitzBulletBot|2205
+#149|@NormalBlitzBulletBot|2205
+#150|@NilatacBot|2204
 #151|@EstmileBot|2200
 #152|@zipfile_chess-bot|2200
 #153|@kowalabi|2198
@@ -167,7 +167,7 @@ Rank|Bot|Rating
 #165|@TurkiyeHogwartsBOT|2099
 #166|@ZamuChess|2049
 #167|@CatNail|2048
-#168|@anti-bot|2020
+#168|@anti-bot|2023
 #169|@Botzer|2020
 #170|@Jussicas|2019
 #171|@CloudBotZero|2018
