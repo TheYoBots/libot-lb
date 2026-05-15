@@ -93,9 +93,9 @@ Rank|Bot|Rating
 #91|@GodelEscherBot|2071
 #92|@TheLegitLegend2|2059
 #93|@rachl1|2057
-#94|@PowerOnBot|2050
-#95|@JemBok|2038
-#96|@StockfishLowDepth|2036
+#94|@StockfishLowDepth|2057
+#95|@PowerOnBot|2050
+#96|@JemBok|2038
 #97|@Jussicas|2035
 #98|@OpeningsBot|2034
 #99|@thibot|2032

@@ -18,9 +18,9 @@ Rank|Bot|Rating
 #16|@DarkOnBot|2364
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
-#19|@RaspFish|2346
-#20|@TheMatrix2025|2346
-#21|@AndromedaSX1|2344
+#19|@TheMatrix2025|2346
+#20|@AndromedaSX1|2344
+#21|@RaspFish|2344
 #22|@SF_Bot1nok|2333
 #23|@Sooraj_Kumar_P_S|2319
 #24|@FayEFish|2317
@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@Viet-BOT|1750
 #130|@clrsrc_lc0|1742
 #131|@K_Shi_Bot|1737
-#132|@StockfishLowDepth|1735
+#132|@StockfishLowDepth|1729
 #133|@natural-disaster|1726
 #134|@gage12_bot|1716
 #135|@TTC-BOT_2|1703

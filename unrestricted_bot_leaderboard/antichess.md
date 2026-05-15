@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@YellowFlash_v2|2214
 #148|@CoderDen732|2207
 #149|@NormalBlitzBulletBot|2205
-#150|@NilatacBot|2203
+#150|@NilatacBot|2204
 #151|@EstmileBot|2200
 #152|@zipfile_chess-bot|2200
 #153|@kowalabi|2198
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@Botzer|2020
 #169|@Jussicas|2019
 #170|@CloudBotZero|2018
-#171|@anti-bot|2011
+#171|@anti-bot|2015
 #172|@B0T5_RU13|2011
 #173|@TheLegitLegend|2010
 #174|@CrayyBot|1989
@@ -309,8 +309,8 @@ Rank|Bot|Rating
 #307|@Happy_One|1309
 #308|@Official_bot|1301
 #309|@GuineaBot3|1297
-#310|@StockfishLowDepth|1289
-#311|@MeetNarangBOT|1287
+#310|@MeetNarangBOT|1287
+#311|@StockfishLowDepth|1287
 #312|@KaTHHHH|1264
 #313|@chicken_farmer|1241
 #314|@Lancelbot|1237
