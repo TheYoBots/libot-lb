@@ -165,9 +165,9 @@ Rank|Bot|Rating
 #163|@Stockfish-MEDIUM|2117
 #164|@PyChessBot|2102
 #165|@TurkiyeHogwartsBOT|2099
-#166|@ZamuChess|2049
-#167|@anti-bot|2044
-#168|@CatNail|2038
+#166|@anti-bot|2053
+#167|@ZamuChess|2049
+#168|@CatNail|2021
 #169|@Botzer|2020
 #170|@Jussicas|2019
 #171|@CloudBotZero|2018
@@ -309,7 +309,7 @@ Rank|Bot|Rating
 #307|@Happy_One|1309
 #308|@Official_bot|1301
 #309|@GuineaBot3|1297
-#310|@StockfishLowDepth|1297
+#310|@StockfishLowDepth|1295
 #311|@MeetNarangBOT|1287
 #312|@KaTHHHH|1264
 #313|@chicken_farmer|1241

@@ -66,9 +66,9 @@ Rank|Bot|Rating
 #64|@QiOui|2071
 #65|@virus_exe-bot|2054
 #66|@Bot_AOOP11|2050
-#67|@Resolved-Bot|2045
-#68|@DrSmartBugs|2036
-#69|@StockfishLowDepth|2023
+#67|@StockfishLowDepth|2048
+#68|@Resolved-Bot|2045
+#69|@DrSmartBugs|2036
 #70|@YoBot_v2|2019
 #71|@ESC_BOT|2016
 #72|@lightspeed_bot|2010

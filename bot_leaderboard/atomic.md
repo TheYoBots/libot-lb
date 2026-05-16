@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2559
-#2|@DarkOnBot|2295
+#1|@is_BOSS|2562
+#2|@DarkOnBot|2292
 #3|@rascal1|2275
 #4|@ToromBot|2221
 #5|@beastie1|2070
@@ -11,4 +11,4 @@ Rank|Bot|Rating
 #9|@rachl1|1710
 #10|@spyros1bot|1419
 #11|@genesis1bot|1182
-#12|@StockfishLowDepth|1165
+#12|@StockfishLowDepth|1121

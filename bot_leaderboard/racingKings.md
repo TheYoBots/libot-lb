@@ -7,5 +7,5 @@ Rank|Bot|Rating
 #5|@beastie1|2109
 #6|@OSaurus|1859
 #7|@kowalabi|1697
-#8|@StockfishLowDepth|1672
+#8|@StockfishLowDepth|1674
 #9|@QiOui|1633
