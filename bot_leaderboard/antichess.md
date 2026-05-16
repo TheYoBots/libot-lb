@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@beastie1|2424
 #7|@OSaurus|2363
 #8|@calico1|2333
-#9|@NilatacBot|2204
+#9|@NilatacBot|2211
 #10|@kowalabi|2198
 #11|@QiOui|2180
-#12|@CatNail|2027
-#13|@anti-bot|2015
+#12|@anti-bot|2044
+#13|@CatNail|2038
 #14|@rachl1|1942
 #15|@nickl1bot|1902
-#16|@StockfishLowDepth|1287
+#16|@StockfishLowDepth|1297

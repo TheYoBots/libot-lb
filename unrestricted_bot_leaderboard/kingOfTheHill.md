@@ -131,9 +131,9 @@ Rank|Bot|Rating
 #129|@Viet-BOT|1750
 #130|@clrsrc_lc0|1742
 #131|@K_Shi_Bot|1737
-#132|@StockfishLowDepth|1729
-#133|@natural-disaster|1726
-#134|@gage12_bot|1716
+#132|@natural-disaster|1726
+#133|@gage12_bot|1716
+#134|@StockfishLowDepth|1707
 #135|@TTC-BOT_2|1703
 #136|@Viet_BOT|1701
 #137|@QuickLiquid|1689

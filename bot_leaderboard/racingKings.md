@@ -5,9 +5,7 @@ Rank|Bot|Rating
 #3|@RaspFish|2349
 #4|@rascal1|2323
 #5|@beastie1|2109
-#6|@OpeningsBot|1960
-#7|@calico1|1905
-#8|@OSaurus|1859
-#9|@kowalabi|1697
-#10|@StockfishLowDepth|1674
-#11|@QiOui|1633
+#6|@OSaurus|1859
+#7|@kowalabi|1697
+#8|@StockfishLowDepth|1672
+#9|@QiOui|1633
