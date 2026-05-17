@@ -7,3 +7,7 @@ Rank|Bot|Rating
 #5|@OSaurus|2165
 #6|@kowalabi|2042
 #7|@QiOui|1952
+#8|@rachl1|1909
+#9|@JemBok|1871
+#10|@Lancelbot|1636
+#11|@hashcake1|1392

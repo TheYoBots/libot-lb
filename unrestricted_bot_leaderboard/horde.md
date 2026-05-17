@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@Magicianrobot|2741
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
-#10|@Bot1nokk|2623
-#11|@bot1e|2605
+#10|@Bot1nokk|2630
+#11|@bot1e|2598
 #12|@ttBOT|2584
 #13|@compchess2|2579
 #14|@abdcebot|2575
@@ -73,9 +73,9 @@ Rank|Bot|Rating
 #71|@ESC_BOT|2016
 #72|@lightspeed_bot|2010
 #73|@The-Fastest-Bot|2000
-#74|@JemBok|1997
-#75|@Mega_BOT|1986
-#76|@rachl1|1975
+#74|@Mega_BOT|1986
+#75|@rachl1|1975
+#76|@JemBok|1974
 #77|@clementyne1|1970
 #78|@BalloonBot|1939
 #79|@nickl1bot|1933
@@ -184,9 +184,9 @@ Rank|Bot|Rating
 #182|@PowerOnBot|1258
 #183|@xDmanBOT|1258
 #184|@yobmef|1258
-#185|@hashcake1|1247
-#186|@reaper1bot|1242
-#187|@TheSystem_Bot|1218
+#185|@reaper1bot|1242
+#186|@TheSystem_Bot|1218
+#187|@hashcake1|1217
 #188|@GuineaBot3|1212
 #189|@admin-bot|1209
 #190|@Happy_One|1207

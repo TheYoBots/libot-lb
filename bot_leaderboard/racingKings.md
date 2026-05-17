@@ -9,3 +9,5 @@ Rank|Bot|Rating
 #7|@kowalabi|1697
 #8|@StockfishLowDepth|1674
 #9|@QiOui|1633
+#10|@JemBok|1562
+#11|@hashcake1|1188

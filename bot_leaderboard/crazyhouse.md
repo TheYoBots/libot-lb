@@ -8,4 +8,8 @@ Rank|Bot|Rating
 #6|@OSaurus|2298
 #7|@kowalabi|2165
 #8|@QiOui|2151
-#9|@puisne|1354
+#9|@rachl1|2061
+#10|@JemBok|2009
+#11|@Lancelbot|1683
+#12|@hashcake1|1400
+#13|@puisne|1354

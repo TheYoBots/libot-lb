@@ -159,10 +159,10 @@ Rank|Bot|Rating
 #157|@Heman36541234578|1647
 #158|@QiOui|1633
 #159|@aliooooooo444|1596
-#160|@JemBok|1579
-#161|@HiddeNL|1573
-#162|@TheSystem_Bot|1572
-#163|@nickl1bot|1570
+#160|@HiddeNL|1573
+#161|@TheSystem_Bot|1572
+#162|@nickl1bot|1570
+#163|@JemBok|1562
 #164|@QuickLiquid|1555
 #165|@MMC_HUANGBAI|1553
 #166|@clementyne1|1529
@@ -214,8 +214,8 @@ Rank|Bot|Rating
 #212|@ElFinsBoT|1238
 #213|@mertovic119|1232
 #214|@jasans_bot|1220
-#215|@hashcake1|1197
-#216|@Happy_One|1196
+#215|@Happy_One|1196
+#216|@hashcake1|1188
 #217|@reaper1bot|1188
 #218|@XiDM|1181
 #219|@Hrant_Petrosyan_BOT|1152

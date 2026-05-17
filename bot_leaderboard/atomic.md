@@ -9,6 +9,9 @@ Rank|Bot|Rating
 #7|@kowalabi|1907
 #8|@QiOui|1792
 #9|@rachl1|1710
-#10|@spyros1bot|1419
-#11|@genesis1bot|1182
-#12|@StockfishLowDepth|1121
+#10|@nickl1bot|1652
+#11|@spyros1bot|1419
+#12|@Lancelbot|1374
+#13|@hashcake1|1225
+#14|@genesis1bot|1182
+#15|@StockfishLowDepth|1118

@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@CheckmateX1|2555
 #11|@Alexnajax_Fan|2549
 #12|@peonasesino71|2512
-#13|@ServerFish|2494
-#14|@colinbot|2492
-#15|@pawn_git|2491
+#13|@pawn_git|2495
+#14|@ServerFish|2494
+#15|@colinbot|2492
 #16|@Bingo202|2484
 #17|@CCI-2|2483
 #18|@TorBot|2475
@@ -68,7 +68,7 @@ Rank|Bot|Rating
 #66|@AbhijithHISBot|2201
 #67|@Ar4Asd1-BOT|2197
 #68|@HerokuHasnotplay|2196
-#69|@Blunderbuss-bot|2194
+#69|@Blunderbuss-bot|2192
 #70|@Digi-bot|2192
 #71|@IAMSTOCKFISH123|2192
 #72|@GothamChessBot|2183
