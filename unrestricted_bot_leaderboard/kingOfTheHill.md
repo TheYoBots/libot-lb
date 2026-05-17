@@ -89,8 +89,8 @@ Rank|Bot|Rating
 #87|@OlympusCz|1986
 #88|@TeamChelsie|1983
 #89|@Alehkine_cat|1980
-#90|@OSaurus|1977
-#91|@ESC_BOT|1976
+#90|@ESC_BOT|1976
+#91|@OSaurus|1966
 #92|@Lila-Stockfish|1963
 #93|@PyChessBot|1957
 #94|@abhisun_bot|1947
@@ -99,7 +99,7 @@ Rank|Bot|Rating
 #97|@azdad|1936
 #98|@varient-chess-bot1|1936
 #99|@HyperLitikBOT|1930
-#100|@kowalabi|1915
+#100|@kowalabi|1916
 #101|@DrSmartBugs|1904
 #102|@Variantenkoning|1892
 #103|@PetersTestBot|1890

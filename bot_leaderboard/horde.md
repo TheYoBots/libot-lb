@@ -6,11 +6,11 @@ Rank|Bot|Rating
 #4|@bot1e|2598
 #5|@rascal1|2461
 #6|@beastie1|2294
-#7|@DarkOnBot|2254
-#8|@OSaurus|2246
-#9|@calico1|2215
-#10|@kowalabi|2172
-#11|@QiOui|2071
+#7|@calico1|2254
+#8|@DarkOnBot|2247
+#9|@OSaurus|2245
+#10|@kowalabi|2139
+#11|@QiOui|2082
 #12|@rachl1|1975
 #13|@JemBok|1974
 #14|@nickl1bot|1933

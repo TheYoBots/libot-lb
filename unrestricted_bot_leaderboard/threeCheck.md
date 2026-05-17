@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@DeepFriedFish|2185
 #60|@virus_exe-bot|2180
 #61|@StockfishLowDepth|2178
-#62|@ReallyCrazyBOT|2172
-#63|@OSaurus|2165
+#62|@OSaurus|2176
+#63|@ReallyCrazyBOT|2172
 #64|@CheckmateX1|2150
 #65|@ResoluteBot|2150
 #66|@ZhangirKhanBOT|2148
@@ -82,9 +82,9 @@ Rank|Bot|Rating
 #80|@Xerus_1|2070
 #81|@ROBOT_RANDEER2007|2059
 #82|@varient-chess-bot1|2046
-#83|@kowalabi|2042
-#84|@Galaxy_Guardian|2041
-#85|@Official_bot|2041
+#83|@Galaxy_Guardian|2041
+#84|@Official_bot|2041
+#85|@kowalabi|2027
 #86|@Resolved-Bot|2026
 #87|@BalloonBot|2017
 #88|@firstrobot|2003

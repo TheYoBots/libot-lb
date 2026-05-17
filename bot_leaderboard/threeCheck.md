@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@RaspFish|2290
 #3|@DarkOnBot|2251
 #4|@beastie1|2250
-#5|@OSaurus|2165
-#6|@kowalabi|2042
+#5|@OSaurus|2176
+#6|@kowalabi|2027
 #7|@QiOui|1952
 #8|@rachl1|1909
 #9|@JemBok|1871

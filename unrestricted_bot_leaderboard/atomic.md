@@ -151,8 +151,8 @@ Rank|Bot|Rating
 #149|@CatBot329|2000
 #150|@Zer0_Tw0|1991
 #151|@BigBrainen|1984
-#152|@HakoAI|1983
-#153|@OSaurus|1980
+#152|@OSaurus|1984
+#153|@HakoAI|1983
 #154|@relevantproblem|1976
 #155|@All_Except_Chess960|1975
 #156|@Sub_Bot|1974
@@ -167,9 +167,9 @@ Rank|Bot|Rating
 #165|@Lili-Variants|1926
 #166|@hjhjhjhjhjhj|1923
 #167|@FyChess2|1921
-#168|@Tacticall_Bot|1909
-#169|@FairyTailRegimeBot|1908
-#170|@kowalabi|1907
+#168|@kowalabi|1914
+#169|@Tacticall_Bot|1909
+#170|@FairyTailRegimeBot|1908
 #171|@B4dF1sh|1903
 #172|@Isotopebot|1900
 #173|@Just-a-random-bot|1898
@@ -359,8 +359,8 @@ Rank|Bot|Rating
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
 #359|@Happy_One|1138
-#360|@Pawn_Stormer_D4|1124
-#361|@StockfishLowDepth|1118
+#360|@StockfishLowDepth|1126
+#361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110
 #363|@MyNameIsSpeedy|1108
 #364|@tuxbot9000|1101

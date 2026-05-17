@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@legendbot1|1893
 #120|@Hagfish|1879
 #121|@HakoAI|1878
-#122|@OSaurus|1859
+#122|@OSaurus|1862
 #123|@PyChessBot|1847
 #124|@king12345678910BOT|1833
 #125|@cool_boy_bot|1829
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@Aravdadhaniabot|1701
 #146|@PowerOnBot|1701
 #147|@Chess_omar_2009|1698
-#148|@kowalabi|1697
+#148|@kowalabi|1698
 #149|@JEDDYCOCO12345|1692
 #150|@Harry_Potterz|1674
 #151|@StockfishLowDepth|1674

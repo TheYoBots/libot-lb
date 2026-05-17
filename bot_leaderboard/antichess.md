@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@bot1e|2843
 #5|@SF_Bot1nok|2822
 #6|@RaspFish|2745
-#7|@DarkOnBot|2586
+#7|@DarkOnBot|2584
 #8|@rascal1|2554
 #9|@bot-win-loh-nick|2473
 #10|@beastie1|2424
@@ -14,11 +14,11 @@ Rank|Bot|Rating
 #12|@calico1|2333
 #13|@NilatacBot|2209
 #14|@kowalabi|2198
-#15|@QiOui|2180
-#16|@anti-bot|2038
-#17|@CatNail|2015
+#15|@QiOui|2184
+#16|@CatNail|2037
+#17|@anti-bot|2006
 #18|@rachl1|1965
 #19|@nickl1bot|1893
-#20|@StockfishLowDepth|1295
+#20|@StockfishLowDepth|1315
 #21|@Lancelbot|1237
 #22|@hashcake1|916

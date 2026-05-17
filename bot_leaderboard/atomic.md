@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@rascal1|2275
 #4|@ToromBot|2221
 #5|@beastie1|2070
-#6|@OSaurus|1980
-#7|@kowalabi|1907
+#6|@OSaurus|1984
+#7|@kowalabi|1914
 #8|@QiOui|1792
 #9|@rachl1|1710
 #10|@nickl1bot|1652
@@ -14,4 +14,4 @@ Rank|Bot|Rating
 #12|@Lancelbot|1374
 #13|@hashcake1|1225
 #14|@genesis1bot|1182
-#15|@StockfishLowDepth|1118
+#15|@StockfishLowDepth|1126
