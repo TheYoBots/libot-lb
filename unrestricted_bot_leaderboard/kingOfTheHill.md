@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@PumpkinLatteBob|2069
 #68|@vrnts_colinbot|2068
 #69|@KingfishX|2066
-#70|@calico1|2054
+#70|@calico1|2055
 #71|@NewChessEngine-ai|2046
 #72|@Hyper-Stockfish|2044
 #73|@Kizbuurb|2035
@@ -110,9 +110,9 @@ Rank|Bot|Rating
 #108|@is_BOSS|1864
 #109|@relevantproblem|1857
 #110|@Botzer|1851
-#111|@B0T5_RU13|1835
-#112|@QiOui|1834
-#113|@rachl1|1829
+#111|@rachl1|1837
+#112|@B0T5_RU13|1835
+#113|@QiOui|1834
 #114|@STockfishdestroyBot|1825
 #115|@AldoGamer001_Bot|1813
 #116|@admin-bot|1809
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@TTC-BOT_2|1703
 #136|@Viet_BOT|1701
 #137|@QuickLiquid|1689
-#138|@nickl1bot|1685
+#138|@nickl1bot|1676
 #139|@SCP079|1660
 #140|@chessemkabot|1625
 #141|@CoderDen732|1621

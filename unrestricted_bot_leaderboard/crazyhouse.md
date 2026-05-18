@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@chesshyperbot|2344
 #51|@EmptikBot|2332
 #52|@lord-bot|2329
-#53|@OSaurus|2324
+#53|@OSaurus|2325
 #54|@catalanbotI|2307
 #55|@Yemmi-Yemmi|2305
 #56|@Bot_Mittens|2303
@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@NormalBlitzBulletBot|2278
 #60|@MalanChess|2273
 #61|@BitExtender128|2272
-#62|@FayEFish|2265
-#63|@calico1|2254
+#62|@calico1|2269
+#63|@FayEFish|2265
 #64|@Bobby_Fischer_BOT|2251
 #65|@Mega_BOT|2240
 #66|@ElPeonElectrico|2228
@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@relevantproblem|2077
 #91|@Tacticall_Bot|2075
 #92|@GodelEscherBot|2071
-#93|@rachl1|2061
-#94|@TheLegitLegend2|2059
+#93|@TheLegitLegend2|2059
+#94|@rachl1|2057
 #95|@PowerOnBot|2050
 #96|@Jussicas|2035
 #97|@OpeningsBot|2034
@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@PyChessBot|1978
 #107|@ESC_BOT|1966
 #108|@mrchessmanager|1962
-#109|@nickl1bot|1952
+#109|@nickl1bot|1958
 #110|@Hyper-Stockfish|1947
 #111|@PolyBOT|1945
 #112|@AndromedaSX1|1919
