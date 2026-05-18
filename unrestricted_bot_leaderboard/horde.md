@@ -5,12 +5,12 @@ Rank|Bot|Rating
 #3|@Fairy_Belzedar|2857
 #4|@RaspFish|2771
 #5|@Coolman2021|2757
-#6|@ToromBot|2752
+#6|@ToromBot|2757
 #7|@Magicianrobot|2741
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
-#10|@Bot1nokk|2630
-#11|@bot1e|2598
+#10|@Bot1nokk|2632
+#11|@bot1e|2591
 #12|@ttBOT|2584
 #13|@compchess2|2579
 #14|@abdcebot|2575

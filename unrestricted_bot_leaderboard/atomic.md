@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@YoBot_v2|2243
 #74|@MalanChess|2238
 #75|@STockfishdestroyBot|2227
-#76|@ToromBot|2221
+#76|@ToromBot|2222
 #77|@Kizburb|2220
 #78|@MagnusCarlsenTheBOT|2215
 #79|@Bot1nokk|2214

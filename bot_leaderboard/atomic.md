@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@is_BOSS|2562
 #2|@DarkOnBot|2292
 #3|@rascal1|2275
-#4|@ToromBot|2221
+#4|@ToromBot|2222
 #5|@beastie1|2070
 #6|@OSaurus|1984
 #7|@kowalabi|1914
