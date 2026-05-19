@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@Fairy_Belzedar|2857
 #4|@Coolman2021|2757
 #5|@RaspFish|2757
-#6|@ToromBot|2747
+#6|@ToromBot|2752
 #7|@Magicianrobot|2741
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@ttBOT|2584
 #14|@compchess2|2579
 #15|@Lili-ai|2572
-#16|@SF_Bot1nok|2529
-#17|@rascal1|2460
+#16|@SF_Bot1nok|2535
+#17|@rascal1|2451
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
 #20|@BOT_Stockfish13|2383

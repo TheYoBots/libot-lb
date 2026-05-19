@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@Jussicas|2373
 #47|@TheMatrix2025|2368
 #48|@SF_Bot1nok|2359
-#49|@ToromBot|2359
-#50|@DarkOnBot|2358
+#49|@DarkOnBot|2358
+#50|@ToromBot|2358
 #51|@Lili-Variants|2357
 #52|@RaspFish|2353
 #53|@Viet_BOT|2344
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@EvenMatchup|2336
 #57|@ibep|2333
 #58|@CloudBot_v2|2331
-#59|@rascal1|2324
+#59|@rascal1|2325
 #60|@colinbot|2322
 #61|@Worst-ai|2319
 #62|@Bot_AOOP11|2314

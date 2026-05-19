@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
 #6|@abdcebot|2915
-#7|@ToromBot|2911
+#7|@ToromBot|2913
 #8|@Coolman2021|2879
 #9|@Bot1nokk|2870
 #10|@TheMatrix2029|2866
@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@bot1e|2846
 #14|@TorBot|2824
 #15|@WennDieSoldatBOT|2818
-#16|@SF_Bot1nok|2812
+#16|@SF_Bot1nok|2814
 #17|@TacticalBot|2796
 #18|@varient-chess-bot1|2792
 #19|@lord-bot|2789
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@Worst-ai|2585
 #58|@WilliamGAsaad|2584
 #59|@Team_bot_08512|2581
-#60|@rascal1|2574
+#60|@rascal1|2571
 #61|@YoBot_v2|2565
 #62|@Nebulogic|2564
 #63|@Vinh_VariantsBot|2561
@@ -153,7 +153,7 @@ Rank|Bot|Rating
 #151|@EstmileBot|2200
 #152|@zipfile_chess-bot|2200
 #153|@HerokuHasnotplay|2196
-#154|@NilatacBot|2189
+#154|@NilatacBot|2188
 #155|@QiOui|2187
 #156|@Lucror|2178
 #157|@GegeneBOT|2177
