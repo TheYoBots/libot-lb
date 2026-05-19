@@ -3,11 +3,11 @@ Rank|Bot|Rating
 #1|@rascal1|2312
 #2|@RaspFish|2290
 #3|@DarkOnBot|2251
-#4|@beastie1|2250
+#4|@beastie1|2242
 #5|@calico1|2187
 #6|@OSaurus|2169
 #7|@kowalabi|2039
-#8|@QiOui|1967
+#8|@QiOui|1971
 #9|@rachl1|1885
 #10|@JemBok|1871
 #11|@nickl1bot|1787

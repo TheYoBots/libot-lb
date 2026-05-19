@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@Team_bot_08512|2143
 #53|@RobotTigerSlav|2136
 #54|@pistol-play|2121
-#55|@beastie1|2116
-#56|@firstrobot|2114
+#55|@firstrobot|2114
+#56|@beastie1|2113
 #57|@NormalBulletBot|2109
 #58|@GodelEscherBot|2092
 #59|@Johnsun|2091
@@ -110,9 +110,9 @@ Rank|Bot|Rating
 #108|@is_BOSS|1864
 #109|@relevantproblem|1857
 #110|@Botzer|1851
-#111|@rachl1|1837
-#112|@B0T5_RU13|1835
-#113|@QiOui|1834
+#111|@QiOui|1847
+#112|@rachl1|1837
+#113|@B0T5_RU13|1835
 #114|@STockfishdestroyBot|1825
 #115|@AldoGamer001_Bot|1813
 #116|@admin-bot|1809

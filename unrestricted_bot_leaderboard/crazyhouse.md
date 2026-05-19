@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@GoblinAjedrezAI|2383
 #45|@TacticalBot|2373
 #46|@EagleEye2021|2365
-#47|@beastie1|2363
+#47|@beastie1|2364
 #48|@KingfishX|2347
 #49|@Worst-ai|2346
 #50|@chesshyperbot|2344
@@ -74,11 +74,11 @@ Rank|Bot|Rating
 #72|@UltronBot|2197
 #73|@Viet-BOT|2185
 #74|@lightspeed_bot|2177
-#75|@Sooraj_Kumar_P_S|2167
-#76|@Peaceful4Life|2160
-#77|@SCP079|2156
-#78|@BSTAF|2154
-#79|@QiOui|2151
+#75|@QiOui|2173
+#76|@Sooraj_Kumar_P_S|2167
+#77|@Peaceful4Life|2160
+#78|@SCP079|2156
+#79|@BSTAF|2154
 #80|@kowalabi|2144
 #81|@TheMatrix2025|2142
 #82|@StockfishLowDepth|2135

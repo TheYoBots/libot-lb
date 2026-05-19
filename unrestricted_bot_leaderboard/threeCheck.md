@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@HIWIN1234|2261
 #49|@YoBot_v2|2257
 #50|@DarkOnBot|2251
-#51|@beastie1|2250
+#51|@beastie1|2242
 #52|@SF_Bot1nok|2238
 #53|@OlympusCz|2231
 #54|@StockfishLowDepth|2222
@@ -91,8 +91,8 @@ Rank|Bot|Rating
 #89|@Hyper-Stockfish|1986
 #90|@GodelEscherBot|1974
 #91|@XXIstCentury|1973
-#92|@PumpkinLatteBob|1967
-#93|@QiOui|1967
+#92|@QiOui|1971
+#93|@PumpkinLatteBob|1967
 #94|@MMC_HUANGBAI|1965
 #95|@mrchessmanager|1963
 #96|@Team_bot_08512|1963
