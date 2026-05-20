@@ -7,11 +7,11 @@ Rank|Bot|Rating
 #5|@Bot1nokk|2595
 #6|@SF_Bot1nok|2563
 #7|@rascal1|2424
-#8|@beastie1|2291
-#9|@DarkOnBot|2274
-#10|@calico1|2254
-#11|@OSaurus|2245
-#12|@kowalabi|2139
+#8|@beastie1|2296
+#9|@DarkOnBot|2270
+#10|@OSaurus|2245
+#11|@calico1|2244
+#12|@kowalabi|2149
 #13|@QiOui|2108
 #14|@rachl1|1986
 #15|@JemBok|1974

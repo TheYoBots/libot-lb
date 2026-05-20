@@ -151,8 +151,8 @@ Rank|Bot|Rating
 #149|@kowalabi|1698
 #150|@JEDDYCOCO12345|1692
 #151|@Harry_Potterz|1674
-#152|@StockfishLowDepth|1674
-#153|@XXXTryandTryXXX|1674
+#152|@XXXTryandTryXXX|1674
+#153|@StockfishLowDepth|1669
 #154|@Breeze-Hot|1659
 #155|@QiOui|1659
 #156|@Challenger_crazy|1652

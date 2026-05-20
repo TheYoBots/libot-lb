@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@OSaurus|1881
 #7|@rachl1|1700
 #8|@kowalabi|1698
-#9|@StockfishLowDepth|1674
+#9|@StockfishLowDepth|1669
 #10|@QiOui|1659
 #11|@nickl1bot|1578
 #12|@JemBok|1562
