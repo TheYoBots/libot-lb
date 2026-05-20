@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@is_BOSS|2573
-#2|@DarkOnBot|2305
-#3|@rascal1|2261
+#2|@DarkOnBot|2304
+#3|@rascal1|2262
 #4|@ToromBot|2222
-#5|@calico1|2079
-#6|@beastie1|2060
-#7|@OSaurus|1988
-#8|@kowalabi|1895
+#5|@beastie1|2081
+#6|@calico1|2072
+#7|@OSaurus|1968
+#8|@kowalabi|1881
 #9|@QiOui|1818
 #10|@rachl1|1722
 #11|@nickl1bot|1643
@@ -15,4 +15,4 @@ Rank|Bot|Rating
 #13|@Lancelbot|1374
 #14|@hashcake1|1225
 #15|@genesis1bot|1182
-#16|@StockfishLowDepth|1133
+#16|@StockfishLowDepth|1131
