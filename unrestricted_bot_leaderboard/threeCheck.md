@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@HakoAI|1894
 #108|@PowerOnBot|1894
 #109|@CloudBOT|1892
-#110|@BetaZ|1889
-#111|@rachl1|1885
+#110|@rachl1|1890
+#111|@BetaZ|1889
 #112|@JemBok|1871
 #113|@MagicHacker123|1865
 #114|@Johnsun|1863
@@ -128,8 +128,8 @@ Rank|Bot|Rating
 #126|@Storm_Shadow2012|1817
 #127|@Chesz_Art|1815
 #128|@ElFinsBoT|1808
-#129|@nickl1bot|1787
-#130|@pussaW|1785
+#129|@pussaW|1785
+#130|@nickl1bot|1781
 #131|@Tacticall_Bot|1779
 #132|@XXXTryandTryXXX|1747
 #133|@CBNguyen_Bot|1741

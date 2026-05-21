@@ -143,10 +143,10 @@ Rank|Bot|Rating
 #141|@Tacticall_Bot|1733
 #142|@GgKedi|1729
 #143|@david9426_bot|1727
-#144|@SLvov-bot|1710
-#145|@Aravdadhaniabot|1701
-#146|@PowerOnBot|1701
-#147|@rachl1|1700
+#144|@rachl1|1717
+#145|@SLvov-bot|1710
+#146|@Aravdadhaniabot|1701
+#147|@PowerOnBot|1701
 #148|@Chess_omar_2009|1698
 #149|@kowalabi|1698
 #150|@JEDDYCOCO12345|1692
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@ROBOT_RANDEER2007|1651
 #158|@Heman36541234578|1647
 #159|@aliooooooo444|1596
-#160|@nickl1bot|1578
+#160|@nickl1bot|1583
 #161|@HiddeNL|1573
 #162|@TheSystem_Bot|1572
 #163|@JemBok|1562

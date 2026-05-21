@@ -216,8 +216,8 @@ Rank|Bot|Rating
 #214|@QuickLiquid|1730
 #215|@NuclearGandhiBOT|1729
 #216|@MyNameIsWhatLOL|1726
-#217|@Epiano_Bot|1724
-#218|@rachl1|1722
+#217|@rachl1|1726
+#218|@Epiano_Bot|1724
 #219|@SomeBot|1711
 #220|@Grand_MefBartu-BOT|1709
 #221|@Crepusculum|1708
@@ -240,7 +240,7 @@ Rank|Bot|Rating
 #238|@Nithin-das|1649
 #239|@Heman36541234578|1646
 #240|@SriLankaChess|1645
-#241|@nickl1bot|1643
+#241|@nickl1bot|1642
 #242|@BotSSS|1640
 #243|@NeilDandekarBot|1638
 #244|@djungelbot|1633
