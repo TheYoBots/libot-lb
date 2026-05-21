@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@tbhOnBot|2379
 #13|@Coolman2021|2378
 #14|@chessbot2880|2377
-#15|@rascal1|2366
+#15|@rascal1|2376
 #16|@DarkOnBot|2364
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
@@ -52,8 +52,8 @@ Rank|Bot|Rating
 #50|@Mega_BOT|2148
 #51|@AI69|2143
 #52|@Team_bot_08512|2143
-#53|@beastie1|2139
-#54|@RobotTigerSlav|2136
+#53|@RobotTigerSlav|2136
+#54|@beastie1|2130
 #55|@pistol-play|2121
 #56|@firstrobot|2114
 #57|@NormalBulletBot|2109

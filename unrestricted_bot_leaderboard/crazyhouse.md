@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@ResoluteBot|2668
 #18|@SF_Bot1nok|2665
 #19|@icbmsaregoated2|2664
-#20|@PumpkinLatteBob|2658
-#21|@rascal1|2652
+#20|@rascal1|2659
+#21|@PumpkinLatteBob|2658
 #22|@DarkOnBot|2648
 #23|@ibep|2633
 #24|@RaspFish|2629
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@GoblinAjedrezAI|2383
 #45|@TacticalBot|2373
 #46|@EagleEye2021|2365
-#47|@beastie1|2364
+#47|@beastie1|2356
 #48|@KingfishX|2347
 #49|@Worst-ai|2346
 #50|@chesshyperbot|2344

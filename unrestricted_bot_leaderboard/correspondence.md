@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@AjedrezChamberi|2696
 #6|@H-Zero|2650
 #7|@pawnocchio_bot|2623
-#8|@ChamberiAjedrez|2596
+#8|@ChamberiAjedrez|2601
 #9|@LeelaZero-UK|2585
 #10|@CheckmateX1|2555
 #11|@Alexnajax_Fan|2549

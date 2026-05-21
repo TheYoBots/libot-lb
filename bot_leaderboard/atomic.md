@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2560
+#1|@is_BOSS|2554
 #2|@DarkOnBot|2312
-#3|@rascal1|2262
-#4|@ToromBot|2222
-#5|@calico1|2072
-#6|@beastie1|2068
+#3|@rascal1|2241
+#4|@ToromBot|2223
+#5|@beastie1|2090
+#6|@calico1|2072
 #7|@OSaurus|1963
 #8|@kowalabi|1865
 #9|@QiOui|1818
