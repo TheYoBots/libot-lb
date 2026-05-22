@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@Lili-Variants|2357
 #50|@ToromBot|2357
 #51|@SF_Bot1nok|2354
-#52|@RaspFish|2353
+#52|@RaspFish|2344
 #53|@Viet_BOT|2344
 #54|@virus_exe-bot|2342
 #55|@BotsFanClub|2338
@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@Bot_AOOP11|2314
 #62|@KingfishX|2312
 #63|@Viet-BOT|2312
-#64|@IAMSTOCKFISH123|2307
-#65|@rascal1|2304
+#64|@rascal1|2311
+#65|@IAMSTOCKFISH123|2307
 #66|@TestingBot1|2294
 #67|@Bot1nokk|2292
 #68|@NormalBulletBot|2291

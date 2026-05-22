@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@RaspFish|2757
 #2|@ToromBot|2744
 #3|@bot1e|2616
-#4|@abdcebot|2605
-#5|@Bot1nokk|2582
-#6|@SF_Bot1nok|2573
+#4|@abdcebot|2611
+#5|@SF_Bot1nok|2580
+#6|@Bot1nokk|2569
 #7|@rascal1|2445
 #8|@beastie1|2275
 #9|@DarkOnBot|2264

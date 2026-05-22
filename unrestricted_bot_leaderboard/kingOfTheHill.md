@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@TheMatrix2025|2346
 #20|@AndromedaSX1|2344
 #21|@RaspFish|2344
-#22|@SF_Bot1nok|2333
+#22|@SF_Bot1nok|2329
 #23|@Sooraj_Kumar_P_S|2319
 #24|@FayEFish|2317
 #25|@Viet-AI|2317

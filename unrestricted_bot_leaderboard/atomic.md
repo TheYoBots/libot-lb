@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@UltronBot|2556
-#13|@Viet-AI|2556
-#14|@is_BOSS|2554
+#12|@is_BOSS|2557
+#13|@UltronBot|2556
+#14|@Viet-AI|2556
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@SCP079|2259
 #71|@Johnsun|2257
 #72|@YoBot_v2|2243
-#73|@rascal1|2241
-#74|@MalanChess|2238
+#73|@MalanChess|2238
+#74|@rascal1|2229
 #75|@STockfishdestroyBot|2227
 #76|@ToromBot|2223
 #77|@Kizburb|2220
@@ -83,8 +83,8 @@ Rank|Bot|Rating
 #81|@TorBot|2214
 #82|@Grand-bot|2212
 #83|@Bot_AOOP11|2209
-#84|@Bot1nokk|2208
-#85|@newengine2022|2204
+#84|@newengine2022|2204
+#85|@Bot1nokk|2203
 #86|@HedwigChess1|2200
 #87|@Hyper-Stockfish|2198
 #88|@Yemmi-Yemmi|2195
