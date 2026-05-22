@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@SF_Bot1nok|2665
 #19|@icbmsaregoated2|2664
 #20|@PumpkinLatteBob|2658
-#21|@DarkOnBot|2639
-#22|@ibep|2633
-#23|@RaspFish|2629
+#21|@ibep|2633
+#22|@RaspFish|2629
+#23|@DarkOnBot|2628
 #24|@bot1e|2625
 #25|@SkyBlaster|2614
 #26|@rascal1|2613
@@ -80,8 +80,8 @@ Rank|Bot|Rating
 #78|@SCP079|2156
 #79|@BSTAF|2154
 #80|@kowalabi|2144
-#81|@TheMatrix2025|2142
-#82|@StockfishLowDepth|2135
+#81|@StockfishLowDepth|2143
+#82|@TheMatrix2025|2142
 #83|@CloudBot_v2|2131
 #84|@HIWIN1234|2123
 #85|@varient-chess-bot1|2120

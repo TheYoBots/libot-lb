@@ -47,10 +47,10 @@ Rank|Bot|Rating
 #45|@thibot|2393
 #46|@Jussicas|2373
 #47|@TheMatrix2025|2368
-#48|@DarkOnBot|2357
-#49|@Lili-Variants|2357
-#50|@ToromBot|2357
-#51|@SF_Bot1nok|2354
+#48|@Lili-Variants|2357
+#49|@SF_Bot1nok|2354
+#50|@ToromBot|2349
+#51|@DarkOnBot|2345
 #52|@RaspFish|2344
 #53|@Viet_BOT|2344
 #54|@virus_exe-bot|2342
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@HuxZero|2176
 #95|@AnUtterlyKarBot|2174
 #96|@knight_128|2144
-#97|@beastie1|2126
+#97|@beastie1|2142
 #98|@Kizburb|2126
 #99|@mc-king-098|2124
 #100|@fairy-vvrr|2117

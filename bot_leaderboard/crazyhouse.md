@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@DarkOnBot|2639
+#1|@DarkOnBot|2628
 #2|@rascal1|2613
 #3|@beastie1|2357
 #4|@OSaurus|2333

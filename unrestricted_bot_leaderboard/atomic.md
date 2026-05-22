@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@BotSuxX|2580
 #11|@Bharat_royals|2575
-#12|@is_BOSS|2557
-#13|@UltronBot|2556
-#14|@Viet-AI|2556
+#12|@UltronBot|2556
+#13|@Viet-AI|2556
+#14|@is_BOSS|2545
 #15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
@@ -52,9 +52,9 @@ Rank|Bot|Rating
 #50|@LudwigBOT|2339
 #51|@NotNateBot|2336
 #52|@SF_Bot1nok|2336
-#53|@The-Fastest-Bot|2314
-#54|@Alehkine_cat|2312
-#55|@DarkOnBot|2312
+#53|@DarkOnBot|2320
+#54|@The-Fastest-Bot|2314
+#55|@Alehkine_cat|2312
 #56|@Team_bot_08512|2307
 #57|@Dean_Summer_Bot|2305
 #58|@icbmsaregoated2|2305
