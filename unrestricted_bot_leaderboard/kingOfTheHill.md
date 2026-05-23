@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@AI69|2143
 #52|@Team_bot_08512|2143
 #53|@RobotTigerSlav|2136
-#54|@beastie1|2128
+#54|@beastie1|2126
 #55|@pistol-play|2121
 #56|@firstrobot|2114
 #57|@NormalBulletBot|2109
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@PumpkinLatteBob|2069
 #68|@vrnts_colinbot|2068
 #69|@KingfishX|2066
-#70|@calico1|2056
+#70|@calico1|2058
 #71|@NewChessEngine-ai|2046
 #72|@Hyper-Stockfish|2044
 #73|@Kizbuurb|2035
@@ -134,8 +134,8 @@ Rank|Bot|Rating
 #132|@natural-disaster|1726
 #133|@gage12_bot|1716
 #134|@TTC-BOT_2|1703
-#135|@StockfishLowDepth|1702
-#136|@Viet_BOT|1701
+#135|@Viet_BOT|1701
+#136|@StockfishLowDepth|1691
 #137|@QuickLiquid|1689
 #138|@nickl1bot|1676
 #139|@SCP079|1660

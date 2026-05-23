@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@DarkOnBot|2320
 #3|@rascal1|2229
 #4|@ToromBot|2223
-#5|@beastie1|2090
-#6|@calico1|2072
+#5|@beastie1|2095
+#6|@calico1|2067
 #7|@OSaurus|1963
 #8|@kowalabi|1865
 #9|@QiOui|1818

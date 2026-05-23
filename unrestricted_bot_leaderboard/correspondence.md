@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@CheckmateX1|2555
 #11|@Alexnajax_Fan|2549
 #12|@peonasesino71|2512
-#13|@pawn_git|2501
+#13|@pawn_git|2506
 #14|@ServerFish|2494
 #15|@colinbot|2492
 #16|@Bingo202|2484
