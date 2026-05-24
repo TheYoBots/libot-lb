@@ -7,7 +7,10 @@ Rank|Bot|Rating
 #5|@beastie1|2142
 #6|@calico1|1911
 #7|@OSaurus|1881
-#8|@rachl1|1717
-#9|@QiOui|1659
-#10|@StockfishLowDepth|1657
-#11|@nickl1bot|1583
+#8|@kowalabi|1808
+#9|@rachl1|1704
+#10|@QiOui|1659
+#11|@StockfishLowDepth|1657
+#12|@nickl1bot|1588
+#13|@clementyne1|1522
+#14|@reaper1bot|1176

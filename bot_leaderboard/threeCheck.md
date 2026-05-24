@@ -4,7 +4,8 @@ Rank|Bot|Rating
 #2|@beastie1|2245
 #3|@calico1|2183
 #4|@OSaurus|2169
-#5|@kowalabi|2039
+#5|@kowalabi|2021
 #6|@QiOui|1971
 #7|@rachl1|1890
-#8|@nickl1bot|1781
+#8|@nickl1bot|1831
+#9|@JemBok|1806

@@ -9,4 +9,5 @@ Rank|Bot|Rating
 #7|@calico1|2291
 #8|@QiOui|2173
 #9|@rachl1|2069
-#10|@nickl1bot|1958
+#10|@nickl1bot|1996
+#11|@JemBok|1975

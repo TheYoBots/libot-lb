@@ -16,8 +16,7 @@ Rank|Bot|Rating
 #14|@NilatacBot|2150
 #15|@rachl1|2141
 #16|@nickl1bot|2024
-#17|@CatNail|2000
-#18|@anti-bot|1999
+#17|@anti-bot|2003
+#18|@CatNail|2000
 #19|@JemBok|1872
 #20|@clementyne1|1781
-#21|@StockfishLowDepth|1315

@@ -173,8 +173,8 @@ Rank|Bot|Rating
 #171|@CloudBotZero|2018
 #172|@B0T5_RU13|2011
 #173|@TheLegitLegend|2010
-#174|@CatNail|2000
-#175|@anti-bot|1999
+#174|@anti-bot|2003
+#175|@CatNail|2000
 #176|@CrayyBot|1989
 #177|@BetaZ|1973
 #178|@antichesssss|1964
