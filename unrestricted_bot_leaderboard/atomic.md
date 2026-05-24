@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@Bharat_royals|2575
 #12|@UltronBot|2556
 #13|@Viet-AI|2556
-#14|@ttBOT|2540
-#15|@is_BOSS|2537
+#14|@is_BOSS|2542
+#15|@ttBOT|2540
 #16|@BitExtender128|2526
 #17|@ResoluteBot|2525
 #18|@Yebot|2518
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@HyperLitikBOT|2341
 #50|@LudwigBOT|2339
 #51|@NotNateBot|2336
-#52|@SF_Bot1nok|2336
+#52|@SF_Bot1nok|2329
 #53|@The-Fastest-Bot|2314
 #54|@Alehkine_cat|2312
 #55|@DarkOnBot|2311
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@rascal1|2242
 #74|@MalanChess|2238
 #75|@STockfishdestroyBot|2227
-#76|@ToromBot|2223
+#76|@ToromBot|2224
 #77|@Kizburb|2220
 #78|@MagnusCarlsenTheBOT|2215
 #79|@GravityStorm|2214
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
 #359|@Happy_One|1138
-#360|@StockfishLowDepth|1131
+#360|@StockfishLowDepth|1126
 #361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110
 #363|@MyNameIsSpeedy|1108

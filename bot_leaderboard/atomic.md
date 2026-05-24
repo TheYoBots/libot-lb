@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2537
+#1|@is_BOSS|2542
 #2|@DarkOnBot|2311
 #3|@rascal1|2242
-#4|@ToromBot|2223
+#4|@ToromBot|2224
 #5|@RaspFish|2147
 #6|@beastie1|2095
 #7|@calico1|2067
@@ -12,6 +12,4 @@ Rank|Bot|Rating
 #10|@QiOui|1818
 #11|@rachl1|1726
 #12|@nickl1bot|1642
-#13|@Lancelbot|1374
-#14|@hashcake1|1225
-#15|@StockfishLowDepth|1131
+#13|@StockfishLowDepth|1126

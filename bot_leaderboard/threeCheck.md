@@ -7,7 +7,4 @@ Rank|Bot|Rating
 #5|@kowalabi|2039
 #6|@QiOui|1971
 #7|@rachl1|1890
-#8|@JemBok|1871
-#9|@nickl1bot|1781
-#10|@Lancelbot|1636
-#11|@hashcake1|1392
+#8|@nickl1bot|1781

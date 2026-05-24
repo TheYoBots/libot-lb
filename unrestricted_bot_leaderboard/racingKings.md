@@ -50,9 +50,9 @@ Rank|Bot|Rating
 #48|@Lili-Variants|2357
 #49|@SF_Bot1nok|2354
 #50|@ToromBot|2348
-#51|@Viet_BOT|2344
-#52|@DarkOnBot|2343
-#53|@RaspFish|2343
+#51|@RaspFish|2344
+#52|@Viet_BOT|2344
+#53|@DarkOnBot|2343
 #54|@virus_exe-bot|2342
 #55|@BotsFanClub|2338
 #56|@EvenMatchup|2336
@@ -152,9 +152,9 @@ Rank|Bot|Rating
 #150|@JEDDYCOCO12345|1692
 #151|@Harry_Potterz|1674
 #152|@XXXTryandTryXXX|1674
-#153|@StockfishLowDepth|1664
-#154|@Breeze-Hot|1659
-#155|@QiOui|1659
+#153|@Breeze-Hot|1659
+#154|@QiOui|1659
+#155|@StockfishLowDepth|1657
 #156|@Challenger_crazy|1652
 #157|@ROBOT_RANDEER2007|1651
 #158|@Heman36541234578|1647

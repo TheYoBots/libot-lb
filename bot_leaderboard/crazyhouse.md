@@ -8,9 +8,5 @@ Rank|Bot|Rating
 #6|@OSaurus|2333
 #7|@calico1|2291
 #8|@QiOui|2173
-#9|@kowalabi|2144
-#10|@rachl1|2069
-#11|@JemBok|2009
-#12|@nickl1bot|1958
-#13|@Lancelbot|1683
-#14|@hashcake1|1400
+#9|@rachl1|2069
+#10|@nickl1bot|1958

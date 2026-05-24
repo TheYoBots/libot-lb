@@ -9,11 +9,11 @@ Rank|Bot|Rating
 #7|@ToromBot|2916
 #8|@Coolman2021|2879
 #9|@TheMatrix2029|2866
-#10|@Bot1nokk|2862
-#11|@bot1e|2861
+#10|@bot1e|2862
+#11|@Bot1nokk|2862
 #12|@MEGA-NOOB-BOT|2859
 #13|@UltronBot|2859
-#14|@SF_Bot1nok|2825
+#14|@SF_Bot1nok|2830
 #15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
 #17|@RaspFish|2805
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@buffFishNet|2692
 #35|@Magicianrobot|2688
 #36|@fairy-vvrr|2683
-#37|@DarkOnBot|2678
-#38|@LoseisnotAvailablehe|2677
+#37|@LoseisnotAvailablehe|2677
+#38|@DarkOnBot|2675
 #39|@AntichessAnalyzer|2673
 #40|@LegoTechnicControlPl|2662
 #41|@SCP079|2662
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@GegeneBOT|2177
 #157|@DeepFriedFish|2165
 #158|@lightspeed_bot|2152
-#159|@NilatacBot|2151
+#159|@NilatacBot|2150
 #160|@AntiChessBot|2142
 #161|@rachl1|2141
 #162|@AnUtterlyKarBot|2134
@@ -173,8 +173,8 @@ Rank|Bot|Rating
 #171|@CloudBotZero|2018
 #172|@B0T5_RU13|2011
 #173|@TheLegitLegend|2010
-#174|@CatNail|1999
-#175|@anti-bot|1989
+#174|@CatNail|2000
+#175|@anti-bot|1999
 #176|@CrayyBot|1989
 #177|@BetaZ|1973
 #178|@antichesssss|1964
