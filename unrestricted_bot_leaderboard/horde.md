@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@lord-bot|2362
 #24|@Hyper-Stockfish|2358
 #25|@Bullet_bot_0526|2344
-#26|@DarkOnBot|2341
+#26|@DarkOnBot|2342
 #27|@eNErGyOFbEiNGbOT|2326
 #28|@Alexnajax_Fan|2316
 #29|@AlfaBot|2293

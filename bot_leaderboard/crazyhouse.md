@@ -6,8 +6,9 @@ Rank|Bot|Rating
 #4|@bot1e|2608
 #5|@beastie1|2357
 #6|@OSaurus|2333
-#7|@calico1|2291
+#7|@calico1|2293
 #8|@QiOui|2173
-#9|@rachl1|2069
-#10|@nickl1bot|1996
+#9|@rachl1|2075
+#10|@nickl1bot|1988
 #11|@JemBok|1975
+#12|@clementyne1|1889

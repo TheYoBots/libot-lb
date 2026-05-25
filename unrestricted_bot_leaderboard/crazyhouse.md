@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@catalanbotI|2307
 #55|@Yemmi-Yemmi|2305
 #56|@Bot_Mittens|2303
-#57|@OlympusCz|2292
-#58|@calico1|2291
+#57|@calico1|2293
+#58|@OlympusCz|2292
 #59|@iplayonlyrandom|2282
 #60|@NormalBlitzBulletBot|2278
 #61|@MalanChess|2273
@@ -90,9 +90,9 @@ Rank|Bot|Rating
 #88|@NewChessEngine-ai|2110
 #89|@SixtyFourEngine|2089
 #90|@relevantproblem|2077
-#91|@Tacticall_Bot|2075
-#92|@GodelEscherBot|2071
-#93|@rachl1|2069
+#91|@rachl1|2075
+#92|@Tacticall_Bot|2075
+#93|@GodelEscherBot|2071
 #94|@TheLegitLegend2|2059
 #95|@PowerOnBot|2050
 #96|@Jussicas|2035
@@ -101,7 +101,7 @@ Rank|Bot|Rating
 #99|@Less_of_a_threat|2025
 #100|@DeepFriedFish|2020
 #101|@GCNbyFayE|2019
-#102|@nickl1bot|1996
+#102|@nickl1bot|1988
 #103|@Bullet_bot_0526|1987
 #104|@Magnus-BOT|1986
 #105|@Stockfish-MEDIUM|1983

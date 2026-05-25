@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@beastie1|2245
 #52|@SF_Bot1nok|2238
 #53|@OlympusCz|2231
-#54|@StockfishLowDepth|2222
+#54|@StockfishLowDepth|2223
 #55|@Vinh_VariantsBot|2215
 #56|@Kizburb|2214
 #57|@xiang-qi|2207
