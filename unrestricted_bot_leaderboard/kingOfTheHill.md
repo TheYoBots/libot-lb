@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@que-hyper|1865
 #108|@is_BOSS|1864
 #109|@relevantproblem|1857
-#110|@Botzer|1851
-#111|@QiOui|1847
+#110|@QiOui|1856
+#111|@Botzer|1851
 #112|@B0T5_RU13|1835
 #113|@STockfishdestroyBot|1825
 #114|@rachl1|1820

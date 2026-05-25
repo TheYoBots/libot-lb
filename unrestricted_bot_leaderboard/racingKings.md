@@ -152,8 +152,8 @@ Rank|Bot|Rating
 #150|@JEDDYCOCO12345|1692
 #151|@Harry_Potterz|1674
 #152|@XXXTryandTryXXX|1674
-#153|@Breeze-Hot|1659
-#154|@QiOui|1659
+#153|@QiOui|1671
+#154|@Breeze-Hot|1659
 #155|@StockfishLowDepth|1657
 #156|@Challenger_crazy|1652
 #157|@ROBOT_RANDEER2007|1651

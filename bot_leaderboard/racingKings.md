@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@OSaurus|1881
 #8|@kowalabi|1808
 #9|@rachl1|1704
-#10|@QiOui|1659
+#10|@QiOui|1671
 #11|@StockfishLowDepth|1657
 #12|@nickl1bot|1588
 #13|@clementyne1|1522

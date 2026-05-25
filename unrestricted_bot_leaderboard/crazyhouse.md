@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@PumpkinLatteBob|2658
 #21|@RaspFish|2638
 #22|@ibep|2633
-#23|@DarkOnBot|2620
+#23|@DarkOnBot|2617
 #24|@SkyBlaster|2614
 #25|@colinbot|2612
 #26|@rascal1|2612
