@@ -10,12 +10,12 @@ Rank|Bot|Rating
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
 #10|@bot1e|2619
-#11|@abdcebot|2612
-#12|@Bot1nokk|2589
-#13|@ttBOT|2584
+#11|@abdcebot|2617
+#12|@ttBOT|2584
+#13|@Bot1nokk|2581
 #14|@compchess2|2579
 #15|@Lili-ai|2572
-#16|@SF_Bot1nok|2550
+#16|@SF_Bot1nok|2552
 #17|@HIWIN1234|2412
 #18|@rascal1|2405
 #19|@EmptikVariantsBot|2402

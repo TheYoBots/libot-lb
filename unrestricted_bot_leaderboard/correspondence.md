@@ -252,8 +252,8 @@ Rank|Bot|Rating
 #250|@AREALBOT|1674
 #251|@StockfishPro-BOT|1674
 #252|@Kasparov_BOT|1666
-#253|@BagpiperBot|1662
-#254|@grindle_x_bot1|1662
+#253|@grindle_x_bot1|1664
+#254|@BagpiperBot|1662
 #255|@maslenj5|1662
 #256|@NeuralAbyss|1662
 #257|@QueensGamBOT|1662

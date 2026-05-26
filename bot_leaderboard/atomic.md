@@ -12,6 +12,6 @@ Rank|Bot|Rating
 #10|@QiOui|1851
 #11|@rachl1|1732
 #12|@nickl1bot|1651
-#13|@JemBok|1612
-#14|@clementyne1|1581
+#13|@JemBok|1624
+#14|@clementyne1|1592
 #15|@StockfishLowDepth|1146

@@ -106,9 +106,9 @@ Rank|Bot|Rating
 #104|@Magnus-BOT|1986
 #105|@Stockfish-MEDIUM|1983
 #106|@PyChessBot|1978
-#107|@JemBok|1975
-#108|@ESC_BOT|1966
-#109|@mrchessmanager|1962
+#107|@ESC_BOT|1966
+#108|@mrchessmanager|1962
+#109|@JemBok|1957
 #110|@Hyper-Stockfish|1947
 #111|@PolyBOT|1945
 #112|@AndromedaSX1|1919
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@Dean_Summer_Bot|1898
 #115|@vrnts_colinbot|1897
 #116|@azdad|1895
-#117|@clementyne1|1889
+#117|@clementyne1|1885
 #118|@The-Fastest-Bot|1885
 #119|@MMC_HUANGBAI|1879
 #120|@XXIstCentury|1875
