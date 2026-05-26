@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@kowalabi|1808
 #8|@rachl1|1704
 #9|@QiOui|1671
-#10|@StockfishLowDepth|1657
+#10|@StockfishLowDepth|1667
 #11|@nickl1bot|1588
 #12|@clementyne1|1522
 #13|@reaper1bot|1176

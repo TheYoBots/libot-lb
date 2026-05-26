@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@OSaurus|2394
 #11|@calico1|2345
 #12|@kowalabi|2204
-#13|@NilatacBot|2150
+#13|@NilatacBot|2149
 #14|@rachl1|2141
 #15|@nickl1bot|2024
-#16|@CatNail|2001
-#17|@anti-bot|1997
-#18|@JemBok|1925
+#16|@JemBok|2012
+#17|@anti-bot|1998
+#18|@CatNail|1998
 #19|@clementyne1|1781

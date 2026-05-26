@@ -153,8 +153,8 @@ Rank|Bot|Rating
 #151|@Harry_Potterz|1674
 #152|@XXXTryandTryXXX|1674
 #153|@QiOui|1671
-#154|@Breeze-Hot|1659
-#155|@StockfishLowDepth|1657
+#154|@StockfishLowDepth|1667
+#155|@Breeze-Hot|1659
 #156|@Challenger_crazy|1652
 #157|@ROBOT_RANDEER2007|1651
 #158|@Heman36541234578|1647

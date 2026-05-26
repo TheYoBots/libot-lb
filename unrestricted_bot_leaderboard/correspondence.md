@@ -47,9 +47,9 @@ Rank|Bot|Rating
 #45|@Toodfish|2273
 #46|@Cheng-4|2269
 #47|@ChessatronBot|2257
-#48|@eggnog-chess-engine|2254
-#49|@Blue_Mongoose|2249
-#50|@OpeningsBot|2249
+#48|@OpeningsBot|2257
+#49|@eggnog-chess-engine|2254
+#50|@Blue_Mongoose|2249
 #51|@Zimbabwean_chessbot|2249
 #52|@nukechess-bot|2244
 #53|@SicilianViper|2243

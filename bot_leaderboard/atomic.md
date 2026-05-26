@@ -14,4 +14,4 @@ Rank|Bot|Rating
 #12|@nickl1bot|1651
 #13|@JemBok|1624
 #14|@clementyne1|1592
-#15|@StockfishLowDepth|1146
+#15|@StockfishLowDepth|1119
