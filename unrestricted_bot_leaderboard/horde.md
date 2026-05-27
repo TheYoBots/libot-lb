@@ -52,8 +52,8 @@ Rank|Bot|Rating
 #50|@Karpov_bot|2145
 #51|@Bobby_Fischer_BOT|2136
 #52|@TheMatrix2025|2132
-#53|@OpeningsBot|2118
-#54|@Yebot|2118
+#53|@Yebot|2118
+#54|@OpeningsBot|2117
 #55|@jasans_bot|2116
 #56|@xiang-qi|2115
 #57|@GCNbyFayE|2110

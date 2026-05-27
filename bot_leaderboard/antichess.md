@@ -11,11 +11,9 @@ Rank|Bot|Rating
 #9|@beastie1|2468
 #10|@OSaurus|2394
 #11|@calico1|2345
-#12|@kowalabi|2204
-#13|@NilatacBot|2148
-#14|@rachl1|2141
+#12|@NilatacBot|2149
+#13|@rachl1|2141
+#14|@anti-bot|2034
 #15|@nickl1bot|2024
 #16|@JemBok|2012
-#17|@anti-bot|2005
-#18|@CatNail|1998
-#19|@clementyne1|1781
+#17|@CatNail|1998

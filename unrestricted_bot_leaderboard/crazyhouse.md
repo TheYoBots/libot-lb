@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@VariantsBot|2754
 #9|@CheckmateX1|2735
 #10|@LoseisnotAvailablehe|2735
-#11|@chessbot2880|2718
-#12|@ToromBot|2711
+#11|@ToromBot|2728
+#12|@chessbot2880|2718
 #13|@PepsiForAll|2702
 #14|@GilgameshTheBot|2697
 #15|@Fairy_Belzedar|2683

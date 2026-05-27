@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@beastie1|2285
 #10|@OSaurus|2249
 #11|@calico1|2220
-#12|@kowalabi|2149
+#12|@OpeningsBot|2117
 #13|@rachl1|2009
 #14|@JemBok|1961
 #15|@nickl1bot|1942
