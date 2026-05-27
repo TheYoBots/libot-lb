@@ -47,8 +47,8 @@ Rank|Bot|Rating
 #45|@Toodfish|2273
 #46|@Cheng-4|2269
 #47|@ChessatronBot|2257
-#48|@OpeningsBot|2257
-#49|@eggnog-chess-engine|2254
+#48|@eggnog-chess-engine|2254
+#49|@OpeningsBot|2254
 #50|@Blue_Mongoose|2249
 #51|@Zimbabwean_chessbot|2249
 #52|@nukechess-bot|2244
@@ -251,8 +251,8 @@ Rank|Bot|Rating
 #249|@Harry_Potterz|1675
 #250|@AREALBOT|1674
 #251|@StockfishPro-BOT|1674
-#252|@Kasparov_BOT|1666
-#253|@grindle_x_bot1|1664
+#252|@grindle_x_bot1|1669
+#253|@Kasparov_BOT|1666
 #254|@BagpiperBot|1662
 #255|@maslenj5|1662
 #256|@NeuralAbyss|1662

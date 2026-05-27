@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@TheMatrix2025|2368
 #48|@Lili-Variants|2357
 #49|@SF_Bot1nok|2354
-#50|@ToromBot|2348
+#50|@ToromBot|2354
 #51|@RaspFish|2344
 #52|@Viet_BOT|2344
 #53|@DarkOnBot|2343
