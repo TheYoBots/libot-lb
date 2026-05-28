@@ -60,10 +60,10 @@ Rank|Bot|Rating
 #58|@CloudBot_v2|2331
 #59|@colinbot|2322
 #60|@Worst-ai|2319
-#61|@rascal1|2315
-#62|@Bot_AOOP11|2314
-#63|@KingfishX|2312
-#64|@Viet-BOT|2312
+#61|@Bot_AOOP11|2314
+#62|@KingfishX|2312
+#63|@Viet-BOT|2312
+#64|@rascal1|2311
 #65|@IAMSTOCKFISH123|2307
 #66|@TestingBot1|2294
 #67|@Bot1nokk|2292
@@ -95,8 +95,8 @@ Rank|Bot|Rating
 #93|@Johnsun|2181
 #94|@HuxZero|2176
 #95|@AnUtterlyKarBot|2174
-#96|@knight_128|2144
-#97|@beastie1|2142
+#96|@beastie1|2147
+#97|@knight_128|2144
 #98|@Kizburb|2126
 #99|@mc-king-098|2124
 #100|@fairy-vvrr|2117

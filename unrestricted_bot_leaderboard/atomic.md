@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@SCP079|2259
 #71|@Johnsun|2257
 #72|@Bot1nokk|2253
-#73|@YoBot_v2|2243
-#74|@rascal1|2242
+#73|@rascal1|2250
+#74|@YoBot_v2|2243
 #75|@MalanChess|2238
 #76|@STockfishdestroyBot|2227
 #77|@ToromBot|2224
@@ -126,8 +126,8 @@ Rank|Bot|Rating
 #124|@lightspeed_bot|2105
 #125|@SugarAndSpice|2102
 #126|@Botzer|2097
-#127|@beastie1|2095
-#128|@Sharkbot|2095
+#127|@Sharkbot|2095
+#128|@beastie1|2087
 #129|@DrSmartBugs|2077
 #130|@Einstein_NNUE|2072
 #131|@Dark_evil_bot|2071
@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@clrsrc_lc0|1168
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
-#359|@StockfishLowDepth|1154
+#359|@StockfishLowDepth|1151
 #360|@Happy_One|1138
 #361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110

@@ -25,10 +25,10 @@ Rank|Bot|Rating
 #23|@DarkOnBot|2617
 #24|@SkyBlaster|2614
 #25|@colinbot|2612
-#26|@rascal1|2612
-#27|@Xerus_1|2611
-#28|@bot1e|2608
-#29|@Bot1nokk|2607
+#26|@Xerus_1|2611
+#27|@Bot1nokk|2607
+#28|@rascal1|2604
+#29|@bot1e|2602
 #30|@Iwantedtoplaychess|2600
 #31|@EmptikVariantsBot|2548
 #32|@BotSuxX|2538
@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@NienishiEngine|2392
 #44|@GoblinAjedrezAI|2383
 #45|@TacticalBot|2373
-#46|@EagleEye2021|2365
-#47|@beastie1|2357
+#46|@beastie1|2365
+#47|@EagleEye2021|2365
 #48|@KingfishX|2347
 #49|@Worst-ai|2346
 #50|@chesshyperbot|2344
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@TheLegitLegend2|2059
 #95|@PowerOnBot|2050
 #96|@Jussicas|2035
-#97|@OpeningsBot|2034
+#97|@OpeningsBot|2033
 #98|@thibot|2032
 #99|@Less_of_a_threat|2025
 #100|@DeepFriedFish|2020

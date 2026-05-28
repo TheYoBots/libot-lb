@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@Zer0_Tw0|2332
 #36|@Bot1nokk|2326
 #37|@colinbot|2309
-#38|@rascal1|2309
+#38|@rascal1|2307
 #39|@LudwigBOT|2304
 #40|@lord-bot|2300
 #41|@Worst-ai|2296
@@ -50,9 +50,9 @@ Rank|Bot|Rating
 #48|@HIWIN1234|2261
 #49|@YoBot_v2|2257
 #50|@DarkOnBot|2251
-#51|@beastie1|2245
-#52|@SF_Bot1nok|2238
-#53|@OlympusCz|2231
+#51|@SF_Bot1nok|2238
+#52|@OlympusCz|2231
+#53|@beastie1|2224
 #54|@StockfishLowDepth|2223
 #55|@Vinh_VariantsBot|2215
 #56|@Kizburb|2214
