@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@Magicianrobot|2741
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
-#10|@abdcebot|2615
-#11|@bot1e|2614
-#12|@Bot1nokk|2597
+#10|@bot1e|2614
+#11|@abdcebot|2613
+#12|@Bot1nokk|2606
 #13|@ttBOT|2584
 #14|@compchess2|2579
 #15|@Lili-ai|2572
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@lord-bot|2362
 #24|@Hyper-Stockfish|2358
 #25|@Bullet_bot_0526|2344
-#26|@DarkOnBot|2337
+#26|@DarkOnBot|2331
 #27|@eNErGyOFbEiNGbOT|2326
 #28|@Alexnajax_Fan|2316
 #29|@AlfaBot|2293

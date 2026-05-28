@@ -5,16 +5,16 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@abdcebot|2950
+#6|@abdcebot|2949
 #7|@ToromBot|2917
-#8|@Bot1nokk|2880
+#8|@Bot1nokk|2885
 #9|@Coolman2021|2879
 #10|@bot1e|2867
 #11|@TheMatrix2029|2866
 #12|@MEGA-NOOB-BOT|2859
 #13|@UltronBot|2859
 #14|@TorBot|2824
-#15|@SF_Bot1nok|2822
+#15|@SF_Bot1nok|2823
 #16|@WennDieSoldatBOT|2818
 #17|@RaspFish|2802
 #18|@TacticalBot|2796
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@buffFishNet|2692
 #35|@Magicianrobot|2688
 #36|@fairy-vvrr|2683
-#37|@DarkOnBot|2681
+#37|@DarkOnBot|2678
 #38|@LoseisnotAvailablehe|2677
 #39|@AntichessAnalyzer|2673
 #40|@LegoTechnicControlPl|2662
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@GegeneBOT|2177
 #157|@DeepFriedFish|2165
 #158|@lightspeed_bot|2152
-#159|@NilatacBot|2149
+#159|@NilatacBot|2148
 #160|@AntiChessBot|2142
 #161|@rachl1|2141
 #162|@AnUtterlyKarBot|2134
@@ -167,7 +167,7 @@ Rank|Bot|Rating
 #165|@PyChessBot|2102
 #166|@TurkiyeHogwartsBOT|2099
 #167|@ZamuChess|2049
-#168|@anti-bot|2034
+#168|@anti-bot|2037
 #169|@nickl1bot|2024
 #170|@Botzer|2020
 #171|@Jussicas|2019

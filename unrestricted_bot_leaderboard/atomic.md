@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
-#17|@Yebot|2518
-#18|@is_BOSS|2517
+#17|@is_BOSS|2521
+#18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
 #21|@chessbot2880|2509
@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@NotNateBot|2336
 #53|@The-Fastest-Bot|2314
 #54|@Alehkine_cat|2312
-#55|@DarkOnBot|2312
+#55|@DarkOnBot|2309
 #56|@Team_bot_08512|2307
 #57|@Dean_Summer_Bot|2305
 #58|@icbmsaregoated2|2305
@@ -358,8 +358,8 @@ Rank|Bot|Rating
 #356|@clrsrc_lc0|1168
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
-#359|@Happy_One|1138
-#360|@StockfishLowDepth|1125
+#359|@StockfishLowDepth|1154
+#360|@Happy_One|1138
 #361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110
 #363|@MyNameIsSpeedy|1108
