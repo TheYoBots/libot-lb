@@ -12,4 +12,4 @@ Rank|Bot|Rating
 #10|@nickl1bot|1651
 #11|@JemBok|1624
 #12|@clementyne1|1592
-#13|@StockfishLowDepth|1151
+#13|@StockfishLowDepth|1149

@@ -51,9 +51,9 @@ Rank|Bot|Rating
 #49|@YoBot_v2|2257
 #50|@DarkOnBot|2251
 #51|@SF_Bot1nok|2238
-#52|@OlympusCz|2231
-#53|@beastie1|2224
-#54|@StockfishLowDepth|2223
+#52|@StockfishLowDepth|2233
+#53|@OlympusCz|2231
+#54|@beastie1|2224
 #55|@Vinh_VariantsBot|2215
 #56|@Kizburb|2214
 #57|@xiang-qi|2207

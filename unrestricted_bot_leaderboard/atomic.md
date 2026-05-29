@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@clrsrc_lc0|1168
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
-#359|@StockfishLowDepth|1151
+#359|@StockfishLowDepth|1149
 #360|@Happy_One|1138
 #361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110

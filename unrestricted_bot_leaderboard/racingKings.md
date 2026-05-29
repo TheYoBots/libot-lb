@@ -112,9 +112,9 @@ Rank|Bot|Rating
 #110|@Less_of_a_threat|1979
 #111|@BGSBot|1969
 #112|@Yemmi-Yemmi|1964
-#113|@OpeningsBot|1960
-#114|@admin-bot|1955
-#115|@MyNameIsSpeedy|1935
+#113|@admin-bot|1955
+#114|@MyNameIsSpeedy|1935
+#115|@OpeningsBot|1913
 #116|@Pineapple-Friendly|1912
 #117|@calico1|1911
 #118|@Teamleaderbot|1904
