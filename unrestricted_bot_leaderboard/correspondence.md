@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2951
 #2|@Grzechu86|2852
-#3|@Moment-That-Inspires|2777
+#3|@Moment-That-Inspires|2760
 #4|@Magicianrobot|2740
 #5|@AjedrezChamberi|2696
 #6|@H-Zero|2650
@@ -52,8 +52,8 @@ Rank|Bot|Rating
 #50|@Zimbabwean_chessbot|2249
 #51|@nukechess-bot|2244
 #52|@SicilianViper|2243
-#53|@OpeningsBot|2242
-#54|@mayhem23111|2240
+#53|@mayhem23111|2240
+#54|@OpeningsBot|2240
 #55|@Lila-Stockfish|2238
 #56|@chesshyperbot|2236
 #57|@Dean_Summer_Bot|2236
