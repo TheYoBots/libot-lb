@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@ToromBot|2354
 #2|@DarkOnBot|2351
 #3|@RaspFish|2337
-#4|@rascal1|2311
-#5|@beastie1|2147
+#4|@rascal1|2318
+#5|@beastie1|2140
 #6|@OpeningsBot|1913
 #7|@kowalabi|1808
 #8|@rachl1|1704

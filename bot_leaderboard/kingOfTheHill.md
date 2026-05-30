@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@rascal1|2382
-#2|@RaspFish|2336
-#3|@beastie1|2121
+#2|@RaspFish|2334
+#3|@beastie1|2120
 #4|@kowalabi|1901
 #5|@QiOui|1856
 #6|@rachl1|1820

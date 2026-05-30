@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@ElPeonElectrico|2351
 #19|@TheMatrix2025|2346
 #20|@AndromedaSX1|2344
-#21|@RaspFish|2336
+#21|@RaspFish|2334
 #22|@SF_Bot1nok|2329
 #23|@Sooraj_Kumar_P_S|2319
 #24|@FayEFish|2317
@@ -53,8 +53,8 @@ Rank|Bot|Rating
 #51|@AI69|2143
 #52|@Team_bot_08512|2143
 #53|@RobotTigerSlav|2136
-#54|@beastie1|2121
-#55|@pistol-play|2121
+#54|@pistol-play|2121
+#55|@beastie1|2120
 #56|@firstrobot|2114
 #57|@NormalBulletBot|2109
 #58|@GodelEscherBot|2092

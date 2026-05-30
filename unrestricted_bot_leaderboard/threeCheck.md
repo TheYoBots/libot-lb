@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@Viet_BOT|2367
 #35|@Zer0_Tw0|2332
 #36|@Bot1nokk|2326
-#37|@colinbot|2309
-#38|@rascal1|2307
+#37|@rascal1|2310
+#38|@colinbot|2309
 #39|@LudwigBOT|2304
 #40|@lord-bot|2300
 #41|@Worst-ai|2296
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@SF_Bot1nok|2238
 #52|@StockfishLowDepth|2234
 #53|@OlympusCz|2231
-#54|@beastie1|2224
+#54|@beastie1|2221
 #55|@Vinh_VariantsBot|2215
 #56|@Kizburb|2214
 #57|@xiang-qi|2207
