@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Viet-AI|2915
 #3|@Fairy_Belzedar|2857
 #4|@Coolman2021|2757
-#5|@RaspFish|2748
+#5|@RaspFish|2751
 #6|@Magicianrobot|2741
 #7|@ToromBot|2737
 #8|@FireFishBOT|2726

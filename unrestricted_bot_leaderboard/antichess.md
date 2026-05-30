@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@TorBot|2824
 #15|@WennDieSoldatBOT|2818
 #16|@SF_Bot1nok|2816
-#17|@RaspFish|2802
+#17|@RaspFish|2800
 #18|@TacticalBot|2796
 #19|@varient-chess-bot1|2792
 #20|@lord-bot|2789
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@fairy-vvrr|2683
 #37|@LoseisnotAvailablehe|2677
 #38|@AntichessAnalyzer|2673
-#39|@DarkOnBot|2670
+#39|@DarkOnBot|2673
 #40|@LegoTechnicControlPl|2662
 #41|@SCP079|2662
 #42|@MalanChess|2638
@@ -159,8 +159,8 @@ Rank|Bot|Rating
 #157|@DeepFriedFish|2165
 #158|@lightspeed_bot|2152
 #159|@AntiChessBot|2142
-#160|@NilatacBot|2142
-#161|@rachl1|2141
+#160|@rachl1|2141
+#161|@NilatacBot|2140
 #162|@AnUtterlyKarBot|2134
 #163|@XXIstCentury|2131
 #164|@Stockfish-MEDIUM|2117
@@ -175,7 +175,7 @@ Rank|Bot|Rating
 #173|@JemBok|2012
 #174|@B0T5_RU13|2011
 #175|@TheLegitLegend|2010
-#176|@CatNail|1998
+#176|@CatNail|1989
 #177|@CrayyBot|1989
 #178|@BetaZ|1973
 #179|@antichesssss|1964
@@ -305,8 +305,8 @@ Rank|Bot|Rating
 #303|@Galaxy_Guardian|1324
 #304|@Sanjana_Kambala-BOT|1320
 #305|@TheSystem_Bot|1319
-#306|@StockfishLowDepth|1315
-#307|@admin-bot|1311
+#306|@admin-bot|1311
+#307|@StockfishLowDepth|1310
 #308|@Happy_One|1309
 #309|@Official_bot|1301
 #310|@GuineaBot3|1297

@@ -4,10 +4,9 @@ Rank|Bot|Rating
 #2|@RaspFish|2638
 #3|@DarkOnBot|2613
 #4|@rascal1|2604
-#5|@bot1e|2597
-#6|@beastie1|2365
-#7|@calico1|2293
-#8|@rachl1|2075
-#9|@nickl1bot|1988
-#10|@JemBok|1957
-#11|@clementyne1|1885
+#5|@beastie1|2365
+#6|@calico1|2293
+#7|@rachl1|2075
+#8|@nickl1bot|1988
+#9|@JemBok|1957
+#10|@clementyne1|1885

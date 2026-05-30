@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@NotNateBot|2336
 #53|@The-Fastest-Bot|2314
 #54|@Alehkine_cat|2312
-#55|@DarkOnBot|2309
-#56|@Team_bot_08512|2307
+#55|@Team_bot_08512|2307
+#56|@DarkOnBot|2306
 #57|@Dean_Summer_Bot|2305
 #58|@icbmsaregoated2|2305
 #59|@PumpkinLatteBob|2301
@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@jasans_bot|2153
 #108|@JEDDYCOCO12345|2153
 #109|@virus_exe-bot|2153
-#110|@TJchessBot|2149
-#111|@RaspFish|2147
+#110|@RaspFish|2151
+#111|@TJchessBot|2149
 #112|@Lili-ai|2144
 #113|@WittenbergAdmin|2143
 #114|@ROBOT_RANDEER2007|2142
@@ -358,8 +358,8 @@ Rank|Bot|Rating
 #356|@clrsrc_lc0|1168
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
-#359|@Happy_One|1138
-#360|@StockfishLowDepth|1135
+#359|@StockfishLowDepth|1145
+#360|@Happy_One|1138
 #361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110
 #363|@MyNameIsSpeedy|1108
