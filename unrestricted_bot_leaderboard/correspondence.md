@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@colinbot|2492
 #15|@Bingo202|2484
 #16|@CCI-2|2483
-#17|@pawn_git|2475
+#17|@pawn_git|2481
 #18|@TorBot|2475
 #19|@Viet-AI|2471
 #20|@LaQuaisha|2465
@@ -54,9 +54,9 @@ Rank|Bot|Rating
 #52|@SicilianViper|2243
 #53|@mayhem23111|2240
 #54|@Lila-Stockfish|2238
-#55|@OpeningsBot|2238
-#56|@chesshyperbot|2236
-#57|@Dean_Summer_Bot|2236
+#55|@chesshyperbot|2236
+#56|@Dean_Summer_Bot|2236
+#57|@OpeningsBot|2236
 #58|@DrSmartBugs|2230
 #59|@Jobabot|2229
 #60|@ttBOT|2229

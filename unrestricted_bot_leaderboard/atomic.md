@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@bot1e|2121
 #122|@Variantenkoning|2121
 #123|@AnUtterlyKarBot|2113
-#124|@beastie1|2106
+#124|@beastie1|2110
 #125|@lightspeed_bot|2105
 #126|@SugarAndSpice|2102
 #127|@Botzer|2097
@@ -133,7 +133,7 @@ Rank|Bot|Rating
 #131|@Dark_evil_bot|2071
 #132|@Karpov_bot|2069
 #133|@alvinl22_LBot|2068
-#134|@calico1|2067
+#134|@calico1|2062
 #135|@Vinnikk|2061
 #136|@XXIstCentury|2061
 #137|@azdad|2047
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@VariantsTop|1974
 #157|@VarianteBOT|1970
 #158|@Ssech_BOT|1967
-#159|@OSaurus|1963
+#159|@OSaurus|1959
 #160|@AEBROADUSBOTTER|1958
 #161|@AtomicRouletteBot|1955
 #162|@atomicli|1951
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@Worst-ai|1872
 #177|@B0T5_RU13|1871
 #178|@RobotTigerSlav|1871
-#179|@kowalabi|1865
+#179|@kowalabi|1869
 #180|@MMC_HUANGBAI|1865
 #181|@ItsHyperBot|1855
 #182|@the_checkmating_bot|1855
@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@clrsrc_lc0|1168
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
-#359|@StockfishLowDepth|1145
+#359|@StockfishLowDepth|1152
 #360|@Happy_One|1138
 #361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110
