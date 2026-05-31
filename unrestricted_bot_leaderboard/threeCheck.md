@@ -58,11 +58,11 @@ Rank|Bot|Rating
 #56|@Kizburb|2214
 #57|@xiang-qi|2207
 #58|@YellowFlash_v2|2200
-#59|@DeepFriedFish|2185
-#60|@virus_exe-bot|2180
-#61|@calico1|2177
-#62|@OSaurus|2175
-#63|@ReallyCrazyBOT|2172
+#59|@calico1|2198
+#60|@DeepFriedFish|2185
+#61|@virus_exe-bot|2180
+#62|@ReallyCrazyBOT|2172
+#63|@OSaurus|2155
 #64|@CheckmateX1|2150
 #65|@ResoluteBot|2150
 #66|@ZhangirKhanBOT|2148

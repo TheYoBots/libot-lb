@@ -69,11 +69,11 @@ Rank|Bot|Rating
 #67|@PumpkinLatteBob|2069
 #68|@vrnts_colinbot|2068
 #69|@KingfishX|2066
-#70|@calico1|2053
+#70|@calico1|2052
 #71|@NewChessEngine-ai|2046
 #72|@Hyper-Stockfish|2044
 #73|@Kizbuurb|2035
-#74|@OSaurus|2034
+#74|@OSaurus|2035
 #75|@CloudBot_v2|2027
 #76|@Lili-ai|2027
 #77|@faith_bot|2026

@@ -230,9 +230,9 @@ Rank|Bot|Rating
 #228|@TeamChelsie|1682
 #229|@Rishab_Bindal|1681
 #230|@badplayer33|1680
-#231|@OpeningsBot|1679
-#232|@Bosburp777|1675
-#233|@Hagfish|1670
+#231|@Bosburp777|1675
+#232|@Hagfish|1670
+#233|@OpeningsBot|1670
 #234|@DaKingsOfficialBOT|1660
 #235|@TurritopsisDohrnii0|1656
 #236|@Johan201023_Twitch|1655
@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@clrsrc_lc0|1168
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
-#359|@StockfishLowDepth|1152
+#359|@StockfishLowDepth|1147
 #360|@Happy_One|1138
 #361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110
