@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@Kizburb|2815
 #7|@Viet-AI|2756
 #8|@VariantsBot|2754
-#9|@CheckmateX1|2735
+#9|@CheckmateX1|2736
 #10|@LoseisnotAvailablehe|2735
 #11|@ToromBot|2728
 #12|@chessbot2880|2718
@@ -209,8 +209,8 @@ Rank|Bot|Rating
 #207|@cool_boy_bot|1398
 #208|@Classic_BOT-v2|1392
 #209|@are_bots_good|1367
-#210|@GothamChessBot|1358
-#211|@puisne|1354
+#210|@puisne|1359
+#211|@GothamChessBot|1358
 #212|@XiDM|1351
 #213|@Hrant_Petrosyan_BOT|1346
 #214|@NormalBulletBot|1341

@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@abdcebot|2607
 #5|@Bot1nokk|2600
 #6|@SF_Bot1nok|2550
-#7|@rascal1|2433
+#7|@rascal1|2450
 #8|@DarkOnBot|2309
 #9|@beastie1|2257
 #10|@OSaurus|2242

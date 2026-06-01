@@ -36,13 +36,13 @@ Rank|Bot|Rating
 #34|@Viet_BOT|2367
 #35|@Zer0_Tw0|2332
 #36|@Bot1nokk|2326
-#37|@rascal1|2310
+#37|@rascal1|2321
 #38|@colinbot|2309
 #39|@LudwigBOT|2304
 #40|@lord-bot|2300
 #41|@Worst-ai|2296
-#42|@RaspFish|2290
-#43|@KingfishX|2285
+#42|@KingfishX|2285
+#43|@RaspFish|2280
 #44|@The-Fastest-Bot|2277
 #45|@CocopikachuBOT|2274
 #46|@TheMatrix2025|2272
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@DarkOnBot|2251
 #51|@SF_Bot1nok|2238
 #52|@StockfishLowDepth|2235
-#53|@beastie1|2231
+#53|@beastie1|2232
 #54|@OlympusCz|2231
 #55|@Vinh_VariantsBot|2215
 #56|@Kizburb|2214

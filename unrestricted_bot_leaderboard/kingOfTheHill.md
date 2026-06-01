@@ -11,10 +11,10 @@ Rank|Bot|Rating
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
-#12|@tbhOnBot|2379
-#13|@Coolman2021|2378
-#14|@chessbot2880|2377
-#15|@rascal1|2376
+#12|@rascal1|2381
+#13|@tbhOnBot|2379
+#14|@Coolman2021|2378
+#15|@chessbot2880|2377
 #16|@DarkOnBot|2364
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@AI69|2143
 #52|@Team_bot_08512|2143
 #53|@RobotTigerSlav|2136
-#54|@beastie1|2131
+#54|@beastie1|2126
 #55|@pistol-play|2121
 #56|@firstrobot|2114
 #57|@NormalBulletBot|2109

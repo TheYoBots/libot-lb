@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@Johnsun|2257
 #73|@YoBot_v2|2243
 #74|@MalanChess|2238
-#75|@rascal1|2236
+#75|@rascal1|2237
 #76|@STockfishdestroyBot|2227
 #77|@ToromBot|2224
 #78|@Kizburb|2220
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@bot1e|2121
 #122|@Variantenkoning|2121
 #123|@AnUtterlyKarBot|2113
-#124|@beastie1|2110
+#124|@beastie1|2111
 #125|@lightspeed_bot|2105
 #126|@SugarAndSpice|2102
 #127|@Botzer|2097
@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@clrsrc_lc0|1168
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
-#359|@StockfishLowDepth|1147
+#359|@StockfishLowDepth|1151
 #360|@Happy_One|1138
 #361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110
