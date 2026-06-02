@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@Bot1nokk|2649
 #3|@DarkOnBot|2625
 #4|@RaspFish|2622
-#5|@rascal1|2598
-#6|@beastie1|2371
-#7|@calico1|2336
-#8|@OSaurus|2311
+#5|@rascal1|2589
+#6|@beastie1|2359
+#7|@calico1|2349
+#8|@OSaurus|2292
 #9|@QiOui|2180
 #10|@kowalabi|2136
 #11|@rachl1|2051

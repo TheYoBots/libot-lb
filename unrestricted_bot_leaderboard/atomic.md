@@ -61,9 +61,9 @@ Rank|Bot|Rating
 #59|@DarkOnBot|2296
 #60|@PsychedelicAtomic|2296
 #61|@AndromedaSX1|2284
-#62|@vrnts_colinbot|2282
-#63|@TheMatrix2029|2278
-#64|@MEGA-NOOB-BOT|2275
+#62|@MEGA-NOOB-BOT|2283
+#63|@vrnts_colinbot|2282
+#64|@TheMatrix2029|2278
 #65|@BGSBot|2272
 #66|@Bot1nokk|2272
 #67|@AtomicVsEngineBot|2268
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@kidobot2911|1202
 #352|@Lozza-Bot|1198
 #353|@ElFinsBoT|1191
-#354|@StockfishLowDepth|1186
+#354|@StockfishLowDepth|1185
 #355|@genesis1bot|1182
 #356|@GuineaBot2|1173
 #357|@clrsrc_lc0|1168

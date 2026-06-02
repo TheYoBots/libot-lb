@@ -9,4 +9,4 @@ Rank|Bot|Rating
 #7|@calico1|2062
 #8|@OSaurus|1959
 #9|@kowalabi|1869
-#10|@StockfishLowDepth|1186
+#10|@StockfishLowDepth|1185

@@ -176,11 +176,11 @@ Rank|Bot|Rating
 #174|@TheLegitLegend|2010
 #175|@CrayyBot|1989
 #176|@BetaZ|1973
-#177|@anti-bot|1969
+#177|@anti-bot|1968
 #178|@antichesssss|1964
 #179|@Menganti|1963
 #180|@CloudBOT|1950
-#181|@CatNail|1948
+#181|@CatNail|1942
 #182|@clementyne1|1932
 #183|@TestingBot1|1914
 #184|@Crepusculum|1881
@@ -333,7 +333,7 @@ Rank|Bot|Rating
 #331|@Lozza-Bot|954
 #332|@hashcake1|916
 #333|@potato638|886
-#334|@puisne|885
+#334|@puisne|873
 #335|@Pix-Chess|868
 #336|@reaper1bot|856
 #337|@KuhusBOT|822

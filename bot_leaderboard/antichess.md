@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@QiOui|2195
 #14|@NilatacBot|2166
 #15|@JemBok|2012
-#16|@anti-bot|1969
-#17|@CatNail|1948
+#16|@anti-bot|1968
+#17|@CatNail|1942
 #18|@clementyne1|1932
 #19|@StockfishLowDepth|1306
