@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2525
+#1|@is_BOSS|2519
 #2|@DarkOnBot|2296
 #3|@rascal1|2231
 #4|@ToromBot|2224
@@ -9,4 +9,4 @@ Rank|Bot|Rating
 #7|@calico1|2062
 #8|@OSaurus|1959
 #9|@kowalabi|1869
-#10|@StockfishLowDepth|1185
+#10|@StockfishLowDepth|1183

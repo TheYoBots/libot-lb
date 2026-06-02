@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@calico1|2058
 #70|@NewChessEngine-ai|2046
 #71|@Hyper-Stockfish|2044
-#72|@Kizbuurb|2035
-#73|@OSaurus|2030
+#72|@OSaurus|2036
+#73|@Kizbuurb|2035
 #74|@CloudBot_v2|2027
 #75|@Lili-ai|2027
 #76|@faith_bot|2026

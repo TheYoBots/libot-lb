@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@Viet-AI|2556
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
-#16|@is_BOSS|2525
-#17|@ResoluteBot|2525
+#16|@ResoluteBot|2525
+#17|@is_BOSS|2519
 #18|@Yebot|2518
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
@@ -120,9 +120,9 @@ Rank|Bot|Rating
 #118|@BishoP-BOT|2138
 #119|@Mega_BOT|2136
 #120|@Nobody11892|2134
-#121|@Variantenkoning|2121
-#122|@beastie1|2119
-#123|@bot1e|2117
+#121|@bot1e|2133
+#122|@Variantenkoning|2121
+#123|@beastie1|2119
 #124|@AnUtterlyKarBot|2113
 #125|@lightspeed_bot|2105
 #126|@SugarAndSpice|2102
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@kidobot2911|1202
 #352|@Lozza-Bot|1198
 #353|@ElFinsBoT|1191
-#354|@StockfishLowDepth|1185
+#354|@StockfishLowDepth|1183
 #355|@genesis1bot|1182
 #356|@GuineaBot2|1173
 #357|@clrsrc_lc0|1168

@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@CheckmateX1|2556
 #11|@Alexnajax_Fan|2549
 #12|@peonasesino71|2512
-#13|@ServerFish|2494
-#14|@pawn_git|2493
+#13|@pawn_git|2497
+#14|@ServerFish|2494
 #15|@colinbot|2492
 #16|@Bingo202|2484
 #17|@CCI-2|2483
@@ -50,9 +50,9 @@ Rank|Bot|Rating
 #48|@eggnog-chess-engine|2254
 #49|@Blue_Mongoose|2249
 #50|@Zimbabwean_chessbot|2249
-#51|@Blunderbuss-bot|2245
-#52|@nukechess-bot|2244
-#53|@SicilianViper|2243
+#51|@nukechess-bot|2244
+#52|@SicilianViper|2243
+#53|@Blunderbuss-bot|2241
 #54|@mayhem23111|2240
 #55|@Lila-Stockfish|2238
 #56|@chesshyperbot|2236
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Tundra4|2227
 #63|@SEtheChessGod|2224
 #64|@Abuziddin-BOT|2219
-#65|@OpeningsBot|2217
+#65|@OpeningsBot|2215
 #66|@BalloonBot|2204
 #67|@AbhijithHISBot|2201
 #68|@Ar4Asd1-BOT|2197
@@ -352,9 +352,9 @@ Rank|Bot|Rating
 #350|@VimBot|1380
 #351|@Danielbot|1377
 #352|@dream_bot|1375
-#353|@AllieTheChessBot|1362
-#354|@MartianBot|1361
-#355|@croco_little_bot|1357
+#353|@croco_little_bot|1365
+#354|@AllieTheChessBot|1362
+#355|@MartianBot|1361
 #356|@MyNameIsSpeeedy|1356
 #357|@WittenbergAdmin|1355
 #358|@Apollo1414|1352

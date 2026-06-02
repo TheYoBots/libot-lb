@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@RaspFish|2339
 #3|@beastie1|2148
 #4|@calico1|2058
-#5|@OSaurus|2030
+#5|@OSaurus|2036
 #6|@kowalabi|1872
 #7|@QiOui|1870
