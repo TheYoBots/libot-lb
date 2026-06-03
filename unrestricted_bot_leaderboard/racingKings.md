@@ -48,9 +48,9 @@ Rank|Bot|Rating
 #46|@Jussicas|2373
 #47|@TheMatrix2025|2368
 #48|@Lili-Variants|2357
-#49|@SF_Bot1nok|2354
-#50|@ToromBot|2354
-#51|@DarkOnBot|2351
+#49|@ToromBot|2354
+#50|@DarkOnBot|2351
+#51|@SF_Bot1nok|2349
 #52|@Viet_BOT|2344
 #53|@virus_exe-bot|2342
 #54|@BotsFanClub|2338
@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@ibep|2333
 #58|@CloudBot_v2|2331
 #59|@colinbot|2322
-#60|@Worst-ai|2319
-#61|@rascal1|2318
+#60|@rascal1|2321
+#61|@Worst-ai|2319
 #62|@Bot_AOOP11|2314
 #63|@KingfishX|2312
 #64|@Viet-BOT|2312
