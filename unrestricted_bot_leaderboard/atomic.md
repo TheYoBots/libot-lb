@@ -232,8 +232,8 @@ Rank|Bot|Rating
 #230|@badplayer33|1680
 #231|@Bosburp777|1675
 #232|@Hagfish|1670
-#233|@OpeningsBot|1669
-#234|@DaKingsOfficialBOT|1660
+#233|@DaKingsOfficialBOT|1660
+#234|@OpeningsBot|1659
 #235|@TurritopsisDohrnii0|1656
 #236|@Johan201023_Twitch|1655
 #237|@R-O-B-O-T|1654

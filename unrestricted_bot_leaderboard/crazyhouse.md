@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@rachl1|2051
 #95|@PowerOnBot|2050
 #96|@Jussicas|2035
-#97|@OpeningsBot|2032
+#97|@OpeningsBot|2035
 #98|@thibot|2032
 #99|@Less_of_a_threat|2025
 #100|@DeepFriedFish|2020

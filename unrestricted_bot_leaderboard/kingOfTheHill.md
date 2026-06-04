@@ -117,11 +117,11 @@ Rank|Bot|Rating
 #115|@AldoGamer001_Bot|1813
 #116|@admin-bot|1809
 #117|@The-Fastest-Bot|1809
-#118|@TheLegitLegend|1804
-#119|@Bot_AOOP11|1802
-#120|@ROBOT_RANDEER2007|1802
-#121|@mrchessmanager|1801
-#122|@OpeningsBot|1801
+#118|@OpeningsBot|1808
+#119|@TheLegitLegend|1804
+#120|@Bot_AOOP11|1802
+#121|@ROBOT_RANDEER2007|1802
+#122|@mrchessmanager|1801
 #123|@CloudBotZero|1798
 #124|@AnUtterlyKarBot|1796
 #125|@FairyTailRegimeBot|1785

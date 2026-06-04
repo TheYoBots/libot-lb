@@ -157,11 +157,11 @@ Rank|Bot|Rating
 #155|@GegeneBOT|2177
 #156|@DeepFriedFish|2165
 #157|@NilatacBot|2157
-#158|@OpeningsBot|2153
-#159|@lightspeed_bot|2152
-#160|@AntiChessBot|2142
-#161|@rachl1|2141
-#162|@AnUtterlyKarBot|2134
+#158|@lightspeed_bot|2152
+#159|@AntiChessBot|2142
+#160|@rachl1|2141
+#161|@AnUtterlyKarBot|2134
+#162|@OpeningsBot|2133
 #163|@XXIstCentury|2131
 #164|@Stockfish-MEDIUM|2117
 #165|@PyChessBot|2102
