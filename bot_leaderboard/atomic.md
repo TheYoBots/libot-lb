@@ -4,10 +4,9 @@ Rank|Bot|Rating
 #2|@SF_Bot1nok|2328
 #3|@DarkOnBot|2304
 #4|@rascal1|2237
-#5|@ToromBot|2224
-#6|@RaspFish|2151
-#7|@beastie1|2119
-#8|@calico1|2062
-#9|@OSaurus|1959
-#10|@kowalabi|1869
-#11|@StockfishLowDepth|1228
+#5|@RaspFish|2151
+#6|@beastie1|2119
+#7|@calico1|2062
+#8|@OSaurus|1959
+#9|@kowalabi|1869
+#10|@StockfishLowDepth|1224

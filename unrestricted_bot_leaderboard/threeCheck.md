@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@HIWIN1234|2261
 #49|@YoBot_v2|2257
 #50|@DarkOnBot|2251
-#51|@StockfishLowDepth|2241
+#51|@StockfishLowDepth|2242
 #52|@SF_Bot1nok|2238
 #53|@OlympusCz|2231
 #54|@beastie1|2217

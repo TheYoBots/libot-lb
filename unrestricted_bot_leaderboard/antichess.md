@@ -4,14 +4,14 @@ Rank|Bot|Rating
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
-#5|@abdcebot|2964
+#5|@abdcebot|2965
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2917
-#8|@Bot1nokk|2885
+#8|@Bot1nokk|2882
 #9|@Coolman2021|2879
 #10|@SF_Bot1nok|2867
 #11|@TheMatrix2029|2866
-#12|@bot1e|2860
+#12|@bot1e|2861
 #13|@MEGA-NOOB-BOT|2859
 #14|@UltronBot|2859
 #15|@TorBot|2824
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Lucror|2178
 #155|@GegeneBOT|2177
 #156|@DeepFriedFish|2165
-#157|@NilatacBot|2157
+#157|@NilatacBot|2155
 #158|@lightspeed_bot|2152
 #159|@AntiChessBot|2142
 #160|@rachl1|2141
@@ -174,7 +174,7 @@ Rank|Bot|Rating
 #172|@JemBok|2012
 #173|@B0T5_RU13|2011
 #174|@TheLegitLegend|2010
-#175|@anti-bot|1990
+#175|@anti-bot|1997
 #176|@CrayyBot|1989
 #177|@BetaZ|1973
 #178|@CatNail|1967
@@ -335,7 +335,7 @@ Rank|Bot|Rating
 #333|@potato638|886
 #334|@Pix-Chess|868
 #335|@reaper1bot|856
-#336|@puisne|846
+#336|@puisne|832
 #337|@KuhusBOT|822
 #338|@BotSSS|800
 #339|@Ujwal1001|800

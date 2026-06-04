@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@CheckmateX1|2556
 #11|@Alexnajax_Fan|2549
 #12|@peonasesino71|2512
-#13|@pawn_git|2504
+#13|@pawn_git|2509
 #14|@ServerFish|2494
 #15|@colinbot|2492
 #16|@Bingo202|2484
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@robiachess|2295
 #43|@Quanticade|2286
 #44|@mrohCentaur|2285
-#45|@Blunderbuss-bot|2281
+#45|@Blunderbuss-bot|2277
 #46|@Toodfish|2273
 #47|@Cheng-4|2269
 #48|@ChessatronBot|2257

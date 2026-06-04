@@ -348,8 +348,8 @@ Rank|Bot|Rating
 #346|@AlwaysPlayMystery|1240
 #347|@reaper1bot|1238
 #348|@Ar4Asd1-BOT|1230
-#349|@StockfishLowDepth|1228
-#350|@hashcake1|1225
+#349|@hashcake1|1225
+#350|@StockfishLowDepth|1224
 #351|@GuineaBot3|1215
 #352|@kidobot2911|1202
 #353|@Lozza-Bot|1198
