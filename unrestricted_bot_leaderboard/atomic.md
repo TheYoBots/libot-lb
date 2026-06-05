@@ -349,8 +349,8 @@ Rank|Bot|Rating
 #347|@reaper1bot|1238
 #348|@Ar4Asd1-BOT|1230
 #349|@hashcake1|1225
-#350|@StockfishLowDepth|1224
-#351|@GuineaBot3|1215
+#350|@GuineaBot3|1215
+#351|@StockfishLowDepth|1215
 #352|@kidobot2911|1202
 #353|@Lozza-Bot|1198
 #354|@ElFinsBoT|1191

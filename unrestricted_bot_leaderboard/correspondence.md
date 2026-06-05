@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@robiachess|2295
 #43|@Quanticade|2286
 #44|@mrohCentaur|2285
-#45|@Blunderbuss-bot|2277
+#45|@Blunderbuss-bot|2275
 #46|@Toodfish|2273
 #47|@Cheng-4|2269
 #48|@ChessatronBot|2257
@@ -68,7 +68,7 @@ Rank|Bot|Rating
 #66|@AbhijithHISBot|2201
 #67|@Ar4Asd1-BOT|2197
 #68|@HerokuHasnotplay|2196
-#69|@OpeningsBot|2193
+#69|@OpeningsBot|2195
 #70|@Digi-bot|2192
 #71|@IAMSTOCKFISH123|2192
 #72|@GothamChessBot|2183

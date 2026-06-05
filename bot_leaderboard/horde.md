@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2755
 #2|@RaspFish|2751
-#3|@abdcebot|2647
+#3|@abdcebot|2646
 #4|@Bot1nokk|2607
 #5|@bot1e|2606
 #6|@SF_Bot1nok|2528

@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@bot1e|2568
 #15|@CPU2010|2568
 #16|@Chefisin|2566
-#17|@ToromBot|2561
+#17|@ToromBot|2560
 #18|@bot913|2559
 #19|@Yebot|2559
 #20|@Berserk12-X|2549
@@ -24,9 +24,9 @@ Rank|Bot|Rating
 #22|@ChessPolandBot|2538
 #23|@rascal1|2536
 #24|@DarkOnBot|2533
-#25|@YoBot_v2|2531
-#26|@Fischer_Bot|2523
-#27|@RaspFish|2522
+#25|@YoBot_v2|2532
+#26|@Fischer_Bot|2524
+#27|@RaspFish|2523
 #28|@Bot_Mittens|2518
 #29|@is_BOSS|2516
 #30|@MontyPythonFlying|2516
@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@TTC-BOT_2|2183
 #185|@Kizburb|2182
 #186|@Botyuliirma|2181
-#187|@OpeningsBot|2180
+#187|@OpeningsBot|2181
 #188|@VariantsBot|2180
 #189|@WandaOfDevonshire|2180
 #190|@robiachess|2178
@@ -198,9 +198,9 @@ Rank|Bot|Rating
 #196|@rtx3080tibot|2162
 #197|@TorBot|2162
 #198|@too_ez4me|2160
-#199|@YellowFlash-X|2158
-#200|@FireFishBOT_v2|2156
-#201|@TheUnforgivingBot|2156
+#199|@TheUnforgivingBot|2158
+#200|@YellowFlash-X|2158
+#201|@FireFishBOT_v2|2156
 #202|@Stockfish-MEDIUM|2154
 #203|@Buletten-Karl|2149
 #204|@VariantsTop|2149
@@ -433,7 +433,7 @@ Rank|Bot|Rating
 #431|@ImranMelikovBot|1689
 #432|@BetaZ|1686
 #433|@EliteExperimental|1684
-#434|@RadianceEngine|1684
+#434|@RadianceEngine|1683
 #435|@Bot_AOOP11|1682
 #436|@BotifiedMoyao|1682
 #437|@Polaris2Bot|1681
@@ -468,8 +468,8 @@ Rank|Bot|Rating
 #466|@The-Fastest-Bot|1582
 #467|@lightspeed_bot|1571
 #468|@ChessLLModel|1570
-#469|@Demolito_L6|1570
-#470|@XXXTryandTryXXX|1569
+#469|@XXXTryandTryXXX|1569
+#470|@Demolito_L6|1566
 #471|@itsafakeusername2k1|1562
 #472|@ZeputikkuBot|1556
 #473|@jumbot|1545
