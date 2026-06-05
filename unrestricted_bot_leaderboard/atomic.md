@@ -233,7 +233,7 @@ Rank|Bot|Rating
 #231|@Bosburp777|1675
 #232|@Hagfish|1670
 #233|@DaKingsOfficialBOT|1660
-#234|@OpeningsBot|1659
+#234|@OpeningsBot|1658
 #235|@TurritopsisDohrnii0|1656
 #236|@Johan201023_Twitch|1655
 #237|@R-O-B-O-T|1654

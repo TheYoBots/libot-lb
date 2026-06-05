@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@SF_Bot1nok|2645
-#2|@Bot1nokk|2634
+#1|@SF_Bot1nok|2639
+#2|@Bot1nokk|2623
 #3|@RaspFish|2622
 #4|@DarkOnBot|2609
 #5|@rascal1|2596

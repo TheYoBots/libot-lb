@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@Kizburb|2815
 #7|@Viet-AI|2756
 #8|@VariantsBot|2754
-#9|@ToromBot|2744
-#10|@CheckmateX1|2736
-#11|@LoseisnotAvailablehe|2735
+#9|@CheckmateX1|2736
+#10|@LoseisnotAvailablehe|2735
+#11|@ToromBot|2734
 #12|@chessbot2880|2718
 #13|@PepsiForAll|2702
 #14|@GilgameshTheBot|2697
@@ -19,9 +19,9 @@ Rank|Bot|Rating
 #17|@ResoluteBot|2668
 #18|@icbmsaregoated2|2664
 #19|@PumpkinLatteBob|2658
-#20|@SF_Bot1nok|2645
-#21|@Bot1nokk|2634
-#22|@ibep|2633
+#20|@SF_Bot1nok|2639
+#21|@ibep|2633
+#22|@Bot1nokk|2623
 #23|@RaspFish|2622
 #24|@SkyBlaster|2614
 #25|@colinbot|2612

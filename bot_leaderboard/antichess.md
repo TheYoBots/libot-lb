@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2962
+#1|@abdcebot|2959
 #2|@ToromBot|2927
-#3|@Bot1nokk|2882
-#4|@SF_Bot1nok|2867
-#5|@bot1e|2861
+#3|@SF_Bot1nok|2876
+#4|@bot1e|2868
+#5|@Bot1nokk|2864
 #6|@RaspFish|2809
 #7|@DarkOnBot|2652
 #8|@rascal1|2645
@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@calico1|2424
 #12|@OSaurus|2330
 #13|@QiOui|2205
-#14|@NilatacBot|2155
-#15|@anti-bot|1987
-#16|@CatNail|1986
-#17|@clementyne1|1932
+#14|@NilatacBot|2154
+#15|@clementyne1|2004
+#16|@anti-bot|1970
+#17|@CatNail|1950
 #18|@StockfishLowDepth|1305
