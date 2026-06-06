@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@CatBot_14|2514
 #19|@EmptikBot|2510
 #20|@chessbot2880|2509
-#21|@is_BOSS|2505
+#21|@is_BOSS|2503
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
 #24|@firstrobot|2485
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@HyperLitikBOT|2341
 #50|@LudwigBOT|2339
 #51|@NotNateBot|2336
-#52|@SF_Bot1nok|2328
+#52|@SF_Bot1nok|2334
 #53|@The-Fastest-Bot|2314
 #54|@Alehkine_cat|2312
 #55|@Team_bot_08512|2307
@@ -70,9 +70,9 @@ Rank|Bot|Rating
 #68|@xiang-qi|2268
 #69|@CocopikachuBOT|2265
 #70|@chesshyperbot|2260
-#71|@SCP079|2259
-#72|@Johnsun|2257
-#73|@rascal1|2253
+#71|@rascal1|2260
+#72|@SCP079|2259
+#73|@Johnsun|2257
 #74|@YoBot_v2|2243
 #75|@MalanChess|2238
 #76|@STockfishdestroyBot|2227
@@ -120,10 +120,10 @@ Rank|Bot|Rating
 #118|@BishoP-BOT|2138
 #119|@Mega_BOT|2136
 #120|@Nobody11892|2134
-#121|@bot1e|2133
+#121|@bot1e|2129
 #122|@Variantenkoning|2121
-#123|@beastie1|2114
-#124|@AnUtterlyKarBot|2113
+#123|@AnUtterlyKarBot|2113
+#124|@beastie1|2107
 #125|@lightspeed_bot|2105
 #126|@SugarAndSpice|2102
 #127|@Botzer|2097
@@ -140,8 +140,8 @@ Rank|Bot|Rating
 #138|@MagnusCarlsen1507|2037
 #139|@HuxZero|2035
 #140|@EasyWinGG|2032
-#141|@calico1|2027
-#142|@Kizbuurb|2024
+#141|@Kizbuurb|2024
+#142|@calico1|2018
 #143|@colinbot|2014
 #144|@ESC_BOT|2011
 #145|@are_bots_good|2006
@@ -149,8 +149,8 @@ Rank|Bot|Rating
 #147|@OlympusCz|2004
 #148|@BalloonBot|2003
 #149|@CatBot329|2000
-#150|@Zer0_Tw0|1991
-#151|@OSaurus|1986
+#150|@OSaurus|1995
+#151|@Zer0_Tw0|1991
 #152|@BigBrainen|1984
 #153|@HakoAI|1983
 #154|@relevantproblem|1976

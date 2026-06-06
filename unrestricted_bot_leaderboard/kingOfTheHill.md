@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@EmptikVariantsBot|2443
 #7|@TacticalBot|2439
 #8|@ToromBot|2409
-#9|@rascal1|2397
-#10|@Peaceful4Life|2390
+#9|@Peaceful4Life|2390
+#10|@rascal1|2390
 #11|@Corvus-1|2386
 #12|@FireFishBOT|2385
 #13|@tbhOnBot|2379
@@ -50,9 +50,9 @@ Rank|Bot|Rating
 #48|@HuxZero|2163
 #49|@colinbot|2148
 #50|@Mega_BOT|2148
-#51|@AI69|2143
-#52|@Team_bot_08512|2143
-#53|@beastie1|2138
+#51|@beastie1|2146
+#52|@AI69|2143
+#53|@Team_bot_08512|2143
 #54|@RobotTigerSlav|2136
 #55|@pistol-play|2121
 #56|@firstrobot|2114

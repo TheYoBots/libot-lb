@@ -353,11 +353,11 @@ Rank|Bot|Rating
 #351|@Danielbot|1377
 #352|@dream_bot|1375
 #353|@AllieTheChessBot|1362
-#354|@MartianBot|1361
-#355|@MyNameIsSpeeedy|1356
-#356|@WittenbergAdmin|1355
-#357|@Apollo1414|1352
-#358|@croco_little_bot|1351
+#354|@croco_little_bot|1362
+#355|@MartianBot|1361
+#356|@MyNameIsSpeeedy|1356
+#357|@WittenbergAdmin|1355
+#358|@Apollo1414|1352
 #359|@Dummyette|1351
 #360|@Centaur_UnarmedLad|1343
 #361|@xiang-qi|1340
