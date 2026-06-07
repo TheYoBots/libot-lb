@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@icbmsaregoated2|2664
 #19|@PumpkinLatteBob|2658
 #20|@SF_Bot1nok|2639
-#21|@Bot1nokk|2634
-#22|@ibep|2633
+#21|@ibep|2633
+#22|@Bot1nokk|2629
 #23|@SkyBlaster|2614
 #24|@colinbot|2612
 #25|@Xerus_1|2611

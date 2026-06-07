@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@Just-a-random-bot|1816
 #126|@Galaxy_Guardian|1812
 #127|@Lila-Stockfish|1812
-#128|@OpeningsBot|1807
+#128|@OpeningsBot|1809
 #129|@kowalabi|1801
 #130|@SUMEETTHEPRO|1795
 #131|@Botzer|1794
