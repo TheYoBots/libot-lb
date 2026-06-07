@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Blunderbuss-bot|2269
+#1|@Blunderbuss-bot|2295
 #2|@OpeningsBot|2195
 #3|@grindle_x_bot1|1699

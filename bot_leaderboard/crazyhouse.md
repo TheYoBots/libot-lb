@@ -10,8 +10,10 @@ Rank|Bot|Rating
 #8|@calico1|2325
 #9|@OSaurus|2315
 #10|@QiOui|2180
-#11|@kowalabi|2136
-#12|@rachl1|2051
-#13|@nickl1bot|1956
+#11|@rachl1|2074
+#12|@nickl1bot|1956
+#13|@clementyne1|1942
 #14|@JemBok|1940
-#15|@puisne|1359
+#15|@spyros1bot|1715
+#16|@Lancelbot|1663
+#17|@puisne|1359

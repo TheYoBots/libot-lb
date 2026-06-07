@@ -5,5 +5,7 @@ Rank|Bot|Rating
 #3|@beastie1|2217
 #4|@calico1|2206
 #5|@OSaurus|2175
-#6|@kowalabi|2011
-#7|@QiOui|1984
+#6|@QiOui|1984
+#7|@clementyne1|1833
+#8|@spyros1bot|1687
+#9|@Lancelbot|1628
