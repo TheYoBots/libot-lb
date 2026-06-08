@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@calico1|2206
 #5|@OSaurus|2175
 #6|@QiOui|1984
-#7|@rachl1|1903
+#7|@rachl1|1894
 #8|@clementyne1|1833
 #9|@nickl1bot|1818
 #10|@spyros1bot|1687

@@ -16,10 +16,10 @@ Rank|Bot|Rating
 #14|@ttBOT|2540
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
-#17|@Yebot|2518
-#18|@CatBot_14|2514
-#19|@EmptikBot|2510
-#20|@is_BOSS|2510
+#17|@is_BOSS|2518
+#18|@Yebot|2518
+#19|@CatBot_14|2514
+#20|@EmptikBot|2510
 #21|@chessbot2880|2509
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@HyperLitikBOT|2341
 #50|@LudwigBOT|2339
 #51|@NotNateBot|2336
-#52|@SF_Bot1nok|2328
+#52|@SF_Bot1nok|2322
 #53|@The-Fastest-Bot|2314
 #54|@Alehkine_cat|2312
 #55|@Team_bot_08512|2307
@@ -62,9 +62,9 @@ Rank|Bot|Rating
 #60|@PsychedelicAtomic|2296
 #61|@MEGA-NOOB-BOT|2286
 #62|@AndromedaSX1|2284
-#63|@Bot1nokk|2282
-#64|@vrnts_colinbot|2282
-#65|@TheMatrix2029|2278
+#63|@vrnts_colinbot|2282
+#64|@TheMatrix2029|2278
+#65|@Bot1nokk|2274
 #66|@BGSBot|2272
 #67|@AtomicVsEngineBot|2268
 #68|@xiang-qi|2268

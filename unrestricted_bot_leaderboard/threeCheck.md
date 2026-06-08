@@ -104,10 +104,10 @@ Rank|Bot|Rating
 #102|@Lila-Stockfish|1917
 #103|@SkyBlaster|1913
 #104|@HyperLitikBOT|1908
-#105|@rachl1|1903
-#106|@OpeningsBot|1900
-#107|@HakoAI|1894
-#108|@PowerOnBot|1894
+#105|@OpeningsBot|1900
+#106|@HakoAI|1894
+#107|@PowerOnBot|1894
+#108|@rachl1|1894
 #109|@CloudBOT|1892
 #110|@BetaZ|1889
 #111|@MagicHacker123|1865

@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@Lili-Variants|2357
 #49|@ToromBot|2352
 #50|@DarkOnBot|2351
-#51|@SF_Bot1nok|2347
+#51|@SF_Bot1nok|2345
 #52|@Viet_BOT|2344
 #53|@virus_exe-bot|2342
 #54|@BotsFanClub|2338
