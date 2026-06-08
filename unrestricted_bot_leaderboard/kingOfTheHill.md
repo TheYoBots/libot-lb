@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@rachl1|1792
 #125|@FairyTailRegimeBot|1785
 #126|@Nobody11892|1785
-#127|@nickl1bot|1773
+#127|@nickl1bot|1766
 #128|@Viet-BOT|1750
 #129|@JemBok|1747
 #130|@clrsrc_lc0|1742

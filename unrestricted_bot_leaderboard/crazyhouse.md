@@ -91,8 +91,8 @@ Rank|Bot|Rating
 #89|@SixtyFourEngine|2089
 #90|@relevantproblem|2077
 #91|@Tacticall_Bot|2075
-#92|@rachl1|2074
-#93|@GodelEscherBot|2071
+#92|@GodelEscherBot|2071
+#93|@rachl1|2062
 #94|@TheLegitLegend2|2059
 #95|@PowerOnBot|2050
 #96|@Jussicas|2035
@@ -107,9 +107,9 @@ Rank|Bot|Rating
 #105|@PyChessBot|1978
 #106|@ESC_BOT|1966
 #107|@mrchessmanager|1962
-#108|@nickl1bot|1956
-#109|@Hyper-Stockfish|1947
-#110|@PolyBOT|1945
+#108|@Hyper-Stockfish|1947
+#109|@PolyBOT|1945
+#110|@nickl1bot|1943
 #111|@clementyne1|1942
 #112|@JemBok|1940
 #113|@AndromedaSX1|1919

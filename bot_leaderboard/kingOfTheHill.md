@@ -8,6 +8,7 @@ Rank|Bot|Rating
 #6|@kowalabi|1897
 #7|@QiOui|1870
 #8|@rachl1|1792
-#9|@clementyne1|1734
-#10|@spyros1bot|1603
-#11|@Lancelbot|1509
+#9|@nickl1bot|1766
+#10|@clementyne1|1734
+#11|@spyros1bot|1603
+#12|@Lancelbot|1509

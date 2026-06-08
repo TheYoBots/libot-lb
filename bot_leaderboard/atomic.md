@@ -9,5 +9,6 @@ Rank|Bot|Rating
 #7|@OSaurus|1991
 #8|@kowalabi|1859
 #9|@rachl1|1806
-#10|@spyros1bot|1437
-#11|@StockfishLowDepth|1241
+#10|@nickl1bot|1657
+#11|@spyros1bot|1437
+#12|@StockfishLowDepth|1251
