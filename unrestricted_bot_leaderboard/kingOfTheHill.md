@@ -59,11 +59,11 @@ Rank|Bot|Rating
 #57|@NormalBulletBot|2109
 #58|@GodelEscherBot|2092
 #59|@Johnsun|2091
-#60|@Lili-Variants|2089
-#61|@Jussicas|2086
-#62|@Kizburb|2086
-#63|@Dean_Summer_Bot|2085
-#64|@calico1|2081
+#60|@calico1|2090
+#61|@Lili-Variants|2089
+#62|@Jussicas|2086
+#63|@Kizburb|2086
+#64|@Dean_Summer_Bot|2085
 #65|@ibep|2078
 #66|@Xerus_1|2076
 #67|@newengine2022|2071
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@NewChessEngine-ai|2046
 #71|@Hyper-Stockfish|2044
 #72|@Kizbuurb|2035
-#73|@OSaurus|2035
+#73|@OSaurus|2028
 #74|@CloudBot_v2|2027
 #75|@Lili-ai|2027
 #76|@faith_bot|2026

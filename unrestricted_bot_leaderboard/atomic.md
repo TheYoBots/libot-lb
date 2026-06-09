@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@HuxZero|2035
 #140|@EasyWinGG|2032
 #141|@Kizbuurb|2024
-#142|@calico1|2018
+#142|@calico1|2017
 #143|@colinbot|2014
 #144|@ESC_BOT|2011
 #145|@are_bots_good|2006
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@OlympusCz|2004
 #148|@BalloonBot|2003
 #149|@CatBot329|2000
-#150|@OSaurus|1991
+#150|@OSaurus|1993
 #151|@Zer0_Tw0|1991
 #152|@BigBrainen|1984
 #153|@HakoAI|1983
