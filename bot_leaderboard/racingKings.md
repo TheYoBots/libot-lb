@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2352
-#2|@RaspFish|2336
-#3|@rascal1|2323
+#2|@SF_Bot1nok|2345
+#3|@rascal1|2324
 #4|@beastie1|2061
 #5|@calico1|1955
 #6|@OSaurus|1892
@@ -12,3 +12,4 @@ Rank|Bot|Rating
 #10|@rachl1|1717
 #11|@StockfishLowDepth|1640
 #12|@nickl1bot|1571
+#13|@spyros1bot|1340
