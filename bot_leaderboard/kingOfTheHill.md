@@ -3,10 +3,10 @@ Rank|Bot|Rating
 #1|@rascal1|2379
 #2|@beastie1|2149
 #3|@calico1|2090
-#4|@OSaurus|2028
+#4|@OSaurus|2034
 #5|@kowalabi|1897
 #6|@rachl1|1792
 #7|@nickl1bot|1766
 #8|@clementyne1|1734
-#9|@spyros1bot|1603
-#10|@Lancelbot|1509
+#9|@spyros1bot|1580
+#10|@Lancelbot|1491

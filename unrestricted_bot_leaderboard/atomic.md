@@ -300,9 +300,9 @@ Rank|Bot|Rating
 #298|@AIAlphaAI|1442
 #299|@darkb0t|1441
 #300|@KaTHHHH|1440
-#301|@Chess_Bot-Child|1437
-#302|@DestructeurBot|1437
-#303|@spyros1bot|1437
+#301|@spyros1bot|1439
+#302|@Chess_Bot-Child|1437
+#303|@DestructeurBot|1437
 #304|@xDmanBOT|1437
 #305|@MrMolotov|1436
 #306|@BOSS_CHESS_BOT|1431
@@ -317,8 +317,8 @@ Rank|Bot|Rating
 #315|@Trumpfor2O2O|1386
 #316|@DrunkenMasterEngine|1385
 #317|@anonymous5612|1384
-#318|@SLvov-bot|1359
-#319|@Lancelbot|1352
+#318|@Lancelbot|1376
+#319|@SLvov-bot|1359
 #320|@ChessBotHere|1351
 #321|@kazakhfirstbot|1340
 #322|@TheBullyBot|1339

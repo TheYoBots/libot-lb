@@ -6,9 +6,8 @@ Rank|Bot|Rating
 #4|@bot1e|2613
 #5|@Bot1nokk|2590
 #6|@SF_Bot1nok|2575
-#7|@rascal1|2403
-#8|@DarkOnBot|2324
-#9|@beastie1|2250
-#10|@OSaurus|2250
-#11|@calico1|2224
-#12|@OpeningsBot|2109
+#7|@rascal1|2385
+#8|@beastie1|2288
+#9|@OSaurus|2261
+#10|@calico1|2204
+#11|@OpeningsBot|2109

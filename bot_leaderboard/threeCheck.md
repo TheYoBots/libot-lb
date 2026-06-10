@@ -8,5 +8,5 @@ Rank|Bot|Rating
 #6|@rachl1|1894
 #7|@clementyne1|1833
 #8|@nickl1bot|1818
-#9|@spyros1bot|1687
-#10|@Lancelbot|1628
+#9|@spyros1bot|1669
+#10|@Lancelbot|1618

@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@Pineapple-Friendly|1912
 #117|@Teamleaderbot|1904
 #118|@legendbot1|1893
-#119|@OSaurus|1892
+#119|@OSaurus|1881
 #120|@Hagfish|1879
 #121|@HakoAI|1878
 #122|@PyChessBot|1847
@@ -194,12 +194,12 @@ Rank|Bot|Rating
 #192|@vamos_caballeros|1373
 #193|@Los-Guerreros1|1364
 #194|@knight_BOT|1352
-#195|@spyros1bot|1340
-#196|@Toxic_Bot|1338
-#197|@KevBot_SF|1335
-#198|@Lancelbot|1334
-#199|@LegendaryBot1|1333
-#200|@The_dragon_bot|1333
+#195|@Toxic_Bot|1338
+#196|@KevBot_SF|1335
+#197|@Lancelbot|1334
+#198|@LegendaryBot1|1333
+#199|@The_dragon_bot|1333
+#200|@spyros1bot|1332
 #201|@AEBROADUSBOTTER|1329
 #202|@Groot123456|1307
 #203|@BOT-2021|1300
