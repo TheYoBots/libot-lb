@@ -4,12 +4,12 @@ Rank|Bot|Rating
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
-#5|@abdcebot|2970
+#5|@abdcebot|2963
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2927
-#8|@Bot1nokk|2891
+#8|@Bot1nokk|2899
 #9|@Coolman2021|2879
-#10|@bot1e|2876
+#10|@bot1e|2877
 #11|@SF_Bot1nok|2872
 #12|@TheMatrix2029|2866
 #13|@MEGA-NOOB-BOT|2859
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Lucror|2178
 #155|@GegeneBOT|2177
 #156|@DeepFriedFish|2165
-#157|@NilatacBot|2164
+#157|@NilatacBot|2162
 #158|@lightspeed_bot|2152
 #159|@AntiChessBot|2142
 #160|@rachl1|2139
@@ -184,7 +184,7 @@ Rank|Bot|Rating
 #182|@TestingBot1|1914
 #183|@Crepusculum|1881
 #184|@NoTallkOnlyGames|1871
-#185|@CatNail|1862
+#185|@CatNail|1864
 #186|@Lumac0|1861
 #187|@Pineapple-Friendly|1858
 #188|@SriLankaChess|1848

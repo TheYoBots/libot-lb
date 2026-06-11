@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@HIWIN1234|2261
 #49|@YoBot_v2|2257
 #50|@DarkOnBot|2251
-#51|@SF_Bot1nok|2238
+#51|@SF_Bot1nok|2248
 #52|@OlympusCz|2231
 #53|@calico1|2229
 #54|@Vinh_VariantsBot|2215

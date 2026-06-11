@@ -31,9 +31,9 @@ Rank|Bot|Rating
 #29|@MehFish|2376
 #30|@Mega_BOT|2371
 #31|@CorrespondenceBot|2353
-#32|@duchessAI|2344
-#33|@Shocky_BOT|2344
-#34|@Blunderbuss-bot|2340
+#32|@Blunderbuss-bot|2350
+#33|@duchessAI|2344
+#34|@Shocky_BOT|2344
 #35|@HansNiemannBot|2338
 #36|@chmod-bot|2310
 #37|@bekbot|2307
@@ -111,9 +111,9 @@ Rank|Bot|Rating
 #109|@TheAstroBot|2101
 #110|@ZhangirKhanBOT|2093
 #111|@allvariants|2091
-#112|@CCI-2|2091
-#113|@Pro-Python-BOT|2084
-#114|@Chess_ni_BOSS|2080
+#112|@Pro-Python-BOT|2084
+#113|@Chess_ni_BOSS|2080
+#114|@CCI-2|2075
 #115|@GucciBot|2074
 #116|@HyperLitikBOT|2073
 #117|@maello_bot|2071
