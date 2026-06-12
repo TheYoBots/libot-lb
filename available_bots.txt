@@ -3591,3 +3591,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+dala-1100

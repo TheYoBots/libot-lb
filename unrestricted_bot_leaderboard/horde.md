@@ -9,13 +9,13 @@ Rank|Bot|Rating
 #7|@Magicianrobot|2741
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
-#10|@abdcebot|2653
-#11|@Bot1nokk|2610
+#10|@abdcebot|2652
+#11|@Bot1nokk|2621
 #12|@bot1e|2597
 #13|@ttBOT|2584
 #14|@compchess2|2579
-#15|@SF_Bot1nok|2579
-#16|@Lili-ai|2572
+#15|@Lili-ai|2572
+#16|@SF_Bot1nok|2568
 #17|@rascal1|2417
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402

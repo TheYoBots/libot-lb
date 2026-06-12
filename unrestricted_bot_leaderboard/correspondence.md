@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2951
+#1|@fibonachi|2955
 #2|@Grzechu86|2852
 #3|@Moment-That-Inspires|2760
 #4|@Magicianrobot|2740
@@ -285,8 +285,8 @@ Rank|Bot|Rating
 #283|@bestchessbot|1618
 #284|@Rishab_Bindal|1618
 #285|@OverHead_BOT|1615
-#286|@EdwardKillick|1609
-#287|@Toxic_Bot|1607
+#286|@Toxic_Bot|1607
+#287|@EdwardKillick|1606
 #288|@NeuralKnight1500|1605
 #289|@JonoX|1604
 #290|@DrawFish|1601

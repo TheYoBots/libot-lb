@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@tbhOnBot|2379
 #13|@Coolman2021|2378
 #14|@chessbot2880|2377
-#15|@rascal1|2367
+#15|@rascal1|2368
 #16|@DarkOnBot|2364
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@NewChessEngine-ai|2046
 #72|@Hyper-Stockfish|2044
 #73|@Kizbuurb|2035
-#74|@OSaurus|2034
+#74|@OSaurus|2030
 #75|@CloudBot_v2|2027
 #76|@Lili-ai|2027
 #77|@faith_bot|2026

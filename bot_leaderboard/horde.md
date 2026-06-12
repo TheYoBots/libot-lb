@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2745
-#2|@abdcebot|2653
-#3|@Bot1nokk|2610
+#2|@abdcebot|2652
+#3|@Bot1nokk|2621
 #4|@bot1e|2597
-#5|@SF_Bot1nok|2579
+#5|@SF_Bot1nok|2568
 #6|@rascal1|2417
 #7|@beastie1|2288
 #8|@OSaurus|2229
