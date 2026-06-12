@@ -5,9 +5,9 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2610
 #4|@bot1e|2597
 #5|@SF_Bot1nok|2579
-#6|@rascal1|2385
+#6|@rascal1|2417
 #7|@beastie1|2288
-#8|@OSaurus|2261
+#8|@OSaurus|2229
 #9|@calico1|2204
 #10|@kowalabi|2164
 #11|@OpeningsBot|2109

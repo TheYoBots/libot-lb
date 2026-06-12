@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@SF_Bot1nok|2638
 #2|@Bot1nokk|2606
 #3|@RaspFish|2605
-#4|@rascal1|2575
+#4|@rascal1|2585
 #5|@bot1e|2558
-#6|@beastie1|2366
+#6|@beastie1|2361
 #7|@calico1|2330
 #8|@OSaurus|2328
 #9|@kowalabi|2172

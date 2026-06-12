@@ -155,8 +155,8 @@ Rank|Bot|Rating
 #153|@QiOui|2191
 #154|@Lucror|2178
 #155|@GegeneBOT|2177
-#156|@DeepFriedFish|2165
-#157|@NilatacBot|2163
+#156|@NilatacBot|2171
+#157|@DeepFriedFish|2165
 #158|@lightspeed_bot|2152
 #159|@AntiChessBot|2142
 #160|@rachl1|2139
@@ -167,7 +167,7 @@ Rank|Bot|Rating
 #165|@PyChessBot|2102
 #166|@TurkiyeHogwartsBOT|2099
 #167|@ZamuChess|2049
-#168|@anti-bot|2028
+#168|@anti-bot|2031
 #169|@nickl1bot|2024
 #170|@Botzer|2020
 #171|@Jussicas|2019
@@ -182,9 +182,9 @@ Rank|Bot|Rating
 #180|@Menganti|1963
 #181|@CloudBOT|1950
 #182|@TestingBot1|1914
-#183|@Crepusculum|1881
-#184|@NoTallkOnlyGames|1871
-#185|@CatNail|1864
+#183|@CatNail|1881
+#184|@Crepusculum|1881
+#185|@NoTallkOnlyGames|1871
 #186|@Lumac0|1861
 #187|@Pineapple-Friendly|1858
 #188|@SriLankaChess|1848

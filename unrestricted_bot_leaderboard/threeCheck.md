@@ -38,9 +38,9 @@ Rank|Bot|Rating
 #36|@Bot1nokk|2326
 #37|@colinbot|2309
 #38|@LudwigBOT|2304
-#39|@rascal1|2303
-#40|@lord-bot|2300
-#41|@Worst-ai|2296
+#39|@lord-bot|2300
+#40|@Worst-ai|2296
+#41|@rascal1|2293
 #42|@KingfishX|2285
 #43|@The-Fastest-Bot|2277
 #44|@CocopikachuBOT|2274
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@xiang-qi|2207
 #57|@YellowFlash_v2|2200
 #58|@calico1|2198
-#59|@OSaurus|2189
+#59|@OSaurus|2193
 #60|@DeepFriedFish|2185
 #61|@virus_exe-bot|2180
 #62|@ReallyCrazyBOT|2172
