@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@bot1e|2884
 #4|@SF_Bot1nok|2874
 #5|@RaspFish|2814
-#6|@rascal1|2630
+#6|@rascal1|2648
 #7|@beastie1|2482
 #8|@calico1|2447
 #9|@OSaurus|2305
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@QiOui|2191
 #12|@NilatacBot|2167
 #13|@rachl1|2139
-#14|@anti-bot|2032
+#14|@anti-bot|2082
 #15|@clementyne1|1994
 #16|@CatNail|1858
 #17|@spyros1bot|1421

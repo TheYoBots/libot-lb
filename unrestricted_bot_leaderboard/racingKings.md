@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@RaspFish|2336
 #57|@ibep|2333
 #58|@CloudBot_v2|2331
-#59|@rascal1|2325
-#60|@colinbot|2322
+#59|@colinbot|2322
+#60|@rascal1|2319
 #61|@Worst-ai|2319
 #62|@Bot_AOOP11|2314
 #63|@KingfishX|2312

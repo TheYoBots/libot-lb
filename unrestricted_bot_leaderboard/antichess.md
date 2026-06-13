@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@LegoTechnicControlPl|2662
 #40|@SCP079|2662
 #41|@DarkOnBot|2652
-#42|@MalanChess|2638
-#43|@vrnts_colinbot|2637
-#44|@rascal1|2630
+#42|@rascal1|2648
+#43|@MalanChess|2638
+#44|@vrnts_colinbot|2637
 #45|@HIWIN1234|2623
 #46|@Kizbuurb|2621
 #47|@Lili-ai|2619
@@ -166,8 +166,8 @@ Rank|Bot|Rating
 #164|@OpeningsBot|2103
 #165|@PyChessBot|2102
 #166|@TurkiyeHogwartsBOT|2099
-#167|@ZamuChess|2049
-#168|@anti-bot|2032
+#167|@anti-bot|2082
+#168|@ZamuChess|2049
 #169|@nickl1bot|2024
 #170|@Botzer|2020
 #171|@Jussicas|2019

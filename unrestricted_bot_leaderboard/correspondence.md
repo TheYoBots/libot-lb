@@ -31,11 +31,11 @@ Rank|Bot|Rating
 #29|@MehFish|2376
 #30|@Mega_BOT|2371
 #31|@CorrespondenceBot|2353
-#32|@Blunderbuss-bot|2346
+#32|@chmod-bot|2346
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
-#35|@HansNiemannBot|2338
-#36|@chmod-bot|2310
+#35|@Blunderbuss-bot|2339
+#36|@HansNiemannBot|2338
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301
