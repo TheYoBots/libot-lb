@@ -6,8 +6,6 @@ Rank|Bot|Rating
 #4|@OSaurus|2030
 #5|@kowalabi|1890
 #6|@QiOui|1880
-#7|@rachl1|1792
-#8|@nickl1bot|1766
-#9|@clementyne1|1734
-#10|@spyros1bot|1580
-#11|@Lancelbot|1491
+#7|@nickl1bot|1766
+#8|@spyros1bot|1580
+#9|@Lancelbot|1491

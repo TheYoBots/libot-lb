@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@bot1e|2580
 #15|@pawnocchio_bot|2580
 #16|@bot913|2578
-#17|@rascal1|2578
-#18|@SF_Bot1nok|2578
+#17|@SF_Bot1nok|2578
+#18|@rascal1|2573
 #19|@CPU2010|2568
 #20|@Chefisin|2566
 #21|@Yebot|2559
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@YoBot_v2|2536
 #27|@DarkOnBot|2533
 #28|@MEGA-NOOB-BOT|2530
-#29|@is_BOSS|2525
+#29|@is_BOSS|2526
 #30|@RaspFish|2525
 #31|@friendlybot_1700|2520
 #32|@LeelaChessTest|2519
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@RedHotBot|2472
 #54|@ChampionKitten|2471
 #55|@eNErGyOFbEiNGbOT|2470
-#56|@Void_Bot|2470
+#56|@Void_Bot|2469
 #57|@Nimfish|2467
 #58|@IndiBot|2462
 #59|@JAXMAN_N|2461
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@ilovecatgirl|2438
 #78|@NewChessEngine-ai|2438
 #79|@TestingBot1|2437
-#80|@abcd_engine|2424
+#80|@abcd_engine|2426
 #81|@Matrioshka_brain|2422
 #82|@Sooraj_Kumar_P_S|2422
 #83|@colinbot|2420
@@ -220,9 +220,9 @@ Rank|Bot|Rating
 #218|@Botgravity|2128
 #219|@F1R3BOT|2128
 #220|@Lc0Test|2128
-#221|@TheUnforgivingBot|2128
-#222|@BetterAnalyze|2125
-#223|@Caissa-NNUE|2124
+#221|@BetterAnalyze|2125
+#222|@Caissa-NNUE|2124
+#223|@TheUnforgivingBot|2124
 #224|@gam3play3r-BOT|2122
 #225|@Major-Maxy|2118
 #226|@JeffIO|2113
@@ -573,7 +573,7 @@ Rank|Bot|Rating
 #571|@shaheris|1200
 #572|@MrKING74_btw|1191
 #573|@schnecken_bot|1182
-#574|@Demolito_L3|1172
+#574|@Demolito_L3|1179
 #575|@BerntBOT|1162
 #576|@naughty-dottie|1158
 #577|@Rodent-IV|1158

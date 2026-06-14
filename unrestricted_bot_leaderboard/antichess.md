@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@LegoTechnicControlPl|2662
 #40|@SCP079|2662
 #41|@DarkOnBot|2652
-#42|@rascal1|2648
+#42|@rascal1|2643
 #43|@MalanChess|2638
 #44|@vrnts_colinbot|2637
 #45|@HIWIN1234|2623
@@ -184,7 +184,7 @@ Rank|Bot|Rating
 #182|@TestingBot1|1914
 #183|@Crepusculum|1881
 #184|@NoTallkOnlyGames|1871
-#185|@CatNail|1861
+#185|@CatNail|1864
 #186|@Lumac0|1861
 #187|@Pineapple-Friendly|1858
 #188|@SriLankaChess|1848
@@ -335,7 +335,7 @@ Rank|Bot|Rating
 #333|@potato638|886
 #334|@Pix-Chess|868
 #335|@reaper1bot|856
-#336|@puisne|827
+#336|@puisne|824
 #337|@KuhusBOT|822
 #338|@BotSSS|800
 #339|@Ujwal1001|800

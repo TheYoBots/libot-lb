@@ -11,7 +11,6 @@ Rank|Bot|Rating
 #9|@QiOui|2146
 #10|@rachl1|2081
 #11|@nickl1bot|1943
-#12|@clementyne1|1942
-#13|@Lancelbot|1689
-#14|@spyros1bot|1688
-#15|@puisne|1359
+#12|@Lancelbot|1689
+#13|@spyros1bot|1688
+#14|@puisne|1357

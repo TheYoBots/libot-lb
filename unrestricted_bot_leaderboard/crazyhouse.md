@@ -209,8 +209,8 @@ Rank|Bot|Rating
 #207|@cool_boy_bot|1398
 #208|@Classic_BOT-v2|1392
 #209|@are_bots_good|1367
-#210|@puisne|1359
-#211|@GothamChessBot|1358
+#210|@GothamChessBot|1358
+#211|@puisne|1357
 #212|@XiDM|1351
 #213|@Hrant_Petrosyan_BOT|1346
 #214|@NormalBulletBot|1341

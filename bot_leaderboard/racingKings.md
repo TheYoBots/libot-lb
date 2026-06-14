@@ -2,11 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@rascal1|2319
 #2|@beastie1|2061
-#3|@calico1|1955
-#4|@OSaurus|1881
-#5|@OpeningsBot|1809
-#6|@kowalabi|1801
-#7|@QiOui|1778
-#8|@rachl1|1717
-#9|@StockfishLowDepth|1640
-#10|@nickl1bot|1571
+#3|@OSaurus|1881
+#4|@OpeningsBot|1809
+#5|@rachl1|1717
+#6|@StockfishLowDepth|1640
+#7|@nickl1bot|1571
