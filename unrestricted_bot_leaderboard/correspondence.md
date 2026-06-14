@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@LeelaZero-UK|2585
 #10|@CheckmateX1|2556
 #11|@Alexnajax_Fan|2549
-#12|@pawn_git|2539
+#12|@pawn_git|2545
 #13|@peonasesino71|2512
 #14|@ServerFish|2494
 #15|@colinbot|2492
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
 #35|@HansNiemannBot|2338
-#36|@Blunderbuss-bot|2335
+#36|@Blunderbuss-bot|2331
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301

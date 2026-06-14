@@ -3,7 +3,6 @@ Rank|Bot|Rating
 #1|@rascal1|2319
 #2|@beastie1|2061
 #3|@OSaurus|1881
-#4|@OpeningsBot|1809
-#5|@rachl1|1717
-#6|@StockfishLowDepth|1640
-#7|@nickl1bot|1571
+#4|@rachl1|1717
+#5|@StockfishLowDepth|1640
+#6|@nickl1bot|1571
