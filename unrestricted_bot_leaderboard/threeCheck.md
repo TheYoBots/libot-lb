@@ -37,10 +37,10 @@ Rank|Bot|Rating
 #35|@Zer0_Tw0|2332
 #36|@Bot1nokk|2326
 #37|@colinbot|2309
-#38|@rascal1|2309
-#39|@LudwigBOT|2304
-#40|@lord-bot|2300
-#41|@Worst-ai|2296
+#38|@LudwigBOT|2304
+#39|@lord-bot|2300
+#40|@Worst-ai|2296
+#41|@rascal1|2290
 #42|@KingfishX|2285
 #43|@The-Fastest-Bot|2277
 #44|@CocopikachuBOT|2274

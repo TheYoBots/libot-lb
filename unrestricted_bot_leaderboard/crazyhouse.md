@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@ResoluteBot|2668
 #18|@icbmsaregoated2|2664
 #19|@PumpkinLatteBob|2658
-#20|@SF_Bot1nok|2649
+#20|@SF_Bot1nok|2652
 #21|@ibep|2633
 #22|@SkyBlaster|2614
 #23|@colinbot|2612
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@DarkOnBot|2609
 #26|@RaspFish|2605
 #27|@Iwantedtoplaychess|2600
-#28|@Bot1nokk|2596
+#28|@Bot1nokk|2592
 #29|@rascal1|2580
 #30|@bot1e|2579
 #31|@EmptikVariantsBot|2548
