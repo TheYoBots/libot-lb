@@ -7,6 +7,5 @@ Rank|Bot|Rating
 #5|@kowalabi|2003
 #6|@QiOui|1985
 #7|@rachl1|1894
-#8|@nickl1bot|1818
-#9|@spyros1bot|1669
-#10|@Lancelbot|1618
+#8|@spyros1bot|1669
+#9|@Lancelbot|1618

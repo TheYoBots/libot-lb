@@ -52,8 +52,8 @@ Rank|Bot|Rating
 #50|@DarkOnBot|2351
 #51|@Viet_BOT|2344
 #52|@virus_exe-bot|2342
-#53|@SF_Bot1nok|2339
-#54|@BotsFanClub|2338
+#53|@BotsFanClub|2338
+#54|@SF_Bot1nok|2338
 #55|@EvenMatchup|2336
 #56|@RaspFish|2336
 #57|@ibep|2333

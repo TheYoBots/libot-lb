@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
 #35|@HansNiemannBot|2338
-#36|@Blunderbuss-bot|2331
+#36|@Blunderbuss-bot|2337
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301
@@ -120,10 +120,10 @@ Rank|Bot|Rating
 #118|@Trollfish-Bot|2069
 #119|@StockfishPower|2065
 #120|@Hyper-Stockfish|2064
-#121|@CCI-2|2063
-#122|@BotifiedMoyao|2058
-#123|@Dong_Xiao_Yuan|2054
-#124|@DragonBallZFan|2052
+#121|@BotifiedMoyao|2058
+#122|@Dong_Xiao_Yuan|2054
+#123|@DragonBallZFan|2052
+#124|@CCI-2|2050
 #125|@centaur01|2050
 #126|@CrazyDog5892912|2050
 #127|@misteick_bot|2049
