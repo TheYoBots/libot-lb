@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@Fairy_Belzedar|2683
 #16|@tbhOnBot|2675
 #17|@ResoluteBot|2668
-#18|@icbmsaregoated2|2664
-#19|@PumpkinLatteBob|2658
-#20|@SF_Bot1nok|2652
+#18|@SF_Bot1nok|2667
+#19|@icbmsaregoated2|2664
+#20|@PumpkinLatteBob|2658
 #21|@ibep|2633
 #22|@SkyBlaster|2614
 #23|@colinbot|2612
@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@RaspFish|2605
 #27|@Iwantedtoplaychess|2600
 #28|@Bot1nokk|2592
-#29|@bot1e|2579
-#30|@rascal1|2577
+#29|@rascal1|2577
+#30|@bot1e|2571
 #31|@EmptikVariantsBot|2548
 #32|@BotSuxX|2538
 #33|@LudwigBOT|2527
@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@Peaceful4Life|2160
 #78|@SCP079|2156
 #79|@BSTAF|2154
-#80|@QiOui|2146
-#81|@StockfishLowDepth|2143
+#80|@StockfishLowDepth|2150
+#81|@QiOui|2146
 #82|@TheMatrix2025|2142
 #83|@CloudBot_v2|2131
 #84|@HIWIN1234|2123

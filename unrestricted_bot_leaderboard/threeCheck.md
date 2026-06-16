@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@HiddeNL|1385
 #185|@apraz|1383
 #186|@DavidsGuterBot|1367
-#187|@StockfishLowDepth|1329
+#187|@StockfishLowDepth|1343
 #188|@TTC-BOT_2|1322
 #189|@cool_boy_bot|1321
 #190|@Harry_Potterz|1316
