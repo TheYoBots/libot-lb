@@ -38,10 +38,10 @@ Rank|Bot|Rating
 #36|@fairy-vvrr|2683
 #37|@LoseisnotAvailablehe|2677
 #38|@AntichessAnalyzer|2673
-#39|@LegoTechnicControlPl|2662
-#40|@SCP079|2662
-#41|@DarkOnBot|2652
-#42|@rascal1|2648
+#39|@rascal1|2664
+#40|@LegoTechnicControlPl|2662
+#41|@SCP079|2662
+#42|@DarkOnBot|2652
 #43|@MalanChess|2638
 #44|@vrnts_colinbot|2637
 #45|@HIWIN1234|2623
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@OpeningsBot|2103
 #165|@PyChessBot|2102
 #166|@TurkiyeHogwartsBOT|2099
-#167|@anti-bot|2086
+#167|@anti-bot|2087
 #168|@ZamuChess|2049
 #169|@nickl1bot|2024
 #170|@Botzer|2020
@@ -304,8 +304,8 @@ Rank|Bot|Rating
 #302|@ZokBot|1336
 #303|@Galaxy_Guardian|1324
 #304|@Sanjana_Kambala-BOT|1320
-#305|@StockfishLowDepth|1320
-#306|@TheSystem_Bot|1319
+#305|@TheSystem_Bot|1319
+#306|@StockfishLowDepth|1314
 #307|@admin-bot|1311
 #308|@Happy_One|1309
 #309|@Official_bot|1301

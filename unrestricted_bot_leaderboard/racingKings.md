@@ -54,13 +54,13 @@ Rank|Bot|Rating
 #52|@Viet_BOT|2344
 #53|@virus_exe-bot|2342
 #54|@BotsFanClub|2338
-#55|@EvenMatchup|2336
-#56|@RaspFish|2336
+#55|@RaspFish|2338
+#56|@EvenMatchup|2336
 #57|@ibep|2333
 #58|@CloudBot_v2|2331
 #59|@colinbot|2322
-#60|@rascal1|2319
-#61|@Worst-ai|2319
+#60|@Worst-ai|2319
+#61|@rascal1|2317
 #62|@Bot_AOOP11|2314
 #63|@KingfishX|2312
 #64|@Viet-BOT|2312

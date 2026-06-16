@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@RaspFish|2605
 #27|@Iwantedtoplaychess|2600
 #28|@Bot1nokk|2592
-#29|@rascal1|2580
-#30|@bot1e|2579
+#29|@bot1e|2579
+#30|@rascal1|2577
 #31|@EmptikVariantsBot|2548
 #32|@BotSuxX|2538
 #33|@LudwigBOT|2527
