@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@ttBOT|2584
 #15|@compchess2|2579
 #16|@Lili-ai|2572
-#17|@rascal1|2418
+#17|@rascal1|2427
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
 #20|@BOT_Stockfish13|2383

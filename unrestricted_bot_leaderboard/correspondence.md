@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
 #35|@HansNiemannBot|2338
-#36|@Blunderbuss-bot|2333
+#36|@Blunderbuss-bot|2332
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301

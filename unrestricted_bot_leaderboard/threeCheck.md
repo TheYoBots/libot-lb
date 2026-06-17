@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@Worst-ai|2296
-#41|@rascal1|2287
+#41|@rascal1|2291
 #42|@KingfishX|2285
 #43|@The-Fastest-Bot|2277
 #44|@CocopikachuBOT|2274
@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@HiddeNL|1385
 #185|@apraz|1383
 #186|@DavidsGuterBot|1367
-#187|@StockfishLowDepth|1343
+#187|@StockfishLowDepth|1355
 #188|@TTC-BOT_2|1322
 #189|@cool_boy_bot|1321
 #190|@Harry_Potterz|1316

@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@Magicianrobot|2688
 #36|@fairy-vvrr|2683
 #37|@LoseisnotAvailablehe|2677
-#38|@AntichessAnalyzer|2673
-#39|@rascal1|2664
+#38|@rascal1|2674
+#39|@AntichessAnalyzer|2673
 #40|@LegoTechnicControlPl|2662
 #41|@SCP079|2662
 #42|@DarkOnBot|2652
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Lucror|2178
 #155|@GegeneBOT|2177
 #156|@DeepFriedFish|2165
-#157|@NilatacBot|2162
+#157|@NilatacBot|2161
 #158|@lightspeed_bot|2152
 #159|@AntiChessBot|2142
 #160|@rachl1|2139

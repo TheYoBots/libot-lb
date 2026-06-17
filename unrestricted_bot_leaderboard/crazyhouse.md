@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@DarkOnBot|2609
 #26|@RaspFish|2605
 #27|@Iwantedtoplaychess|2600
-#28|@Bot1nokk|2592
+#28|@Bot1nokk|2586
 #29|@rascal1|2577
 #30|@bot1e|2571
 #31|@EmptikVariantsBot|2548
@@ -207,10 +207,10 @@ Rank|Bot|Rating
 #205|@Wayang|1411
 #206|@hashcake1|1400
 #207|@cool_boy_bot|1398
-#208|@Classic_BOT-v2|1392
-#209|@are_bots_good|1367
-#210|@GothamChessBot|1358
-#211|@puisne|1352
+#208|@puisne|1398
+#209|@Classic_BOT-v2|1392
+#210|@are_bots_good|1367
+#211|@GothamChessBot|1358
 #212|@XiDM|1351
 #213|@Hrant_Petrosyan_BOT|1346
 #214|@NormalBulletBot|1341
