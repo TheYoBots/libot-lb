@@ -3,12 +3,12 @@ Rank|Bot|Rating
 #1|@EmptikBot|3070
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
-#4|@abdcebot|2985
+#4|@abdcebot|2984
 #5|@UltimateVariants|2978
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2927
-#8|@SF_Bot1nok|2897
-#9|@bot1e|2880
+#8|@SF_Bot1nok|2898
+#9|@bot1e|2882
 #10|@Coolman2021|2879
 #11|@TheMatrix2029|2866
 #12|@MEGA-NOOB-BOT|2859
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Lucror|2178
 #155|@GegeneBOT|2177
 #156|@DeepFriedFish|2165
-#157|@NilatacBot|2161
+#157|@NilatacBot|2158
 #158|@lightspeed_bot|2152
 #159|@AntiChessBot|2142
 #160|@rachl1|2139
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@OpeningsBot|2103
 #165|@PyChessBot|2102
 #166|@TurkiyeHogwartsBOT|2099
-#167|@anti-bot|2087
+#167|@anti-bot|2092
 #168|@ZamuChess|2049
 #169|@nickl1bot|2024
 #170|@Botzer|2020
@@ -184,7 +184,7 @@ Rank|Bot|Rating
 #182|@TestingBot1|1914
 #183|@Crepusculum|1881
 #184|@NoTallkOnlyGames|1871
-#185|@CatNail|1867
+#185|@CatNail|1865
 #186|@Lumac0|1861
 #187|@Pineapple-Friendly|1858
 #188|@SriLankaChess|1848
@@ -336,7 +336,7 @@ Rank|Bot|Rating
 #334|@Pix-Chess|868
 #335|@reaper1bot|856
 #336|@KuhusBOT|822
-#337|@puisne|803
+#337|@puisne|802
 #338|@BotSSS|800
 #339|@Ujwal1001|800
 #340|@genesis1bot|779

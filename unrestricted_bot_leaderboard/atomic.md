@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@Johnsun|2257
 #73|@YoBot_v2|2243
 #74|@MalanChess|2238
-#75|@rascal1|2228
+#75|@rascal1|2229
 #76|@STockfishdestroyBot|2227
 #77|@ToromBot|2226
 #78|@Kizburb|2220

@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
 #35|@HansNiemannBot|2338
-#36|@Blunderbuss-bot|2332
+#36|@Blunderbuss-bot|2334
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301
@@ -130,11 +130,11 @@ Rank|Bot|Rating
 #128|@TeamChelsie|2043
 #129|@abhisun_bot|2039
 #130|@Beyondcomprehension|2039
-#131|@CCI-2|2039
-#132|@faith_bot|2037
-#133|@CocopikachuBOT|2036
-#134|@HyperPhoenix21|2035
-#135|@EmptikCorrespondence|2031
+#131|@faith_bot|2037
+#132|@CocopikachuBOT|2036
+#133|@HyperPhoenix21|2035
+#134|@EmptikCorrespondence|2031
+#135|@CCI-2|2030
 #136|@StrongMagnusCarlsen|2027
 #137|@duythong1402|2025
 #138|@kybot|2025
