@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@ToromBot|2352
 #50|@DarkOnBot|2351
 #51|@RaspFish|2347
-#52|@SF_Bot1nok|2345
+#52|@SF_Bot1nok|2344
 #53|@Viet_BOT|2344
 #54|@virus_exe-bot|2342
 #55|@BotsFanClub|2338
@@ -61,9 +61,9 @@ Rank|Bot|Rating
 #59|@colinbot|2322
 #60|@Worst-ai|2319
 #61|@Bot_AOOP11|2314
-#62|@KingfishX|2312
-#63|@Viet-BOT|2312
-#64|@rascal1|2311
+#62|@rascal1|2313
+#63|@KingfishX|2312
+#64|@Viet-BOT|2312
 #65|@IAMSTOCKFISH123|2307
 #66|@TestingBot1|2294
 #67|@NormalBulletBot|2291
@@ -151,9 +151,9 @@ Rank|Bot|Rating
 #149|@PowerOnBot|1701
 #150|@Chess_omar_2009|1698
 #151|@JEDDYCOCO12345|1692
-#152|@Harry_Potterz|1674
-#153|@XXXTryandTryXXX|1674
-#154|@StockfishLowDepth|1670
+#152|@StockfishLowDepth|1679
+#153|@Harry_Potterz|1674
+#154|@XXXTryandTryXXX|1674
 #155|@Breeze-Hot|1659
 #156|@Challenger_crazy|1652
 #157|@ROBOT_RANDEER2007|1651

@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@CatBot_14|2514
 #19|@EmptikBot|2510
 #20|@chessbot2880|2509
-#21|@is_BOSS|2501
+#21|@is_BOSS|2505
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
 #24|@firstrobot|2485
@@ -54,11 +54,11 @@ Rank|Bot|Rating
 #52|@NotNateBot|2336
 #53|@The-Fastest-Bot|2314
 #54|@Alehkine_cat|2312
-#55|@Bot1nokk|2308
-#56|@Team_bot_08512|2307
-#57|@Dean_Summer_Bot|2305
-#58|@icbmsaregoated2|2305
-#59|@DarkOnBot|2304
+#55|@Team_bot_08512|2307
+#56|@Dean_Summer_Bot|2305
+#57|@icbmsaregoated2|2305
+#58|@DarkOnBot|2304
+#59|@Bot1nokk|2301
 #60|@PumpkinLatteBob|2301
 #61|@PsychedelicAtomic|2296
 #62|@AndromedaSX1|2284
@@ -76,8 +76,8 @@ Rank|Bot|Rating
 #74|@MalanChess|2238
 #75|@STockfishdestroyBot|2227
 #76|@ToromBot|2226
-#77|@Kizburb|2220
-#78|@rascal1|2220
+#77|@rascal1|2224
+#78|@Kizburb|2220
 #79|@MagnusCarlsenTheBOT|2215
 #80|@GravityStorm|2214
 #81|@storng766555|2214
