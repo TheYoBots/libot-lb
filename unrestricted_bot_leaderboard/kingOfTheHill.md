@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@tbhOnBot|2379
 #13|@Coolman2021|2378
 #14|@chessbot2880|2377
-#15|@DarkOnBot|2364
-#16|@rascal1|2362
+#15|@rascal1|2372
+#16|@DarkOnBot|2364
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
 #19|@TheMatrix2025|2346

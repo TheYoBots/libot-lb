@@ -60,10 +60,10 @@ Rank|Bot|Rating
 #58|@CloudBot_v2|2331
 #59|@colinbot|2322
 #60|@Worst-ai|2319
-#61|@rascal1|2317
-#62|@Bot_AOOP11|2314
-#63|@KingfishX|2312
-#64|@Viet-BOT|2312
+#61|@Bot_AOOP11|2314
+#62|@KingfishX|2312
+#63|@Viet-BOT|2312
+#64|@rascal1|2311
 #65|@IAMSTOCKFISH123|2307
 #66|@TestingBot1|2294
 #67|@NormalBulletBot|2291

@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2515
+#1|@is_BOSS|2501
 #2|@SF_Bot1nok|2339
-#3|@rascal1|2229
-#4|@ToromBot|2226
+#3|@ToromBot|2226
+#4|@rascal1|2220
 #5|@RaspFish|2159
 #6|@beastie1|2120
 #7|@calico1|2024
