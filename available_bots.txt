@@ -897,6 +897,7 @@ daftnot
 dakingsofficialbot
 dala-1100
 dala-1300
+dala-700
 dala-900
 dan_thebot
 danerdbot
@@ -3592,4 +3593,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-dala-700
