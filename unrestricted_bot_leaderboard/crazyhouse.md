@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@PepsiForAll|2702
 #14|@GilgameshTheBot|2697
 #15|@Fairy_Belzedar|2683
-#16|@tbhOnBot|2675
-#17|@SF_Bot1nok|2670
+#16|@SF_Bot1nok|2679
+#17|@tbhOnBot|2675
 #18|@ResoluteBot|2668
 #19|@icbmsaregoated2|2664
 #20|@PumpkinLatteBob|2658
@@ -25,11 +25,11 @@ Rank|Bot|Rating
 #23|@colinbot|2612
 #24|@Xerus_1|2611
 #25|@DarkOnBot|2609
-#26|@RaspFish|2605
-#27|@Iwantedtoplaychess|2600
-#28|@Bot1nokk|2596
-#29|@bot1e|2566
-#30|@rascal1|2565
+#26|@Bot1nokk|2605
+#27|@RaspFish|2605
+#28|@Iwantedtoplaychess|2600
+#29|@rascal1|2565
+#30|@bot1e|2556
 #31|@EmptikVariantsBot|2548
 #32|@BotSuxX|2538
 #33|@LudwigBOT|2527
