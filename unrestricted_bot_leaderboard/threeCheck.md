@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@DarkOnBot|2251
 #51|@SF_Bot1nok|2248
 #52|@OlympusCz|2231
-#53|@beastie1|2224
+#53|@beastie1|2228
 #54|@Vinh_VariantsBot|2215
 #55|@Kizburb|2214
 #56|@xiang-qi|2207

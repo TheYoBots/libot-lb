@@ -46,8 +46,8 @@ Rank|Bot|Rating
 #44|@PowerOnBot|2195
 #45|@UnDisstoppableBot|2193
 #46|@Amrobotone|2184
-#47|@beastie1|2175
-#48|@eNErGyOFbEiNGbOT|2166
+#47|@eNErGyOFbEiNGbOT|2166
+#48|@beastie1|2163
 #49|@HuxZero|2163
 #50|@colinbot|2148
 #51|@Mega_BOT|2148

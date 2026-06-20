@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@Trumpfor2O2O|2103
 #103|@PetersTestBot|2081
 #104|@CloudBOT|2073
-#105|@beastie1|2061
+#105|@beastie1|2065
 #106|@JustDontFlagMe|2048
 #107|@Stockfish-MEDIUM|2043
 #108|@Crepusculum|2036

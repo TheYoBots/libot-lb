@@ -25,8 +25,8 @@ Rank|Bot|Rating
 #23|@colinbot|2612
 #24|@Xerus_1|2611
 #25|@DarkOnBot|2609
-#26|@Bot1nokk|2605
-#27|@RaspFish|2605
+#26|@RaspFish|2605
+#27|@Bot1nokk|2600
 #28|@Iwantedtoplaychess|2600
 #29|@rascal1|2565
 #30|@bot1e|2556
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@GoblinAjedrezAI|2383
 #45|@TacticalBot|2373
 #46|@EagleEye2021|2365
-#47|@beastie1|2361
+#47|@beastie1|2364
 #48|@KingfishX|2347
 #49|@Worst-ai|2346
 #50|@chesshyperbot|2344
