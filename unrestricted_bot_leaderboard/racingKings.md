@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@PowerOnBot|1701
 #150|@Chess_omar_2009|1698
 #151|@JEDDYCOCO12345|1692
-#152|@StockfishLowDepth|1679
+#152|@StockfishLowDepth|1680
 #153|@Harry_Potterz|1674
 #154|@XXXTryandTryXXX|1674
 #155|@Breeze-Hot|1659

@@ -9,5 +9,5 @@ Rank|Bot|Rating
 #7|@NilatacBot|2153
 #8|@anti-bot|2092
 #9|@clementyne1|1999
-#10|@CatNail|1867
+#10|@CatNail|1908
 #11|@StockfishLowDepth|1314

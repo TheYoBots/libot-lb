@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Blunderbuss-bot|2334
+#1|@Blunderbuss-bot|2331

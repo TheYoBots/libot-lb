@@ -182,9 +182,9 @@ Rank|Bot|Rating
 #180|@Menganti|1963
 #181|@CloudBOT|1950
 #182|@TestingBot1|1914
-#183|@Crepusculum|1881
-#184|@NoTallkOnlyGames|1871
-#185|@CatNail|1867
+#183|@CatNail|1908
+#184|@Crepusculum|1881
+#185|@NoTallkOnlyGames|1871
 #186|@Lumac0|1861
 #187|@Pineapple-Friendly|1858
 #188|@SriLankaChess|1848
@@ -320,9 +320,9 @@ Rank|Bot|Rating
 #318|@DespacitoBot|1175
 #319|@BogoBot|1155
 #320|@thousandatom|1146
-#321|@puisne|1125
-#322|@Green_Tea_Ice_Cream|1107
-#323|@Md211bot|1107
+#321|@Green_Tea_Ice_Cream|1107
+#322|@Md211bot|1107
+#323|@puisne|1090
 #324|@The_dragon_bot|1076
 #325|@Boom_Bot|1044
 #326|@Mega_BOT|1032

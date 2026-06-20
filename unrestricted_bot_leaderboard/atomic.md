@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@PumpkinLatteBob|2301
 #60|@PsychedelicAtomic|2296
 #61|@Bot1nokk|2295
-#62|@AndromedaSX1|2284
-#63|@MEGA-NOOB-BOT|2283
+#62|@MEGA-NOOB-BOT|2286
+#63|@AndromedaSX1|2284
 #64|@vrnts_colinbot|2282
 #65|@TheMatrix2029|2278
 #66|@BGSBot|2272
