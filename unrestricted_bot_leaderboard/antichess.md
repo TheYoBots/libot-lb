@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@OpeningsBot|2103
 #165|@PyChessBot|2102
 #166|@TurkiyeHogwartsBOT|2099
-#167|@anti-bot|2092
+#167|@anti-bot|2096
 #168|@ZamuChess|2049
 #169|@nickl1bot|2024
 #170|@Botzer|2020
@@ -181,8 +181,8 @@ Rank|Bot|Rating
 #179|@antichesssss|1964
 #180|@Menganti|1963
 #181|@CloudBOT|1950
-#182|@TestingBot1|1914
-#183|@CatNail|1908
+#182|@CatNail|1947
+#183|@TestingBot1|1914
 #184|@Crepusculum|1881
 #185|@NoTallkOnlyGames|1871
 #186|@Lumac0|1861
@@ -278,10 +278,10 @@ Rank|Bot|Rating
 #276|@MartianBot|1435
 #277|@anonymous5612|1431
 #278|@CatBot329|1430
-#279|@SacrificeBot|1426
-#280|@Blackrood|1423
-#281|@kazakhfirstbot|1422
-#282|@spyros1bot|1421
+#279|@spyros1bot|1429
+#280|@SacrificeBot|1426
+#281|@Blackrood|1423
+#282|@kazakhfirstbot|1422
 #283|@SuperJeroBot|1416
 #284|@relevantproblem|1413
 #285|@are_bots_good|1412
@@ -305,8 +305,8 @@ Rank|Bot|Rating
 #303|@Galaxy_Guardian|1324
 #304|@Sanjana_Kambala-BOT|1320
 #305|@TheSystem_Bot|1319
-#306|@StockfishLowDepth|1314
-#307|@admin-bot|1311
+#306|@admin-bot|1311
+#307|@StockfishLowDepth|1311
 #308|@Happy_One|1309
 #309|@Official_bot|1301
 #310|@GuineaBot3|1297

@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@ChamberiAjedrez|2641
 #8|@pawnocchio_bot|2623
 #9|@LeelaZero-UK|2585
-#10|@CheckmateX1|2556
-#11|@pawn_git|2556
+#10|@pawn_git|2561
+#11|@CheckmateX1|2556
 #12|@Alexnajax_Fan|2549
 #13|@peonasesino71|2512
 #14|@ServerFish|2494
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
 #35|@HansNiemannBot|2338
-#36|@Blunderbuss-bot|2331
+#36|@Blunderbuss-bot|2330
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301
@@ -134,10 +134,10 @@ Rank|Bot|Rating
 #132|@CocopikachuBOT|2036
 #133|@HyperPhoenix21|2035
 #134|@EmptikCorrespondence|2031
-#135|@CCI-2|2030
-#136|@StrongMagnusCarlsen|2027
-#137|@duythong1402|2025
-#138|@kybot|2025
+#135|@StrongMagnusCarlsen|2027
+#136|@duythong1402|2025
+#137|@kybot|2025
+#138|@CCI-2|2020
 #139|@MalanChess|2020
 #140|@RoyalLeela|2014
 #141|@SchachProg|2010
@@ -236,9 +236,9 @@ Rank|Bot|Rating
 #234|@Satyakeswara_BOT|1712
 #235|@HumanBOT_lv1929|1711
 #236|@ELO_1500|1706
-#237|@knight_128|1705
-#238|@HotLeela|1702
-#239|@grindle_x_bot1|1699
+#237|@grindle_x_bot1|1705
+#238|@knight_128|1705
+#239|@HotLeela|1702
 #240|@ACC_Bot|1696
 #241|@TortoiAlpha|1696
 #242|@thousandatom|1692
