@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@ElPeonElectrico|2351
 #18|@TheMatrix2025|2346
 #19|@AndromedaSX1|2344
-#20|@rascal1|2341
+#20|@rascal1|2343
 #21|@RaspFish|2334
 #22|@Sooraj_Kumar_P_S|2319
 #23|@FayEFish|2317

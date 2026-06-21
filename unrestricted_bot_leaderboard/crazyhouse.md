@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@chessbot2880|2718
 #13|@PepsiForAll|2702
 #14|@GilgameshTheBot|2697
-#15|@Fairy_Belzedar|2683
-#16|@SF_Bot1nok|2679
+#15|@SF_Bot1nok|2690
+#16|@Fairy_Belzedar|2683
 #17|@tbhOnBot|2675
 #18|@ResoluteBot|2668
 #19|@icbmsaregoated2|2664
@@ -26,10 +26,10 @@ Rank|Bot|Rating
 #24|@Xerus_1|2611
 #25|@DarkOnBot|2609
 #26|@RaspFish|2605
-#27|@Bot1nokk|2600
-#28|@Iwantedtoplaychess|2600
+#27|@Iwantedtoplaychess|2600
+#28|@Bot1nokk|2590
 #29|@rascal1|2561
-#30|@bot1e|2556
+#30|@bot1e|2552
 #31|@EmptikVariantsBot|2548
 #32|@BotSuxX|2538
 #33|@LudwigBOT|2527

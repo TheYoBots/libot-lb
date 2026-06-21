@@ -51,8 +51,8 @@ Rank|Bot|Rating
 #49|@ToromBot|2352
 #50|@DarkOnBot|2351
 #51|@RaspFish|2347
-#52|@SF_Bot1nok|2344
-#53|@Viet_BOT|2344
+#52|@Viet_BOT|2344
+#53|@SF_Bot1nok|2343
 #54|@virus_exe-bot|2342
 #55|@BotsFanClub|2338
 #56|@EvenMatchup|2336
@@ -61,7 +61,7 @@ Rank|Bot|Rating
 #59|@colinbot|2322
 #60|@Worst-ai|2319
 #61|@Bot_AOOP11|2314
-#62|@rascal1|2313
+#62|@rascal1|2314
 #63|@KingfishX|2312
 #64|@Viet-BOT|2312
 #65|@IAMSTOCKFISH123|2307

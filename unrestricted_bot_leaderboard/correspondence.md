@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Grzechu86|2852
 #3|@Moment-That-Inspires|2760
 #4|@Magicianrobot|2740
-#5|@AjedrezChamberi|2696
+#5|@AjedrezChamberi|2651
 #6|@H-Zero|2650
 #7|@ChamberiAjedrez|2641
 #8|@pawnocchio_bot|2623
@@ -233,10 +233,10 @@ Rank|Bot|Rating
 #231|@FluffBallCuddly|1718
 #232|@blundar_bot|1717
 #233|@ImpossibleWin|1716
-#234|@Satyakeswara_BOT|1712
-#235|@HumanBOT_lv1929|1711
-#236|@ELO_1500|1706
-#237|@grindle_x_bot1|1705
+#234|@grindle_x_bot1|1714
+#235|@Satyakeswara_BOT|1712
+#236|@HumanBOT_lv1929|1711
+#237|@ELO_1500|1706
 #238|@knight_128|1705
 #239|@HotLeela|1702
 #240|@ACC_Bot|1696

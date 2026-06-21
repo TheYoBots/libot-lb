@@ -350,7 +350,7 @@ Rank|Bot|Rating
 #348|@XiDM|1241
 #349|@AlwaysPlayMystery|1240
 #350|@Ar4Asd1-BOT|1230
-#351|@reaper1bot|1229
+#351|@reaper1bot|1218
 #352|@GuineaBot3|1215
 #353|@kidobot2911|1202
 #354|@Lozza-Bot|1198
