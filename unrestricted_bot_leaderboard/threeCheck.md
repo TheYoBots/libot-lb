@@ -36,9 +36,9 @@ Rank|Bot|Rating
 #34|@Viet_BOT|2367
 #35|@Zer0_Tw0|2332
 #36|@Bot1nokk|2326
-#37|@colinbot|2309
-#38|@LudwigBOT|2304
-#39|@rascal1|2301
+#37|@rascal1|2323
+#38|@colinbot|2309
+#39|@LudwigBOT|2304
 #40|@lord-bot|2300
 #41|@Worst-ai|2296
 #42|@KingfishX|2285
@@ -177,7 +177,7 @@ Rank|Bot|Rating
 #175|@Kyle_0111|1421
 #176|@azdad|1420
 #177|@Peaceful4Life|1412
-#178|@StockfishLowDepth|1402
+#178|@StockfishLowDepth|1408
 #179|@Blazum|1398
 #180|@Nithin-das|1397
 #181|@reaper1bot|1394

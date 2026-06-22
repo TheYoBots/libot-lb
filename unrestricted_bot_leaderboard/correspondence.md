@@ -166,9 +166,9 @@ Rank|Bot|Rating
 #164|@TrolliumBot|1894
 #165|@honzovy-sachy-2|1892
 #166|@yeoldwiz|1890
-#167|@RadianceEngine|1887
-#168|@ChessChildren|1884
-#169|@XXXTryandTryXXX|1884
+#167|@ChessChildren|1884
+#168|@XXXTryandTryXXX|1884
+#169|@RadianceEngine|1883
 #170|@KingsGamBot|1882
 #171|@lol7241Bot|1878
 #172|@PiratesBot|1876
