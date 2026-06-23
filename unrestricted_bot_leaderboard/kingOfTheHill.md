@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@ElPeonElectrico|2351
 #18|@TheMatrix2025|2346
 #19|@AndromedaSX1|2344
-#20|@rascal1|2335
+#20|@rascal1|2338
 #21|@RaspFish|2334
 #22|@Sooraj_Kumar_P_S|2319
 #23|@FayEFish|2317
@@ -73,10 +73,10 @@ Rank|Bot|Rating
 #71|@NewChessEngine-ai|2046
 #72|@Hyper-Stockfish|2044
 #73|@Kizbuurb|2035
-#74|@OSaurus|2030
-#75|@CloudBot_v2|2027
-#76|@Lili-ai|2027
-#77|@faith_bot|2026
+#74|@CloudBot_v2|2027
+#75|@Lili-ai|2027
+#76|@faith_bot|2026
+#77|@OSaurus|2026
 #78|@VariantsTop|2014
 #79|@virus_exe-bot|2013
 #80|@CocopikachuBOT|2009

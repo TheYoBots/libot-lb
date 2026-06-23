@@ -1,7 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2351
-#2|@SF_Bot1nok|2344
-#3|@rascal1|2315
-#4|@beastie1|2065
-#5|@StockfishLowDepth|1680
+#2|@ToromBot|2351
+#3|@SF_Bot1nok|2344
+#4|@rascal1|2315
+#5|@beastie1|2065
+#6|@OSaurus|1898
+#7|@StockfishLowDepth|1680
