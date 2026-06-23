@@ -246,7 +246,7 @@ Rank|Bot|Rating
 #244|@kazakhfirstbot|1119
 #245|@apollo_bot|1106
 #246|@BogoBot|1099
-#247|@genesis1bot|1080
+#247|@genesis1bot|1061
 #248|@TfXD_Bot|1050
 #249|@jasans_bot|1045
 #250|@Official_bot|1027

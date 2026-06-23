@@ -7,9 +7,11 @@ Rank|Bot|Rating
 #5|@Bot1nokk|2859
 #6|@rascal1|2660
 #7|@beastie1|2471
-#8|@NilatacBot|2147
-#9|@anti-bot|2137
-#10|@CatNail|1901
-#11|@spyros1bot|1476
-#12|@StockfishLowDepth|1311
-#13|@Lancelbot|1304
+#8|@rachl1|2147
+#9|@anti-bot|2142
+#10|@NilatacBot|2122
+#11|@nickl1bot|2016
+#12|@CatNail|1819
+#13|@spyros1bot|1538
+#14|@StockfishLowDepth|1311
+#15|@Lancelbot|1293

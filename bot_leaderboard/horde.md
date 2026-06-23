@@ -8,3 +8,4 @@ Rank|Bot|Rating
 #6|@rascal1|2426
 #7|@beastie1|2280
 #8|@OSaurus|2230
+#9|@genesis1bot|1122

@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@kidobot2911|1202
 #354|@Lozza-Bot|1198
 #355|@ElFinsBoT|1191
-#356|@genesis1bot|1175
+#356|@genesis1bot|1181
 #357|@GuineaBot2|1173
 #358|@clrsrc_lc0|1168
 #359|@Jaymombot|1166

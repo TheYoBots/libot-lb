@@ -200,7 +200,7 @@ Rank|Bot|Rating
 #198|@shakboy9824453231op|1152
 #199|@pawnrobot|1135
 #200|@GuineaBot3|1121
-#201|@genesis1bot|1108
+#201|@genesis1bot|1106
 #202|@DespacitoBot|1094
 #203|@ZokBot|1076
 #204|@Happy_One|1074

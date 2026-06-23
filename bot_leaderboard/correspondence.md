@@ -1,4 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Blunderbuss-bot|2322
-#2|@grindle_x_bot1|1714
+#1|@pawn_git|2563
+#2|@Blunderbuss-bot|2319
+#3|@grindle_x_bot1|1714

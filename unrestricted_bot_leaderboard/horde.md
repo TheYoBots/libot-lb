@@ -194,8 +194,8 @@ Rank|Bot|Rating
 #192|@ChessLLModel|1178
 #193|@BetaOneBot|1166
 #194|@ZX-Chess|1145
-#195|@duythong1402|1120
-#196|@genesis1bot|1119
+#195|@genesis1bot|1122
+#196|@duythong1402|1120
 #197|@fairy-vvrr|1102
 #198|@alvin-chess-bot|1091
 #199|@MontyPythonFlying|1037

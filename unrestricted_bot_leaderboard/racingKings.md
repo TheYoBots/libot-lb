@@ -224,7 +224,7 @@ Rank|Bot|Rating
 #222|@BetaOneBot|1141
 #223|@GuineaBot2|1141
 #224|@BogoBot|1074
-#225|@MateCheckCapture|1011
-#226|@genesis1bot|993
+#225|@genesis1bot|1041
+#226|@MateCheckCapture|1011
 #227|@ZX-Chess|982
 #228|@MinOpponentMoves|648
