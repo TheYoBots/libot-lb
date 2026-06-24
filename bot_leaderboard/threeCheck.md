@@ -4,4 +4,3 @@ Rank|Bot|Rating
 #2|@beastie1|2228
 #3|@OSaurus|2198
 #4|@Lancelbot|1638
-#5|@genesis1bot|1225

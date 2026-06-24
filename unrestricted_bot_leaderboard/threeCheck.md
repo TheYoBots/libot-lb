@@ -201,9 +201,9 @@ Rank|Bot|Rating
 #199|@SneakyBot21|1256
 #200|@TORTADEMANZANA023|1233
 #201|@genesis1bot|1225
-#202|@heatseeker223|1191
-#203|@admin-bot|1188
-#204|@pawnrobot|1185
+#202|@pawnrobot|1213
+#203|@heatseeker223|1191
+#204|@admin-bot|1188
 #205|@Ujwal1001|1179
 #206|@Just-a-random-bot|1171
 #207|@duythong1402|1165

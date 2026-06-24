@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
 #35|@HansNiemannBot|2338
-#36|@Blunderbuss-bot|2319
+#36|@Blunderbuss-bot|2321
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301
@@ -137,9 +137,9 @@ Rank|Bot|Rating
 #135|@StrongMagnusCarlsen|2027
 #136|@duythong1402|2025
 #137|@kybot|2025
-#138|@CCI-2|2020
-#139|@MalanChess|2020
-#140|@RoyalLeela|2014
+#138|@MalanChess|2020
+#139|@RoyalLeela|2014
+#140|@CCI-2|2012
 #141|@SchachProg|2010
 #142|@ElPeonElectrico|2004
 #143|@zeekat|2004

@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@SF_Bot1nok|2699
-#2|@Bot1nokk|2607
-#3|@DarkOnBot|2602
+#1|@SF_Bot1nok|2694
+#2|@Bot1nokk|2603
+#3|@DarkOnBot|2597
 #4|@rascal1|2557
-#5|@bot1e|2530
+#5|@bot1e|2547
 #6|@beastie1|2364
 #7|@OSaurus|2315
 #8|@puisne|1430
