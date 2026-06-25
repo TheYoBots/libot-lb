@@ -7,4 +7,3 @@ Rank|Bot|Rating
 #5|@bot1e|2547
 #6|@beastie1|2364
 #7|@OSaurus|2315
-#8|@puisne|1430

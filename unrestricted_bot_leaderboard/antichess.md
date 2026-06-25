@@ -189,7 +189,7 @@ Rank|Bot|Rating
 #187|@Pineapple-Friendly|1858
 #188|@SriLankaChess|1848
 #189|@MyNameIsWhatLOL|1826
-#190|@pawnrobot|1808
+#190|@pawnrobot|1810
 #191|@Bot2000|1807
 #192|@WildorderBot|1796
 #193|@Emil_V2|1789
