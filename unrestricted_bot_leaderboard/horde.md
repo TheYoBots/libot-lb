@@ -9,12 +9,12 @@ Rank|Bot|Rating
 #7|@RaspFish|2739
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
-#10|@abdcebot|2666
-#11|@Bot1nokk|2589
+#10|@abdcebot|2671
+#11|@Bot1nokk|2586
 #12|@ttBOT|2584
-#13|@SF_Bot1nok|2582
-#14|@compchess2|2579
-#15|@bot1e|2573
+#13|@compchess2|2579
+#14|@SF_Bot1nok|2578
+#15|@bot1e|2572
 #16|@Lili-ai|2572
 #17|@rascal1|2426
 #18|@HIWIN1234|2412
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@lord-bot|2362
 #24|@Hyper-Stockfish|2358
 #25|@Bullet_bot_0526|2344
-#26|@DarkOnBot|2326
+#26|@DarkOnBot|2338
 #27|@eNErGyOFbEiNGbOT|2326
 #28|@Alexnajax_Fan|2316
 #29|@AlfaBot|2293
@@ -177,7 +177,7 @@ Rank|Bot|Rating
 #175|@Nicholaswb_BOT|1288
 #176|@AEBROADUSBOTTER|1279
 #177|@ReallyCrazyBOT|1279
-#178|@pawnrobot|1268
+#178|@pawnrobot|1263
 #179|@AbhijithHISBot|1258
 #180|@Humuhumunukunukuapu|1258
 #181|@Jannik08_fan|1258

@@ -6,5 +6,5 @@ Rank|Bot|Rating
 #4|@rascal1|2315
 #5|@beastie1|2065
 #6|@OSaurus|1898
-#7|@StockfishLowDepth|1680
+#7|@StockfishLowDepth|1679
 #8|@genesis1bot|1041
