@@ -197,8 +197,8 @@ Rank|Bot|Rating
 #195|@bot-win-loh-nick|1191
 #196|@Boom_Bot|1176
 #197|@TrashBot|1168
-#198|@shakboy9824453231op|1152
-#199|@pawnrobot|1135
+#198|@pawnrobot|1159
+#199|@shakboy9824453231op|1152
 #200|@GuineaBot3|1121
 #201|@genesis1bot|1106
 #202|@DespacitoBot|1094

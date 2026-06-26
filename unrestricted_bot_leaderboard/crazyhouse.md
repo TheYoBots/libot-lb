@@ -27,9 +27,9 @@ Rank|Bot|Rating
 #25|@DarkOnBot|2602
 #26|@Iwantedtoplaychess|2600
 #27|@RaspFish|2600
-#28|@Bot1nokk|2597
-#29|@bot1e|2559
-#30|@rascal1|2557
+#28|@Bot1nokk|2594
+#29|@rascal1|2557
+#30|@bot1e|2556
 #31|@EmptikVariantsBot|2548
 #32|@BotSuxX|2538
 #33|@LudwigBOT|2527
