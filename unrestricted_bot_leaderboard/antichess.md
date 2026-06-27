@@ -215,7 +215,7 @@ Rank|Bot|Rating
 #213|@Rapid_WorldChamp|1673
 #214|@SLvov-bot|1673
 #215|@Rishab_Bindal|1666
-#216|@pawnrobot|1665
+#216|@pawnrobot|1640
 #217|@virus_exe-bot|1622
 #218|@Zer0_Tw0|1620
 #219|@TerrariaBot|1618
@@ -225,9 +225,9 @@ Rank|Bot|Rating
 #223|@Lightning_SpeedChess|1580
 #224|@shakboy9824453231op|1560
 #225|@Aravdadhaniabot|1517
-#226|@djungelbot|1512
-#227|@NoobMasterBOT|1510
-#228|@spyros1bot|1502
+#226|@spyros1bot|1515
+#227|@djungelbot|1512
+#228|@NoobMasterBOT|1510
 #229|@BigBrainen|1500
 #230|@SkyAttacker|1500
 #231|@ZeusNet|1496

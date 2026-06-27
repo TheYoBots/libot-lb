@@ -9,4 +9,4 @@ Rank|Bot|Rating
 #7|@beastie1|2111
 #8|@OSaurus|1993
 #9|@genesis1bot|1181
-#10|@StockfishLowDepth|1169
+#10|@StockfishLowDepth|1094

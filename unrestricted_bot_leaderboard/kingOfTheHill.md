@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@TheMatrix2025|2346
 #19|@AndromedaSX1|2344
 #20|@rascal1|2338
-#21|@RaspFish|2334
+#21|@RaspFish|2331
 #22|@Sooraj_Kumar_P_S|2319
 #23|@FayEFish|2317
 #24|@Viet-AI|2317
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@Ramses-Chess|1608
 #143|@Breeze-Hot|1606
 #144|@Just-a-random-bot|1604
-#145|@spyros1bot|1580
+#145|@spyros1bot|1584
 #146|@MMC_HUANGBAI|1569
 #147|@Epiano_Bot|1567
 #148|@Toxic_Bot|1541
@@ -180,9 +180,9 @@ Rank|Bot|Rating
 #178|@VedanthS-Bot|1353
 #179|@allvariants|1348
 #180|@BinaryBrain|1341
-#181|@DavidsGuterBot|1317
-#182|@THEANDROIDBOT|1317
-#183|@Challengeme2anything|1307
+#181|@THEANDROIDBOT|1317
+#182|@Challengeme2anything|1307
+#183|@DavidsGuterBot|1300
 #184|@Hand_coded_ai_90565|1292
 #185|@NoTallkOnlyGames|1291
 #186|@reaper1bot|1276
@@ -197,8 +197,8 @@ Rank|Bot|Rating
 #195|@bot-win-loh-nick|1191
 #196|@Boom_Bot|1176
 #197|@TrashBot|1168
-#198|@pawnrobot|1159
-#199|@shakboy9824453231op|1152
+#198|@shakboy9824453231op|1152
+#199|@pawnrobot|1144
 #200|@GuineaBot3|1121
 #201|@genesis1bot|1106
 #202|@DespacitoBot|1094

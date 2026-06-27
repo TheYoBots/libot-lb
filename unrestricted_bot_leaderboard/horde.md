@@ -180,10 +180,10 @@ Rank|Bot|Rating
 #178|@AbhijithHISBot|1258
 #179|@Humuhumunukunukuapu|1258
 #180|@Jannik08_fan|1258
-#181|@pawnrobot|1258
-#182|@PowerOnBot|1258
-#183|@xDmanBOT|1258
-#184|@yobmef|1258
+#181|@PowerOnBot|1258
+#182|@xDmanBOT|1258
+#183|@yobmef|1258
+#184|@pawnrobot|1249
 #185|@reaper1bot|1239
 #186|@TheSystem_Bot|1218
 #187|@hashcake1|1217
