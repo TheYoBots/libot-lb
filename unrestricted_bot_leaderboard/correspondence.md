@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@ChamberiAjedrez|2641
 #8|@pawnocchio_bot|2623
 #9|@LeelaZero-UK|2585
-#10|@pawn_git|2561
-#11|@CheckmateX1|2556
+#10|@CheckmateX1|2556
+#11|@pawn_git|2554
 #12|@Alexnajax_Fan|2549
 #13|@peonasesino71|2512
 #14|@ServerFish|2494

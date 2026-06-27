@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@MasterofChessBOT800|1391
 #185|@HiddeNL|1385
 #186|@apraz|1383
-#187|@DavidsGuterBot|1360
+#187|@DavidsGuterBot|1345
 #188|@TTC-BOT_2|1322
 #189|@cool_boy_bot|1321
 #190|@Harry_Potterz|1316
@@ -201,7 +201,7 @@ Rank|Bot|Rating
 #199|@SneakyBot21|1256
 #200|@TORTADEMANZANA023|1233
 #201|@genesis1bot|1225
-#202|@pawnrobot|1197
+#202|@pawnrobot|1193
 #203|@heatseeker223|1191
 #204|@admin-bot|1188
 #205|@Ujwal1001|1179
