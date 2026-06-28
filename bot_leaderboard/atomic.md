@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2516
-#2|@Bot1nokk|2333
+#1|@is_BOSS|2510
+#2|@Bot1nokk|2344
 #3|@SF_Bot1nok|2322
 #4|@DarkOnBot|2291
 #5|@ToromBot|2257
 #6|@rascal1|2253
 #7|@OSaurus|1993
 #8|@spyros1bot|1473
-#9|@StockfishLowDepth|1136
+#9|@StockfishLowDepth|1127

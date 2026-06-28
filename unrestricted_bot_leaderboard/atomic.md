@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
 #17|@Yebot|2518
-#18|@is_BOSS|2516
-#19|@CatBot_14|2514
-#20|@EmptikBot|2510
+#18|@CatBot_14|2514
+#19|@EmptikBot|2510
+#20|@is_BOSS|2510
 #21|@chessbot2880|2509
 #22|@ibep|2498
 #23|@ElPeonElectrico|2490
@@ -48,10 +48,10 @@ Rank|Bot|Rating
 #46|@lord-bot|2349
 #47|@Viet-BOT|2349
 #48|@NormalBlitzBulletBot|2347
-#49|@HyperLitikBOT|2341
-#50|@LudwigBOT|2339
-#51|@NotNateBot|2336
-#52|@Bot1nokk|2333
+#49|@Bot1nokk|2344
+#50|@HyperLitikBOT|2341
+#51|@LudwigBOT|2339
+#52|@NotNateBot|2336
 #53|@SF_Bot1nok|2322
 #54|@The-Fastest-Bot|2314
 #55|@Alehkine_cat|2312
@@ -61,7 +61,7 @@ Rank|Bot|Rating
 #59|@PumpkinLatteBob|2301
 #60|@PsychedelicAtomic|2296
 #61|@DarkOnBot|2291
-#62|@MEGA-NOOB-BOT|2286
+#62|@MEGA-NOOB-BOT|2288
 #63|@AndromedaSX1|2284
 #64|@vrnts_colinbot|2282
 #65|@TheMatrix2029|2278
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@OurBot|2166
 #103|@CrayyBot|2165
 #104|@GodelEscherBot|2161
-#105|@RaspFish|2160
+#105|@RaspFish|2161
 #106|@The_dragon_bot|2160
 #107|@MagicverseBOT|2157
 #108|@bot1e|2154
@@ -360,7 +360,7 @@ Rank|Bot|Rating
 #358|@Jaymombot|1166
 #359|@SipsonsamsonBOT|1161
 #360|@Happy_One|1138
-#361|@StockfishLowDepth|1136
+#361|@StockfishLowDepth|1127
 #362|@Pawn_Stormer_D4|1124
 #363|@the_nicholas_bot|1110
 #364|@MyNameIsSpeedy|1108

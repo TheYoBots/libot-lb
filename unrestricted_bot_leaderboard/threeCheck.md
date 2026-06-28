@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@SUMEETTHEPRO|1708
 #138|@Yemmi-Yemmi|1702
 #139|@clueless-bot|1685
-#140|@spyros1bot|1676
+#140|@spyros1bot|1681
 #141|@NormalBulletBot|1657
 #142|@Bottios|1643
 #143|@the_checkmating_bot|1643
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@newengine2022|1588
 #150|@knight_128|1563
 #151|@Alehkine_cat|1531
-#152|@Groot123456|1531
+#152|@Groot123456|1520
 #153|@TrashBot|1519
 #154|@relevantproblem|1514
 #155|@Toxic_Bot|1511

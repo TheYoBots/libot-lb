@@ -2,9 +2,10 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2351
 #2|@RaspFish|2350
-#3|@SF_Bot1nok|2344
-#4|@rascal1|2316
-#5|@OSaurus|1898
-#6|@StockfishLowDepth|1695
-#7|@spyros1bot|1390
-#8|@genesis1bot|1041
+#3|@DarkOnBot|2349
+#4|@SF_Bot1nok|2343
+#5|@rascal1|2318
+#6|@OSaurus|1898
+#7|@StockfishLowDepth|1695
+#8|@spyros1bot|1390
+#9|@genesis1bot|1041

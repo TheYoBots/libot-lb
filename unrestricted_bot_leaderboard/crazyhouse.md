@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@Fairy_Belzedar|2683
 #16|@tbhOnBot|2675
 #17|@ResoluteBot|2668
-#18|@SF_Bot1nok|2665
+#18|@SF_Bot1nok|2667
 #19|@icbmsaregoated2|2664
 #20|@PumpkinLatteBob|2658
 #21|@ibep|2633
@@ -27,9 +27,9 @@ Rank|Bot|Rating
 #25|@DarkOnBot|2602
 #26|@Iwantedtoplaychess|2600
 #27|@RaspFish|2600
-#28|@Bot1nokk|2588
+#28|@Bot1nokk|2585
 #29|@rascal1|2570
-#30|@bot1e|2556
+#30|@bot1e|2552
 #31|@EmptikVariantsBot|2548
 #32|@BotSuxX|2538
 #33|@LudwigBOT|2527
