@@ -7,4 +7,5 @@ Rank|Bot|Rating
 #5|@ToromBot|2257
 #6|@rascal1|2253
 #7|@OSaurus|1993
-#8|@StockfishLowDepth|1166
+#8|@spyros1bot|1473
+#9|@StockfishLowDepth|1136

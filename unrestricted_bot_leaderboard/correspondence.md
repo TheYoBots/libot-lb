@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@pawnocchio_bot|2623
 #9|@LeelaZero-UK|2585
 #10|@CheckmateX1|2556
-#11|@pawn_git|2554
-#12|@Alexnajax_Fan|2549
+#11|@Alexnajax_Fan|2549
+#12|@pawn_git|2547
 #13|@peonasesino71|2512
 #14|@ServerFish|2494
 #15|@colinbot|2492
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@HerokuHasnotplay|2196
 #68|@Digi-bot|2192
 #69|@IAMSTOCKFISH123|2192
-#70|@OpeningsBot|2189
+#70|@OpeningsBot|2186
 #71|@GothamChessBot|2183
 #72|@Nowinforyoukid|2177
 #73|@WeakStash|2177

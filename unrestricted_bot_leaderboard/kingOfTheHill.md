@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@DarkOnBot|2364
 #16|@Karpov_bot|2359
 #17|@ElPeonElectrico|2351
-#18|@TheMatrix2025|2346
-#19|@AndromedaSX1|2344
-#20|@rascal1|2338
+#18|@rascal1|2348
+#19|@TheMatrix2025|2346
+#20|@AndromedaSX1|2344
 #21|@RaspFish|2331
 #22|@Sooraj_Kumar_P_S|2319
 #23|@FayEFish|2317
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@Ramses-Chess|1608
 #143|@Breeze-Hot|1606
 #144|@Just-a-random-bot|1604
-#145|@spyros1bot|1584
+#145|@spyros1bot|1588
 #146|@MMC_HUANGBAI|1569
 #147|@Epiano_Bot|1567
 #148|@Toxic_Bot|1541
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@Challengeme2anything|1307
 #184|@Hand_coded_ai_90565|1292
 #185|@NoTallkOnlyGames|1291
-#186|@DavidsGuterBot|1288
+#186|@DavidsGuterBot|1277
 #187|@reaper1bot|1276
 #188|@jasans_bot|1268
 #189|@ChessChipBot|1258
