@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@Bot1nokk|2326
 #37|@colinbot|2309
 #38|@LudwigBOT|2304
-#39|@rascal1|2303
+#39|@rascal1|2302
 #40|@lord-bot|2300
 #41|@Worst-ai|2296
 #42|@KingfishX|2285
@@ -141,7 +141,7 @@ Rank|Bot|Rating
 #139|@clueless-bot|1685
 #140|@spyros1bot|1684
 #141|@NormalBulletBot|1657
-#142|@Lancelbot|1644
+#142|@Lancelbot|1646
 #143|@Bottios|1643
 #144|@the_checkmating_bot|1643
 #145|@CoderDen732|1639
@@ -195,9 +195,9 @@ Rank|Bot|Rating
 #193|@genesis1bot|1277
 #194|@Light_To_The_Rescue|1277
 #195|@Sanjana_Kambala-BOT|1273
-#196|@DavidsGuterBot|1272
-#197|@TheLegendaryKnight|1272
-#198|@EstmileBot|1269
+#196|@TheLegendaryKnight|1272
+#197|@EstmileBot|1269
+#198|@DavidsGuterBot|1264
 #199|@Parth_Dhage_2|1258
 #200|@suniferia|1258
 #201|@MyNameIsWhatLOL|1256
