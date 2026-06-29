@@ -12,7 +12,9 @@ Rank|Bot|Rating
 #10|@NilatacBot|2118
 #11|@nickl1bot|2016
 #12|@CatNail|1807
-#13|@spyros1bot|1553
-#14|@pawnrobot|1543
-#15|@Lancelbot|1398
+#13|@spyros1bot|1557
+#14|@pawnrobot|1461
+#15|@Lancelbot|1434
 #16|@StockfishLowDepth|1311
+#17|@hashcake1|887
+#18|@genesis1bot|792

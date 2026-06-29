@@ -8,3 +8,5 @@ Rank|Bot|Rating
 #6|@OSaurus|2315
 #7|@spyros1bot|1755
 #8|@Lancelbot|1678
+#9|@reaper1bot|1412
+#10|@genesis1bot|1048

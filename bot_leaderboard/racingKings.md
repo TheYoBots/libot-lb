@@ -7,5 +7,6 @@ Rank|Bot|Rating
 #5|@rascal1|2318
 #6|@OSaurus|1898
 #7|@StockfishLowDepth|1695
-#8|@spyros1bot|1390
-#9|@genesis1bot|1041
+#8|@hashcake1|1211
+#9|@reaper1bot|1205
+#10|@genesis1bot|1011
