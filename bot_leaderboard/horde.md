@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2631
-#2|@Bot1nokk|2614
-#3|@SF_Bot1nok|2606
-#4|@bot1e|2576
+#1|@abdcebot|2647
+#2|@Bot1nokk|2611
+#3|@SF_Bot1nok|2597
+#4|@bot1e|2577
 #5|@rascal1|2418
-#6|@DarkOnBot|2360
+#6|@DarkOnBot|2363
 #7|@reaper1bot|1182
 #8|@genesis1bot|1123

@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@LeelaZero-UK|2585
 #10|@CheckmateX1|2556
 #11|@Alexnajax_Fan|2549
-#12|@pawn_git|2545
+#12|@pawn_git|2539
 #13|@peonasesino71|2512
 #14|@ServerFish|2494
 #15|@colinbot|2492
@@ -168,8 +168,8 @@ Rank|Bot|Rating
 #166|@yeoldwiz|1890
 #167|@ChessChildren|1884
 #168|@XXXTryandTryXXX|1884
-#169|@RadianceEngine|1883
-#170|@KingsGamBot|1882
+#169|@KingsGamBot|1882
+#170|@RadianceEngine|1882
 #171|@lol7241Bot|1878
 #172|@PiratesBot|1876
 #173|@Yukoo-BOT|1876
