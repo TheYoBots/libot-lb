@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2351
+#1|@ToromBot|2352
 #2|@DarkOnBot|2347
 #3|@RaspFish|2341
 #4|@SF_Bot1nok|2341

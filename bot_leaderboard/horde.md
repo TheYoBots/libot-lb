@@ -6,6 +6,5 @@ Rank|Bot|Rating
 #4|@bot1e|2576
 #5|@rascal1|2418
 #6|@DarkOnBot|2360
-#7|@OSaurus|2230
-#8|@reaper1bot|1182
-#9|@genesis1bot|1123
+#7|@reaper1bot|1182
+#8|@genesis1bot|1123

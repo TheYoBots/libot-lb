@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Jussicas|2373
 #47|@TheMatrix2025|2368
 #48|@Lili-Variants|2357
-#49|@ToromBot|2351
+#49|@ToromBot|2352
 #50|@DarkOnBot|2347
 #51|@Viet_BOT|2344
 #52|@virus_exe-bot|2342

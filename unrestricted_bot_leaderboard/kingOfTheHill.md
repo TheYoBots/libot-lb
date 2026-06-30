@@ -184,7 +184,7 @@ Rank|Bot|Rating
 #182|@reaper1bot|1319
 #183|@THEANDROIDBOT|1317
 #184|@Challengeme2anything|1307
-#185|@DavidsGuterBot|1300
+#185|@DavidsGuterBot|1295
 #186|@Hand_coded_ai_90565|1292
 #187|@NoTallkOnlyGames|1291
 #188|@jasans_bot|1268

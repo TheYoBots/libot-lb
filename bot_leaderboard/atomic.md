@@ -6,8 +6,7 @@ Rank|Bot|Rating
 #4|@DarkOnBot|2291
 #5|@ToromBot|2258
 #6|@rascal1|2257
-#7|@OSaurus|1993
-#8|@spyros1bot|1477
-#9|@pawnrobot|1218
-#10|@genesis1bot|1183
-#11|@StockfishLowDepth|1107
+#7|@spyros1bot|1477
+#8|@pawnrobot|1235
+#9|@genesis1bot|1183
+#10|@StockfishLowDepth|1112
