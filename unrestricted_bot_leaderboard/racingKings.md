@@ -45,10 +45,10 @@ Rank|Bot|Rating
 #43|@The-Fastest-Bot|2402
 #44|@lightspeed_bot|2396
 #45|@thibot|2393
-#46|@Jussicas|2373
-#47|@TheMatrix2025|2368
-#48|@Lili-Variants|2357
-#49|@ToromBot|2352
+#46|@ToromBot|2374
+#47|@Jussicas|2373
+#48|@TheMatrix2025|2368
+#49|@Lili-Variants|2357
 #50|@DarkOnBot|2347
 #51|@Viet_BOT|2344
 #52|@virus_exe-bot|2342

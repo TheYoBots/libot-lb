@@ -254,8 +254,8 @@ Rank|Bot|Rating
 #252|@Magic11bot_Coach|1001
 #253|@JPSBOT|958
 #254|@FireTorchV2|955
-#255|@pawnrobot|862
-#256|@RSVMentor|862
+#255|@RSVMentor|862
+#256|@pawnrobot|857
 #257|@GuineaBot3|845
 #258|@MateCheckCapture|828
 #259|@TrashBot|800

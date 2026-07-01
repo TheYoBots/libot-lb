@@ -9,4 +9,4 @@ Rank|Bot|Rating
 #7|@spyros1bot|1477
 #8|@pawnrobot|1232
 #9|@genesis1bot|1183
-#10|@StockfishLowDepth|1123
+#10|@StockfishLowDepth|1105

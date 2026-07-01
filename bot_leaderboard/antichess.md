@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@Bot1nokk|2831
 #6|@DarkOnBot|2667
 #7|@rascal1|2636
-#8|@anti-bot|2157
-#9|@NilatacBot|2116
-#10|@CatNail|1812
+#8|@anti-bot|2160
+#9|@NilatacBot|2107
+#10|@CatNail|1927
 #11|@spyros1bot|1557
 #12|@Lancelbot|1471
 #13|@pawnrobot|1441
