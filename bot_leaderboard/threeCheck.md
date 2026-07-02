@@ -1,8 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rascal1|2302
-#2|@spyros1bot|1684
-#3|@Lancelbot|1646
-#4|@hashcake1|1416
-#5|@genesis1bot|1277
-#6|@DavidsGuterBot|1264
+#1|@rascal1|2287
+#2|@rachl1|1912
+#3|@nickl1bot|1843
+#4|@spyros1bot|1689
+#5|@Lancelbot|1635
+#6|@hashcake1|1412
+#7|@reaper1bot|1368
+#8|@genesis1bot|1270
+#9|@DavidsGuterBot|1269

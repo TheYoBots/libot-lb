@@ -1,7 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@rascal1|2334
-#2|@spyros1bot|1573
-#3|@DavidsGuterBot|1295
-#4|@pawnrobot|1113
-#5|@genesis1bot|1090
+#2|@spyros1bot|1565
+#3|@Lancelbot|1521
+#4|@DavidsGuterBot|1280
+#5|@pawnrobot|1117
+#6|@genesis1bot|1097

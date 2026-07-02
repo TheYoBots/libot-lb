@@ -3594,3 +3594,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+maia3-79m_1200
+maia3-79m_600
