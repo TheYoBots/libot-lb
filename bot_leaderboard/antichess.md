@@ -7,13 +7,13 @@ Rank|Bot|Rating
 #5|@Bot1nokk|2836
 #6|@RaspFish|2794
 #7|@DarkOnBot|2650
-#8|@rascal1|2636
+#8|@rascal1|2626
 #9|@anti-bot|2160
-#10|@NilatacBot|2099
-#11|@CatNail|1880
+#10|@NilatacBot|2088
+#11|@CatNail|1875
 #12|@spyros1bot|1559
 #13|@Lancelbot|1440
-#14|@pawnrobot|1413
+#14|@pawnrobot|1417
 #15|@StockfishLowDepth|1311
 #16|@hashcake1|898
 #17|@genesis1bot|790

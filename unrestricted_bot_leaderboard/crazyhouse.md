@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@Iwantedtoplaychess|2600
 #27|@Bot1nokk|2587
 #28|@DarkOnBot|2585
-#29|@rascal1|2572
+#29|@rascal1|2584
 #30|@bot1e|2549
 #31|@EmptikVariantsBot|2548
 #32|@BotSuxX|2538
@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@Peaceful4Life|2160
 #78|@SCP079|2156
 #79|@BSTAF|2154
-#80|@StockfishLowDepth|2152
-#81|@QiOui|2146
+#80|@QiOui|2154
+#81|@StockfishLowDepth|2152
 #82|@TheMatrix2025|2142
 #83|@CloudBot_v2|2131
 #84|@HIWIN1234|2123
@@ -246,8 +246,8 @@ Rank|Bot|Rating
 #244|@kazakhfirstbot|1119
 #245|@apollo_bot|1106
 #246|@BogoBot|1099
-#247|@TfXD_Bot|1050
-#248|@genesis1bot|1047
+#247|@genesis1bot|1052
+#248|@TfXD_Bot|1050
 #249|@jasans_bot|1045
 #250|@Official_bot|1027
 #251|@ZX-Chess|1011
@@ -255,7 +255,7 @@ Rank|Bot|Rating
 #253|@JPSBOT|958
 #254|@FireTorchV2|955
 #255|@RSVMentor|862
-#256|@pawnrobot|858
+#256|@pawnrobot|848
 #257|@GuineaBot3|845
 #258|@MateCheckCapture|828
 #259|@TrashBot|800

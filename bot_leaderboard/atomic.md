@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@Bot1nokk|2337
 #3|@SF_Bot1nok|2327
 #4|@DarkOnBot|2286
-#5|@rascal1|2257
+#5|@rascal1|2279
 #6|@ToromBot|2254
-#7|@spyros1bot|1472
-#8|@Lancelbot|1451
+#7|@rachl1|1811
+#8|@spyros1bot|1472
 #9|@hashcake1|1260
-#10|@pawnrobot|1231
-#11|@genesis1bot|1170
-#12|@StockfishLowDepth|1092
+#10|@pawnrobot|1220
+#11|@genesis1bot|1194
+#12|@StockfishLowDepth|1091

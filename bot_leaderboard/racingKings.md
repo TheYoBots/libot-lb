@@ -6,8 +6,10 @@ Rank|Bot|Rating
 #4|@RaspFish|2340
 #5|@rascal1|2322
 #6|@OpeningsBot|1808
-#7|@StockfishLowDepth|1695
-#8|@spyros1bot|1363
-#9|@hashcake1|1209
-#10|@reaper1bot|1193
-#11|@genesis1bot|1019
+#7|@kowalabi|1788
+#8|@QiOui|1784
+#9|@StockfishLowDepth|1695
+#10|@spyros1bot|1363
+#11|@hashcake1|1209
+#12|@reaper1bot|1193
+#13|@genesis1bot|1019

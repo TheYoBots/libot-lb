@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@DarkOnBot|2650
 #42|@MalanChess|2638
 #43|@vrnts_colinbot|2637
-#44|@rascal1|2636
+#44|@rascal1|2626
 #45|@HIWIN1234|2623
 #46|@Kizbuurb|2621
 #47|@Lili-ai|2619
@@ -164,9 +164,9 @@ Rank|Bot|Rating
 #162|@XXIstCentury|2131
 #163|@Stockfish-MEDIUM|2117
 #164|@PyChessBot|2102
-#165|@NilatacBot|2099
-#166|@TurkiyeHogwartsBOT|2099
-#167|@OpeningsBot|2093
+#165|@TurkiyeHogwartsBOT|2099
+#166|@OpeningsBot|2093
+#167|@NilatacBot|2088
 #168|@ZamuChess|2049
 #169|@Botzer|2020
 #170|@Jussicas|2019
@@ -183,7 +183,7 @@ Rank|Bot|Rating
 #181|@CloudBOT|1950
 #182|@TestingBot1|1914
 #183|@Crepusculum|1881
-#184|@CatNail|1880
+#184|@CatNail|1875
 #185|@NoTallkOnlyGames|1871
 #186|@Lumac0|1861
 #187|@Pineapple-Friendly|1858
@@ -282,8 +282,8 @@ Rank|Bot|Rating
 #280|@SacrificeBot|1426
 #281|@Blackrood|1423
 #282|@kazakhfirstbot|1422
-#283|@SuperJeroBot|1416
-#284|@pawnrobot|1413
+#283|@pawnrobot|1417
+#284|@SuperJeroBot|1416
 #285|@relevantproblem|1413
 #286|@are_bots_good|1412
 #287|@GuineaBot2|1412
