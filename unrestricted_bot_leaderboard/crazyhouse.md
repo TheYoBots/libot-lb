@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Xerus_1|2611
 #25|@RaspFish|2601
 #26|@Iwantedtoplaychess|2600
-#27|@Bot1nokk|2587
+#27|@Bot1nokk|2598
 #28|@DarkOnBot|2585
 #29|@rascal1|2584
 #30|@bot1e|2549
@@ -196,9 +196,9 @@ Rank|Bot|Rating
 #194|@Trumpfor2O2O|1458
 #195|@asdfbot2|1448
 #196|@thousandatom|1445
-#197|@TorBot|1436
-#198|@Nebulogic|1435
-#199|@hashcake1|1433
+#197|@hashcake1|1439
+#198|@TorBot|1436
+#199|@Nebulogic|1435
 #200|@Rapid_WorldChamp|1432
 #201|@MagnusCarlsen1507|1431
 #202|@puisne|1430
@@ -206,10 +206,10 @@ Rank|Bot|Rating
 #204|@Itzmoi6g19|1425
 #205|@xDmanBOT|1419
 #206|@chess-trainer-bot|1417
-#207|@reaper1bot|1412
-#208|@Wayang|1411
-#209|@cool_boy_bot|1398
-#210|@Classic_BOT-v2|1392
+#207|@Wayang|1411
+#208|@cool_boy_bot|1398
+#209|@Classic_BOT-v2|1392
+#210|@reaper1bot|1379
 #211|@are_bots_good|1367
 #212|@GothamChessBot|1358
 #213|@XiDM|1351
@@ -255,7 +255,7 @@ Rank|Bot|Rating
 #253|@JPSBOT|958
 #254|@FireTorchV2|955
 #255|@RSVMentor|862
-#256|@pawnrobot|848
+#256|@pawnrobot|846
 #257|@GuineaBot3|845
 #258|@MateCheckCapture|828
 #259|@TrashBot|800

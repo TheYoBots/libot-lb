@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@rachl1|1933
 #5|@nickl1bot|1843
 #6|@spyros1bot|1689
-#7|@Lancelbot|1635
+#7|@Lancelbot|1644
 #8|@hashcake1|1412
 #9|@reaper1bot|1368
 #10|@genesis1bot|1292

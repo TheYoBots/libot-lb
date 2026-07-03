@@ -2,14 +2,14 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2382
 #2|@DarkOnBot|2347
-#3|@SF_Bot1nok|2341
-#4|@RaspFish|2340
+#3|@RaspFish|2340
+#4|@SF_Bot1nok|2340
 #5|@rascal1|2322
 #6|@OpeningsBot|1808
 #7|@kowalabi|1788
 #8|@QiOui|1784
 #9|@StockfishLowDepth|1695
 #10|@spyros1bot|1363
-#11|@hashcake1|1209
+#11|@hashcake1|1200
 #12|@reaper1bot|1193
 #13|@genesis1bot|1019

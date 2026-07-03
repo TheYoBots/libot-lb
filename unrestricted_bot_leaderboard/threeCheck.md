@@ -141,11 +141,11 @@ Rank|Bot|Rating
 #139|@spyros1bot|1689
 #140|@clueless-bot|1685
 #141|@NormalBulletBot|1657
-#142|@Bottios|1643
-#143|@the_checkmating_bot|1643
-#144|@CoderDen732|1639
-#145|@LegoTechnicControlPl|1638
-#146|@Lancelbot|1635
+#142|@Lancelbot|1644
+#143|@Bottios|1643
+#144|@the_checkmating_bot|1643
+#145|@CoderDen732|1639
+#146|@LegoTechnicControlPl|1638
 #147|@Botkingteam33|1633
 #148|@almaznv_2BOT|1623
 #149|@jasans_bot|1621
