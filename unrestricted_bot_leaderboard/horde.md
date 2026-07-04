@@ -184,7 +184,7 @@ Rank|Bot|Rating
 #182|@xDmanBOT|1258
 #183|@yobmef|1258
 #184|@hashcake1|1241
-#185|@pawnrobot|1225
+#185|@pawnrobot|1221
 #186|@TheSystem_Bot|1218
 #187|@GuineaBot3|1212
 #188|@admin-bot|1209

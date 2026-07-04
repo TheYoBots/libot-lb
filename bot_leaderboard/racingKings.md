@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@RaspFish|2340
 #4|@SF_Bot1nok|2340
 #5|@rascal1|2322
-#6|@OpeningsBot|1808
+#6|@OpeningsBot|1801
 #7|@kowalabi|1788
 #8|@QiOui|1784
 #9|@StockfishLowDepth|1695

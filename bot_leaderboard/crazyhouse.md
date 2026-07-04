@@ -9,4 +9,3 @@ Rank|Bot|Rating
 #7|@spyros1bot|1753
 #8|@Lancelbot|1687
 #9|@reaper1bot|1379
-#10|@genesis1bot|1052

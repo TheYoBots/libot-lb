@@ -255,8 +255,8 @@ Rank|Bot|Rating
 #253|@JPSBOT|958
 #254|@FireTorchV2|955
 #255|@RSVMentor|862
-#256|@pawnrobot|846
-#257|@GuineaBot3|845
+#256|@GuineaBot3|845
+#257|@pawnrobot|845
 #258|@MateCheckCapture|828
 #259|@TrashBot|800
 #260|@MinOpponentMoves|783

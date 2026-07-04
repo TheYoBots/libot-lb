@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@RaspFish|2794
 #7|@DarkOnBot|2650
 #8|@rascal1|2626
-#9|@anti-bot|2160
+#9|@anti-bot|2164
 #10|@OpeningsBot|2108
 #11|@NilatacBot|2088
-#12|@CatNail|1879
+#12|@CatNail|1888
 #13|@spyros1bot|1559
 #14|@Lancelbot|1444
 #15|@pawnrobot|1417

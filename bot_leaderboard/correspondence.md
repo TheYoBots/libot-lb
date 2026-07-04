@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@pawn_git|2513
-#2|@Blunderbuss-bot|2333
-#3|@OpeningsBot|2200
+#1|@pawn_git|2522
+#2|@Blunderbuss-bot|2331
+#3|@OpeningsBot|2206

@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Lucror|2178
 #155|@GegeneBOT|2177
 #156|@DeepFriedFish|2165
-#157|@anti-bot|2160
+#157|@anti-bot|2164
 #158|@lightspeed_bot|2152
 #159|@rachl1|2147
 #160|@AntiChessBot|2142
@@ -182,8 +182,8 @@ Rank|Bot|Rating
 #180|@Menganti|1963
 #181|@CloudBOT|1950
 #182|@TestingBot1|1914
-#183|@Crepusculum|1881
-#184|@CatNail|1879
+#183|@CatNail|1888
+#184|@Crepusculum|1881
 #185|@NoTallkOnlyGames|1871
 #186|@Lumac0|1861
 #187|@Pineapple-Friendly|1858
