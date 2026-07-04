@@ -10,6 +10,6 @@ Rank|Bot|Rating
 #8|@QiOui|1784
 #9|@StockfishLowDepth|1695
 #10|@spyros1bot|1363
-#11|@hashcake1|1200
-#12|@reaper1bot|1193
-#13|@genesis1bot|1019
+#11|@hashcake1|1244
+#12|@reaper1bot|1184
+#13|@genesis1bot|997

@@ -3,7 +3,8 @@ Rank|Bot|Rating
 #1|@rascal1|2343
 #2|@spyros1bot|1565
 #3|@Lancelbot|1533
-#4|@hashcake1|1337
-#5|@DavidsGuterBot|1280
-#6|@pawnrobot|1117
+#4|@hashcake1|1387
+#5|@reaper1bot|1300
+#6|@DavidsGuterBot|1271
 #7|@genesis1bot|1097
+#8|@pawnrobot|1086

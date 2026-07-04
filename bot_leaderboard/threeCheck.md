@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@nickl1bot|1843
 #6|@spyros1bot|1689
 #7|@Lancelbot|1644
-#8|@hashcake1|1412
-#9|@reaper1bot|1368
-#10|@genesis1bot|1292
-#11|@DavidsGuterBot|1256
+#8|@hashcake1|1394
+#9|@reaper1bot|1361
+#10|@genesis1bot|1278
+#11|@DavidsGuterBot|1242
