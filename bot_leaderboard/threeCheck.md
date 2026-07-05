@@ -15,4 +15,4 @@ Rank|Bot|Rating
 #13|@hashcake1|1394
 #14|@reaper1bot|1361
 #15|@genesis1bot|1278
-#16|@DavidsGuterBot|1240
+#16|@DavidsGuterBot|1237

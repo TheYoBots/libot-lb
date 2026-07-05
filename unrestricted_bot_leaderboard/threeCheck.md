@@ -202,7 +202,7 @@ Rank|Bot|Rating
 #200|@Parth_Dhage_2|1258
 #201|@MyNameIsWhatLOL|1256
 #202|@SneakyBot21|1256
-#203|@DavidsGuterBot|1240
+#203|@DavidsGuterBot|1237
 #204|@TORTADEMANZANA023|1233
 #205|@suniferia|1211
 #206|@heatseeker223|1191

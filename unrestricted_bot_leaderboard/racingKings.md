@@ -52,8 +52,8 @@ Rank|Bot|Rating
 #50|@DarkOnBot|2347
 #51|@Viet_BOT|2344
 #52|@virus_exe-bot|2342
-#53|@RaspFish|2340
-#54|@SF_Bot1nok|2340
+#53|@SF_Bot1nok|2340
+#54|@RaspFish|2339
 #55|@BotsFanClub|2338
 #56|@EvenMatchup|2336
 #57|@ibep|2333
@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@atomicli|2111
 #103|@Trumpfor2O2O|2103
 #104|@PetersTestBot|2081
-#105|@beastie1|2076
-#106|@CloudBOT|2073
+#105|@CloudBOT|2073
+#106|@beastie1|2055
 #107|@JustDontFlagMe|2048
 #108|@Stockfish-MEDIUM|2043
 #109|@Crepusculum|2036
@@ -114,9 +114,9 @@ Rank|Bot|Rating
 #112|@BGSBot|1969
 #113|@Yemmi-Yemmi|1964
 #114|@admin-bot|1955
-#115|@MyNameIsSpeedy|1935
-#116|@calico1|1932
-#117|@OSaurus|1929
+#115|@calico1|1952
+#116|@MyNameIsSpeedy|1935
+#117|@OSaurus|1924
 #118|@Pineapple-Friendly|1912
 #119|@Teamleaderbot|1904
 #120|@legendbot1|1893

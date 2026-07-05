@@ -2,12 +2,12 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2382
 #2|@DarkOnBot|2347
-#3|@RaspFish|2340
-#4|@SF_Bot1nok|2340
+#3|@SF_Bot1nok|2340
+#4|@RaspFish|2339
 #5|@rascal1|2322
-#6|@beastie1|2076
-#7|@calico1|1932
-#8|@OSaurus|1929
+#6|@beastie1|2055
+#7|@calico1|1952
+#8|@OSaurus|1924
 #9|@OpeningsBot|1801
 #10|@kowalabi|1788
 #11|@QiOui|1782
