@@ -179,11 +179,11 @@ Rank|Bot|Rating
 #177|@GarboBot|1873
 #178|@TheMatrix2025|1872
 #179|@ViVe_2_chess_pro|1869
-#180|@Jibbby|1857
-#181|@Thera_Engine|1857
-#182|@ayodia|1853
-#183|@Boris-Trapsky|1853
-#184|@natural-disaster|1853
+#180|@Thera_Engine|1857
+#181|@ayodia|1853
+#182|@Boris-Trapsky|1853
+#183|@natural-disaster|1853
+#184|@Jibbby|1851
 #185|@Rinestro|1837
 #186|@OurBot|1836
 #187|@Aromik_s_bot|1831

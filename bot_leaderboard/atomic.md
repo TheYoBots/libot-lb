@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Bot1nokk|2337
 #3|@SF_Bot1nok|2327
 #4|@DarkOnBot|2286
-#5|@rascal1|2279
+#5|@rascal1|2258
 #6|@ToromBot|2254
 #7|@beastie1|2099
 #8|@calico1|2052
@@ -17,4 +17,4 @@ Rank|Bot|Rating
 #15|@reaper1bot|1216
 #16|@genesis1bot|1186
 #17|@pawnrobot|1174
-#18|@StockfishLowDepth|1132
+#18|@StockfishLowDepth|1124

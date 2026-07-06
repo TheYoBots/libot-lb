@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@SF_Bot1nok|2607
 #3|@Bot1nokk|2598
 #4|@bot1e|2570
-#5|@rascal1|2399
+#5|@rascal1|2414
 #6|@DarkOnBot|2358
 #7|@beastie1|2279
 #8|@calico1|2235

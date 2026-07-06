@@ -26,9 +26,9 @@ Rank|Bot|Rating
 #24|@Xerus_1|2611
 #25|@RaspFish|2601
 #26|@Iwantedtoplaychess|2600
-#27|@Bot1nokk|2591
-#28|@DarkOnBot|2585
-#29|@rascal1|2584
+#27|@rascal1|2600
+#28|@Bot1nokk|2591
+#29|@DarkOnBot|2585
 #30|@EmptikVariantsBot|2548
 #31|@bot1e|2545
 #32|@BotSuxX|2538
@@ -105,8 +105,8 @@ Rank|Bot|Rating
 #103|@Magnus-BOT|1986
 #104|@Stockfish-MEDIUM|1983
 #105|@PyChessBot|1978
-#106|@OpeningsBot|1974
-#107|@ESC_BOT|1966
+#106|@ESC_BOT|1966
+#107|@OpeningsBot|1965
 #108|@mrchessmanager|1962
 #109|@nickl1bot|1952
 #110|@Hyper-Stockfish|1947

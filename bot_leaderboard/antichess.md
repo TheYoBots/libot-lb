@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Bot1nokk|2853
 #6|@RaspFish|2794
 #7|@DarkOnBot|2650
-#8|@rascal1|2626
+#8|@rascal1|2607
 #9|@beastie1|2466
 #10|@calico1|2422
 #11|@OSaurus|2350
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@QiOui|2174
 #15|@rachl1|2133
 #16|@OpeningsBot|2120
-#17|@NilatacBot|2090
+#17|@NilatacBot|2104
 #18|@JemBok|2043
 #19|@nickl1bot|1995
 #20|@clementyne1|1981

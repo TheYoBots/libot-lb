@@ -16,9 +16,9 @@ Rank|Bot|Rating
 #14|@compchess2|2579
 #15|@Lili-ai|2572
 #16|@bot1e|2570
-#17|@HIWIN1234|2412
-#18|@EmptikVariantsBot|2402
-#19|@rascal1|2399
+#17|@rascal1|2414
+#18|@HIWIN1234|2412
+#19|@EmptikVariantsBot|2402
 #20|@BOT_Stockfish13|2383
 #21|@EmptikBot|2378
 #22|@LoseisnotAvailablehe|2369
