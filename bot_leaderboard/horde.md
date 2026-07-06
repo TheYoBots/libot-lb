@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2667
-#2|@SF_Bot1nok|2607
-#3|@Bot1nokk|2598
-#4|@bot1e|2570
+#1|@abdcebot|2665
+#2|@SF_Bot1nok|2600
+#3|@Bot1nokk|2599
+#4|@bot1e|2594
 #5|@rascal1|2414
 #6|@DarkOnBot|2358
 #7|@beastie1|2279
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@nickl1bot|1925
 #15|@Lancelbot|1616
 #16|@spyros1bot|1616
-#17|@hashcake1|1238
-#18|@pawnrobot|1227
-#19|@reaper1bot|1185
-#20|@genesis1bot|1096
+#17|@hashcake1|1250
+#18|@pawnrobot|1214
+#19|@reaper1bot|1177
+#20|@genesis1bot|1059

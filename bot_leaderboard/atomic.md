@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@nickl1bot|1661
 #12|@clementyne1|1615
 #13|@spyros1bot|1467
-#14|@hashcake1|1259
-#15|@reaper1bot|1216
-#16|@genesis1bot|1186
-#17|@pawnrobot|1174
-#18|@StockfishLowDepth|1124
+#14|@hashcake1|1279
+#15|@reaper1bot|1210
+#16|@pawnrobot|1182
+#17|@genesis1bot|1178
+#18|@StockfishLowDepth|1147

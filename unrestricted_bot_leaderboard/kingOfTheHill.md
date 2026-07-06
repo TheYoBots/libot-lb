@@ -174,7 +174,7 @@ Rank|Bot|Rating
 #172|@Lightning_SpeedChess|1400
 #173|@Groot123456|1391
 #174|@cool_boy_bot|1388
-#175|@hashcake1|1387
+#175|@hashcake1|1382
 #176|@ReallyCrazyBOT|1363
 #177|@JEDDYCOCO12345|1355
 #178|@Sanjana_Kambala-BOT|1355
@@ -183,12 +183,12 @@ Rank|Bot|Rating
 #181|@BinaryBrain|1341
 #182|@THEANDROIDBOT|1317
 #183|@Challengeme2anything|1307
-#184|@reaper1bot|1300
-#185|@Hand_coded_ai_90565|1292
-#186|@NoTallkOnlyGames|1291
-#187|@jasans_bot|1268
-#188|@ChessChipBot|1258
-#189|@DavidsGuterBot|1258
+#184|@Hand_coded_ai_90565|1292
+#185|@NoTallkOnlyGames|1291
+#186|@reaper1bot|1274
+#187|@DavidsGuterBot|1268
+#188|@jasans_bot|1268
+#189|@ChessChipBot|1258
 #190|@Hrant_Petrosyan_BOT|1258
 #191|@HiddeNL|1242
 #192|@knight_128|1233

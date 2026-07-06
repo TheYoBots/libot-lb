@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@SF_Bot1nok|2673
+#1|@SF_Bot1nok|2669
 #2|@rascal1|2600
-#3|@Bot1nokk|2591
+#3|@Bot1nokk|2597
 #4|@DarkOnBot|2585
-#5|@bot1e|2545
+#5|@bot1e|2532
 #6|@beastie1|2365
 #7|@calico1|2347
 #8|@OSaurus|2305
@@ -16,5 +16,6 @@ Rank|Bot|Rating
 #14|@clementyne1|1923
 #15|@spyros1bot|1738
 #16|@Lancelbot|1702
-#17|@reaper1bot|1327
-#18|@genesis1bot|1092
+#17|@hashcake1|1483
+#18|@reaper1bot|1316
+#19|@genesis1bot|1092
