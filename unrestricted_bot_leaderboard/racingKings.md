@@ -160,8 +160,8 @@ Rank|Bot|Rating
 #158|@ROBOT_RANDEER2007|1651
 #159|@Heman36541234578|1647
 #160|@aliooooooo444|1596
-#161|@JemBok|1596
-#162|@nickl1bot|1595
+#161|@nickl1bot|1596
+#162|@JemBok|1595
 #163|@clementyne1|1574
 #164|@HiddeNL|1573
 #165|@TheSystem_Bot|1572
@@ -194,9 +194,9 @@ Rank|Bot|Rating
 #192|@spyros1bot|1384
 #193|@NeilDandekarBot|1373
 #194|@vamos_caballeros|1373
-#195|@Los-Guerreros1|1364
-#196|@knight_BOT|1352
-#197|@Lancelbot|1343
+#195|@Lancelbot|1365
+#196|@Los-Guerreros1|1364
+#197|@knight_BOT|1352
 #198|@Toxic_Bot|1338
 #199|@KevBot_SF|1335
 #200|@LegendaryBot1|1333
@@ -217,9 +217,9 @@ Rank|Bot|Rating
 #215|@ElFinsBoT|1238
 #216|@mertovic119|1232
 #217|@jasans_bot|1220
-#218|@reaper1bot|1204
-#219|@Happy_One|1196
-#220|@XiDM|1181
+#218|@Happy_One|1196
+#219|@XiDM|1181
+#220|@reaper1bot|1169
 #221|@Hrant_Petrosyan_BOT|1152
 #222|@BetaOneBot|1141
 #223|@GuineaBot2|1141

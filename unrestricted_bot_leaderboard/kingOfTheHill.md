@@ -144,10 +144,10 @@ Rank|Bot|Rating
 #142|@Ramses-Chess|1608
 #143|@Breeze-Hot|1606
 #144|@Just-a-random-bot|1604
-#145|@spyros1bot|1581
+#145|@spyros1bot|1583
 #146|@MMC_HUANGBAI|1569
 #147|@Epiano_Bot|1567
-#148|@Lancelbot|1561
+#148|@Lancelbot|1567
 #149|@Toxic_Bot|1541
 #150|@SXDEFENDER|1534
 #151|@Light_To_The_Rescue|1523
@@ -185,8 +185,8 @@ Rank|Bot|Rating
 #183|@Challengeme2anything|1307
 #184|@Hand_coded_ai_90565|1292
 #185|@NoTallkOnlyGames|1291
-#186|@reaper1bot|1274
-#187|@DavidsGuterBot|1268
+#186|@DavidsGuterBot|1274
+#187|@reaper1bot|1274
 #188|@jasans_bot|1268
 #189|@ChessChipBot|1258
 #190|@Hrant_Petrosyan_BOT|1258

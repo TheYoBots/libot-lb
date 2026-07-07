@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@QiOui|1853
 #7|@rachl1|1812
 #8|@nickl1bot|1761
-#9|@spyros1bot|1581
-#10|@Lancelbot|1561
+#9|@spyros1bot|1583
+#10|@Lancelbot|1567
 #11|@hashcake1|1382
-#12|@reaper1bot|1274
-#13|@DavidsGuterBot|1268
+#12|@DavidsGuterBot|1274
+#13|@reaper1bot|1274
 #14|@genesis1bot|1097
 #15|@pawnrobot|1086

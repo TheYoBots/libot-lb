@@ -11,11 +11,11 @@ Rank|Bot|Rating
 #9|@kowalabi|1788
 #10|@QiOui|1782
 #11|@rachl1|1741
-#12|@JemBok|1596
-#13|@nickl1bot|1595
+#12|@nickl1bot|1596
+#13|@JemBok|1595
 #14|@clementyne1|1574
 #15|@spyros1bot|1384
-#16|@Lancelbot|1343
+#16|@Lancelbot|1365
 #17|@hashcake1|1260
-#18|@reaper1bot|1204
+#18|@reaper1bot|1169
 #19|@genesis1bot|1018

@@ -294,10 +294,10 @@ Rank|Bot|Rating
 #292|@spyros1bot|1467
 #293|@fastandfurious10|1464
 #294|@EDSPBOT|1463
-#295|@Dong_Xiao_Yuan|1454
-#296|@Future_Chess_Pro|1453
-#297|@MyNameIsSpeeedy|1453
-#298|@Lancelbot|1451
+#295|@Lancelbot|1457
+#296|@Dong_Xiao_Yuan|1454
+#297|@Future_Chess_Pro|1453
+#298|@MyNameIsSpeeedy|1453
 #299|@BotGeorge|1449
 #300|@AIAlphaAI|1442
 #301|@darkb0t|1441
@@ -359,8 +359,8 @@ Rank|Bot|Rating
 #357|@clrsrc_lc0|1168
 #358|@Jaymombot|1166
 #359|@SipsonsamsonBOT|1161
-#360|@StockfishLowDepth|1146
-#361|@Happy_One|1138
+#360|@Happy_One|1138
+#361|@StockfishLowDepth|1134
 #362|@Pawn_Stormer_D4|1124
 #363|@the_nicholas_bot|1110
 #364|@MyNameIsSpeedy|1108

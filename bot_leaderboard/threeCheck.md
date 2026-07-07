@@ -13,6 +13,6 @@ Rank|Bot|Rating
 #11|@spyros1bot|1689
 #12|@Lancelbot|1644
 #13|@hashcake1|1397
-#14|@reaper1bot|1361
+#14|@reaper1bot|1366
 #15|@genesis1bot|1272
-#16|@DavidsGuterBot|1216
+#16|@DavidsGuterBot|1210
