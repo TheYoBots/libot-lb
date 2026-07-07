@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rascal1|2343
+#1|@rascal1|2351
 #2|@beastie1|2178
 #3|@calico1|2079
 #4|@OSaurus|2017
@@ -8,11 +8,10 @@ Rank|Bot|Rating
 #6|@QiOui|1853
 #7|@rachl1|1812
 #8|@nickl1bot|1761
-#9|@clementyne1|1734
-#10|@spyros1bot|1581
-#11|@Lancelbot|1561
-#12|@hashcake1|1382
-#13|@reaper1bot|1274
-#14|@DavidsGuterBot|1268
-#15|@genesis1bot|1097
-#16|@pawnrobot|1086
+#9|@spyros1bot|1581
+#10|@Lancelbot|1561
+#11|@hashcake1|1382
+#12|@reaper1bot|1274
+#13|@DavidsGuterBot|1268
+#14|@genesis1bot|1097
+#15|@pawnrobot|1086

@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@DarkOnBot|2364
 #16|@Karpov_bot|2359
 #17|@ElPeonElectrico|2351
-#18|@TheMatrix2025|2346
-#19|@AndromedaSX1|2344
-#20|@rascal1|2343
+#18|@rascal1|2351
+#19|@TheMatrix2025|2346
+#20|@AndromedaSX1|2344
 #21|@RaspFish|2329
 #22|@Sooraj_Kumar_P_S|2319
 #23|@FayEFish|2317

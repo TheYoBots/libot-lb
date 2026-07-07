@@ -16,9 +16,9 @@ Rank|Bot|Rating
 #14|@ttBOT|2584
 #15|@compchess2|2579
 #16|@Lili-ai|2572
-#17|@rascal1|2414
-#18|@HIWIN1234|2412
-#19|@EmptikVariantsBot|2402
+#17|@HIWIN1234|2412
+#18|@EmptikVariantsBot|2402
+#19|@rascal1|2388
 #20|@BOT_Stockfish13|2383
 #21|@EmptikBot|2378
 #22|@LoseisnotAvailablehe|2369
@@ -183,7 +183,7 @@ Rank|Bot|Rating
 #181|@PowerOnBot|1258
 #182|@xDmanBOT|1258
 #183|@yobmef|1258
-#184|@hashcake1|1250
+#184|@hashcake1|1252
 #185|@TheSystem_Bot|1218
 #186|@pawnrobot|1214
 #187|@GuineaBot3|1212
@@ -191,7 +191,7 @@ Rank|Bot|Rating
 #189|@Happy_One|1207
 #190|@St6090|1191
 #191|@ChessLLModel|1178
-#192|@reaper1bot|1177
+#192|@reaper1bot|1178
 #193|@BetaOneBot|1166
 #194|@ZX-Chess|1145
 #195|@duythong1402|1120

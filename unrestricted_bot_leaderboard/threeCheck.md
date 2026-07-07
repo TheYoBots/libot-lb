@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@Worst-ai|2296
-#41|@rascal1|2286
+#41|@rascal1|2289
 #42|@KingfishX|2285
 #43|@The-Fastest-Bot|2277
 #44|@CocopikachuBOT|2274
@@ -203,7 +203,7 @@ Rank|Bot|Rating
 #201|@MyNameIsWhatLOL|1256
 #202|@SneakyBot21|1256
 #203|@TORTADEMANZANA023|1233
-#204|@DavidsGuterBot|1220
+#204|@DavidsGuterBot|1216
 #205|@suniferia|1211
 #206|@heatseeker223|1191
 #207|@admin-bot|1188

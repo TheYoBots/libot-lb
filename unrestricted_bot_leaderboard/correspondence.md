@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@Shocky_BOT|2344
 #34|@chmod-bot|2340
 #35|@HansNiemannBot|2338
-#36|@Blunderbuss-bot|2329
+#36|@Blunderbuss-bot|2325
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301
@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@Tundra4|2227
 #62|@SEtheChessGod|2224
 #63|@Abuziddin-BOT|2219
-#64|@OpeningsBot|2207
+#64|@OpeningsBot|2213
 #65|@BalloonBot|2204
 #66|@AbhijithHISBot|2201
 #67|@Ar4Asd1-BOT|2197

@@ -71,9 +71,9 @@ Rank|Bot|Rating
 #69|@CocopikachuBOT|2265
 #70|@chesshyperbot|2260
 #71|@SCP079|2259
-#72|@rascal1|2258
-#73|@Johnsun|2257
-#74|@ToromBot|2254
+#72|@Johnsun|2257
+#73|@ToromBot|2254
+#74|@rascal1|2250
 #75|@YoBot_v2|2243
 #76|@MalanChess|2238
 #77|@STockfishdestroyBot|2227
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@clrsrc_lc0|1168
 #358|@Jaymombot|1166
 #359|@SipsonsamsonBOT|1161
-#360|@StockfishLowDepth|1147
+#360|@StockfishLowDepth|1146
 #361|@Happy_One|1138
 #362|@Pawn_Stormer_D4|1124
 #363|@the_nicholas_bot|1110

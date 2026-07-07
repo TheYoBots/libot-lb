@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Xerus_1|2611
 #25|@RaspFish|2601
 #26|@Iwantedtoplaychess|2600
-#27|@rascal1|2600
+#27|@rascal1|2599
 #28|@Bot1nokk|2597
 #29|@DarkOnBot|2585
 #30|@EmptikVariantsBot|2548
@@ -181,12 +181,12 @@ Rank|Bot|Rating
 #179|@ararimbelami|1498
 #180|@HerokuHasnotplay|1498
 #181|@faith_bot|1494
-#182|@VariantsTop|1494
-#183|@CoderDen732|1493
-#184|@theoden8_uci|1490
-#185|@TFRChessClub|1489
-#186|@Yemmi-BOT|1486
-#187|@hashcake1|1483
+#182|@hashcake1|1494
+#183|@VariantsTop|1494
+#184|@CoderDen732|1493
+#185|@theoden8_uci|1490
+#186|@TFRChessClub|1489
+#187|@Yemmi-BOT|1486
 #188|@Ukraine-team-creator|1477
 #189|@Kizbuurb|1474
 #190|@fairy-vvrr|1471
@@ -256,7 +256,7 @@ Rank|Bot|Rating
 #254|@FireTorchV2|955
 #255|@RSVMentor|862
 #256|@GuineaBot3|845
-#257|@pawnrobot|845
+#257|@pawnrobot|840
 #258|@MateCheckCapture|828
 #259|@TrashBot|800
 #260|@MinOpponentMoves|783

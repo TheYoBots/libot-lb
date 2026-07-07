@@ -217,7 +217,7 @@ Rank|Bot|Rating
 #215|@ElFinsBoT|1238
 #216|@mertovic119|1232
 #217|@jasans_bot|1220
-#218|@reaper1bot|1199
+#218|@reaper1bot|1204
 #219|@Happy_One|1196
 #220|@XiDM|1181
 #221|@Hrant_Petrosyan_BOT|1152
