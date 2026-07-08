@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|3011
-#2|@ToromBot|2942
-#3|@bot1e|2905
-#4|@SF_Bot1nok|2885
-#5|@Bot1nokk|2841
+#1|@abdcebot|3001
+#2|@ToromBot|2944
+#3|@bot1e|2900
+#4|@SF_Bot1nok|2880
+#5|@Bot1nokk|2856
 #6|@RaspFish|2793
 #7|@DarkOnBot|2650
 #8|@rascal1|2628
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@calico1|2422
 #11|@OSaurus|2350
 #12|@kowalabi|2216
-#13|@anti-bot|2209
+#13|@anti-bot|2211
 #14|@QiOui|2174
 #15|@rachl1|2133
 #16|@OpeningsBot|2119
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@nickl1bot|2020
 #19|@JemBok|2019
 #20|@clementyne1|1981
-#21|@CatNail|1906
+#21|@CatNail|1901
 #22|@spyros1bot|1574
 #23|@Lancelbot|1427
 #24|@pawnrobot|1390

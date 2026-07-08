@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@PepsiForAll|2699
 #10|@abdcebot|2678
 #11|@SF_Bot1nok|2600
-#12|@bot1e|2597
-#13|@ttBOT|2584
-#14|@Bot1nokk|2583
+#12|@bot1e|2591
+#13|@Bot1nokk|2589
+#14|@ttBOT|2584
 #15|@compchess2|2579
 #16|@Lili-ai|2572
 #17|@rascal1|2415
@@ -191,7 +191,7 @@ Rank|Bot|Rating
 #189|@Happy_One|1207
 #190|@St6090|1191
 #191|@ChessLLModel|1178
-#192|@reaper1bot|1178
+#192|@reaper1bot|1169
 #193|@BetaOneBot|1166
 #194|@ZX-Chess|1145
 #195|@duythong1402|1120

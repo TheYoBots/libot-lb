@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@nickl1bot|1761
 #9|@spyros1bot|1583
 #10|@Lancelbot|1567
-#11|@hashcake1|1382
-#12|@DavidsGuterBot|1274
-#13|@reaper1bot|1274
+#11|@hashcake1|1389
+#12|@reaper1bot|1300
+#13|@DavidsGuterBot|1263
 #14|@genesis1bot|1097
-#15|@pawnrobot|1086
+#15|@pawnrobot|1082
