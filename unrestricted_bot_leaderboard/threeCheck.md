@@ -40,9 +40,9 @@ Rank|Bot|Rating
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
 #40|@Worst-ai|2296
-#41|@rascal1|2289
-#42|@KingfishX|2285
-#43|@The-Fastest-Bot|2277
+#41|@KingfishX|2285
+#42|@The-Fastest-Bot|2277
+#43|@rascal1|2275
 #44|@CocopikachuBOT|2274
 #45|@TheMatrix2025|2272
 #46|@vrnts_colinbot|2266
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@mrchessmanager|1963
 #95|@Team_bot_08512|1963
 #96|@Botzer|1961
-#97|@rachl1|1961
+#97|@rachl1|1959
 #98|@Lili-Variants|1955
 #99|@lightspeed_bot|1951
 #100|@pistol-play|1939

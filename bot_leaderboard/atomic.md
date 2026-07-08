@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@Bot1nokk|2337
 #3|@SF_Bot1nok|2327
 #4|@DarkOnBot|2286
-#5|@ToromBot|2254
-#6|@rascal1|2250
+#5|@rascal1|2259
+#6|@ToromBot|2254
 #7|@beastie1|2099
 #8|@calico1|2052
 #9|@OSaurus|1980
@@ -16,4 +16,4 @@ Rank|Bot|Rating
 #14|@reaper1bot|1210
 #15|@pawnrobot|1182
 #16|@genesis1bot|1178
-#17|@StockfishLowDepth|1134
+#17|@StockfishLowDepth|1131
