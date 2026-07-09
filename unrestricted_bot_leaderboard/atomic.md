@@ -353,14 +353,14 @@ Rank|Bot|Rating
 #351|@Lozza-Bot|1198
 #352|@puisne|1197
 #353|@ElFinsBoT|1191
-#354|@pawnrobot|1189
+#354|@pawnrobot|1188
 #355|@genesis1bot|1178
 #356|@GuineaBot2|1173
 #357|@clrsrc_lc0|1168
 #358|@Jaymombot|1166
 #359|@SipsonsamsonBOT|1161
 #360|@Happy_One|1138
-#361|@StockfishLowDepth|1131
+#361|@StockfishLowDepth|1130
 #362|@Pawn_Stormer_D4|1124
 #363|@the_nicholas_bot|1110
 #364|@MyNameIsSpeedy|1108
