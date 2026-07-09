@@ -12,6 +12,6 @@ Rank|Bot|Rating
 #10|@Lancelbot|1567
 #11|@hashcake1|1389
 #12|@reaper1bot|1300
-#13|@DavidsGuterBot|1263
+#13|@DavidsGuterBot|1262
 #14|@genesis1bot|1097
 #15|@pawnrobot|1082

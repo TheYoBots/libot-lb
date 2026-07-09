@@ -55,10 +55,10 @@ Rank|Bot|Rating
 #53|@SF_Bot1nok|2218
 #54|@calico1|2215
 #55|@Vinh_VariantsBot|2215
-#56|@Kizburb|2214
-#57|@xiang-qi|2207
-#58|@YellowFlash_v2|2200
-#59|@is_BOSS|2199
+#56|@is_BOSS|2214
+#57|@Kizburb|2214
+#58|@xiang-qi|2207
+#59|@YellowFlash_v2|2200
 #60|@DeepFriedFish|2185
 #61|@OSaurus|2183
 #62|@virus_exe-bot|2180

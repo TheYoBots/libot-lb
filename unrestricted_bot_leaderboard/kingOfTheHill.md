@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@Variantenkoning|1892
 #103|@PetersTestBot|1890
 #104|@MistakeBOT|1886
-#105|@EagleEye2021|1880
-#106|@is_BOSS|1878
+#105|@is_BOSS|1885
+#106|@EagleEye2021|1880
 #107|@xiang-qi|1868
 #108|@que-hyper|1865
 #109|@relevantproblem|1857
@@ -187,7 +187,7 @@ Rank|Bot|Rating
 #185|@Hand_coded_ai_90565|1292
 #186|@NoTallkOnlyGames|1291
 #187|@jasans_bot|1268
-#188|@DavidsGuterBot|1263
+#188|@DavidsGuterBot|1262
 #189|@ChessChipBot|1258
 #190|@Hrant_Petrosyan_BOT|1258
 #191|@HiddeNL|1242

@@ -10,9 +10,8 @@ Rank|Bot|Rating
 #8|@nickl1bot|1857
 #9|@JemBok|1831
 #10|@clementyne1|1824
-#11|@spyros1bot|1689
-#12|@Lancelbot|1644
-#13|@hashcake1|1389
-#14|@reaper1bot|1375
-#15|@genesis1bot|1270
-#16|@DavidsGuterBot|1222
+#11|@Lancelbot|1644
+#12|@hashcake1|1389
+#13|@reaper1bot|1375
+#14|@genesis1bot|1270
+#15|@DavidsGuterBot|1222

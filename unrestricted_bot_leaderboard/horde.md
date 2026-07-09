@@ -6,13 +6,13 @@ Rank|Bot|Rating
 #4|@ToromBot|2764
 #5|@Coolman2021|2757
 #6|@Magicianrobot|2741
-#7|@RaspFish|2739
+#7|@RaspFish|2732
 #8|@FireFishBOT|2726
 #9|@PepsiForAll|2699
-#10|@abdcebot|2678
+#10|@abdcebot|2683
 #11|@SF_Bot1nok|2600
-#12|@bot1e|2591
-#13|@Bot1nokk|2589
+#12|@Bot1nokk|2592
+#13|@bot1e|2591
 #14|@ttBOT|2584
 #15|@compchess2|2579
 #16|@Lili-ai|2572

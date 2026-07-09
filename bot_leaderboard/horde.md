@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2678
+#1|@abdcebot|2683
 #2|@SF_Bot1nok|2600
-#3|@bot1e|2591
-#4|@Bot1nokk|2589
+#3|@Bot1nokk|2592
+#4|@bot1e|2591
 #5|@rascal1|2415
 #6|@DarkOnBot|2358
 #7|@beastie1|2279

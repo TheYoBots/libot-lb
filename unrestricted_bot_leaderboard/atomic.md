@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@BitExtender128|2526
 #16|@ResoluteBot|2525
 #17|@Yebot|2518
-#18|@is_BOSS|2516
+#18|@is_BOSS|2517
 #19|@CatBot_14|2514
 #20|@EmptikBot|2510
 #21|@chessbot2880|2509
@@ -353,8 +353,8 @@ Rank|Bot|Rating
 #351|@Lozza-Bot|1198
 #352|@puisne|1197
 #353|@ElFinsBoT|1191
-#354|@genesis1bot|1178
-#355|@pawnrobot|1175
+#354|@pawnrobot|1189
+#355|@genesis1bot|1178
 #356|@GuineaBot2|1173
 #357|@clrsrc_lc0|1168
 #358|@Jaymombot|1166
