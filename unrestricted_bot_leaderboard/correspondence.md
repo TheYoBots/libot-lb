@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@maia3-79m_800|3007
 #2|@fibonachi|2956
 #3|@Grzechu86|2852
-#4|@Moment-That-Inspires|2754
+#4|@Moment-That-Inspires|2747
 #5|@Magicianrobot|2740
 #6|@AjedrezChamberi|2651
 #7|@H-Zero|2650
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@Shocky_BOT|2344
 #35|@chmod-bot|2340
 #36|@HansNiemannBot|2338
-#37|@Blunderbuss-bot|2321
+#37|@Blunderbuss-bot|2312
 #38|@bekbot|2307
 #39|@Magnus-BOT|2304
 #40|@AVeryBigMistake|2301
@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@Bot_of_jotim431|2227
 #62|@Tundra4|2227
 #63|@SEtheChessGod|2224
-#64|@Abuziddin-BOT|2219
-#65|@OpeningsBot|2209
+#64|@OpeningsBot|2221
+#65|@Abuziddin-BOT|2219
 #66|@BalloonBot|2204
 #67|@AbhijithHISBot|2201
 #68|@Ar4Asd1-BOT|2197

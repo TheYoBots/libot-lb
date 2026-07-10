@@ -9,8 +9,7 @@ Rank|Bot|Rating
 #7|@nickl1bot|1857
 #8|@JemBok|1831
 #9|@clementyne1|1824
-#10|@Lancelbot|1644
-#11|@hashcake1|1389
-#12|@reaper1bot|1375
-#13|@genesis1bot|1270
-#14|@DavidsGuterBot|1222
+#10|@hashcake1|1389
+#11|@reaper1bot|1375
+#12|@genesis1bot|1270
+#13|@DavidsGuterBot|1222

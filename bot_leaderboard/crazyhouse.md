@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@SF_Bot1nok|2648
+#1|@SF_Bot1nok|2637
 #2|@Bot1nokk|2597
 #3|@rascal1|2592
 #4|@bot1e|2546

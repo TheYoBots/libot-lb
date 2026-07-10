@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@OSaurus|1924
 #7|@OpeningsBot|1801
 #8|@kowalabi|1788
-#9|@QiOui|1782
-#10|@StockfishLowDepth|1776
+#9|@StockfishLowDepth|1783
+#10|@QiOui|1782
 #11|@rachl1|1741
 #12|@nickl1bot|1596
 #13|@JemBok|1595
