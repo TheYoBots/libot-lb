@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@LeelaZero-UK|2585
 #11|@CheckmateX1|2556
 #12|@Alexnajax_Fan|2549
-#13|@pawn_git|2530
+#13|@pawn_git|2539
 #14|@peonasesino71|2512
 #15|@ServerFish|2494
 #16|@colinbot|2492
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Tundra4|2227
 #63|@SEtheChessGod|2224
 #64|@Abuziddin-BOT|2219
-#65|@OpeningsBot|2213
+#65|@OpeningsBot|2209
 #66|@BalloonBot|2204
 #67|@AbhijithHISBot|2201
 #68|@Ar4Asd1-BOT|2197

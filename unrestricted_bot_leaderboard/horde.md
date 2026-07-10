@@ -6,10 +6,10 @@ Rank|Bot|Rating
 #4|@ToromBot|2764
 #5|@Coolman2021|2757
 #6|@Magicianrobot|2741
-#7|@RaspFish|2732
-#8|@FireFishBOT|2726
-#9|@PepsiForAll|2699
-#10|@abdcebot|2689
+#7|@FireFishBOT|2726
+#8|@RaspFish|2702
+#9|@abdcebot|2701
+#10|@PepsiForAll|2699
 #11|@SF_Bot1nok|2606
 #12|@Bot1nokk|2599
 #13|@ttBOT|2584

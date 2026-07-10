@@ -360,8 +360,8 @@ Rank|Bot|Rating
 #358|@Jaymombot|1166
 #359|@SipsonsamsonBOT|1161
 #360|@Happy_One|1138
-#361|@StockfishLowDepth|1130
-#362|@Pawn_Stormer_D4|1124
+#361|@Pawn_Stormer_D4|1124
+#362|@StockfishLowDepth|1117
 #363|@the_nicholas_bot|1110
 #364|@MyNameIsSpeedy|1108
 #365|@tuxbot9000|1101

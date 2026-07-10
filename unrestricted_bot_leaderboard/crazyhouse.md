@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@Magnus-BOT|1986
 #103|@Stockfish-MEDIUM|1983
 #104|@PyChessBot|1978
-#105|@abdcebot|1973
+#105|@abdcebot|1966
 #106|@ESC_BOT|1966
 #107|@mrchessmanager|1962
 #108|@nickl1bot|1952

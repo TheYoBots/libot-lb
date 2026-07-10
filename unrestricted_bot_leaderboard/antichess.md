@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@EmptikBot|3070
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
-#4|@abdcebot|3001
+#4|@abdcebot|2998
 #5|@UltimateVariants|2978
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2944
@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@MEGA-NOOB-BOT|2831
 #15|@TorBot|2824
 #16|@WennDieSoldatBOT|2818
-#17|@TacticalBot|2796
-#18|@RaspFish|2793
+#17|@RaspFish|2798
+#18|@TacticalBot|2796
 #19|@varient-chess-bot1|2792
 #20|@lord-bot|2789
 #21|@FireFishBOT|2785
@@ -164,8 +164,8 @@ Rank|Bot|Rating
 #162|@XXIstCentury|2131
 #163|@OpeningsBot|2119
 #164|@Stockfish-MEDIUM|2117
-#165|@NilatacBot|2104
-#166|@PyChessBot|2102
+#165|@PyChessBot|2102
+#166|@NilatacBot|2100
 #167|@TurkiyeHogwartsBOT|2099
 #168|@ZamuChess|2049
 #169|@Botzer|2020
