@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@maia3-79m_800|3007
 #2|@fibonachi|2956
 #3|@Grzechu86|2852
-#4|@Moment-That-Inspires|2747
+#4|@Moment-That-Inspires|2744
 #5|@Magicianrobot|2740
 #6|@AjedrezChamberi|2651
 #7|@H-Zero|2650

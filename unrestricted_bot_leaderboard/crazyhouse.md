@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@CrazyAra|2839
 #5|@Corvus-1|2820
 #6|@Kizburb|2815
-#7|@ToromBot|2760
+#7|@ToromBot|2765
 #8|@Viet-AI|2756
 #9|@VariantsBot|2754
 #10|@CheckmateX1|2736

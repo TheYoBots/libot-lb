@@ -100,7 +100,7 @@ Rank|Bot|Rating
 #98|@varient-chess-bot1|1936
 #99|@HyperLitikBOT|1930
 #100|@PumpkinLatteBob|1926
-#101|@MEGA-NOOB-BOT|1912
+#101|@MEGA-NOOB-BOT|1914
 #102|@DrSmartBugs|1904
 #103|@kowalabi|1900
 #104|@Variantenkoning|1892

@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@DarkOnBot|2650
 #41|@MalanChess|2638
 #42|@vrnts_colinbot|2637
-#43|@MEGA-NOOB-BOT|2628
-#44|@rascal1|2628
+#43|@rascal1|2628
+#44|@MEGA-NOOB-BOT|2624
 #45|@HIWIN1234|2623
 #46|@Kizbuurb|2621
 #47|@Lili-ai|2619
@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@Hyper-Stockfish|2230
 #139|@CocopikachuBOT|2226
 #140|@TungJohn|2225
-#141|@anti-bot|2221
+#141|@anti-bot|2223
 #142|@Good-Game-123|2221
 #143|@The-Fastest-Bot|2218
 #144|@kowalabi|2216
@@ -162,9 +162,9 @@ Rank|Bot|Rating
 #160|@AnUtterlyKarBot|2134
 #161|@rachl1|2133
 #162|@XXIstCentury|2131
-#163|@OpeningsBot|2119
-#164|@Stockfish-MEDIUM|2117
-#165|@NilatacBot|2112
+#163|@NilatacBot|2119
+#164|@OpeningsBot|2119
+#165|@Stockfish-MEDIUM|2117
 #166|@PyChessBot|2102
 #167|@TurkiyeHogwartsBOT|2099
 #168|@ZamuChess|2049
@@ -181,8 +181,8 @@ Rank|Bot|Rating
 #179|@antichesssss|1964
 #180|@Menganti|1963
 #181|@CloudBOT|1950
-#182|@TestingBot1|1914
-#183|@CatNail|1896
+#182|@CatNail|1916
+#183|@TestingBot1|1914
 #184|@Crepusculum|1881
 #185|@NoTallkOnlyGames|1871
 #186|@Lumac0|1861

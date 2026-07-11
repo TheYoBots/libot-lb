@@ -64,9 +64,9 @@ Rank|Bot|Rating
 #62|@AndromedaSX1|2284
 #63|@vrnts_colinbot|2282
 #64|@TheMatrix2029|2278
-#65|@MEGA-NOOB-BOT|2273
-#66|@BGSBot|2272
-#67|@AtomicVsEngineBot|2268
+#65|@BGSBot|2272
+#66|@AtomicVsEngineBot|2268
+#67|@MEGA-NOOB-BOT|2268
 #68|@xiang-qi|2268
 #69|@CocopikachuBOT|2265
 #70|@chesshyperbot|2260
@@ -100,8 +100,8 @@ Rank|Bot|Rating
 #98|@Bobby_Fischer_BOT|2177
 #99|@TheMatrix2025|2176
 #100|@ChessBot3021|2174
-#101|@Worldplayer035bot|2173
-#102|@RaspFish|2170
+#101|@RaspFish|2173
+#102|@Worldplayer035bot|2173
 #103|@Magnus-BOT|2169
 #104|@OurBot|2166
 #105|@CrayyBot|2165
