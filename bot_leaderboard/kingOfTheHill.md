@@ -1,10 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@rascal1|2351
-#2|@beastie1|2178
-#3|@spyros1bot|1583
-#4|@Lancelbot|1567
-#5|@hashcake1|1389
-#6|@reaper1bot|1300
-#7|@DavidsGuterBot|1262
-#8|@pawnrobot|1082
+#2|@spyros1bot|1583
+#3|@Lancelbot|1567
+#4|@hashcake1|1389
+#5|@reaper1bot|1300
+#6|@DavidsGuterBot|1262
+#7|@pawnrobot|1082

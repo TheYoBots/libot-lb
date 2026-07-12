@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@rascal1|2592
 #29|@DarkOnBot|2585
 #30|@EmptikVariantsBot|2548
-#31|@bot1e|2546
-#32|@BotSuxX|2538
+#31|@BotSuxX|2538
+#32|@bot1e|2535
 #33|@LudwigBOT|2527
 #34|@X2-ITL|2501
 #35|@Berserk12-X|2467
@@ -111,9 +111,9 @@ Rank|Bot|Rating
 #109|@Hyper-Stockfish|1947
 #110|@PolyBOT|1945
 #111|@JemBok|1942
-#112|@MEGA-NOOB-BOT|1933
-#113|@OpeningsBot|1931
-#114|@is_BOSS|1929
+#112|@OpeningsBot|1931
+#113|@is_BOSS|1929
+#114|@MEGA-NOOB-BOT|1927
 #115|@clementyne1|1923
 #116|@AndromedaSX1|1919
 #117|@Lili-ai|1911

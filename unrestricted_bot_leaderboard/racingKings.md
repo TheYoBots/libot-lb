@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@The-Fastest-Bot|2402
 #44|@lightspeed_bot|2396
 #45|@thibot|2393
-#46|@ToromBot|2382
+#46|@ToromBot|2388
 #47|@Jussicas|2373
 #48|@TheMatrix2025|2368
 #49|@Lili-Variants|2357
@@ -66,13 +66,13 @@ Rank|Bot|Rating
 #64|@KingfishX|2312
 #65|@Viet-BOT|2312
 #66|@IAMSTOCKFISH123|2307
-#67|@Bot1nokk|2297
+#67|@Bot1nokk|2296
 #68|@TestingBot1|2294
 #69|@NormalBulletBot|2291
 #70|@YoBot_v2|2287
 #71|@AlfaBot|2278
-#72|@MEGA-NOOB-BOT|2274
-#73|@gage12_bot|2266
+#72|@gage12_bot|2266
+#73|@MEGA-NOOB-BOT|2265
 #74|@Mega_BOT|2264
 #75|@MalanChess|2261
 #76|@chesshyperbot|2259
@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@xiang-qi|2113
 #102|@atomicli|2111
 #103|@Trumpfor2O2O|2103
-#104|@is_BOSS|2086
+#104|@is_BOSS|2082
 #105|@PetersTestBot|2081
 #106|@CloudBOT|2073
 #107|@beastie1|2055

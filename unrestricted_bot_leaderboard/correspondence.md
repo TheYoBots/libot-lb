@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@maia3-79m_800|3019
 #2|@fibonachi|2956
 #3|@Grzechu86|2852
-#4|@Moment-That-Inspires|2744
+#4|@Moment-That-Inspires|2742
 #5|@Magicianrobot|2740
 #6|@AjedrezChamberi|2651
 #7|@H-Zero|2650
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Lila-Stockfish|2238
 #56|@chesshyperbot|2236
 #57|@Dean_Summer_Bot|2236
-#58|@OpeningsBot|2235
+#58|@OpeningsBot|2233
 #59|@DrSmartBugs|2230
 #60|@Jobabot|2229
 #61|@ttBOT|2229
