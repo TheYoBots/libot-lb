@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@Hyper-Stockfish|2230
 #139|@CocopikachuBOT|2226
 #140|@TungJohn|2225
-#141|@anti-bot|2223
+#141|@anti-bot|2221
 #142|@Good-Game-123|2221
 #143|@The-Fastest-Bot|2218
 #144|@kowalabi|2216
@@ -182,7 +182,7 @@ Rank|Bot|Rating
 #180|@Menganti|1963
 #181|@CloudBOT|1950
 #182|@TestingBot1|1914
-#183|@CatNail|1902
+#183|@CatNail|1896
 #184|@Crepusculum|1881
 #185|@NoTallkOnlyGames|1871
 #186|@Lumac0|1861

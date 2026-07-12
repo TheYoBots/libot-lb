@@ -167,11 +167,11 @@ Rank|Bot|Rating
 #165|@ChessBot3021|1483
 #166|@PyChessBot|1480
 #167|@IGotNoName|1477
-#168|@KarimBOT|1472
-#169|@SLvov-bot|1466
-#170|@Bobby_Fishcer_Bot|1458
-#171|@BOT-2021|1453
-#172|@StockfishLowDepth|1452
+#168|@StockfishLowDepth|1474
+#169|@KarimBOT|1472
+#170|@SLvov-bot|1466
+#171|@Bobby_Fishcer_Bot|1458
+#172|@BOT-2021|1453
 #173|@bfdzvfsgaergfds|1444
 #174|@VedanthS-Bot|1443
 #175|@Botyuliirma|1442
