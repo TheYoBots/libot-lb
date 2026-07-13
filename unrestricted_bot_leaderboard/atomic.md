@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@CatBot_14|2514
 #19|@EmptikBot|2510
 #20|@chessbot2880|2509
-#21|@is_BOSS|2503
-#22|@ibep|2498
+#21|@ibep|2498
+#22|@is_BOSS|2498
 #23|@ElPeonElectrico|2490
 #24|@firstrobot|2485
 #25|@CheckmateX1|2481
@@ -51,8 +51,8 @@ Rank|Bot|Rating
 #49|@HyperLitikBOT|2341
 #50|@LudwigBOT|2339
 #51|@NotNateBot|2336
-#52|@Bot1nokk|2325
-#53|@SF_Bot1nok|2316
+#52|@SF_Bot1nok|2326
+#53|@Bot1nokk|2319
 #54|@The-Fastest-Bot|2314
 #55|@Alehkine_cat|2312
 #56|@Team_bot_08512|2307
@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@DarkOnBot|2286
 #62|@AndromedaSX1|2284
 #63|@vrnts_colinbot|2282
-#64|@TheMatrix2029|2278
-#65|@MEGA-NOOB-BOT|2274
+#64|@MEGA-NOOB-BOT|2280
+#65|@TheMatrix2029|2278
 #66|@BGSBot|2272
 #67|@AtomicVsEngineBot|2268
 #68|@xiang-qi|2268
@@ -363,7 +363,7 @@ Rank|Bot|Rating
 #361|@Pawn_Stormer_D4|1124
 #362|@the_nicholas_bot|1110
 #363|@MyNameIsSpeedy|1108
-#364|@StockfishLowDepth|1105
+#364|@StockfishLowDepth|1103
 #365|@tuxbot9000|1101
 #366|@bobby-bot|1085
 #367|@Official_bot|1082

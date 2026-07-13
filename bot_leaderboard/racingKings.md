@@ -7,7 +7,6 @@ Rank|Bot|Rating
 #5|@StockfishLowDepth|1783
 #6|@nickl1bot|1596
 #7|@JemBok|1595
-#8|@Lancelbot|1365
-#9|@hashcake1|1254
-#10|@reaper1bot|1167
-#11|@genesis1bot|1020
+#8|@hashcake1|1254
+#9|@reaper1bot|1167
+#10|@genesis1bot|1020
