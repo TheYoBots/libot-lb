@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Lila-Stockfish|2238
 #56|@chesshyperbot|2236
 #57|@Dean_Summer_Bot|2236
-#58|@OpeningsBot|2233
+#58|@OpeningsBot|2232
 #59|@DrSmartBugs|2230
 #60|@Jobabot|2229
 #61|@ttBOT|2229

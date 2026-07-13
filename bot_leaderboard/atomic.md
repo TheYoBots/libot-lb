@@ -8,4 +8,4 @@ Rank|Bot|Rating
 #6|@reaper1bot|1210
 #7|@pawnrobot|1188
 #8|@genesis1bot|1178
-#9|@StockfishLowDepth|1110
+#9|@StockfishLowDepth|1105

@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@EmptikBot|3070
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
-#4|@abdcebot|2988
+#4|@abdcebot|2984
 #5|@UltimateVariants|2978
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2944
@@ -138,9 +138,9 @@ Rank|Bot|Rating
 #136|@EagleEye2021|2235
 #137|@chesshyperbot|2234
 #138|@Hyper-Stockfish|2230
-#139|@CocopikachuBOT|2226
-#140|@TungJohn|2225
-#141|@anti-bot|2221
+#139|@anti-bot|2227
+#140|@CocopikachuBOT|2226
+#141|@TungJohn|2225
 #142|@Good-Game-123|2221
 #143|@The-Fastest-Bot|2218
 #144|@kowalabi|2216

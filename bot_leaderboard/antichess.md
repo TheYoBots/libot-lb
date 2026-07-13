@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2988
+#1|@abdcebot|2984
 #2|@ToromBot|2944
 #3|@bot1e|2894
 #4|@Bot1nokk|2881
 #5|@SF_Bot1nok|2877
 #6|@RaspFish|2803
 #7|@rascal1|2628
-#8|@anti-bot|2221
+#8|@anti-bot|2227
 #9|@NilatacBot|2176
 #10|@nickl1bot|2020
 #11|@JemBok|2019
