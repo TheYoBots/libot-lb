@@ -7,10 +7,10 @@ Rank|Bot|Rating
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
 #7|@TacticalBot|2439
-#8|@Peaceful4Life|2390
-#9|@Corvus-1|2386
-#10|@FireFishBOT|2385
-#11|@ToromBot|2383
+#8|@ToromBot|2393
+#9|@Peaceful4Life|2390
+#10|@Corvus-1|2386
+#11|@FireFishBOT|2385
 #12|@tbhOnBot|2379
 #13|@Coolman2021|2378
 #14|@chessbot2880|2377

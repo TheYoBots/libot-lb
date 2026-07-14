@@ -10,6 +10,5 @@ Rank|Bot|Rating
 #8|@JemBok|1945
 #9|@spyros1bot|1645
 #10|@Lancelbot|1584
-#11|@hashcake1|1252
-#12|@pawnrobot|1218
-#13|@reaper1bot|1169
+#11|@pawnrobot|1218
+#12|@reaper1bot|1169

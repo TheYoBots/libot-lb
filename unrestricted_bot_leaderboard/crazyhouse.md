@@ -94,8 +94,8 @@ Rank|Bot|Rating
 #92|@Tacticall_Bot|2075
 #93|@GodelEscherBot|2071
 #94|@TheLegitLegend2|2059
-#95|@PowerOnBot|2050
-#96|@abdcebot|2042
+#95|@abdcebot|2056
+#96|@PowerOnBot|2050
 #97|@Jussicas|2035
 #98|@thibot|2032
 #99|@Less_of_a_threat|2025

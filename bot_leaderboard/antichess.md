@@ -14,7 +14,6 @@ Rank|Bot|Rating
 #12|@CatNail|1894
 #13|@Lancelbot|1427
 #14|@pawnrobot|1394
-#15|@StockfishLowDepth|1352
-#16|@hashcake1|924
-#17|@reaper1bot|862
-#18|@genesis1bot|748
+#15|@StockfishLowDepth|1357
+#16|@reaper1bot|862
+#17|@genesis1bot|748

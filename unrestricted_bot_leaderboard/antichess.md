@@ -300,7 +300,7 @@ Rank|Bot|Rating
 #298|@pussaW|1361
 #299|@TheLegitLegend2|1360
 #300|@BinaryBrain|1357
-#301|@StockfishLowDepth|1352
+#301|@StockfishLowDepth|1357
 #302|@allvariants|1350
 #303|@NeilDandekarBot|1350
 #304|@ZokBot|1336
@@ -314,9 +314,9 @@ Rank|Bot|Rating
 #312|@MeetNarangBOT|1287
 #313|@KaTHHHH|1264
 #314|@chicken_farmer|1241
-#315|@PranavChessBot|1212
-#316|@Toxic_Bot|1202
-#317|@puisne|1189
+#315|@puisne|1227
+#316|@PranavChessBot|1212
+#317|@Toxic_Bot|1202
 #318|@Ar4Asd1-BOT|1181
 #319|@DespacitoBot|1175
 #320|@BogoBot|1155

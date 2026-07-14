@@ -51,10 +51,10 @@ Rank|Bot|Rating
 #49|@Lili-Variants|2357
 #50|@DarkOnBot|2347
 #51|@Viet_BOT|2344
-#52|@virus_exe-bot|2342
-#53|@SF_Bot1nok|2340
-#54|@BotsFanClub|2338
-#55|@RaspFish|2337
+#52|@RaspFish|2343
+#53|@virus_exe-bot|2342
+#54|@SF_Bot1nok|2340
+#55|@BotsFanClub|2338
 #56|@abdcebot|2336
 #57|@EvenMatchup|2336
 #58|@ibep|2333

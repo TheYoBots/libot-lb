@@ -3,8 +3,7 @@ Rank|Bot|Rating
 #1|@is_BOSS|2498
 #2|@SF_Bot1nok|2326
 #3|@Bot1nokk|2319
-#4|@MEGA-NOOB-BOT|2280
-#5|@rascal1|2259
-#6|@hashcake1|1264
-#7|@pawnrobot|1188
-#8|@StockfishLowDepth|1103
+#4|@rascal1|2259
+#5|@hashcake1|1264
+#6|@pawnrobot|1188
+#7|@StockfishLowDepth|1097
