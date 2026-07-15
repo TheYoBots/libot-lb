@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2474
-#2|@SF_Bot1nok|2320
-#3|@Bot1nokk|2319
-#4|@MEGA-NOOB-BOT|2318
-#5|@hashcake1|1264
-#6|@pawnrobot|1188
+#1|@is_BOSS|2346
+#2|@MEGA-NOOB-BOT|2336
+#3|@SF_Bot1nok|2320
+#4|@Bot1nokk|2308
+#5|@pawnrobot|1188
+#6|@puisne|1183
 #7|@StockfishLowDepth|1125
