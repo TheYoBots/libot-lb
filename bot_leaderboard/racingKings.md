@@ -3,8 +3,7 @@ Rank|Bot|Rating
 #1|@ToromBot|2388
 #2|@RaspFish|2343
 #3|@SF_Bot1nok|2336
-#4|@rascal1|2324
-#5|@StockfishLowDepth|1783
-#6|@hashcake1|1254
-#7|@reaper1bot|1167
-#8|@genesis1bot|1020
+#4|@StockfishLowDepth|1783
+#5|@hashcake1|1254
+#6|@reaper1bot|1167
+#7|@genesis1bot|1020

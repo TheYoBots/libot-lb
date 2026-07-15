@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@EmptikBot|3070
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
-#4|@abdcebot|2993
+#4|@abdcebot|2997
 #5|@UltimateVariants|2978
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2946
@@ -126,8 +126,8 @@ Rank|Bot|Rating
 #124|@NienishiEngine|2304
 #125|@BromiumAI|2302
 #126|@EvenMatchup|2302
-#127|@is_BOSS|2287
-#128|@GodelEscherBot|2284
+#127|@GodelEscherBot|2284
+#128|@is_BOSS|2284
 #129|@HakoAI|2283
 #130|@MEGA-NOOB-BOT|2282
 #131|@Dean_Summer_Bot|2279
@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@EagleEye2021|2235
 #137|@chesshyperbot|2234
 #138|@Hyper-Stockfish|2230
-#139|@anti-bot|2227
+#139|@anti-bot|2228
 #140|@CocopikachuBOT|2226
 #141|@TungJohn|2225
 #142|@Good-Game-123|2221
@@ -313,8 +313,8 @@ Rank|Bot|Rating
 #311|@GuineaBot3|1297
 #312|@MeetNarangBOT|1287
 #313|@KaTHHHH|1264
-#314|@chicken_farmer|1241
-#315|@puisne|1224
+#314|@puisne|1256
+#315|@chicken_farmer|1241
 #316|@PranavChessBot|1212
 #317|@Toxic_Bot|1202
 #318|@Ar4Asd1-BOT|1181

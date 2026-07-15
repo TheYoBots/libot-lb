@@ -95,7 +95,7 @@ Rank|Bot|Rating
 #93|@GodelEscherBot|2071
 #94|@MEGA-NOOB-BOT|2068
 #95|@TheLegitLegend2|2059
-#96|@abdcebot|2056
+#96|@abdcebot|2051
 #97|@PowerOnBot|2050
 #98|@Jussicas|2035
 #99|@thibot|2032

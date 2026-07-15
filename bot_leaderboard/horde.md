@@ -5,6 +5,5 @@ Rank|Bot|Rating
 #3|@bot1e|2609
 #4|@SF_Bot1nok|2593
 #5|@RaspFish|2583
-#6|@rascal1|2415
-#7|@pawnrobot|1211
-#8|@reaper1bot|1169
+#6|@pawnrobot|1211
+#7|@reaper1bot|1169

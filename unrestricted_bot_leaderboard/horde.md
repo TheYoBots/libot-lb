@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@chessbot2880|2098
 #59|@Galaxy_Guardian|2096
 #60|@StockfishLowDepth|2091
-#61|@OpeningsBot|2089
+#61|@OpeningsBot|2085
 #62|@QiOui|2083
 #63|@KingfishX|2081
 #64|@iplayonlyrandom|2075
