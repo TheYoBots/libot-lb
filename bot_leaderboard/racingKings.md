@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@ToromBot|2388
 #2|@RaspFish|2343
 #3|@SF_Bot1nok|2336
-#4|@MEGA-NOOB-BOT|2178
-#5|@is_BOSS|2152
+#4|@MEGA-NOOB-BOT|2193
+#5|@is_BOSS|2143
 #6|@OpeningsBot|1793
 #7|@StockfishLowDepth|1783
