@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@SixtyFourEngine|2089
 #91|@relevantproblem|2077
 #92|@Tacticall_Bot|2075
-#93|@abdcebot|2074
-#94|@GodelEscherBot|2071
+#93|@GodelEscherBot|2071
+#94|@abdcebot|2069
 #95|@TheLegitLegend2|2059
 #96|@PowerOnBot|2050
 #97|@MEGA-NOOB-BOT|2041

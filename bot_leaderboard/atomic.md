@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@MEGA-NOOB-BOT|2336
 #3|@SF_Bot1nok|2320
 #4|@Bot1nokk|2308
-#5|@pawnrobot|1188
-#6|@puisne|1183
-#7|@StockfishLowDepth|1125
+#5|@puisne|1224
+#6|@pawnrobot|1188
+#7|@StockfishLowDepth|1110

@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2608
 #4|@SF_Bot1nok|2607
 #5|@RaspFish|2576
-#6|@pawnrobot|1211
+#6|@pawnrobot|1234

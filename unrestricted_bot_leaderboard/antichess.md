@@ -137,8 +137,8 @@ Rank|Bot|Rating
 #135|@TurkiyeHogwarts|2240
 #136|@EagleEye2021|2235
 #137|@chesshyperbot|2234
-#138|@Hyper-Stockfish|2230
-#139|@anti-bot|2229
+#138|@anti-bot|2231
+#139|@Hyper-Stockfish|2230
 #140|@CocopikachuBOT|2226
 #141|@TungJohn|2225
 #142|@Good-Game-123|2221
@@ -148,9 +148,9 @@ Rank|Bot|Rating
 #146|@SaturnBot|2214
 #147|@xDmanBOT|2214
 #148|@YellowFlash_v2|2214
-#149|@NilatacBot|2209
-#150|@CoderDen732|2207
-#151|@NormalBlitzBulletBot|2205
+#149|@CoderDen732|2207
+#150|@NormalBlitzBulletBot|2205
+#151|@NilatacBot|2202
 #152|@EstmileBot|2200
 #153|@zipfile_chess-bot|2200
 #154|@HerokuHasnotplay|2196
@@ -313,7 +313,7 @@ Rank|Bot|Rating
 #311|@GuineaBot3|1297
 #312|@MeetNarangBOT|1287
 #313|@KaTHHHH|1264
-#314|@puisne|1256
+#314|@puisne|1254
 #315|@chicken_farmer|1241
 #316|@PranavChessBot|1212
 #317|@Toxic_Bot|1202

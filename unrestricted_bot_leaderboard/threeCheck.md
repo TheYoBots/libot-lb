@@ -49,8 +49,8 @@ Rank|Bot|Rating
 #47|@YoBot_v2|2257
 #48|@DarkOnBot|2251
 #49|@Bot1nokk|2245
-#50|@OlympusCz|2231
-#51|@RaspFish|2230
+#50|@RaspFish|2233
+#51|@OlympusCz|2231
 #52|@beastie1|2226
 #53|@calico1|2215
 #54|@Vinh_VariantsBot|2215
@@ -211,7 +211,7 @@ Rank|Bot|Rating
 #209|@Ujwal1001|1179
 #210|@Just-a-random-bot|1171
 #211|@duythong1402|1165
-#212|@pawnrobot|1158
+#212|@pawnrobot|1157
 #213|@Boom_Bot|1155
 #214|@thousandatom|1154
 #215|@MyNameIsSpeeedy|1147

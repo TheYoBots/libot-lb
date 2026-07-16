@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@Bot1nokk|2881
 #6|@RaspFish|2785
 #7|@MEGA-NOOB-BOT|2278
-#8|@anti-bot|2229
-#9|@NilatacBot|2209
+#8|@anti-bot|2231
+#9|@NilatacBot|2202
 #10|@CatNail|1893
 #11|@pawnrobot|1394
 #12|@StockfishLowDepth|1357
-#13|@puisne|1256
+#13|@puisne|1254
