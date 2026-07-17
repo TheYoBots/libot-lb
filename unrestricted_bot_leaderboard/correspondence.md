@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@robiachess|2295
 #43|@Quanticade|2286
 #44|@mrohCentaur|2285
-#45|@Blunderbuss-bot|2276
-#46|@OpeningsBot|2274
+#45|@Blunderbuss-bot|2279
+#46|@OpeningsBot|2275
 #47|@Toodfish|2273
 #48|@Cheng-4|2269
 #49|@ChessatronBot|2257

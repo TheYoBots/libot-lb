@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Coolman2021|2757
 #6|@Magicianrobot|2741
 #7|@FireFishBOT|2726
-#8|@abdcebot|2716
+#8|@abdcebot|2720
 #9|@PepsiForAll|2699
 #10|@Bot1nokk|2616
 #11|@bot1e|2608
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@xDmanBOT|1258
 #184|@yobmef|1258
 #185|@hashcake1|1252
-#186|@pawnrobot|1244
+#186|@pawnrobot|1252
 #187|@TheSystem_Bot|1218
 #188|@GuineaBot3|1212
 #189|@admin-bot|1209

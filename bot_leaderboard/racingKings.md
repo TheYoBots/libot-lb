@@ -5,5 +5,7 @@ Rank|Bot|Rating
 #3|@SF_Bot1nok|2336
 #4|@MEGA-NOOB-BOT|2193
 #5|@is_BOSS|2143
-#6|@OpeningsBot|1793
-#7|@StockfishLowDepth|1783
+#6|@calico1|1967
+#7|@OSaurus|1962
+#8|@OpeningsBot|1785
+#9|@StockfishLowDepth|1783

@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@PowerOnBot|2195
 #44|@UnDisstoppableBot|2193
 #45|@Amrobotone|2184
-#46|@beastie1|2178
+#46|@beastie1|2167
 #47|@eNErGyOFbEiNGbOT|2166
 #48|@HuxZero|2163
 #49|@Bot1nokk|2159
@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@Jussicas|2086
 #64|@Kizburb|2086
 #65|@Dean_Summer_Bot|2085
-#66|@calico1|2079
-#67|@ibep|2078
+#66|@ibep|2078
+#67|@calico1|2076
 #68|@Xerus_1|2076
 #69|@newengine2022|2071
 #70|@vrnts_colinbot|2068
@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@CloudBot_v2|2027
 #77|@Lili-ai|2027
 #78|@faith_bot|2026
-#79|@OSaurus|2017
-#80|@VariantsTop|2014
+#79|@VariantsTop|2014
+#80|@OSaurus|2013
 #81|@virus_exe-bot|2013
 #82|@CocopikachuBOT|2009
 #83|@lightspeed_bot|2007

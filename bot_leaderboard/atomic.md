@@ -4,6 +4,7 @@ Rank|Bot|Rating
 #2|@is_BOSS|2341
 #3|@SF_Bot1nok|2320
 #4|@Bot1nokk|2308
-#5|@puisne|1220
-#6|@pawnrobot|1188
-#7|@StockfishLowDepth|1110
+#5|@calico1|2052
+#6|@puisne|1220
+#7|@pawnrobot|1188
+#8|@StockfishLowDepth|1110

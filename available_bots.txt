@@ -1826,6 +1826,7 @@ leela_960
 leela_bot
 leela_policy
 leela_t40_42810
+leelaalien
 leelaanyodds
 leelablunderbot
 leelabotmaster
@@ -3596,4 +3597,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-leelaalien
