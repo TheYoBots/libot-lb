@@ -1,11 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2388
+#1|@ToromBot|2391
 #2|@RaspFish|2343
 #3|@SF_Bot1nok|2336
 #4|@MEGA-NOOB-BOT|2193
-#5|@is_BOSS|2143
+#5|@is_BOSS|2149
 #6|@calico1|1967
 #7|@OSaurus|1962
 #8|@OpeningsBot|1785
-#9|@StockfishLowDepth|1783

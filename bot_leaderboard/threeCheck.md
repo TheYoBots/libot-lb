@@ -1,6 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2221
-#2|@calico1|2200
-#3|@OSaurus|2170
-#4|@DavidsGuterBot|1221
+#1|@rascal1|2280
+#2|@beastie1|2226
+#3|@MEGA-NOOB-BOT|2222
+#4|@is_BOSS|2215
+#5|@calico1|2200
+#6|@OSaurus|2170
+#7|@DavidsGuterBot|1220
