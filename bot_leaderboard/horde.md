@@ -6,6 +6,12 @@ Rank|Bot|Rating
 #4|@bot1e|2602
 #5|@RaspFish|2567
 #6|@rascal1|2437
-#7|@beastie1|2279
-#8|@is_BOSS|1588
-#9|@pawnrobot|1250
+#7|@beastie1|2263
+#8|@rachl1|2016
+#9|@JemBok|1952
+#10|@nickl1bot|1949
+#11|@clementyne1|1924
+#12|@is_BOSS|1588
+#13|@hashcake1|1258
+#14|@pawnrobot|1250
+#15|@reaper1bot|1182

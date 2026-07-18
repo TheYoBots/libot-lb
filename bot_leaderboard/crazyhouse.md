@@ -4,8 +4,14 @@ Rank|Bot|Rating
 #2|@Bot1nokk|2604
 #3|@rascal1|2588
 #4|@bot1e|2524
-#5|@calico1|2346
-#6|@beastie1|2345
+#5|@calico1|2347
+#6|@beastie1|2344
 #7|@OSaurus|2299
 #8|@MEGA-NOOB-BOT|2165
-#9|@is_BOSS|1972
+#9|@rachl1|2119
+#10|@is_BOSS|1972
+#11|@clementyne1|1927
+#12|@JemBok|1917
+#13|@hashcake1|1459
+#14|@reaper1bot|1341
+#15|@genesis1bot|1087

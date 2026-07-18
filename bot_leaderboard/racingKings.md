@@ -4,7 +4,12 @@ Rank|Bot|Rating
 #2|@RaspFish|2343
 #3|@SF_Bot1nok|2336
 #4|@MEGA-NOOB-BOT|2193
-#5|@is_BOSS|2149
+#5|@is_BOSS|2150
 #6|@calico1|1967
-#7|@OSaurus|1962
-#8|@OpeningsBot|1785
+#7|@OSaurus|1954
+#8|@rachl1|1801
+#9|@QiOui|1760
+#10|@OpeningsBot|1693
+#11|@hashcake1|1250
+#12|@reaper1bot|1175
+#13|@genesis1bot|1014
