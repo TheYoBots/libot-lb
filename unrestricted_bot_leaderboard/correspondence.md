@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@Xmas_dragon|2300
 #41|@Ujwal1001|2297
 #42|@robiachess|2295
-#43|@Quanticade|2286
-#44|@Blunderbuss-bot|2285
+#43|@Blunderbuss-bot|2287
+#44|@Quanticade|2286
 #45|@mrohCentaur|2285
 #46|@Toodfish|2273
 #47|@Cheng-4|2269

@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2358
-#2|@is_BOSS|2341
-#3|@SF_Bot1nok|2302
-#4|@Bot1nokk|2295
-#5|@rascal1|2283
-#6|@ToromBot|2247
+#1|@MEGA-NOOB-BOT|2366
+#2|@is_BOSS|2344
+#3|@ToromBot|2306
+#4|@SF_Bot1nok|2302
+#5|@Bot1nokk|2285
+#6|@rascal1|2278
 #7|@beastie1|2097
 #8|@calico1|2054
 #9|@rachl1|1787
@@ -14,4 +14,4 @@ Rank|Bot|Rating
 #12|@genesis1bot|1187
 #13|@reaper1bot|1183
 #14|@pawnrobot|1175
-#15|@StockfishLowDepth|1109
+#15|@StockfishLowDepth|1108
