@@ -5,13 +5,13 @@ Rank|Bot|Rating
 #3|@SF_Bot1nok|2613
 #4|@bot1e|2609
 #5|@RaspFish|2545
-#6|@rascal1|2411
-#7|@beastie1|2263
+#6|@rascal1|2427
+#7|@beastie1|2261
 #8|@rachl1|2016
 #9|@JemBok|1952
 #10|@nickl1bot|1949
 #11|@clementyne1|1924
 #12|@is_BOSS|1572
 #13|@hashcake1|1258
-#14|@pawnrobot|1244
+#14|@pawnrobot|1238
 #15|@reaper1bot|1182

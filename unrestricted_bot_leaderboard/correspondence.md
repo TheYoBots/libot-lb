@@ -213,10 +213,10 @@ Rank|Bot|Rating
 #211|@Johan201023_Twitch|1764
 #212|@bryan_12345|1762
 #213|@LogosEngine|1760
-#214|@puisne|1760
-#215|@Bot413522|1758
-#216|@EDSPBOT|1758
-#217|@RoundMoundOfRebounds|1755
+#214|@Bot413522|1758
+#215|@EDSPBOT|1758
+#216|@RoundMoundOfRebounds|1755
+#217|@puisne|1753
 #218|@AngryOfficePanda|1745
 #219|@wardnbot|1744
 #220|@anytimemode|1741

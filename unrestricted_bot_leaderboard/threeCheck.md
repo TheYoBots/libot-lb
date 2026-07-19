@@ -44,14 +44,14 @@ Rank|Bot|Rating
 #42|@CocopikachuBOT|2274
 #43|@TheMatrix2025|2272
 #44|@vrnts_colinbot|2266
-#45|@rascal1|2265
+#45|@rascal1|2263
 #46|@HIWIN1234|2261
 #47|@YoBot_v2|2257
 #48|@MEGA-NOOB-BOT|2256
 #49|@DarkOnBot|2251
-#50|@RaspFish|2238
-#51|@OlympusCz|2231
-#52|@beastie1|2225
+#50|@beastie1|2246
+#51|@RaspFish|2238
+#52|@OlympusCz|2231
 #53|@is_BOSS|2221
 #54|@Vinh_VariantsBot|2215
 #55|@Kizburb|2214
@@ -204,7 +204,7 @@ Rank|Bot|Rating
 #202|@MyNameIsWhatLOL|1256
 #203|@SneakyBot21|1256
 #204|@TORTADEMANZANA023|1233
-#205|@DavidsGuterBot|1219
+#205|@DavidsGuterBot|1218
 #206|@suniferia|1211
 #207|@heatseeker223|1191
 #208|@admin-bot|1188
@@ -212,7 +212,7 @@ Rank|Bot|Rating
 #210|@Just-a-random-bot|1171
 #211|@duythong1402|1165
 #212|@Boom_Bot|1155
-#213|@pawnrobot|1155
+#213|@pawnrobot|1154
 #214|@thousandatom|1154
 #215|@MyNameIsSpeeedy|1147
 #216|@BetaOneBot|1139

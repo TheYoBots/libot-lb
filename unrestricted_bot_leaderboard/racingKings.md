@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@ibep|2333
 #57|@CloudBot_v2|2331
 #58|@SF_Bot1nok|2330
-#59|@rascal1|2324
+#59|@rascal1|2329
 #60|@colinbot|2322
 #61|@Worst-ai|2319
 #62|@Bot_AOOP11|2314
@@ -72,9 +72,9 @@ Rank|Bot|Rating
 #70|@AlfaBot|2278
 #71|@gage12_bot|2266
 #72|@Mega_BOT|2264
-#73|@MalanChess|2261
-#74|@chesshyperbot|2259
-#75|@abdcebot|2258
+#73|@abdcebot|2263
+#74|@MalanChess|2261
+#75|@chesshyperbot|2259
 #76|@ESC_BOT|2253
 #77|@relevantproblem|2251
 #78|@GodelEscherBot|2244
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@Trumpfor2O2O|2103
 #105|@PetersTestBot|2081
 #106|@CloudBOT|2073
-#107|@beastie1|2055
+#107|@beastie1|2048
 #108|@JustDontFlagMe|2048
 #109|@Stockfish-MEDIUM|2043
 #110|@Crepusculum|2036
