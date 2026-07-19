@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2722
-#2|@Bot1nokk|2632
-#3|@SF_Bot1nok|2613
-#4|@bot1e|2609
+#1|@abdcebot|2730
+#2|@Bot1nokk|2631
+#3|@SF_Bot1nok|2609
+#4|@bot1e|2606
 #5|@RaspFish|2545
 #6|@rascal1|2427
 #7|@beastie1|2261
@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@JemBok|1952
 #10|@nickl1bot|1949
 #11|@clementyne1|1924
-#12|@is_BOSS|1572
-#13|@hashcake1|1258
-#14|@pawnrobot|1238
-#15|@reaper1bot|1182
+#12|@is_BOSS|1589
+#13|@hashcake1|1265
+#14|@pawnrobot|1225
+#15|@reaper1bot|1179
