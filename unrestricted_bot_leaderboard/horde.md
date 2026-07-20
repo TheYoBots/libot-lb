@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@Lila-Stockfish|1616
 #129|@Nebulogic|1606
 #130|@Stockfish-MEDIUM|1604
-#131|@is_BOSS|1589
+#131|@is_BOSS|1591
 #132|@HakoAI|1584
 #133|@Lancelbot|1584
 #134|@Zer0_Tw0|1580
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@PowerOnBot|1258
 #184|@xDmanBOT|1258
 #185|@yobmef|1258
-#186|@pawnrobot|1225
+#186|@pawnrobot|1222
 #187|@TheSystem_Bot|1218
 #188|@GuineaBot3|1212
 #189|@admin-bot|1209

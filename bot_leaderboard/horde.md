@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@JemBok|1952
 #10|@nickl1bot|1949
 #11|@clementyne1|1924
-#12|@is_BOSS|1589
+#12|@is_BOSS|1591
 #13|@hashcake1|1265
-#14|@pawnrobot|1225
+#14|@pawnrobot|1222
 #15|@reaper1bot|1179

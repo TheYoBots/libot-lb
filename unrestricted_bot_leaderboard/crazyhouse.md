@@ -98,8 +98,8 @@ Rank|Bot|Rating
 #96|@TheLegitLegend2|2059
 #97|@PowerOnBot|2050
 #98|@Jussicas|2035
-#99|@is_BOSS|2032
-#100|@thibot|2032
+#99|@thibot|2032
+#100|@is_BOSS|2030
 #101|@Less_of_a_threat|2025
 #102|@DeepFriedFish|2020
 #103|@GCNbyFayE|2019

@@ -26,9 +26,9 @@ Rank|Bot|Rating
 #24|@Viet-BOT|2448
 #25|@BitByByte|2444
 #26|@F0rgot|2434
-#27|@MrDeepSeekGPT|2407
-#28|@HulkBot|2387
-#29|@WoodStyleEngine|2382
+#27|@WoodStyleEngine|2410
+#28|@MrDeepSeekGPT|2407
+#29|@HulkBot|2387
 #30|@MehFish|2376
 #31|@Mega_BOT|2371
 #32|@CorrespondenceBot|2353
@@ -43,8 +43,8 @@ Rank|Bot|Rating
 #41|@Ujwal1001|2297
 #42|@robiachess|2295
 #43|@Quanticade|2286
-#44|@Blunderbuss-bot|2285
-#45|@mrohCentaur|2285
+#44|@mrohCentaur|2285
+#45|@Blunderbuss-bot|2281
 #46|@Toodfish|2273
 #47|@Cheng-4|2269
 #48|@OpeningsBot|2266

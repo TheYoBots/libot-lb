@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@OSaurus|2299
 #8|@MEGA-NOOB-BOT|2202
 #9|@rachl1|2119
-#10|@is_BOSS|2032
+#10|@is_BOSS|2030
 #11|@clementyne1|1927
 #12|@JemBok|1917
 #13|@hashcake1|1414

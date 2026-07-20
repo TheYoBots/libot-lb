@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@Xerus_1|2076
 #69|@newengine2022|2071
 #70|@vrnts_colinbot|2068
-#71|@is_BOSS|2067
-#72|@KingfishX|2066
+#71|@KingfishX|2066
+#72|@is_BOSS|2063
 #73|@NewChessEngine-ai|2046
 #74|@Hyper-Stockfish|2044
 #75|@Kizbuurb|2035

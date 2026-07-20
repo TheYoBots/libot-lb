@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@calico1|2054
 #9|@rachl1|1787
 #10|@hashcake1|1338
-#11|@puisne|1228
+#11|@puisne|1226
 #12|@genesis1bot|1194
 #13|@reaper1bot|1187
-#14|@pawnrobot|1159
-#15|@StockfishLowDepth|1103
+#14|@pawnrobot|1158
+#15|@StockfishLowDepth|1112

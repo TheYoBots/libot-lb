@@ -9,9 +9,10 @@ Rank|Bot|Rating
 #7|@beastie1|2048
 #8|@calico1|1967
 #9|@OSaurus|1954
-#10|@rachl1|1801
-#11|@QiOui|1760
-#12|@OpeningsBot|1693
-#13|@hashcake1|1249
-#14|@reaper1bot|1188
-#15|@genesis1bot|1014
+#10|@StockfishLowDepth|1885
+#11|@rachl1|1801
+#12|@QiOui|1760
+#13|@OpeningsBot|1693
+#14|@hashcake1|1249
+#15|@reaper1bot|1188
+#16|@genesis1bot|1014

@@ -348,7 +348,7 @@ Rank|Bot|Rating
 #346|@XiDM|1241
 #347|@AlwaysPlayMystery|1240
 #348|@Ar4Asd1-BOT|1230
-#349|@puisne|1228
+#349|@puisne|1226
 #350|@GuineaBot3|1215
 #351|@kidobot2911|1202
 #352|@Lozza-Bot|1198
@@ -359,12 +359,12 @@ Rank|Bot|Rating
 #357|@clrsrc_lc0|1168
 #358|@Jaymombot|1166
 #359|@SipsonsamsonBOT|1161
-#360|@pawnrobot|1159
+#360|@pawnrobot|1158
 #361|@Happy_One|1138
 #362|@Pawn_Stormer_D4|1124
-#363|@the_nicholas_bot|1110
-#364|@MyNameIsSpeedy|1108
-#365|@StockfishLowDepth|1103
+#363|@StockfishLowDepth|1112
+#364|@the_nicholas_bot|1110
+#365|@MyNameIsSpeedy|1108
 #366|@tuxbot9000|1101
 #367|@bobby-bot|1085
 #368|@Official_bot|1082

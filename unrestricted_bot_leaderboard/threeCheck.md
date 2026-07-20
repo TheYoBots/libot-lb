@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@beastie1|2246
 #51|@RaspFish|2238
 #52|@OlympusCz|2231
-#53|@is_BOSS|2225
+#53|@is_BOSS|2217
 #54|@Vinh_VariantsBot|2215
 #55|@Kizburb|2214
 #56|@xiang-qi|2207
@@ -205,14 +205,14 @@ Rank|Bot|Rating
 #203|@MyNameIsWhatLOL|1256
 #204|@SneakyBot21|1256
 #205|@TORTADEMANZANA023|1233
-#206|@DavidsGuterBot|1229
+#206|@DavidsGuterBot|1228
 #207|@suniferia|1211
 #208|@heatseeker223|1191
 #209|@admin-bot|1188
 #210|@Ujwal1001|1179
 #211|@Just-a-random-bot|1171
 #212|@duythong1402|1165
-#213|@pawnrobot|1163
+#213|@pawnrobot|1162
 #214|@Boom_Bot|1155
 #215|@thousandatom|1154
 #216|@MyNameIsSpeeedy|1147
