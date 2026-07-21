@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@EmptikBot|3070
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
-#4|@abdcebot|2990
+#4|@abdcebot|2992
 #5|@UltimateVariants|2978
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2946
@@ -40,9 +40,9 @@ Rank|Bot|Rating
 #38|@LegoTechnicControlPl|2662
 #39|@SCP079|2662
 #40|@DarkOnBot|2650
-#41|@MalanChess|2638
-#42|@vrnts_colinbot|2637
-#43|@rascal1|2632
+#41|@rascal1|2642
+#42|@MalanChess|2638
+#43|@vrnts_colinbot|2637
 #44|@HIWIN1234|2623
 #45|@Kizbuurb|2621
 #46|@Lili-ai|2619
@@ -76,9 +76,9 @@ Rank|Bot|Rating
 #74|@Bot_AOOP11|2521
 #75|@tbhOnBot|2520
 #76|@HyperLitikBOT|2511
-#77|@pistol-play|2498
-#78|@FayEFish|2491
-#79|@beastie1|2489
+#77|@beastie1|2498
+#78|@pistol-play|2498
+#79|@FayEFish|2491
 #80|@colinbot|2489
 #81|@MrBOThacker|2477
 #82|@hauptschuleBOT|2475
@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@DrSmartBugs|2412
 #102|@Monastedrez|2410
 #103|@AttackingOrDefending|2409
-#104|@calico1|2408
-#105|@BitExtender128|2403
+#104|@BitExtender128|2403
+#105|@calico1|2395
 #106|@ESC_BOT|2394
 #107|@CatBot_14|2393
 #108|@NormalBulletBot|2393
@@ -117,9 +117,9 @@ Rank|Bot|Rating
 #115|@MEGA-NOOB-BOT|2355
 #116|@Viet_BOT|2354
 #117|@higuyuu67776|2352
-#118|@OSaurus|2336
-#119|@Karpov_bot|2335
-#120|@TeamChelsie|2331
+#118|@Karpov_bot|2335
+#119|@TeamChelsie|2331
+#120|@OSaurus|2324
 #121|@AI69|2312
 #122|@NewChessEngine-ai|2309
 #123|@Kizburb|2307
@@ -181,7 +181,7 @@ Rank|Bot|Rating
 #179|@antichesssss|1964
 #180|@Menganti|1963
 #181|@CloudBOT|1950
-#182|@CatNail|1920
+#182|@CatNail|1925
 #183|@TestingBot1|1914
 #184|@Crepusculum|1881
 #185|@NoTallkOnlyGames|1871

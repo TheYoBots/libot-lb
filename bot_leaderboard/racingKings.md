@@ -3,12 +3,12 @@ Rank|Bot|Rating
 #1|@ToromBot|2390
 #2|@RaspFish|2336
 #3|@SF_Bot1nok|2330
-#4|@rascal1|2329
+#4|@rascal1|2319
 #5|@MEGA-NOOB-BOT|2187
 #6|@is_BOSS|2160
-#7|@beastie1|2048
-#8|@calico1|1985
-#9|@OSaurus|1948
+#7|@beastie1|2093
+#8|@calico1|2005
+#9|@OSaurus|1940
 #10|@StockfishLowDepth|1885
 #11|@rachl1|1801
 #12|@QiOui|1766

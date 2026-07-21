@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@Blunderbuss-bot|2282
 #46|@Toodfish|2273
 #47|@Cheng-4|2269
-#48|@OpeningsBot|2264
+#48|@OpeningsBot|2260
 #49|@ChessatronBot|2257
 #50|@eggnog-chess-engine|2254
 #51|@Blue_Mongoose|2249
