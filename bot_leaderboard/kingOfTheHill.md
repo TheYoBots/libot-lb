@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rascal1|2392
+#1|@rascal1|2379
 #2|@MEGA-NOOB-BOT|2183
 #3|@beastie1|2125
 #4|@calico1|2099

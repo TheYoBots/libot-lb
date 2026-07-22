@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@GodelEscherBot|2284
 #130|@HakoAI|2283
 #131|@Dean_Summer_Bot|2279
-#132|@anti-bot|2269
+#132|@anti-bot|2276
 #133|@Johnsun|2269
 #134|@SkyBlaster|2254
 #135|@mrchessmanager|2240
@@ -158,9 +158,9 @@ Rank|Bot|Rating
 #156|@GegeneBOT|2177
 #157|@DeepFriedFish|2165
 #158|@lightspeed_bot|2152
-#159|@NilatacBot|2148
-#160|@rachl1|2145
-#161|@AntiChessBot|2142
+#159|@rachl1|2145
+#160|@AntiChessBot|2142
+#161|@NilatacBot|2142
 #162|@AnUtterlyKarBot|2134
 #163|@XXIstCentury|2131
 #164|@OpeningsBot|2118
@@ -181,8 +181,8 @@ Rank|Bot|Rating
 #179|@Menganti|1963
 #180|@CloudBOT|1950
 #181|@clementyne1|1935
-#182|@CatNail|1921
-#183|@TestingBot1|1914
+#182|@TestingBot1|1914
+#183|@CatNail|1913
 #184|@Crepusculum|1881
 #185|@NoTallkOnlyGames|1871
 #186|@Lumac0|1861

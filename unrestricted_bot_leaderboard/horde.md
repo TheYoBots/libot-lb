@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@ttBOT|2584
 #14|@compchess2|2579
 #15|@Lili-ai|2572
-#16|@RaspFish|2532
-#17|@rascal1|2429
+#16|@RaspFish|2521
+#17|@rascal1|2445
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
 #20|@BOT_Stockfish13|2383
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@ElPeonElectrico|2242
 #39|@TacticalBot|2227
 #40|@calico1|2214
-#41|@OSaurus|2200
+#41|@OSaurus|2205
 #42|@UltronBot|2199
 #43|@GoblinAjedrezAI|2185
 #44|@FayEFish|2172

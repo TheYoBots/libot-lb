@@ -12,12 +12,12 @@ Rank|Bot|Rating
 #10|@is_BOSS|2375
 #11|@MEGA-NOOB-BOT|2347
 #12|@OSaurus|2324
-#13|@anti-bot|2269
+#13|@anti-bot|2276
 #14|@QiOui|2219
-#15|@NilatacBot|2148
-#16|@rachl1|2145
+#15|@rachl1|2145
+#16|@NilatacBot|2142
 #17|@clementyne1|1935
-#18|@CatNail|1921
+#18|@CatNail|1913
 #19|@spyros1bot|1578
 #20|@Lancelbot|1419
 #21|@pawnrobot|1385

@@ -205,7 +205,7 @@ Rank|Bot|Rating
 #203|@MyNameIsWhatLOL|1256
 #204|@SneakyBot21|1256
 #205|@TORTADEMANZANA023|1233
-#206|@DavidsGuterBot|1223
+#206|@DavidsGuterBot|1216
 #207|@suniferia|1211
 #208|@heatseeker223|1191
 #209|@admin-bot|1188

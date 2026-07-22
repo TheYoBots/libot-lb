@@ -73,8 +73,8 @@ Rank|Bot|Rating
 #71|@Magicianrobot|2200
 #72|@MyNameIsWhatLOL|2200
 #73|@Zer0_Tw0|2200
-#74|@abdcebot|2197
-#75|@UltronBot|2197
+#74|@UltronBot|2197
+#75|@abdcebot|2192
 #76|@Viet-BOT|2185
 #77|@lightspeed_bot|2177
 #78|@Sooraj_Kumar_P_S|2167

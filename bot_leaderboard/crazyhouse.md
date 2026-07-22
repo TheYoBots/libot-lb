@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@calico1|2343
 #7|@OSaurus|2294
 #8|@MEGA-NOOB-BOT|2230
-#9|@abdcebot|2197
+#9|@abdcebot|2192
 #10|@rachl1|2092
 #11|@is_BOSS|2034
 #12|@nickl1bot|1919

@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@Bot1nokk|2631
 #3|@bot1e|2622
 #4|@SF_Bot1nok|2587
-#5|@RaspFish|2532
-#6|@rascal1|2429
+#5|@RaspFish|2521
+#6|@rascal1|2445
 #7|@beastie1|2279
 #8|@calico1|2214
-#9|@OSaurus|2200
+#9|@OSaurus|2205
 #10|@kowalabi|2099
 #11|@rachl1|2016
 #12|@nickl1bot|1961
