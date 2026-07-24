@@ -81,8 +81,8 @@ Rank|Bot|Rating
 #79|@Bullet_bot_0526|2077
 #80|@Bot1nokk|2074
 #81|@Xerus_1|2070
-#82|@kowalabi|2061
-#83|@ROBOT_RANDEER2007|2059
+#82|@ROBOT_RANDEER2007|2059
+#83|@kowalabi|2046
 #84|@varient-chess-bot1|2046
 #85|@Galaxy_Guardian|2041
 #86|@Official_bot|2041

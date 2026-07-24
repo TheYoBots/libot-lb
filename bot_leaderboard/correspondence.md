@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@pawn_git|2569
-#2|@Blunderbuss-bot|2285
-#3|@OpeningsBot|2260
-#4|@grindle_x_bot1|1714
+#1|@pawn_git|2572
+#2|@Blunderbuss-bot|2277
+#3|@OpeningsBot|2268
+#4|@grindle_x_bot1|1717

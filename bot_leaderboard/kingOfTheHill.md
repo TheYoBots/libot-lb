@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@MEGA-NOOB-BOT|2207
 #3|@beastie1|2107
 #4|@calico1|2099
-#5|@is_BOSS|2044
+#5|@is_BOSS|2041
 #6|@OSaurus|2004
-#7|@kowalabi|1881
+#7|@kowalabi|1852
 #8|@rachl1|1831
-#9|@nickl1bot|1781
+#9|@nickl1bot|1797
 #10|@hashcake1|1406
 #11|@reaper1bot|1295
 #12|@DavidsGuterBot|1248
