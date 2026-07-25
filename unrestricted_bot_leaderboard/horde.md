@@ -39,10 +39,10 @@ Rank|Bot|Rating
 #37|@CloudBot_v2|2252
 #38|@ElPeonElectrico|2242
 #39|@TacticalBot|2227
-#40|@calico1|2214
+#40|@calico1|2201
 #41|@UltronBot|2199
-#42|@GoblinAjedrezAI|2185
-#43|@OSaurus|2181
+#42|@OSaurus|2193
+#43|@GoblinAjedrezAI|2185
 #44|@FayEFish|2172
 #45|@Trumpfor2O2O|2162
 #46|@varient-chess-bot1|2156

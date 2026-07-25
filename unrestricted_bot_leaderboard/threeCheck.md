@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@Kizburb|2214
 #55|@xiang-qi|2207
 #56|@YellowFlash_v2|2200
-#57|@DeepFriedFish|2185
-#58|@is_BOSS|2185
+#57|@is_BOSS|2189
+#58|@DeepFriedFish|2185
 #59|@calico1|2184
 #60|@virus_exe-bot|2180
 #61|@ReallyCrazyBOT|2172
@@ -69,9 +69,9 @@ Rank|Bot|Rating
 #67|@gage12_bot|2140
 #68|@Bobby_Fischer_BOT|2138
 #69|@OSaurus|2138
-#70|@abdcebot|2130
-#71|@abhisun_bot|2129
-#72|@NienishiEngine|2124
+#70|@abhisun_bot|2129
+#71|@NienishiEngine|2124
+#72|@abdcebot|2110
 #73|@AnUtterlyKarBot|2103
 #74|@Lili-ai|2099
 #75|@Bot1nokk|2089
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@Bullet_bot_0526|2077
 #81|@Xerus_1|2070
 #82|@ROBOT_RANDEER2007|2059
-#83|@kowalabi|2046
+#83|@kowalabi|2052
 #84|@varient-chess-bot1|2046
 #85|@Galaxy_Guardian|2041
 #86|@Official_bot|2041
