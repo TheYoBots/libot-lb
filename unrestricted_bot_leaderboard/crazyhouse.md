@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@MalanChess|2273
 #62|@BitExtender128|2272
 #63|@FayEFish|2265
-#64|@MEGA-NOOB-BOT|2256
+#64|@MEGA-NOOB-BOT|2259
 #65|@Bobby_Fischer_BOT|2251
 #66|@Mega_BOT|2240
 #67|@ElPeonElectrico|2228
@@ -90,7 +90,7 @@ Rank|Bot|Rating
 #88|@TestingBot1|2118
 #89|@Johnsun|2113
 #90|@NewChessEngine-ai|2110
-#91|@is_BOSS|2090
+#91|@is_BOSS|2108
 #92|@SixtyFourEngine|2089
 #93|@rachl1|2079
 #94|@relevantproblem|2077
@@ -204,9 +204,9 @@ Rank|Bot|Rating
 #202|@puisne|1430
 #203|@Nicholaswb_BOT|1426
 #204|@Itzmoi6g19|1425
-#205|@xDmanBOT|1419
-#206|@chess-trainer-bot|1417
-#207|@hashcake1|1414
+#205|@hashcake1|1421
+#206|@xDmanBOT|1419
+#207|@chess-trainer-bot|1417
 #208|@Wayang|1411
 #209|@cool_boy_bot|1398
 #210|@Classic_BOT-v2|1392
