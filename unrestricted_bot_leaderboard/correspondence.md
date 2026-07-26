@@ -44,11 +44,11 @@ Rank|Bot|Rating
 #42|@robiachess|2295
 #43|@Quanticade|2286
 #44|@mrohCentaur|2285
-#45|@Blunderbuss-bot|2277
+#45|@Blunderbuss-bot|2276
 #46|@Toodfish|2273
 #47|@Cheng-4|2269
 #48|@ChessatronBot|2266
-#49|@OpeningsBot|2262
+#49|@OpeningsBot|2263
 #50|@eggnog-chess-engine|2254
 #51|@Blue_Mongoose|2249
 #52|@Zimbabwean_chessbot|2249

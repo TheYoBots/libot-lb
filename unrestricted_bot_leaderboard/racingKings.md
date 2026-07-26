@@ -76,8 +76,8 @@ Rank|Bot|Rating
 #74|@chesshyperbot|2259
 #75|@ESC_BOT|2253
 #76|@relevantproblem|2251
-#77|@GodelEscherBot|2244
-#78|@abdcebot|2240
+#77|@abdcebot|2250
+#78|@GodelEscherBot|2244
 #79|@ResoluteBot|2225
 #80|@XXIstCentury|2225
 #81|@Resolved-Bot|2223
@@ -131,9 +131,9 @@ Rank|Bot|Rating
 #129|@Galaxy_Guardian|1812
 #130|@Lila-Stockfish|1812
 #131|@kowalabi|1803
-#132|@rachl1|1801
-#133|@SUMEETTHEPRO|1795
-#134|@Botzer|1794
+#132|@SUMEETTHEPRO|1795
+#133|@Botzer|1794
+#134|@rachl1|1794
 #135|@DrSmartBugs|1790
 #136|@SriLankaChess|1784
 #137|@YoBot_v1|1782
@@ -153,9 +153,9 @@ Rank|Bot|Rating
 #151|@PowerOnBot|1701
 #152|@Chess_omar_2009|1698
 #153|@JEDDYCOCO12345|1692
-#154|@nickl1bot|1689
-#155|@Harry_Potterz|1674
-#156|@XXXTryandTryXXX|1674
+#154|@Harry_Potterz|1674
+#155|@XXXTryandTryXXX|1674
+#156|@nickl1bot|1672
 #157|@Breeze-Hot|1659
 #158|@Challenger_crazy|1652
 #159|@ROBOT_RANDEER2007|1651
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@TheSystem_Bot|1572
 #165|@QuickLiquid|1555
 #166|@MMC_HUANGBAI|1553
-#167|@JemBok|1521
+#167|@JemBok|1527
 #168|@faith_bot|1514
 #169|@CoderDen732|1507
 #170|@TorBot|1498
@@ -175,8 +175,8 @@ Rank|Bot|Rating
 #173|@Ar4Asd1-BOT|1491
 #174|@Kizbuurb|1490
 #175|@alvinl22_LBot|1489
-#176|@clementyne1|1481
-#177|@MeezKool|1476
+#176|@MeezKool|1476
+#177|@clementyne1|1474
 #178|@ahmet-botahmet|1471
 #179|@Variantenkoning|1471
 #180|@TheLegendaryKnight|1468
