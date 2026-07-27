@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2306
+#1|@ToromBot|2304
 #2|@MEGA-NOOB-BOT|2293
 #3|@Bot1nokk|2277
 #4|@SF_Bot1nok|2255
@@ -11,12 +11,12 @@ Rank|Bot|Rating
 #9|@calico1|2089
 #10|@OSaurus|1977
 #11|@kowalabi|1892
-#12|@rachl1|1839
+#12|@rachl1|1865
 #13|@nickl1bot|1711
 #14|@JemBok|1652
 #15|@clementyne1|1520
 #16|@spyros1bot|1461
 #17|@reaper1bot|1235
-#18|@puisne|1173
+#18|@puisne|1156
 #19|@pawnrobot|1155
-#20|@StockfishLowDepth|1097
+#20|@StockfishLowDepth|1089

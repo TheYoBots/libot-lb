@@ -7,11 +7,11 @@ Rank|Bot|Rating
 #5|@calico1|2335
 #6|@OSaurus|2301
 #7|@MEGA-NOOB-BOT|2244
-#8|@abdcebot|2174
-#9|@kowalabi|2163
+#8|@kowalabi|2163
+#9|@abdcebot|2156
 #10|@QiOui|2136
-#11|@is_BOSS|2110
-#12|@rachl1|2066
+#11|@is_BOSS|2117
+#12|@rachl1|2089
 #13|@nickl1bot|1959
 #14|@JemBok|1907
 #15|@clementyne1|1841
