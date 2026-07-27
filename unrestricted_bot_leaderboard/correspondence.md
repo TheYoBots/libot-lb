@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@fibonachi|2956
 #3|@Grzechu86|2852
 #4|@Magicianrobot|2740
-#5|@Moment-That-Inspires|2716
+#5|@Moment-That-Inspires|2715
 #6|@H-Zero|2650
 #7|@ChamberiAjedrez|2641
 #8|@pawnocchio_bot|2623
@@ -38,14 +38,14 @@ Rank|Bot|Rating
 #36|@bekbot|2307
 #37|@Magnus-BOT|2304
 #38|@AVeryBigMistake|2301
-#39|@chmod-bot|2300
-#40|@Xmas_dragon|2300
+#39|@Xmas_dragon|2300
+#40|@chmod-bot|2298
 #41|@Ujwal1001|2297
 #42|@robiachess|2295
 #43|@ChessatronBot|2291
 #44|@Quanticade|2286
 #45|@mrohCentaur|2285
-#46|@Blunderbuss-bot|2276
+#46|@Blunderbuss-bot|2277
 #47|@Toodfish|2273
 #48|@Cheng-4|2269
 #49|@eggnog-chess-engine|2254

@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@SF_Bot1nok|2329
+#1|@SF_Bot1nok|2326
 #2|@RaspFish|2321
 #3|@rascal1|2318
-#4|@abdcebot|2242
-#5|@MEGA-NOOB-BOT|2207
-#6|@is_BOSS|2186
+#4|@abdcebot|2246
+#5|@MEGA-NOOB-BOT|2205
+#6|@is_BOSS|2194
 #7|@beastie1|2091
 #8|@calico1|2016
 #9|@OSaurus|1967
@@ -17,4 +17,6 @@ Rank|Bot|Rating
 #15|@OpeningsBot|1647
 #16|@JemBok|1550
 #17|@clementyne1|1476
-#18|@reaper1bot|1184
+#18|@Lancelbot|1373
+#19|@hashcake1|1236
+#20|@reaper1bot|1179
