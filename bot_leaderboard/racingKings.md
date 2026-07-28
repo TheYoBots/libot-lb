@@ -5,13 +5,13 @@ Rank|Bot|Rating
 #3|@rascal1|2318
 #4|@abdcebot|2246
 #5|@MEGA-NOOB-BOT|2205
-#6|@is_BOSS|2194
+#6|@is_BOSS|2193
 #7|@beastie1|2091
 #8|@calico1|2016
 #9|@OSaurus|1967
 #10|@StockfishLowDepth|1920
-#11|@kowalabi|1803
-#12|@QiOui|1800
+#11|@QiOui|1800
+#12|@kowalabi|1795
 #13|@rachl1|1788
 #14|@nickl1bot|1672
 #15|@OpeningsBot|1647

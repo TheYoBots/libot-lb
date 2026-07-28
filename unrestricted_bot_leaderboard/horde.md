@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
 #3|@Fairy_Belzedar|2857
-#4|@abdcebot|2762
+#4|@abdcebot|2763
 #5|@Coolman2021|2757
 #6|@ToromBot|2756
 #7|@Magicianrobot|2741
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@compchess2|2579
 #15|@Lili-ai|2572
 #16|@RaspFish|2489
-#17|@rascal1|2443
+#17|@rascal1|2447
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
 #20|@BOT_Stockfish13|2383
@@ -31,15 +31,15 @@ Rank|Bot|Rating
 #29|@AlfaBot|2293
 #30|@Fairy-Stockfish|2289
 #31|@Kizburb|2276
-#32|@beastie1|2273
-#33|@Team_bot_08512|2267
+#32|@Team_bot_08512|2267
+#33|@beastie1|2264
 #34|@NewChessEngine-ai|2260
 #35|@ibep|2258
 #36|@LudwigBOT|2256
 #37|@CloudBot_v2|2252
 #38|@ElPeonElectrico|2242
 #39|@TacticalBot|2227
-#40|@calico1|2201
+#40|@calico1|2211
 #41|@UltronBot|2199
 #42|@OSaurus|2193
 #43|@GoblinAjedrezAI|2185
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@xDmanBOT|1258
 #184|@yobmef|1258
 #185|@TheSystem_Bot|1218
-#186|@pawnrobot|1215
+#186|@pawnrobot|1214
 #187|@GuineaBot3|1212
 #188|@admin-bot|1209
 #189|@Happy_One|1207

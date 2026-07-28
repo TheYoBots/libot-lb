@@ -90,7 +90,7 @@ Rank|Bot|Rating
 #88|@Nobody11892|2200
 #89|@OlympusCz|2200
 #90|@Trainspotter|2200
-#91|@is_BOSS|2194
+#91|@is_BOSS|2193
 #92|@Hyper-Stockfish|2189
 #93|@Johnsun|2181
 #94|@bot1e|2176
@@ -129,8 +129,8 @@ Rank|Bot|Rating
 #127|@Just-a-random-bot|1816
 #128|@Galaxy_Guardian|1812
 #129|@Lila-Stockfish|1812
-#130|@kowalabi|1803
-#131|@QiOui|1800
+#130|@QiOui|1800
+#131|@kowalabi|1795
 #132|@SUMEETTHEPRO|1795
 #133|@Botzer|1794
 #134|@DrSmartBugs|1790

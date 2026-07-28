@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2762
+#1|@abdcebot|2763
 #2|@Bot1nokk|2630
 #3|@bot1e|2608
 #4|@SF_Bot1nok|2586
 #5|@RaspFish|2489
-#6|@rascal1|2443
-#7|@beastie1|2273
-#8|@calico1|2201
+#6|@rascal1|2447
+#7|@beastie1|2264
+#8|@calico1|2211
 #9|@OSaurus|2193
 #10|@kowalabi|2065
 #11|@QiOui|2063
@@ -19,4 +19,4 @@ Rank|Bot|Rating
 #17|@is_BOSS|1709
 #18|@spyros1bot|1601
 #19|@Lancelbot|1523
-#20|@pawnrobot|1215
+#20|@pawnrobot|1214
