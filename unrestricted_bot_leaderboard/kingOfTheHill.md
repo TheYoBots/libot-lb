@@ -39,15 +39,15 @@ Rank|Bot|Rating
 #37|@Worst-ai|2227
 #38|@Magnus-BOT|2224
 #39|@SkyBlaster|2220
-#40|@SF_Bot1nok|2210
+#40|@SF_Bot1nok|2208
 #41|@patzerbot135|2200
 #42|@Stockfish-MEDIUM|2198
 #43|@PowerOnBot|2195
 #44|@UnDisstoppableBot|2193
-#45|@MEGA-NOOB-BOT|2187
-#46|@Amrobotone|2184
+#45|@Amrobotone|2184
+#46|@MEGA-NOOB-BOT|2180
 #47|@eNErGyOFbEiNGbOT|2166
-#48|@abdcebot|2164
+#48|@abdcebot|2163
 #49|@HuxZero|2163
 #50|@colinbot|2148
 #51|@Mega_BOT|2148
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@firstrobot|2114
 #58|@beastie1|2112
 #59|@NormalBulletBot|2109
-#60|@Bot1nokk|2108
+#60|@Bot1nokk|2105
 #61|@Galaxy_Guardian|2096
 #62|@GodelEscherBot|2092
 #63|@Johnsun|2091
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@newengine2022|2071
 #72|@vrnts_colinbot|2068
 #73|@KingfishX|2066
-#74|@is_BOSS|2064
+#74|@is_BOSS|2060
 #75|@NewChessEngine-ai|2046
 #76|@Hyper-Stockfish|2044
 #77|@Kizbuurb|2035
