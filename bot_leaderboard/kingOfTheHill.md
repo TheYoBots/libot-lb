@@ -4,12 +4,12 @@ Rank|Bot|Rating
 #2|@MEGA-NOOB-BOT|2180
 #3|@beastie1|2112
 #4|@calico1|2077
-#5|@is_BOSS|2060
+#5|@is_BOSS|2053
 #6|@OSaurus|2026
-#7|@kowalabi|1858
-#8|@QiOui|1844
+#7|@kowalabi|1906
+#8|@QiOui|1827
 #9|@rachl1|1818
-#10|@nickl1bot|1781
+#10|@nickl1bot|1769
 #11|@JemBok|1767
 #12|@clementyne1|1721
 #13|@Lancelbot|1586

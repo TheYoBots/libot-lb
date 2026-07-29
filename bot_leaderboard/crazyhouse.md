@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@OSaurus|2301
 #7|@MEGA-NOOB-BOT|2237
 #8|@kowalabi|2166
-#9|@abdcebot|2160
-#10|@QiOui|2136
-#11|@is_BOSS|2134
+#9|@abdcebot|2151
+#10|@QiOui|2139
+#11|@is_BOSS|2136
 #12|@rachl1|2089
 #13|@nickl1bot|1995
 #14|@JemBok|1856
