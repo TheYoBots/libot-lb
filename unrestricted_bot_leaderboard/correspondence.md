@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@fibonachi|2956
 #3|@Grzechu86|2852
 #4|@Magicianrobot|2740
-#5|@Moment-That-Inspires|2715
+#5|@Moment-That-Inspires|2713
 #6|@H-Zero|2650
 #7|@ChamberiAjedrez|2641
 #8|@pawnocchio_bot|2623
