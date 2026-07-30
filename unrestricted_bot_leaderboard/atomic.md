@@ -82,9 +82,9 @@ Rank|Bot|Rating
 #80|@TorBot|2214
 #81|@Grand-bot|2212
 #82|@Bot_AOOP11|2209
-#83|@newengine2022|2204
-#84|@HedwigChess1|2200
-#85|@is_BOSS|2200
+#83|@is_BOSS|2204
+#84|@newengine2022|2204
+#85|@HedwigChess1|2200
 #86|@Hyper-Stockfish|2198
 #87|@Yemmi-Yemmi|2195
 #88|@NienishiEngine|2194

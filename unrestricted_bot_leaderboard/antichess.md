@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@fairy-vvrr|2683
 #36|@LoseisnotAvailablehe|2677
 #37|@AntichessAnalyzer|2673
-#38|@Royal-Bot|2670
+#38|@Royal-Bot|2672
 #39|@LegoTechnicControlPl|2662
 #40|@SCP079|2662
 #41|@DarkOnBot|2650
@@ -113,8 +113,8 @@ Rank|Bot|Rating
 #111|@Resolved-Bot|2369
 #112|@Trumpfor2O2O|2366
 #113|@HuxZero|2361
-#114|@Less_of_a_threat|2357
-#115|@anti-bot|2354
+#114|@anti-bot|2358
+#115|@Less_of_a_threat|2357
 #116|@Viet_BOT|2354
 #117|@higuyuu67776|2352
 #118|@Karpov_bot|2335
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Lucror|2178
 #155|@GegeneBOT|2177
 #156|@DeepFriedFish|2165
-#157|@NilatacBot|2155
+#157|@NilatacBot|2159
 #158|@lightspeed_bot|2152
 #159|@AntiChessBot|2142
 #160|@OpeningsBot|2141
@@ -179,8 +179,8 @@ Rank|Bot|Rating
 #177|@BetaZ|1973
 #178|@antichesssss|1964
 #179|@Menganti|1963
-#180|@CatNail|1953
-#181|@CloudBOT|1950
+#180|@CloudBOT|1950
+#181|@CatNail|1915
 #182|@TestingBot1|1914
 #183|@Crepusculum|1881
 #184|@NoTallkOnlyGames|1871

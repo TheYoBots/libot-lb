@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2257
 #4|@SF_Bot1nok|2247
 #5|@rascal1|2234
-#6|@is_BOSS|2200
+#6|@is_BOSS|2204
 #7|@RaspFish|2151
 #8|@beastie1|2126
 #9|@calico1|2083

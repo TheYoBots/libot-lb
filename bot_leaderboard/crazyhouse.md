@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@MEGA-NOOB-BOT|2245
 #8|@kowalabi|2166
 #9|@abdcebot|2148
-#10|@is_BOSS|2143
+#10|@is_BOSS|2139
 #11|@QiOui|2139
 #12|@rachl1|2089
 #13|@nickl1bot|1995

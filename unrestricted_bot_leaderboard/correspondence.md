@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@Blunderbuss-bot|2272
 #48|@Cheng-4|2269
 #49|@eggnog-chess-engine|2254
-#50|@OpeningsBot|2254
+#50|@OpeningsBot|2251
 #51|@Blue_Mongoose|2249
 #52|@Zimbabwean_chessbot|2249
 #53|@nukechess-bot|2244

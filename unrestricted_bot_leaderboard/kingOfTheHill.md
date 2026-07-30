@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@LudwigBOT|2281
 #28|@HIWIN1234|2274
 #29|@LoseisnotAvailablehe|2274
-#30|@RaspFish|2270
-#31|@Bobby_Fischer_BOT|2267
-#32|@lord-bot|2258
+#30|@Bobby_Fischer_BOT|2267
+#31|@lord-bot|2258
+#32|@RaspFish|2256
 #33|@CheckmateX1|2251
 #34|@YoBot_v2|2242
 #35|@ResoluteBot|2233
