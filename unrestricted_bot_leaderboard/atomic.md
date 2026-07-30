@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@HyperLitikBOT|2341
 #49|@LudwigBOT|2339
 #50|@NotNateBot|2336
-#51|@MEGA-NOOB-BOT|2321
+#51|@MEGA-NOOB-BOT|2315
 #52|@The-Fastest-Bot|2314
 #53|@Alehkine_cat|2312
 #54|@Team_bot_08512|2307
@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@jasans_bot|2153
 #108|@JEDDYCOCO12345|2153
 #109|@virus_exe-bot|2153
-#110|@RaspFish|2151
-#111|@TJchessBot|2149
+#110|@TJchessBot|2149
+#111|@RaspFish|2145
 #112|@Lili-ai|2144
 #113|@WittenbergAdmin|2143
 #114|@ROBOT_RANDEER2007|2142
@@ -359,8 +359,8 @@ Rank|Bot|Rating
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
 #359|@pawnrobot|1154
-#360|@puisne|1142
-#361|@Happy_One|1138
+#360|@Happy_One|1138
+#361|@puisne|1138
 #362|@Pawn_Stormer_D4|1124
 #363|@the_nicholas_bot|1110
 #364|@MyNameIsSpeedy|1108

@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@BitExtender128|2272
 #62|@FayEFish|2265
 #63|@Bobby_Fischer_BOT|2251
-#64|@MEGA-NOOB-BOT|2245
-#65|@Mega_BOT|2240
+#64|@Mega_BOT|2240
+#65|@MEGA-NOOB-BOT|2239
 #66|@ElPeonElectrico|2228
 #67|@Coolman2021|2219
 #68|@xiang-qi|2203
@@ -81,9 +81,9 @@ Rank|Bot|Rating
 #79|@BSTAF|2154
 #80|@StockfishLowDepth|2154
 #81|@abdcebot|2148
-#82|@TheMatrix2025|2142
-#83|@is_BOSS|2139
-#84|@QiOui|2139
+#82|@is_BOSS|2144
+#83|@TheMatrix2025|2142
+#84|@QiOui|2134
 #85|@CloudBot_v2|2131
 #86|@HIWIN1234|2123
 #87|@varient-chess-bot1|2120
