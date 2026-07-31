@@ -45,11 +45,11 @@ Rank|Bot|Rating
 #43|@ChessatronBot|2291
 #44|@Quanticade|2286
 #45|@mrohCentaur|2285
-#46|@Blunderbuss-bot|2279
+#46|@Blunderbuss-bot|2278
 #47|@Toodfish|2273
 #48|@Cheng-4|2269
 #49|@eggnog-chess-engine|2254
-#50|@OpeningsBot|2251
+#50|@OpeningsBot|2252
 #51|@Blue_Mongoose|2249
 #52|@Zimbabwean_chessbot|2249
 #53|@nukechess-bot|2244

@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@Magnus-BOT|2224
 #39|@SkyBlaster|2220
 #40|@SF_Bot1nok|2208
-#41|@MEGA-NOOB-BOT|2201
-#42|@patzerbot135|2200
+#41|@patzerbot135|2200
+#42|@MEGA-NOOB-BOT|2199
 #43|@abdcebot|2198
 #44|@Stockfish-MEDIUM|2198
 #45|@PowerOnBot|2195
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@newengine2022|2071
 #72|@vrnts_colinbot|2068
 #73|@KingfishX|2066
-#74|@is_BOSS|2055
+#74|@is_BOSS|2064
 #75|@NewChessEngine-ai|2046
 #76|@Hyper-Stockfish|2044
 #77|@Kizbuurb|2035

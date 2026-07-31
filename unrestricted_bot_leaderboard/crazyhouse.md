@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@rascal1|2592
 #27|@DarkOnBot|2585
 #28|@EmptikVariantsBot|2548
-#29|@RaspFish|2539
-#30|@BotSuxX|2538
+#29|@BotSuxX|2538
+#30|@RaspFish|2528
 #31|@LudwigBOT|2527
 #32|@X2-ITL|2501
 #33|@bot1e|2484
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@FayEFish|2265
 #63|@Bobby_Fischer_BOT|2251
 #64|@Mega_BOT|2240
-#65|@MEGA-NOOB-BOT|2239
+#65|@MEGA-NOOB-BOT|2236
 #66|@ElPeonElectrico|2228
 #67|@Coolman2021|2219
 #68|@xiang-qi|2203
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@BSTAF|2154
 #80|@StockfishLowDepth|2154
 #81|@abdcebot|2148
-#82|@is_BOSS|2144
+#82|@is_BOSS|2143
 #83|@TheMatrix2025|2142
 #84|@QiOui|2134
 #85|@CloudBot_v2|2131
@@ -254,7 +254,7 @@ Rank|Bot|Rating
 #252|@Magic11bot_Coach|1001
 #253|@JPSBOT|958
 #254|@FireTorchV2|955
-#255|@pawnrobot|887
+#255|@pawnrobot|882
 #256|@RSVMentor|862
 #257|@GuineaBot3|845
 #258|@MateCheckCapture|828

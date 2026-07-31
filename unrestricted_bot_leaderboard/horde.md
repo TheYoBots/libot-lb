@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@compchess2|2579
 #14|@SF_Bot1nok|2577
 #15|@Lili-ai|2572
-#16|@RaspFish|2491
+#16|@RaspFish|2506
 #17|@rascal1|2447
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
@@ -59,9 +59,9 @@ Rank|Bot|Rating
 #57|@chessbot2880|2098
 #58|@Galaxy_Guardian|2096
 #59|@QiOui|2089
-#60|@KingfishX|2081
-#61|@iplayonlyrandom|2075
-#62|@MEGA-NOOB-BOT|2074
+#60|@MEGA-NOOB-BOT|2085
+#61|@KingfishX|2081
+#62|@iplayonlyrandom|2075
 #63|@Zimbabwean_chessbot|2073
 #64|@kowalabi|2054
 #65|@virus_exe-bot|2054
@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@clementyne1|1811
 #95|@Breeze-Hot|1809
 #96|@GodelEscherBot|1805
-#97|@is_BOSS|1801
+#97|@is_BOSS|1803
 #98|@Yemmi-Yemmi|1799
 #99|@thibot|1789
 #100|@RobotTigerSlav|1781
@@ -184,7 +184,7 @@ Rank|Bot|Rating
 #182|@xDmanBOT|1258
 #183|@yobmef|1258
 #184|@hashcake1|1231
-#185|@pawnrobot|1221
+#185|@pawnrobot|1220
 #186|@TheSystem_Bot|1218
 #187|@GuineaBot3|1212
 #188|@admin-bot|1209

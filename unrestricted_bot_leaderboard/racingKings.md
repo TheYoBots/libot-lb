@@ -81,9 +81,9 @@ Rank|Bot|Rating
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
 #81|@HerokuHasnotplay|2215
-#82|@MEGA-NOOB-BOT|2210
-#83|@Zer0_Tw0|2210
-#84|@FairyTailRegimeBot|2206
+#82|@Zer0_Tw0|2210
+#83|@FairyTailRegimeBot|2206
+#84|@MEGA-NOOB-BOT|2202
 #85|@AIAlphaAI|2200
 #86|@Berserk12-X|2200
 #87|@higuyuu67776|2200
@@ -92,9 +92,9 @@ Rank|Bot|Rating
 #90|@Trainspotter|2200
 #91|@Hyper-Stockfish|2189
 #92|@Johnsun|2181
-#93|@is_BOSS|2179
-#94|@bot1e|2176
-#95|@HuxZero|2176
+#93|@bot1e|2176
+#94|@HuxZero|2176
+#95|@is_BOSS|2175
 #96|@AnUtterlyKarBot|2174
 #97|@knight_128|2144
 #98|@Kizburb|2126
