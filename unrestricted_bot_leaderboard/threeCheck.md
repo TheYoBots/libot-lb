@@ -210,8 +210,8 @@ Rank|Bot|Rating
 #208|@admin-bot|1188
 #209|@Ujwal1001|1179
 #210|@Just-a-random-bot|1171
-#211|@pawnrobot|1170
-#212|@duythong1402|1165
+#211|@duythong1402|1165
+#212|@pawnrobot|1162
 #213|@Boom_Bot|1155
 #214|@thousandatom|1154
 #215|@MyNameIsSpeeedy|1147

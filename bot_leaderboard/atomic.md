@@ -20,6 +20,6 @@ Rank|Bot|Rating
 #18|@hashcake1|1342
 #19|@reaper1bot|1263
 #20|@genesis1bot|1184
-#21|@pawnrobot|1154
-#22|@puisne|1138
+#21|@puisne|1154
+#22|@pawnrobot|1153
 #23|@StockfishLowDepth|974

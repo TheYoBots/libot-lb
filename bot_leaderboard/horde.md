@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Bot1nokk|2623
 #3|@bot1e|2607
 #4|@SF_Bot1nok|2577
-#5|@RaspFish|2490
+#5|@RaspFish|2491
 #6|@rascal1|2447
 #7|@beastie1|2264
 #8|@calico1|2211
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@QiOui|2089
 #11|@MEGA-NOOB-BOT|2074
 #12|@kowalabi|2054
-#13|@OpeningsBot|2004
+#13|@OpeningsBot|1993
 #14|@rachl1|1915
 #15|@nickl1bot|1905
 #16|@JemBok|1819
@@ -21,5 +21,5 @@ Rank|Bot|Rating
 #19|@spyros1bot|1601
 #20|@Lancelbot|1523
 #21|@hashcake1|1231
-#22|@pawnrobot|1213
+#22|@pawnrobot|1221
 #23|@genesis1bot|1078

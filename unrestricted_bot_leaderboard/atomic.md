@@ -358,9 +358,9 @@ Rank|Bot|Rating
 #356|@clrsrc_lc0|1168
 #357|@Jaymombot|1166
 #358|@SipsonsamsonBOT|1161
-#359|@pawnrobot|1154
-#360|@Happy_One|1138
-#361|@puisne|1138
+#359|@puisne|1154
+#360|@pawnrobot|1153
+#361|@Happy_One|1138
 #362|@Pawn_Stormer_D4|1124
 #363|@the_nicholas_bot|1110
 #364|@MyNameIsSpeedy|1108

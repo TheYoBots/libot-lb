@@ -12,10 +12,9 @@ Rank|Bot|Rating
 #10|@QiOui|1793
 #11|@rachl1|1788
 #12|@nickl1bot|1668
-#13|@OpeningsBot|1647
-#14|@JemBok|1550
-#15|@clementyne1|1476
-#16|@Lancelbot|1373
-#17|@hashcake1|1213
-#18|@reaper1bot|1164
-#19|@genesis1bot|990
+#13|@JemBok|1550
+#14|@clementyne1|1476
+#15|@Lancelbot|1373
+#16|@hashcake1|1213
+#17|@reaper1bot|1164
+#18|@genesis1bot|990

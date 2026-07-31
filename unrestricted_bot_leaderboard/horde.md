@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@compchess2|2579
 #14|@SF_Bot1nok|2577
 #15|@Lili-ai|2572
-#16|@RaspFish|2490
+#16|@RaspFish|2491
 #17|@rascal1|2447
 #18|@HIWIN1234|2412
 #19|@EmptikVariantsBot|2402
@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@YoBot_v2|2019
 #71|@ESC_BOT|2016
 #72|@lightspeed_bot|2010
-#73|@OpeningsBot|2004
-#74|@The-Fastest-Bot|2000
+#73|@The-Fastest-Bot|2000
+#74|@OpeningsBot|1993
 #75|@Mega_BOT|1986
 #76|@BalloonBot|1939
 #77|@vrnts_colinbot|1932
@@ -184,8 +184,8 @@ Rank|Bot|Rating
 #182|@xDmanBOT|1258
 #183|@yobmef|1258
 #184|@hashcake1|1231
-#185|@TheSystem_Bot|1218
-#186|@pawnrobot|1213
+#185|@pawnrobot|1221
+#186|@TheSystem_Bot|1218
 #187|@GuineaBot3|1212
 #188|@admin-bot|1209
 #189|@Happy_One|1207

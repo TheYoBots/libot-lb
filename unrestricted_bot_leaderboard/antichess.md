@@ -112,8 +112,8 @@ Rank|Bot|Rating
 #110|@AldoGamer001_Bot|2376
 #111|@Resolved-Bot|2369
 #112|@Trumpfor2O2O|2366
-#113|@HuxZero|2361
-#114|@anti-bot|2358
+#113|@anti-bot|2362
+#114|@HuxZero|2361
 #115|@Less_of_a_threat|2357
 #116|@Viet_BOT|2354
 #117|@higuyuu67776|2352
@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Lucror|2178
 #155|@GegeneBOT|2177
 #156|@DeepFriedFish|2165
-#157|@NilatacBot|2158
+#157|@NilatacBot|2155
 #158|@lightspeed_bot|2152
 #159|@AntiChessBot|2142
 #160|@OpeningsBot|2141
@@ -180,8 +180,8 @@ Rank|Bot|Rating
 #178|@antichesssss|1964
 #179|@Menganti|1963
 #180|@CloudBOT|1950
-#181|@CatNail|1914
-#182|@TestingBot1|1914
+#181|@TestingBot1|1914
+#182|@CatNail|1907
 #183|@Crepusculum|1881
 #184|@NoTallkOnlyGames|1871
 #185|@Lumac0|1861
