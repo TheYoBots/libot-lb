@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@nickl1bot|1905
 #16|@JemBok|1819
 #17|@clementyne1|1811
-#18|@is_BOSS|1803
+#18|@is_BOSS|1800
 #19|@spyros1bot|1601
 #20|@Lancelbot|1523
 #21|@hashcake1|1231

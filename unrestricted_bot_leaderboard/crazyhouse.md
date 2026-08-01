@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Iwantedtoplaychess|2600
 #25|@Bot1nokk|2595
 #26|@rascal1|2592
-#27|@DarkOnBot|2585
+#27|@DarkOnBot|2564
 #28|@EmptikVariantsBot|2548
 #29|@BotSuxX|2538
 #30|@RaspFish|2528
@@ -81,8 +81,8 @@ Rank|Bot|Rating
 #79|@BSTAF|2154
 #80|@StockfishLowDepth|2154
 #81|@abdcebot|2148
-#82|@is_BOSS|2143
-#83|@TheMatrix2025|2142
+#82|@TheMatrix2025|2142
+#83|@is_BOSS|2140
 #84|@QiOui|2134
 #85|@CloudBot_v2|2131
 #86|@HIWIN1234|2123
@@ -105,8 +105,8 @@ Rank|Bot|Rating
 #103|@nickl1bot|1995
 #104|@Bullet_bot_0526|1987
 #105|@Magnus-BOT|1986
-#106|@Stockfish-MEDIUM|1983
-#107|@PyChessBot|1978
+#106|@PyChessBot|1978
+#107|@Stockfish-MEDIUM|1970
 #108|@ESC_BOT|1966
 #109|@mrchessmanager|1962
 #110|@Hyper-Stockfish|1947

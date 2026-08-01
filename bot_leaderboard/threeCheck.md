@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@MEGA-NOOB-BOT|2237
 #3|@beastie1|2217
 #4|@calico1|2188
-#5|@OSaurus|2127
-#6|@is_BOSS|2125
+#5|@is_BOSS|2131
+#6|@OSaurus|2127
 #7|@QiOui|2057
 #8|@kowalabi|2052
 #9|@rachl1|1929
@@ -17,4 +17,4 @@ Rank|Bot|Rating
 #15|@hashcake1|1398
 #16|@reaper1bot|1369
 #17|@genesis1bot|1296
-#18|@DavidsGuterBot|1211
+#18|@DavidsGuterBot|1210

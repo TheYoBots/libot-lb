@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@newengine2022|2071
 #72|@vrnts_colinbot|2068
 #73|@KingfishX|2066
-#74|@is_BOSS|2064
+#74|@is_BOSS|2057
 #75|@NewChessEngine-ai|2046
 #76|@Hyper-Stockfish|2044
 #77|@Kizbuurb|2035

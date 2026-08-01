@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@MEGA-NOOB-BOT|2236
 #7|@kowalabi|2166
 #8|@abdcebot|2148
-#9|@is_BOSS|2143
+#9|@is_BOSS|2140
 #10|@QiOui|2134
 #11|@rachl1|2089
 #12|@nickl1bot|1995
@@ -16,4 +16,3 @@ Rank|Bot|Rating
 #14|@clementyne1|1841
 #15|@hashcake1|1425
 #16|@reaper1bot|1339
-#17|@genesis1bot|1077

@@ -67,9 +67,9 @@ Rank|Bot|Rating
 #65|@Bot_AOOP11|2141
 #66|@gage12_bot|2140
 #67|@Bobby_Fischer_BOT|2138
-#68|@abhisun_bot|2129
-#69|@OSaurus|2127
-#70|@is_BOSS|2125
+#68|@is_BOSS|2131
+#69|@abhisun_bot|2129
+#70|@OSaurus|2127
 #71|@NienishiEngine|2124
 #72|@AnUtterlyKarBot|2103
 #73|@Lili-ai|2099
@@ -129,8 +129,8 @@ Rank|Bot|Rating
 #127|@JemBok|1799
 #128|@clementyne1|1793
 #129|@pussaW|1785
-#130|@OpeningsBot|1781
-#131|@Tacticall_Bot|1779
+#130|@Tacticall_Bot|1779
+#131|@OpeningsBot|1774
 #132|@XXXTryandTryXXX|1747
 #133|@CBNguyen_Bot|1741
 #134|@No_Username2|1741
@@ -204,8 +204,8 @@ Rank|Bot|Rating
 #202|@MyNameIsWhatLOL|1256
 #203|@SneakyBot21|1256
 #204|@TORTADEMANZANA023|1233
-#205|@DavidsGuterBot|1211
-#206|@suniferia|1211
+#205|@suniferia|1211
+#206|@DavidsGuterBot|1210
 #207|@heatseeker223|1191
 #208|@admin-bot|1188
 #209|@Ujwal1001|1179

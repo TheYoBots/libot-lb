@@ -96,7 +96,7 @@ Rank|Bot|Rating
 #94|@clementyne1|1811
 #95|@Breeze-Hot|1809
 #96|@GodelEscherBot|1805
-#97|@is_BOSS|1803
+#97|@is_BOSS|1800
 #98|@Yemmi-Yemmi|1799
 #99|@thibot|1789
 #100|@RobotTigerSlav|1781
