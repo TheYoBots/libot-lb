@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@chesshyperbot|2259
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
-#76|@abdcebot|2244
-#77|@GodelEscherBot|2244
+#76|@GodelEscherBot|2244
+#77|@abdcebot|2242
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
@@ -92,10 +92,10 @@ Rank|Bot|Rating
 #90|@Trainspotter|2200
 #91|@Hyper-Stockfish|2189
 #92|@Johnsun|2181
-#93|@is_BOSS|2177
-#94|@bot1e|2176
-#95|@HuxZero|2176
-#96|@AnUtterlyKarBot|2174
+#93|@bot1e|2176
+#94|@HuxZero|2176
+#95|@AnUtterlyKarBot|2174
+#96|@is_BOSS|2172
 #97|@knight_128|2144
 #98|@Kizburb|2126
 #99|@mc-king-098|2124

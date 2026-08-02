@@ -3,13 +3,13 @@ Rank|Bot|Rating
 #1|@EmptikBot|3070
 #2|@Fairy_Belzedar|3044
 #3|@VariantsBot|3021
-#4|@abdcebot|2991
+#4|@abdcebot|2983
 #5|@UltimateVariants|2978
 #6|@EmptikVariantsBot|2957
 #7|@ToromBot|2943
 #8|@bot1e|2901
-#9|@SF_Bot1nok|2889
-#10|@Bot1nokk|2885
+#9|@Bot1nokk|2893
+#10|@SF_Bot1nok|2889
 #11|@Coolman2021|2879
 #12|@TheMatrix2029|2866
 #13|@UltronBot|2859
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@DrSmartBugs|2412
 #103|@Monastedrez|2410
 #104|@AttackingOrDefending|2409
-#105|@is_BOSS|2406
+#105|@is_BOSS|2407
 #106|@BitExtender128|2403
 #107|@ESC_BOT|2394
 #108|@CatBot_14|2393
@@ -180,7 +180,7 @@ Rank|Bot|Rating
 #178|@antichesssss|1964
 #179|@Menganti|1963
 #180|@CloudBOT|1950
-#181|@CatNail|1916
+#181|@CatNail|1926
 #182|@TestingBot1|1914
 #183|@Crepusculum|1881
 #184|@NoTallkOnlyGames|1871
@@ -311,8 +311,8 @@ Rank|Bot|Rating
 #309|@Official_bot|1301
 #310|@GuineaBot3|1297
 #311|@MeetNarangBOT|1287
-#312|@KaTHHHH|1264
-#313|@puisne|1250
+#312|@puisne|1272
+#313|@KaTHHHH|1264
 #314|@chicken_farmer|1241
 #315|@PranavChessBot|1212
 #316|@Toxic_Bot|1202

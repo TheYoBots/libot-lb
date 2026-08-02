@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@clementyne1|1520
 #16|@hashcake1|1342
 #17|@reaper1bot|1263
-#18|@pawnrobot|1191
+#18|@puisne|1219
 #19|@genesis1bot|1184
-#20|@puisne|1154
+#20|@pawnrobot|1183
 #21|@StockfishLowDepth|974

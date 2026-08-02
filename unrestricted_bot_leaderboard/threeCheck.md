@@ -65,9 +65,9 @@ Rank|Bot|Rating
 #63|@ZhangirKhanBOT|2148
 #64|@Mega_BOT|2146
 #65|@Bot_AOOP11|2141
-#66|@gage12_bot|2140
-#67|@Bobby_Fischer_BOT|2138
-#68|@is_BOSS|2135
+#66|@is_BOSS|2141
+#67|@gage12_bot|2140
+#68|@Bobby_Fischer_BOT|2138
 #69|@abhisun_bot|2129
 #70|@OSaurus|2127
 #71|@NienishiEngine|2124
@@ -88,8 +88,8 @@ Rank|Bot|Rating
 #86|@Resolved-Bot|2026
 #87|@BalloonBot|2017
 #88|@firstrobot|2003
-#89|@abdcebot|1989
-#90|@Hyper-Stockfish|1986
+#89|@Hyper-Stockfish|1986
+#90|@abdcebot|1982
 #91|@GodelEscherBot|1974
 #92|@XXIstCentury|1973
 #93|@MMC_HUANGBAI|1965

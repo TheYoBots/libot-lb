@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2318
-#2|@abdcebot|2244
+#2|@abdcebot|2242
 #3|@MEGA-NOOB-BOT|2200
-#4|@is_BOSS|2177
+#4|@is_BOSS|2172
 #5|@kowalabi|1878
 #6|@QiOui|1793
 #7|@rachl1|1788

@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@calico1|2320
 #6|@MEGA-NOOB-BOT|2240
 #7|@kowalabi|2166
-#8|@is_BOSS|2152
-#9|@abdcebot|2148
+#8|@is_BOSS|2158
+#9|@abdcebot|2156
 #10|@QiOui|2134
 #11|@rachl1|2089
 #12|@nickl1bot|1995
