@@ -42,12 +42,12 @@ Rank|Bot|Rating
 #40|@Ujwal1001|2297
 #41|@robiachess|2295
 #42|@chmod-bot|2293
-#43|@ChessatronBot|2291
-#44|@Quanticade|2286
-#45|@mrohCentaur|2285
+#43|@Quanticade|2286
+#44|@mrohCentaur|2285
+#45|@Blunderbuss-bot|2277
 #46|@Toodfish|2273
-#47|@Blunderbuss-bot|2271
-#48|@Cheng-4|2269
+#47|@Cheng-4|2269
+#48|@ChessatronBot|2268
 #49|@OpeningsBot|2262
 #50|@eggnog-chess-engine|2254
 #51|@Blue_Mongoose|2249

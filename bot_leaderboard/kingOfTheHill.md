@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@MEGA-NOOB-BOT|2194
 #3|@beastie1|2112
 #4|@calico1|2077
-#5|@is_BOSS|2069
+#5|@is_BOSS|2070
 #6|@kowalabi|1906
 #7|@QiOui|1834
 #8|@nickl1bot|1769

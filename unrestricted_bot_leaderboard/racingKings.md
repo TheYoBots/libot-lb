@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
-#77|@abdcebot|2242
+#77|@abdcebot|2239
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
@@ -95,7 +95,7 @@ Rank|Bot|Rating
 #93|@bot1e|2177
 #94|@HuxZero|2176
 #95|@AnUtterlyKarBot|2174
-#96|@is_BOSS|2168
+#96|@is_BOSS|2171
 #97|@knight_128|2144
 #98|@Kizburb|2126
 #99|@mc-king-098|2124

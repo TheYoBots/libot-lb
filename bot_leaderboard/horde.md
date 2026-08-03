@@ -17,9 +17,8 @@ Rank|Bot|Rating
 #15|@rachl1|1915
 #16|@nickl1bot|1905
 #17|@JemBok|1819
-#18|@is_BOSS|1805
-#19|@spyros1bot|1601
-#20|@Lancelbot|1523
-#21|@hashcake1|1231
-#22|@pawnrobot|1220
-#23|@genesis1bot|1078
+#18|@is_BOSS|1811
+#19|@Lancelbot|1523
+#20|@hashcake1|1231
+#21|@pawnrobot|1220
+#22|@genesis1bot|1078

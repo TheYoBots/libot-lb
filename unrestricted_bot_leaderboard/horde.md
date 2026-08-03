@@ -94,9 +94,9 @@ Rank|Bot|Rating
 #92|@Lili-Variants|1846
 #93|@JemBok|1819
 #94|@clementyne1|1811
-#95|@Breeze-Hot|1809
-#96|@GodelEscherBot|1805
-#97|@is_BOSS|1805
+#95|@is_BOSS|1811
+#96|@Breeze-Hot|1809
+#97|@GodelEscherBot|1805
 #98|@Yemmi-Yemmi|1799
 #99|@thibot|1789
 #100|@RobotTigerSlav|1781

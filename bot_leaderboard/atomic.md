@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2249
 #4|@SF_Bot1nok|2247
 #5|@rascal1|2234
-#6|@is_BOSS|2202
+#6|@is_BOSS|2208
 #7|@RaspFish|2145
 #8|@beastie1|2126
 #9|@calico1|2083
@@ -18,4 +18,4 @@ Rank|Bot|Rating
 #16|@puisne|1219
 #17|@genesis1bot|1184
 #18|@pawnrobot|1183
-#19|@StockfishLowDepth|973
+#19|@StockfishLowDepth|983
