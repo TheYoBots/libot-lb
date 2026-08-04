@@ -93,7 +93,7 @@ Rank|Bot|Rating
 #91|@B0T5_RU13|1852
 #92|@Lili-Variants|1846
 #93|@JemBok|1819
-#94|@is_BOSS|1817
+#94|@is_BOSS|1816
 #95|@clementyne1|1811
 #96|@Breeze-Hot|1809
 #97|@GodelEscherBot|1805
@@ -184,8 +184,8 @@ Rank|Bot|Rating
 #182|@xDmanBOT|1258
 #183|@yobmef|1258
 #184|@hashcake1|1231
-#185|@pawnrobot|1220
-#186|@TheSystem_Bot|1218
+#185|@TheSystem_Bot|1218
+#186|@pawnrobot|1217
 #187|@GuineaBot3|1212
 #188|@admin-bot|1209
 #189|@Happy_One|1207

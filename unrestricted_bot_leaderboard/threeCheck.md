@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@DeepFriedFish|2185
 #59|@virus_exe-bot|2180
 #60|@ReallyCrazyBOT|2172
-#61|@is_BOSS|2165
+#61|@is_BOSS|2158
 #62|@CheckmateX1|2150
 #63|@ResoluteBot|2150
 #64|@ZhangirKhanBOT|2148
@@ -96,11 +96,11 @@ Rank|Bot|Rating
 #94|@Team_bot_08512|1963
 #95|@Botzer|1961
 #96|@Lili-Variants|1955
-#97|@abdcebot|1952
-#98|@lightspeed_bot|1951
-#99|@pistol-play|1939
-#100|@PROBOT123567|1936
-#101|@PetersTestBot|1935
+#97|@lightspeed_bot|1951
+#98|@pistol-play|1939
+#99|@PROBOT123567|1936
+#100|@PetersTestBot|1935
+#101|@abdcebot|1933
 #102|@rachl1|1929
 #103|@Lila-Stockfish|1917
 #104|@SkyBlaster|1913
@@ -127,8 +127,8 @@ Rank|Bot|Rating
 #125|@ElFinsBoT|1808
 #126|@JemBok|1799
 #127|@clementyne1|1793
-#128|@Stockfish-MEDIUM|1792
-#129|@pussaW|1785
+#128|@pussaW|1785
+#129|@Stockfish-MEDIUM|1784
 #130|@Tacticall_Bot|1779
 #131|@OpeningsBot|1774
 #132|@XXXTryandTryXXX|1747
