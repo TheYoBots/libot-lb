@@ -1,9 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Bot1nokk|2617
-#2|@MEGA-NOOB-BOT|2266
-#3|@abdcebot|2151
-#4|@is_BOSS|2141
-#5|@QiOui|2134
-#6|@hashcake1|1425
-#7|@reaper1bot|1339
+#1|@SF_Bot1nok|2621
+#2|@Bot1nokk|2617
+#3|@MEGA-NOOB-BOT|2287
+#4|@abdcebot|2160
+#5|@is_BOSS|2144
+#6|@QiOui|2134
+#7|@hashcake1|1425
+#8|@reaper1bot|1339

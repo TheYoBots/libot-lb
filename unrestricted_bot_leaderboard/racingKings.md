@@ -76,14 +76,14 @@ Rank|Bot|Rating
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
-#77|@abdcebot|2238
+#77|@abdcebot|2236
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
 #81|@HerokuHasnotplay|2215
 #82|@Zer0_Tw0|2210
 #83|@FairyTailRegimeBot|2206
-#84|@MEGA-NOOB-BOT|2205
+#84|@MEGA-NOOB-BOT|2203
 #85|@AIAlphaAI|2200
 #86|@Berserk12-X|2200
 #87|@higuyuu67776|2200
@@ -93,8 +93,8 @@ Rank|Bot|Rating
 #91|@Hyper-Stockfish|2189
 #92|@Johnsun|2181
 #93|@bot1e|2177
-#94|@HuxZero|2176
-#95|@is_BOSS|2175
+#94|@is_BOSS|2177
+#95|@HuxZero|2176
 #96|@AnUtterlyKarBot|2174
 #97|@knight_128|2144
 #98|@Kizburb|2126
