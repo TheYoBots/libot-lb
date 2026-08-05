@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@HerokuHasnotplay|2215
 #82|@Zer0_Tw0|2210
 #83|@FairyTailRegimeBot|2206
-#84|@MEGA-NOOB-BOT|2203
+#84|@MEGA-NOOB-BOT|2202
 #85|@AIAlphaAI|2200
 #86|@Berserk12-X|2200
 #87|@higuyuu67776|2200
@@ -92,7 +92,7 @@ Rank|Bot|Rating
 #90|@Trainspotter|2200
 #91|@Hyper-Stockfish|2189
 #92|@Johnsun|2181
-#93|@is_BOSS|2178
+#93|@is_BOSS|2180
 #94|@bot1e|2177
 #95|@HuxZero|2176
 #96|@AnUtterlyKarBot|2174

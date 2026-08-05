@@ -1,7 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2210
-#2|@is_BOSS|2070
+#1|@MEGA-NOOB-BOT|2221
+#2|@is_BOSS|2067
 #3|@QiOui|1834
-#4|@reaper1bot|1310
-#5|@DavidsGuterBot|1242
+#4|@DavidsGuterBot|1242
