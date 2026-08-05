@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Bot1nokk|2617
 #3|@MEGA-NOOB-BOT|2287
 #4|@abdcebot|2160
-#5|@is_BOSS|2144
+#5|@is_BOSS|2146
 #6|@QiOui|2134
 #7|@hashcake1|1425
 #8|@reaper1bot|1339

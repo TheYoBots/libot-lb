@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@Trainspotter|2200
 #91|@Hyper-Stockfish|2189
 #92|@Johnsun|2181
-#93|@bot1e|2177
-#94|@is_BOSS|2177
+#93|@is_BOSS|2178
+#94|@bot1e|2177
 #95|@HuxZero|2176
 #96|@AnUtterlyKarBot|2174
 #97|@knight_128|2144

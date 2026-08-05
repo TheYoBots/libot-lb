@@ -1,10 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@MEGA-NOOB-BOT|2245
-#2|@is_BOSS|2145
-#3|@OSaurus|2127
-#4|@QiOui|2057
-#5|@hashcake1|1398
-#6|@reaper1bot|1369
-#7|@genesis1bot|1296
-#8|@DavidsGuterBot|1210
+#2|@is_BOSS|2142
+#3|@QiOui|2057
+#4|@hashcake1|1398
+#5|@reaper1bot|1369
+#6|@genesis1bot|1296
+#7|@DavidsGuterBot|1210

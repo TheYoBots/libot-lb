@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@ResoluteBot|2150
 #63|@ZhangirKhanBOT|2148
 #64|@Mega_BOT|2146
-#65|@is_BOSS|2145
+#65|@is_BOSS|2142
 #66|@Bot_AOOP11|2141
 #67|@gage12_bot|2140
 #68|@Bobby_Fischer_BOT|2138
@@ -100,8 +100,8 @@ Rank|Bot|Rating
 #98|@pistol-play|1939
 #99|@PROBOT123567|1936
 #100|@PetersTestBot|1935
-#101|@abdcebot|1933
-#102|@rachl1|1929
+#101|@rachl1|1929
+#102|@abdcebot|1925
 #103|@Lila-Stockfish|1917
 #104|@SkyBlaster|1913
 #105|@HyperLitikBOT|1908

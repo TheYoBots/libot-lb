@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@UnDisstoppableBot|2193
 #44|@SF_Bot1nok|2190
 #45|@Amrobotone|2184
-#46|@abdcebot|2172
+#46|@abdcebot|2177
 #47|@eNErGyOFbEiNGbOT|2166
 #48|@HuxZero|2163
 #49|@colinbot|2148
@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@calico1|2077
 #69|@Xerus_1|2076
 #70|@newengine2022|2071
-#71|@is_BOSS|2068
+#71|@is_BOSS|2070
 #72|@vrnts_colinbot|2068
 #73|@KingfishX|2066
 #74|@NewChessEngine-ai|2046
@@ -192,8 +192,8 @@ Rank|Bot|Rating
 #190|@jasans_bot|1268
 #191|@ChessChipBot|1258
 #192|@Hrant_Petrosyan_BOT|1258
-#193|@HiddeNL|1242
-#194|@DavidsGuterBot|1241
+#193|@DavidsGuterBot|1242
+#194|@HiddeNL|1242
 #195|@knight_128|1233
 #196|@MyNameIsSpeedy|1226
 #197|@Bottios|1223

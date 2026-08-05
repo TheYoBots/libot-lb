@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@SCP079|2156
 #80|@BSTAF|2154
 #81|@StockfishLowDepth|2154
-#82|@is_BOSS|2144
+#82|@is_BOSS|2146
 #83|@TheMatrix2025|2142
 #84|@QiOui|2134
 #85|@CloudBot_v2|2131
@@ -127,12 +127,12 @@ Rank|Bot|Rating
 #125|@MyNameIsSpeeedy|1861
 #126|@Bot_AOOP11|1858
 #127|@JemBok|1856
-#128|@Stockfish-MEDIUM|1854
-#129|@clementyne1|1841
-#130|@AnUtterlyKarBot|1829
-#131|@Dong_Xiao_Yuan|1829
-#132|@Alehkine_cat|1828
-#133|@SugarAndSpice|1828
+#128|@clementyne1|1841
+#129|@AnUtterlyKarBot|1829
+#130|@Dong_Xiao_Yuan|1829
+#131|@Alehkine_cat|1828
+#132|@SugarAndSpice|1828
+#133|@Stockfish-MEDIUM|1827
 #134|@HumanBOT_lv1929|1808
 #135|@rayking311|1808
 #136|@RobotTigerSlav|1805

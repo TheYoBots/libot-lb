@@ -3,9 +3,7 @@ Rank|Bot|Rating
 #1|@RaspFish|2318
 #2|@abdcebot|2236
 #3|@MEGA-NOOB-BOT|2203
-#4|@is_BOSS|2177
-#5|@kowalabi|1878
-#6|@QiOui|1793
-#7|@hashcake1|1213
-#8|@reaper1bot|1164
-#9|@genesis1bot|990
+#4|@is_BOSS|2178
+#5|@hashcake1|1213
+#6|@reaper1bot|1164
+#7|@genesis1bot|990
