@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2342
-#2|@SF_Bot1nok|2235
-#3|@Bot1nokk|2233
-#4|@is_BOSS|2205
-#5|@RaspFish|2145
+#1|@MEGA-NOOB-BOT|2337
+#2|@Bot1nokk|2246
+#3|@SF_Bot1nok|2235
+#4|@is_BOSS|2202
+#5|@RaspFish|2140
 #6|@puisne|1219
-#7|@pawnrobot|1182
+#7|@pawnrobot|1183
 #8|@StockfishLowDepth|980
