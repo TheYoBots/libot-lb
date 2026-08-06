@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@DarkOnBot|2381
 #7|@MEGA-NOOB-BOT|2112
 #8|@QiOui|2089
-#9|@OpeningsBot|1983
+#9|@OpeningsBot|1965
 #10|@rachl1|1915
 #11|@is_BOSS|1823
-#12|@pawnrobot|1217
+#12|@pawnrobot|1219

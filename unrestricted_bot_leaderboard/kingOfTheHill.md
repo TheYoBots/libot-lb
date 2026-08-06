@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@PowerOnBot|2195
 #44|@UnDisstoppableBot|2193
 #45|@Amrobotone|2184
-#46|@abdcebot|2166
+#46|@abdcebot|2172
 #47|@eNErGyOFbEiNGbOT|2166
 #48|@HuxZero|2163
 #49|@colinbot|2148
@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@calico1|2077
 #69|@Xerus_1|2076
 #70|@newengine2022|2071
-#71|@vrnts_colinbot|2068
-#72|@is_BOSS|2067
+#71|@is_BOSS|2068
+#72|@vrnts_colinbot|2068
 #73|@KingfishX|2066
 #74|@NewChessEngine-ai|2046
 #75|@Hyper-Stockfish|2044

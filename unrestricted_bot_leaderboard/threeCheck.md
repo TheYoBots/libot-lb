@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@JemBok|1799
 #127|@clementyne1|1793
 #128|@pussaW|1785
-#129|@Stockfish-MEDIUM|1784
+#129|@Stockfish-MEDIUM|1779
 #130|@Tacticall_Bot|1779
 #131|@OpeningsBot|1774
 #132|@XXXTryandTryXXX|1747

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2987
+#1|@abdcebot|2982
 #2|@bot1e|2891
 #3|@Bot1nokk|2884
 #4|@SF_Bot1nok|2883
@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@Royal-Bot|2700
 #7|@DarkOnBot|2636
 #8|@MEGA-NOOB-BOT|2489
-#9|@is_BOSS|2432
-#10|@anti-bot|2369
+#9|@is_BOSS|2436
+#10|@anti-bot|2403
 #11|@NilatacBot|2139
-#12|@CatNail|2036
-#13|@pawnrobot|1382
+#12|@CatNail|2034
+#13|@pawnrobot|1387
 #14|@puisne|1243

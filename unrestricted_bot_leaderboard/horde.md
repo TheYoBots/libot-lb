@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@lightspeed_bot|2010
 #74|@The-Fastest-Bot|2000
 #75|@Mega_BOT|1986
-#76|@OpeningsBot|1983
+#76|@OpeningsBot|1965
 #77|@BalloonBot|1939
 #78|@vrnts_colinbot|1932
 #79|@Magnus-BOT|1923
@@ -185,8 +185,8 @@ Rank|Bot|Rating
 #183|@xDmanBOT|1258
 #184|@yobmef|1258
 #185|@hashcake1|1231
-#186|@TheSystem_Bot|1218
-#187|@pawnrobot|1217
+#186|@pawnrobot|1219
+#187|@TheSystem_Bot|1218
 #188|@GuineaBot3|1212
 #189|@admin-bot|1209
 #190|@Happy_One|1207

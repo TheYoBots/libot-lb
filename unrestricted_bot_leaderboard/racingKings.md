@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
-#77|@abdcebot|2236
+#77|@abdcebot|2235
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@Challenger_crazy|1652
 #158|@ROBOT_RANDEER2007|1651
 #159|@Heman36541234578|1647
-#160|@OpeningsBot|1647
+#160|@OpeningsBot|1639
 #161|@aliooooooo444|1596
 #162|@HiddeNL|1573
 #163|@TheSystem_Bot|1572
