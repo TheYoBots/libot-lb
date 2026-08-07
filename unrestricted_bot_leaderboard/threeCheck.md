@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@ToromBot|2382
 #33|@GoblinAjedrezAI|2371
 #34|@Viet_BOT|2367
-#35|@Zer0_Tw0|2332
-#36|@rascal1|2319
+#35|@rascal1|2347
+#36|@Zer0_Tw0|2332
 #37|@colinbot|2309
 #38|@LudwigBOT|2304
 #39|@lord-bot|2300
@@ -101,8 +101,8 @@ Rank|Bot|Rating
 #99|@PROBOT123567|1936
 #100|@PetersTestBot|1935
 #101|@rachl1|1929
-#102|@abdcebot|1922
-#103|@Lila-Stockfish|1917
+#102|@Lila-Stockfish|1917
+#103|@abdcebot|1915
 #104|@SkyBlaster|1913
 #105|@HyperLitikBOT|1908
 #106|@HakoAI|1894

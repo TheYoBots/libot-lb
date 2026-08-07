@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
-#77|@abdcebot|2234
+#77|@abdcebot|2233
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
