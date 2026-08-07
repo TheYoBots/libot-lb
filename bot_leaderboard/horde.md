@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@abdcebot|2791
 #2|@bot1e|2630
 #3|@Bot1nokk|2601
-#4|@SF_Bot1nok|2565
+#4|@SF_Bot1nok|2569
 #5|@RaspFish|2496
 #6|@DarkOnBot|2367
-#7|@MEGA-NOOB-BOT|2104
+#7|@MEGA-NOOB-BOT|2106
 #8|@is_BOSS|1823
 #9|@pawnrobot|1234

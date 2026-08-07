@@ -48,10 +48,10 @@ Rank|Bot|Rating
 #46|@Jussicas|2373
 #47|@TheMatrix2025|2368
 #48|@Lili-Variants|2357
-#49|@DarkOnBot|2347
-#50|@Viet_BOT|2344
-#51|@virus_exe-bot|2342
-#52|@BotsFanClub|2338
+#49|@Viet_BOT|2344
+#50|@virus_exe-bot|2342
+#51|@BotsFanClub|2338
+#52|@DarkOnBot|2336
 #53|@EvenMatchup|2336
 #54|@ibep|2333
 #55|@CloudBot_v2|2331
@@ -81,8 +81,8 @@ Rank|Bot|Rating
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
 #81|@HerokuHasnotplay|2215
-#82|@Zer0_Tw0|2210
-#83|@MEGA-NOOB-BOT|2208
+#82|@MEGA-NOOB-BOT|2210
+#83|@Zer0_Tw0|2210
 #84|@FairyTailRegimeBot|2206
 #85|@AIAlphaAI|2200
 #86|@Berserk12-X|2200
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@Challenger_crazy|1652
 #158|@ROBOT_RANDEER2007|1651
 #159|@Heman36541234578|1647
-#160|@OpeningsBot|1639
+#160|@OpeningsBot|1641
 #161|@aliooooooo444|1596
 #162|@HiddeNL|1573
 #163|@TheSystem_Bot|1572

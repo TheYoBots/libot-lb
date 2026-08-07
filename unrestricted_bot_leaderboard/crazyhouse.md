@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@tbhOnBot|2675
 #17|@ResoluteBot|2668
 #18|@icbmsaregoated2|2664
-#19|@SF_Bot1nok|2639
+#19|@SF_Bot1nok|2634
 #20|@ibep|2633
 #21|@SkyBlaster|2614
 #22|@colinbot|2612
@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@rascal1|2592
 #27|@EmptikVariantsBot|2548
 #28|@BotSuxX|2538
-#29|@DarkOnBot|2533
-#30|@LudwigBOT|2527
+#29|@LudwigBOT|2527
+#30|@DarkOnBot|2512
 #31|@X2-ITL|2501
 #32|@RaspFish|2497
 #33|@bot1e|2475
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@Yemmi-Yemmi|2305
 #55|@Bot_Mittens|2303
 #56|@OSaurus|2301
-#57|@MEGA-NOOB-BOT|2297
+#57|@MEGA-NOOB-BOT|2294
 #58|@OlympusCz|2292
 #59|@iplayonlyrandom|2282
 #60|@NormalBlitzBulletBot|2278
@@ -81,8 +81,8 @@ Rank|Bot|Rating
 #79|@BSTAF|2154
 #80|@StockfishLowDepth|2154
 #81|@is_BOSS|2150
-#82|@TheMatrix2025|2142
-#83|@abdcebot|2138
+#82|@abdcebot|2149
+#83|@TheMatrix2025|2142
 #84|@QiOui|2134
 #85|@CloudBot_v2|2131
 #86|@HIWIN1234|2123

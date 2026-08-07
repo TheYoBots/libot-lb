@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@ttBOT|2584
 #14|@compchess2|2579
 #15|@Lili-ai|2572
-#16|@SF_Bot1nok|2565
+#16|@SF_Bot1nok|2569
 #17|@RaspFish|2496
 #18|@rascal1|2447
 #19|@HIWIN1234|2412
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@jasans_bot|2116
 #55|@xiang-qi|2115
 #56|@GCNbyFayE|2110
-#57|@MEGA-NOOB-BOT|2104
+#57|@MEGA-NOOB-BOT|2106
 #58|@CheckmateX1|2102
 #59|@chessbot2880|2098
 #60|@Galaxy_Guardian|2096
