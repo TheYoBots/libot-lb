@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Bot1nokk|2239
 #5|@is_BOSS|2202
 #6|@RaspFish|2140
-#7|@Stockfish-MEDIUM|1615
+#7|@Stockfish-MEDIUM|1599
 #8|@puisne|1219
 #9|@pawnrobot|1175
 #10|@StockfishLowDepth|980

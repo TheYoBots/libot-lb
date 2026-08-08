@@ -93,7 +93,7 @@ Rank|Bot|Rating
 #91|@Hyper-Stockfish|2189
 #92|@Johnsun|2181
 #93|@is_BOSS|2180
-#94|@bot1e|2177
+#94|@bot1e|2178
 #95|@HuxZero|2176
 #96|@AnUtterlyKarBot|2174
 #97|@knight_128|2144

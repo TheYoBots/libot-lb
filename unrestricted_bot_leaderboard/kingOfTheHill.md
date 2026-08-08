@@ -194,7 +194,7 @@ Rank|Bot|Rating
 #192|@Hrant_Petrosyan_BOT|1258
 #193|@HiddeNL|1242
 #194|@knight_128|1233
-#195|@DavidsGuterBot|1226
+#195|@DavidsGuterBot|1230
 #196|@MyNameIsSpeedy|1226
 #197|@Bottios|1223
 #198|@RSVMentor|1196

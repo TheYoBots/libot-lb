@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@rascal1|2617
 #9|@MEGA-NOOB-BOT|2471
 #10|@is_BOSS|2431
-#11|@anti-bot|2428
+#11|@anti-bot|2419
 #12|@NilatacBot|2136
 #13|@CatNail|2042
-#14|@pawnrobot|1395
+#14|@pawnrobot|1393
 #15|@puisne|1231
