@@ -3,4 +3,4 @@ Rank|Bot|Rating
 #1|@Moment-That-Inspires|2709
 #2|@pawn_git|2575
 #3|@OpeningsBot|2263
-#4|@Blunderbuss-bot|2256
+#4|@Blunderbuss-bot|2257

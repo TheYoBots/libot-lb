@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@SkyBlaster|2614
 #22|@colinbot|2612
 #23|@Xerus_1|2611
-#24|@rascal1|2610
-#25|@Bot1nokk|2607
+#24|@Bot1nokk|2607
+#25|@rascal1|2604
 #26|@Iwantedtoplaychess|2600
 #27|@EmptikVariantsBot|2548
 #28|@BotSuxX|2538
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@Yemmi-Yemmi|2305
 #55|@Bot_Mittens|2303
 #56|@OSaurus|2301
-#57|@MEGA-NOOB-BOT|2299
+#57|@MEGA-NOOB-BOT|2300
 #58|@OlympusCz|2292
 #59|@iplayonlyrandom|2282
 #60|@NormalBlitzBulletBot|2278
@@ -76,9 +76,9 @@ Rank|Bot|Rating
 #74|@lightspeed_bot|2177
 #75|@Sooraj_Kumar_P_S|2167
 #76|@kowalabi|2166
-#77|@Peaceful4Life|2160
-#78|@SCP079|2156
-#79|@abdcebot|2154
+#77|@abdcebot|2160
+#78|@Peaceful4Life|2160
+#79|@SCP079|2156
 #80|@BSTAF|2154
 #81|@StockfishLowDepth|2154
 #82|@is_BOSS|2150
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@Dong_Xiao_Yuan|1829
 #131|@Alehkine_cat|1828
 #132|@SugarAndSpice|1828
-#133|@Stockfish-MEDIUM|1823
+#133|@Stockfish-MEDIUM|1809
 #134|@HumanBOT_lv1929|1808
 #135|@rayking311|1808
 #136|@RobotTigerSlav|1805
@@ -254,7 +254,7 @@ Rank|Bot|Rating
 #252|@Magic11bot_Coach|1001
 #253|@JPSBOT|958
 #254|@FireTorchV2|955
-#255|@pawnrobot|908
+#255|@pawnrobot|890
 #256|@RSVMentor|862
 #257|@GuineaBot3|845
 #258|@MateCheckCapture|828
