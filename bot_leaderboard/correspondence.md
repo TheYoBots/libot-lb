@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Moment-That-Inspires|2709
+#1|@Moment-That-Inspires|2707
 #2|@pawn_git|2577
 #3|@OpeningsBot|2263
-#4|@Blunderbuss-bot|2257
+#4|@Blunderbuss-bot|2259

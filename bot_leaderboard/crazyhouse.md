@@ -3,6 +3,8 @@ Rank|Bot|Rating
 #1|@SF_Bot1nok|2634
 #2|@rascal1|2604
 #3|@Bot1nokk|2590
-#4|@MEGA-NOOB-BOT|2321
-#5|@abdcebot|2160
-#6|@is_BOSS|2150
+#4|@bot1e|2442
+#5|@DarkOnBot|2438
+#6|@MEGA-NOOB-BOT|2344
+#7|@abdcebot|2160
+#8|@is_BOSS|2150

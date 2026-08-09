@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@EvenMatchup|2336
 #53|@ibep|2333
 #54|@CloudBot_v2|2331
-#55|@DarkOnBot|2331
+#55|@DarkOnBot|2327
 #56|@colinbot|2322
 #57|@Worst-ai|2319
 #58|@rascal1|2318
@@ -80,8 +80,8 @@ Rank|Bot|Rating
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
-#81|@HerokuHasnotplay|2215
-#82|@MEGA-NOOB-BOT|2215
+#81|@MEGA-NOOB-BOT|2222
+#82|@HerokuHasnotplay|2215
 #83|@Zer0_Tw0|2210
 #84|@FairyTailRegimeBot|2206
 #85|@AIAlphaAI|2200
@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@Trainspotter|2200
 #91|@Hyper-Stockfish|2189
 #92|@Johnsun|2181
-#93|@is_BOSS|2180
-#94|@bot1e|2179
+#93|@bot1e|2180
+#94|@is_BOSS|2180
 #95|@HuxZero|2176
 #96|@AnUtterlyKarBot|2174
 #97|@knight_128|2144
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@OSaurus|1967
 #115|@Yemmi-Yemmi|1964
 #116|@admin-bot|1955
-#117|@MyNameIsSpeedy|1935
-#118|@StockfishLowDepth|1920
+#117|@StockfishLowDepth|1936
+#118|@MyNameIsSpeedy|1935
 #119|@Pineapple-Friendly|1912
 #120|@Teamleaderbot|1904
 #121|@legendbot1|1893

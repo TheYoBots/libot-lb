@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@rascal1|2338
-#2|@MEGA-NOOB-BOT|2239
-#3|@RaspFish|2156
+#2|@MEGA-NOOB-BOT|2257
+#3|@RaspFish|2138
 #4|@is_BOSS|2119
-#5|@SF_Bot1nok|2059
-#6|@abdcebot|1931
-#7|@DavidsGuterBot|1212
+#5|@SF_Bot1nok|2048
+#6|@abdcebot|1936
+#7|@DavidsGuterBot|1213
