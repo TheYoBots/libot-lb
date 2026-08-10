@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@CorrespondenceBot|2353
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
-#35|@HansNiemannBot|2338
-#36|@ChessatronBot|2334
+#35|@ChessatronBot|2343
+#36|@HansNiemannBot|2338
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301
@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@Toodfish|2273
 #47|@Cheng-4|2269
 #48|@OpeningsBot|2263
-#49|@Blunderbuss-bot|2255
-#50|@eggnog-chess-engine|2254
+#49|@eggnog-chess-engine|2254
+#50|@Blunderbuss-bot|2251
 #51|@Blue_Mongoose|2249
 #52|@Zimbabwean_chessbot|2249
 #53|@nukechess-bot|2244

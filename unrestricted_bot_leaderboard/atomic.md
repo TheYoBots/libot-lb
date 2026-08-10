@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@Resolved-Bot|2363
 #40|@NewChessEngine-ai|2361
 #41|@CloudBot_v2|2357
-#42|@faith_bot|2353
-#43|@MEGA-NOOB-BOT|2351
+#42|@MEGA-NOOB-BOT|2357
+#43|@faith_bot|2353
 #44|@Lila-Stockfish|2350
 #45|@lord-bot|2349
 #46|@Viet-BOT|2349
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@Dean_Summer_Bot|2305
 #55|@icbmsaregoated2|2305
 #56|@PsychedelicAtomic|2296
-#57|@ToromBot|2295
+#57|@ToromBot|2287
 #58|@AndromedaSX1|2284
 #59|@vrnts_colinbot|2282
 #60|@TheMatrix2029|2278
@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@rascal1|2250
 #69|@YoBot_v2|2243
 #70|@MalanChess|2238
-#71|@SF_Bot1nok|2233
-#72|@Bot1nokk|2232
+#71|@Bot1nokk|2232
+#72|@SF_Bot1nok|2227
 #73|@STockfishdestroyBot|2227
 #74|@Kizburb|2220
 #75|@MagnusCarlsenTheBOT|2215
@@ -139,8 +139,8 @@ Rank|Bot|Rating
 #137|@MagnusCarlsen1507|2037
 #138|@HuxZero|2035
 #139|@EasyWinGG|2032
-#140|@Kizbuurb|2024
-#141|@abdcebot|2015
+#140|@abdcebot|2029
+#141|@Kizbuurb|2024
 #142|@colinbot|2014
 #143|@ESC_BOT|2011
 #144|@are_bots_good|2006
@@ -262,7 +262,7 @@ Rank|Bot|Rating
 #260|@Chess_omar_2009|1575
 #261|@Pineapple-Friendly|1569
 #262|@Bottios|1561
-#263|@Stockfish-MEDIUM|1555
+#263|@Stockfish-MEDIUM|1558
 #264|@bot-win-loh-nick|1554
 #265|@AntarticAnonymous|1553
 #266|@HiddeNL|1551
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@Lozza-Bot|1198
 #354|@ElFinsBoT|1191
 #355|@genesis1bot|1184
-#356|@pawnrobot|1176
+#356|@pawnrobot|1177
 #357|@GuineaBot2|1173
 #358|@clrsrc_lc0|1168
 #359|@Jaymombot|1166

@@ -1,8 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2316
-#2|@abdcebot|2237
-#3|@MEGA-NOOB-BOT|2219
-#4|@is_BOSS|2180
-#5|@StockfishLowDepth|1936
-#6|@OpeningsBot|1641
+#2|@SF_Bot1nok|2310
+#3|@abdcebot|2236
+#4|@MEGA-NOOB-BOT|2222
+#5|@is_BOSS|2180
+#6|@StockfishLowDepth|1936
+#7|@OpeningsBot|1641
