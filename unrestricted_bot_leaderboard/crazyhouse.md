@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@KingfishX|2347
 #48|@Worst-ai|2346
 #49|@chesshyperbot|2344
-#50|@MEGA-NOOB-BOT|2344
+#50|@MEGA-NOOB-BOT|2336
 #51|@EmptikBot|2332
 #52|@lord-bot|2329
 #53|@calico1|2320
@@ -74,9 +74,9 @@ Rank|Bot|Rating
 #72|@UltronBot|2197
 #73|@Viet-BOT|2185
 #74|@lightspeed_bot|2177
-#75|@Sooraj_Kumar_P_S|2167
-#76|@kowalabi|2166
-#77|@abdcebot|2160
+#75|@abdcebot|2171
+#76|@Sooraj_Kumar_P_S|2167
+#77|@kowalabi|2166
 #78|@Peaceful4Life|2160
 #79|@SCP079|2156
 #80|@BSTAF|2154
@@ -134,8 +134,8 @@ Rank|Bot|Rating
 #132|@SugarAndSpice|1828
 #133|@HumanBOT_lv1929|1808
 #134|@rayking311|1808
-#135|@Stockfish-MEDIUM|1806
-#136|@RobotTigerSlav|1805
+#135|@RobotTigerSlav|1805
+#136|@Stockfish-MEDIUM|1803
 #137|@bot1996123|1800
 #138|@Botzer|1787
 #139|@HyperLitikBOT|1778

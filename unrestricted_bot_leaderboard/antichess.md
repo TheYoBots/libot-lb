@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@pistol-play|2498
 #77|@FayEFish|2491
 #78|@colinbot|2489
-#79|@MEGA-NOOB-BOT|2482
+#79|@MEGA-NOOB-BOT|2484
 #80|@MrBOThacker|2477
 #81|@hauptschuleBOT|2475
 #82|@Alehkine_cat|2474
@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@ESC_BOT|2394
 #108|@CatBot_14|2393
 #109|@NormalBulletBot|2393
-#110|@AldoGamer001_Bot|2376
-#111|@anti-bot|2373
+#110|@anti-bot|2377
+#111|@AldoGamer001_Bot|2376
 #112|@Resolved-Bot|2369
 #113|@Trumpfor2O2O|2366
 #114|@HuxZero|2361
@@ -153,7 +153,7 @@ Rank|Bot|Rating
 #151|@EstmileBot|2200
 #152|@zipfile_chess-bot|2200
 #153|@HerokuHasnotplay|2196
-#154|@Stockfish-MEDIUM|2190
+#154|@Stockfish-MEDIUM|2184
 #155|@Lucror|2178
 #156|@GegeneBOT|2177
 #157|@DeepFriedFish|2165
@@ -164,11 +164,11 @@ Rank|Bot|Rating
 #162|@AnUtterlyKarBot|2134
 #163|@NilatacBot|2131
 #164|@XXIstCentury|2131
-#165|@PyChessBot|2102
-#166|@TurkiyeHogwartsBOT|2099
-#167|@nickl1bot|2086
-#168|@ZamuChess|2049
-#169|@CatNail|2027
+#165|@CatNail|2121
+#166|@PyChessBot|2102
+#167|@TurkiyeHogwartsBOT|2099
+#168|@nickl1bot|2086
+#169|@ZamuChess|2049
 #170|@Botzer|2020
 #171|@Jussicas|2019
 #172|@CloudBotZero|2018
@@ -294,7 +294,7 @@ Rank|Bot|Rating
 #292|@Menisciform|1387
 #293|@Jannik08_fan|1382
 #294|@Bot_of_jotim431|1378
-#295|@pawnrobot|1377
+#295|@pawnrobot|1376
 #296|@Bosburp777|1371
 #297|@pussaW|1361
 #298|@TheLegitLegend2|1360

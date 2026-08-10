@@ -76,11 +76,11 @@ Rank|Bot|Rating
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
-#77|@abdcebot|2229
+#77|@abdcebot|2237
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
-#81|@MEGA-NOOB-BOT|2222
+#81|@MEGA-NOOB-BOT|2219
 #82|@HerokuHasnotplay|2215
 #83|@Zer0_Tw0|2210
 #84|@FairyTailRegimeBot|2206

@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Viet-AI|2915
 #3|@Fairy_Belzedar|2857
 #4|@ToromBot|2780
-#5|@abdcebot|2775
+#5|@abdcebot|2776
 #6|@Coolman2021|2757
 #7|@Magicianrobot|2741
 #8|@Royal-Bot|2732
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@Karpov_bot|2145
 #51|@Bobby_Fischer_BOT|2136
 #52|@TheMatrix2025|2132
-#53|@MEGA-NOOB-BOT|2121
+#53|@MEGA-NOOB-BOT|2120
 #54|@Yebot|2118
 #55|@jasans_bot|2116
 #56|@xiang-qi|2115

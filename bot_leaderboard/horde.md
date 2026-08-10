@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2775
+#1|@abdcebot|2776
 #2|@bot1e|2658
 #3|@SF_Bot1nok|2590
 #4|@Bot1nokk|2571
 #5|@RaspFish|2525
 #6|@rascal1|2473
 #7|@DarkOnBot|2358
-#8|@MEGA-NOOB-BOT|2121
+#8|@MEGA-NOOB-BOT|2120
 #9|@is_BOSS|1823
 #10|@pawnrobot|1240

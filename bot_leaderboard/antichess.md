@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@Royal-Bot|2700
 #7|@DarkOnBot|2635
 #8|@rascal1|2617
-#9|@MEGA-NOOB-BOT|2482
+#9|@MEGA-NOOB-BOT|2484
 #10|@is_BOSS|2431
-#11|@anti-bot|2373
+#11|@anti-bot|2377
 #12|@NilatacBot|2131
-#13|@CatNail|2027
-#14|@pawnrobot|1377
+#13|@CatNail|2121
+#14|@pawnrobot|1376
 #15|@StockfishLowDepth|1347
 #16|@puisne|1231
