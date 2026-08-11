@@ -6,5 +6,5 @@ Rank|Bot|Rating
 #4|@DarkOnBot|2436
 #5|@bot1e|2394
 #6|@MEGA-NOOB-BOT|2343
-#7|@abdcebot|2167
+#7|@abdcebot|2165
 #8|@is_BOSS|2150

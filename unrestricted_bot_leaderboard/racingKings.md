@@ -55,10 +55,10 @@ Rank|Bot|Rating
 #53|@ibep|2333
 #54|@CloudBot_v2|2331
 #55|@colinbot|2322
-#56|@DarkOnBot|2320
-#57|@Worst-ai|2319
-#58|@rascal1|2318
-#59|@RaspFish|2316
+#56|@Worst-ai|2319
+#57|@rascal1|2318
+#58|@RaspFish|2316
+#59|@DarkOnBot|2315
 #60|@Bot_AOOP11|2314
 #61|@KingfishX|2312
 #62|@Viet-BOT|2312

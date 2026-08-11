@@ -75,9 +75,9 @@ Rank|Bot|Rating
 #73|@UltronBot|2197
 #74|@Viet-BOT|2185
 #75|@lightspeed_bot|2177
-#76|@abdcebot|2167
-#77|@Sooraj_Kumar_P_S|2167
-#78|@kowalabi|2166
+#76|@Sooraj_Kumar_P_S|2167
+#77|@kowalabi|2166
+#78|@abdcebot|2165
 #79|@Peaceful4Life|2160
 #80|@SCP079|2156
 #81|@BSTAF|2154

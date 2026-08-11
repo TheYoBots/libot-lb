@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|2779
+#1|@abdcebot|2780
 #2|@bot1e|2659
 #3|@SF_Bot1nok|2599
 #4|@Bot1nokk|2566
