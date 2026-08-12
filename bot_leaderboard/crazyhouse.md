@@ -4,8 +4,9 @@ Rank|Bot|Rating
 #2|@rascal1|2604
 #3|@Bot1nokk|2575
 #4|@DarkOnBot|2402
-#5|@bot1e|2382
-#6|@MEGA-NOOB-BOT|2361
-#7|@abdcebot|2161
+#5|@bot1e|2371
+#6|@MEGA-NOOB-BOT|2367
+#7|@abdcebot|2158
 #8|@is_BOSS|2150
 #9|@reaper1bot|1361
+#10|@genesis1bot|1132

@@ -2,10 +2,10 @@ Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2317
 #2|@DarkOnBot|2306
-#3|@abdcebot|2236
-#4|@MEGA-NOOB-BOT|2234
+#3|@abdcebot|2235
+#4|@MEGA-NOOB-BOT|2231
 #5|@is_BOSS|2180
-#6|@StockfishLowDepth|1930
+#6|@StockfishLowDepth|1939
 #7|@OpeningsBot|1641
 #8|@reaper1bot|1130
-#9|@genesis1bot|1030
+#9|@genesis1bot|1051
