@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@SF_Bot1nok|2221
 #6|@DarkOnBot|2218
 #7|@is_BOSS|2202
-#8|@RaspFish|2121
-#9|@abdcebot|2025
-#10|@Stockfish-MEDIUM|1588
+#8|@RaspFish|2138
+#9|@abdcebot|2030
+#10|@Stockfish-MEDIUM|1607
 #11|@genesis1bot|1225
-#12|@pawnrobot|1174
+#12|@pawnrobot|1169
 #13|@StockfishLowDepth|967

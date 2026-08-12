@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@The-Fastest-Bot|2402
 #43|@lightspeed_bot|2396
 #44|@thibot|2393
-#45|@ToromBot|2390
+#45|@ToromBot|2391
 #46|@Jussicas|2373
 #47|@TheMatrix2025|2368
 #48|@Lili-Variants|2357
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@colinbot|2322
 #56|@Worst-ai|2319
 #57|@rascal1|2318
-#58|@RaspFish|2316
+#58|@RaspFish|2317
 #59|@Bot_AOOP11|2314
 #60|@KingfishX|2312
 #61|@Viet-BOT|2312
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@OSaurus|1967
 #115|@Yemmi-Yemmi|1964
 #116|@admin-bot|1955
-#117|@StockfishLowDepth|1936
-#118|@MyNameIsSpeedy|1935
+#117|@MyNameIsSpeedy|1935
+#118|@StockfishLowDepth|1930
 #119|@Pineapple-Friendly|1912
 #120|@Teamleaderbot|1904
 #121|@legendbot1|1893

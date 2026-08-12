@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@DarkOnBot|2061
 #78|@ROBOT_RANDEER2007|2059
 #79|@QiOui|2057
-#80|@kowalabi|2052
+#80|@kowalabi|2056
 #81|@SF_Bot1nok|2052
 #82|@varient-chess-bot1|2046
 #83|@Galaxy_Guardian|2041
@@ -144,10 +144,10 @@ Rank|Bot|Rating
 #142|@the_checkmating_bot|1643
 #143|@CoderDen732|1639
 #144|@LegoTechnicControlPl|1638
-#145|@Stockfish-MEDIUM|1636
-#146|@Botkingteam33|1633
-#147|@almaznv_2BOT|1623
-#148|@jasans_bot|1621
+#145|@Botkingteam33|1633
+#146|@almaznv_2BOT|1623
+#147|@jasans_bot|1621
+#148|@Stockfish-MEDIUM|1615
 #149|@newengine2022|1588
 #150|@spyros1bot|1571
 #151|@Lancelbot|1569

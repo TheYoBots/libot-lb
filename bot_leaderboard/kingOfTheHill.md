@@ -4,6 +4,7 @@ Rank|Bot|Rating
 #2|@MEGA-NOOB-BOT|2246
 #3|@abdcebot|2164
 #4|@is_BOSS|2075
-#5|@reaper1bot|1326
-#6|@DavidsGuterBot|1230
-#7|@genesis1bot|1143
+#5|@hashcake1|1399
+#6|@reaper1bot|1319
+#7|@DavidsGuterBot|1230
+#8|@genesis1bot|1143

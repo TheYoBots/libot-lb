@@ -4,7 +4,9 @@ Rank|Bot|Rating
 #2|@MEGA-NOOB-BOT|2268
 #3|@is_BOSS|2119
 #4|@RaspFish|2109
-#5|@SF_Bot1nok|2052
-#6|@abdcebot|1937
-#7|@reaper1bot|1377
-#8|@DavidsGuterBot|1213
+#5|@kowalabi|2056
+#6|@SF_Bot1nok|2052
+#7|@abdcebot|1937
+#8|@Stockfish-MEDIUM|1615
+#9|@reaper1bot|1377
+#10|@DavidsGuterBot|1213
