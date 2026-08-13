@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@SkyBlaster|2614
 #23|@colinbot|2612
 #24|@Xerus_1|2611
-#25|@rascal1|2604
-#26|@Iwantedtoplaychess|2600
+#25|@Iwantedtoplaychess|2600
+#26|@rascal1|2596
 #27|@Bot1nokk|2575
 #28|@EmptikVariantsBot|2548
 #29|@BotSuxX|2538
@@ -57,8 +57,8 @@ Rank|Bot|Rating
 #55|@catalanbotI|2307
 #56|@Yemmi-Yemmi|2305
 #57|@Bot_Mittens|2303
-#58|@OSaurus|2301
-#59|@OlympusCz|2292
+#58|@OlympusCz|2292
+#59|@OSaurus|2286
 #60|@iplayonlyrandom|2282
 #61|@NormalBlitzBulletBot|2278
 #62|@MalanChess|2273

@@ -5,9 +5,10 @@ Rank|Bot|Rating
 #3|@SF_Bot1nok|2621
 #4|@Bot1nokk|2561
 #5|@RaspFish|2503
-#6|@rascal1|2473
+#6|@rascal1|2469
 #7|@DarkOnBot|2348
 #8|@MEGA-NOOB-BOT|2245
-#9|@pawnrobot|1271
-#10|@reaper1bot|1171
-#11|@genesis1bot|1076
+#9|@OSaurus|2209
+#10|@pawnrobot|1271
+#11|@reaper1bot|1171
+#12|@genesis1bot|1076

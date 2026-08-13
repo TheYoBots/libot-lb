@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@maia3-79m_800|3020
+#1|@maia3-79m_800|3027
 #2|@fibonachi|2956
 #3|@Grzechu86|2852
 #4|@Magicianrobot|2740
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@CorrespondenceBot|2353
 #33|@duchessAI|2344
 #34|@Shocky_BOT|2344
-#35|@ChessatronBot|2339
-#36|@HansNiemannBot|2338
+#35|@HansNiemannBot|2338
+#36|@ChessatronBot|2322
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
 #39|@AVeryBigMistake|2301
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Toodfish|2273
 #47|@Cheng-4|2269
 #48|@OpeningsBot|2263
-#49|@Blunderbuss-bot|2254
+#49|@Blunderbuss-bot|2262
 #50|@eggnog-chess-engine|2254
 #51|@Blue_Mongoose|2249
 #52|@Zimbabwean_chessbot|2249

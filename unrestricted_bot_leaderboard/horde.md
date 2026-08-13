@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@Lili-ai|2572
 #16|@Bot1nokk|2561
 #17|@RaspFish|2503
-#18|@rascal1|2473
+#18|@rascal1|2469
 #19|@HIWIN1234|2412
 #20|@EmptikVariantsBot|2402
 #21|@BOT_Stockfish13|2383
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@ElPeonElectrico|2242
 #41|@TacticalBot|2227
 #42|@calico1|2211
-#43|@UltronBot|2199
-#44|@OSaurus|2193
+#43|@OSaurus|2209
+#44|@UltronBot|2199
 #45|@GoblinAjedrezAI|2185
 #46|@FayEFish|2172
 #47|@Trumpfor2O2O|2162

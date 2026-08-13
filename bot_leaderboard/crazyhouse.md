@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@SF_Bot1nok|2627
-#2|@rascal1|2604
+#2|@rascal1|2596
 #3|@Bot1nokk|2575
 #4|@DarkOnBot|2402
 #5|@bot1e|2371
 #6|@MEGA-NOOB-BOT|2367
-#7|@abdcebot|2158
-#8|@is_BOSS|2150
+#7|@OSaurus|2286
+#8|@abdcebot|2158
 #9|@reaper1bot|1361
 #10|@genesis1bot|1132
