@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2392
+#1|@ToromBot|2386
 #2|@rascal1|2311
 #3|@DarkOnBot|2306
 #4|@RaspFish|2304
@@ -8,6 +8,5 @@ Rank|Bot|Rating
 #6|@abdcebot|2235
 #7|@OSaurus|1956
 #8|@StockfishLowDepth|1939
-#9|@OpeningsBot|1641
-#10|@reaper1bot|1130
-#11|@genesis1bot|1051
+#9|@reaper1bot|1130
+#10|@genesis1bot|1083

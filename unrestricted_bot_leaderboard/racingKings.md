@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@The-Fastest-Bot|2402
 #43|@lightspeed_bot|2396
 #44|@thibot|2393
-#45|@ToromBot|2392
+#45|@ToromBot|2386
 #46|@Jussicas|2373
 #47|@TheMatrix2025|2368
 #48|@Lili-Variants|2357
@@ -223,8 +223,8 @@ Rank|Bot|Rating
 #221|@BetaOneBot|1141
 #222|@GuineaBot2|1141
 #223|@reaper1bot|1130
-#224|@BogoBot|1074
-#225|@genesis1bot|1051
+#224|@genesis1bot|1083
+#225|@BogoBot|1074
 #226|@MateCheckCapture|1011
 #227|@ZX-Chess|982
 #228|@MinOpponentMoves|648

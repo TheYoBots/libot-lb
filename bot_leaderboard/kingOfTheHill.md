@@ -1,10 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rascal1|2399
+#1|@rascal1|2387
 #2|@MEGA-NOOB-BOT|2246
 #3|@abdcebot|2164
 #4|@OSaurus|2056
-#5|@hashcake1|1399
-#6|@reaper1bot|1319
-#7|@DavidsGuterBot|1230
-#8|@genesis1bot|1158
+#5|@rachl1|1802
+#6|@hashcake1|1399
+#7|@reaper1bot|1319
+#8|@DavidsGuterBot|1230
+#9|@genesis1bot|1180
