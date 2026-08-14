@@ -2,11 +2,12 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2386
 #2|@rascal1|2311
-#3|@DarkOnBot|2306
+#3|@DarkOnBot|2304
 #4|@RaspFish|2304
-#5|@MEGA-NOOB-BOT|2238
-#6|@abdcebot|2235
+#5|@MEGA-NOOB-BOT|2244
+#6|@abdcebot|2234
 #7|@OSaurus|1956
 #8|@StockfishLowDepth|1939
-#9|@reaper1bot|1130
-#10|@genesis1bot|1083
+#9|@hashcake1|1229
+#10|@reaper1bot|1124
+#11|@genesis1bot|1083
