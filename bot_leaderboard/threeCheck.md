@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@abdcebot|2007
 #11|@rachl1|1914
 #12|@nickl1bot|1804
-#13|@Stockfish-MEDIUM|1634
+#13|@Stockfish-MEDIUM|1637
 #14|@hashcake1|1436
 #15|@reaper1bot|1335
-#16|@genesis1bot|1297
-#17|@DavidsGuterBot|1213
+#16|@genesis1bot|1327
+#17|@DavidsGuterBot|1199

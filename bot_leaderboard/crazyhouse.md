@@ -13,4 +13,4 @@ Rank|Bot|Rating
 #11|@nickl1bot|2005
 #12|@hashcake1|1453
 #13|@reaper1bot|1350
-#14|@genesis1bot|1139
+#14|@genesis1bot|1144

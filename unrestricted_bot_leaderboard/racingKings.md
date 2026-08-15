@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@SF_Bot1nok|2308
 #62|@IAMSTOCKFISH123|2307
 #63|@DarkOnBot|2304
-#64|@RaspFish|2304
+#64|@RaspFish|2301
 #65|@TestingBot1|2294
 #66|@NormalBulletBot|2291
 #67|@YoBot_v2|2287
@@ -223,7 +223,7 @@ Rank|Bot|Rating
 #221|@BetaOneBot|1141
 #222|@GuineaBot2|1141
 #223|@reaper1bot|1124
-#224|@genesis1bot|1083
+#224|@genesis1bot|1085
 #225|@BogoBot|1074
 #226|@MateCheckCapture|1011
 #227|@ZX-Chess|982

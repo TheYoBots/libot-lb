@@ -8,5 +8,5 @@ Rank|Bot|Rating
 #6|@rachl1|1802
 #7|@hashcake1|1391
 #8|@reaper1bot|1324
-#9|@DavidsGuterBot|1230
-#10|@genesis1bot|1180
+#9|@genesis1bot|1217
+#10|@DavidsGuterBot|1212

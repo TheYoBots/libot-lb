@@ -132,8 +132,8 @@ Rank|Bot|Rating
 #130|@HakoAI|2283
 #131|@Dean_Summer_Bot|2279
 #132|@Johnsun|2269
-#133|@NilatacBot|2254
-#134|@SkyBlaster|2254
+#133|@SkyBlaster|2254
+#134|@NilatacBot|2251
 #135|@kowalabi|2247
 #136|@mrchessmanager|2240
 #137|@TurkiyeHogwarts|2240
@@ -281,7 +281,7 @@ Rank|Bot|Rating
 #279|@SacrificeBot|1426
 #280|@Blackrood|1423
 #281|@kazakhfirstbot|1422
-#282|@pawnrobot|1421
+#282|@pawnrobot|1422
 #283|@SuperJeroBot|1416
 #284|@relevantproblem|1413
 #285|@are_bots_good|1412
@@ -333,8 +333,8 @@ Rank|Bot|Rating
 #331|@BetaOneBot|954
 #332|@Lozza-Bot|954
 #333|@reaper1bot|912
-#334|@potato638|886
-#335|@genesis1bot|875
+#334|@genesis1bot|891
+#335|@potato638|886
 #336|@Pix-Chess|868
 #337|@KuhusBOT|822
 #338|@BotSSS|800

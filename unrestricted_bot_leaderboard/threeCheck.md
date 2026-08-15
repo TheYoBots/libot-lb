@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@tbhOnBot|2403
 #31|@GoblinAjedrezAI|2371
 #32|@Viet_BOT|2367
-#33|@ToromBot|2354
+#33|@ToromBot|2360
 #34|@Zer0_Tw0|2332
 #35|@colinbot|2309
 #36|@rascal1|2307
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@the_checkmating_bot|1643
 #143|@CoderDen732|1639
 #144|@LegoTechnicControlPl|1638
-#145|@Stockfish-MEDIUM|1634
+#145|@Stockfish-MEDIUM|1637
 #146|@Botkingteam33|1633
 #147|@almaznv_2BOT|1623
 #148|@jasans_bot|1621
@@ -158,7 +158,7 @@ Rank|Bot|Rating
 #156|@relevantproblem|1514
 #157|@Toxic_Bot|1511
 #158|@NoobMasterBOT|1507
-#159|@StockfishLowDepth|1494
+#159|@StockfishLowDepth|1499
 #160|@Epiano_Bot|1491
 #161|@Nebulogic|1490
 #162|@CVA728_BOT_1|1489
@@ -190,11 +190,11 @@ Rank|Bot|Rating
 #188|@HiddeNL|1385
 #189|@apraz|1383
 #190|@reaper1bot|1335
-#191|@TTC-BOT_2|1322
-#192|@cool_boy_bot|1321
-#193|@Harry_Potterz|1316
-#194|@allvariants|1310
-#195|@genesis1bot|1297
+#191|@genesis1bot|1327
+#192|@TTC-BOT_2|1322
+#193|@cool_boy_bot|1321
+#194|@Harry_Potterz|1316
+#195|@allvariants|1310
 #196|@NoTallkOnlyGames|1293
 #197|@Light_To_The_Rescue|1277
 #198|@Sanjana_Kambala-BOT|1273
@@ -204,8 +204,8 @@ Rank|Bot|Rating
 #202|@MyNameIsWhatLOL|1256
 #203|@SneakyBot21|1256
 #204|@TORTADEMANZANA023|1233
-#205|@DavidsGuterBot|1213
-#206|@suniferia|1211
+#205|@suniferia|1211
+#206|@DavidsGuterBot|1199
 #207|@heatseeker223|1191
 #208|@admin-bot|1188
 #209|@Ujwal1001|1179

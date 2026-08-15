@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@Fairy-Stockfish|2464
 #34|@Leelabotmaster|2458
 #35|@TheMatrix2029|2458
-#36|@RaspFish|2457
-#37|@abhisun_bot|2444
+#36|@abhisun_bot|2444
+#37|@RaspFish|2444
 #38|@pistol-play|2437
 #39|@YoBot_v2|2394
 #40|@CloudBOT|2393
@@ -137,7 +137,7 @@ Rank|Bot|Rating
 #135|@rayking311|1808
 #136|@RobotTigerSlav|1805
 #137|@bot1996123|1800
-#138|@Stockfish-MEDIUM|1793
+#138|@Stockfish-MEDIUM|1792
 #139|@Botzer|1787
 #140|@HyperLitikBOT|1778
 #141|@EstmileBot|1777
@@ -243,7 +243,7 @@ Rank|Bot|Rating
 #241|@Jannik08_fan|1163
 #242|@BSergey11-BOT|1149
 #243|@K_Shi_Bot|1149
-#244|@genesis1bot|1139
+#244|@genesis1bot|1144
 #245|@TeamChelsie|1125
 #246|@kazakhfirstbot|1119
 #247|@apollo_bot|1106
@@ -255,7 +255,7 @@ Rank|Bot|Rating
 #253|@Magic11bot_Coach|1001
 #254|@JPSBOT|958
 #255|@FireTorchV2|955
-#256|@pawnrobot|928
+#256|@pawnrobot|921
 #257|@RSVMentor|862
 #258|@GuineaBot3|845
 #259|@MateCheckCapture|828

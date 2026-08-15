@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@kowalabi|1927
 #13|@QiOui|1893
 #14|@rachl1|1830
-#15|@Stockfish-MEDIUM|1617
+#15|@Stockfish-MEDIUM|1621
 #16|@hashcake1|1317
 #17|@reaper1bot|1261
-#18|@genesis1bot|1244
-#19|@pawnrobot|1181
+#18|@genesis1bot|1214
+#19|@pawnrobot|1205
 #20|@StockfishLowDepth|966
