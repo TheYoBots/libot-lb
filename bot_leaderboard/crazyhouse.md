@@ -2,12 +2,12 @@ Rank|Bot|Rating
 ---|---|---
 #1|@SF_Bot1nok|2627
 #2|@rascal1|2598
-#3|@Bot1nokk|2580
+#3|@Bot1nokk|2586
 #4|@DarkOnBot|2386
-#5|@MEGA-NOOB-BOT|2385
-#6|@bot1e|2362
+#5|@MEGA-NOOB-BOT|2381
+#6|@bot1e|2353
 #7|@OSaurus|2286
-#8|@abdcebot|2189
+#8|@abdcebot|2196
 #9|@QiOui|2129
 #10|@rachl1|2070
 #11|@nickl1bot|2005

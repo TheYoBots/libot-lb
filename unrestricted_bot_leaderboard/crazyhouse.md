@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Xerus_1|2611
 #25|@Iwantedtoplaychess|2600
 #26|@rascal1|2598
-#27|@Bot1nokk|2580
+#27|@Bot1nokk|2586
 #28|@EmptikVariantsBot|2548
 #29|@BotSuxX|2538
 #30|@LudwigBOT|2527
@@ -42,12 +42,12 @@ Rank|Bot|Rating
 #40|@CloudBOT|2393
 #41|@NienishiEngine|2392
 #42|@DarkOnBot|2386
-#43|@MEGA-NOOB-BOT|2385
-#44|@GoblinAjedrezAI|2383
-#45|@beastie1|2382
+#43|@GoblinAjedrezAI|2383
+#44|@beastie1|2382
+#45|@MEGA-NOOB-BOT|2381
 #46|@TacticalBot|2373
 #47|@EagleEye2021|2365
-#48|@bot1e|2362
+#48|@bot1e|2353
 #49|@KingfishX|2347
 #50|@Worst-ai|2346
 #51|@chesshyperbot|2344
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@MyNameIsWhatLOL|2200
 #72|@Zer0_Tw0|2200
 #73|@UltronBot|2197
-#74|@abdcebot|2189
+#74|@abdcebot|2196
 #75|@Viet-BOT|2185
 #76|@lightspeed_bot|2177
 #77|@Sooraj_Kumar_P_S|2167

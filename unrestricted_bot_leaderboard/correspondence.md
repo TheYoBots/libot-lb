@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@HulkBot|2387
 #30|@MehFish|2376
 #31|@Mega_BOT|2371
-#32|@ChessatronBot|2364
+#32|@ChessatronBot|2360
 #33|@CorrespondenceBot|2353
 #34|@duchessAI|2344
 #35|@Shocky_BOT|2344
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@eggnog-chess-engine|2254
 #50|@Blue_Mongoose|2249
 #51|@Zimbabwean_chessbot|2249
-#52|@Blunderbuss-bot|2244
+#52|@Blunderbuss-bot|2246
 #53|@nukechess-bot|2244
 #54|@SicilianViper|2243
 #55|@mayhem23111|2240
