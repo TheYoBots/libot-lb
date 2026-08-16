@@ -32,9 +32,9 @@ Rank|Bot|Rating
 #30|@MehFish|2376
 #31|@Mega_BOT|2371
 #32|@CorrespondenceBot|2353
-#33|@ChessatronBot|2346
-#34|@duchessAI|2344
-#35|@Shocky_BOT|2344
+#33|@duchessAI|2344
+#34|@Shocky_BOT|2344
+#35|@ChessatronBot|2340
 #36|@HansNiemannBot|2338
 #37|@bekbot|2307
 #38|@Magnus-BOT|2304
@@ -47,9 +47,9 @@ Rank|Bot|Rating
 #45|@mrohCentaur|2285
 #46|@Toodfish|2273
 #47|@Cheng-4|2269
-#48|@OpeningsBot|2263
-#49|@eggnog-chess-engine|2254
-#50|@Blunderbuss-bot|2253
+#48|@OpeningsBot|2262
+#49|@Blunderbuss-bot|2256
+#50|@eggnog-chess-engine|2254
 #51|@Blue_Mongoose|2249
 #52|@Zimbabwean_chessbot|2249
 #53|@nukechess-bot|2244
