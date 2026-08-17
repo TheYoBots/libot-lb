@@ -38,14 +38,14 @@ Rank|Bot|Rating
 #36|@abhisun_bot|2444
 #37|@RaspFish|2444
 #38|@pistol-play|2437
-#39|@MEGA-NOOB-BOT|2403
+#39|@MEGA-NOOB-BOT|2404
 #40|@YoBot_v2|2394
 #41|@CloudBOT|2393
 #42|@NienishiEngine|2392
 #43|@GoblinAjedrezAI|2383
-#44|@DarkOnBot|2377
-#45|@TacticalBot|2373
-#46|@EagleEye2021|2365
+#44|@TacticalBot|2373
+#45|@EagleEye2021|2365
+#46|@DarkOnBot|2362
 #47|@beastie1|2353
 #48|@KingfishX|2347
 #49|@Worst-ai|2346
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@Giphy_Logo|1741
 #149|@sauwkhamari|1741
 #150|@TJchessBot|1741
-#151|@Stockfish-MEDIUM|1710
+#151|@Stockfish-MEDIUM|1709
 #152|@Lili-Variants|1698
 #153|@Lightning_SpeedChess|1696
 #154|@B0T5_RU13|1683
