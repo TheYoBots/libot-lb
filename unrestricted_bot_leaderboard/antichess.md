@@ -166,9 +166,9 @@ Rank|Bot|Rating
 #164|@XXIstCentury|2131
 #165|@PyChessBot|2102
 #166|@TurkiyeHogwartsBOT|2099
-#167|@CatNail|2087
-#168|@nickl1bot|2086
-#169|@ZamuChess|2049
+#167|@nickl1bot|2086
+#168|@ZamuChess|2049
+#169|@CatNail|2038
 #170|@Botzer|2020
 #171|@Jussicas|2019
 #172|@CloudBotZero|2018
@@ -332,10 +332,10 @@ Rank|Bot|Rating
 #330|@hashcake1|969
 #331|@BetaOneBot|954
 #332|@Lozza-Bot|954
-#333|@reaper1bot|900
+#333|@reaper1bot|906
 #334|@potato638|886
-#335|@Pix-Chess|868
-#336|@genesis1bot|858
+#335|@genesis1bot|877
+#336|@Pix-Chess|868
 #337|@KuhusBOT|822
 #338|@BotSSS|800
 #339|@Ujwal1001|800

@@ -212,8 +212,8 @@ Rank|Bot|Rating
 #210|@Classic_BOT-v2|1392
 #211|@are_bots_good|1367
 #212|@GothamChessBot|1358
-#213|@XiDM|1351
-#214|@reaper1bot|1350
+#213|@reaper1bot|1355
+#214|@XiDM|1351
 #215|@Hrant_Petrosyan_BOT|1346
 #216|@NormalBulletBot|1341
 #217|@MrDeepSeekGPT|1339
@@ -241,9 +241,9 @@ Rank|Bot|Rating
 #239|@heatseeker223|1191
 #240|@ChessPlayer1225|1183
 #241|@Jannik08_fan|1163
-#242|@BSergey11-BOT|1149
-#243|@K_Shi_Bot|1149
-#244|@genesis1bot|1147
+#242|@genesis1bot|1151
+#243|@BSergey11-BOT|1149
+#244|@K_Shi_Bot|1149
 #245|@TeamChelsie|1125
 #246|@kazakhfirstbot|1119
 #247|@apollo_bot|1106

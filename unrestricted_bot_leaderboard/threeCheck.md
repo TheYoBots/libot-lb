@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@Viet_BOT|2367
 #33|@Zer0_Tw0|2332
 #34|@ToromBot|2331
-#35|@rascal1|2312
+#35|@rascal1|2313
 #36|@colinbot|2309
 #37|@LudwigBOT|2304
 #38|@lord-bot|2300
@@ -86,8 +86,8 @@ Rank|Bot|Rating
 #84|@Official_bot|2041
 #85|@Resolved-Bot|2026
 #86|@QiOui|2022
-#87|@BalloonBot|2017
-#88|@abdcebot|2013
+#87|@abdcebot|2019
+#88|@BalloonBot|2017
 #89|@firstrobot|2003
 #90|@Hyper-Stockfish|1986
 #91|@GodelEscherBot|1974
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@Botkingteam33|1633
 #146|@almaznv_2BOT|1623
 #147|@jasans_bot|1621
-#148|@Stockfish-MEDIUM|1613
+#148|@Stockfish-MEDIUM|1614
 #149|@spyros1bot|1596
 #150|@newengine2022|1588
 #151|@Lancelbot|1568
@@ -189,14 +189,14 @@ Rank|Bot|Rating
 #187|@MasterofChessBOT800|1391
 #188|@HiddeNL|1385
 #189|@apraz|1383
-#190|@reaper1bot|1354
+#190|@reaper1bot|1352
 #191|@TTC-BOT_2|1322
 #192|@cool_boy_bot|1321
 #193|@Harry_Potterz|1316
 #194|@allvariants|1310
 #195|@NoTallkOnlyGames|1293
-#196|@genesis1bot|1282
-#197|@Light_To_The_Rescue|1277
+#196|@Light_To_The_Rescue|1277
+#197|@genesis1bot|1274
 #198|@Sanjana_Kambala-BOT|1273
 #199|@TheLegendaryKnight|1272
 #200|@EstmileBot|1269
@@ -204,8 +204,8 @@ Rank|Bot|Rating
 #202|@MyNameIsWhatLOL|1256
 #203|@SneakyBot21|1256
 #204|@TORTADEMANZANA023|1233
-#205|@DavidsGuterBot|1216
-#206|@suniferia|1211
+#205|@suniferia|1211
+#206|@DavidsGuterBot|1208
 #207|@heatseeker223|1191
 #208|@admin-bot|1188
 #209|@Ujwal1001|1179

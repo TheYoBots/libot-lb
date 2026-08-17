@@ -223,7 +223,7 @@ Rank|Bot|Rating
 #221|@BetaOneBot|1141
 #222|@GuineaBot2|1141
 #223|@reaper1bot|1117
-#224|@genesis1bot|1086
+#224|@genesis1bot|1081
 #225|@BogoBot|1074
 #226|@MateCheckCapture|1011
 #227|@ZX-Chess|982

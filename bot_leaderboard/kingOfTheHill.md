@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rascal1|2381
+#1|@rascal1|2376
 #2|@MEGA-NOOB-BOT|2253
 #3|@DarkOnBot|2220
 #4|@RaspFish|2194
@@ -18,5 +18,5 @@ Rank|Bot|Rating
 #16|@spyros1bot|1580
 #17|@hashcake1|1379
 #18|@reaper1bot|1316
-#19|@DavidsGuterBot|1216
-#20|@genesis1bot|1211
+#19|@genesis1bot|1220
+#20|@DavidsGuterBot|1216

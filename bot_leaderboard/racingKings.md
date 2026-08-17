@@ -20,4 +20,4 @@ Rank|Bot|Rating
 #18|@Lancelbot|1406
 #19|@hashcake1|1234
 #20|@reaper1bot|1117
-#21|@genesis1bot|1086
+#21|@genesis1bot|1081

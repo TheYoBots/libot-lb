@@ -191,14 +191,14 @@ Rank|Bot|Rating
 #189|@admin-bot|1209
 #190|@Happy_One|1207
 #191|@St6090|1191
-#192|@reaper1bot|1180
-#193|@ChessLLModel|1178
+#192|@ChessLLModel|1178
+#193|@reaper1bot|1174
 #194|@BetaOneBot|1166
 #195|@ZX-Chess|1145
 #196|@duythong1402|1120
 #197|@fairy-vvrr|1102
 #198|@alvin-chess-bot|1091
-#199|@genesis1bot|1081
+#199|@genesis1bot|1080
 #200|@MontyPythonFlying|1037
 #201|@FireTorchV2|1011
 #202|@MinOpponentMoves|988

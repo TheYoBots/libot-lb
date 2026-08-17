@@ -20,5 +20,5 @@ Rank|Bot|Rating
 #18|@Lancelbot|1543
 #19|@pawnrobot|1270
 #20|@hashcake1|1255
-#21|@reaper1bot|1180
-#22|@genesis1bot|1081
+#21|@reaper1bot|1174
+#22|@genesis1bot|1080

@@ -15,12 +15,12 @@ Rank|Bot|Rating
 #13|@QiOui|1891
 #14|@rachl1|1829
 #15|@JemBok|1660
-#16|@Stockfish-MEDIUM|1631
+#16|@Stockfish-MEDIUM|1640
 #17|@clementyne1|1555
 #18|@Lancelbot|1483
 #19|@spyros1bot|1448
 #20|@hashcake1|1291
 #21|@reaper1bot|1247
-#22|@genesis1bot|1214
-#23|@pawnrobot|1187
+#22|@genesis1bot|1232
+#23|@pawnrobot|1186
 #24|@StockfishLowDepth|966
