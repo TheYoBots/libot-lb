@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@MEGA-NOOB-BOT|2347
 #2|@Fairy_Belzedar|2333
 #3|@ToromBot|2280
-#4|@rascal1|2245
+#4|@rascal1|2264
 #5|@Bot1nokk|2240
 #6|@SF_Bot1nok|2210
 #7|@DarkOnBot|2183
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@abdcebot|2080
 #11|@OSaurus|1964
 #12|@kowalabi|1925
-#13|@QiOui|1891
+#13|@QiOui|1894
 #14|@rachl1|1829
 #15|@JemBok|1660
 #16|@Stockfish-MEDIUM|1639
@@ -22,5 +22,5 @@ Rank|Bot|Rating
 #20|@hashcake1|1291
 #21|@reaper1bot|1247
 #22|@genesis1bot|1232
-#23|@pawnrobot|1183
+#23|@pawnrobot|1188
 #24|@StockfishLowDepth|966

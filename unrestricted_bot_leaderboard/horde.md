@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@ElPeonElectrico|2242
 #41|@TacticalBot|2227
 #42|@calico1|2211
-#43|@OSaurus|2209
+#43|@OSaurus|2208
 #44|@UltronBot|2199
 #45|@GoblinAjedrezAI|2185
 #46|@FayEFish|2172

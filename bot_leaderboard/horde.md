@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@MEGA-NOOB-BOT|2273
 #9|@beastie1|2247
 #10|@calico1|2211
-#11|@OSaurus|2209
+#11|@OSaurus|2208
 #12|@kowalabi|2102
 #13|@QiOui|2070
 #14|@rachl1|1966

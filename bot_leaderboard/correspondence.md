@@ -1,5 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ChessatronBot|2354
-#2|@OpeningsBot|2260
-#3|@Blunderbuss-bot|2250
+#1|@pawn_git|2569
+#2|@ChessatronBot|2354
+#3|@OpeningsBot|2260
+#4|@Blunderbuss-bot|2250

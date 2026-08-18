@@ -64,10 +64,10 @@ Rank|Bot|Rating
 #62|@AtomicVsEngineBot|2268
 #63|@xiang-qi|2268
 #64|@CocopikachuBOT|2265
-#65|@chesshyperbot|2260
-#66|@SCP079|2259
-#67|@Johnsun|2257
-#68|@rascal1|2245
+#65|@rascal1|2264
+#66|@chesshyperbot|2260
+#67|@SCP079|2259
+#68|@Johnsun|2257
 #69|@YoBot_v2|2243
 #70|@Bot1nokk|2240
 #71|@MalanChess|2238
@@ -172,8 +172,8 @@ Rank|Bot|Rating
 #170|@B4dF1sh|1903
 #171|@Isotopebot|1900
 #172|@Just-a-random-bot|1898
-#173|@AX2XB2|1893
-#174|@QiOui|1891
+#173|@QiOui|1894
+#174|@AX2XB2|1893
 #175|@TheAwesomeBot|1891
 #176|@kostasvl-bot|1877
 #177|@Worst-ai|1872
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@kidobot2911|1202
 #354|@Lozza-Bot|1198
 #355|@ElFinsBoT|1191
-#356|@pawnrobot|1183
+#356|@pawnrobot|1188
 #357|@GuineaBot2|1173
 #358|@clrsrc_lc0|1168
 #359|@Jaymombot|1166
