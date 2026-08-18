@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2347
+#1|@MEGA-NOOB-BOT|2340
 #2|@Fairy_Belzedar|2333
 #3|@ToromBot|2280
 #4|@rascal1|2264
@@ -9,13 +9,13 @@ Rank|Bot|Rating
 #7|@DarkOnBot|2183
 #8|@RaspFish|2131
 #9|@beastie1|2103
-#10|@abdcebot|2080
+#10|@abdcebot|2082
 #11|@OSaurus|1964
 #12|@kowalabi|1925
 #13|@QiOui|1894
 #14|@rachl1|1829
 #15|@JemBok|1660
-#16|@Stockfish-MEDIUM|1639
+#16|@Stockfish-MEDIUM|1628
 #17|@clementyne1|1555
 #18|@Lancelbot|1483
 #19|@spyros1bot|1448

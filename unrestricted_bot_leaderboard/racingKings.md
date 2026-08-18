@@ -77,7 +77,7 @@ Rank|Bot|Rating
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
 #77|@abdcebot|2242
-#78|@MEGA-NOOB-BOT|2240
+#78|@MEGA-NOOB-BOT|2241
 #79|@ResoluteBot|2225
 #80|@XXIstCentury|2225
 #81|@Resolved-Bot|2223
@@ -110,8 +110,8 @@ Rank|Bot|Rating
 #108|@Stockfish-MEDIUM|2043
 #109|@Crepusculum|2036
 #110|@EstmileBot|2018
-#111|@OSaurus|1995
-#112|@calico1|1980
+#111|@OSaurus|1989
+#112|@calico1|1986
 #113|@Less_of_a_threat|1979
 #114|@BGSBot|1969
 #115|@Yemmi-Yemmi|1964

@@ -5,11 +5,11 @@ Rank|Bot|Rating
 #3|@rascal1|2296
 #4|@RaspFish|2290
 #5|@abdcebot|2242
-#6|@MEGA-NOOB-BOT|2240
+#6|@MEGA-NOOB-BOT|2241
 #7|@bot1e|2208
 #8|@beastie1|2122
-#9|@OSaurus|1995
-#10|@calico1|1980
+#9|@OSaurus|1989
+#10|@calico1|1986
 #11|@StockfishLowDepth|1939
 #12|@kowalabi|1876
 #13|@QiOui|1802
