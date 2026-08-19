@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@rascal1|2296
 #64|@TestingBot1|2294
 #65|@NormalBulletBot|2291
-#66|@RaspFish|2288
+#66|@RaspFish|2287
 #67|@YoBot_v2|2287
 #68|@AlfaBot|2278
 #69|@Bot1nokk|2267
