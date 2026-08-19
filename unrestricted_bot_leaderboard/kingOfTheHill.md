@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@LoseisnotAvailablehe|2274
 #29|@Bobby_Fischer_BOT|2267
 #30|@bot1e|2264
-#31|@MEGA-NOOB-BOT|2263
+#31|@MEGA-NOOB-BOT|2261
 #32|@lord-bot|2258
 #33|@CheckmateX1|2251
 #34|@YoBot_v2|2242
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@SkyBlaster|2220
 #41|@patzerbot135|2200
 #42|@PowerOnBot|2195
-#43|@RaspFish|2194
-#44|@UnDisstoppableBot|2193
+#43|@UnDisstoppableBot|2193
+#44|@RaspFish|2185
 #45|@Amrobotone|2184
 #46|@SF_Bot1nok|2174
 #47|@eNErGyOFbEiNGbOT|2166

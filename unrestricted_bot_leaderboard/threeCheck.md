@@ -43,8 +43,8 @@ Rank|Bot|Rating
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
 #43|@TheMatrix2025|2272
-#44|@MEGA-NOOB-BOT|2269
-#45|@vrnts_colinbot|2266
+#44|@vrnts_colinbot|2266
+#45|@MEGA-NOOB-BOT|2264
 #46|@HIWIN1234|2261
 #47|@YoBot_v2|2257
 #48|@OlympusCz|2231
@@ -147,9 +147,9 @@ Rank|Bot|Rating
 #145|@Botkingteam33|1633
 #146|@almaznv_2BOT|1623
 #147|@jasans_bot|1621
-#148|@spyros1bot|1596
-#149|@newengine2022|1588
-#150|@Stockfish-MEDIUM|1570
+#148|@Stockfish-MEDIUM|1601
+#149|@spyros1bot|1596
+#150|@newengine2022|1588
 #151|@Lancelbot|1568
 #152|@knight_128|1563
 #153|@Alehkine_cat|1531

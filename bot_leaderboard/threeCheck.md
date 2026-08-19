@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@rascal1|2318
-#2|@MEGA-NOOB-BOT|2269
+#2|@MEGA-NOOB-BOT|2264
 #3|@beastie1|2230
 #4|@calico1|2186
 #5|@OSaurus|2140
@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@nickl1bot|1811
 #15|@clementyne1|1807
 #16|@JemBok|1791
-#17|@spyros1bot|1596
-#18|@Stockfish-MEDIUM|1570
+#17|@Stockfish-MEDIUM|1601
+#18|@spyros1bot|1596
 #19|@Lancelbot|1568
 #20|@hashcake1|1435
 #21|@reaper1bot|1352

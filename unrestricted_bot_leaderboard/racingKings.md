@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@rascal1|2296
 #64|@TestingBot1|2294
 #65|@NormalBulletBot|2291
-#66|@RaspFish|2290
+#66|@RaspFish|2288
 #67|@YoBot_v2|2287
 #68|@AlfaBot|2278
 #69|@Bot1nokk|2267
@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@Resolved-Bot|2223
 #82|@HerokuHasnotplay|2215
 #83|@Zer0_Tw0|2210
-#84|@bot1e|2208
+#84|@bot1e|2207
 #85|@FairyTailRegimeBot|2206
 #86|@AIAlphaAI|2200
 #87|@Berserk12-X|2200

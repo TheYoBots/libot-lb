@@ -46,10 +46,10 @@ Rank|Bot|Rating
 #44|@Viet-BOT|2349
 #45|@NormalBlitzBulletBot|2347
 #46|@HyperLitikBOT|2341
-#47|@MEGA-NOOB-BOT|2340
-#48|@LudwigBOT|2339
-#49|@NotNateBot|2336
-#50|@Fairy_Belzedar|2333
+#47|@LudwigBOT|2339
+#48|@NotNateBot|2336
+#49|@Fairy_Belzedar|2333
+#50|@MEGA-NOOB-BOT|2333
 #51|@The-Fastest-Bot|2314
 #52|@Alehkine_cat|2312
 #53|@Team_bot_08512|2307
@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@BishoP-BOT|2138
 #117|@Mega_BOT|2136
 #118|@Nobody11892|2134
-#119|@RaspFish|2131
+#119|@RaspFish|2127
 #120|@Variantenkoning|2121
 #121|@AnUtterlyKarBot|2113
 #122|@lightspeed_bot|2105
@@ -245,9 +245,9 @@ Rank|Bot|Rating
 #243|@djungelbot|1633
 #244|@Boom_Bot|1630
 #245|@Jannik08_fan|1628
-#246|@Stockfish-MEDIUM|1628
-#247|@Toxic_Bot|1627
-#248|@FrozenRook|1626
+#246|@Toxic_Bot|1627
+#247|@FrozenRook|1626
+#248|@Stockfish-MEDIUM|1625
 #249|@Hrant_Petrosyan_BOT|1624
 #250|@MistakeBOT|1620
 #251|@Bobby_Fishcer_Bot|1615
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@kidobot2911|1202
 #354|@Lozza-Bot|1198
 #355|@ElFinsBoT|1191
-#356|@pawnrobot|1188
+#356|@pawnrobot|1185
 #357|@GuineaBot2|1173
 #358|@clrsrc_lc0|1168
 #359|@Jaymombot|1166
