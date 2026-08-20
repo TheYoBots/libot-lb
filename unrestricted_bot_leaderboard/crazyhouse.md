@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@TheMatrix2029|2458
 #36|@abhisun_bot|2444
 #37|@pistol-play|2437
-#38|@MEGA-NOOB-BOT|2431
+#38|@MEGA-NOOB-BOT|2433
 #39|@RaspFish|2396
 #40|@YoBot_v2|2394
 #41|@CloudBOT|2393
@@ -48,9 +48,9 @@ Rank|Bot|Rating
 #46|@beastie1|2354
 #47|@KingfishX|2347
 #48|@Worst-ai|2346
-#49|@bot1e|2344
-#50|@chesshyperbot|2344
-#51|@DarkOnBot|2341
+#49|@chesshyperbot|2344
+#50|@DarkOnBot|2340
+#51|@bot1e|2337
 #52|@EmptikBot|2332
 #53|@lord-bot|2329
 #54|@calico1|2320
@@ -68,7 +68,7 @@ Rank|Bot|Rating
 #66|@Mega_BOT|2240
 #67|@ElPeonElectrico|2228
 #68|@Coolman2021|2219
-#69|@abdcebot|2217
+#69|@abdcebot|2214
 #70|@xiang-qi|2203
 #71|@Magicianrobot|2200
 #72|@MyNameIsWhatLOL|2200
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@Peaceful4Life|2160
 #80|@SCP079|2156
 #81|@BSTAF|2154
-#82|@is_BOSS|2150
+#82|@is_BOSS|2148
 #83|@TheMatrix2025|2142
 #84|@QiOui|2138
 #85|@kowalabi|2137

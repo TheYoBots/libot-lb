@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@rascal1|2296
 #64|@TestingBot1|2294
 #65|@NormalBulletBot|2291
-#66|@RaspFish|2287
-#67|@YoBot_v2|2287
+#66|@YoBot_v2|2287
+#67|@RaspFish|2285
 #68|@AlfaBot|2278
 #69|@Bot1nokk|2267
 #70|@gage12_bot|2266
@@ -77,13 +77,13 @@ Rank|Bot|Rating
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
 #77|@abdcebot|2241
-#78|@MEGA-NOOB-BOT|2241
+#78|@MEGA-NOOB-BOT|2240
 #79|@ResoluteBot|2225
 #80|@XXIstCentury|2225
 #81|@Resolved-Bot|2223
 #82|@HerokuHasnotplay|2215
 #83|@Zer0_Tw0|2210
-#84|@bot1e|2207
+#84|@bot1e|2208
 #85|@FairyTailRegimeBot|2206
 #86|@AIAlphaAI|2200
 #87|@Berserk12-X|2200
