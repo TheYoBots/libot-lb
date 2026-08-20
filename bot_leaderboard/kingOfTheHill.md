@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rascal1|2365
-#2|@MEGA-NOOB-BOT|2271
+#1|@rascal1|2376
+#2|@MEGA-NOOB-BOT|2272
 #3|@DarkOnBot|2216
 #4|@RaspFish|2185
-#5|@abdcebot|2167
+#5|@abdcebot|2180
 #6|@beastie1|2154
 #7|@OSaurus|2058
 #8|@calico1|2053
@@ -17,6 +17,6 @@ Rank|Bot|Rating
 #15|@Lancelbot|1596
 #16|@spyros1bot|1580
 #17|@hashcake1|1379
-#18|@reaper1bot|1316
-#19|@genesis1bot|1220
-#20|@DavidsGuterBot|1216
+#18|@reaper1bot|1320
+#19|@DavidsGuterBot|1223
+#20|@genesis1bot|1188

@@ -2,10 +2,10 @@ Rank|Bot|Rating
 ---|---|---
 #1|@abdcebot|2799
 #2|@bot1e|2666
-#3|@Bot1nokk|2610
-#4|@SF_Bot1nok|2610
+#3|@Bot1nokk|2616
+#4|@SF_Bot1nok|2604
 #5|@RaspFish|2491
-#6|@rascal1|2479
+#6|@rascal1|2465
 #7|@DarkOnBot|2337
 #8|@MEGA-NOOB-BOT|2266
 #9|@beastie1|2247
@@ -21,4 +21,4 @@ Rank|Bot|Rating
 #19|@pawnrobot|1270
 #20|@hashcake1|1255
 #21|@reaper1bot|1174
-#22|@genesis1bot|1080
+#22|@genesis1bot|1067

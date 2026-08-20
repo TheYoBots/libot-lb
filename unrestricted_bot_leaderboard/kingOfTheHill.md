@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@tbhOnBot|2379
 #13|@Coolman2021|2378
 #14|@chessbot2880|2377
-#15|@rascal1|2365
+#15|@rascal1|2376
 #16|@Karpov_bot|2359
 #17|@ElPeonElectrico|2351
 #18|@TheMatrix2025|2346
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@LudwigBOT|2281
 #27|@HIWIN1234|2274
 #28|@LoseisnotAvailablehe|2274
-#29|@MEGA-NOOB-BOT|2271
+#29|@MEGA-NOOB-BOT|2272
 #30|@Bobby_Fischer_BOT|2267
 #31|@bot1e|2264
 #32|@lord-bot|2258
@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@UnDisstoppableBot|2193
 #44|@RaspFish|2185
 #45|@Amrobotone|2184
-#46|@abdcebot|2167
+#46|@abdcebot|2180
 #47|@eNErGyOFbEiNGbOT|2166
 #48|@HuxZero|2163
 #49|@SF_Bot1nok|2156
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@que-hyper|1865
 #111|@relevantproblem|1857
 #112|@Botzer|1851
-#113|@Stockfish-MEDIUM|1842
+#113|@Stockfish-MEDIUM|1838
 #114|@B0T5_RU13|1835
 #115|@STockfishdestroyBot|1825
 #116|@rachl1|1816
@@ -184,8 +184,8 @@ Rank|Bot|Rating
 #182|@VedanthS-Bot|1353
 #183|@allvariants|1348
 #184|@BinaryBrain|1341
-#185|@THEANDROIDBOT|1317
-#186|@reaper1bot|1316
+#185|@reaper1bot|1320
+#186|@THEANDROIDBOT|1317
 #187|@Challengeme2anything|1307
 #188|@Hand_coded_ai_90565|1292
 #189|@NoTallkOnlyGames|1291
@@ -196,10 +196,10 @@ Rank|Bot|Rating
 #194|@knight_128|1233
 #195|@MyNameIsSpeedy|1226
 #196|@Bottios|1223
-#197|@genesis1bot|1220
-#198|@DavidsGuterBot|1216
-#199|@RSVMentor|1196
-#200|@bot-win-loh-nick|1191
+#197|@DavidsGuterBot|1223
+#198|@RSVMentor|1196
+#199|@bot-win-loh-nick|1191
+#200|@genesis1bot|1188
 #201|@Boom_Bot|1176
 #202|@TrashBot|1168
 #203|@shakboy9824453231op|1152

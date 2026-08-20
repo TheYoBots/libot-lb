@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@pawnocchio_bot|2623
 #9|@LeelaZero-UK|2585
 #10|@AjedrezChamberi|2579
-#11|@pawn_git|2569
+#11|@pawn_git|2561
 #12|@CheckmateX1|2556
 #13|@Alexnajax_Fan|2549
 #14|@peonasesino71|2512
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@HulkBot|2387
 #30|@MehFish|2376
 #31|@Mega_BOT|2371
-#32|@ChessatronBot|2361
+#32|@ChessatronBot|2362
 #33|@CorrespondenceBot|2353
 #34|@duchessAI|2344
 #35|@Shocky_BOT|2344
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@OpeningsBot|2254
 #50|@Blue_Mongoose|2249
 #51|@Zimbabwean_chessbot|2249
-#52|@Blunderbuss-bot|2248
+#52|@Blunderbuss-bot|2247
 #53|@nukechess-bot|2244
 #54|@SicilianViper|2243
 #55|@mayhem23111|2240

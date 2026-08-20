@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
-#77|@abdcebot|2242
+#77|@abdcebot|2241
 #78|@MEGA-NOOB-BOT|2241
 #79|@ResoluteBot|2225
 #80|@XXIstCentury|2225
@@ -222,9 +222,9 @@ Rank|Bot|Rating
 #220|@Hrant_Petrosyan_BOT|1152
 #221|@BetaOneBot|1141
 #222|@GuineaBot2|1141
-#223|@reaper1bot|1117
-#224|@genesis1bot|1081
-#225|@BogoBot|1074
+#223|@reaper1bot|1126
+#224|@BogoBot|1074
+#225|@genesis1bot|1061
 #226|@MateCheckCapture|1011
 #227|@ZX-Chess|982
 #228|@MinOpponentMoves|648

@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@DarkOnBot|2300
 #3|@rascal1|2296
 #4|@RaspFish|2287
-#5|@abdcebot|2242
+#5|@abdcebot|2241
 #6|@MEGA-NOOB-BOT|2241
 #7|@bot1e|2207
 #8|@beastie1|2122
@@ -18,5 +18,5 @@ Rank|Bot|Rating
 #16|@clementyne1|1508
 #17|@Lancelbot|1406
 #18|@hashcake1|1234
-#19|@reaper1bot|1117
-#20|@genesis1bot|1081
+#19|@reaper1bot|1126
+#20|@genesis1bot|1061

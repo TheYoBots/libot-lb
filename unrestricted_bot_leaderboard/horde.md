@@ -11,13 +11,13 @@ Rank|Bot|Rating
 #9|@FireFishBOT|2726
 #10|@PepsiForAll|2699
 #11|@bot1e|2666
-#12|@Bot1nokk|2610
-#13|@SF_Bot1nok|2610
+#12|@Bot1nokk|2616
+#13|@SF_Bot1nok|2604
 #14|@ttBOT|2584
 #15|@compchess2|2579
 #16|@Lili-ai|2572
 #17|@RaspFish|2491
-#18|@rascal1|2479
+#18|@rascal1|2465
 #19|@HIWIN1234|2412
 #20|@EmptikVariantsBot|2402
 #21|@BOT_Stockfish13|2383
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@duythong1402|1120
 #197|@fairy-vvrr|1102
 #198|@alvin-chess-bot|1091
-#199|@genesis1bot|1080
+#199|@genesis1bot|1067
 #200|@MontyPythonFlying|1037
 #201|@FireTorchV2|1011
 #202|@MinOpponentMoves|988
