@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@abdcebot|2192
 #5|@RaspFish|2185
 #6|@beastie1|2154
-#7|@is_BOSS|2075
+#7|@is_BOSS|2081
 #8|@OSaurus|2058
 #9|@calico1|2053
 #10|@kowalabi|1893
@@ -14,10 +14,10 @@ Rank|Bot|Rating
 #12|@rachl1|1816
 #13|@nickl1bot|1777
 #14|@JemBok|1768
-#15|@clementyne1|1761
-#16|@Lancelbot|1596
-#17|@spyros1bot|1580
-#18|@hashcake1|1379
-#19|@reaper1bot|1320
-#20|@DavidsGuterBot|1223
-#21|@genesis1bot|1188
+#15|@clementyne1|1766
+#16|@spyros1bot|1611
+#17|@Lancelbot|1573
+#18|@hashcake1|1367
+#19|@reaper1bot|1342
+#20|@DavidsGuterBot|1221
+#21|@genesis1bot|1185
