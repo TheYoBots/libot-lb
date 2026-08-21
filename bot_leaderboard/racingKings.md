@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@rascal1|2296
 #4|@RaspFish|2285
 #5|@abdcebot|2241
-#6|@MEGA-NOOB-BOT|2240
-#7|@bot1e|2208
+#6|@MEGA-NOOB-BOT|2234
+#7|@bot1e|2209
 #8|@is_BOSS|2192
 #9|@beastie1|2122
 #10|@OSaurus|1989
