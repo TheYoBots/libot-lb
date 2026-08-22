@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@lightspeed_bot|2396
 #44|@thibot|2393
 #45|@Jussicas|2373
-#46|@ToromBot|2369
-#47|@TheMatrix2025|2368
+#46|@TheMatrix2025|2368
+#47|@ToromBot|2364
 #48|@Lili-Variants|2357
 #49|@Viet_BOT|2344
 #50|@virus_exe-bot|2342
@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@TestingBot1|2294
 #65|@NormalBulletBot|2291
 #66|@YoBot_v2|2287
-#67|@RaspFish|2285
+#67|@RaspFish|2284
 #68|@Bot1nokk|2280
 #69|@AlfaBot|2278
 #70|@gage12_bot|2266
@@ -76,8 +76,8 @@ Rank|Bot|Rating
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
 #76|@GodelEscherBot|2244
-#77|@abdcebot|2241
-#78|@MEGA-NOOB-BOT|2234
+#77|@abdcebot|2240
+#78|@MEGA-NOOB-BOT|2235
 #79|@ResoluteBot|2225
 #80|@XXIstCentury|2225
 #81|@Resolved-Bot|2223
@@ -91,7 +91,7 @@ Rank|Bot|Rating
 #89|@Nobody11892|2200
 #90|@OlympusCz|2200
 #91|@Trainspotter|2200
-#92|@is_BOSS|2192
+#92|@is_BOSS|2196
 #93|@Hyper-Stockfish|2189
 #94|@Johnsun|2181
 #95|@HuxZero|2176

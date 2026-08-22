@@ -7,14 +7,14 @@ Rank|Bot|Rating
 #5|@RaspFish|2498
 #6|@rascal1|2465
 #7|@DarkOnBot|2353
-#8|@MEGA-NOOB-BOT|2263
+#8|@MEGA-NOOB-BOT|2307
 #9|@beastie1|2247
 #10|@calico1|2211
 #11|@OSaurus|2208
 #12|@kowalabi|2102
 #13|@QiOui|2070
 #14|@rachl1|1966
-#15|@is_BOSS|1840
+#15|@is_BOSS|1854
 #16|@clementyne1|1835
 #17|@spyros1bot|1603
 #18|@Lancelbot|1503
