@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
 #7|@TacticalBot|2439
-#8|@ToromBot|2420
+#8|@ToromBot|2436
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Bobby_Fischer_BOT|2267
 #30|@bot1e|2265
 #31|@lord-bot|2258
-#32|@MEGA-NOOB-BOT|2255
+#32|@MEGA-NOOB-BOT|2256
 #33|@CheckmateX1|2251
 #34|@YoBot_v2|2242
 #35|@ResoluteBot|2233
@@ -39,9 +39,9 @@ Rank|Bot|Rating
 #37|@Worst-ai|2227
 #38|@Magnus-BOT|2224
 #39|@SkyBlaster|2220
-#40|@abdcebot|2211
-#41|@patzerbot135|2200
-#42|@DarkOnBot|2199
+#40|@patzerbot135|2200
+#41|@abdcebot|2199
+#42|@DarkOnBot|2197
 #43|@PowerOnBot|2195
 #44|@UnDisstoppableBot|2193
 #45|@RaspFish|2185
@@ -55,8 +55,8 @@ Rank|Bot|Rating
 #53|@AI69|2143
 #54|@Team_bot_08512|2143
 #55|@RobotTigerSlav|2136
-#56|@pistol-play|2121
-#57|@is_BOSS|2117
+#56|@is_BOSS|2122
+#57|@pistol-play|2121
 #58|@firstrobot|2114
 #59|@NormalBulletBot|2109
 #60|@Galaxy_Guardian|2096
