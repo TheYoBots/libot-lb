@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@KingfishX|2081
 #63|@iplayonlyrandom|2075
 #64|@Zimbabwean_chessbot|2073
-#65|@QiOui|2070
+#65|@QiOui|2063
 #66|@virus_exe-bot|2054
 #67|@Bot_AOOP11|2050
 #68|@Resolved-Bot|2045
@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@newengine2022|1901
 #88|@mrchessmanager|1888
 #89|@TheMatrix2029|1884
-#90|@is_BOSS|1882
+#90|@is_BOSS|1874
 #91|@TeamChelsie|1869
 #92|@B0T5_RU13|1852
 #93|@Lili-Variants|1846
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@PowerOnBot|1258
 #184|@xDmanBOT|1258
 #185|@yobmef|1258
-#186|@hashcake1|1235
+#186|@hashcake1|1237
 #187|@TheSystem_Bot|1218
 #188|@GuineaBot3|1212
 #189|@admin-bot|1209
