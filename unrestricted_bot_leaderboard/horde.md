@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Alexnajax_Fan|2316
 #30|@AlfaBot|2293
 #31|@Fairy-Stockfish|2289
-#32|@MEGA-NOOB-BOT|2283
+#32|@MEGA-NOOB-BOT|2284
 #33|@Kizburb|2276
 #34|@Team_bot_08512|2267
 #35|@NewChessEngine-ai|2260
@@ -87,9 +87,9 @@ Rank|Bot|Rating
 #85|@AnUtterlyKarBot|1901
 #86|@azdad|1901
 #87|@newengine2022|1901
-#88|@mrchessmanager|1888
-#89|@TheMatrix2029|1884
-#90|@is_BOSS|1880
+#88|@is_BOSS|1889
+#89|@mrchessmanager|1888
+#90|@TheMatrix2029|1884
 #91|@TeamChelsie|1869
 #92|@B0T5_RU13|1852
 #93|@Lili-Variants|1846

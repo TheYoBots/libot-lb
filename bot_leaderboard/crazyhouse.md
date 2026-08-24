@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@rascal1|2586
 #3|@Bot1nokk|2545
 #4|@MEGA-NOOB-BOT|2447
-#5|@RaspFish|2386
+#5|@RaspFish|2406
 #6|@beastie1|2354
 #7|@DarkOnBot|2339
 #8|@bot1e|2323

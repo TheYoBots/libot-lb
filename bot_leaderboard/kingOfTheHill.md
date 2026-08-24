@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@rascal1|2376
 #2|@MEGA-NOOB-BOT|2256
-#3|@abdcebot|2199
-#4|@DarkOnBot|2197
-#5|@RaspFish|2185
+#3|@RaspFish|2202
+#4|@abdcebot|2199
+#5|@DarkOnBot|2197
 #6|@beastie1|2154
 #7|@is_BOSS|2122
 #8|@OSaurus|2058

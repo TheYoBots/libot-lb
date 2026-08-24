@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@ttBOT|2739
 #25|@ibep|2733
 #26|@Bot_Mittens|2731
-#27|@RaspFish|2727
+#27|@RaspFish|2728
 #28|@BalloonBot|2724
 #29|@OpeningBooksTester|2712
 #30|@ElPeonElectrico|2710
@@ -92,7 +92,7 @@ Rank|Bot|Rating
 #90|@CloudBot_v2|2455
 #91|@ResoluteBot|2455
 #92|@BotsFanClub|2454
-#93|@is_BOSS|2436
+#93|@is_BOSS|2440
 #94|@Bobby_Fischer_BOT|2435
 #95|@Nobody11892|2435
 #96|@Hagfish|2432
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@JemBok|2092
 #169|@clementyne1|2088
 #170|@ZamuChess|2049
-#171|@CatNail|2033
+#171|@CatNail|2045
 #172|@Botzer|2020
 #173|@Jussicas|2019
 #174|@CloudBotZero|2018
@@ -302,7 +302,7 @@ Rank|Bot|Rating
 #300|@allvariants|1350
 #301|@NeilDandekarBot|1350
 #302|@ZokBot|1336
-#303|@StockfishLowDepth|1335
+#303|@StockfishLowDepth|1334
 #304|@Galaxy_Guardian|1324
 #305|@Sanjana_Kambala-BOT|1320
 #306|@TheSystem_Bot|1319
