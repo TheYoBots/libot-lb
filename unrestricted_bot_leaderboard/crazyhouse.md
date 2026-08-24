@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@SF_Bot1nok|2589
 #26|@rascal1|2586
 #27|@EmptikVariantsBot|2548
-#28|@Bot1nokk|2545
+#28|@Bot1nokk|2540
 #29|@BotSuxX|2538
 #30|@LudwigBOT|2527
 #31|@X2-ITL|2501
@@ -35,10 +35,10 @@ Rank|Bot|Rating
 #33|@Fairy-Stockfish|2464
 #34|@Leelabotmaster|2458
 #35|@TheMatrix2029|2458
-#36|@MEGA-NOOB-BOT|2447
+#36|@MEGA-NOOB-BOT|2452
 #37|@abhisun_bot|2444
 #38|@pistol-play|2437
-#39|@RaspFish|2406
+#39|@RaspFish|2397
 #40|@YoBot_v2|2394
 #41|@CloudBOT|2393
 #42|@NienishiEngine|2392
@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@KingfishX|2347
 #48|@Worst-ai|2346
 #49|@chesshyperbot|2344
-#50|@DarkOnBot|2339
+#50|@DarkOnBot|2334
 #51|@EmptikBot|2332
 #52|@lord-bot|2329
 #53|@bot1e|2323
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@Zer0_Tw0|2200
 #74|@UltronBot|2197
 #75|@Viet-BOT|2185
-#76|@lightspeed_bot|2177
-#77|@is_BOSS|2169
+#76|@is_BOSS|2182
+#77|@lightspeed_bot|2177
 #78|@Sooraj_Kumar_P_S|2167
 #79|@Peaceful4Life|2160
 #80|@SCP079|2156
