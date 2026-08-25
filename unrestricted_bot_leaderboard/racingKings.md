@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@IAMSTOCKFISH123|2307
 #61|@SF_Bot1nok|2306
 #62|@DarkOnBot|2298
-#63|@rascal1|2296
+#63|@rascal1|2297
 #64|@TestingBot1|2294
 #65|@NormalBulletBot|2291
 #66|@YoBot_v2|2287
@@ -75,13 +75,13 @@ Rank|Bot|Rating
 #73|@chesshyperbot|2259
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
-#76|@abdcebot|2246
+#76|@abdcebot|2245
 #77|@GodelEscherBot|2244
 #78|@ResoluteBot|2225
 #79|@XXIstCentury|2225
 #80|@Resolved-Bot|2223
-#81|@is_BOSS|2218
-#82|@MEGA-NOOB-BOT|2217
+#81|@MEGA-NOOB-BOT|2218
+#82|@is_BOSS|2217
 #83|@HerokuHasnotplay|2215
 #84|@Zer0_Tw0|2210
 #85|@bot1e|2209
