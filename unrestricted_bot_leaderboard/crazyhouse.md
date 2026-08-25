@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@Xerus_1|2611
 #24|@Iwantedtoplaychess|2600
 #25|@SF_Bot1nok|2589
-#26|@rascal1|2586
+#26|@rascal1|2578
 #27|@EmptikVariantsBot|2548
 #28|@Bot1nokk|2540
 #29|@BotSuxX|2538
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@Fairy-Stockfish|2464
 #34|@Leelabotmaster|2458
 #35|@TheMatrix2029|2458
-#36|@MEGA-NOOB-BOT|2445
+#36|@MEGA-NOOB-BOT|2447
 #37|@abhisun_bot|2444
 #38|@pistol-play|2437
 #39|@RaspFish|2408
@@ -49,8 +49,8 @@ Rank|Bot|Rating
 #47|@KingfishX|2347
 #48|@Worst-ai|2346
 #49|@chesshyperbot|2344
-#50|@EmptikBot|2332
-#51|@DarkOnBot|2330
+#50|@DarkOnBot|2340
+#51|@EmptikBot|2332
 #52|@lord-bot|2329
 #53|@bot1e|2323
 #54|@calico1|2320
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@MalanChess|2273
 #63|@BitExtender128|2272
 #64|@FayEFish|2265
-#65|@abdcebot|2254
+#65|@abdcebot|2252
 #66|@Bobby_Fischer_BOT|2251
 #67|@Mega_BOT|2240
 #68|@ElPeonElectrico|2228
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@Zer0_Tw0|2200
 #74|@UltronBot|2197
 #75|@Viet-BOT|2185
-#76|@is_BOSS|2180
+#76|@is_BOSS|2178
 #77|@lightspeed_bot|2177
 #78|@Sooraj_Kumar_P_S|2167
 #79|@Peaceful4Life|2160

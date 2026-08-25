@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2355
-#2|@DarkOnBot|2298
-#3|@rascal1|2297
-#4|@RaspFish|2284
-#5|@abdcebot|2245
-#6|@MEGA-NOOB-BOT|2218
+#2|@rascal1|2297
+#3|@DarkOnBot|2293
+#4|@RaspFish|2282
+#5|@abdcebot|2244
+#6|@MEGA-NOOB-BOT|2222
 #7|@is_BOSS|2217
 #8|@bot1e|2209
 #9|@clementyne1|1514
