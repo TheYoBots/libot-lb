@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@AjedrezChamberi|2579
 #11|@CheckmateX1|2556
 #12|@Alexnajax_Fan|2549
-#13|@pawn_git|2538
+#13|@pawn_git|2533
 #14|@peonasesino71|2512
 #15|@maia3-79m_1000|2494
 #16|@ServerFish|2494
