@@ -3,10 +3,10 @@ Rank|Bot|Rating
 #1|@ToromBot|2355
 #2|@rascal1|2297
 #3|@DarkOnBot|2289
-#4|@RaspFish|2280
+#4|@RaspFish|2281
 #5|@abdcebot|2247
 #6|@MEGA-NOOB-BOT|2228
-#7|@is_BOSS|2217
+#7|@is_BOSS|2218
 #8|@bot1e|2210
 #9|@beastie1|2099
 #10|@calico1|2013

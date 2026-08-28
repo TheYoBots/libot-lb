@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@NormalBulletBot|2291
 #65|@DarkOnBot|2289
 #66|@YoBot_v2|2287
-#67|@RaspFish|2280
+#67|@RaspFish|2281
 #68|@AlfaBot|2278
 #69|@Bot1nokk|2271
 #70|@gage12_bot|2266
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@ResoluteBot|2225
 #80|@XXIstCentury|2225
 #81|@Resolved-Bot|2223
-#82|@is_BOSS|2217
+#82|@is_BOSS|2218
 #83|@HerokuHasnotplay|2215
 #84|@bot1e|2210
 #85|@Zer0_Tw0|2210

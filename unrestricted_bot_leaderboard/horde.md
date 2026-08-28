@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@PepsiForAll|2699
 #11|@SF_Bot1nok|2657
 #12|@Bot1nokk|2645
-#13|@RaspFish|2638
+#13|@RaspFish|2640
 #14|@bot1e|2620
 #15|@ttBOT|2584
 #16|@compchess2|2579
@@ -87,7 +87,7 @@ Rank|Bot|Rating
 #85|@AnUtterlyKarBot|1901
 #86|@azdad|1901
 #87|@newengine2022|1901
-#88|@is_BOSS|1899
+#88|@is_BOSS|1896
 #89|@mrchessmanager|1888
 #90|@TheMatrix2029|1884
 #91|@TeamChelsie|1869

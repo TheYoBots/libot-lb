@@ -25,13 +25,13 @@ Rank|Bot|Rating
 #23|@Xerus_1|2611
 #24|@Iwantedtoplaychess|2600
 #25|@SF_Bot1nok|2561
-#26|@rascal1|2557
+#26|@rascal1|2559
 #27|@EmptikVariantsBot|2548
 #28|@BotSuxX|2538
 #29|@LudwigBOT|2527
 #30|@Bot1nokk|2520
 #31|@X2-ITL|2501
-#32|@MEGA-NOOB-BOT|2476
+#32|@MEGA-NOOB-BOT|2477
 #33|@Berserk12-X|2467
 #34|@Fairy-Stockfish|2464
 #35|@Leelabotmaster|2458
@@ -55,8 +55,8 @@ Rank|Bot|Rating
 #53|@lord-bot|2329
 #54|@bot1e|2323
 #55|@catalanbotI|2307
-#56|@abdcebot|2305
-#57|@Yemmi-Yemmi|2305
+#56|@Yemmi-Yemmi|2305
+#57|@abdcebot|2303
 #58|@Bot_Mittens|2303
 #59|@OSaurus|2294
 #60|@OlympusCz|2292
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@Zer0_Tw0|2200
 #74|@UltronBot|2197
 #75|@Viet-BOT|2185
-#76|@is_BOSS|2184
+#76|@is_BOSS|2182
 #77|@lightspeed_bot|2177
 #78|@Sooraj_Kumar_P_S|2167
 #79|@Peaceful4Life|2160

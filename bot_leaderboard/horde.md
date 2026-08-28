@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@abdcebot|2784
 #2|@SF_Bot1nok|2657
 #3|@Bot1nokk|2645
-#4|@RaspFish|2638
+#4|@RaspFish|2640
 #5|@bot1e|2620
 #6|@DarkOnBot|2442
 #7|@rascal1|2405
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@calico1|2208
 #11|@OSaurus|2201
 #12|@QiOui|2063
-#13|@is_BOSS|1899
+#13|@is_BOSS|1896
 #14|@spyros1bot|1594
 #15|@Lancelbot|1526
 #16|@pawnrobot|1274
