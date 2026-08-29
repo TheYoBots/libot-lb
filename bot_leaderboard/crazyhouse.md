@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@SF_Bot1nok|2538
 #3|@Bot1nokk|2534
 #4|@MEGA-NOOB-BOT|2465
-#5|@RaspFish|2386
-#6|@beastie1|2361
-#7|@calico1|2345
-#8|@DarkOnBot|2333
-#9|@bot1e|2323
+#5|@RaspFish|2393
+#6|@beastie1|2381
+#7|@DarkOnBot|2333
+#8|@bot1e|2323
+#9|@calico1|2321
 #10|@abdcebot|2300
 #11|@OSaurus|2294
 #12|@is_BOSS|2193

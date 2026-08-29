@@ -15,10 +15,10 @@ Rank|Bot|Rating
 #13|@clementyne1|1792
 #14|@spyros1bot|1610
 #15|@Lancelbot|1592
-#16|@Stockfish-MEDIUM|1541
+#16|@Stockfish-MEDIUM|1546
 #17|@hashcake1|1458
-#18|@Bottios|1382
+#18|@Bottios|1375
 #19|@reaper1bot|1350
 #20|@genesis1bot|1301
 #21|@DavidsGuterBot|1231
-#22|@pawnrobot|1160
+#22|@pawnrobot|1155

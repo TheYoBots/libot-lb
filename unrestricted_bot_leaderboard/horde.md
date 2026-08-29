@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@Alexnajax_Fan|2316
 #30|@AlfaBot|2293
 #31|@Fairy-Stockfish|2289
-#32|@Kizburb|2276
-#33|@beastie1|2268
+#32|@beastie1|2280
+#33|@Kizburb|2276
 #34|@Team_bot_08512|2267
 #35|@NewChessEngine-ai|2260
 #36|@ibep|2258
@@ -41,9 +41,9 @@ Rank|Bot|Rating
 #39|@CloudBot_v2|2252
 #40|@ElPeonElectrico|2242
 #41|@TacticalBot|2227
-#42|@calico1|2208
-#43|@OSaurus|2201
-#44|@UltronBot|2199
+#42|@OSaurus|2201
+#43|@UltronBot|2199
+#44|@calico1|2197
 #45|@GoblinAjedrezAI|2185
 #46|@FayEFish|2172
 #47|@Trumpfor2O2O|2162

@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@Lancelbot|1592
 #149|@newengine2022|1588
 #150|@knight_128|1563
-#151|@Stockfish-MEDIUM|1541
+#151|@Stockfish-MEDIUM|1546
 #152|@Alehkine_cat|1531
 #153|@Groot123456|1520
 #154|@TrashBot|1519
@@ -188,7 +188,7 @@ Rank|Bot|Rating
 #186|@MasterofChessBOT800|1391
 #187|@HiddeNL|1385
 #188|@apraz|1383
-#189|@Bottios|1382
+#189|@Bottios|1375
 #190|@reaper1bot|1350
 #191|@TTC-BOT_2|1322
 #192|@cool_boy_bot|1321
@@ -211,8 +211,8 @@ Rank|Bot|Rating
 #209|@Ujwal1001|1179
 #210|@Just-a-random-bot|1171
 #211|@duythong1402|1165
-#212|@pawnrobot|1160
-#213|@Boom_Bot|1155
+#212|@Boom_Bot|1155
+#213|@pawnrobot|1155
 #214|@thousandatom|1154
 #215|@MyNameIsSpeeedy|1147
 #216|@BetaOneBot|1139

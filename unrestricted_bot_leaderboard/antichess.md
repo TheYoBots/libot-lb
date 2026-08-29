@@ -27,8 +27,8 @@ Rank|Bot|Rating
 #25|@ibep|2733
 #26|@Bot_Mittens|2731
 #27|@BalloonBot|2724
-#28|@OpeningBooksTester|2712
-#29|@RaspFish|2712
+#28|@RaspFish|2717
+#29|@OpeningBooksTester|2712
 #30|@ElPeonElectrico|2710
 #31|@Yellow_Anxiety7|2708
 #32|@Royal-Bot|2700
@@ -78,9 +78,9 @@ Rank|Bot|Rating
 #76|@tbhOnBot|2520
 #77|@HyperLitikBOT|2511
 #78|@pistol-play|2498
-#79|@FayEFish|2491
-#80|@colinbot|2489
-#81|@beastie1|2481
+#79|@beastie1|2491
+#80|@FayEFish|2491
+#81|@colinbot|2489
 #82|@MrBOThacker|2477
 #83|@hauptschuleBOT|2475
 #84|@Alehkine_cat|2474
@@ -107,8 +107,8 @@ Rank|Bot|Rating
 #105|@Monastedrez|2410
 #106|@AttackingOrDefending|2409
 #107|@BitExtender128|2403
-#108|@calico1|2402
-#109|@ESC_BOT|2394
+#108|@ESC_BOT|2394
+#109|@calico1|2393
 #110|@CatBot_14|2393
 #111|@NormalBulletBot|2393
 #112|@AldoGamer001_Bot|2376
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@TurkiyeHogwartsBOT|2099
 #169|@nickl1bot|2097
 #170|@clementyne1|2081
-#171|@CatNail|2064
+#171|@CatNail|2055
 #172|@ZamuChess|2049
 #173|@Botzer|2020
 #174|@Jussicas|2019
@@ -179,9 +179,9 @@ Rank|Bot|Rating
 #177|@TheLegitLegend|2010
 #178|@CrayyBot|1989
 #179|@BetaZ|1973
-#180|@antichesssss|1964
-#181|@Menganti|1963
-#182|@Bottios|1953
+#180|@Bottios|1965
+#181|@antichesssss|1964
+#182|@Menganti|1963
 #183|@CloudBOT|1950
 #184|@TestingBot1|1914
 #185|@Crepusculum|1881

@@ -7,10 +7,10 @@ Rank|Bot|Rating
 #5|@bot1e|2633
 #6|@DarkOnBot|2451
 #7|@rascal1|2405
-#8|@beastie1|2268
+#8|@beastie1|2280
 #9|@MEGA-NOOB-BOT|2258
-#10|@calico1|2208
-#11|@OSaurus|2201
+#10|@OSaurus|2201
+#11|@calico1|2197
 #12|@QiOui|2063
 #13|@is_BOSS|1902
 #14|@JemBok|1855
