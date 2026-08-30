@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@Lili-ai|2099
 #74|@Bot1nokk|2096
 #75|@Dean_Summer_Bot|2086
-#76|@kowalabi|2085
+#76|@kowalabi|2086
 #77|@Magnus-BOT|2084
 #78|@Bullet_bot_0526|2077
 #79|@Xerus_1|2070
@@ -86,8 +86,8 @@ Rank|Bot|Rating
 #84|@Galaxy_Guardian|2041
 #85|@Official_bot|2041
 #86|@Resolved-Bot|2026
-#87|@QiOui|2023
-#88|@BalloonBot|2017
+#87|@BalloonBot|2017
+#88|@QiOui|2011
 #89|@firstrobot|2003
 #90|@Hyper-Stockfish|1986
 #91|@GodelEscherBot|1974
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@Lila-Stockfish|1917
 #103|@SkyBlaster|1913
 #104|@HyperLitikBOT|1908
-#105|@rachl1|1906
+#105|@rachl1|1900
 #106|@HakoAI|1894
 #107|@PowerOnBot|1894
 #108|@CloudBOT|1892
@@ -149,8 +149,8 @@ Rank|Bot|Rating
 #147|@spyros1bot|1610
 #148|@Lancelbot|1592
 #149|@newengine2022|1588
-#150|@knight_128|1563
-#151|@Stockfish-MEDIUM|1551
+#150|@Stockfish-MEDIUM|1578
+#151|@knight_128|1563
 #152|@Alehkine_cat|1531
 #153|@Groot123456|1520
 #154|@TrashBot|1519
@@ -204,13 +204,13 @@ Rank|Bot|Rating
 #202|@MyNameIsWhatLOL|1256
 #203|@SneakyBot21|1256
 #204|@TORTADEMANZANA023|1233
-#205|@DavidsGuterBot|1231
+#205|@DavidsGuterBot|1229
 #206|@suniferia|1211
 #207|@heatseeker223|1191
 #208|@admin-bot|1188
-#209|@pawnrobot|1180
-#210|@Ujwal1001|1179
-#211|@Just-a-random-bot|1171
+#209|@Ujwal1001|1179
+#210|@Just-a-random-bot|1171
+#211|@pawnrobot|1169
 #212|@duythong1402|1165
 #213|@Boom_Bot|1155
 #214|@thousandatom|1154

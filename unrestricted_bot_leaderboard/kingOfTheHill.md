@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
 #7|@TacticalBot|2439
-#8|@ToromBot|2436
+#8|@ToromBot|2416
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@PetersTestBot|1890
 #106|@MistakeBOT|1886
 #107|@EagleEye2021|1880
-#108|@QiOui|1877
+#108|@QiOui|1869
 #109|@xiang-qi|1868
 #110|@que-hyper|1865
 #111|@relevantproblem|1857
@@ -134,9 +134,9 @@ Rank|Bot|Rating
 #132|@Viet-BOT|1750
 #133|@clrsrc_lc0|1742
 #134|@K_Shi_Bot|1737
-#135|@natural-disaster|1726
-#136|@gage12_bot|1716
-#137|@Stockfish-MEDIUM|1710
+#135|@Stockfish-MEDIUM|1734
+#136|@natural-disaster|1726
+#137|@gage12_bot|1716
 #138|@TTC-BOT_2|1703
 #139|@Viet_BOT|1701
 #140|@QuickLiquid|1689
@@ -207,7 +207,7 @@ Rank|Bot|Rating
 #205|@DespacitoBot|1094
 #206|@ZokBot|1076
 #207|@Happy_One|1074
-#208|@pawnrobot|1072
+#208|@pawnrobot|1071
 #209|@ZX-Chess|1059
 #210|@morphbot|1035
 #211|@Jannik08_fan|993
