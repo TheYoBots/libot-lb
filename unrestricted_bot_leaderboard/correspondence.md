@@ -64,8 +64,8 @@ Rank|Bot|Rating
 #62|@Tundra4|2227
 #63|@OpeningsBot|2225
 #64|@SEtheChessGod|2224
-#65|@Abuziddin-BOT|2219
-#66|@Blunderbuss-bot|2219
+#65|@Blunderbuss-bot|2221
+#66|@Abuziddin-BOT|2219
 #67|@BalloonBot|2204
 #68|@AbhijithHISBot|2201
 #69|@Ar4Asd1-BOT|2197
@@ -164,9 +164,9 @@ Rank|Bot|Rating
 #162|@Los-Guerreros1|1935
 #163|@TheLegendaryKnight|1935
 #164|@chicken_farmer|1926
-#165|@RadianceEngine|1919
-#166|@yowCapablanca|1914
-#167|@felipe_bot_53|1913
+#165|@yowCapablanca|1914
+#166|@felipe_bot_53|1913
+#167|@RadianceEngine|1910
 #168|@vanibot|1897
 #169|@TrolliumBot|1894
 #170|@honzovy-sachy-2|1892
