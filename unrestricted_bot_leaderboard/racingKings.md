@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@chesshyperbot|2259
 #74|@ESC_BOT|2253
 #75|@relevantproblem|2251
-#76|@abdcebot|2245
+#76|@abdcebot|2249
 #77|@GodelEscherBot|2244
 #78|@MEGA-NOOB-BOT|2234
 #79|@is_BOSS|2227
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@Challenger_crazy|1652
 #158|@ROBOT_RANDEER2007|1651
 #159|@Heman36541234578|1647
-#160|@OpeningsBot|1641
+#160|@OpeningsBot|1635
 #161|@aliooooooo444|1596
 #162|@HiddeNL|1573
 #163|@TheSystem_Bot|1572

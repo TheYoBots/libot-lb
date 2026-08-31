@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Fairy_Belzedar|2917
 #3|@Viet-AI|2915
-#4|@abdcebot|2801
+#4|@abdcebot|2802
 #5|@ToromBot|2768
 #6|@Royal-Bot|2761
 #7|@Coolman2021|2757
@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@Bullet_bot_0526|2344
 #28|@eNErGyOFbEiNGbOT|2326
 #29|@Alexnajax_Fan|2316
-#30|@AlfaBot|2293
-#31|@Fairy-Stockfish|2289
-#32|@beastie1|2280
+#30|@beastie1|2303
+#31|@AlfaBot|2293
+#32|@Fairy-Stockfish|2289
 #33|@Kizburb|2276
 #34|@Team_bot_08512|2267
 #35|@MEGA-NOOB-BOT|2266
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@Nicholaswb_BOT|1288
 #177|@AEBROADUSBOTTER|1279
 #178|@ReallyCrazyBOT|1279
-#179|@pawnrobot|1274
+#179|@pawnrobot|1273
 #180|@AbhijithHISBot|1258
 #181|@Humuhumunukunukuapu|1258
 #182|@Jannik08_fan|1258

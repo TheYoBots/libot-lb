@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@SF_Bot1nok|2297
 #4|@DarkOnBot|2285
 #5|@RaspFish|2281
-#6|@abdcebot|2245
+#6|@abdcebot|2249
 #7|@MEGA-NOOB-BOT|2234
 #8|@is_BOSS|2227
 #9|@bot1e|2211
@@ -16,10 +16,11 @@ Rank|Bot|Rating
 #14|@QiOui|1816
 #15|@rachl1|1798
 #16|@nickl1bot|1669
-#17|@JemBok|1543
-#18|@clementyne1|1535
-#19|@spyros1bot|1406
-#20|@Lancelbot|1344
-#21|@reaper1bot|1190
-#22|@hashcake1|1189
-#23|@genesis1bot|1064
+#17|@OpeningsBot|1635
+#18|@JemBok|1543
+#19|@clementyne1|1535
+#20|@spyros1bot|1406
+#21|@Lancelbot|1344
+#22|@reaper1bot|1190
+#23|@hashcake1|1189
+#24|@genesis1bot|1064

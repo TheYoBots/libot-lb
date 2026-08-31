@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@legendbot1|1866
 #127|@MyNameIsSpeeedy|1861
 #128|@Bot_AOOP11|1858
-#129|@OpeningsBot|1854
+#129|@OpeningsBot|1846
 #130|@AnUtterlyKarBot|1829
 #131|@Dong_Xiao_Yuan|1829
 #132|@Alehkine_cat|1828

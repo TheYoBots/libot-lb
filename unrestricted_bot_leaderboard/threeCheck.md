@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@MEGA-NOOB-BOT|2247
 #47|@rascal1|2239
 #48|@OlympusCz|2231
-#49|@beastie1|2218
+#49|@beastie1|2216
 #50|@Vinh_VariantsBot|2215
 #51|@Kizburb|2214
 #52|@xiang-qi|2207
@@ -81,8 +81,8 @@ Rank|Bot|Rating
 #79|@Xerus_1|2070
 #80|@SF_Bot1nok|2068
 #81|@ROBOT_RANDEER2007|2059
-#82|@abdcebot|2050
-#83|@varient-chess-bot1|2046
+#82|@varient-chess-bot1|2046
+#83|@abdcebot|2045
 #84|@Galaxy_Guardian|2041
 #85|@Official_bot|2041
 #86|@Resolved-Bot|2026
@@ -126,8 +126,8 @@ Rank|Bot|Rating
 #124|@Chesz_Art|1815
 #125|@nickl1bot|1814
 #126|@ElFinsBoT|1808
-#127|@clementyne1|1789
-#128|@OpeningsBot|1786
+#127|@OpeningsBot|1801
+#128|@clementyne1|1789
 #129|@pussaW|1785
 #130|@Tacticall_Bot|1779
 #131|@XXXTryandTryXXX|1747
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@Lancelbot|1597
 #149|@newengine2022|1588
 #150|@knight_128|1563
-#151|@Stockfish-MEDIUM|1554
+#151|@Stockfish-MEDIUM|1552
 #152|@Alehkine_cat|1531
 #153|@Groot123456|1520
 #154|@TrashBot|1519

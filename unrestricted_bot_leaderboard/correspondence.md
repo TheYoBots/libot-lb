@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@ttBOT|2229
 #61|@Bot_of_jotim431|2227
 #62|@Tundra4|2227
-#63|@OpeningsBot|2226
+#63|@OpeningsBot|2225
 #64|@SEtheChessGod|2224
 #65|@Abuziddin-BOT|2219
 #66|@Blunderbuss-bot|2219

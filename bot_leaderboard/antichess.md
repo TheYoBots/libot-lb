@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|3034
+#1|@abdcebot|3035
 #2|@bot1e|2943
 #3|@Bot1nokk|2913
 #4|@SF_Bot1nok|2907
@@ -15,14 +15,14 @@ Rank|Bot|Rating
 #13|@anti-bot|2344
 #14|@kowalabi|2246
 #15|@QiOui|2236
-#16|@Stockfish-MEDIUM|2205
-#17|@NilatacBot|2168
+#16|@Stockfish-MEDIUM|2195
+#17|@NilatacBot|2172
 #18|@rachl1|2136
 #19|@nickl1bot|2126
 #20|@JemBok|2088
 #21|@clementyne1|2074
-#22|@CatNail|1999
-#23|@Bottios|1965
+#22|@CatNail|1988
+#23|@Bottios|1963
 #24|@spyros1bot|1607
 #25|@Lancelbot|1423
 #26|@StockfishLowDepth|1355
