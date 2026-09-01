@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@Bullet_bot_0526|2344
 #28|@eNErGyOFbEiNGbOT|2326
 #29|@Alexnajax_Fan|2316
-#30|@beastie1|2303
+#30|@beastie1|2312
 #31|@AlfaBot|2293
 #32|@Fairy-Stockfish|2289
 #33|@Kizburb|2276
@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@CloudBot_v2|2252
 #40|@ElPeonElectrico|2242
 #41|@TacticalBot|2227
-#42|@calico1|2220
-#43|@OSaurus|2203
+#42|@calico1|2224
+#43|@OSaurus|2199
 #44|@UltronBot|2199
 #45|@GoblinAjedrezAI|2185
 #46|@FayEFish|2172
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@CheckmateX1|2102
 #59|@chessbot2880|2098
 #60|@Galaxy_Guardian|2096
-#61|@kowalabi|2096
+#61|@kowalabi|2087
 #62|@KingfishX|2081
 #63|@iplayonlyrandom|2075
 #64|@Zimbabwean_chessbot|2073
@@ -91,10 +91,10 @@ Rank|Bot|Rating
 #89|@mrchessmanager|1888
 #90|@TheMatrix2029|1884
 #91|@TeamChelsie|1869
-#92|@JemBok|1853
+#92|@nickl1bot|1868
 #93|@B0T5_RU13|1852
 #94|@Lili-Variants|1846
-#95|@nickl1bot|1835
+#95|@JemBok|1820
 #96|@clementyne1|1819
 #97|@Breeze-Hot|1809
 #98|@GodelEscherBot|1805

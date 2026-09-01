@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@SF_Bot1nok|2174
 #47|@eNErGyOFbEiNGbOT|2166
 #48|@HuxZero|2163
-#49|@beastie1|2155
+#49|@beastie1|2156
 #50|@colinbot|2148
 #51|@Mega_BOT|2148
 #52|@is_BOSS|2147
@@ -69,12 +69,12 @@ Rank|Bot|Rating
 #67|@Bot1nokk|2082
 #68|@ibep|2078
 #69|@Xerus_1|2076
-#70|@OSaurus|2075
-#71|@newengine2022|2071
-#72|@vrnts_colinbot|2068
-#73|@KingfishX|2066
-#74|@NewChessEngine-ai|2046
-#75|@calico1|2044
+#70|@newengine2022|2071
+#71|@vrnts_colinbot|2068
+#72|@KingfishX|2066
+#73|@calico1|2050
+#74|@OSaurus|2049
+#75|@NewChessEngine-ai|2046
 #76|@Hyper-Stockfish|2044
 #77|@Kizbuurb|2035
 #78|@CloudBot_v2|2027
@@ -114,7 +114,7 @@ Rank|Bot|Rating
 #112|@Botzer|1851
 #113|@B0T5_RU13|1835
 #114|@STockfishdestroyBot|1825
-#115|@JemBok|1819
+#115|@nickl1bot|1816
 #116|@AldoGamer001_Bot|1813
 #117|@admin-bot|1809
 #118|@The-Fastest-Bot|1809
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@FairyTailRegimeBot|1785
 #128|@Nobody11892|1785
 #129|@StockfishLowDepth|1758
-#130|@nickl1bot|1756
+#130|@JemBok|1753
 #131|@Viet-BOT|1750
 #132|@clrsrc_lc0|1742
 #133|@K_Shi_Bot|1737
