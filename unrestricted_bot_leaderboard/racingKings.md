@@ -60,9 +60,9 @@ Rank|Bot|Rating
 #58|@KingfishX|2312
 #59|@Viet-BOT|2312
 #60|@IAMSTOCKFISH123|2307
-#61|@rascal1|2297
-#62|@TestingBot1|2294
-#63|@SF_Bot1nok|2293
+#61|@TestingBot1|2294
+#62|@SF_Bot1nok|2293
+#63|@rascal1|2292
 #64|@NormalBulletBot|2291
 #65|@YoBot_v2|2287
 #66|@DarkOnBot|2285

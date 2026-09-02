@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@vrnts_colinbot|2266
 #44|@HIWIN1234|2261
 #45|@YoBot_v2|2257
-#46|@MEGA-NOOB-BOT|2245
-#47|@rascal1|2239
+#46|@rascal1|2253
+#47|@MEGA-NOOB-BOT|2245
 #48|@OlympusCz|2231
 #49|@Vinh_VariantsBot|2215
 #50|@Kizburb|2214
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@Bobby_Fischer_BOT|2138
 #68|@abhisun_bot|2129
 #69|@NienishiEngine|2124
-#70|@DarkOnBot|2116
+#70|@DarkOnBot|2122
 #71|@AnUtterlyKarBot|2103
 #72|@bot1e|2100
 #73|@Lili-ai|2099
@@ -152,8 +152,8 @@ Rank|Bot|Rating
 #150|@knight_128|1563
 #151|@Alehkine_cat|1531
 #152|@Groot123456|1520
-#153|@Stockfish-MEDIUM|1520
-#154|@TrashBot|1519
+#153|@TrashBot|1519
+#154|@Stockfish-MEDIUM|1517
 #155|@relevantproblem|1514
 #156|@Toxic_Bot|1511
 #157|@NoobMasterBOT|1507

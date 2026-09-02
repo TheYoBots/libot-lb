@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@colinbot|2612
 #23|@Xerus_1|2611
 #24|@Iwantedtoplaychess|2600
-#25|@rascal1|2559
+#25|@rascal1|2574
 #26|@EmptikVariantsBot|2548
 #27|@SF_Bot1nok|2541
 #28|@BotSuxX|2538

@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@SF_Bot1nok|2638
 #5|@bot1e|2628
 #6|@DarkOnBot|2437
-#7|@rascal1|2405
+#7|@rascal1|2420
 #8|@beastie1|2312
 #9|@MEGA-NOOB-BOT|2264
 #10|@calico1|2224
@@ -20,7 +20,6 @@ Rank|Bot|Rating
 #18|@JemBok|1820
 #19|@spyros1bot|1615
 #20|@Lancelbot|1525
-#21|@pawnrobot|1271
+#21|@pawnrobot|1284
 #22|@reaper1bot|1228
 #23|@hashcake1|1203
-#24|@genesis1bot|1061

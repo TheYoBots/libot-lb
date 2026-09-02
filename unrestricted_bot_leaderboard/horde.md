@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@compchess2|2579
 #17|@Lili-ai|2572
 #18|@DarkOnBot|2437
-#19|@HIWIN1234|2412
-#20|@rascal1|2405
+#19|@rascal1|2420
+#20|@HIWIN1234|2412
 #21|@EmptikVariantsBot|2402
 #22|@BOT_Stockfish13|2383
 #23|@EmptikBot|2378
@@ -176,9 +176,9 @@ Rank|Bot|Rating
 #174|@weaklean|1338
 #175|@BinaryBrain|1299
 #176|@Nicholaswb_BOT|1288
-#177|@AEBROADUSBOTTER|1279
-#178|@ReallyCrazyBOT|1279
-#179|@pawnrobot|1271
+#177|@pawnrobot|1284
+#178|@AEBROADUSBOTTER|1279
+#179|@ReallyCrazyBOT|1279
 #180|@AbhijithHISBot|1258
 #181|@Humuhumunukunukuapu|1258
 #182|@Jannik08_fan|1258
