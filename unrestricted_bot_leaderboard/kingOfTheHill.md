@@ -107,8 +107,8 @@ Rank|Bot|Rating
 #105|@MistakeBOT|1886
 #106|@EagleEye2021|1880
 #107|@xiang-qi|1868
-#108|@que-hyper|1865
-#109|@QiOui|1860
+#108|@QiOui|1865
+#109|@que-hyper|1865
 #110|@relevantproblem|1857
 #111|@Botzer|1851
 #112|@OpeningsBot|1840
@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@AnUtterlyKarBot|1796
 #126|@FairyTailRegimeBot|1785
 #127|@Nobody11892|1785
-#128|@JemBok|1761
+#128|@JemBok|1771
 #129|@StockfishLowDepth|1758
 #130|@Viet-BOT|1750
 #131|@Stockfish-MEDIUM|1743
@@ -143,12 +143,12 @@ Rank|Bot|Rating
 #141|@SCP079|1660
 #142|@chessemkabot|1625
 #143|@CoderDen732|1621
-#144|@spyros1bot|1612
+#144|@spyros1bot|1616
 #145|@Ramses-Chess|1608
 #146|@Breeze-Hot|1606
 #147|@Just-a-random-bot|1604
-#148|@Lancelbot|1595
-#149|@R4033|1575
+#148|@R4033|1575
+#149|@Lancelbot|1570
 #150|@MMC_HUANGBAI|1569
 #151|@Epiano_Bot|1567
 #152|@Toxic_Bot|1541
@@ -184,8 +184,8 @@ Rank|Bot|Rating
 #182|@VedanthS-Bot|1353
 #183|@allvariants|1348
 #184|@BinaryBrain|1341
-#185|@reaper1bot|1318
-#186|@THEANDROIDBOT|1317
+#185|@THEANDROIDBOT|1317
+#186|@reaper1bot|1309
 #187|@Challengeme2anything|1307
 #188|@Hand_coded_ai_90565|1292
 #189|@NoTallkOnlyGames|1291
@@ -194,8 +194,8 @@ Rank|Bot|Rating
 #192|@Hrant_Petrosyan_BOT|1258
 #193|@HiddeNL|1242
 #194|@knight_128|1233
-#195|@MyNameIsSpeedy|1226
-#196|@DavidsGuterBot|1225
+#195|@DavidsGuterBot|1232
+#196|@MyNameIsSpeedy|1226
 #197|@Bottios|1223
 #198|@RSVMentor|1196
 #199|@bot-win-loh-nick|1191

@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@rascal1|2292
 #64|@NormalBulletBot|2291
 #65|@YoBot_v2|2287
-#66|@DarkOnBot|2281
+#66|@DarkOnBot|2279
 #67|@AlfaBot|2278
 #68|@RaspFish|2276
 #69|@Bot1nokk|2267
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@atomicli|2111
 #103|@Trumpfor2O2O|2103
 #104|@PetersTestBot|2081
-#105|@beastie1|2079
+#105|@beastie1|2075
 #106|@CloudBOT|2073
 #107|@JustDontFlagMe|2048
 #108|@Stockfish-MEDIUM|2043
@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@legendbot1|1893
 #122|@Hagfish|1879
 #123|@HakoAI|1878
-#124|@PyChessBot|1847
-#125|@QiOui|1847
+#124|@QiOui|1858
+#125|@PyChessBot|1847
 #126|@king12345678910BOT|1833
 #127|@kowalabi|1833
 #128|@cool_boy_bot|1829
@@ -166,7 +166,7 @@ Rank|Bot|Rating
 #164|@clementyne1|1563
 #165|@QuickLiquid|1555
 #166|@MMC_HUANGBAI|1553
-#167|@JemBok|1528
+#167|@JemBok|1529
 #168|@faith_bot|1514
 #169|@CoderDen732|1507
 #170|@TorBot|1498
@@ -194,9 +194,9 @@ Rank|Bot|Rating
 #192|@NeilDandekarBot|1373
 #193|@vamos_caballeros|1373
 #194|@Los-Guerreros1|1364
-#195|@spyros1bot|1354
+#195|@spyros1bot|1360
 #196|@knight_BOT|1352
-#197|@Lancelbot|1345
+#197|@Lancelbot|1342
 #198|@Toxic_Bot|1338
 #199|@KevBot_SF|1335
 #200|@LegendaryBot1|1333
@@ -219,7 +219,7 @@ Rank|Bot|Rating
 #217|@hashcake1|1197
 #218|@Happy_One|1196
 #219|@XiDM|1181
-#220|@reaper1bot|1173
+#220|@reaper1bot|1163
 #221|@Hrant_Petrosyan_BOT|1152
 #222|@BetaOneBot|1141
 #223|@GuineaBot2|1141
