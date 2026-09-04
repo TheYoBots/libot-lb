@@ -4,3 +4,4 @@ Rank|Bot|Rating
 #2|@ChessatronBot|2396
 #3|@OpeningsBot|2235
 #4|@Blunderbuss-bot|2221
+#5|@puisne|1689
