@@ -9,12 +9,12 @@ Rank|Bot|Rating
 #7|@rascal1|2420
 #8|@beastie1|2304
 #9|@calico1|2224
-#10|@OSaurus|2199
+#10|@OSaurus|2193
 #11|@is_BOSS|2117
 #12|@MEGA-NOOB-BOT|2117
 #13|@kowalabi|2072
 #14|@QiOui|2052
-#15|@rachl1|1914
+#15|@rachl1|1906
 #16|@nickl1bot|1887
 #17|@clementyne1|1834
 #18|@JemBok|1820
@@ -23,4 +23,4 @@ Rank|Bot|Rating
 #21|@pawnrobot|1284
 #22|@reaper1bot|1244
 #23|@hashcake1|1187
-#24|@genesis1bot|1061
+#24|@genesis1bot|1055

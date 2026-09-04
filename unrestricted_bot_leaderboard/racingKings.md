@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@Crepusculum|2036
 #110|@calico1|2025
 #111|@EstmileBot|2018
-#112|@OSaurus|1991
-#113|@Less_of_a_threat|1979
+#112|@Less_of_a_threat|1979
+#113|@OSaurus|1979
 #114|@BGSBot|1969
 #115|@Yemmi-Yemmi|1964
 #116|@admin-bot|1955
@@ -131,10 +131,10 @@ Rank|Bot|Rating
 #129|@Just-a-random-bot|1816
 #130|@Galaxy_Guardian|1812
 #131|@Lila-Stockfish|1812
-#132|@SUMEETTHEPRO|1795
-#133|@Botzer|1794
-#134|@DrSmartBugs|1790
-#135|@rachl1|1789
+#132|@rachl1|1800
+#133|@SUMEETTHEPRO|1795
+#134|@Botzer|1794
+#135|@DrSmartBugs|1790
 #136|@SriLankaChess|1784
 #137|@YoBot_v1|1782
 #138|@Bot2000|1767
@@ -224,7 +224,7 @@ Rank|Bot|Rating
 #222|@BetaOneBot|1141
 #223|@GuineaBot2|1141
 #224|@BogoBot|1074
-#225|@genesis1bot|1070
+#225|@genesis1bot|1054
 #226|@MateCheckCapture|1011
 #227|@ZX-Chess|982
 #228|@MinOpponentMoves|648

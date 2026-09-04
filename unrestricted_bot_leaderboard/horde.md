@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@ElPeonElectrico|2242
 #40|@TacticalBot|2227
 #41|@calico1|2224
-#42|@OSaurus|2199
-#43|@UltronBot|2199
+#42|@UltronBot|2199
+#43|@OSaurus|2193
 #44|@GoblinAjedrezAI|2185
 #45|@FayEFish|2172
 #46|@Trumpfor2O2O|2162
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@Magnus-BOT|1923
 #81|@MalanChess|1921
 #82|@NormalBlitzBulletBot|1915
-#83|@rachl1|1914
+#83|@rachl1|1906
 #84|@MMC_HUANGBAI|1903
 #85|@XXIstCentury|1902
 #86|@AnUtterlyKarBot|1901
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@duythong1402|1120
 #197|@fairy-vvrr|1102
 #198|@alvin-chess-bot|1091
-#199|@genesis1bot|1061
+#199|@genesis1bot|1055
 #200|@MontyPythonFlying|1037
 #201|@FireTorchV2|1011
 #202|@MinOpponentMoves|988
