@@ -6,9 +6,9 @@ Rank|Bot|Rating
 #4|@DarkOnBot|2430
 #5|@RaspFish|2422
 #6|@beastie1|2357
-#7|@is_BOSS|2354
-#8|@MEGA-NOOB-BOT|2345
-#9|@abdcebot|2335
+#7|@is_BOSS|2356
+#8|@MEGA-NOOB-BOT|2353
+#9|@abdcebot|2331
 #10|@bot1e|2325
 #11|@calico1|2312
 #12|@OSaurus|2307
