@@ -2407,6 +2407,7 @@ palrishabheasy
 panda_bot
 panda_engine
 pangubot
+panic-fish
 parrotfish1
 parth_dhage_2
 partner3615diago
@@ -3600,4 +3601,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-panic-fish
