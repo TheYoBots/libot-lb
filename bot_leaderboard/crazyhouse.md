@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@rascal1|2574
 #2|@SF_Bot1nok|2531
 #3|@Bot1nokk|2508
-#4|@DarkOnBot|2430
+#4|@DarkOnBot|2429
 #5|@RaspFish|2422
 #6|@beastie1|2357
 #7|@is_BOSS|2356
@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@kowalabi|2138
 #14|@QiOui|2117
 #15|@rachl1|2106
-#16|@nickl1bot|1988
+#16|@nickl1bot|1984
 #17|@JemBok|1886
 #18|@clementyne1|1869
 #19|@spyros1bot|1725

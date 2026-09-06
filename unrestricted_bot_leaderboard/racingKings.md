@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@Jussicas|2373
 #46|@TheMatrix2025|2368
 #47|@Lili-Variants|2357
-#48|@ToromBot|2355
+#48|@ToromBot|2347
 #49|@Viet_BOT|2344
 #50|@virus_exe-bot|2342
 #51|@BotsFanClub|2338
@@ -65,16 +65,16 @@ Rank|Bot|Rating
 #63|@SF_Bot1nok|2292
 #64|@NormalBulletBot|2291
 #65|@YoBot_v2|2287
-#66|@DarkOnBot|2279
-#67|@AlfaBot|2278
+#66|@AlfaBot|2278
+#67|@DarkOnBot|2278
 #68|@RaspFish|2276
 #69|@Bot1nokk|2267
 #70|@gage12_bot|2266
 #71|@Mega_BOT|2264
 #72|@MalanChess|2261
 #73|@chesshyperbot|2259
-#74|@ESC_BOT|2253
-#75|@is_BOSS|2253
+#74|@is_BOSS|2254
+#75|@ESC_BOT|2253
 #76|@abdcebot|2251
 #77|@relevantproblem|2251
 #78|@GodelEscherBot|2244
@@ -152,7 +152,7 @@ Rank|Bot|Rating
 #150|@PowerOnBot|1701
 #151|@Chess_omar_2009|1698
 #152|@JEDDYCOCO12345|1692
-#153|@nickl1bot|1682
+#153|@nickl1bot|1686
 #154|@Harry_Potterz|1674
 #155|@XXXTryandTryXXX|1674
 #156|@Breeze-Hot|1659
@@ -216,7 +216,7 @@ Rank|Bot|Rating
 #214|@ElFinsBoT|1238
 #215|@mertovic119|1232
 #216|@jasans_bot|1220
-#217|@hashcake1|1206
+#217|@hashcake1|1200
 #218|@Happy_One|1196
 #219|@XiDM|1181
 #220|@Hrant_Petrosyan_BOT|1152

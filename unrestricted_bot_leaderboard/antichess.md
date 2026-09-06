@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@EmptikBot|3070
 #2|@Fairy_Belzedar|3044
-#3|@abdcebot|3022
+#3|@abdcebot|3024
 #4|@VariantsBot|3021
 #5|@UltimateVariants|2978
 #6|@ToromBot|2969
@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@varient-chess-bot1|2792
 #18|@lord-bot|2789
 #19|@FireFishBOT|2785
-#20|@RaspFish|2785
+#20|@RaspFish|2783
 #21|@CheckmateX1|2775
 #22|@VariantsTop|2765
 #23|@Viet-AI|2765
@@ -159,8 +159,8 @@ Rank|Bot|Rating
 #157|@GegeneBOT|2177
 #158|@OpeningsBot|2169
 #159|@DeepFriedFish|2165
-#160|@NilatacBot|2159
-#161|@rachl1|2157
+#160|@NilatacBot|2165
+#161|@rachl1|2164
 #162|@lightspeed_bot|2152
 #163|@nickl1bot|2147
 #164|@AntiChessBot|2142
@@ -183,7 +183,7 @@ Rank|Bot|Rating
 #181|@Menganti|1963
 #182|@CloudBOT|1950
 #183|@TestingBot1|1914
-#184|@CatNail|1901
+#184|@CatNail|1910
 #185|@Crepusculum|1881
 #186|@NoTallkOnlyGames|1871
 #187|@Lumac0|1861
