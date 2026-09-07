@@ -181,7 +181,7 @@ Rank|Bot|Rating
 #179|@TheMatrix2025|1872
 #180|@ViVe_2_chess_pro|1869
 #181|@pi0w|1865
-#182|@GarboBot|1864
+#182|@GarboBot|1862
 #183|@Jibbby|1858
 #184|@Thera_Engine|1857
 #185|@ayodia|1853
