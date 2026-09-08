@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@ToromBot|2730
 #9|@FireFishBOT|2726
 #10|@PepsiForAll|2699
-#11|@RaspFish|2671
+#11|@RaspFish|2674
 #12|@Bot1nokk|2647
 #13|@SF_Bot1nok|2640
 #14|@bot1e|2626
@@ -53,8 +53,8 @@ Rank|Bot|Rating
 #51|@Bobby_Fischer_BOT|2136
 #52|@TheMatrix2025|2132
 #53|@Yebot|2118
-#54|@jasans_bot|2116
-#55|@is_BOSS|2115
+#54|@is_BOSS|2116
+#55|@jasans_bot|2116
 #56|@xiang-qi|2115
 #57|@MEGA-NOOB-BOT|2112
 #58|@GCNbyFayE|2110

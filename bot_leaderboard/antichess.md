@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@MEGA-NOOB-BOT|2610
 #8|@rascal1|2608
 #9|@DarkOnBot|2594
-#10|@beastie1|2483
-#11|@MDBOT|2464
+#10|@MDBOT|2487
+#11|@beastie1|2483
 #12|@is_BOSS|2443
 #13|@calico1|2396
 #14|@OSaurus|2374
@@ -18,13 +18,13 @@ Rank|Bot|Rating
 #16|@kowalabi|2264
 #17|@Stockfish-MEDIUM|2233
 #18|@QiOui|2225
-#19|@NilatacBot|2221
+#19|@NilatacBot|2209
 #20|@rachl1|2158
 #21|@nickl1bot|2152
 #22|@JemBok|2091
 #23|@clementyne1|2078
 #24|@Bottios|1997
-#25|@CatNail|1894
+#25|@CatNail|1889
 #26|@spyros1bot|1787
 #27|@Lancelbot|1477
 #28|@StockfishLowDepth|1360

@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@abdcebot|2275
 #4|@DarkOnBot|2241
 #5|@RaspFish|2197
-#6|@is_BOSS|2164
+#6|@is_BOSS|2172
 #7|@beastie1|2139
 #8|@calico1|2048
 #9|@OSaurus|2031

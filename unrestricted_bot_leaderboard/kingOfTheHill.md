@@ -46,8 +46,8 @@ Rank|Bot|Rating
 #44|@UnDisstoppableBot|2193
 #45|@Amrobotone|2184
 #46|@SF_Bot1nok|2174
-#47|@eNErGyOFbEiNGbOT|2166
-#48|@is_BOSS|2164
+#47|@is_BOSS|2172
+#48|@eNErGyOFbEiNGbOT|2166
 #49|@HuxZero|2163
 #50|@colinbot|2148
 #51|@Mega_BOT|2148

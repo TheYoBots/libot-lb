@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@abdcebot|2793
-#2|@RaspFish|2671
+#2|@RaspFish|2674
 #3|@Bot1nokk|2647
 #4|@SF_Bot1nok|2640
 #5|@bot1e|2626
@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@beastie1|2290
 #9|@calico1|2217
 #10|@OSaurus|2207
-#11|@is_BOSS|2115
+#11|@is_BOSS|2116
 #12|@MEGA-NOOB-BOT|2112
 #13|@kowalabi|2072
 #14|@QiOui|2050
