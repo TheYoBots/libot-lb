@@ -79,7 +79,7 @@ def get_available_bots():
             for bot in f.readlines():
                 available_bots.append(bot.strip())
             available_bots = sorted(available_bots)
-        with urllib.request.urlopen('https://lichess.org/api/bot/online') as online_bots:
+        with urllib.request.urlopen('https://lichess.org/api/bot/online?nb=512') as online_bots:
             for i in online_bots:
                 d = orjson.loads(i)
                 if d['id'] not in available_bots:
