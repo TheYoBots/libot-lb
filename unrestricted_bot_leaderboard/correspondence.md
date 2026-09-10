@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@bekbot|2307
 #40|@Magnus-BOT|2304
 #41|@AVeryBigMistake|2301
-#42|@Xmas_dragon|2300
-#43|@Coffee_House_Carl|2300
+#42|@Coffee_House_Carl|2300
+#43|@Xmas_dragon|2300
 #44|@chmod-bot|2299
 #45|@Ujwal1001|2297
 #46|@robiachess|2295
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@Lila-Stockfish|2238
 #58|@chesshyperbot|2236
 #59|@Dean_Summer_Bot|2236
-#60|@OpeningsBot|2235
+#60|@OpeningsBot|2232
 #61|@DrSmartBugs|2230
 #62|@Jobabot|2229
 #63|@ttBOT|2229
