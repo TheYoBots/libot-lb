@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@CloudBOT|2393
 #43|@MEGA-NOOB-BOT|2392
 #44|@NienishiEngine|2392
-#45|@is_BOSS|2391
+#45|@is_BOSS|2389
 #46|@GoblinAjedrezAI|2383
 #47|@TacticalBot|2373
 #48|@EagleEye2021|2365
@@ -159,8 +159,8 @@ Rank|Bot|Rating
 #157|@FASTCHESSBOT|1666
 #158|@SipsonsamsonBOT|1665
 #159|@MistakeBOT|1655
-#160|@Isaacwb_BOT|1640
-#161|@goldinho1bot|1637
+#160|@goldinho1bot|1646
+#161|@Isaacwb_BOT|1640
 #162|@Monastedrez|1634
 #163|@Groot123456|1624
 #164|@SriLankaChess|1623
@@ -169,9 +169,9 @@ Rank|Bot|Rating
 #167|@CloudBotZero|1599
 #168|@PetersTestBot|1599
 #169|@TTC-BOT_2|1596
-#170|@dragoodle|1596
-#171|@Karpov_bot|1594
-#172|@Hagfish|1593
+#170|@Karpov_bot|1594
+#171|@Hagfish|1593
+#172|@dragoodle|1583
 #173|@Danielbot|1575
 #174|@BushyCamper|1563
 #175|@newengine2022|1563

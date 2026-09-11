@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@pawny_bot|3556
 #2|@Trainer-Bot|3339
 #3|@ChronicGambler|3010
-#4|@fibonachi|2958
+#4|@fibonachi|2959
 #5|@Grzechu86|2852
 #6|@Magicianrobot|2740
 #7|@Moment-That-Inspires|2705
@@ -59,9 +59,9 @@ Rank|Bot|Rating
 #57|@Lila-Stockfish|2238
 #58|@chesshyperbot|2236
 #59|@Dean_Summer_Bot|2236
-#60|@OpeningsBot|2232
-#61|@DrSmartBugs|2230
-#62|@Jobabot|2229
+#60|@DrSmartBugs|2230
+#61|@Jobabot|2229
+#62|@OpeningsBot|2229
 #63|@ttBOT|2229
 #64|@Bot_of_jotim431|2227
 #65|@Tundra4|2227

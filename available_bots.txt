@@ -288,6 +288,7 @@ barbotte
 barkoz-tempo
 barryallen14
 basbabas
+battlebornthe1st
 battlebornthe5th
 battlebot
 batyarapro
@@ -720,6 +721,7 @@ chess_learning_ai
 chess_ni_boss
 chess_omar_2009
 chess_pro9600
+chess_set_manager
 chess_star_01
 chess_technik
 chessandtechsbot
@@ -830,6 +832,7 @@ cobrachessbot
 cockycrab
 coconochao_bot
 cocopikachubot
+codabot
 codemeout
 coderden732
 codethemout
@@ -912,6 +915,7 @@ cubeofrubik
 cucubot
 cultr
 currenter_ai
+cutebot
 cuteparakeet
 cutesnowman
 cva728_bot_1
@@ -1034,6 +1038,7 @@ dragonbot-77
 dragonclash
 dragonflybot
 dragonrosedev
+dragoodle
 dranzer154
 drawcula_bot
 drawfish
@@ -1374,6 +1379,7 @@ goldenrarebot
 goldensphere
 goldfinger-bot
 goldfish-engine
+goldinho1bot
 gonzobot
 good-game-123
 good_bot223344
@@ -1571,6 +1577,7 @@ iambotlol
 iamdadda96
 iamstockfish123
 iamthebot1
+iamtryingtvt
 iathena
 ibbxefbot
 ibep
@@ -1703,6 +1710,7 @@ jomfishh
 joneca-bot
 jonnierman
 jonox
+josefschessenginebot
 joseppegodo
 joshsbot
 joshuachessbot
@@ -2089,6 +2097,7 @@ maia9_10n
 maia9_30n
 maiamystery
 maiarosen
+maiatrap
 main_line
 majaitobot
 major-maxy
@@ -2126,6 +2135,9 @@ masterofchessbot800
 masterrobot
 mastrygoold
 mate-ai
+mate-in-forty
+mate-in-thirty
+mate-in-twenty
 mate1-bot
 mate_bot
 mateai
@@ -2137,6 +2149,7 @@ matmoi
 matrioshka_brain
 matrix-ai
 matrix_core
+matrixengine
 matrixmovebot80
 mattaberk-bot
 mautlier
@@ -2272,6 +2285,7 @@ mtalofficial
 multichessmcts
 multimodal-int
 munfish
+musashi-thebot
 mustafayilmazbot
 mustaley
 mxnet-gamemaster
@@ -2562,6 +2576,7 @@ pinkpanda1000
 pinkypawnbot
 piqbot
 piratesbot
+piratesrust
 pistol-play
 pix-chess
 pizza-delivery
@@ -3129,6 +3144,7 @@ stockfishspeed
 stockgam
 stockhalim
 stockmac
+stockpapagei
 stocksergio
 stocksquidv2
 stockweak
@@ -3144,6 +3160,7 @@ storng766555
 straightbot
 strain-on-veins
 strategemx
+strategy_bot
 strawberrychess1
 strawberrychessdev
 strawberrycupcakee
@@ -3187,6 +3204,7 @@ superbot2000
 superchessbot2222
 superchessenginev1
 superedgar
+supergame5
 superjerobot
 superleela
 superman-chess
@@ -3366,6 +3384,7 @@ titantactical2
 tjchessbot
 tkgue
 tle-of-water
+tm-sovietschool
 tmfish
 tnt_crecerbot
 tobegen
@@ -3527,6 +3546,7 @@ vetinari_computer
 vezzickbot
 vic98lg
 vicechess
+vicentlittle
 viceriever
 victoire-beepboop
 victorbulletbot
@@ -3740,23 +3760,10 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-vicentlittle
-mate-in-thirty
-mate-in-twenty
-mate-in-forty
-codabot
-maiatrap
-cutebot
-strategy_bot
-piratesrust
-supergame5
-josefschessenginebot
-chess_set_manager
-iamtryingtvt
-musashi-thebot
-goldinho1bot
-matrixengine
-tm-sovietschool
-battlebornthe1st
-stockpapagei
-dragoodle
+coda_bot
+shark-engine
+wannalearnbot
+preben-engine
+newbiebott
+dorky-bot
+wispbyte1
