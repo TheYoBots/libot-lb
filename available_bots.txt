@@ -625,6 +625,7 @@ callmecool
 calvin_bot
 camel_bot
 canary_colinbot
+caprastar
 caps-bot
 capturebot
 capybara_chessbot
@@ -1148,6 +1149,7 @@ emrysbot
 encrustant
 endogenetic-bot
 endokingsspade
+endspiel-engine
 enduring_leela
 energyofbeingbot
 engasaad-bot
@@ -1274,6 +1276,7 @@ flompiebot
 flounderbot
 flower-queen
 fluffballcuddly
+flybrainchess
 flying-dutchman-bot
 flying-rebel
 fn_waldi
@@ -1285,6 +1288,7 @@ fortunechess
 fougade
 fourbot
 foxchessbot
+fpga-chess
 franiquilafish
 frank-triolo-bot
 fred-fast-chess
@@ -1520,6 +1524,7 @@ hokmah
 hokmah-bot
 holzerich
 homemade223
+honeycombee
 honeyfried
 honggphat2006
 honkufish
@@ -2505,6 +2510,7 @@ osimo
 ourbot
 overfitted
 overhead_bot
+owenbot
 oxide-eg
 oxydanbot
 oxygenospro
@@ -3776,9 +3782,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-owenbot
-endspiel-engine
-caprastar
-honeycombee
-flybrainchess
-fpga-chess
+zugvector
+taubertdietaubejs
+selimbabapro-bot
+anenginebott2
+h2o-engine
