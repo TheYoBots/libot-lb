@@ -211,7 +211,7 @@ Rank|Bot|Rating
 #209|@goldinho1bot|1313
 #210|@Groot123456|1307
 #211|@BOT-2021|1300
-#212|@dragoodle|1298
+#212|@dragoodle|1292
 #213|@Boom_Bot|1286
 #214|@Bot-2564|1284
 #215|@potato638|1272
@@ -224,7 +224,7 @@ Rank|Bot|Rating
 #222|@ElFinsBoT|1238
 #223|@mertovic119|1232
 #224|@jasans_bot|1220
-#225|@BattleBornThe1st|1209
+#225|@BattleBornThe1st|1212
 #226|@Happy_One|1196
 #227|@hashcake1|1194
 #228|@XiDM|1181

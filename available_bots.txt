@@ -66,6 +66,7 @@ akubot
 akul_thotarobot
 alah230
 alan_bot
+alarm2001
 albatros_engine
 aldogamer001_bot
 alehkine_cat
@@ -281,6 +282,7 @@ balbla
 ballin-bot
 balloonbot
 bam_doctabka
+bamsensbadchessbot
 bananaaaaaaaaa_test
 banerot
 bao-chessvn
@@ -772,6 +774,7 @@ chessopenerbot
 chessosity
 chessplayer1225
 chesspolandbot
+chessqween-bot
 chesssenseengine
 chesstango_bot
 chesster-rubenstein
@@ -1044,6 +1047,7 @@ dragoodle
 dranzer154
 drawcula_bot
 drawfish
+drawfish-reborn
 drawinone
 dream_bot
 drmeowmeow
@@ -2106,6 +2110,7 @@ major-maxy
 maksimvolkov25
 malanchess
 malenamorgensenbot
+malpamat
 mamicolesorto
 manamunegaren
 mannreader
@@ -2114,6 +2119,7 @@ marcsterk07
 margret9033
 mariana-031
 mario_5o
+markuspvpbot
 marlia123456
 marsbot
 martianbot
@@ -2349,6 +2355,7 @@ newbiebott
 newchessengine-ai
 newengine2022
 newest_stockfish
+newtsbot
 nexastrat
 nexosdefos
 nezh-bot
@@ -3269,6 +3276,7 @@ tenborg
 tensorpupper
 terconari
 terfly
+terminatebot
 terminator_xe
 terrariabot
 test-z
@@ -3440,6 +3448,7 @@ trolliumbot
 trollololfish
 troutbot
 trumpfor2o2o
+trusia12345678
 try2defeatme
 try_to_beat_me_kid
 tt-challenge
@@ -3767,12 +3776,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-drawfish-reborn
-chessqween-bot
-trusia12345678
-bamsensbadchessbot
-alarm2001
-terminatebot
-malpamat
-newtsbot
-markuspvpbot
+owenbot
+endspiel-engine
+caprastar
+honeycombee
+flybrainchess
+fpga-chess

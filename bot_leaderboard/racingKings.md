@@ -25,8 +25,9 @@ Rank|Bot|Rating
 #23|@spyros1bot|1371
 #24|@Lancelbot|1370
 #25|@goldinho1bot|1313
-#26|@BattleBornThe1st|1209
-#27|@hashcake1|1194
-#28|@reaper1bot|1169
-#29|@BubbleBot2|1115
-#30|@genesis1bot|1049
+#26|@dragoodle|1292
+#27|@BattleBornThe1st|1212
+#28|@hashcake1|1194
+#29|@reaper1bot|1169
+#30|@BubbleBot2|1115
+#31|@genesis1bot|1049
