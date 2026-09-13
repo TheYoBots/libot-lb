@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@TestingBot1|2294
 #63|@rascal1|2293
 #64|@NormalBulletBot|2291
-#65|@SF_Bot1nok|2289
+#65|@SF_Bot1nok|2288
 #66|@YoBot_v2|2287
 #67|@DarkOnBot|2279
 #68|@AlfaBot|2278
@@ -74,13 +74,13 @@ Rank|Bot|Rating
 #72|@MalanChess|2261
 #73|@chesshyperbot|2259
 #74|@ESC_BOT|2253
-#75|@is_BOSS|2253
-#76|@RaspFish|2253
-#77|@relevantproblem|2251
-#78|@SuperGame5|2248
-#79|@abdcebot|2246
+#75|@RaspFish|2253
+#76|@relevantproblem|2251
+#77|@SuperGame5|2248
+#78|@is_BOSS|2246
+#79|@abdcebot|2245
 #80|@GodelEscherBot|2244
-#81|@MEGA-NOOB-BOT|2239
+#81|@MEGA-NOOB-BOT|2242
 #82|@ResoluteBot|2225
 #83|@XXIstCentury|2225
 #84|@bot1e|2224
@@ -114,7 +114,7 @@ Rank|Bot|Rating
 #112|@Crepusculum|2036
 #113|@calico1|2019
 #114|@EstmileBot|2018
-#115|@chess_set_manager|1988
+#115|@chess_set_manager|1990
 #116|@Less_of_a_threat|1979
 #117|@OSaurus|1976
 #118|@BGSBot|1969

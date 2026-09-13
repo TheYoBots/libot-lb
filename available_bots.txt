@@ -178,6 +178,7 @@ apollo1414
 apollo314
 apollo_bot
 apollobot
+aporia960
 aposeij
 apotheosis_bot
 apple-chess
@@ -1328,6 +1329,7 @@ gam3play3r-bot
 gambit-bot
 gambitdreamer
 gambitengine
+gambitonlybot
 game-bot
 gameromanbot
 gamingrun
@@ -2219,6 +2221,7 @@ michabay05
 middlegame_engine
 midnightbot
 midnyght
+miffkedbot
 mihansolo
 mikhailtal_ai
 mikhailtal_jp
@@ -2237,6 +2240,7 @@ mirrormaze-xdk
 misere-fish
 mistakebot
 misteick_bot
+misterpbot
 misterrengar
 mithandros
 mittens-bot
@@ -3524,6 +3528,7 @@ unbornbot
 undisstoppablebot
 unhappydefender
 unimark
+unknownstockfish
 unrated_bot
 unrevealed-bot
 untrained4406
@@ -3787,8 +3792,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-miffkedbot
-misterpbot
-gambitonlybot
-unknownstockfish
-aporia960
+zobristhaescher
+gbot113
+tidymazebot
+chengine_rookery
+chrusty
