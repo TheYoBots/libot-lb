@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@BattleBornThe5th|2264
 #47|@HIWIN1234|2261
 #48|@YoBot_v2|2257
-#49|@is_BOSS|2236
+#49|@is_BOSS|2239
 #50|@OlympusCz|2231
 #51|@SuperGame5|2227
 #52|@Vinh_VariantsBot|2215
@@ -61,7 +61,7 @@ Rank|Bot|Rating
 #59|@calico1|2181
 #60|@virus_exe-bot|2180
 #61|@ReallyCrazyBOT|2172
-#62|@DarkOnBot|2157
+#62|@DarkOnBot|2152
 #63|@CheckmateX1|2150
 #64|@ResoluteBot|2150
 #65|@ZhangirKhanBOT|2148
@@ -74,9 +74,9 @@ Rank|Bot|Rating
 #72|@NienishiEngine|2124
 #73|@AnUtterlyKarBot|2103
 #74|@Lili-ai|2099
-#75|@chess_set_manager|2090
-#76|@Bot1nokk|2086
-#77|@Dean_Summer_Bot|2086
+#75|@Bot1nokk|2086
+#76|@Dean_Summer_Bot|2086
+#77|@chess_set_manager|2084
 #78|@Magnus-BOT|2084
 #79|@Bullet_bot_0526|2077
 #80|@Xerus_1|2070
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@knight_128|1563
 #158|@Alehkine_cat|1531
 #159|@Bottios|1529
-#160|@dragoodle|1528
+#160|@dragoodle|1525
 #161|@BubbleBot2|1524
 #162|@Groot123456|1520
 #163|@TrashBot|1519
@@ -182,10 +182,10 @@ Rank|Bot|Rating
 #180|@Bobby_Fishcer_Bot|1458
 #181|@BOT-2021|1453
 #182|@bfdzvfsgaergfds|1444
-#183|@VedanthS-Bot|1443
-#184|@Botyuliirma|1442
-#185|@MeezKool|1438
-#186|@BattleBornThe1st|1437
+#183|@BattleBornThe1st|1443
+#184|@VedanthS-Bot|1443
+#185|@Botyuliirma|1442
+#186|@MeezKool|1438
 #187|@StockfishLowDepth|1435
 #188|@Nobody11892|1434
 #189|@TheWeakestBot|1431
@@ -207,7 +207,7 @@ Rank|Bot|Rating
 #205|@allvariants|1310
 #206|@NoTallkOnlyGames|1293
 #207|@PiratesRust|1290
-#208|@DavidsGuterBot|1286
+#208|@DavidsGuterBot|1282
 #209|@Light_To_The_Rescue|1277
 #210|@Sanjana_Kambala-BOT|1273
 #211|@TheLegendaryKnight|1272

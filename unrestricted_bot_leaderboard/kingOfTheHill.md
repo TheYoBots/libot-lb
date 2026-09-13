@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
 #7|@TacticalBot|2439
-#8|@ToromBot|2405
+#8|@ToromBot|2399
 #9|@Peaceful4Life|2390
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@rascal1|2315
 #24|@BattleBornThe5th|2311
 #25|@MEGA-NOOB-BOT|2307
-#26|@abdcebot|2300
+#26|@abdcebot|2305
 #27|@GoblinAjedrezAI|2299
 #28|@bot1e|2289
 #29|@LudwigBOT|2281
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@Worst-ai|2227
 #40|@Magnus-BOT|2224
 #41|@SkyBlaster|2220
-#42|@is_BOSS|2204
+#42|@is_BOSS|2206
 #43|@RaspFish|2202
 #44|@patzerbot135|2200
 #45|@PowerOnBot|2195
@@ -85,8 +85,8 @@ Rank|Bot|Rating
 #83|@VariantsTop|2014
 #84|@virus_exe-bot|2013
 #85|@CocopikachuBOT|2009
-#86|@chess_set_manager|2008
-#87|@lightspeed_bot|2007
+#86|@lightspeed_bot|2007
+#87|@chess_set_manager|2005
 #88|@chesshyperbot|2002
 #89|@Yemmi-Yemmi|1994
 #90|@XXIstCentury|1993
@@ -167,13 +167,13 @@ Rank|Bot|Rating
 #165|@TFRChessClub|1494
 #166|@hyperchessbot1|1493
 #167|@MagnusCarlsen1507|1492
-#168|@dragoodle|1489
-#169|@SugarAndSpice|1489
-#170|@rtx3080tibot|1487
-#171|@SUMAL_BRO|1476
-#172|@Ukraine-team-creator|1476
-#173|@Less_of_a_threat|1470
-#174|@BattleBornThe1st|1469
+#168|@SugarAndSpice|1489
+#169|@rtx3080tibot|1487
+#170|@BattleBornThe1st|1484
+#171|@dragoodle|1476
+#172|@SUMAL_BRO|1476
+#173|@Ukraine-team-creator|1476
+#174|@Less_of_a_threat|1470
 #175|@Bbao23-chess|1469
 #176|@Trainspotter|1466
 #177|@NienishiEngine|1465
@@ -206,7 +206,7 @@ Rank|Bot|Rating
 #204|@ChessChipBot|1258
 #205|@Hrant_Petrosyan_BOT|1258
 #206|@HiddeNL|1242
-#207|@DavidsGuterBot|1241
+#207|@DavidsGuterBot|1239
 #208|@knight_128|1233
 #209|@MyNameIsSpeedy|1226
 #210|@Bottios|1223

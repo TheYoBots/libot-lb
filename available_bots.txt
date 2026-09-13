@@ -144,6 +144,7 @@ andromonsterfish
 andscacs1
 anduril_engine
 anenginebott
+anenginebott2
 angela_ce
 angryofficepanda
 anindiananand
@@ -1445,6 +1446,7 @@ gun-bot
 gyatsobot
 gymerduybach
 h-zero
+h2o-engine
 h5h5h5h5
 h80000000-1
 haberbot
@@ -2935,6 +2937,7 @@ seechessbot
 seer-dev
 seitogakatsu
 selflearnbot
+selimbabapro-bot
 sem1rose
 senp4a1_bot
 sepbot
@@ -3268,6 +3271,7 @@ taleelavshumans
 tapobot
 taske-eman
 tasmanrevenge
+taubertdietaubejs
 tazo-tush
 tbhonbot
 team_bot_08512
@@ -3777,13 +3781,14 @@ zipfile_chess-bot
 zlomenymesic
 zokbot
 zomevbot
+zugvector
 zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-zugvector
-taubertdietaubejs
-selimbabapro-bot
-anenginebott2
-h2o-engine
+miffkedbot
+misterpbot
+gambitonlybot
+unknownstockfish
+aporia960
