@@ -704,6 +704,7 @@ chen_bot
 chen_sbot
 cheng-4
 cheng-4-nn
+chengine_rookery
 cherry-bot
 cherryfish_bot
 chers-engine
@@ -802,6 +803,7 @@ chokefish
 chompbot
 christophercolomb
 chronicgambler
+chrusty
 chrysogenum
 chunguszero
 ciberchessai
@@ -1340,6 +1342,7 @@ garamdharam
 garbobot
 garntbot
 gbcb
+gbot113
 gc1bot
 gcnbyfaye
 gecko_bot
@@ -3396,6 +3399,7 @@ thuban_official
 thunfisch-bot
 thyf
 ticktocc
+tidymazebot
 tigerengine
 tigersbot
 tigrament
@@ -3784,6 +3788,7 @@ ziansnake
 zimbabwean_chessbot
 zipfile_chess-bot
 zlomenymesic
+zobristhaescher
 zokbot
 zomevbot
 zugvector
@@ -3792,8 +3797,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-zobristhaescher
-gbot113
-tidymazebot
-chengine_rookery
-chrusty
+tilesbot
+nesbes
+aerialsbot
+leelatroll
+tchessbot

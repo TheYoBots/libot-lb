@@ -66,8 +66,8 @@ Rank|Bot|Rating
 #64|@NormalBulletBot|2291
 #65|@SF_Bot1nok|2288
 #66|@YoBot_v2|2287
-#67|@DarkOnBot|2279
-#68|@AlfaBot|2278
+#67|@AlfaBot|2278
+#68|@DarkOnBot|2278
 #69|@gage12_bot|2266
 #70|@Bot1nokk|2265
 #71|@Mega_BOT|2264
@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@Challenger_crazy|1652
 #162|@ROBOT_RANDEER2007|1651
 #163|@Heman36541234578|1647
-#164|@OpeningsBot|1635
+#164|@OpeningsBot|1638
 #165|@aliooooooo444|1596
 #166|@HiddeNL|1573
 #167|@TheSystem_Bot|1572
@@ -197,11 +197,11 @@ Rank|Bot|Rating
 #195|@IGotNoName|1390
 #196|@SLDeadshot22|1389
 #197|@spyros1bot|1383
-#198|@NeilDandekarBot|1373
-#199|@vamos_caballeros|1373
-#200|@Lancelbot|1370
-#201|@Martuni|1370
-#202|@Los-Guerreros1|1364
+#198|@Lancelbot|1375
+#199|@NeilDandekarBot|1373
+#200|@vamos_caballeros|1373
+#201|@Los-Guerreros1|1364
+#202|@Martuni|1364
 #203|@knight_BOT|1352
 #204|@Toxic_Bot|1338
 #205|@KevBot_SF|1335
@@ -211,7 +211,7 @@ Rank|Bot|Rating
 #209|@goldinho1bot|1313
 #210|@Groot123456|1307
 #211|@BOT-2021|1300
-#212|@dragoodle|1293
+#212|@dragoodle|1294
 #213|@Boom_Bot|1286
 #214|@Bot-2564|1284
 #215|@potato638|1272
@@ -224,7 +224,7 @@ Rank|Bot|Rating
 #222|@ElFinsBoT|1238
 #223|@mertovic119|1232
 #224|@jasans_bot|1220
-#225|@BattleBornThe1st|1214
+#225|@BattleBornThe1st|1211
 #226|@Happy_One|1196
 #227|@hashcake1|1194
 #228|@XiDM|1181
