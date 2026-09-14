@@ -29,6 +29,7 @@ admin-bot
 admonitor
 ae_test
 aebroadusbotter
+aerialsbot
 aeternusmaster
 aetherbot
 africaata
@@ -1956,6 +1957,7 @@ leelarookodds
 leelastockzerofish
 leelastrength
 leelatinygyal
+leelatroll
 leelaunofficial
 leelaweak
 leelazero-uk
@@ -2358,6 +2360,7 @@ neonciv
 nerachess
 nerubatskyi_daniil_v
 neryba
+nesbes
 neuralabyss
 neuralactivity
 neuralknight1500
@@ -3281,6 +3284,7 @@ tasmanrevenge
 taubertdietaubejs
 tazo-tush
 tbhonbot
+tchessbot
 team_bot_08512
 teamblackknightchess
 teamchelsie
@@ -3404,6 +3408,7 @@ tigerengine
 tigersbot
 tigrament
 tikifish
+tilesbot
 time-player
 timecat
 timemachine1858
@@ -3797,8 +3802,10 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tilesbot
-nesbes
-aerialsbot
-leelatroll
-tchessbot
+safal027_bot
+the_chessmaster_3000
+guitarfish-engine
+playagainstmybot
+lantern_bot
+mboobot
+endspiel-pi
