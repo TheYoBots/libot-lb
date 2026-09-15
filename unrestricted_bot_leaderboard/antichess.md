@@ -62,9 +62,9 @@ Rank|Bot|Rating
 #60|@Nebulogic|2564
 #61|@Vinh_VariantsBot|2561
 #62|@MMC_HUANGBAI|2559
-#63|@chess_set_manager|2558
-#64|@Bullet_bot_0526|2555
-#65|@chessbot2880|2555
+#63|@Bullet_bot_0526|2555
+#64|@chessbot2880|2555
+#65|@chess_set_manager|2554
 #66|@Xerus_1|2553
 #67|@MEGA-NOOB-BOT|2550
 #68|@PetersTestBot|2549
@@ -137,8 +137,8 @@ Rank|Bot|Rating
 #135|@GodelEscherBot|2284
 #136|@HakoAI|2283
 #137|@Dean_Summer_Bot|2279
-#138|@Johnsun|2269
-#139|@anti-bot|2266
+#138|@anti-bot|2277
+#139|@Johnsun|2269
 #140|@QiOui|2266
 #141|@SkyBlaster|2254
 #142|@mrchessmanager|2240
@@ -190,7 +190,7 @@ Rank|Bot|Rating
 #188|@antichesssss|1964
 #189|@Menganti|1963
 #190|@CloudBOT|1950
-#191|@CatNail|1933
+#191|@CatNail|1935
 #192|@TestingBot1|1914
 #193|@Crepusculum|1881
 #194|@NoTallkOnlyGames|1871

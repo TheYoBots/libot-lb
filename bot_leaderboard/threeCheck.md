@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@MEGA-NOOB-BOT|2196
 #7|@DarkOnBot|2143
 #8|@OSaurus|2140
-#9|@chess_set_manager|2089
+#9|@chess_set_manager|2088
 #10|@Bot1nokk|2080
 #11|@kowalabi|2065
 #12|@abdcebot|2054
@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@rachl1|1911
 #17|@JemBok|1823
 #18|@clementyne1|1801
-#19|@Martuni|1761
+#19|@Martuni|1763
 #20|@malpamat|1701
 #21|@spyros1bot|1616
 #22|@Lancelbot|1604
@@ -31,4 +31,4 @@ Rank|Bot|Rating
 #29|@reaper1bot|1344
 #30|@DavidsGuterBot|1265
 #31|@genesis1bot|1241
-#32|@pawnrobot|1159
+#32|@pawnrobot|1171

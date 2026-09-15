@@ -53,10 +53,10 @@ Rank|Bot|Rating
 #51|@Worst-ai|2346
 #52|@abdcebot|2344
 #53|@chesshyperbot|2344
-#54|@OSaurus|2343
-#55|@EmptikBot|2332
+#54|@EmptikBot|2332
+#55|@calico1|2331
 #56|@lord-bot|2329
-#57|@calico1|2312
+#57|@OSaurus|2324
 #58|@catalanbotI|2307
 #59|@Yemmi-Yemmi|2305
 #60|@Bot_Mittens|2303
@@ -91,7 +91,7 @@ Rank|Bot|Rating
 #89|@QiOui|2117
 #90|@Johnsun|2113
 #91|@NewChessEngine-ai|2110
-#92|@chess_set_manager|2107
+#92|@chess_set_manager|2106
 #93|@rachl1|2097
 #94|@SixtyFourEngine|2089
 #95|@relevantproblem|2077

@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@NienishiEngine|2124
 #73|@AnUtterlyKarBot|2103
 #74|@Lili-ai|2099
-#75|@chess_set_manager|2089
+#75|@chess_set_manager|2088
 #76|@Dean_Summer_Bot|2086
 #77|@Magnus-BOT|2084
 #78|@Bot1nokk|2080
@@ -134,7 +134,7 @@ Rank|Bot|Rating
 #132|@clementyne1|1801
 #133|@pussaW|1785
 #134|@Tacticall_Bot|1779
-#135|@Martuni|1761
+#135|@Martuni|1763
 #136|@XXXTryandTryXXX|1747
 #137|@CBNguyen_Bot|1741
 #138|@No_Username2|1741
@@ -222,8 +222,8 @@ Rank|Bot|Rating
 #220|@admin-bot|1188
 #221|@Ujwal1001|1179
 #222|@Just-a-random-bot|1171
-#223|@duythong1402|1165
-#224|@pawnrobot|1159
+#223|@pawnrobot|1171
+#224|@duythong1402|1165
 #225|@Boom_Bot|1155
 #226|@thousandatom|1154
 #227|@MyNameIsSpeeedy|1147

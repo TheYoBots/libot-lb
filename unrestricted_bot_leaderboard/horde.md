@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@rascal1|2410
 #22|@EmptikVariantsBot|2402
 #23|@BOT_Stockfish13|2383
-#24|@EmptikBot|2378
-#25|@chess_set_manager|2377
+#24|@chess_set_manager|2378
+#25|@EmptikBot|2378
 #26|@LoseisnotAvailablehe|2369
 #27|@lord-bot|2362
 #28|@Hyper-Stockfish|2358

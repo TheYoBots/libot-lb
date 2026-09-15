@@ -1155,6 +1155,7 @@ encrustant
 endogenetic-bot
 endokingsspade
 endspiel-engine
+endspiel-pi
 enduring_leela
 energyofbeingbot
 engasaad-bot
@@ -1448,6 +1449,7 @@ guineabot
 guineabot2
 guineabot3
 guineabot3compact
+guitarfish-engine
 gun-bot
 gyatsobot
 gymerduybach
@@ -1878,6 +1880,7 @@ lamanodetal
 lambergar
 lamprook
 lancelbot
+lantern_bot
 lapischesszero
 laquaisha
 larryz-alterego
@@ -2185,6 +2188,7 @@ mayan_mex
 maybyen
 mayhem23111
 mayhempi_cluster
+mboobot
 mc-king-098
 mcexpressbot
 mchess-engine
@@ -2614,6 +2618,7 @@ planktonenginerust
 plaphyai
 plasmaeclipse
 play-the-chess
+playagainstmybot
 playchesstonight
 playgea
 playinglikegiftian
@@ -2896,6 +2901,7 @@ sacgod1020
 sacredieu
 sacrificebot
 sacrificialsage
+safal027_bot
 safrad-3
 sai_srihith
 sakunia
@@ -3323,6 +3329,7 @@ the_a_and_d_club
 the_bot_guy
 the_bot_of_speed
 the_checkmating_bot
+the_chessmaster_3000
 the_construct
 the_devansh117
 the_dragon_bot
@@ -3802,10 +3809,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-safal027_bot
-the_chessmaster_3000
-guitarfish-engine
-playagainstmybot
-lantern_bot
-mboobot
-endspiel-pi
+epoch512
+thealexdestroyer
+thedarkknightbot

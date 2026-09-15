@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@DarkOnBot|2427
 #7|@BattleBornThe5th|2412
 #8|@rascal1|2410
-#9|@chess_set_manager|2377
+#9|@chess_set_manager|2378
 #10|@beastie1|2254
 #11|@SuperGame5|2254
 #12|@MEGA-NOOB-BOT|2220
