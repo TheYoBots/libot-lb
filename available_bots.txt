@@ -1168,6 +1168,7 @@ entebot
 enyobot
 epiano_bot
 epimetheusbot
+epoch512
 epr_parsifal
 erickdejusu
 ericrosen102
@@ -3341,6 +3342,7 @@ the_ruff_rider10
 the_super_master88
 the_tortoise
 theagi
+thealexdestroyer
 theandroidbot
 thearstbot
 theasmfish
@@ -3355,6 +3357,7 @@ thebullybot
 thecheckmatemachine
 thechessblazer
 thechessmonster09
+thedarkknightbot
 theenisbotofficial
 theensemble
 theepicbot2
@@ -3809,6 +3812,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-epoch512
-thealexdestroyer
-thedarkknightbot
+studyloversz-bot
+qwerty_01bot_01
+belzedarian
+perasbot
