@@ -734,6 +734,7 @@ chess_star_01
 chess_technik
 chessandtechsbot
 chessatronbot
+chessblight
 chessbot2156
 chessbot2880
 chessbot3021
@@ -2899,6 +2900,7 @@ rustyrival
 rustyrookchessbot
 rybkaoldengine
 s2rarro
+s3gfau1t
 s_stock
 sablebot
 sacgod1020
@@ -3816,5 +3818,14 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-s3gfau1t
-chessblight
+rustbot2003
+maulbot
+supermarkishere
+pineapplebot
+nightfall_dev
+pixiegaming
+ykret
+blueberry-engine
+wizard_bot
+leetomic
+requla11
