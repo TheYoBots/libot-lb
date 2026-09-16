@@ -312,6 +312,7 @@ bekbot
 belabot
 belgiumbot
 bellachess
+belzedarian
 ben-bot
 benakachess
 benbotolucam
@@ -2573,6 +2574,7 @@ pennywise__it
 pensivepuffer
 peonasesino71
 pepsiforall
+perasbot
 perceval_de_galles
 perl-gigachess
 perseusbot
@@ -2731,6 +2733,7 @@ quintbot
 quintiumbotaccount
 quokkabot
 quros
+qwerty_01bot_01
 qwertziop3
 qyvirkotbot
 qzrfi
@@ -3208,6 +3211,7 @@ stringbot
 strongchessengine
 strongmagnuscarlsen
 strudlbot
+studyloversz-bot
 stupidchess_random
 stupidchess_sprinter
 stupidchess_suicking
@@ -3812,7 +3816,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-studyloversz-bot
-qwerty_01bot_01
-belzedarian
-perasbot
+s3gfau1t
+chessblight

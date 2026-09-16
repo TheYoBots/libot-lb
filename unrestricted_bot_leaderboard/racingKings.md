@@ -73,9 +73,9 @@ Rank|Bot|Rating
 #71|@MalanChess|2261
 #72|@chesshyperbot|2259
 #73|@ESC_BOT|2253
-#74|@RaspFish|2252
+#74|@RaspFish|2253
 #75|@relevantproblem|2251
-#76|@is_BOSS|2250
+#76|@is_BOSS|2249
 #77|@SuperGame5|2248
 #78|@MEGA-NOOB-BOT|2247
 #79|@abdcebot|2245
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@Yemmi-Yemmi|1964
 #120|@admin-bot|1955
 #121|@MyNameIsSpeedy|1935
-#122|@StockfishLowDepth|1931
+#122|@StockfishLowDepth|1935
 #123|@Pineapple-Friendly|1912
 #124|@Teamleaderbot|1904
 #125|@legendbot1|1893
@@ -208,7 +208,7 @@ Rank|Bot|Rating
 #206|@LegendaryBot1|1333
 #207|@The_dragon_bot|1333
 #208|@AEBROADUSBOTTER|1329
-#209|@goldinho1bot|1313
+#209|@goldinho1bot|1317
 #210|@Groot123456|1307
 #211|@BOT-2021|1300
 #212|@dragoodle|1291
@@ -235,7 +235,7 @@ Rank|Bot|Rating
 #233|@GuineaBot2|1141
 #234|@BubbleBot2|1121
 #235|@BogoBot|1074
-#236|@genesis1bot|1039
+#236|@genesis1bot|1019
 #237|@MateCheckCapture|1011
 #238|@ZX-Chess|982
 #239|@MinOpponentMoves|648

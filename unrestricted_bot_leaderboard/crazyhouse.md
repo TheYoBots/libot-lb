@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@pistol-play|2437
 #38|@DarkOnBot|2436
 #39|@RaspFish|2410
-#40|@MEGA-NOOB-BOT|2401
-#41|@is_BOSS|2396
+#40|@is_BOSS|2405
+#41|@MEGA-NOOB-BOT|2401
 #42|@YoBot_v2|2394
 #43|@CloudBOT|2393
 #44|@NienishiEngine|2392
@@ -160,7 +160,7 @@ Rank|Bot|Rating
 #158|@FASTCHESSBOT|1666
 #159|@SipsonsamsonBOT|1665
 #160|@MistakeBOT|1655
-#161|@goldinho1bot|1646
+#161|@goldinho1bot|1648
 #162|@Isaacwb_BOT|1640
 #163|@Monastedrez|1634
 #164|@Groot123456|1624
@@ -255,8 +255,8 @@ Rank|Bot|Rating
 #253|@Studyloversz-bot|1157
 #254|@BSergey11-BOT|1149
 #255|@K_Shi_Bot|1149
-#256|@genesis1bot|1138
-#257|@TeamChelsie|1125
+#256|@TeamChelsie|1125
+#257|@genesis1bot|1120
 #258|@kazakhfirstbot|1119
 #259|@apollo_bot|1106
 #260|@BogoBot|1099

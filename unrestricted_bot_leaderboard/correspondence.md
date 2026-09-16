@@ -67,7 +67,7 @@ Rank|Bot|Rating
 #65|@SEtheChessGod|2224
 #66|@Blunderbuss-bot|2221
 #67|@Abuziddin-BOT|2219
-#68|@OpeningsBot|2216
+#68|@OpeningsBot|2210
 #69|@BalloonBot|2204
 #70|@AbhijithHISBot|2201
 #71|@Ar4Asd1-BOT|2197
