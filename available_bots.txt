@@ -1688,6 +1688,7 @@ jackedfish
 jacobsbot
 jaimelesmacarons
 jake-bot
+jakgro
 jakyllbot
 jallahata
 jangine
@@ -2551,6 +2552,7 @@ panda_bot
 panda_engine
 pangubot
 panic-fish
+papemaru_c_chess
 parrotfish1
 parth_dhage_2
 partner3615diago
@@ -3495,6 +3497,7 @@ trollingcrow45
 trolliumbot
 trollololfish
 troutbot
+truezero-bot
 trumpfor2o2o
 trusia12345678
 try2defeatme
@@ -3829,6 +3832,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-jakgro
-papemaru_c_chess
-truezero-bot
+daisy-bot
+consolechessfastbot
