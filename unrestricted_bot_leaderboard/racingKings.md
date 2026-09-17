@@ -225,9 +225,9 @@ Rank|Bot|Rating
 #223|@ElFinsBoT|1238
 #224|@mertovic119|1232
 #225|@jasans_bot|1220
-#226|@BattleBornThe1st|1211
+#226|@BattleBornThe1st|1217
 #227|@Happy_One|1196
-#228|@hashcake1|1186
+#228|@hashcake1|1185
 #229|@XiDM|1181
 #230|@reaper1bot|1169
 #231|@Hrant_Petrosyan_BOT|1152
@@ -235,7 +235,7 @@ Rank|Bot|Rating
 #233|@GuineaBot2|1141
 #234|@BubbleBot2|1103
 #235|@BogoBot|1074
-#236|@genesis1bot|1019
+#236|@genesis1bot|1026
 #237|@MateCheckCapture|1011
 #238|@ZX-Chess|982
 #239|@MinOpponentMoves|648

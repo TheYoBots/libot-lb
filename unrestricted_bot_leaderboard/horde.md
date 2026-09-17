@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@FireFishBOT|2726
 #10|@PepsiForAll|2699
 #11|@Bot1nokk|2670
-#12|@RaspFish|2662
+#12|@RaspFish|2657
 #13|@bot1e|2652
 #14|@SF_Bot1nok|2632
 #15|@ttBOT|2584
@@ -183,7 +183,7 @@ Rank|Bot|Rating
 #181|@Toxic_Bot|1352
 #182|@DespacitoBot|1345
 #183|@weaklean|1338
-#184|@BattleBornThe1st|1335
+#184|@BattleBornThe1st|1336
 #185|@pawnrobot|1301
 #186|@BinaryBrain|1299
 #187|@Nicholaswb_BOT|1288
@@ -199,8 +199,8 @@ Rank|Bot|Rating
 #197|@GuineaBot3|1212
 #198|@admin-bot|1209
 #199|@Happy_One|1207
-#200|@hashcake1|1198
-#201|@reaper1bot|1198
+#200|@hashcake1|1207
+#201|@reaper1bot|1197
 #202|@St6090|1191
 #203|@ChessLLModel|1178
 #204|@Studyloversz-bot|1178
@@ -209,7 +209,7 @@ Rank|Bot|Rating
 #207|@duythong1402|1120
 #208|@fairy-vvrr|1102
 #209|@alvin-chess-bot|1091
-#210|@genesis1bot|1071
+#210|@genesis1bot|1078
 #211|@MontyPythonFlying|1037
 #212|@FireTorchV2|1011
 #213|@MinOpponentMoves|988

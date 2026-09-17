@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@Lancelbot|1373
 #21|@goldinho1bot|1317
 #22|@dragoodle|1305
-#23|@BattleBornThe1st|1211
-#24|@hashcake1|1186
+#23|@BattleBornThe1st|1217
+#24|@hashcake1|1185
 #25|@BubbleBot2|1103
-#26|@genesis1bot|1019
+#26|@genesis1bot|1026

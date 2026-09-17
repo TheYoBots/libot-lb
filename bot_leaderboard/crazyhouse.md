@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2472
 #4|@SF_Bot1nok|2464
 #5|@DarkOnBot|2436
-#6|@RaspFish|2410
-#7|@is_BOSS|2407
+#6|@is_BOSS|2415
+#7|@RaspFish|2410
 #8|@MEGA-NOOB-BOT|2401
 #9|@abdcebot|2343
 #10|@calico1|2331
@@ -23,10 +23,10 @@ Rank|Bot|Rating
 #21|@spyros1bot|1748
 #22|@Lancelbot|1709
 #23|@goldinho1bot|1648
-#24|@BattleBornThe1st|1563
+#24|@BattleBornThe1st|1557
 #25|@dragoodle|1557
-#26|@hashcake1|1417
+#26|@hashcake1|1431
 #27|@reaper1bot|1405
 #28|@BubbleBot2|1386
 #29|@Martuni|1366
-#30|@genesis1bot|1120
+#30|@genesis1bot|1134

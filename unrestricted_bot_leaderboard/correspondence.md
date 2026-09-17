@@ -68,7 +68,7 @@ Rank|Bot|Rating
 #66|@SEtheChessGod|2224
 #67|@Blunderbuss-bot|2221
 #68|@Abuziddin-BOT|2219
-#69|@OpeningsBot|2210
+#69|@OpeningsBot|2217
 #70|@BalloonBot|2204
 #71|@AbhijithHISBot|2201
 #72|@Ar4Asd1-BOT|2197
@@ -352,13 +352,13 @@ Rank|Bot|Rating
 #350|@HerathHerath|1477
 #351|@YagizTurkiyeBOT|1476
 #352|@MRT23|1469
-#353|@croco_little_bot|1466
-#354|@TheSystem_Bot|1466
+#353|@TheSystem_Bot|1466
+#354|@croco_little_bot|1465
 #355|@Mate-AI|1454
 #356|@dtsudo|1449
 #357|@CheezyGlizzyEater|1444
 #358|@AndrewYXZBot|1436
-#359|@LineNetBot|1429
+#359|@LineNetBot|1435
 #360|@ReallyBadPlayerBot|1428
 #361|@LuciferCat|1426
 #362|@JupiterBot|1421

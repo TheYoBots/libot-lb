@@ -400,6 +400,7 @@ blue_bot_one
 blue_ice_bot
 blue_lightningdragon
 blue_mongoose
+blueberry-engine
 bluefake
 bluemoonbot
 blundar_bot
@@ -1971,6 +1972,7 @@ leelazerojj
 leelazerovn
 leelensteinnn
 leella-stockfish
+leetomic
 legend_engine
 legendary-ai
 legendarybot1
@@ -2180,6 +2182,7 @@ matrix_core
 matrixengine
 matrixmovebot80
 mattaberk-bot
+maulbot
 mautlier
 max_bot
 maximumef
@@ -2394,6 +2397,7 @@ nickl1bot
 nicoccino
 nie_bot
 nienishiengine
+nightfall_dev
 nightstarfox
 nightybot
 nikitosik-ai
@@ -2605,6 +2609,7 @@ pikachu_270
 pilchardbot
 pineapple-friendly
 pineapple_bot
+pineapplebot
 pineapplemask
 pineonpi
 pingwin_siepacz
@@ -2615,6 +2620,7 @@ piratesbot
 piratesrust
 pistol-play
 pix-chess
+pixiegaming
 pizza-delivery
 plan9bot
 planktonengine
@@ -2810,6 +2816,7 @@ renegadeengine
 repl_chess
 reptilesbedamned
 requinbot
+requla11
 resolutebot
 resolved-bot
 resolved_bot
@@ -2895,6 +2902,7 @@ rust-engine
 rust-in-pieces
 rust_lang_chess
 rustbot
+rustbot2003
 rustypigeon
 rustyrival
 rustyrookchessbot
@@ -3252,6 +3260,7 @@ supergame5
 superjerobot
 superleela
 superman-chess
+supermarkishere
 superstockfish
 supranova_python
 supranova_v11
@@ -3693,6 +3702,7 @@ wirtanen
 wispbyte1
 withgmstudy
 wittenbergadmin
+wizard_bot
 wmatt
 wmwmmmwmwmmmwmwmwmmw
 wojtmic-bot
@@ -3752,6 +3762,7 @@ yemmi-bot
 yemmi-yemmi
 yeoldwiz
 yes-standerd-yes
+ykret
 ymin_dragon
 ynodegraywolf
 yobmef
@@ -3818,14 +3829,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-rustbot2003
-maulbot
-supermarkishere
-pineapplebot
-nightfall_dev
-pixiegaming
-ykret
-blueberry-engine
-wizard_bot
-leetomic
-requla11
+jakgro
+papemaru_c_chess
+truezero-bot
