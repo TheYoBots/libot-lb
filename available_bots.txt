@@ -2,6 +2,7 @@ a1928371870982730982
 a5a7-chess-bot
 aaronsengine
 aaronsenginenew
+aatk_vanguardx
 abcbot
 abcd_engine
 abdcebot
@@ -222,6 +223,7 @@ asalfish_15
 asdfbot2
 ashnostromo
 asimusbot
+ask-aatk-bot
 aspirebot
 aspyfish
 assasino_legend
@@ -1804,6 +1806,7 @@ khanhstockfish2
 kheprichess
 khoachess
 kiarashfarahmandi
+kibitzerbot
 kid_ch3ssmast3r
 kidobot2911
 kidoffchess
@@ -3304,6 +3307,7 @@ takticproches
 takticprochess
 talbotbot
 taleelavshumans
+talosbot
 tapobot
 taske-eman
 tasmanrevenge
@@ -3834,7 +3838,13 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-aatk_vanguardx
-kibitzerbot
-ask-aatk-bot
-talosbot
+lilitbot
+walpurti
+leol-bot
+voigtsbach
+escarbo
+the_baronet
+noel-bot
+soulgar
+battlebornthe2nd
+fighting2543
