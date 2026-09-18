@@ -61,10 +61,10 @@ Rank|Bot|Rating
 #59|@IAMSTOCKFISH123|2307
 #60|@BattleBornThe5th|2297
 #61|@TestingBot1|2294
-#62|@rascal1|2293
-#63|@NormalBulletBot|2291
-#64|@YoBot_v2|2287
-#65|@SF_Bot1nok|2286
+#62|@NormalBulletBot|2291
+#63|@YoBot_v2|2287
+#64|@SF_Bot1nok|2286
+#65|@rascal1|2285
 #66|@AlfaBot|2278
 #67|@DarkOnBot|2278
 #68|@gage12_bot|2266
@@ -99,9 +99,9 @@ Rank|Bot|Rating
 #97|@HuxZero|2176
 #98|@AnUtterlyKarBot|2174
 #99|@knight_128|2144
-#100|@Kizburb|2126
-#101|@mc-king-098|2124
-#102|@beastie1|2120
+#100|@beastie1|2128
+#101|@Kizburb|2126
+#102|@mc-king-098|2124
 #103|@fairy-vvrr|2117
 #104|@xiang-qi|2113
 #105|@atomicli|2111

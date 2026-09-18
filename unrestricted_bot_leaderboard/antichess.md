@@ -42,9 +42,9 @@ Rank|Bot|Rating
 #40|@SCP079|2662
 #41|@vrnts_colinbot|2637
 #42|@rascal1|2626
-#43|@DarkOnBot|2624
-#44|@HIWIN1234|2623
-#45|@Kizbuurb|2621
+#43|@HIWIN1234|2623
+#44|@Kizbuurb|2621
+#45|@DarkOnBot|2620
 #46|@Lili-ai|2619
 #47|@icbmsaregoated2|2614
 #48|@KingfishX|2612
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@HyperLitikBOT|2511
 #80|@pistol-play|2498
 #81|@FayEFish|2491
-#82|@MDBOT|2482
+#82|@MDBOT|2480
 #83|@BOT_Stockfish13|2478
 #84|@MrBOThacker|2477
 #85|@hauptschuleBOT|2475
@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@EvenMatchup|2302
 #134|@kowalabi|2288
 #135|@GodelEscherBot|2284
-#136|@HakoAI|2283
-#137|@anti-bot|2281
+#136|@anti-bot|2283
+#137|@HakoAI|2283
 #138|@Dean_Summer_Bot|2279
 #139|@Johnsun|2269
 #140|@SkyBlaster|2254
@@ -177,8 +177,8 @@ Rank|Bot|Rating
 #175|@PyChessBot|2102
 #176|@TurkiyeHogwartsBOT|2099
 #177|@clementyne1|2070
-#178|@ZamuChess|2049
-#179|@CatNail|2043
+#178|@CatNail|2050
+#179|@ZamuChess|2049
 #180|@malpamat|2043
 #181|@Botzer|2020
 #182|@Bottios|2019
@@ -193,8 +193,8 @@ Rank|Bot|Rating
 #191|@CloudBOT|1950
 #192|@TestingBot1|1914
 #193|@Crepusculum|1881
-#194|@spyros1bot|1878
-#195|@NoTallkOnlyGames|1871
+#194|@NoTallkOnlyGames|1871
+#195|@spyros1bot|1871
 #196|@Lumac0|1861
 #197|@Pineapple-Friendly|1858
 #198|@SriLankaChess|1848

@@ -867,6 +867,7 @@ compraptor
 compressor-bot
 computerstuff
 confidencebuilder
+consolechessfastbot
 constructivist
 cookiecheesychess
 cool_boy_bot
@@ -941,6 +942,7 @@ czesc-bot
 d2d4go
 dabestfarmer
 daftnot
+daisy-bot
 dakingsofficialbot
 dala-1100
 dala-1300
@@ -3832,5 +3834,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-daisy-bot
-consolechessfastbot
+aatk_vanguardx
+kibitzerbot
+ask-aatk-bot
+talosbot

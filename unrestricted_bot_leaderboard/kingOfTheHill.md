@@ -157,10 +157,10 @@ Rank|Bot|Rating
 #155|@Breeze-Hot|1606
 #156|@Just-a-random-bot|1604
 #157|@R4033|1575
-#158|@MMC_HUANGBAI|1569
-#159|@Epiano_Bot|1567
-#160|@goldinho1bot|1567
-#161|@Lancelbot|1565
+#158|@Lancelbot|1572
+#159|@MMC_HUANGBAI|1569
+#160|@Epiano_Bot|1567
+#161|@goldinho1bot|1561
 #162|@Toxic_Bot|1541
 #163|@SXDEFENDER|1534
 #164|@Light_To_The_Rescue|1523

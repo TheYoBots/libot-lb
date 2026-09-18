@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@vrnts_colinbot|2266
 #44|@HIWIN1234|2261
 #45|@YoBot_v2|2257
-#46|@RaspFish|2256
-#47|@BattleBornThe5th|2253
+#46|@BattleBornThe5th|2253
+#47|@RaspFish|2251
 #48|@colinbot|2250
 #49|@OlympusCz|2231
 #50|@is_BOSS|2229
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@gage12_bot|2140
 #68|@OSaurus|2140
 #69|@Bobby_Fischer_BOT|2138
-#70|@DarkOnBot|2136
+#70|@DarkOnBot|2133
 #71|@abhisun_bot|2129
 #72|@NienishiEngine|2124
 #73|@AnUtterlyKarBot|2103
@@ -132,9 +132,9 @@ Rank|Bot|Rating
 #130|@Chesz_Art|1815
 #131|@ElFinsBoT|1808
 #132|@clementyne1|1801
-#133|@pussaW|1785
-#134|@Tacticall_Bot|1779
-#135|@Martuni|1760
+#133|@Martuni|1786
+#134|@pussaW|1785
+#135|@Tacticall_Bot|1779
 #136|@XXXTryandTryXXX|1747
 #137|@CBNguyen_Bot|1741
 #138|@No_Username2|1741
@@ -207,8 +207,8 @@ Rank|Bot|Rating
 #205|@allvariants|1310
 #206|@NoTallkOnlyGames|1293
 #207|@PiratesRust|1290
-#208|@DavidsGuterBot|1278
-#209|@Light_To_The_Rescue|1277
+#208|@Light_To_The_Rescue|1277
+#209|@DavidsGuterBot|1273
 #210|@Sanjana_Kambala-BOT|1273
 #211|@TheLegendaryKnight|1272
 #212|@EstmileBot|1269

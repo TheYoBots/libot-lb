@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@malpamat|1693
 #22|@Martuni|1664
 #23|@spyros1bot|1612
-#24|@goldinho1bot|1567
-#25|@Lancelbot|1565
+#24|@Lancelbot|1572
+#25|@goldinho1bot|1561
 #26|@dragoodle|1474
 #27|@BattleBornThe1st|1459
 #28|@hashcake1|1344

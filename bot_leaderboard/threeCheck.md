@@ -2,14 +2,14 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2324
 #2|@rascal1|2276
-#3|@RaspFish|2256
-#4|@BattleBornThe5th|2253
+#3|@BattleBornThe5th|2253
+#4|@RaspFish|2251
 #5|@is_BOSS|2229
 #6|@SuperGame5|2228
 #7|@MEGA-NOOB-BOT|2207
 #8|@beastie1|2190
 #9|@OSaurus|2140
-#10|@DarkOnBot|2136
+#10|@DarkOnBot|2133
 #11|@chess_set_manager|2095
 #12|@abdcebot|2067
 #13|@Bot1nokk|2067
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@OpeningsBot|1899
 #19|@JemBok|1823
 #20|@clementyne1|1801
-#21|@Martuni|1760
+#21|@Martuni|1786
 #22|@malpamat|1701
 #23|@spyros1bot|1616
 #24|@Lancelbot|1599
@@ -31,6 +31,6 @@ Rank|Bot|Rating
 #29|@BattleBornThe1st|1439
 #30|@hashcake1|1377
 #31|@reaper1bot|1359
-#32|@DavidsGuterBot|1278
+#32|@DavidsGuterBot|1273
 #33|@genesis1bot|1231
 #34|@pawnrobot|1157

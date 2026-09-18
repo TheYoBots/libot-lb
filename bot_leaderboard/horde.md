@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@rascal1|2422
 #8|@BattleBornThe5th|2401
 #9|@SuperGame5|2375
-#10|@chess_set_manager|2322
+#10|@chess_set_manager|2324
 #11|@colinbot|2257
 #12|@beastie1|2241
 #13|@MEGA-NOOB-BOT|2235
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@BubbleBot2|1424
 #27|@dragoodle|1382
 #28|@BattleBornThe1st|1336
-#29|@pawnrobot|1298
+#29|@pawnrobot|1299
 #30|@hashcake1|1207
 #31|@reaper1bot|1197
 #32|@genesis1bot|1078

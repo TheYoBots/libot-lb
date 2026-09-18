@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@Hyper-Stockfish|2358
 #29|@Bullet_bot_0526|2344
 #30|@eNErGyOFbEiNGbOT|2326
-#31|@chess_set_manager|2322
+#31|@chess_set_manager|2324
 #32|@Alexnajax_Fan|2316
 #33|@AlfaBot|2293
 #34|@Fairy-Stockfish|2289
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@weaklean|1338
 #184|@BattleBornThe1st|1336
 #185|@BinaryBrain|1299
-#186|@pawnrobot|1298
+#186|@pawnrobot|1299
 #187|@Nicholaswb_BOT|1288
 #188|@AEBROADUSBOTTER|1279
 #189|@ReallyCrazyBOT|1279
@@ -216,5 +216,5 @@ Rank|Bot|Rating
 #214|@MateCheckCapture|885
 #215|@GuineaBot2|851
 #216|@RichmondOnBot|834
-#217|@Randmaster_Bot|823
+#217|@Randmaster_Bot|818
 #218|@Ramses-Chess|800
