@@ -309,6 +309,7 @@ beastie1
 beatmekiddos
 beatrijs-bot
 becela9_kpebetka
+beelzebubzero
 begginerbot
 behappy12
 bekbot
@@ -558,6 +559,7 @@ bottyfischer
 bottytwins1516
 botvinnik808
 botvminic
+botvunnix
 botwilsonator
 botworld
 botxx
@@ -3310,6 +3312,7 @@ ta_alexopoulakia
 tacticalbot
 tacticall_bot
 tacticoferoz
+tadbot
 takticproches
 takticprochess
 talbotbot
@@ -3848,6 +3851,11 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tadbot
-botvunnix
-beelzebubzero
+pirates1
+pirates2
+eclipsebot
+pr0ko
+crapbot
+stepbot_chess
+angela_eng
+anna-bot
