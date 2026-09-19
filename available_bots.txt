@@ -296,6 +296,7 @@ barkoz-tempo
 barryallen14
 basbabas
 battlebornthe1st
+battlebornthe2nd
 battlebornthe5th
 battlebot
 batyarapro
@@ -1182,6 +1183,7 @@ ericrosen102
 erobot
 ertugruldemir
 esc_bot
+escarbo
 esk18-bot
 estmilebot
 etabetaita
@@ -1252,6 +1254,7 @@ fiasco-bot
 fib0t
 fibonachi
 fightertristan
+fighting2543
 filipo6900
 fipsi_x
 fire8n_unoffical
@@ -1994,6 +1997,7 @@ lemuffinbot
 lenschess-com
 lenya228_bot
 leojoseph101010
+leol-bot
 leomessi-bot
 leorikbot
 leosbot
@@ -2016,6 +2020,7 @@ lildoctorjank
 lili-ai
 lili-variants
 liligirlplay
+lilitbot
 limbobot
 linenetbot
 linklake1532
@@ -2437,6 +2442,7 @@ no_username2
 noabot
 nobody11892
 nodesooleai
+noel-bot
 noobborsadhh
 noobbot1302
 noobic_bot
@@ -3105,6 +3111,7 @@ somepythonbot
 sooraj_kumar_p_s
 soreloserbot
 sorenxmental
+soulgar
 southbot
 sovereign_bot
 sovereignking
@@ -3350,6 +3357,7 @@ the-chess-king-bot
 the-fastest-bot
 the-primer
 the_a_and_d_club
+the_baronet
 the_bot_guy
 the_bot_of_speed
 the_checkmating_bot
@@ -3648,6 +3656,7 @@ vladeabot
 vodkabot
 void_bot
 voidbot
+voigtsbach
 volkchessengine
 volterbot
 votechess
@@ -3663,6 +3672,7 @@ wahoo_bot
 wakabot
 wakandaforever201212
 walleye_bot
+walpurti
 walrusbot
 wandabot
 wandaofdevonshire
@@ -3838,13 +3848,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-lilitbot
-walpurti
-leol-bot
-voigtsbach
-escarbo
-the_baronet
-noel-bot
-soulgar
-battlebornthe2nd
-fighting2543
+tadbot
+botvunnix
+beelzebubzero

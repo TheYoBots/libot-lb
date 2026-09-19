@@ -12,15 +12,15 @@ Rank|Bot|Rating
 #10|@beastie1|2168
 #11|@calico1|2055
 #12|@OSaurus|2042
-#13|@chess_set_manager|1951
+#13|@chess_set_manager|1947
 #14|@kowalabi|1925
 #15|@QiOui|1900
-#16|@colinbot|1873
+#16|@colinbot|1869
 #17|@soulgar|1854
 #18|@OpeningsBot|1850
 #19|@rachl1|1823
 #20|@nickl1bot|1810
-#21|@JemBok|1778
+#21|@JemBok|1771
 #22|@clementyne1|1765
 #23|@malpamat|1693
 #24|@Martuni|1658
@@ -33,6 +33,6 @@ Rank|Bot|Rating
 #31|@hashcake1|1344
 #32|@reaper1bot|1336
 #33|@BubbleBot2|1309
-#34|@DavidsGuterBot|1238
+#34|@DavidsGuterBot|1249
 #35|@escarbo|1238
 #36|@genesis1bot|1168

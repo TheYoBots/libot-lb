@@ -355,11 +355,11 @@ Rank|Bot|Rating
 #353|@Jwsus|1485
 #354|@PolyBOT|1481
 #355|@HerathHerath|1477
-#356|@croco_little_bot|1476
-#357|@YagizTurkiyeBOT|1476
-#358|@MRT23|1469
-#359|@TheSystem_Bot|1466
-#360|@Mate-AI|1454
+#356|@YagizTurkiyeBOT|1476
+#357|@MRT23|1469
+#358|@TheSystem_Bot|1466
+#359|@Mate-AI|1454
+#360|@croco_little_bot|1450
 #361|@dtsudo|1449
 #362|@CheezyGlizzyEater|1444
 #363|@AndrewYXZBot|1436
