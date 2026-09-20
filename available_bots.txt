@@ -1123,6 +1123,7 @@ elachessbot
 eleanor98
 electricboy6-bot
 elephantgambitengine
+elexunix_chess_bot
 elfinsbot
 elite-bot
 elite_engine
@@ -1374,6 +1375,7 @@ genetic_chess_bot
 gengochan
 geniusbot
 geniusbotready
+georgii_ai
 geotsibot
 geraldbot
 geraldbot2
@@ -1727,6 +1729,7 @@ jeremybot
 jessethefluffydoge
 jest-bot
 jesterchessrobot
+jev-bot
 jgrizzbt-bot
 jibbby
 jkcheeserchess
@@ -2213,6 +2216,7 @@ mayhem23111
 mayhempi_cluster
 mboobot
 mc-king-098
+mcdonalds1955
 mcexpressbot
 mchess-engine
 mckapran78
@@ -3859,7 +3863,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-georgii_ai
-elexunix_chess_bot
-jev-bot
-mcdonalds1955
+rockingsuperstars
+larpfish
+slychessbot
+markuspvb
+jevchessbot
+mayflyengine

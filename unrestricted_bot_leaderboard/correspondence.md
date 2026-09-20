@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@elexunix_chess_bot|3014
 #6|@BlueMoonBot|3010
 #7|@ChronicGambler|3010
-#8|@fibonachi|2966
+#8|@fibonachi|2971
 #9|@Grzechu86|2852
 #10|@Magicianrobot|2740
 #11|@Moment-That-Inspires|2705
