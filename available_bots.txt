@@ -148,9 +148,11 @@ anduril_engine
 anenginebott
 anenginebott2
 angela_ce
+angela_eng
 angryofficepanda
 anindiananand
 anmols99
+anna-bot
 annie_archy
 annieedison
 annihilatoru47333
@@ -901,6 +903,7 @@ cr7-suii
 crabchess
 crabstick-engine
 craksys_ai
+crapbot
 crappybot
 craytox
 crayybot
@@ -1099,6 +1102,7 @@ eatngo
 eb-chess
 echo-4
 echobot
+eclipsebot
 ed_dev_bot
 eddybarner393
 edgard_loomis
@@ -2631,6 +2635,8 @@ pingwin_siepacz
 pinkpanda1000
 pinkypawnbot
 piqbot
+pirates1
+pirates2
 piratesbot
 piratesrust
 pistol-play
@@ -2675,6 +2681,7 @@ potatowosky
 powerbeast
 powerfullbot
 poweronbot
+pr0ko
 pranavchessbot
 pranavisthebest
 preben-engine
@@ -3159,6 +3166,7 @@ steadyeddiefish
 steezybot
 stefanobaghino_bot
 stellarbot
+stepbot_chess
 sternenhimmel10
 sticklebackbot
 sticklebacknnbot
@@ -3851,11 +3859,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-pirates1
-pirates2
-eclipsebot
-pr0ko
-crapbot
-stepbot_chess
-angela_eng
-anna-bot
+georgii_ai
+elexunix_chess_bot
+jev-bot
+mcdonalds1955
