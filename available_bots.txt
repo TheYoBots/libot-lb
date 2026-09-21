@@ -1730,6 +1730,7 @@ jessethefluffydoge
 jest-bot
 jesterchessrobot
 jev-bot
+jevchessbot
 jgrizzbt-bot
 jibbby
 jkcheeserchess
@@ -1905,6 +1906,7 @@ lancelbot
 lantern_bot
 lapischesszero
 laquaisha
+larpfish
 larryz-alterego
 larryz-bot
 lastwill
@@ -2161,6 +2163,7 @@ marcsterk07
 margret9033
 mariana-031
 mario_5o
+markuspvb
 markuspvpbot
 marlia123456
 marsbot
@@ -2212,6 +2215,7 @@ maxthedog-esp32
 maxwellonlc
 mayan_mex
 maybyen
+mayflyengine
 mayhem23111
 mayhempi_cluster
 mboobot
@@ -2881,6 +2885,7 @@ robottigerslav
 robottino
 rochadeschachzeitung
 rocketengine
+rockingsuperstars
 rockychessone
 rodent-iv
 rodent-v
@@ -3102,6 +3107,7 @@ slothengine
 slow-and-stupid
 slowmate_bot
 slvov-bot
+slychessbot
 smallbrainpy
 smartieandyou
 smasher23445
@@ -3863,9 +3869,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-rockingsuperstars
-larpfish
-slychessbot
-markuspvb
-jevchessbot
-mayflyengine
+minimax_chessy_lol
