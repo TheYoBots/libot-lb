@@ -2272,6 +2272,7 @@ minhduc12
 minic-chess_engine
 minichessbot
 minimardi
+minimax_chessy_lol
 mininnue
 minipositionalai
 minopponentmoves
@@ -3869,4 +3870,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-minimax_chessy_lol
+weledar-bot
+anti-rules
+prawn_bot
+subnorbot
+kissenginev2
