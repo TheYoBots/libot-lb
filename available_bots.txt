@@ -601,6 +601,7 @@ buffer_overflow
 bufffishnet
 buildabot
 buletten-karl
+bullet-guitarfish
 bullet_bot_0526
 bullet_bot_0896
 bulletbotmaster
@@ -2599,6 +2600,8 @@ pawnocchio_bot
 pawnrobot
 pawny_bot
 pdfprizebot
+pdp8-chekmo
+pdp8-clash
 peaceful4life
 peacemaker-0_0
 peach-bot
@@ -3875,6 +3878,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-pdp8-clash
-pdp8-chekmo
-bullet-guitarfish
