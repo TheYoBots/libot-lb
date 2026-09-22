@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@calico1|2440
 #18|@OSaurus|2355
 #19|@kowalabi|2288
-#20|@anti-bot|2282
+#20|@anti-bot|2264
 #21|@QiOui|2247
 #22|@soulgar|2178
 #23|@rachl1|2150
@@ -27,8 +27,8 @@ Rank|Bot|Rating
 #25|@nickl1bot|2143
 #26|@Martuni|2132
 #27|@malpamat|2049
-#28|@Bottios|2016
-#29|@CatNail|2014
+#28|@CatNail|2018
+#29|@Bottios|2016
 #30|@BattleBornThe2nd|1989
 #31|@spyros1bot|1815
 #32|@Lancelbot|1541

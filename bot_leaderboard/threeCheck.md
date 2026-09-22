@@ -21,8 +21,8 @@ Rank|Bot|Rating
 #19|@rachl1|1904
 #20|@OpeningsBot|1899
 #21|@nickl1bot|1854
-#22|@JemBok|1805
-#23|@Martuni|1797
+#22|@Martuni|1807
+#23|@JemBok|1805
 #24|@malpamat|1691
 #25|@BattleBornThe2nd|1661
 #26|@spyros1bot|1628

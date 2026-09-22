@@ -138,9 +138,9 @@ Rank|Bot|Rating
 #136|@kowalabi|2288
 #137|@GodelEscherBot|2284
 #138|@HakoAI|2283
-#139|@anti-bot|2282
-#140|@Dean_Summer_Bot|2279
-#141|@Johnsun|2269
+#139|@Dean_Summer_Bot|2279
+#140|@Johnsun|2269
+#141|@anti-bot|2264
 #142|@SkyBlaster|2254
 #143|@QiOui|2247
 #144|@mrchessmanager|2240
@@ -184,9 +184,9 @@ Rank|Bot|Rating
 #182|@ZamuChess|2049
 #183|@Botzer|2020
 #184|@Jussicas|2019
-#185|@CloudBotZero|2018
-#186|@Bottios|2016
-#187|@CatNail|2014
+#185|@CatNail|2018
+#186|@CloudBotZero|2018
+#187|@Bottios|2016
 #188|@B0T5_RU13|2011
 #189|@TheLegitLegend|2010
 #190|@BattleBornThe2nd|1989

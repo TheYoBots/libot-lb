@@ -27,9 +27,10 @@ Rank|Bot|Rating
 #25|@goldinho1bot|1648
 #26|@dragoodle|1568
 #27|@BattleBornThe1st|1562
-#28|@hashcake1|1431
-#29|@reaper1bot|1400
-#30|@BubbleBot2|1370
-#31|@Martuni|1366
-#32|@escarbo|1287
-#33|@genesis1bot|1134
+#28|@puisne|1492
+#29|@hashcake1|1431
+#30|@reaper1bot|1400
+#31|@BubbleBot2|1370
+#32|@Martuni|1366
+#33|@escarbo|1287
+#34|@genesis1bot|1134

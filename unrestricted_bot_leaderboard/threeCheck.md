@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@KingfishX|2285
 #39|@The-Fastest-Bot|2277
 #40|@CocopikachuBOT|2274
-#41|@colinbot|2272
-#42|@TheMatrix2025|2272
+#41|@TheMatrix2025|2272
+#42|@colinbot|2270
 #43|@BattleBornThe5th|2266
 #44|@vrnts_colinbot|2266
 #45|@rascal1|2263
@@ -74,9 +74,9 @@ Rank|Bot|Rating
 #72|@abhisun_bot|2129
 #73|@DarkOnBot|2126
 #74|@NienishiEngine|2124
-#75|@McDonalds1955|2112
-#76|@AnUtterlyKarBot|2103
-#77|@Lili-ai|2099
+#75|@AnUtterlyKarBot|2103
+#76|@Lili-ai|2099
+#77|@McDonalds1955|2096
 #78|@chess_set_manager|2092
 #79|@abdcebot|2089
 #80|@Dean_Summer_Bot|2086
@@ -135,9 +135,9 @@ Rank|Bot|Rating
 #133|@Storm_Shadow2012|1817
 #134|@Chesz_Art|1815
 #135|@ElFinsBoT|1808
-#136|@JemBok|1805
-#137|@clementyne1|1801
-#138|@Martuni|1797
+#136|@Martuni|1807
+#137|@JemBok|1805
+#138|@clementyne1|1801
 #139|@pussaW|1785
 #140|@Tacticall_Bot|1779
 #141|@XXXTryandTryXXX|1747

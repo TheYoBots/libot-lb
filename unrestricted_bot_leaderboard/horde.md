@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@ToromBot|2748
 #8|@Magicianrobot|2741
 #9|@FireFishBOT|2726
-#10|@RaspFish|2708
+#10|@RaspFish|2701
 #11|@PepsiForAll|2699
 #12|@bot1e|2663
 #13|@Bot1nokk|2648

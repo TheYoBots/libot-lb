@@ -166,6 +166,7 @@ antarticanonymous
 anti-anti
 anti-bot
 anti-human-bot
+anti-rules
 antichessanalyzer
 antichessbot
 antichessbot_ai
@@ -1834,6 +1835,7 @@ kingjonathanbot
 kingsgambot
 kireevi
 kirinchessbot
+kissenginev2
 kittenengine
 kiwibot
 kiyengine
@@ -2693,6 +2695,7 @@ poweronbot
 pr0ko
 pranavchessbot
 pranavisthebest
+prawn_bot
 preben-engine
 preferencesbookmove
 prestonh
@@ -3267,6 +3270,7 @@ stwongfish
 styx_reckless
 sub_bot
 subgoal_chess
+subnorbot
 sudobot_chess
 suerberk
 sugar_xpro_nn
@@ -3721,6 +3725,7 @@ weiawaga
 weini
 weissbot
 wejbek
+weledar-bot
 wenndiesoldatbot
 weyyyyyyyyyyyyyyyyyy
 whale_1
@@ -3870,8 +3875,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-weledar-bot
-anti-rules
-prawn_bot
-subnorbot
-kissenginev2
+pdp8-clash
+pdp8-chekmo
+bullet-guitarfish

@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@MDBOT|1868
 #24|@colinbot|1852
 #25|@nickl1bot|1748
-#26|@Martuni|1563
+#26|@Martuni|1573
 #27|@BattleBornThe2nd|1524
 #28|@spyros1bot|1488
 #29|@Bottios|1439
