@@ -265,6 +265,7 @@ ayrostpon
 azdad
 azur_pr
 azusayumi
+azzbot
 b-the-bot
 b0ngfish
 b0red_bot
@@ -1018,6 +1019,7 @@ dev_bot_goated
 devre_satranc
 devsdabot
 dezchickenwings
+dfy-bot
 dgt-ai
 dgt-test
 dhiltonxyz
@@ -3066,6 +3068,7 @@ sieu_cap_vip_pro_bot
 silitho
 sillybot
 silverfishengine
+silverpike
 simbelmyne-bot
 simintel
 simonericafonso
@@ -3878,6 +3881,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-azzbot
-dfy-bot
-silverpike
+iran_f72
+jev-bot-2
+totseung
