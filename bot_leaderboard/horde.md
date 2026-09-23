@@ -5,12 +5,12 @@ Rank|Bot|Rating
 #3|@bot1e|2671
 #4|@Bot1nokk|2648
 #5|@SF_Bot1nok|2640
-#6|@rascal1|2420
-#7|@BattleBornThe5th|2403
+#6|@rascal1|2418
+#7|@BattleBornThe5th|2404
 #8|@DarkOnBot|2401
-#9|@SuperGame5|2367
+#9|@SuperGame5|2372
 #10|@colinbot|2315
-#11|@chess_set_manager|2291
+#11|@chess_set_manager|2287
 #12|@MEGA-NOOB-BOT|2241
 #13|@beastie1|2236
 #14|@calico1|2212

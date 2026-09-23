@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rascal1|2315
-#2|@BattleBornThe5th|2311
+#1|@rascal1|2320
+#2|@BattleBornThe5th|2306
 #3|@abdcebot|2299
 #4|@MEGA-NOOB-BOT|2296
 #5|@is_BOSS|2241
@@ -31,6 +31,6 @@ Rank|Bot|Rating
 #29|@hashcake1|1344
 #30|@reaper1bot|1336
 #31|@BubbleBot2|1323
-#32|@DavidsGuterBot|1243
+#32|@DavidsGuterBot|1244
 #33|@escarbo|1238
 #34|@genesis1bot|1171

@@ -324,10 +324,10 @@ Rank|Bot|Rating
 #322|@Happy_One|1309
 #323|@Official_bot|1301
 #324|@GuineaBot3|1297
-#325|@pawnrobot|1295
-#326|@BubbleBot2|1291
-#327|@MeetNarangBOT|1287
-#328|@KaTHHHH|1264
+#325|@BubbleBot2|1291
+#326|@MeetNarangBOT|1287
+#327|@KaTHHHH|1264
+#328|@pawnrobot|1254
 #329|@chicken_farmer|1241
 #330|@puisne|1232
 #331|@PranavChessBot|1212
@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@genesis1bot|817
 #357|@BotSSS|800
 #358|@Ujwal1001|800
-#359|@Randmaster_EGTB|732
+#359|@Randmaster_EGTB|744
 #360|@MateCheckCapture|675
 #361|@queen_stase_approx|631
-#362|@Randmaster_Bot|517
+#362|@Randmaster_Bot|536

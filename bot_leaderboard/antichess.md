@@ -32,13 +32,13 @@ Rank|Bot|Rating
 #30|@BattleBornThe2nd|1989
 #31|@spyros1bot|1815
 #32|@Lancelbot|1541
-#33|@pawnrobot|1295
-#34|@BubbleBot2|1291
+#33|@BubbleBot2|1291
+#34|@pawnrobot|1254
 #35|@dragoodle|1204
 #36|@BattleBornThe1st|1105
 #37|@hashcake1|1030
 #38|@reaper1bot|1017
 #39|@escarbo|927
 #40|@genesis1bot|817
-#41|@Randmaster_EGTB|732
-#42|@Randmaster_Bot|517
+#41|@Randmaster_EGTB|744
+#42|@Randmaster_Bot|536

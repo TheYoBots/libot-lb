@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@LudwigBOT|2339
 #48|@NotNateBot|2336
 #49|@Fairy_Belzedar|2333
-#50|@McDonalds1955|2317
+#50|@McDonalds1955|2327
 #51|@The-Fastest-Bot|2314
 #52|@Alehkine_cat|2312
 #53|@Belzedarian|2307
@@ -277,8 +277,8 @@ Rank|Bot|Rating
 #275|@PineappleBot|1583
 #276|@malpamat|1579
 #277|@Chess_omar_2009|1575
-#278|@Martuni|1571
-#279|@Pineapple-Friendly|1569
+#278|@Pineapple-Friendly|1569
+#279|@Martuni|1567
 #280|@bot-win-loh-nick|1554
 #281|@AntarticAnonymous|1553
 #282|@HiddeNL|1551
@@ -338,8 +338,8 @@ Rank|Bot|Rating
 #336|@Trumpfor2O2O|1386
 #337|@DrunkenMasterEngine|1385
 #338|@anonymous5612|1384
-#339|@StockfishLowDepth|1363
-#340|@SLvov-bot|1359
+#339|@SLvov-bot|1359
+#340|@StockfishLowDepth|1356
 #341|@BattleBornThe1st|1355
 #342|@ChessBotHere|1351
 #343|@kazakhfirstbot|1340

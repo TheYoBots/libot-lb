@@ -24,14 +24,14 @@ Rank|Bot|Rating
 #22|@rachl1|1869
 #23|@colinbot|1858
 #24|@nickl1bot|1748
-#25|@Martuni|1571
+#25|@Martuni|1567
 #26|@BattleBornThe2nd|1524
 #27|@spyros1bot|1488
 #28|@Bottios|1440
 #29|@Lancelbot|1433
 #30|@goldinho1bot|1431
 #31|@dragoodle|1400
-#32|@StockfishLowDepth|1363
+#32|@StockfishLowDepth|1356
 #33|@BattleBornThe1st|1355
 #34|@hashcake1|1255
 #35|@reaper1bot|1241
