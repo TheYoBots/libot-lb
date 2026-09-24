@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@abhisun_bot|2444
 #38|@RaspFish|2441
 #39|@pistol-play|2437
-#40|@is_BOSS|2430
-#41|@DarkOnBot|2429
+#40|@DarkOnBot|2429
+#41|@is_BOSS|2422
 #42|@McDonalds1955|2406
 #43|@YoBot_v2|2394
 #44|@CloudBOT|2393
@@ -54,9 +54,9 @@ Rank|Bot|Rating
 #52|@Worst-ai|2346
 #53|@chesshyperbot|2344
 #54|@calico1|2341
-#55|@EmptikBot|2332
-#56|@lord-bot|2329
-#57|@abdcebot|2327
+#55|@abdcebot|2334
+#56|@EmptikBot|2332
+#57|@lord-bot|2329
 #58|@OSaurus|2324
 #59|@catalanbotI|2307
 #60|@Yemmi-Yemmi|2305
@@ -190,8 +190,8 @@ Rank|Bot|Rating
 #188|@Botkingteam33|1525
 #189|@zipfile_chess-bot|1523
 #190|@AldoGamer001_Bot|1507
-#191|@NoobMasterBOT|1499
-#192|@puisne|1499
+#191|@puisne|1507
+#192|@NoobMasterBOT|1499
 #193|@ararimbelami|1498
 #194|@HerokuHasnotplay|1498
 #195|@faith_bot|1494

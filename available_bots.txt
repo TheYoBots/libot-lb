@@ -1678,6 +1678,7 @@ ios_bot
 ipk_mahaweli
 iplayonlyrandom
 iprimese-bot
+iran_f72
 irinaengine
 ironbot
 ironfang
@@ -1734,6 +1735,7 @@ jessethefluffydoge
 jest-bot
 jesterchessrobot
 jev-bot
+jev-bot-2
 jevchessbot
 jgrizzbt-bot
 jibbby
@@ -3519,6 +3521,7 @@ torombot
 toromlc0
 tortademanzana023
 tortoialpha
+totseung
 toxic_bot
 tracer_bot
 tradebot
@@ -3881,6 +3884,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-iran_f72
-jev-bot-2
-totseung
+askaig

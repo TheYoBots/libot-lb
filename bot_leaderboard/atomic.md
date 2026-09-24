@@ -20,13 +20,13 @@ Rank|Bot|Rating
 #18|@MDBOT|1889
 #19|@chess_set_manager|1888
 #20|@Leetomic|1883
-#21|@rachl1|1869
-#22|@colinbot|1858
+#21|@colinbot|1874
+#22|@rachl1|1869
 #23|@nickl1bot|1748
-#24|@Martuni|1569
+#24|@Martuni|1582
 #25|@BattleBornThe2nd|1524
 #26|@spyros1bot|1488
-#27|@Bottios|1440
+#27|@Bottios|1456
 #28|@Lancelbot|1433
 #29|@goldinho1bot|1431
 #30|@dragoodle|1400
@@ -37,4 +37,4 @@ Rank|Bot|Rating
 #35|@escarbo|1195
 #36|@genesis1bot|1146
 #37|@BubbleBot2|1143
-#38|@pawnrobot|1126
+#38|@pawnrobot|1127

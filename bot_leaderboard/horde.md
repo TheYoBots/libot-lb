@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@abdcebot|2791
-#2|@RaspFish|2709
+#2|@RaspFish|2742
 #3|@bot1e|2674
 #4|@Bot1nokk|2646
 #5|@SF_Bot1nok|2643
@@ -10,12 +10,12 @@ Rank|Bot|Rating
 #8|@DarkOnBot|2386
 #9|@SuperGame5|2372
 #10|@colinbot|2315
-#11|@chess_set_manager|2292
+#11|@chess_set_manager|2296
 #12|@MEGA-NOOB-BOT|2240
 #13|@beastie1|2236
 #14|@calico1|2212
 #15|@OSaurus|2207
-#16|@is_BOSS|2189
+#16|@is_BOSS|2185
 #17|@kowalabi|2054
 #18|@QiOui|2010
 #19|@soulgar|2010
@@ -29,8 +29,5 @@ Rank|Bot|Rating
 #27|@BubbleBot2|1416
 #28|@dragoodle|1386
 #29|@BattleBornThe1st|1338
-#30|@pawnrobot|1277
-#31|@hashcake1|1207
-#32|@reaper1bot|1197
-#33|@escarbo|1140
-#34|@genesis1bot|1081
+#30|@pawnrobot|1245
+#31|@genesis1bot|1081
