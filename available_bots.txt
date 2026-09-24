@@ -227,6 +227,7 @@ asdfbot2
 ashnostromo
 asimusbot
 ask-aatk-bot
+askaig
 aspirebot
 aspyfish
 assasino_legend
@@ -3884,4 +3885,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-askaig
+carmin-bot
