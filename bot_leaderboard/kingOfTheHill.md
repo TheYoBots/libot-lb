@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Bot1nokk|2186
 #11|@calico1|2054
 #12|@OSaurus|2040
-#13|@chess_set_manager|1939
+#13|@chess_set_manager|1950
 #14|@kowalabi|1910
 #15|@QiOui|1902
 #16|@colinbot|1875
@@ -25,11 +25,10 @@ Rank|Bot|Rating
 #23|@BattleBornThe2nd|1622
 #24|@spyros1bot|1604
 #25|@Lancelbot|1579
-#26|@goldinho1bot|1561
-#27|@dragoodle|1461
-#28|@BattleBornThe1st|1455
-#29|@reaper1bot|1336
-#30|@BubbleBot2|1323
-#31|@DavidsGuterBot|1244
-#32|@escarbo|1238
-#33|@genesis1bot|1171
+#26|@dragoodle|1461
+#27|@BattleBornThe1st|1455
+#28|@reaper1bot|1336
+#29|@BubbleBot2|1323
+#30|@DavidsGuterBot|1263
+#31|@escarbo|1238
+#32|@genesis1bot|1171

@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@rascal1|2579
-#2|@BattleBornThe5th|2577
+#1|@BattleBornThe5th|2589
+#2|@rascal1|2568
 #3|@SF_Bot1nok|2485
 #4|@MEGA-NOOB-BOT|2454
 #5|@Bot1nokk|2444
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Lancelbot|1692
 #25|@dragoodle|1568
 #26|@BattleBornThe1st|1562
-#27|@puisne|1511
+#27|@puisne|1519
 #28|@reaper1bot|1400
 #29|@BubbleBot2|1370
 #30|@Martuni|1366

@@ -98,9 +98,9 @@ Rank|Bot|Rating
 #96|@Lila-Stockfish|1963
 #97|@PyChessBot|1957
 #98|@MDBOT|1951
-#99|@abhisun_bot|1947
-#100|@Resolved-Bot|1942
-#101|@chess_set_manager|1939
+#99|@chess_set_manager|1950
+#100|@abhisun_bot|1947
+#101|@Resolved-Bot|1942
 #102|@Pineapple-Friendly|1937
 #103|@azdad|1936
 #104|@varient-chess-bot1|1936
@@ -211,9 +211,9 @@ Rank|Bot|Rating
 #209|@Hand_coded_ai_90565|1292
 #210|@NoTallkOnlyGames|1291
 #211|@jasans_bot|1268
-#212|@ChessChipBot|1258
-#213|@Hrant_Petrosyan_BOT|1258
-#214|@DavidsGuterBot|1244
+#212|@DavidsGuterBot|1263
+#213|@ChessChipBot|1258
+#214|@Hrant_Petrosyan_BOT|1258
 #215|@HiddeNL|1242
 #216|@escarbo|1238
 #217|@knight_128|1233
@@ -231,7 +231,7 @@ Rank|Bot|Rating
 #229|@Happy_One|1074
 #230|@ZX-Chess|1059
 #231|@morphbot|1035
-#232|@pawnrobot|1022
+#232|@pawnrobot|1021
 #233|@Jannik08_fan|993
 #234|@thousandatom|970
 #235|@BogoBot|946

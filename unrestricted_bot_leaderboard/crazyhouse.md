@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@SkyBlaster|2614
 #22|@Xerus_1|2611
 #23|@Iwantedtoplaychess|2600
-#24|@rascal1|2579
-#25|@BattleBornThe5th|2577
+#24|@BattleBornThe5th|2589
+#25|@rascal1|2568
 #26|@EmptikVariantsBot|2548
 #27|@BotSuxX|2538
 #28|@LudwigBOT|2527
@@ -189,7 +189,7 @@ Rank|Bot|Rating
 #187|@TheAwesomeBot|1527
 #188|@Botkingteam33|1525
 #189|@zipfile_chess-bot|1523
-#190|@puisne|1511
+#190|@puisne|1519
 #191|@AldoGamer001_Bot|1507
 #192|@NoobMasterBOT|1499
 #193|@ararimbelami|1498
@@ -280,6 +280,6 @@ Rank|Bot|Rating
 #278|@MateCheckCapture|828
 #279|@TrashBot|800
 #280|@MinOpponentMoves|783
-#281|@pawnrobot|765
-#282|@MontyPythonFlying|754
-#283|@Randmaster_Bot|719
+#281|@MontyPythonFlying|754
+#282|@Randmaster_Bot|749
+#283|@pawnrobot|740

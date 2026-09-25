@@ -647,6 +647,7 @@ capturebot
 capybara_chessbot
 carlsenbot
 carlsencantbeatme
+carmin-bot
 carp_bot
 casanchess-nnue
 castlematestockfish
@@ -3885,4 +3886,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-carmin-bot
+steldensstardustrs

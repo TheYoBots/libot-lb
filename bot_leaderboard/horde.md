@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@abdcebot|2792
-#2|@RaspFish|2753
+#2|@RaspFish|2757
 #3|@bot1e|2685
 #4|@Bot1nokk|2655
 #5|@SF_Bot1nok|2637
 #6|@rascal1|2418
-#7|@BattleBornThe5th|2404
+#7|@BattleBornThe5th|2405
 #8|@DarkOnBot|2377
 #9|@SuperGame5|2372
 #10|@colinbot|2315
@@ -29,5 +29,5 @@ Rank|Bot|Rating
 #27|@BubbleBot2|1416
 #28|@dragoodle|1386
 #29|@BattleBornThe1st|1338
-#30|@pawnrobot|1253
+#30|@pawnrobot|1225
 #31|@genesis1bot|1081

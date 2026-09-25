@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2293
 #2|@MEGA-NOOB-BOT|2292
-#3|@rascal1|2264
-#4|@BattleBornThe5th|2261
-#5|@is_BOSS|2220
+#3|@rascal1|2270
+#4|@BattleBornThe5th|2255
+#5|@is_BOSS|2222
 #6|@RaspFish|2175
 #7|@DarkOnBot|2167
 #8|@Bot1nokk|2151
@@ -23,10 +23,10 @@ Rank|Bot|Rating
 #21|@colinbot|1882
 #22|@rachl1|1869
 #23|@nickl1bot|1748
-#24|@Martuni|1585
+#24|@Martuni|1581
 #25|@BattleBornThe2nd|1524
 #26|@spyros1bot|1488
-#27|@Bottios|1456
+#27|@Bottios|1463
 #28|@Lancelbot|1433
 #29|@goldinho1bot|1431
 #30|@dragoodle|1400
