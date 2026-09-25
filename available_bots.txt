@@ -3189,6 +3189,7 @@ steadyeddieengine
 steadyeddiefish
 steezybot
 stefanobaghino_bot
+steldensstardustrs
 stellarbot
 stepbot_chess
 sternenhimmel10
@@ -3886,4 +3887,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-steldensstardustrs
+tappobot
+jtchessbot
+fenrirbot
+black-bishop-kh
+madameengine

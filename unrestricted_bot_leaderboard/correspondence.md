@@ -309,10 +309,10 @@ Rank|Bot|Rating
 #307|@bestchessbot|1618
 #308|@Rishab_Bindal|1618
 #309|@OverHead_BOT|1615
-#310|@Toxic_Bot|1607
-#311|@Bottios|1606
-#312|@NeuralKnight1500|1605
-#313|@EdwardKillick|1604
+#310|@EdwardKillick|1611
+#311|@Toxic_Bot|1607
+#312|@Bottios|1606
+#313|@NeuralKnight1500|1605
 #314|@JonoX|1604
 #315|@DrawFish|1601
 #316|@Laurin03|1600
