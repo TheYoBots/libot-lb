@@ -27,6 +27,5 @@ Rank|Bot|Rating
 #25|@dragoodle|1313
 #26|@BattleBornThe1st|1220
 #27|@reaper1bot|1176
-#28|@BubbleBot2|1081
-#29|@escarbo|1059
-#30|@genesis1bot|1035
+#28|@BubbleBot2|1079
+#29|@genesis1bot|1035

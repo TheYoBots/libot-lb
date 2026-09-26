@@ -186,10 +186,10 @@ Rank|Bot|Rating
 #184|@FairyTailRegimeBot|1558
 #185|@vidha-2009|1542
 #186|@DespacitoBot|1535
-#187|@TheAwesomeBot|1527
-#188|@Botkingteam33|1525
-#189|@zipfile_chess-bot|1523
-#190|@puisne|1519
+#187|@puisne|1532
+#188|@TheAwesomeBot|1527
+#189|@Botkingteam33|1525
+#190|@zipfile_chess-bot|1523
 #191|@AldoGamer001_Bot|1507
 #192|@NoobMasterBOT|1499
 #193|@ararimbelami|1498

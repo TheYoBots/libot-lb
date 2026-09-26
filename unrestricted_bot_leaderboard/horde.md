@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Royal-Bot|2761
 #6|@Coolman2021|2757
 #7|@ToromBot|2748
-#8|@RaspFish|2746
+#8|@RaspFish|2743
 #9|@Magicianrobot|2741
 #10|@FireFishBOT|2726
 #11|@PepsiForAll|2699

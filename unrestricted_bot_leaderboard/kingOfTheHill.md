@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@TheMatrix2025|2346
 #18|@AndromedaSX1|2344
 #19|@MEGA-NOOB-BOT|2328
-#20|@rascal1|2320
+#20|@rascal1|2322
 #21|@Sooraj_Kumar_P_S|2319
 #22|@FayEFish|2317
 #23|@Viet-AI|2317
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@calico1|2054
 #75|@NewChessEngine-ai|2046
 #76|@Hyper-Stockfish|2044
-#77|@OSaurus|2040
+#77|@OSaurus|2038
 #78|@Kizbuurb|2035
 #79|@CloudBot_v2|2027
 #80|@Lili-ai|2027

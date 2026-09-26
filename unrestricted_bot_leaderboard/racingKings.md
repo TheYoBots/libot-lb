@@ -239,7 +239,7 @@ Rank|Bot|Rating
 #237|@Hrant_Petrosyan_BOT|1152
 #238|@BetaOneBot|1141
 #239|@GuineaBot2|1141
-#240|@BubbleBot2|1081
+#240|@BubbleBot2|1079
 #241|@BogoBot|1074
 #242|@escarbo|1059
 #243|@genesis1bot|1035

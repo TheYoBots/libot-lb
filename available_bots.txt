@@ -381,6 +381,7 @@ bitextender128
 bizarriofish
 bjomarchessbot
 bkrivibot
+black-bishop-kh
 black_knight2006
 black_knight_ngalam
 blackcatengine
@@ -1263,6 +1264,7 @@ felipe_bot_53
 felixleonidovich
 fender_bender
 fenich
+fenrirbot
 fiasco-bot
 fib0t
 fibonachi
@@ -1768,6 +1770,7 @@ joshuachessbot
 jpg-bot
 jpsbot
 jryan_bot
+jtchessbot
 ju-ke-box
 judging_entity
 juggerbot
@@ -2115,6 +2118,7 @@ machinamas
 macos23
 macroman952
 macuser60
+madameengine
 maello_bot
 maelstrom-chess
 mafybe
@@ -3353,6 +3357,7 @@ talbotbot
 taleelavshumans
 talosbot
 tapobot
+tappobot
 taske-eman
 tasmanrevenge
 taubertdietaubejs
@@ -3887,8 +3892,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tappobot
-jtchessbot
-fenrirbot
-black-bishop-kh
-madameengine
+minibotapi
+atari-video-chess

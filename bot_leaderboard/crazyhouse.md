@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@Lancelbot|1692
 #23|@dragoodle|1568
 #24|@BattleBornThe1st|1562
-#25|@puisne|1519
+#25|@puisne|1532
 #26|@BubbleBot2|1370
 #27|@Martuni|1366
 #28|@pawnrobot|796

@@ -84,10 +84,10 @@ Rank|Bot|Rating
 #82|@Bot_AOOP11|2209
 #83|@newengine2022|2204
 #84|@HedwigChess1|2200
-#85|@is_BOSS|2200
-#86|@Hyper-Stockfish|2198
-#87|@Yemmi-Yemmi|2195
-#88|@NienishiEngine|2194
+#85|@Hyper-Stockfish|2198
+#86|@Yemmi-Yemmi|2195
+#87|@NienishiEngine|2194
+#88|@is_BOSS|2191
 #89|@St6090|2191
 #90|@Vinh_VariantsBot|2188
 #91|@BotsFanClub|2186
@@ -275,8 +275,8 @@ Rank|Bot|Rating
 #273|@OpLdksijfKJ|1589
 #274|@PROBOT123567|1589
 #275|@PineappleBot|1583
-#276|@Martuni|1581
-#277|@malpamat|1579
+#276|@malpamat|1579
+#277|@Martuni|1578
 #278|@Chess_omar_2009|1575
 #279|@Pineapple-Friendly|1569
 #280|@bot-win-loh-nick|1554

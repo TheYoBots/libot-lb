@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@BattleBornThe5th|2268
 #4|@rascal1|2261
 #5|@SuperGame5|2227
-#6|@is_BOSS|2200
+#6|@is_BOSS|2191
 #7|@RaspFish|2178
 #8|@DarkOnBot|2167
 #9|@Bot1nokk|2151
@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@Leetomic|1883
 #22|@colinbot|1882
 #23|@rachl1|1869
-#24|@Martuni|1581
+#24|@Martuni|1578
 #25|@spyros1bot|1488
 #26|@Bottios|1461
 #27|@Lancelbot|1433
@@ -31,9 +31,6 @@ Rank|Bot|Rating
 #29|@dragoodle|1400
 #30|@StockfishLowDepth|1376
 #31|@BattleBornThe1st|1355
-#32|@hashcake1|1255
-#33|@reaper1bot|1241
-#34|@escarbo|1195
-#35|@genesis1bot|1146
-#36|@BubbleBot2|1136
-#37|@pawnrobot|1127
+#32|@genesis1bot|1146
+#33|@BubbleBot2|1136
+#34|@pawnrobot|1127
