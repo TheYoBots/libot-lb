@@ -233,6 +233,7 @@ aspyfish
 assasino_legend
 asterix_20k20
 astra-engine
+atari-video-chess
 atemmax_bot
 athena-bot
 atomic_chess_bot
@@ -2282,6 +2283,7 @@ mimirbot
 mimmic
 minh_thuyet
 minhduc12
+minibotapi
 minic-chess_engine
 minichessbot
 minimardi
@@ -3892,5 +3894,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-minibotapi
-atari-video-chess
+atomicenginev1
+randomkerbal
+consolechessdev
