@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@QiOui|2151
 #16|@soulgar|2116
 #17|@colinbot|2084
-#18|@chess_set_manager|2035
-#19|@MDBOT|2034
+#18|@MDBOT|2050
+#19|@chess_set_manager|2030
 #20|@spyros1bot|1762
 #21|@Lancelbot|1676
 #22|@goldinho1bot|1672

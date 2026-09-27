@@ -240,6 +240,7 @@ atomic_chess_bot
 atomicandtroll
 atomicbot1
 atomicchessbot
+atomicenginev1
 atomicli
 atomicroulettebot
 atomicvsenginebot
@@ -881,6 +882,7 @@ compraptor
 compressor-bot
 computerstuff
 confidencebuilder
+consolechessdev
 consolechessfastbot
 constructivist
 cookiecheesychess
@@ -2812,6 +2814,7 @@ randmaster_egtb
 random_movesbot
 randombot1234
 randomiser
+randomkerbal
 randommoverbot
 randomtree33
 randomtree77
@@ -3894,6 +3897,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-atomicenginev1
-randomkerbal
-consolechessdev
+wyxx210704_bot
+cannotcheckmateme

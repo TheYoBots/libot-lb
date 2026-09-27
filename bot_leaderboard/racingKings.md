@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@beastie1|2112
 #13|@colinbot|2057
 #14|@calico1|2041
-#15|@chess_set_manager|1998
+#15|@chess_set_manager|1991
 #16|@OSaurus|1963
 #17|@kowalabi|1886
 #18|@QiOui|1864

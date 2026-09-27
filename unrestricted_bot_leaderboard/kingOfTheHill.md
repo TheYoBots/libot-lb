@@ -97,14 +97,14 @@ Rank|Bot|Rating
 #95|@RockingSuperstars|1965
 #96|@Lila-Stockfish|1963
 #97|@PyChessBot|1957
-#98|@abhisun_bot|1947
-#99|@chess_set_manager|1946
+#98|@chess_set_manager|1951
+#99|@abhisun_bot|1947
 #100|@Resolved-Bot|1942
 #101|@Pineapple-Friendly|1937
 #102|@azdad|1936
 #103|@varient-chess-bot1|1936
 #104|@HyperLitikBOT|1930
-#105|@MDBOT|1925
+#105|@MDBOT|1912
 #106|@kowalabi|1910
 #107|@DrSmartBugs|1904
 #108|@QiOui|1902
@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@BOT_Stockfish13|1686
 #153|@SCP079|1660
 #154|@patzerbot135|1655
-#155|@Martuni|1649
+#155|@Martuni|1646
 #156|@chessemkabot|1625
 #157|@BattleBornThe2nd|1622
 #158|@CoderDen732|1621

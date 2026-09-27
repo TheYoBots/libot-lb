@@ -12,12 +12,12 @@ Rank|Bot|Rating
 #10|@Bot1nokk|2181
 #11|@calico1|2054
 #12|@OSaurus|2038
-#13|@chess_set_manager|1946
+#13|@chess_set_manager|1951
 #14|@kowalabi|1910
 #15|@QiOui|1902
 #16|@colinbot|1882
 #17|@soulgar|1850
-#18|@Martuni|1649
+#18|@Martuni|1646
 #19|@spyros1bot|1604
 #20|@Lancelbot|1592
 #21|@goldinho1bot|1558

@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@BattleBornThe5th|2405
 #9|@DarkOnBot|2375
 #10|@colinbot|2286
-#11|@chess_set_manager|2246
+#11|@chess_set_manager|2241
 #12|@beastie1|2236
 #13|@MEGA-NOOB-BOT|2222
 #14|@calico1|2212
@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@kowalabi|2054
 #18|@QiOui|2010
 #19|@soulgar|2001
-#20|@Martuni|1811
+#20|@Martuni|1806
 #21|@spyros1bot|1661
 #22|@Lancelbot|1499
 #23|@goldinho1bot|1469
