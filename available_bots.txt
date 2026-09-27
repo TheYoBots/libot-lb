@@ -644,6 +644,7 @@ callmecool
 calvin_bot
 camel_bot
 canary_colinbot
+cannotcheckmateme
 caprastar
 caps-bot
 capturebot
@@ -3792,6 +3793,7 @@ wrychess-bot
 wtrcc
 wujabbot
 wunderbot
+wyxx210704_bot
 x2-itl
 xadreco
 xbbjp
@@ -3897,5 +3899,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-wyxx210704_bot
-cannotcheckmateme
+neutrinobot
+slothcomputer
+bobby_pcolla
+maia960-1600

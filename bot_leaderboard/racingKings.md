@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@SF_Bot1nok|2286
 #4|@rascal1|2282
 #5|@DarkOnBot|2277
-#6|@is_BOSS|2261
-#7|@MEGA-NOOB-BOT|2249
+#6|@is_BOSS|2258
+#7|@MEGA-NOOB-BOT|2251
 #8|@RaspFish|2247
 #9|@SuperGame5|2247
 #10|@abdcebot|2245
@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@beastie1|2112
 #13|@colinbot|2057
 #14|@calico1|2041
-#15|@chess_set_manager|1991
+#15|@chess_set_manager|1994
 #16|@OSaurus|1963
 #17|@kowalabi|1886
 #18|@QiOui|1864
