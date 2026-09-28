@@ -209,10 +209,10 @@ Rank|Bot|Rating
 #207|@PiratesRust|1296
 #208|@Hand_coded_ai_90565|1292
 #209|@NoTallkOnlyGames|1291
-#210|@DavidsGuterBot|1274
-#211|@escarbo|1272
-#212|@reaper1bot|1272
-#213|@jasans_bot|1268
+#210|@reaper1bot|1278
+#211|@DavidsGuterBot|1274
+#212|@jasans_bot|1268
+#213|@escarbo|1266
 #214|@ChessChipBot|1258
 #215|@Hrant_Petrosyan_BOT|1258
 #216|@HiddeNL|1242

@@ -425,6 +425,7 @@ bobandi
 bobby-bot
 bobby_fischer_bot
 bobby_fishcer_bot
+bobby_pcolla
 bobursattarov
 bogobot
 bogopi
@@ -2160,6 +2161,7 @@ maia3-79m_600
 maia3-79m_800
 maia5
 maia9
+maia960-1600
 maia9_10n
 maia9_30n
 maiamystery
@@ -2421,6 +2423,7 @@ neuralknight1500
 neuralleela
 neurosocute
 neuroticbishop
+neutrinobot
 new-tie
 newbiebott
 newchessengine-ai
@@ -3127,6 +3130,7 @@ slice-bot
 slimebathtub
 slimiestsquid
 slipperiestseal
+slothcomputer
 slothengine
 slow-and-stupid
 slowmate_bot
@@ -3899,7 +3903,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-neutrinobot
-slothcomputer
-bobby_pcolla
-maia960-1600
+tilapiabot
+teensycheesy
+gokubot
+stockbotfisher
+minibruteforcebot

@@ -190,10 +190,10 @@ Rank|Bot|Rating
 #188|@B0T5_RU13|2011
 #189|@TheLegitLegend|2010
 #190|@CrayyBot|1989
-#191|@CatNail|1974
-#192|@BetaZ|1973
-#193|@antichesssss|1964
-#194|@Menganti|1963
+#191|@BetaZ|1973
+#192|@antichesssss|1964
+#193|@Menganti|1963
+#194|@CatNail|1961
 #195|@CloudBOT|1950
 #196|@TestingBot1|1914
 #197|@Crepusculum|1881
@@ -312,9 +312,9 @@ Rank|Bot|Rating
 #310|@pussaW|1361
 #311|@TheLegitLegend2|1360
 #312|@BinaryBrain|1357
-#313|@StockfishLowDepth|1352
-#314|@allvariants|1350
-#315|@NeilDandekarBot|1350
+#313|@allvariants|1350
+#314|@NeilDandekarBot|1350
+#315|@StockfishLowDepth|1344
 #316|@ZokBot|1336
 #317|@Studyloversz-bot|1333
 #318|@Galaxy_Guardian|1324
@@ -327,7 +327,7 @@ Rank|Bot|Rating
 #325|@GuineaBot3|1297
 #326|@MeetNarangBOT|1287
 #327|@KaTHHHH|1264
-#328|@puisne|1246
+#328|@puisne|1244
 #329|@chicken_farmer|1241
 #330|@dragoodle|1219
 #331|@PranavChessBot|1212

@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@BattleBornThe1st|1549
 #185|@vidha-2009|1542
 #186|@DespacitoBot|1535
-#187|@puisne|1532
+#187|@puisne|1530
 #188|@TheAwesomeBot|1527
 #189|@Botkingteam33|1525
 #190|@zipfile_chess-bot|1523
@@ -279,7 +279,7 @@ Rank|Bot|Rating
 #277|@GuineaBot3|845
 #278|@MateCheckCapture|828
 #279|@TrashBot|800
-#280|@pawnrobot|790
+#280|@pawnrobot|788
 #281|@MinOpponentMoves|783
 #282|@MontyPythonFlying|754
 #283|@Randmaster_Bot|727
