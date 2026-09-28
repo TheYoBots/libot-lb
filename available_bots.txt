@@ -1423,6 +1423,7 @@ god_teto
 godelescherbot
 godofchess1239
 goethebot
+gokubot
 gold_engine
 golden_swod
 goldenrarebot
@@ -2289,6 +2290,7 @@ mimmic
 minh_thuyet
 minhduc12
 minibotapi
+minibruteforcebot
 minic-chess_engine
 minichessbot
 minimardi
@@ -3216,6 +3218,7 @@ stockapibot
 stockatom
 stockblitz_v1
 stockbooktest24
+stockbotfisher
 stockbrotv1
 stockdory
 stockfail
@@ -3378,6 +3381,7 @@ team_bot_08512
 teamblackknightchess
 teamchelsie
 teamleaderbot
+teensycheesy
 tekibot
 telefon2232_bot
 telemost
@@ -3501,6 +3505,7 @@ tigerengine
 tigersbot
 tigrament
 tikifish
+tilapiabot
 tilesbot
 time-player
 timecat
@@ -3903,8 +3908,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tilapiabot
-teensycheesy
-gokubot
-stockbotfisher
-minibruteforcebot
+sara_bot
+cheesestar
+claudyengine
