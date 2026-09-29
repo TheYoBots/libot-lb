@@ -215,6 +215,7 @@ arkiplayschess
 armageddon-fish
 arny_bot
 aromik_s_bot
+arthurai
 artidigm_research
 artisan_bot
 artjom_bot
@@ -304,6 +305,7 @@ barryallen14
 basbabas
 battlebornthe1st
 battlebornthe2nd
+battlebornthe4th
 battlebornthe5th
 battlebot
 batyarapro
@@ -889,6 +891,7 @@ confidencebuilder
 consolechessdev
 consolechessfastbot
 constructivist
+cookiebot711
 cookiecheesychess
 cool_boy_bot
 coolman2021
@@ -2869,6 +2872,7 @@ redtail-zero
 refutemygambit
 reggieokevin
 reggz
+registerpythonspeed
 reinforcementtrial
 relevantproblem
 remstalbot
@@ -3911,7 +3915,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-arthurai
-registerpythonspeed
-battlebornthe4th
-cookiebot711
+jenniferx
+drewschessmachine
+maia960-1900
