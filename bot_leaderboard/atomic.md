@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@ToromBot|2287
 #3|@BattleBornThe5th|2268
 #4|@rascal1|2261
-#5|@McDonalds1955|2247
-#6|@SuperGame5|2229
-#7|@is_BOSS|2204
-#8|@RaspFish|2177
+#5|@McDonalds1955|2256
+#6|@is_BOSS|2204
+#7|@RaspFish|2177
+#8|@SuperGame5|2174
 #9|@DarkOnBot|2173
 #10|@Bot1nokk|2161
 #11|@bot1e|2148
@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@MDBOT|1916
 #18|@chess_set_manager|1882
 #19|@colinbot|1882
-#20|@Martuni|1584
+#20|@Martuni|1571
 #21|@Bottios|1469
 #22|@Lancelbot|1452
 #23|@StockfishLowDepth|1448

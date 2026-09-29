@@ -716,6 +716,7 @@ checkstudent
 cheemschungusbot
 cheesenet
 cheesepizza2363
+cheesestar
 cheezebot
 cheezyglizzyeater
 chefisin
@@ -833,6 +834,7 @@ cinder-bot
 cizme
 classic_bot-v2
 classical-leela
+claudyengine
 clawde
 clementyne1
 cleobot
@@ -2993,6 +2995,7 @@ sandybot
 sanjana_kambala-bot
 santana64
 santiagoelsalvador
+sara_bot
 sarbazbot
 sardinebot
 sargon-1ply
@@ -3908,6 +3911,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sara_bot
-cheesestar
-claudyengine
+arthurai
+registerpythonspeed
+battlebornthe4th
+cookiebot711
