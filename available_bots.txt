@@ -1571,6 +1571,7 @@ hodgeybot
 hoich
 hokmah
 hokmah-bot
+holidaybot1225
 holzerich
 homemade223
 honeycombee
@@ -2191,6 +2192,7 @@ marcsterk07
 margret9033
 mariana-031
 mario_5o
+markusdaukrobloxkid
 markuspvb
 markuspvpbot
 marlia123456
@@ -2450,6 +2452,7 @@ nice_bot
 nicetohityou2000
 nicholaswb_bot
 nichteliasbot
+nickdrohan
 nickl1bot
 nicoccino
 nie_bot
@@ -3918,6 +3921,11 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-markusdaukrobloxkid
-holidaybot1225
-nickdrohan
+nexuschess1
+latrunculi-bot
+ryu-ishigori
+platinumbot
+cactus_bot
+zion-bot
+blujay-bot
+kurganuci
