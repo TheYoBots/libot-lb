@@ -1086,6 +1086,7 @@ drawfish
 drawfish-reborn
 drawinone
 dream_bot
+drewschessmachine
 drmeowmeow
 drsaeedking1
 drsmartbugs
@@ -1745,6 +1746,7 @@ jellyfischer
 jemangedespieces
 jembok
 jence
+jenniferx
 jeremybot
 jessethefluffydoge
 jest-bot
@@ -2168,6 +2170,7 @@ maia3-79m_800
 maia5
 maia9
 maia960-1600
+maia960-1900
 maia9_10n
 maia9_30n
 maiamystery
@@ -3915,6 +3918,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-jenniferx
-drewschessmachine
-maia960-1900
+markusdaukrobloxkid
+holidaybot1225
+nickdrohan

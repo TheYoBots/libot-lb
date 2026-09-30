@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@calico1|2041
 #14|@StockfishLowDepth|1992
 #15|@chess_set_manager|1982
-#16|@OSaurus|1969
-#17|@BattleBornThe4th|1936
+#16|@OSaurus|1973
+#17|@BattleBornThe4th|1932
 #18|@soulgar|1793
 #19|@BattleBornThe2nd|1446
 #20|@malpamat|1445
@@ -27,6 +27,6 @@ Rank|Bot|Rating
 #25|@BattleBornThe1st|1222
 #26|@hashcake1|1171
 #27|@reaper1bot|1165
-#28|@BubbleBot2|1090
+#28|@BubbleBot2|1097
 #29|@escarbo|1076
 #30|@genesis1bot|1010

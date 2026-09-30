@@ -119,12 +119,12 @@ Rank|Bot|Rating
 #117|@StockfishLowDepth|1992
 #118|@chess_set_manager|1982
 #119|@Less_of_a_threat|1979
-#120|@BGSBot|1969
-#121|@OSaurus|1969
+#120|@OSaurus|1973
+#121|@BGSBot|1969
 #122|@Yemmi-Yemmi|1964
 #123|@admin-bot|1955
-#124|@BattleBornThe4th|1936
-#125|@MyNameIsSpeedy|1935
+#124|@MyNameIsSpeedy|1935
+#125|@BattleBornThe4th|1932
 #126|@MDBOT|1929
 #127|@Pineapple-Friendly|1912
 #128|@Teamleaderbot|1904
@@ -240,7 +240,7 @@ Rank|Bot|Rating
 #238|@BetaOneBot|1141
 #239|@GuineaBot2|1141
 #240|@puisne|1130
-#241|@BubbleBot2|1090
+#241|@BubbleBot2|1097
 #242|@escarbo|1076
 #243|@BogoBot|1074
 #244|@MateCheckCapture|1011

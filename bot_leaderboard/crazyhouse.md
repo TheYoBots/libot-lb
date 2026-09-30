@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@RaspFish|2428
 #9|@bot1e|2374
 #10|@abdcebot|2346
-#11|@OSaurus|2321
-#12|@BattleBornThe4th|2300
+#11|@OSaurus|2315
+#12|@BattleBornThe4th|2306
 #13|@kowalabi|2160
 #14|@soulgar|2113
 #15|@colinbot|2085
@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@Lancelbot|1676
 #19|@goldinho1bot|1672
 #20|@dragoodle|1577
-#21|@puisne|1572
-#22|@BattleBornThe1st|1549
+#21|@BattleBornThe1st|1549
+#22|@puisne|1541
 #23|@hashcake1|1423
 #24|@reaper1bot|1413
 #25|@Martuni|1375
