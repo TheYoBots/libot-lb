@@ -417,6 +417,7 @@ blue_mongoose
 blueberry-engine
 bluefake
 bluemoonbot
+blujay-bot
 blundar_bot
 blunder_engine
 blunderbuss-bot
@@ -628,6 +629,7 @@ c0br4_bot
 c0kval
 c0llision
 cabolince
+cactus_bot
 cactusengine
 cadabrabot
 cahbot
@@ -1906,6 +1908,7 @@ kung-fupanda
 kunju_bot
 kunkkabot
 kunsaya
+kurganuci
 kurosaki_higor
 kvasbot
 kvothechess_bot
@@ -1936,6 +1939,7 @@ larpfish
 larryz-alterego
 larryz-bot
 lastwill
+latrunculi-bot
 laura-bot
 laurentos_bot
 laurin03
@@ -2444,6 +2448,7 @@ newest_stockfish
 newtsbot
 nexastrat
 nexosdefos
+nexuschess1
 nezh-bot
 nezuko_chess
 nibblebot
@@ -2693,6 +2698,7 @@ planktonengine
 planktonenginerust
 plaphyai
 plasmaeclipse
+platinumbot
 play-the-chess
 playagainstmybot
 playchesstonight
@@ -2978,6 +2984,7 @@ rustypigeon
 rustyrival
 rustyrookchessbot
 rybkaoldengine
+ryu-ishigori
 s2rarro
 s3gfau1t
 s_stock
@@ -3910,6 +3917,7 @@ zgroupbot
 zhangirkhanbot
 ziansnake
 zimbabwean_chessbot
+zion-bot
 zipfile_chess-bot
 zlomenymesic
 zobristhaescher
@@ -3921,11 +3929,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-nexuschess1
-latrunculi-bot
-ryu-ishigori
-platinumbot
-cactus_bot
-zion-bot
-blujay-bot
-kurganuci
+oxybullet
+blindpewce

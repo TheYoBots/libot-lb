@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@MEGA-NOOB-BOT|2334
 #2|@ToromBot|2288
 #3|@BattleBornThe5th|2268
-#4|@McDonalds1955|2264
-#5|@rascal1|2261
+#4|@rascal1|2261
+#5|@McDonalds1955|2251
 #6|@is_BOSS|2241
 #7|@RaspFish|2177
 #8|@DarkOnBot|2173
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@SuperGame5|2149
 #11|@bot1e|2143
 #12|@SF_Bot1nok|2123
-#13|@abdcebot|2094
+#13|@abdcebot|2107
 #14|@calico1|2064
 #15|@OSaurus|2052
 #16|@BattleBornThe4th|1975
@@ -21,9 +21,9 @@ Rank|Bot|Rating
 #19|@colinbot|1901
 #20|@chess_set_manager|1891
 #21|@Martuni|1564
-#22|@Lancelbot|1452
-#23|@Bottios|1451
-#24|@StockfishLowDepth|1447
+#22|@StockfishLowDepth|1453
+#23|@Lancelbot|1452
+#24|@Bottios|1451
 #25|@goldinho1bot|1432
 #26|@dragoodle|1398
 #27|@BattleBornThe1st|1355
@@ -32,4 +32,4 @@ Rank|Bot|Rating
 #30|@escarbo|1207
 #31|@genesis1bot|1136
 #32|@BubbleBot2|1122
-#33|@pawnrobot|1114
+#33|@pawnrobot|1110

@@ -74,12 +74,12 @@ Rank|Bot|Rating
 #72|@MalanChess|2261
 #73|@chesshyperbot|2259
 #74|@MEGA-NOOB-BOT|2257
-#75|@is_BOSS|2254
-#76|@ESC_BOT|2253
-#77|@relevantproblem|2251
-#78|@abdcebot|2249
+#75|@abdcebot|2255
+#76|@is_BOSS|2254
+#77|@ESC_BOT|2253
+#78|@relevantproblem|2251
 #79|@GodelEscherBot|2244
-#80|@SuperGame5|2243
+#80|@SuperGame5|2235
 #81|@bot1e|2232
 #82|@ResoluteBot|2225
 #83|@XXIstCentury|2225

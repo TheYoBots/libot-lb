@@ -6,9 +6,9 @@ Rank|Bot|Rating
 #4|@DarkOnBot|2276
 #5|@RaspFish|2269
 #6|@MEGA-NOOB-BOT|2257
-#7|@is_BOSS|2254
-#8|@abdcebot|2249
-#9|@SuperGame5|2243
+#7|@abdcebot|2255
+#8|@is_BOSS|2254
+#9|@SuperGame5|2235
 #10|@bot1e|2232
 #11|@colinbot|2059
 #12|@chess_set_manager|1982

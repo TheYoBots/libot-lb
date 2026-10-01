@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@Royal-Bot|2761
 #6|@Coolman2021|2757
 #7|@Magicianrobot|2741
-#8|@FireFishBOT|2726
-#9|@abdcebot|2725
+#8|@abdcebot|2726
+#9|@FireFishBOT|2726
 #10|@RaspFish|2702
 #11|@PepsiForAll|2699
 #12|@bot1e|2695
@@ -34,11 +34,11 @@ Rank|Bot|Rating
 #32|@Bullet_bot_0526|2344
 #33|@eNErGyOFbEiNGbOT|2326
 #34|@Alexnajax_Fan|2316
-#35|@colinbot|2310
-#36|@SuperGame5|2306
-#37|@chess_set_manager|2301
-#38|@AlfaBot|2293
-#39|@Fairy-Stockfish|2289
+#35|@colinbot|2316
+#36|@chess_set_manager|2312
+#37|@AlfaBot|2293
+#38|@Fairy-Stockfish|2289
+#39|@SuperGame5|2288
 #40|@Kizburb|2276
 #41|@Team_bot_08512|2267
 #42|@NewChessEngine-ai|2260
@@ -203,7 +203,7 @@ Rank|Bot|Rating
 #201|@xDmanBOT|1258
 #202|@yobmef|1258
 #203|@TheSystem_Bot|1218
-#204|@pawnrobot|1217
+#204|@pawnrobot|1213
 #205|@GuineaBot3|1212
 #206|@admin-bot|1209
 #207|@Happy_One|1207
