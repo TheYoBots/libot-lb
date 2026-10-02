@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2375
+#1|@MEGA-NOOB-BOT|2366
 #2|@rascal1|2322
-#3|@abdcebot|2279
-#4|@is_BOSS|2250
+#3|@abdcebot|2283
+#4|@is_BOSS|2251
 #5|@DarkOnBot|2219
 #6|@RaspFish|2218
 #7|@SF_Bot1nok|2193
@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@colinbot|1882
 #13|@soulgar|1850
 #14|@malpamat|1702
-#15|@Martuni|1642
+#15|@Martuni|1641
 #16|@Lancelbot|1592
 #17|@goldinho1bot|1558
 #18|@dragoodle|1487
