@@ -634,6 +634,7 @@ cactus_bot
 cactusengine
 cadabrabot
 cahbot
+caiporabot
 caissa-ai
 caissa-nnue
 caissa-test
@@ -1278,6 +1279,7 @@ felipe_bot_53
 felixleonidovich
 fender_bender
 fenich
+fenrir-bot
 fenrirbot
 fiasco-bot
 fib0t
@@ -2312,6 +2314,7 @@ minimardi
 minimax_chessy_lol
 mininnue
 minipositionalai
+minmaxvalgen
 minopponentmoves
 minula_paranvithana
 mirrormaze-xdk
@@ -3176,9 +3179,11 @@ sohilbot
 solidor59
 solistabot
 solobot
+solsticeengine
 somebot
 somegobot
 somepythonbot
+sonataengine
 sooraj_kumar_p_s
 soreloserbot
 sorenxmental
@@ -3552,6 +3557,7 @@ tomahawkbot
 tombot1234
 tomewyrm
 tomlesspit
+tonyengine
 too_ez4me
 toodfish
 toofastfish
@@ -3931,9 +3937,11 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-minmaxvalgen
-tonyengine
-solsticeengine
-fenrir-bot
-caiporabot
-sonataengine
+makechessbetter
+fschess-engine
+nightruin
+incipit_bot
+onezenpanda
+rotor-bot
+somekindofbot
+sonataintelligence
