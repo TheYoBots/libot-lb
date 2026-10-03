@@ -768,6 +768,7 @@ chessbot_2004
 chessbotbuddy
 chessbothere
 chessbotz-1
+chessbzero
 chesschildren
 chesschipbot
 chesscorpus-org
@@ -3945,4 +3946,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chessbzero
+wippy-bot
+zero3-now
+weirdstockfish
