@@ -1354,6 +1354,7 @@ frostbringer
 frozenightengine
 frozenrook
 fruity23
+fschess-engine
 funebot
 funeddy-robotik
 funnsams_bot
@@ -1679,6 +1680,7 @@ impossiblewin
 imranmelikovbot
 imreallynotabot
 inanisbot
+incipit_bot
 indi_bot
 indianchessrobot
 indianguyplayz
@@ -2187,6 +2189,7 @@ maiatrap
 main_line
 majaitobot
 major-maxy
+makechessbetter
 maksimvolkov25
 malanchess
 malenamorgensenbot
@@ -2467,6 +2470,7 @@ nicoccino
 nie_bot
 nienishiengine
 nightfall_dev
+nightruin
 nightstarfox
 nightybot
 nikitosik-ai
@@ -2575,6 +2579,7 @@ omerbot
 omnibot
 onenode
 oneversusmany
+onezenpanda
 onionbot
 onlinechessbot
 oo7_bot
@@ -2954,6 +2959,7 @@ rorschach-bot
 rosaliaxadrez
 rostigerritter
 rosybot
+rotor-bot
 roundmoundofrebounds
 routerbot
 rovanz
@@ -3182,8 +3188,10 @@ solobot
 solsticeengine
 somebot
 somegobot
+somekindofbot
 somepythonbot
 sonataengine
+sonataintelligence
 sooraj_kumar_p_s
 soreloserbot
 sorenxmental
@@ -3937,11 +3945,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-makechessbetter
-fschess-engine
-nightruin
-incipit_bot
-onezenpanda
-rotor-bot
-somekindofbot
-sonataintelligence
+chessbzero

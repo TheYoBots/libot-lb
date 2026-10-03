@@ -205,8 +205,8 @@ Rank|Bot|Rating
 #203|@BinaryBrain|1341
 #204|@BubbleBot2|1330
 #205|@THEANDROIDBOT|1317
-#206|@puisne|1316
-#207|@Challengeme2anything|1307
+#206|@Challengeme2anything|1307
+#207|@puisne|1307
 #208|@PiratesRust|1296
 #209|@Hand_coded_ai_90565|1292
 #210|@NoTallkOnlyGames|1291

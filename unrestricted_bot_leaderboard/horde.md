@@ -33,12 +33,12 @@ Rank|Bot|Rating
 #31|@Bullet_bot_0526|2344
 #32|@FayEFish|2331
 #33|@eNErGyOFbEiNGbOT|2326
-#34|@Alexnajax_Fan|2316
-#35|@colinbot|2311
-#36|@SuperGame5|2307
+#34|@colinbot|2317
+#35|@Alexnajax_Fan|2316
+#36|@chess_set_manager|2309
 #37|@AlfaBot|2293
-#38|@chess_set_manager|2292
-#39|@Fairy-Stockfish|2289
+#38|@Fairy-Stockfish|2289
+#39|@SuperGame5|2286
 #40|@Kizburb|2276
 #41|@Team_bot_08512|2267
 #42|@NewChessEngine-ai|2260
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@B0T5_RU13|1852
 #103|@Lili-Variants|1846
 #104|@nickl1bot|1840
-#105|@Martuni|1837
+#105|@Martuni|1835
 #106|@Breeze-Hot|1809
 #107|@GodelEscherBot|1805
 #108|@JemBok|1805

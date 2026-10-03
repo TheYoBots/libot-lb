@@ -2,11 +2,11 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2321
 #2|@is_BOSS|2276
-#3|@colinbot|2258
+#3|@colinbot|2243
 #4|@RaspFish|2238
-#5|@McDonalds1955|2233
+#5|@McDonalds1955|2225
 #6|@MEGA-NOOB-BOT|2224
-#7|@SuperGame5|2200
+#7|@SuperGame5|2201
 #8|@OSaurus|2131
 #9|@BattleBornThe4th|2129
 #10|@chess_set_manager|2121
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@Bot1nokk|2060
 #15|@bot1e|2048
 #16|@OpeningsBot|1895
-#17|@Martuni|1749
+#17|@Martuni|1751
 #18|@Bottios|1657
 #19|@Lancelbot|1586
 #20|@goldinho1bot|1568
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@hashcake1|1348
 #25|@reaper1bot|1346
 #26|@escarbo|1343
-#27|@puisne|1323
-#28|@DavidsGuterBot|1224
+#27|@puisne|1301
+#28|@DavidsGuterBot|1245
 #29|@genesis1bot|1214
-#30|@pawnrobot|1167
+#30|@pawnrobot|1166

@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@Belzedarian|2366
 #2|@MEGA-NOOB-BOT|2336
 #3|@ToromBot|2282
-#4|@McDonalds1955|2252
+#4|@McDonalds1955|2258
 #5|@is_BOSS|2235
 #6|@DarkOnBot|2173
 #7|@RaspFish|2173
@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@MDBOT|1916
 #16|@colinbot|1909
 #17|@chess_set_manager|1886
-#18|@Martuni|1571
+#18|@Martuni|1573
 #19|@StockfishLowDepth|1462
 #20|@Lancelbot|1452
 #21|@Bottios|1437
@@ -29,4 +29,4 @@ Rank|Bot|Rating
 #27|@escarbo|1207
 #28|@BubbleBot2|1162
 #29|@genesis1bot|1136
-#30|@pawnrobot|1106
+#30|@pawnrobot|1120
