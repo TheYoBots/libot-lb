@@ -181,10 +181,10 @@ Rank|Bot|Rating
 #179|@Hagfish|1593
 #180|@dragoodle|1577
 #181|@Danielbot|1575
-#182|@BushyCamper|1563
-#183|@newengine2022|1563
-#184|@FairyTailRegimeBot|1558
-#185|@puisne|1557
+#182|@puisne|1569
+#183|@BushyCamper|1563
+#184|@newengine2022|1563
+#185|@FairyTailRegimeBot|1558
 #186|@BattleBornThe1st|1549
 #187|@vidha-2009|1542
 #188|@DespacitoBot|1535
@@ -279,7 +279,7 @@ Rank|Bot|Rating
 #277|@PiratesRust|847
 #278|@GuineaBot3|845
 #279|@MateCheckCapture|828
-#280|@pawnrobot|818
+#280|@pawnrobot|817
 #281|@TrashBot|800
 #282|@MinOpponentMoves|783
 #283|@MontyPythonFlying|754

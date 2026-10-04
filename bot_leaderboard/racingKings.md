@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@MEGA-NOOB-BOT|2260
 #7|@is_BOSS|2255
 #8|@bot1e|2232
-#9|@SuperGame5|2228
+#9|@SuperGame5|2222
 #10|@colinbot|2059
 #11|@chess_set_manager|1989
 #12|@OSaurus|1973

@@ -3792,6 +3792,7 @@ weaklean
 weakstash
 weiawaga
 weini
+weirdstockfish
 weissbot
 wejbek
 weledar-bot
@@ -3813,6 +3814,7 @@ windowsi5bot
 winner4forever
 winterbot
 winwinner-bot
+wippy-bot
 wirtanen
 wispbyte1
 withgmstudy
@@ -3922,6 +3924,7 @@ zeputikkubot
 zer0_tw0
 zerbinetto
 zermixalot
+zero3-now
 zeroesandones
 zerowinx
 zeusbot
@@ -3946,6 +3949,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-wippy-bot
-zero3-now
-weirdstockfish
+kepler_bot
+chaotong_engine
+llmate
