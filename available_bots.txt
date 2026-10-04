@@ -702,6 +702,7 @@ challengeme2anything
 challenger_crazy
 chamberiajedrez
 championkitten
+chaotong_engine
 charibot
 charlesbot
 chat_bot
@@ -1838,6 +1839,7 @@ kazumibot
 kdpchess
 keks_bot
 kelpbot
+kepler_bot
 kerchbot
 keremcura15r
 kestrelstrike
@@ -2086,6 +2088,7 @@ littlesamsun
 littletony
 lizzardbot
 lk-stockfish
+llmate
 lndlgo
 lobsterbot
 loev07
@@ -3949,6 +3952,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kepler_bot
-chaotong_engine
-llmate
+vortexinbrp
+ariav8
+arabicahce

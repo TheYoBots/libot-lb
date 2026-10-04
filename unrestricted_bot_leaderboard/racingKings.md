@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@TheMatrix2025|2368
 #47|@Lili-Variants|2357
 #48|@Viet_BOT|2344
-#49|@FayEFish|2343
-#50|@virus_exe-bot|2342
+#49|@virus_exe-bot|2342
+#50|@FayEFish|2339
 #51|@BotsFanClub|2338
 #52|@EvenMatchup|2336
 #53|@ibep|2333
@@ -73,10 +73,10 @@ Rank|Bot|Rating
 #71|@Mega_BOT|2264
 #72|@abdcebot|2261
 #73|@MalanChess|2261
-#74|@MEGA-NOOB-BOT|2260
+#74|@MEGA-NOOB-BOT|2261
 #75|@chesshyperbot|2259
-#76|@is_BOSS|2255
-#77|@ESC_BOT|2253
+#76|@ESC_BOT|2253
+#77|@is_BOSS|2253
 #78|@relevantproblem|2251
 #79|@GodelEscherBot|2244
 #80|@bot1e|2232
@@ -98,7 +98,7 @@ Rank|Bot|Rating
 #96|@Johnsun|2181
 #97|@HuxZero|2176
 #98|@AnUtterlyKarBot|2174
-#99|@McDonalds1955|2149
+#99|@McDonalds1955|2154
 #100|@knight_128|2144
 #101|@RockingSuperstars|2131
 #102|@Kizburb|2126
