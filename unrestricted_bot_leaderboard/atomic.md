@@ -62,8 +62,8 @@ Rank|Bot|Rating
 #60|@ToromBot|2282
 #61|@vrnts_colinbot|2282
 #62|@TheMatrix2029|2278
-#63|@BGSBot|2272
-#64|@McDonalds1955|2269
+#63|@McDonalds1955|2277
+#64|@BGSBot|2272
 #65|@AtomicVsEngineBot|2268
 #66|@BattleBornThe5th|2268
 #67|@xiang-qi|2268
@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@Johnsun|2257
 #73|@YoBot_v2|2243
 #74|@STockfishdestroyBot|2227
-#75|@Kizburb|2220
-#76|@is_BOSS|2219
+#75|@is_BOSS|2221
+#76|@Kizburb|2220
 #77|@MagnusCarlsenTheBOT|2215
 #78|@GravityStorm|2214
 #79|@storng766555|2214
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@AX2XB2|1893
 #184|@TheAwesomeBot|1891
 #185|@Leetomic|1883
-#186|@chess_set_manager|1878
+#186|@chess_set_manager|1877
 #187|@kostasvl-bot|1877
 #188|@Worst-ai|1872
 #189|@B0T5_RU13|1871
@@ -279,7 +279,7 @@ Rank|Bot|Rating
 #277|@PineappleBot|1583
 #278|@malpamat|1579
 #279|@Chess_omar_2009|1575
-#280|@Martuni|1574
+#280|@Martuni|1572
 #281|@Pineapple-Friendly|1569
 #282|@bot-win-loh-nick|1554
 #283|@AntarticAnonymous|1553

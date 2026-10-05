@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@MEGA-NOOB-BOT|2261
 #7|@is_BOSS|2253
 #8|@bot1e|2232
-#9|@SuperGame5|2222
+#9|@SuperGame5|2217
 #10|@colinbot|2059
 #11|@chess_set_manager|1989
 #12|@OSaurus|1973
@@ -18,8 +18,6 @@ Rank|Bot|Rating
 #16|@malpamat|1453
 #17|@BattleBornThe2nd|1452
 #18|@Martuni|1395
-#19|@Lancelbot|1337
-#20|@goldinho1bot|1332
-#21|@dragoodle|1311
-#22|@BubbleBot2|1119
-#23|@escarbo|1052
+#19|@dragoodle|1311
+#20|@BubbleBot2|1119
+#21|@escarbo|1052

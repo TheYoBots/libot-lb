@@ -47,9 +47,9 @@ Rank|Bot|Rating
 #45|@Jussicas|2373
 #46|@TheMatrix2025|2368
 #47|@Lili-Variants|2357
-#48|@Viet_BOT|2344
-#49|@virus_exe-bot|2342
-#50|@FayEFish|2339
+#48|@FayEFish|2349
+#49|@Viet_BOT|2344
+#50|@virus_exe-bot|2342
 #51|@BotsFanClub|2338
 #52|@EvenMatchup|2336
 #53|@ibep|2333
@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@ResoluteBot|2225
 #82|@XXIstCentury|2225
 #83|@Resolved-Bot|2223
-#84|@SuperGame5|2222
+#84|@SuperGame5|2217
 #85|@HerokuHasnotplay|2215
 #86|@Zer0_Tw0|2210
 #87|@FairyTailRegimeBot|2206

@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@SF_Bot1nok|2472
 #4|@is_BOSS|2459
 #5|@DarkOnBot|2433
-#6|@RaspFish|2428
+#6|@RaspFish|2431
 #7|@bot1e|2410
 #8|@abdcebot|2343
 #9|@OSaurus|2315

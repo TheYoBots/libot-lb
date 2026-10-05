@@ -195,6 +195,7 @@ aquafrenzy
 aqwert123
 ar4asd1-bot
 ara-online
+arabicahce
 ararimbelami
 arasanx
 aravdadhaniabot
@@ -211,6 +212,7 @@ arebentr
 argentino_10
 argentino_50
 ariadne-bot
+ariav8
 arkiplayschess
 armageddon-fish
 arny_bot
@@ -3757,6 +3759,7 @@ voidbot
 voigtsbach
 volkchessengine
 volterbot
+vortexinbrp
 votechess
 votemymove
 vpbot
@@ -3952,6 +3955,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-vortexinbrp
-ariav8
-arabicahce
+vadbot
+snapleelaeasy
+jimmy_inc3710
+worserbot

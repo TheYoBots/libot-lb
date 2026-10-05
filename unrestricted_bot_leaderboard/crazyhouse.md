@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@McDonalds1955|2442
 #40|@pistol-play|2437
 #41|@DarkOnBot|2433
-#42|@RaspFish|2428
+#42|@RaspFish|2431
 #43|@bot1e|2410
 #44|@YoBot_v2|2394
 #45|@CloudBOT|2393

@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@Bobby_Fischer_BOT|2267
 #32|@bot1e|2259
 #33|@lord-bot|2258
-#34|@is_BOSS|2252
+#34|@is_BOSS|2254
 #35|@CheckmateX1|2251
 #36|@YoBot_v2|2242
 #37|@ResoluteBot|2233
@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@HuxZero|2163
 #53|@Mega_BOT|2148
 #54|@AI69|2143
-#55|@Team_bot_08512|2143
-#56|@SuperGame5|2137
+#55|@SuperGame5|2143
+#56|@Team_bot_08512|2143
 #57|@RobotTigerSlav|2136
 #58|@CherryFish_Bot|2124
 #59|@pistol-play|2121
@@ -97,8 +97,8 @@ Rank|Bot|Rating
 #95|@ESC_BOT|1976
 #96|@RockingSuperstars|1965
 #97|@Lila-Stockfish|1963
-#98|@chess_set_manager|1958
-#99|@PyChessBot|1957
+#98|@PyChessBot|1957
+#99|@chess_set_manager|1956
 #100|@abhisun_bot|1947
 #101|@Resolved-Bot|1942
 #102|@Pineapple-Friendly|1937
@@ -155,7 +155,7 @@ Rank|Bot|Rating
 #153|@BOT_Stockfish13|1686
 #154|@SCP079|1660
 #155|@patzerbot135|1655
-#156|@Martuni|1640
+#156|@Martuni|1638
 #157|@chessemkabot|1625
 #158|@BattleBornThe2nd|1623
 #159|@CoderDen732|1621
