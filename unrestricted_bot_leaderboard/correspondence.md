@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@wyxx210704_bot|3461
 #3|@pawny_bot|3377
 #4|@CuteBot|3191
-#5|@pirates1|3051
-#6|@ChronicGambler|3019
+#5|@ChronicGambler|3180
+#6|@pirates1|3051
 #7|@fibonachi|2971
 #8|@Grzechu86|2852
 #9|@zion-bot|2841
@@ -140,10 +140,10 @@ Rank|Bot|Rating
 #138|@centaur01|2050
 #139|@CrazyDog5892912|2050
 #140|@misteick_bot|2049
-#141|@Emmamaster|2043
-#142|@TeamChelsie|2043
-#143|@maello_bot|2042
-#144|@RavenEngine|2041
+#141|@RavenEngine|2045
+#142|@Emmamaster|2043
+#143|@TeamChelsie|2043
+#144|@maello_bot|2042
 #145|@abhisun_bot|2039
 #146|@Beyondcomprehension|2039
 #147|@faith_bot|2037

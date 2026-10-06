@@ -844,6 +844,7 @@ cinder-bot
 cizme
 classic_bot-v2
 classical-leela
+claude_bot
 claudyengine
 clawde
 clementyne1
@@ -903,6 +904,7 @@ cookiebot711
 cookiecheesychess
 cool_boy_bot
 coolman2021
+coolperson_bot1
 coralinebot
 coronamalware
 corr_sunfish
@@ -1787,6 +1789,7 @@ joke_2010
 jomfish_bot
 jomfishh
 joneca-bot
+jongsungkim
 jonnierman
 jonox
 josefschessenginebot
@@ -3126,6 +3129,7 @@ silitho
 sillybot
 silverfishengine
 silverpike
+sim3million
 simbelmyne-bot
 simintel
 simonericafonso
@@ -3959,7 +3963,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sim3million
-coolperson_bot1
-claude_bot
-jongsungkim
+attackerbotpython
+succulent-bot
+twosillypandas

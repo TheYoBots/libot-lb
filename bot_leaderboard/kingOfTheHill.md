@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2349
+#1|@MEGA-NOOB-BOT|2339
 #2|@abdcebot|2283
-#3|@is_BOSS|2263
-#4|@RaspFish|2198
+#3|@is_BOSS|2273
+#4|@RaspFish|2211
 #5|@chess_set_manager|1952
 #6|@Martuni|1636
 #7|@BattleBornThe2nd|1623
