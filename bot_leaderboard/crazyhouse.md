@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Bot1nokk|2482
-#2|@MEGA-NOOB-BOT|2474
+#2|@MEGA-NOOB-BOT|2475
 #3|@SF_Bot1nok|2472
 #4|@is_BOSS|2459
 #5|@DarkOnBot|2433
@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@BattleBornThe4th|2306
 #11|@kowalabi|2153
 #12|@soulgar|2146
-#13|@colinbot|2085
+#13|@colinbot|2062
 #14|@rachl1|2043
-#15|@chess_set_manager|2017
-#16|@puisne|1540
+#15|@chess_set_manager|2014
+#16|@puisne|1535
 #17|@Martuni|1362
 #18|@BubbleBot2|1352
 #19|@escarbo|1306

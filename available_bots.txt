@@ -1768,6 +1768,7 @@ jev-bot-2
 jevchessbot
 jgrizzbt-bot
 jibbby
+jimmy_inc3710
 jkcheeserchess
 jkiddingbot
 jmjansen_aus_bot
@@ -3181,6 +3182,7 @@ smasher23445
 smoking_python
 smolstock
 smoothrotation
+snapleelaeasy
 sneakybot21
 sobrietybot
 soccerbot
@@ -3696,6 +3698,7 @@ uvuvwevwevwesrevenge
 uxugin-bot
 uzenatch
 v7p3r_bot
+vadbot
 vala-bot
 valhalla-bot
 valiantbot
@@ -3836,6 +3839,7 @@ woodstyleengine
 world-best-ninja-jnr
 worldofchampions
 worldplayer035bot
+worserbot
 worst-ai
 worst_colinbot
 worstbotever123
@@ -3955,7 +3959,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-vadbot
-snapleelaeasy
-jimmy_inc3710
-worserbot
+sim3million
+coolperson_bot1
+claude_bot
+jongsungkim
