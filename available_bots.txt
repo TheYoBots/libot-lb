@@ -250,6 +250,7 @@ atomicvsenginebot
 attackbot
 attackbot2023
 attackerbot
+attackerbotpython
 attackingordefending
 attackking_bot
 atwell-chess-bot
@@ -3346,6 +3347,7 @@ styx_reckless
 sub_bot
 subgoal_chess
 subnorbot
+succulent-bot
 sudobot_chess
 suerberk
 sugar_xpro_nn
@@ -3656,6 +3658,7 @@ turtlebot
 tutorialbotelmejor
 tuxbot9000
 tworty2005
+twosillypandas
 twovariantbot
 twoweektwoslow
 tyrannix
@@ -3963,6 +3966,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-attackerbotpython
-succulent-bot
-twosillypandas

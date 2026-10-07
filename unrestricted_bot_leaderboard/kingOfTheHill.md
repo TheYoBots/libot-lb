@@ -28,9 +28,9 @@ Rank|Bot|Rating
 #26|@GoblinAjedrezAI|2299
 #27|@abdcebot|2283
 #28|@LudwigBOT|2281
-#29|@HIWIN1234|2274
-#30|@LoseisnotAvailablehe|2274
-#31|@is_BOSS|2273
+#29|@is_BOSS|2275
+#30|@HIWIN1234|2274
+#31|@LoseisnotAvailablehe|2274
 #32|@Bobby_Fischer_BOT|2267
 #33|@bot1e|2259
 #34|@lord-bot|2258
@@ -98,7 +98,7 @@ Rank|Bot|Rating
 #96|@RockingSuperstars|1965
 #97|@Lila-Stockfish|1963
 #98|@PyChessBot|1957
-#99|@chess_set_manager|1952
+#99|@chess_set_manager|1951
 #100|@abhisun_bot|1947
 #101|@Resolved-Bot|1942
 #102|@Pineapple-Friendly|1937

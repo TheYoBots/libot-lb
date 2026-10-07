@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@MalanChess|2261
 #74|@chesshyperbot|2259
 #75|@MEGA-NOOB-BOT|2255
-#76|@ESC_BOT|2253
-#77|@is_BOSS|2252
+#76|@is_BOSS|2254
+#77|@ESC_BOT|2253
 #78|@relevantproblem|2251
 #79|@GodelEscherBot|2244
 #80|@bot1e|2232
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@calico1|2041
 #115|@Crepusculum|2036
 #116|@EstmileBot|2018
-#117|@chess_set_manager|2007
+#117|@chess_set_manager|2005
 #118|@Less_of_a_threat|1979
 #119|@OSaurus|1973
 #120|@BGSBot|1969

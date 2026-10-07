@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@is_BOSS|2322
+#1|@is_BOSS|2325
 #2|@ToromBot|2321
 #3|@colinbot|2250
 #4|@MEGA-NOOB-BOT|2235
 #5|@RaspFish|2228
-#6|@McDonalds1955|2201
+#6|@McDonalds1955|2220
 #7|@SuperGame5|2157
-#8|@chess_set_manager|2113
+#8|@chess_set_manager|2110
 #9|@abdcebot|2103
 #10|@SF_Bot1nok|2069
 #11|@Bot1nokk|2060
@@ -18,5 +18,5 @@ Rank|Bot|Rating
 #16|@Bottios|1668
 #17|@BubbleBot2|1391
 #18|@puisne|1320
-#19|@pawnrobot|1196
+#19|@pawnrobot|1192
 #20|@DavidsGuterBot|1186

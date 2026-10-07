@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@MEGA-NOOB-BOT|2487
 #2|@Bot1nokk|2482
 #3|@SF_Bot1nok|2472
-#4|@is_BOSS|2456
+#4|@is_BOSS|2461
 #5|@RaspFish|2432
 #6|@bot1e|2410
 #7|@abdcebot|2343
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@colinbot|2069
 #11|@rachl1|2037
 #12|@chess_set_manager|2014
-#13|@puisne|1535
+#13|@puisne|1540
 #14|@Martuni|1362
 #15|@BubbleBot2|1351
 #16|@escarbo|1306
