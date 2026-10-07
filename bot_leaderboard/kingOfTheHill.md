@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2339
-#2|@abdcebot|2283
-#3|@is_BOSS|2275
-#4|@RaspFish|2211
-#5|@chess_set_manager|1951
+#1|@MEGA-NOOB-BOT|2337
+#2|@is_BOSS|2284
+#3|@abdcebot|2283
+#4|@RaspFish|2215
+#5|@chess_set_manager|1946
 #6|@Martuni|1636
 #7|@BattleBornThe2nd|1623
 #8|@BubbleBot2|1330
