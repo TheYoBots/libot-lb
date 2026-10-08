@@ -48,10 +48,10 @@ Rank|Bot|Rating
 #46|@rascal1|2261
 #47|@YoBot_v2|2257
 #48|@colinbot|2250
-#49|@MEGA-NOOB-BOT|2232
-#50|@OlympusCz|2231
-#51|@RaspFish|2228
-#52|@McDonalds1955|2216
+#49|@McDonalds1955|2237
+#50|@MEGA-NOOB-BOT|2232
+#51|@OlympusCz|2231
+#52|@RaspFish|2228
 #53|@Vinh_VariantsBot|2215
 #54|@Kizburb|2214
 #55|@beastie1|2210

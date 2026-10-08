@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@NilatacBot|2135
 #18|@Martuni|2133
 #19|@Bottios|2004
-#20|@CatNail|1967
+#20|@CatNail|1950
 #21|@StockfishLowDepth|1364
 #22|@pawnrobot|1174
 #23|@Randmaster_EGTB|700

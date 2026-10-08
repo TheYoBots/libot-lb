@@ -3268,6 +3268,7 @@ stockblitz_v1
 stockbooktest24
 stockbotfisher
 stockbrotv1
+stockcotsfish
 stockdory
 stockfail
 stockfisch16
@@ -3434,6 +3435,7 @@ teensycheesy
 tekibot
 telefon2232_bot
 telemost
+tempocore
 temporai
 tenborg
 tensorpupper
@@ -3933,6 +3935,7 @@ zahlen
 zalgirisbot
 zalgirisbot2
 zamuchess
+zanebot
 zas_en_toda_la_boca
 ze_rook
 zeekat
@@ -3966,6 +3969,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-zanebot
-stockcotsfish
-tempocore

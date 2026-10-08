@@ -192,9 +192,9 @@ Rank|Bot|Rating
 #190|@Bottios|2004
 #191|@CrayyBot|1989
 #192|@BetaZ|1973
-#193|@CatNail|1967
-#194|@antichesssss|1964
-#195|@Menganti|1963
+#193|@antichesssss|1964
+#194|@Menganti|1963
+#195|@CatNail|1950
 #196|@CloudBOT|1950
 #197|@TestingBot1|1914
 #198|@Crepusculum|1881

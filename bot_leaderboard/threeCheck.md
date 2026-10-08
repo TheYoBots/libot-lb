@@ -4,9 +4,9 @@ Rank|Bot|Rating
 #2|@is_BOSS|2312
 #3|@FayEFish|2307
 #4|@colinbot|2250
-#5|@MEGA-NOOB-BOT|2232
-#6|@RaspFish|2228
-#7|@McDonalds1955|2216
+#5|@McDonalds1955|2237
+#6|@MEGA-NOOB-BOT|2232
+#7|@RaspFish|2228
 #8|@SuperGame5|2157
 #9|@chess_set_manager|2110
 #10|@abdcebot|2103
