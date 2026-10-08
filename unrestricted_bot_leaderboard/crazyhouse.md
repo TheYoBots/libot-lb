@@ -30,11 +30,11 @@ Rank|Bot|Rating
 #28|@LudwigBOT|2527
 #29|@X2-ITL|2501
 #30|@Bot1nokk|2482
-#31|@SF_Bot1nok|2472
-#32|@is_BOSS|2468
-#33|@MEGA-NOOB-BOT|2468
-#34|@Berserk12-X|2467
-#35|@Fairy-Stockfish|2464
+#31|@MEGA-NOOB-BOT|2472
+#32|@SF_Bot1nok|2472
+#33|@Berserk12-X|2467
+#34|@Fairy-Stockfish|2464
+#35|@is_BOSS|2462
 #36|@Leelabotmaster|2458
 #37|@TheMatrix2029|2458
 #38|@abhisun_bot|2444
@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@DarkOnBot|2433
 #41|@RaspFish|2432
 #42|@bot1e|2410
-#43|@McDonalds1955|2398
+#43|@McDonalds1955|2405
 #44|@YoBot_v2|2394
 #45|@CloudBOT|2393
 #46|@NienishiEngine|2392

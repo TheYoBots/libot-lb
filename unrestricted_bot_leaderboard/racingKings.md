@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@EvenMatchup|2336
 #52|@ibep|2333
 #53|@CloudBot_v2|2331
-#54|@FayEFish|2323
+#54|@FayEFish|2319
 #55|@Worst-ai|2319
 #56|@Bot_AOOP11|2314
 #57|@KingfishX|2312
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@abdcebot|2261
 #73|@MalanChess|2261
 #74|@chesshyperbot|2259
-#75|@is_BOSS|2257
+#75|@is_BOSS|2259
 #76|@MEGA-NOOB-BOT|2256
 #77|@ESC_BOT|2253
 #78|@relevantproblem|2251
@@ -94,8 +94,8 @@ Rank|Bot|Rating
 #92|@OlympusCz|2200
 #93|@Trainspotter|2200
 #94|@SuperGame5|2196
-#95|@Hyper-Stockfish|2189
-#96|@McDonalds1955|2187
+#95|@McDonalds1955|2194
+#96|@Hyper-Stockfish|2189
 #97|@Johnsun|2181
 #98|@HuxZero|2176
 #99|@AnUtterlyKarBot|2174
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@calico1|2041
 #115|@Crepusculum|2036
 #116|@EstmileBot|2018
-#117|@chess_set_manager|2004
+#117|@chess_set_manager|2002
 #118|@Less_of_a_threat|1979
 #119|@OSaurus|1973
 #120|@BGSBot|1969
