@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@FayEFish|2319
+#1|@FayEFish|2314
 #2|@BattleBornThe5th|2294
 #3|@rascal1|2284
 #4|@RaspFish|2269
-#5|@is_BOSS|2259
-#6|@MEGA-NOOB-BOT|2256
+#5|@is_BOSS|2260
+#6|@MEGA-NOOB-BOT|2260
 #7|@SuperGame5|2196
-#8|@chess_set_manager|2002
+#8|@chess_set_manager|1997
 #9|@OpeningsBot|1711
 #10|@BattleBornThe2nd|1452
 #11|@Martuni|1394

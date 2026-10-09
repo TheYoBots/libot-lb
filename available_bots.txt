@@ -227,6 +227,7 @@ arya1392dr-bot
 asaadbot
 asalfish_15
 asdfbot2
+ashasevidence
 ashnostromo
 asimusbot
 ask-aatk-bot
@@ -3814,6 +3815,7 @@ weakbot
 weakchesszero-wc0
 weaklean
 weakstash
+weeebot
 weiawaga
 weini
 weirdstockfish
@@ -3975,5 +3977,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-weeebot
-ashasevidence
+jinko-chan
+alphanolla
+sbnovella
+learning32
+kavinengine
