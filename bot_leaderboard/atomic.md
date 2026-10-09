@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@Belzedarian|2385
 #2|@MEGA-NOOB-BOT|2322
-#3|@ToromBot|2275
-#4|@McDonalds1955|2273
+#3|@McDonalds1955|2287
+#4|@ToromBot|2275
 #5|@is_BOSS|2235
 #6|@RaspFish|2182
 #7|@SuperGame5|2128
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@rachl1|1856
 #12|@Noel-bot|1761
 #13|@Martuni|1578
-#14|@StockfishLowDepth|1495
+#14|@StockfishLowDepth|1483
 #15|@Bottios|1414
 #16|@escarbo|1204
 #17|@BubbleBot2|1137

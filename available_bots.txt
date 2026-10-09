@@ -817,6 +817,7 @@ chesstango_bot
 chesster-rubenstein
 chesstigerpro
 chesstoj
+chesstransformerbot
 chesstver
 chessuniverse-guy
 chessvbot
@@ -2095,6 +2096,7 @@ littlesamsun
 littletony
 lizzardbot
 lk-stockfish
+llianc_bot
 llmate
 lndlgo
 lobsterbot
@@ -2119,6 +2121,7 @@ losingbot
 loss-not-defined
 louischess48-6k
 lowfish
+lowhangingfruits
 lowkeybot
 lozza-bot
 ltchessbot
@@ -3171,6 +3174,7 @@ skzapbot
 slav-tech
 sldeadshot22
 sleepmindengine
+sleepypawnofficial
 slice-bot
 slimebathtub
 slimiestsquid
@@ -3572,6 +3576,7 @@ tle-of-water
 tm-sovietschool
 tmfish
 tnt_crecerbot
+to299d
 tobegen
 togaii
 tokenstealer
@@ -3771,6 +3776,7 @@ voidbot
 voigtsbach
 volkchessengine
 volterbot
+vortexaurafarm
 vortexinbrp
 votechess
 votemymove
@@ -3969,9 +3975,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-vortexaurafarm
-llianc_bot
-chesstransformerbot
-sleepypawnofficial
-lowhangingfruits
-to299d
+weeebot
+ashasevidence

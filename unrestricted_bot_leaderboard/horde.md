@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@FireFishBOT|2726
 #10|@bot1e|2702
 #11|@PepsiForAll|2699
-#12|@RaspFish|2690
+#12|@RaspFish|2688
 #13|@Bot1nokk|2671
 #14|@SF_Bot1nok|2644
 #15|@ttBOT|2584

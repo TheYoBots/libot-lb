@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@ToromBot|2321
 #2|@FayEFish|2303
 #3|@is_BOSS|2294
-#4|@colinbot|2250
-#5|@McDonalds1955|2248
+#4|@McDonalds1955|2261
+#5|@colinbot|2250
 #6|@MEGA-NOOB-BOT|2246
 #7|@RaspFish|2219
 #8|@SuperGame5|2157

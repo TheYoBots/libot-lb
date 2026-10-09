@@ -45,10 +45,10 @@ Rank|Bot|Rating
 #43|@TheMatrix2025|2272
 #44|@vrnts_colinbot|2266
 #45|@HIWIN1234|2261
-#46|@rascal1|2261
-#47|@YoBot_v2|2257
-#48|@colinbot|2250
-#49|@McDonalds1955|2248
+#46|@McDonalds1955|2261
+#47|@rascal1|2261
+#48|@YoBot_v2|2257
+#49|@colinbot|2250
 #50|@MEGA-NOOB-BOT|2246
 #51|@OlympusCz|2231
 #52|@RaspFish|2219

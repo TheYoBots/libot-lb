@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@abdcebot|2735
-#2|@RaspFish|2690
+#2|@RaspFish|2688
 #3|@SF_Bot1nok|2644
 #4|@McDonalds1955|2540
 #5|@Leetomic|2506

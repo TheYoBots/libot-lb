@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@Coolman2021|2879
 #12|@TheMatrix2029|2866
 #13|@UltronBot|2859
-#14|@McDonalds1955|2836
-#15|@TorBot|2824
-#16|@WennDieSoldatBOT|2818
+#14|@TorBot|2824
+#15|@WennDieSoldatBOT|2818
+#16|@McDonalds1955|2814
 #17|@RaspFish|2814
 #18|@TacticalBot|2796
 #19|@varient-chess-bot1|2792
@@ -175,8 +175,8 @@ Rank|Bot|Rating
 #173|@AntiChessBot|2142
 #174|@AnUtterlyKarBot|2134
 #175|@Martuni|2133
-#176|@NilatacBot|2133
-#177|@XXIstCentury|2131
+#176|@XXIstCentury|2131
+#177|@NilatacBot|2120
 #178|@JemBok|2106
 #179|@PyChessBot|2102
 #180|@TurkiyeHogwartsBOT|2099
@@ -195,7 +195,7 @@ Rank|Bot|Rating
 #193|@antichesssss|1964
 #194|@Menganti|1963
 #195|@CloudBOT|1950
-#196|@CatNail|1949
+#196|@CatNail|1935
 #197|@TestingBot1|1914
 #198|@Crepusculum|1881
 #199|@NoTallkOnlyGames|1871

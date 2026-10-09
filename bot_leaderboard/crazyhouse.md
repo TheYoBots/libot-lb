@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@colinbot|2069
 #9|@rachl1|2037
 #10|@chess_set_manager|2013
-#11|@puisne|1530
+#11|@puisne|1537
 #12|@Martuni|1362
 #13|@BubbleBot2|1351
 #14|@escarbo|1306

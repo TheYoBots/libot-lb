@@ -15,10 +15,9 @@ Rank|Bot|Rating
 #13|@BattleBornThe4th|2299
 #14|@kowalabi|2293
 #15|@Martuni|2133
-#16|@NilatacBot|2133
+#16|@NilatacBot|2120
 #17|@Bottios|2004
-#18|@CatNail|1949
+#18|@CatNail|1935
 #19|@StockfishLowDepth|1364
-#20|@pawnrobot|1188
-#21|@Randmaster_EGTB|724
-#22|@Randmaster_Bot|547
+#20|@Randmaster_EGTB|724
+#21|@Randmaster_Bot|547

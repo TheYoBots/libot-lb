@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@BlueMoonBot|3512
+#1|@BlueMoonBot|3531
 #2|@wyxx210704_bot|3461
 #3|@pawny_bot|3377
-#4|@CuteBot|3195
+#4|@CuteBot|3185
 #5|@ChronicGambler|3117
 #6|@pirates1|3051
 #7|@fibonachi|2971
@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@Moment-That-Inspires|2705
 #14|@H-Zero|2650
 #15|@ChamberiAjedrez|2645
-#16|@zanebot|2638
-#17|@pawnocchio_bot|2623
-#18|@pawn_git|2607
+#16|@pawnocchio_bot|2623
+#17|@zanebot|2622
+#18|@pawn_git|2620
 #19|@maia3-79m_2400|2591
 #20|@LeelaZero-UK|2585
 #21|@CheckmateX1|2556
