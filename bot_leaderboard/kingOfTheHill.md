@@ -5,8 +5,10 @@ Rank|Bot|Rating
 #3|@rascal1|2304
 #4|@is_BOSS|2291
 #5|@RaspFish|2208
-#6|@chess_set_manager|1948
-#7|@Martuni|1636
-#8|@BattleBornThe2nd|1623
-#9|@BubbleBot2|1330
-#10|@DavidsGuterBot|1274
+#6|@beastie1|2174
+#7|@calico1|2073
+#8|@chess_set_manager|1948
+#9|@Martuni|1636
+#10|@BattleBornThe2nd|1623
+#11|@BubbleBot2|1330
+#12|@DavidsGuterBot|1274

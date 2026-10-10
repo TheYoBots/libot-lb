@@ -112,6 +112,7 @@ alphagpt
 alphaleela0
 alphaminustwo
 alphamovebot
+alphanolla
 alphaonebot
 alphazher0
 altair8000
@@ -1774,6 +1775,7 @@ jevchessbot
 jgrizzbt-bot
 jibbby
 jimmy_inc3710
+jinko-chan
 jkcheeserchess
 jkiddingbot
 jmjansen_aus_bot
@@ -1842,6 +1844,7 @@ kasparovkarpov_bot
 katefish
 kathhhh
 katzebot
+kavinengine
 kayrakropro_bot
 kazakhfirstbot
 kazumibot
@@ -1976,6 +1979,7 @@ lc0test
 lc0v24
 lczer0
 leamoreau
+learning32
 learningchess6_bot
 learningsequence
 lecousindekasparov
@@ -3056,6 +3060,7 @@ sau1001
 sauwkhamari
 savenikitosikbots
 saxtonengine
+sbnovella
 sc0pe-ma3str0
 scalaqueen
 schachprog
@@ -3977,8 +3982,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-jinko-chan
-alphanolla
-sbnovella
-learning32
-kavinengine
+mackbot
+fourcuriouspandas

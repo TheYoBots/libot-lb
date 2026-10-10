@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@BlueMoonBot|3531
 #2|@wyxx210704_bot|3461
 #3|@pawny_bot|3377
-#4|@CuteBot|3217
-#5|@ChronicGambler|3117
-#6|@pirates1|3051
+#4|@CuteBot|3238
+#5|@pirates1|3051
+#6|@ChronicGambler|3031
 #7|@fibonachi|2971
 #8|@Grzechu86|2852
 #9|@RandomKerbal|2816
