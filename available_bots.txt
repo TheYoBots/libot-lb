@@ -1345,6 +1345,7 @@ fornax-engine
 fortunechess
 fougade
 fourbot
+fourcuriouspandas
 foxchessbot
 fpga-chess
 franiquilafish
@@ -2157,6 +2158,7 @@ m0e7gr77
 m8000_bot
 mac-bot
 machinamas
+mackbot
 macos23
 macroman952
 macuser60
@@ -3982,5 +3984,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-mackbot
-fourcuriouspandas
+kingzbot
+gpt579419
+battlebornthe3rd
+ravager_bot
