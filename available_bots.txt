@@ -632,6 +632,7 @@ butzke_bot
 byte-knight
 bytechessbot
 byteknightengine
+c-t-r-l
 c0br4_bot
 c0kval
 c0llision
@@ -1509,6 +1510,7 @@ guineabot3
 guineabot3compact
 guitarfish-engine
 gun-bot
+guofish
 gyatsobot
 gymerduybach
 h-zero
@@ -2070,6 +2072,7 @@ leosbot
 lermerbot
 less_of_a_threat
 less_than_one
+levymaia
 liboto
 libott
 lichapibot
@@ -3032,6 +3035,7 @@ sacrificialsage
 safal027_bot
 safrad-3
 sai_srihith
+saisrankarthik_7
 sakunia
 salfachessone
 salmonchess9
@@ -3594,6 +3598,7 @@ togaii
 tokenstealer
 toluene1140
 toluene1140_experime
+tomabbot
 tomahawkbot
 tombot1234
 tomewyrm
@@ -3988,8 +3993,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-saisrankarthik_7
-c-t-r-l
-guofish
-levymaia
-tomabbot
+stockfish_bot2
+lc0-latest
+chessgeniusbot
+funcomp
