@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@BlueMoonBot|3531
-#2|@wyxx210704_bot|3461
+#1|@wyxx210704_bot|3461
+#2|@BlueMoonBot|3442
 #3|@pawny_bot|3377
-#4|@CuteBot|3259
+#4|@CuteBot|3230
 #5|@pirates1|3051
 #6|@ChronicGambler|3031
 #7|@fibonachi|2971
@@ -371,7 +371,7 @@ Rank|Bot|Rating
 #369|@dtsudo|1449
 #370|@CheezyGlizzyEater|1444
 #371|@AndrewYXZBot|1436
-#372|@croco_little_bot|1431
+#372|@croco_little_bot|1429
 #373|@ReallyBadPlayerBot|1428
 #374|@LuciferCat|1426
 #375|@JupiterBot|1421

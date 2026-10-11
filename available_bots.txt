@@ -310,6 +310,7 @@ barryallen14
 basbabas
 battlebornthe1st
 battlebornthe2nd
+battlebornthe3rd
 battlebornthe4th
 battlebornthe5th
 battlebot
@@ -1467,6 +1468,7 @@ gothamchessbot
 goutambot
 gpt-5-mini-high
 gpt35-turbo-instruct
+gpt579419
 gptplayschess
 grabdebottom
 graduallearning
@@ -1880,6 +1882,7 @@ kingfishbot
 kingfishx
 kingjonathanbot
 kingsgambot
+kingzbot
 kireevi
 kirinchessbot
 kissenginev2
@@ -2883,6 +2886,7 @@ raspfish
 ratkingbot
 ratsu-bot
 raubfish_me262
+ravager_bot
 raven030
 ravenengine
 ravenengine_depth2
@@ -3984,7 +3988,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kingzbot
-gpt579419
-battlebornthe3rd
-ravager_bot
+saisrankarthik_7
+c-t-r-l
+guofish
+levymaia
+tomabbot
