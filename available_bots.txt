@@ -3148,6 +3148,7 @@ shumilovleela
 sicilianviper
 sidonia-chessengine
 sieu_cap_vip_pro_bot
+silasly
 silitho
 sillybot
 silverfishengine
@@ -3997,4 +3998,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-silasly
+jaingalt-bot
+pachetron
+killerstapler420bot
