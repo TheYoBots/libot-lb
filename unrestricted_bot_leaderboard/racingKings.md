@@ -121,8 +121,8 @@ Rank|Bot|Rating
 #119|@Less_of_a_threat|1979
 #120|@BGSBot|1969
 #121|@Yemmi-Yemmi|1964
-#122|@StockfishLowDepth|1956
-#123|@admin-bot|1955
+#122|@admin-bot|1955
+#123|@StockfishLowDepth|1945
 #124|@MyNameIsSpeedy|1935
 #125|@MDBOT|1929
 #126|@Pineapple-Friendly|1912

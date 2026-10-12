@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@PsychedelicAtomic|2296
 #57|@BOT_Stockfish13|2288
 #58|@ToromBot|2288
-#59|@AndromedaSX1|2284
-#60|@McDonalds1955|2283
+#59|@McDonalds1955|2285
+#60|@AndromedaSX1|2284
 #61|@vrnts_colinbot|2282
 #62|@TheMatrix2029|2278
 #63|@FayEFish|2275
@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@MalanChess|2134
 #122|@Nobody11892|2134
 #123|@SF_Bot1nok|2129
-#124|@SuperGame5|2128
-#125|@abdcebot|2125
+#124|@abdcebot|2128
+#125|@SuperGame5|2128
 #126|@Variantenkoning|2121
 #127|@AnUtterlyKarBot|2113
 #128|@lightspeed_bot|2105
@@ -331,7 +331,7 @@ Rank|Bot|Rating
 #329|@BOSS_CHESS_BOT|1431
 #330|@goldinho1bot|1429
 #331|@Blazum|1426
-#332|@Bottios|1425
+#332|@Bottios|1423
 #333|@random_movesBOT|1422
 #334|@shakboy9824453231op|1420
 #335|@bunny_2021|1413
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@Trumpfor2O2O|1386
 #342|@DrunkenMasterEngine|1385
 #343|@anonymous5612|1384
-#344|@StockfishLowDepth|1367
+#344|@StockfishLowDepth|1370
 #345|@SLvov-bot|1359
 #346|@ChessBotHere|1351
 #347|@BattleBornThe1st|1345

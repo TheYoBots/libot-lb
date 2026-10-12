@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Kingzbot|3137
+#1|@Kingzbot|3133
 #2|@EmptikBot|3070
 #3|@Fairy_Belzedar|3044
-#4|@abdcebot|3037
+#4|@abdcebot|3039
 #5|@VariantsBot|3021
 #6|@UltimateVariants|2978
 #7|@ToromBot|2969
@@ -197,8 +197,8 @@ Rank|Bot|Rating
 #195|@BetaZ|1973
 #196|@antichesssss|1964
 #197|@Menganti|1963
-#198|@CatNail|1954
-#199|@CloudBOT|1950
+#198|@CloudBOT|1950
+#199|@CatNail|1922
 #200|@TestingBot1|1914
 #201|@Crepusculum|1881
 #202|@NoTallkOnlyGames|1871

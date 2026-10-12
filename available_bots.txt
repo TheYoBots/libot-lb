@@ -790,6 +790,7 @@ chessenginestockfish
 chesserclonebot
 chessfbot
 chessfybot
+chessgeniusbot
 chessgpt_11
 chesshackerhehe
 chessharmon
@@ -1368,6 +1369,7 @@ frozenightengine
 frozenrook
 fruity23
 fschess-engine
+funcomp
 funebot
 funeddy-robotik
 funnsams_bot
@@ -1976,6 +1978,7 @@ lbegui12_bot
 lbot007
 lc0
 lc0-bot
+lc0-latest
 lc0_1shot
 lc0_bongclown
 lc0_bs
@@ -3307,6 +3310,7 @@ stockfish224
 stockfish5_3100elo
 stockfish9-fullpower
 stockfish_13-1
+stockfish_bot2
 stockfish_dev
 stockfish_i7
 stockfish_johan
@@ -3993,7 +3997,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-stockfish_bot2
-lc0-latest
-chessgeniusbot
-funcomp
+silasly

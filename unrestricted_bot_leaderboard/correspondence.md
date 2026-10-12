@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@RandomKerbal|2816
 #10|@PlatinumBOT|2756
 #11|@Magicianrobot|2740
-#12|@zion-bot|2730
+#12|@zion-bot|2720
 #13|@Moment-That-Inspires|2705
 #14|@H-Zero|2650
 #15|@ChamberiAjedrez|2645
@@ -199,7 +199,7 @@ Rank|Bot|Rating
 #197|@TheMatrix2025|1872
 #198|@ViVe_2_chess_pro|1869
 #199|@pi0w|1865
-#200|@Jibbby|1858
+#200|@Jibbby|1862
 #201|@Thera_Engine|1857
 #202|@PineOnPi|1856
 #203|@ayodia|1853
@@ -373,7 +373,7 @@ Rank|Bot|Rating
 #371|@AndrewYXZBot|1436
 #372|@ReallyBadPlayerBot|1428
 #373|@LuciferCat|1426
-#374|@croco_little_bot|1424
+#374|@croco_little_bot|1422
 #375|@JupiterBot|1421
 #376|@sunfish_rs|1414
 #377|@emptedkiller|1413

@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@calico1|2026
 #12|@chess_set_manager|1999
 #13|@OSaurus|1999
-#14|@StockfishLowDepth|1956
+#14|@StockfishLowDepth|1945
 #15|@BattleBornThe4th|1906
 #16|@BattleBornThe3rd|1796
 #17|@rachl1|1795

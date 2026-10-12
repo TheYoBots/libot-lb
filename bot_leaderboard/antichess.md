@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@abdcebot|3037
+#1|@abdcebot|3039
 #2|@Bot1nokk|2918
 #3|@SF_Bot1nok|2911
 #4|@bot1e|2902
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@malpamat|2042
 #25|@Bottios|2013
 #26|@BattleBornThe2nd|2011
-#27|@CatNail|1954
+#27|@CatNail|1922
 #28|@spyros1bot|1782
 #29|@Lancelbot|1594
 #30|@goldinho1bot|1424
