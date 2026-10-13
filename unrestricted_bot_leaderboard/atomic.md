@@ -274,10 +274,10 @@ Rank|Bot|Rating
 #272|@OpeningsBot|1610
 #273|@ahmet-botahmet|1607
 #274|@Challengeme2anything|1605
-#275|@JustDontFlagMe|1593
-#276|@admin-bot|1592
-#277|@JustAnother_BOT|1589
-#278|@Martuni|1589
+#275|@Martuni|1595
+#276|@JustDontFlagMe|1593
+#277|@admin-bot|1592
+#278|@JustAnother_BOT|1589
 #279|@OpLdksijfKJ|1589
 #280|@PROBOT123567|1589
 #281|@PineappleBot|1583
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@Trumpfor2O2O|1386
 #342|@DrunkenMasterEngine|1385
 #343|@anonymous5612|1384
-#344|@StockfishLowDepth|1381
+#344|@StockfishLowDepth|1378
 #345|@SLvov-bot|1359
 #346|@ChessBotHere|1351
 #347|@BattleBornThe1st|1345

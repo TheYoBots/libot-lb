@@ -1748,6 +1748,7 @@ jackalbot
 jackedfish
 jacobsbot
 jaimelesmacarons
+jaingalt-bot
 jake-bot
 jakgro
 jakyllbot
@@ -1877,6 +1878,7 @@ kibitzerbot
 kid_ch3ssmast3r
 kidobot2911
 kidoffchess
+killerstapler420bot
 kimchi_bot
 kimchiengine
 king-forward-bot
@@ -2646,6 +2648,7 @@ oxygenospro
 ozibot
 ozinatorbot
 p-chessbot
+pachetron
 pacman3000
 paconbot
 paddibot
@@ -3998,6 +4001,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-jaingalt-bot
-pachetron
-killerstapler420bot
+thegrobbot

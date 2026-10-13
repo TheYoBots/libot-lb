@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@MMC_HUANGBAI|2550
 #69|@PetersTestBot|2549
 #70|@is_BOSS|2546
-#71|@LudwigBOT|2545
-#72|@colinbot|2542
+#71|@colinbot|2545
+#72|@LudwigBOT|2545
 #73|@AlfaBot|2541
 #74|@RockingSuperstars|2540
 #75|@Leelabotmaster|2538
@@ -132,8 +132,8 @@ Rank|Bot|Rating
 #130|@TeamChelsie|2331
 #131|@BattleBornThe4th|2321
 #132|@AI69|2312
-#133|@kowalabi|2312
-#134|@NewChessEngine-ai|2309
+#133|@NewChessEngine-ai|2309
+#134|@kowalabi|2308
 #135|@Kizburb|2307
 #136|@MagicverseBOT|2306
 #137|@abhisun_bot|2305
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@antichesssss|1964
 #197|@Menganti|1963
 #198|@CloudBOT|1950
-#199|@CatNail|1947
+#199|@CatNail|1943
 #200|@TestingBot1|1914
 #201|@Crepusculum|1881
 #202|@NoTallkOnlyGames|1871

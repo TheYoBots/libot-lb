@@ -9,14 +9,14 @@ Rank|Bot|Rating
 #7|@rascal1|2618
 #8|@BattleBornThe5th|2614
 #9|@is_BOSS|2546
-#10|@colinbot|2542
+#10|@colinbot|2545
 #11|@chess_set_manager|2525
 #12|@SuperGame5|2505
 #13|@MEGA-NOOB-BOT|2461
 #14|@beastie1|2458
 #15|@anti-bot|2335
 #16|@BattleBornThe4th|2321
-#17|@kowalabi|2312
+#17|@kowalabi|2308
 #18|@soulgar|2198
 #19|@NilatacBot|2164
 #20|@rachl1|2158
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@malpamat|2042
 #26|@Bottios|2013
 #27|@BattleBornThe2nd|2011
-#28|@CatNail|1947
+#28|@CatNail|1943
 #29|@spyros1bot|1782
 #30|@Lancelbot|1594
 #31|@StockfishLowDepth|1428
@@ -40,4 +40,3 @@ Rank|Bot|Rating
 #38|@reaper1bot|1009
 #39|@escarbo|914
 #40|@Randmaster_EGTB|722
-#41|@Randmaster_Bot|547

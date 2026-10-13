@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@pawny_bot|3377
 #4|@CuteBot|3208
 #5|@pirates1|3051
-#6|@ChronicGambler|2983
-#7|@fibonachi|2971
+#6|@fibonachi|2971
+#7|@ChronicGambler|2949
 #8|@Grzechu86|2852
 #9|@RandomKerbal|2816
 #10|@PlatinumBOT|2756
@@ -324,8 +324,8 @@ Rank|Bot|Rating
 #322|@Laurin03|1600
 #323|@SLvov-bot|1600
 #324|@ReallyCrazyBOT|1598
-#325|@Weiawaga|1597
-#326|@killerstapler420BOT|1597
+#325|@killerstapler420BOT|1597
+#326|@Weiawaga|1597
 #327|@EstmileBot|1595
 #328|@Parth_Dhage_2|1594
 #329|@dlvc-bot|1592

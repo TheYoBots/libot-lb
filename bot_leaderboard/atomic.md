@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@Noel-bot|1743
 #23|@JemBok|1717
 #24|@clementyne1|1660
-#25|@Martuni|1589
+#25|@Martuni|1595
 #26|@malpamat|1582
 #27|@BattleBornThe2nd|1510
 #28|@spyros1bot|1493
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@goldinho1bot|1429
 #31|@Bottios|1423
 #32|@dragoodle|1395
-#33|@StockfishLowDepth|1381
+#33|@StockfishLowDepth|1378
 #34|@BattleBornThe1st|1345
 #35|@hashcake1|1230
 #36|@reaper1bot|1222
