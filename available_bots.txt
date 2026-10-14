@@ -608,6 +608,7 @@ brosubot
 bruceleela
 brutestrength
 bryan_12345
+brybrybot
 bsergey11-bot
 bstaf
 bstba
@@ -2529,6 +2530,7 @@ nmi_bot
 nnue
 nnue_drift
 nnue_sf
+nnueandthevoices
 nnwithsf
 no-stockfish-bots
 no-varants-no
@@ -4003,5 +4005,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-brybrybot
-nnueandthevoices
+matthewcarven
+seedchess
