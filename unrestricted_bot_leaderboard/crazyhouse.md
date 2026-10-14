@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@EmptikVariantsBot|2548
 #27|@BotSuxX|2538
 #28|@LudwigBOT|2527
-#29|@Kingzbot|2508
+#29|@Kingzbot|2512
 #30|@X2-ITL|2501
 #31|@MEGA-NOOB-BOT|2485
 #32|@Bot1nokk|2469
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@KingfishX|2347
 #56|@Worst-ai|2346
 #57|@chesshyperbot|2344
-#58|@FayEFish|2338
+#58|@FayEFish|2333
 #59|@EmptikBot|2332
 #60|@lord-bot|2329
 #61|@OSaurus|2315
@@ -86,8 +86,8 @@ Rank|Bot|Rating
 #84|@SCP079|2156
 #85|@BSTAF|2154
 #86|@kowalabi|2151
-#87|@TheMatrix2025|2142
-#88|@colinbot|2138
+#87|@colinbot|2146
+#88|@TheMatrix2025|2142
 #89|@CloudBot_v2|2131
 #90|@HIWIN1234|2123
 #91|@varient-chess-bot1|2120
@@ -105,9 +105,9 @@ Rank|Bot|Rating
 #103|@MDBOT|2050
 #104|@PowerOnBot|2050
 #105|@StockfishLowDepth|2046
-#106|@FunComp|2039
-#107|@Jussicas|2035
-#108|@thibot|2032
+#106|@Jussicas|2035
+#107|@thibot|2032
+#108|@FunComp|2031
 #109|@chess_set_manager|2028
 #110|@Less_of_a_threat|2025
 #111|@DeepFriedFish|2020
@@ -232,7 +232,7 @@ Rank|Bot|Rating
 #230|@cool_boy_bot|1398
 #231|@Classic_BOT-v2|1392
 #232|@are_bots_good|1367
-#233|@Martuni|1360
+#233|@Martuni|1359
 #234|@GothamChessBot|1358
 #235|@XiDM|1351
 #236|@Hrant_Petrosyan_BOT|1346

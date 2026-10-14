@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@chess_set_manager|2525
 #13|@SuperGame5|2505
 #14|@MEGA-NOOB-BOT|2482
-#15|@anti-bot|2335
+#15|@anti-bot|2329
 #16|@BattleBornThe4th|2321
 #17|@kowalabi|2308
 #18|@QiOui|2254

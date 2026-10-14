@@ -127,9 +127,9 @@ Rank|Bot|Rating
 #125|@Viet_BOT|2354
 #126|@higuyuu67776|2352
 #127|@OSaurus|2352
-#128|@anti-bot|2335
-#129|@Karpov_bot|2335
-#130|@TeamChelsie|2331
+#128|@Karpov_bot|2335
+#129|@TeamChelsie|2331
+#130|@anti-bot|2329
 #131|@BattleBornThe4th|2321
 #132|@AI69|2312
 #133|@NewChessEngine-ai|2309

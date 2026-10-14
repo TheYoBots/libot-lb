@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@rascal1|2582
 #2|@BattleBornThe5th|2576
-#3|@Kingzbot|2508
+#3|@Kingzbot|2512
 #4|@MEGA-NOOB-BOT|2485
 #5|@Bot1nokk|2469
 #6|@SF_Bot1nok|2465
@@ -14,14 +14,14 @@ Rank|Bot|Rating
 #12|@beastie1|2360
 #13|@calico1|2356
 #14|@abdcebot|2354
-#15|@FayEFish|2338
+#15|@FayEFish|2333
 #16|@OSaurus|2315
 #17|@BattleBornThe4th|2253
 #18|@kowalabi|2151
-#19|@colinbot|2138
+#19|@colinbot|2146
 #20|@QiOui|2067
 #21|@soulgar|2062
-#22|@FunComp|2039
+#22|@FunComp|2031
 #23|@chess_set_manager|2028
 #24|@rachl1|2011
 #25|@BattleBornThe3rd|1952
@@ -38,6 +38,6 @@ Rank|Bot|Rating
 #36|@puisne|1537
 #37|@hashcake1|1419
 #38|@reaper1bot|1404
-#39|@Martuni|1360
+#39|@Martuni|1359
 #40|@BubbleBot2|1337
 #41|@escarbo|1304

@@ -137,10 +137,10 @@ Rank|Bot|Rating
 #135|@Dark_evil_bot|2071
 #136|@Karpov_bot|2069
 #137|@alvinl22_LBot|2068
-#138|@calico1|2065
-#139|@Vinnikk|2061
-#140|@XXIstCentury|2061
-#141|@Kingzbot|2056
+#138|@Kingzbot|2068
+#139|@calico1|2065
+#140|@Vinnikk|2061
+#141|@XXIstCentury|2061
 #142|@OSaurus|2052
 #143|@azdad|2047
 #144|@Less_of_a_threat|2047
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@OpeningsBot|1610
 #273|@ahmet-botahmet|1607
 #274|@Challengeme2anything|1605
-#275|@Martuni|1594
+#275|@Martuni|1601
 #276|@JustDontFlagMe|1593
 #277|@admin-bot|1592
 #278|@JustAnother_BOT|1589
@@ -386,7 +386,7 @@ Rank|Bot|Rating
 #384|@clrsrc_lc0|1168
 #385|@Jaymombot|1166
 #386|@SipsonsamsonBOT|1161
-#387|@pawnrobot|1159
+#387|@pawnrobot|1155
 #388|@BubbleBot2|1151
 #389|@Happy_One|1138
 #390|@genesis1bot|1126

@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@LudwigBOT|2304
 #36|@lord-bot|2300
 #37|@Worst-ai|2296
-#38|@FayEFish|2286
+#38|@FayEFish|2290
 #39|@BattleBornThe5th|2285
 #40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
@@ -48,9 +48,9 @@ Rank|Bot|Rating
 #46|@HIWIN1234|2261
 #47|@YoBot_v2|2257
 #48|@rascal1|2248
-#49|@McDonalds1955|2239
-#50|@OlympusCz|2231
-#51|@colinbot|2230
+#49|@McDonalds1955|2242
+#50|@colinbot|2237
+#51|@OlympusCz|2231
 #52|@RaspFish|2223
 #53|@Vinh_VariantsBot|2215
 #54|@Kizburb|2214
@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@clementyne1|1800
 #141|@pussaW|1785
 #142|@Tacticall_Bot|1779
-#143|@Martuni|1755
+#143|@Martuni|1752
 #144|@XXXTryandTryXXX|1747
 #145|@CBNguyen_Bot|1741
 #146|@No_Username2|1741
@@ -229,10 +229,10 @@ Rank|Bot|Rating
 #227|@PiratesRust|1222
 #228|@suniferia|1211
 #229|@genesis1bot|1197
-#230|@pawnrobot|1192
-#231|@DavidsGuterBot|1191
-#232|@heatseeker223|1191
-#233|@admin-bot|1188
+#230|@DavidsGuterBot|1191
+#231|@heatseeker223|1191
+#232|@admin-bot|1188
+#233|@pawnrobot|1187
 #234|@Ujwal1001|1179
 #235|@Just-a-random-bot|1171
 #236|@duythong1402|1165

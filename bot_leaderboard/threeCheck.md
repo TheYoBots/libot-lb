@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@is_BOSS|2322
-#2|@FayEFish|2286
+#2|@FayEFish|2290
 #3|@BattleBornThe5th|2285
 #4|@MEGA-NOOB-BOT|2268
 #5|@rascal1|2248
-#6|@McDonalds1955|2239
-#7|@colinbot|2230
+#6|@McDonalds1955|2242
+#7|@colinbot|2237
 #8|@RaspFish|2223
 #9|@beastie1|2202
 #10|@calico1|2183
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@nickl1bot|1847
 #24|@JemBok|1828
 #25|@clementyne1|1800
-#26|@Martuni|1755
+#26|@Martuni|1752
 #27|@malpamat|1685
 #28|@BattleBornThe2nd|1674
 #29|@Bottios|1618
@@ -39,5 +39,5 @@ Rank|Bot|Rating
 #37|@reaper1bot|1334
 #38|@escarbo|1325
 #39|@genesis1bot|1197
-#40|@pawnrobot|1192
-#41|@DavidsGuterBot|1191
+#40|@DavidsGuterBot|1191
+#41|@pawnrobot|1187

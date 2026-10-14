@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@wyxx210704_bot|3461
-#2|@pawny_bot|3377
-#3|@BlueMoonBot|3353
+#2|@BlueMoonBot|3401
+#3|@pawny_bot|3377
 #4|@CuteBot|3208
 #5|@pirates1|3051
 #6|@fibonachi|2971

@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@Fairy_Belzedar|2917
 #3|@Viet-AI|2915
 #4|@Royal-Bot|2761
-#5|@ToromBot|2759
-#6|@Coolman2021|2757
+#5|@Coolman2021|2757
+#6|@ToromBot|2743
 #7|@Magicianrobot|2741
 #8|@FireFishBOT|2726
 #9|@abdcebot|2715
