@@ -21,8 +21,8 @@ Rank|Bot|Rating
 #19|@McDonalds1955|2553
 #20|@Leetomic|2506
 #21|@FayEFish|2470
-#22|@rascal1|2418
-#23|@BattleBornThe5th|2413
+#22|@rascal1|2417
+#23|@BattleBornThe5th|2414
 #24|@HIWIN1234|2412
 #25|@EmptikVariantsBot|2402
 #26|@BOT_Stockfish13|2383
@@ -36,10 +36,10 @@ Rank|Bot|Rating
 #34|@colinbot|2324
 #35|@chess_set_manager|2317
 #36|@Alexnajax_Fan|2316
-#37|@AlfaBot|2293
-#38|@Fairy-Stockfish|2289
-#39|@Kizburb|2276
-#40|@c-t-r-l|2269
+#37|@c-t-r-l|2295
+#38|@AlfaBot|2293
+#39|@Fairy-Stockfish|2289
+#40|@Kizburb|2276
 #41|@Team_bot_08512|2267
 #42|@NewChessEngine-ai|2260
 #43|@ibep|2258
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@varient-chess-bot1|2156
 #58|@ResoluteBot|2155
 #59|@tbhOnBot|2153
-#60|@is_BOSS|2149
+#60|@is_BOSS|2145
 #61|@Karpov_bot|2145
 #62|@Bobby_Fischer_BOT|2136
 #63|@TheMatrix2025|2132

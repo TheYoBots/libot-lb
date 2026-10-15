@@ -2278,6 +2278,7 @@ matrix_core
 matrixengine
 matrixmovebot80
 mattaberk-bot
+matthewcarven
 maulbot
 mautlier
 max_bot
@@ -3092,6 +3093,7 @@ sea_leopard
 seabassengine
 seaborg1
 seechessbot
+seedchess
 seer-dev
 seitogakatsu
 selflearnbot
@@ -4005,5 +4007,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-matthewcarven
-seedchess
+antibotv3-7
+la5v2
+grindfish
