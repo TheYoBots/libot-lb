@@ -168,6 +168,7 @@ anti-anti
 anti-bot
 anti-human-bot
 anti-rules
+antibotv3-7
 antichessanalyzer
 antichessbot
 antichessbot_ai
@@ -1497,6 +1498,7 @@ greko-bot
 grey_wolf3000
 grey_wolf3000_2
 grimmerai
+grindfish
 grindle_x_bot1
 grogros_zero
 groot123456
@@ -1953,6 +1955,7 @@ kysokochage17
 kysoplayscrazyhouse
 l_47
 l_taurus_l
+la5v2
 ladidacticabot
 ladoga_engine
 ladybugbot
@@ -4007,6 +4010,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-antibotv3-7
-la5v2
-grindfish
+ceraf
+aivean
+miss_snowiee
