@@ -177,8 +177,8 @@ Rank|Bot|Rating
 #175|@OpeningsBot|2147
 #176|@AntiChessBot|2142
 #177|@AnUtterlyKarBot|2134
-#178|@XXIstCentury|2131
-#179|@Martuni|2129
+#178|@Martuni|2134
+#179|@XXIstCentury|2131
 #180|@nickl1bot|2107
 #181|@JemBok|2106
 #182|@PyChessBot|2102
@@ -189,10 +189,10 @@ Rank|Bot|Rating
 #187|@Botzer|2020
 #188|@Jussicas|2019
 #189|@CloudBotZero|2018
-#190|@B0T5_RU13|2011
-#191|@BattleBornThe2nd|2011
-#192|@CatNail|2010
-#193|@TheLegitLegend|2010
+#190|@CatNail|2013
+#191|@B0T5_RU13|2011
+#192|@TheLegitLegend|2010
+#193|@BattleBornThe2nd|2009
 #194|@Bottios|2008
 #195|@CrayyBot|1989
 #196|@BetaZ|1973
@@ -369,4 +369,5 @@ Rank|Bot|Rating
 #367|@MateCheckCapture|675
 #368|@queen_stase_approx|631
 #369|@vadbot|603
-#370|@Randmaster_Bot|547
+#370|@RegisterPythonSpeed|578
+#371|@Randmaster_Bot|547

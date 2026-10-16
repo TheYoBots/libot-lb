@@ -21,12 +21,12 @@ Rank|Bot|Rating
 #19|@rachl1|2166
 #20|@BattleBornThe3rd|2156
 #21|@NilatacBot|2156
-#22|@Martuni|2129
+#22|@Martuni|2134
 #23|@nickl1bot|2107
 #24|@clementyne1|2072
 #25|@malpamat|2042
-#26|@BattleBornThe2nd|2011
-#27|@CatNail|2010
+#26|@CatNail|2013
+#27|@BattleBornThe2nd|2009
 #28|@Bottios|2008
 #29|@spyros1bot|1782
 #30|@Lancelbot|1594

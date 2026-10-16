@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@PsychedelicAtomic|2296
 #57|@BOT_Stockfish13|2288
 #58|@AndromedaSX1|2284
-#59|@McDonalds1955|2282
-#60|@vrnts_colinbot|2282
+#59|@vrnts_colinbot|2282
+#60|@McDonalds1955|2281
 #61|@ToromBot|2280
 #62|@TheMatrix2029|2278
 #63|@BattleBornThe5th|2273
@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@Botzer|2097
 #131|@Sharkbot|2095
 #132|@beastie1|2090
-#133|@Kingzbot|2080
+#133|@Kingzbot|2089
 #134|@DrSmartBugs|2077
 #135|@Einstein_NNUE|2072
 #136|@Dark_evil_bot|2071
@@ -184,9 +184,9 @@ Rank|Bot|Rating
 #182|@Isotopebot|1900
 #183|@Just-a-random-bot|1898
 #184|@AX2XB2|1893
-#185|@RockingSuperstars|1891
-#186|@TheAwesomeBot|1891
-#187|@chess_set_manager|1884
+#185|@chess_set_manager|1893
+#186|@RockingSuperstars|1891
+#187|@TheAwesomeBot|1891
 #188|@Leetomic|1883
 #189|@kostasvl-bot|1877
 #190|@Worst-ai|1872
@@ -214,7 +214,7 @@ Rank|Bot|Rating
 #212|@WildorderBot|1799
 #213|@CoderDen732|1791
 #214|@TheLegitLegend|1786
-#215|@BattleBornThe3rd|1784
+#215|@BattleBornThe3rd|1783
 #216|@MagicHacker123|1774
 #217|@buffFishNet|1771
 #218|@EstmileBot|1769
@@ -277,9 +277,9 @@ Rank|Bot|Rating
 #275|@JustDontFlagMe|1593
 #276|@admin-bot|1592
 #277|@JustAnother_BOT|1589
-#278|@Martuni|1589
-#279|@OpLdksijfKJ|1589
-#280|@PROBOT123567|1589
+#278|@OpLdksijfKJ|1589
+#279|@PROBOT123567|1589
+#280|@Martuni|1584
 #281|@PineappleBot|1583
 #282|@malpamat|1582
 #283|@Chess_omar_2009|1575
@@ -299,8 +299,8 @@ Rank|Bot|Rating
 #297|@DespacitoBot|1519
 #298|@potato638|1519
 #299|@chicken_farmer|1514
-#300|@BattleBornThe2nd|1510
-#301|@Abuziddin-BOT|1508
+#300|@Abuziddin-BOT|1508
+#301|@BattleBornThe2nd|1504
 #302|@GgKedi|1500
 #303|@spyros1bot|1500
 #304|@Kung-fuPanda|1498
@@ -419,5 +419,5 @@ Rank|Bot|Rating
 #417|@MateCheckCapture|680
 #418|@Ujwal1001|600
 #419|@Randmaster_Bot|545
-#420|@RegisterPythonSpeed|544
+#420|@RegisterPythonSpeed|541
 #421|@Randmaster_EGTB|411

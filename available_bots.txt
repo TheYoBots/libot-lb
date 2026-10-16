@@ -58,6 +58,7 @@ ailc0
 ailedbot
 aitron
 aivanj10
+aivean
 ajatarbot
 ajedrezarbot
 ajedrezchamberi
@@ -700,6 +701,7 @@ cemle
 cenizos
 centaur01
 centaur_unarmedlad
+ceraf
 cerberus_bot
 cerebellumoriginal
 cesium119
@@ -2359,6 +2361,7 @@ minopponentmoves
 minula_paranvithana
 mirrormaze-xdk
 misere-fish
+miss_snowiee
 mistakebot
 misteick_bot
 misterpbot
@@ -4010,6 +4013,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ceraf
-aivean
-miss_snowiee
+chatgpt5_5
+thelokbott
+hustler_1mb
+black-icebot
+hustler_5mb
