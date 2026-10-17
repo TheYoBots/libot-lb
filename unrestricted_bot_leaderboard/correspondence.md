@@ -200,8 +200,8 @@ Rank|Bot|Rating
 #198|@ViVe_2_chess_pro|1869
 #199|@Jibbby|1865
 #200|@pi0w|1865
-#201|@Thera_Engine|1857
-#202|@GarboBot|1856
+#201|@GarboBot|1861
+#202|@Thera_Engine|1857
 #203|@PineOnPi|1856
 #204|@ayodia|1853
 #205|@Boris-Trapsky|1853

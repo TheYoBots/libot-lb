@@ -2,6 +2,7 @@ a1928371870982730982
 a5a7-chess-bot
 aaronsengine
 aaronsenginenew
+aathena101
 aatk_vanguardx
 abcbot
 abcd_engine
@@ -667,6 +668,7 @@ caprastar
 caps-bot
 capturebot
 capybara_chessbot
+carechess-bot
 carlsenbot
 carlsencantbeatme
 carmin-bot
@@ -1300,6 +1302,7 @@ fender_bender
 fenich
 fenrir-bot
 fenrirbot
+fetacompli
 fiasco-bot
 fib0t
 fibonachi
@@ -1566,6 +1569,7 @@ hawke_bot
 hce_puct_mcts_bot
 hchessbot
 heatseeker223
+heavennear
 heckerbot
 heckno2021
 hedgehog_bot
@@ -3208,6 +3212,7 @@ skyray7
 skywalker2006
 skywalker_bot
 skzapbot
+slate-engine
 slav-tech
 sldeadshot22
 sleepmindengine
@@ -3505,6 +3510,7 @@ thanatos_engine_v7
 the-chess-king-bot
 the-fastest-bot
 the-primer
+the9masters
 the_a_and_d_club
 the_baronet
 the_bot_guy
@@ -4018,9 +4024,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-fetacompli
-aathena101
-carechess-bot
-slate-engine
-the9masters
-heavennear
+bravobot
+ropobot
+craftyuci
+pomeranian_bot
+tallikebot
