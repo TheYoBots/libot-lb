@@ -394,6 +394,7 @@ bizarriofish
 bjomarchessbot
 bkrivibot
 black-bishop-kh
+black-icebot
 black_knight2006
 black_knight_ngalam
 blackcatengine
@@ -717,6 +718,7 @@ chaotong_engine
 charibot
 charlesbot
 chat_bot
+chatgpt5_5
 che_domi
 cheakykoala
 cheapvps
@@ -1638,7 +1640,9 @@ humantrainedbot
 humbletestbot
 hummus-bot
 humuhumunukunukuapu
+hustler_1mb
 hustler_2mb
+hustler_5mb
 huxzero
 huy-stockfish
 hwh2008
@@ -3552,6 +3556,7 @@ thelegendarylion
 thelegendofshelly
 thelegitlegend
 thelegitlegend2
+thelokbott
 theloserbot
 them492017bot
 thematrix2025
@@ -4013,8 +4018,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chatgpt5_5
-thelokbott
-hustler_1mb
-black-icebot
-hustler_5mb
+fetacompli
+aathena101
+carechess-bot
+slate-engine
+the9masters
+heavennear
