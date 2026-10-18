@@ -637,6 +637,7 @@ bushycamper
 butzke_bot
 byte-knight
 bytechessbot
+bytefish
 byteknightengine
 c-t-r-l
 c0br4_bot
@@ -2978,6 +2979,7 @@ riojacomp
 riptorn
 rishab_bindal
 robbai_3j
+robert_is_bot
 roberts_child
 robiachess
 roblox_destroyer
@@ -3277,6 +3279,7 @@ spiritofthenewyear
 spitfirebot
 spotlightbot
 sprat_engine
+springerbot
 spyros1bot
 square-grass
 squared-chess
@@ -4029,6 +4032,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-springerbot
-bytefish
-robert_is_bot
+snaky-bot
+chess_know
+craftstockfish
+racingkingsbot_1
+kruguer_engine
