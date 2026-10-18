@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@antichesssss|1964
 #197|@Menganti|1963
 #198|@CloudBOT|1950
-#199|@CatNail|1949
+#199|@CatNail|1922
 #200|@TestingBot1|1914
 #201|@Crepusculum|1881
 #202|@NoTallkOnlyGames|1871
@@ -294,11 +294,11 @@ Rank|Bot|Rating
 #292|@Nicholaswb_BOT|1439
 #293|@RSVMentor|1439
 #294|@Bbao23-chess|1437
-#295|@MartianBot|1435
-#296|@anonymous5612|1431
-#297|@CatBot329|1430
-#298|@StockfishLowDepth|1428
-#299|@goldinho1bot|1427
+#295|@goldinho1bot|1435
+#296|@MartianBot|1435
+#297|@anonymous5612|1431
+#298|@CatBot329|1430
+#299|@StockfishLowDepth|1428
 #300|@SacrificeBot|1426
 #301|@Blackrood|1423
 #302|@kazakhfirstbot|1422
@@ -329,7 +329,7 @@ Rank|Bot|Rating
 #327|@admin-bot|1311
 #328|@Happy_One|1309
 #329|@Official_bot|1301
-#330|@BubbleBot2|1297
+#330|@BubbleBot2|1300
 #331|@GuineaBot3|1297
 #332|@MeetNarangBOT|1287
 #333|@KaTHHHH|1264
@@ -337,7 +337,7 @@ Rank|Bot|Rating
 #335|@Noel-bot|1258
 #336|@puisne|1242
 #337|@chicken_farmer|1241
-#338|@dragoodle|1231
+#338|@dragoodle|1226
 #339|@PranavChessBot|1212
 #340|@Toxic_Bot|1202
 #341|@Ar4Asd1-BOT|1181
@@ -346,7 +346,7 @@ Rank|Bot|Rating
 #344|@thousandatom|1146
 #345|@Green_Tea_Ice_Cream|1107
 #346|@Md211bot|1107
-#347|@BattleBornThe1st|1105
+#347|@BattleBornThe1st|1099
 #348|@The_dragon_bot|1076
 #349|@Boom_Bot|1044
 #350|@Mega_BOT|1032

@@ -596,6 +596,7 @@ brainstorm_bot
 brainypratyush3
 bravebot
 bravestknightbot
+bravobot
 bread_engine
 breadeater_engine
 breeze-hot
@@ -943,6 +944,7 @@ cpu2010
 cr7-suii
 crabchess
 crabstick-engine
+craftyuci
 craksys_ai
 crapbot
 crappybot
@@ -2781,6 +2783,7 @@ polarchessbot
 polaris2bot
 polochon-bot
 polybot
+pomeranian_bot
 popularmoves-bot
 positionalai
 postbot
@@ -3006,6 +3009,7 @@ rookierobot
 rookrusty
 root2323
 rootengine
+ropobot
 rorschach-bot
 rosaliaxadrez
 rostigerritter
@@ -3465,6 +3469,7 @@ takticproches
 takticprochess
 talbotbot
 taleelavshumans
+tallikebot
 talosbot
 tapobot
 tappobot
@@ -4024,8 +4029,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bravobot
-ropobot
-craftyuci
-pomeranian_bot
-tallikebot
+springerbot
+bytefish
+robert_is_bot
