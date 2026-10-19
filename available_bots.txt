@@ -1184,6 +1184,7 @@ elmichess
 elninodiablo
 elo3800
 elo_1500
+eloibot
 elopracticebot
 elpeonelectrico
 elrincho
@@ -4037,4 +4038,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-eloibot
+nibbleknight
+friesai
+erebusbot
