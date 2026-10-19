@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@MEGA-NOOB-BOT|2176
 #14|@OSaurus|2165
 #15|@is_BOSS|2136
-#16|@BattleBornThe4th|2126
-#17|@kowalabi|2061
+#16|@BattleBornThe4th|2135
+#17|@kowalabi|2052
 #18|@QiOui|2045
 #19|@soulgar|1988
 #20|@rachl1|1947

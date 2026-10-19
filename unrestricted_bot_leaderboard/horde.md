@@ -62,8 +62,8 @@ Rank|Bot|Rating
 #60|@Karpov_bot|2145
 #61|@Bobby_Fischer_BOT|2136
 #62|@is_BOSS|2136
-#63|@TheMatrix2025|2132
-#64|@BattleBornThe4th|2126
+#63|@BattleBornThe4th|2135
+#64|@TheMatrix2025|2132
 #65|@Yebot|2118
 #66|@jasans_bot|2116
 #67|@xiang-qi|2115
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@iplayonlyrandom|2075
 #74|@Zimbabwean_chessbot|2073
 #75|@MMC_HUANGBAI|2066
-#76|@kowalabi|2061
-#77|@virus_exe-bot|2054
+#76|@virus_exe-bot|2054
+#77|@kowalabi|2052
 #78|@CherryFish_Bot|2051
 #79|@Bot_AOOP11|2050
 #80|@QiOui|2045

@@ -768,6 +768,7 @@ chess_bot-child
 chess_inator_bot
 chess_is_wide
 chess_king2000
+chess_know
 chess_learning_ai
 chess_ni_boss
 chess_omar_2009
@@ -945,6 +946,7 @@ cpu2010
 cr7-suii
 crabchess
 crabstick-engine
+craftstockfish
 craftyuci
 craksys_ai
 crapbot
@@ -1947,6 +1949,7 @@ kqrbnpkqrbnp
 krakenchessai
 kriannengine
 krs013-bot
+kruguer_engine
 kubikbot
 kuhusbot
 kulubot
@@ -2887,6 +2890,7 @@ r0bspierre
 r4033
 rablitz-test
 rachl1
+racingkingsbot_1
 racingkingskingsbot
 raddelgo14bot
 radianceengine
@@ -3239,6 +3243,7 @@ smasher23445
 smoking_python
 smolstock
 smoothrotation
+snaky-bot
 snapleelaeasy
 sneakybot21
 sobrietybot
@@ -4032,8 +4037,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-snaky-bot
-chess_know
-craftstockfish
-racingkingsbot_1
-kruguer_engine
+eloibot
