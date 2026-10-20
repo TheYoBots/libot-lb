@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@LudwigBOT|2339
 #48|@NotNateBot|2336
 #49|@Fairy_Belzedar|2333
-#50|@MEGA-NOOB-BOT|2323
+#50|@MEGA-NOOB-BOT|2318
 #51|@The-Fastest-Bot|2314
 #52|@Alehkine_cat|2312
 #53|@Team_bot_08512|2307
@@ -72,11 +72,11 @@ Rank|Bot|Rating
 #70|@chesshyperbot|2260
 #71|@SCP079|2259
 #72|@Johnsun|2257
-#73|@is_BOSS|2246
+#73|@is_BOSS|2255
 #74|@YoBot_v2|2243
 #75|@STockfishdestroyBot|2227
-#76|@RaspFish|2224
-#77|@Kizburb|2220
+#76|@Kizburb|2220
+#77|@RaspFish|2218
 #78|@MagnusCarlsenTheBOT|2215
 #79|@GravityStorm|2214
 #80|@storng766555|2214
@@ -124,9 +124,9 @@ Rank|Bot|Rating
 #122|@Nobody11892|2134
 #123|@SF_Bot1nok|2129
 #124|@SuperGame5|2128
-#125|@bot1e|2121
+#125|@Kingzbot|2126
 #126|@Variantenkoning|2121
-#127|@Kingzbot|2120
+#127|@bot1e|2117
 #128|@AnUtterlyKarBot|2113
 #129|@beastie1|2106
 #130|@lightspeed_bot|2105
@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@AX2XB2|1893
 #185|@RockingSuperstars|1891
 #186|@TheAwesomeBot|1891
-#187|@chess_set_manager|1889
+#187|@chess_set_manager|1887
 #188|@Leetomic|1883
 #189|@soulgar|1881
 #190|@kostasvl-bot|1877
@@ -344,7 +344,7 @@ Rank|Bot|Rating
 #342|@Trumpfor2O2O|1386
 #343|@DrunkenMasterEngine|1385
 #344|@anonymous5612|1384
-#345|@StockfishLowDepth|1370
+#345|@StockfishLowDepth|1369
 #346|@BattleBornThe1st|1361
 #347|@SLvov-bot|1359
 #348|@ChessBotHere|1351
@@ -390,8 +390,8 @@ Rank|Bot|Rating
 #388|@SipsonsamsonBOT|1161
 #389|@Happy_One|1138
 #390|@Pawn_Stormer_D4|1124
-#391|@BubbleBot2|1116
-#392|@genesis1bot|1115
+#391|@genesis1bot|1115
+#392|@BubbleBot2|1110
 #393|@the_nicholas_bot|1110
 #394|@MyNameIsSpeedy|1108
 #395|@tuxbot9000|1101

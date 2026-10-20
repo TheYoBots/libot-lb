@@ -447,6 +447,7 @@ boldbladerunner
 boller1910
 bongaclang
 bongcloudtest
+bonyabot
 booboobot
 booktester
 boom_bot
@@ -1914,6 +1915,7 @@ kireevi
 kirinchessbot
 kissenginev2
 kittenengine
+kittyenginev5
 kiwibot
 kiyengine
 kizburb
@@ -2097,6 +2099,7 @@ leol-bot
 leomessi-bot
 leorikbot
 leosbot
+lepbot
 lermerbot
 less_of_a_threat
 less_than_one
@@ -3840,6 +3843,7 @@ voidbot
 voigtsbach
 volkchessengine
 volterbot
+vortex_bot
 vortexaurafarm
 vortexinbrp
 votechess
@@ -4041,7 +4045,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kittyenginev5
-bonyabot
-lepbot
-vortex_bot
+milanbot
+darkpinechessbot
+athena-chessbot
