@@ -1234,6 +1234,7 @@ epiano_bot
 epimetheusbot
 epoch512
 epr_parsifal
+erebusbot
 erickdejusu
 ericrosen102
 erobot
@@ -1374,6 +1375,7 @@ freddyybot
 freedbeast
 friendlybot_1700
 friendoftosik2
+friesai
 fringe407
 fringecases
 fritz_16
@@ -2514,6 +2516,7 @@ nexuschess1
 nezh-bot
 nezuko_chess
 nibblebot
+nibbleknight
 nicarao_chess
 nice_bot
 nicetohityou2000
@@ -4038,6 +4041,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-nibbleknight
-friesai
-erebusbot
+kittyenginev5
+bonyabot
+lepbot
+vortex_bot
