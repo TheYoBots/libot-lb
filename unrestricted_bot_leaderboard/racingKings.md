@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@MalanChess|2261
 #73|@chesshyperbot|2259
 #74|@ESC_BOT|2253
-#75|@is_BOSS|2251
-#76|@relevantproblem|2251
+#75|@relevantproblem|2251
+#76|@is_BOSS|2250
 #77|@abdcebot|2246
 #78|@GodelEscherBot|2244
 #79|@MEGA-NOOB-BOT|2243
@@ -87,7 +87,7 @@ Rank|Bot|Rating
 #85|@Zer0_Tw0|2210
 #86|@FairyTailRegimeBot|2206
 #87|@c-t-r-l|2205
-#88|@McDonalds1955|2202
+#88|@McDonalds1955|2203
 #89|@AIAlphaAI|2200
 #90|@Berserk12-X|2200
 #91|@CherryFish_Bot|2200

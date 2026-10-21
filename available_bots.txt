@@ -244,6 +244,7 @@ astra-engine
 atari-video-chess
 atemmax_bot
 athena-bot
+athena-chessbot
 atomic_chess_bot
 atomicandtroll
 atomicbot1
@@ -1022,6 +1023,7 @@ darkelectronbot
 darknode
 darkonbot
 darkonweakbot
+darkpinechessbot
 dartfish-engine
 daverobot
 david9426_bot
@@ -2364,6 +2366,7 @@ miffkedbot
 mihansolo
 mikhailtal_ai
 mikhailtal_jp
+milanbot
 mimirbot
 mimmic
 minh_thuyet
@@ -4045,6 +4048,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-milanbot
-darkpinechessbot
-athena-chessbot
+bigbotontheblock
+pontiengine
+lostfish-bot

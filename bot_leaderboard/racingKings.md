@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@FayEFish|2287
 #3|@rascal1|2284
 #4|@RaspFish|2267
-#5|@is_BOSS|2251
+#5|@is_BOSS|2250
 #6|@abdcebot|2246
 #7|@MEGA-NOOB-BOT|2243
-#8|@McDonalds1955|2202
+#8|@McDonalds1955|2203
 #9|@RacingKingsBot_1|2179
 #10|@colinbot|2145
 #11|@beastie1|2076

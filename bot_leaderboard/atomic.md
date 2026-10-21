@@ -35,12 +35,12 @@ Rank|Bot|Rating
 #33|@goldinho1bot|1435
 #34|@Bottios|1420
 #35|@dragoodle|1388
-#36|@StockfishLowDepth|1369
+#36|@StockfishLowDepth|1364
 #37|@BattleBornThe1st|1361
 #38|@hashcake1|1221
 #39|@reaper1bot|1190
 #40|@escarbo|1178
 #41|@pawnrobot|1178
 #42|@genesis1bot|1115
-#43|@BubbleBot2|1110
+#43|@BubbleBot2|1100
 #44|@RegisterPythonSpeed|541

@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@Sooraj_Kumar_P_S|2319
 #23|@Viet-AI|2317
 #24|@Fairy_Belzedar|2316
-#25|@is_BOSS|2316
+#25|@is_BOSS|2315
 #26|@BattleBornThe5th|2306
 #27|@abdcebot|2300
 #28|@GoblinAjedrezAI|2299

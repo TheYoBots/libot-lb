@@ -171,10 +171,10 @@ Rank|Bot|Rating
 #169|@Jussicas|1483
 #170|@Kizbuurb|1479
 #171|@faith_bot|1474
-#172|@suniferia|1457
-#173|@MagicHacker123|1451
-#174|@NienishiEngine|1445
-#175|@puisne|1443
+#172|@puisne|1472
+#173|@suniferia|1457
+#174|@MagicHacker123|1451
+#175|@NienishiEngine|1445
 #176|@BubbleBot2|1441
 #177|@apraz|1432
 #178|@Pineapple-Friendly|1428

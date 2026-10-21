@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@MEGA-NOOB-BOT|2343
 #2|@rascal1|2322
-#3|@is_BOSS|2316
+#3|@is_BOSS|2315
 #4|@BattleBornThe5th|2306
 #5|@abdcebot|2300
 #6|@McDonalds1955|2282

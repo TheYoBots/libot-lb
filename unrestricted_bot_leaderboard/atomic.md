@@ -344,7 +344,7 @@ Rank|Bot|Rating
 #342|@Trumpfor2O2O|1386
 #343|@DrunkenMasterEngine|1385
 #344|@anonymous5612|1384
-#345|@StockfishLowDepth|1369
+#345|@StockfishLowDepth|1364
 #346|@BattleBornThe1st|1361
 #347|@SLvov-bot|1359
 #348|@ChessBotHere|1351
@@ -391,10 +391,10 @@ Rank|Bot|Rating
 #389|@Happy_One|1138
 #390|@Pawn_Stormer_D4|1124
 #391|@genesis1bot|1115
-#392|@BubbleBot2|1110
-#393|@the_nicholas_bot|1110
-#394|@MyNameIsSpeedy|1108
-#395|@tuxbot9000|1101
+#392|@the_nicholas_bot|1110
+#393|@MyNameIsSpeedy|1108
+#394|@tuxbot9000|1101
+#395|@BubbleBot2|1100
 #396|@bobby-bot|1085
 #397|@Official_bot|1082
 #398|@ZokBot|1073
