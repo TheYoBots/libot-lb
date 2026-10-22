@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@wyxx210704_bot|3461
-#2|@BlueMoonBot|3323
+#2|@BlueMoonBot|3313
 #3|@SAISRANKARTHIK_7|3237
 #4|@CuteBot|3208
 #5|@pawny_bot|3113
@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@H-Zero|2650
 #17|@ChamberiAjedrez|2645
 #18|@pawnocchio_bot|2623
-#19|@zion-bot|2622
+#19|@zion-bot|2613
 #20|@maia3-79m_2400|2591
 #21|@LeelaZero-UK|2585
 #22|@CheckmateX1|2556
@@ -87,7 +87,7 @@ Rank|Bot|Rating
 #85|@HerokuHasnotplay|2196
 #86|@Digi-bot|2192
 #87|@IAMSTOCKFISH123|2192
-#88|@RavenEngine|2185
+#88|@RavenEngine|2184
 #89|@GothamChessBot|2183
 #90|@Nowinforyoukid|2177
 #91|@WeakStash|2177
@@ -202,13 +202,13 @@ Rank|Bot|Rating
 #200|@TheMatrix2025|1872
 #201|@ViVe_2_chess_pro|1869
 #202|@pi0w|1865
-#203|@maia3-79m_1400|1858
-#204|@Thera_Engine|1857
-#205|@PineOnPi|1856
-#206|@ayodia|1853
-#207|@Boris-Trapsky|1853
-#208|@natural-disaster|1853
-#209|@Jibbby|1844
+#203|@Jibbby|1860
+#204|@maia3-79m_1400|1858
+#205|@Thera_Engine|1857
+#206|@PineOnPi|1856
+#207|@ayodia|1853
+#208|@Boris-Trapsky|1853
+#209|@natural-disaster|1853
 #210|@Rinestro|1837
 #211|@OurBot|1836
 #212|@Aromik_s_bot|1831

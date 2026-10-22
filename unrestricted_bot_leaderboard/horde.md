@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@Lili-ai|2572
 #19|@McDonalds1955|2558
 #20|@Leetomic|2506
-#21|@FayEFish|2470
-#22|@c-t-r-l|2451
+#21|@c-t-r-l|2471
+#22|@FayEFish|2470
 #23|@rascal1|2448
 #24|@BattleBornThe5th|2414
 #25|@HIWIN1234|2412
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@eNErGyOFbEiNGbOT|2326
 #35|@colinbot|2324
 #36|@Alexnajax_Fan|2316
-#37|@chess_set_manager|2295
+#37|@chess_set_manager|2299
 #38|@AlfaBot|2293
 #39|@Fairy-Stockfish|2289
 #40|@Kizburb|2276
@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@TacticalBot|2227
 #49|@calico1|2211
 #50|@UltronBot|2199
-#51|@MEGA-NOOB-BOT|2197
+#51|@MEGA-NOOB-BOT|2192
 #52|@GoblinAjedrezAI|2185
 #53|@RockingSuperstars|2183
 #54|@SuperGame5|2177
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@varient-chess-bot1|2156
 #58|@ResoluteBot|2155
 #59|@tbhOnBot|2153
-#60|@is_BOSS|2152
+#60|@is_BOSS|2148
 #61|@Karpov_bot|2145
 #62|@Bobby_Fischer_BOT|2136
 #63|@BattleBornThe4th|2135
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@iplayonlyrandom|2075
 #74|@Zimbabwean_chessbot|2073
 #75|@MMC_HUANGBAI|2066
-#76|@virus_exe-bot|2054
-#77|@kowalabi|2052
+#76|@kowalabi|2054
+#77|@virus_exe-bot|2054
 #78|@CherryFish_Bot|2051
 #79|@QiOui|2051
 #80|@Bot_AOOP11|2050
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@B0T5_RU13|1852
 #106|@Lili-Variants|1846
 #107|@nickl1bot|1835
-#108|@Martuni|1828
+#108|@Martuni|1821
 #109|@Breeze-Hot|1809
 #110|@GodelEscherBot|1805
 #111|@JemBok|1801

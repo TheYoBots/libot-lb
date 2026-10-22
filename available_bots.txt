@@ -779,6 +779,7 @@ chess_pro9600
 chess_set_manager
 chess_star_01
 chess_technik
+chessai4f
 chessandtechsbot
 chessatronbot
 chessblight
@@ -1784,6 +1785,7 @@ janzari92
 jasans_bot
 jasonbourne77
 jasperbot
+jaxakos13_bot
 jaxman_n
 jaymombot
 jbxlcbot
@@ -2854,6 +2856,7 @@ pruningbot
 pseudo-0
 pseudo-1
 pseudonoixe
+psion-chess
 psychedelicatomic
 ptit-biscuit
 puffinbot
@@ -3098,6 +3101,7 @@ sandybot
 sanjana_kambala-bot
 santana64
 santiagoelsalvador
+sapling-bot
 sara_bot
 sarbazbot
 sardinebot
@@ -4051,7 +4055,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sapling-bot
-chessai4f
-jaxakos13_bot
-psion-chess
+wedge_engine
