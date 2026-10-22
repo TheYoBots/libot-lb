@@ -377,6 +377,7 @@ bggbro
 bgsbot
 bharat_royals
 bhonduesque
+bigbotontheblock
 bigbrainen
 bigbrainernn
 bigearschess
@@ -2164,6 +2165,7 @@ loseisnotavailablehe
 losing_loser_bot
 losingbot
 loss-not-defined
+lostfish-bot
 louischess48-6k
 lowfish
 lowhangingfruits
@@ -2798,6 +2800,7 @@ polaris2bot
 polochon-bot
 polybot
 pomeranian_bot
+pontiengine
 popularmoves-bot
 positionalai
 postbot
@@ -4048,6 +4051,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bigbotontheblock
-pontiengine
-lostfish-bot
+sapling-bot
+chessai4f
+jaxakos13_bot
+psion-chess
