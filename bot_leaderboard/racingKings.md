@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@FayEFish|2287
 #2|@RaspFish|2262
-#3|@is_BOSS|2249
+#3|@is_BOSS|2252
 #4|@abdcebot|2246
 #5|@MEGA-NOOB-BOT|2237
 #6|@McDonalds1955|2206
@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@RacingKingsBot_1|2160
 #9|@colinbot|2146
 #10|@beastie1|2076
-#11|@chess_set_manager|2057
+#11|@chess_set_manager|2054
 #12|@calico1|2028
 #13|@OSaurus|2001
 #14|@BattleBornThe4th|1933

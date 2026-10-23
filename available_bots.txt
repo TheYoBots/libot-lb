@@ -3893,6 +3893,7 @@ weakbot
 weakchesszero-wc0
 weaklean
 weakstash
+wedge_engine
 weeebot
 weiawaga
 weini
@@ -4055,4 +4056,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-wedge_engine
+fivejoyouspandas

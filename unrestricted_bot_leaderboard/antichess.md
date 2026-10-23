@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Kingzbot|3130
+#1|@Kingzbot|3122
 #2|@EmptikBot|3070
 #3|@Fairy_Belzedar|3044
 #4|@abdcebot|3042
@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@RaspFish|2841
 #16|@TorBot|2824
 #17|@WennDieSoldatBOT|2818
-#18|@McDonalds1955|2801
-#19|@FayEFish|2797
-#20|@TacticalBot|2796
+#18|@FayEFish|2797
+#19|@TacticalBot|2796
+#20|@McDonalds1955|2793
 #21|@varient-chess-bot1|2792
 #22|@lord-bot|2789
 #23|@FireFishBOT|2785
@@ -80,9 +80,9 @@ Rank|Bot|Rating
 #78|@FairyTailRegimeBot|2529
 #79|@Dark_evil_bot|2525
 #80|@chess_set_manager|2524
-#81|@Bot_AOOP11|2521
-#82|@tbhOnBot|2520
-#83|@is_BOSS|2513
+#81|@is_BOSS|2524
+#82|@Bot_AOOP11|2521
+#83|@tbhOnBot|2520
 #84|@HyperLitikBOT|2511
 #85|@SuperGame5|2505
 #86|@pistol-play|2498
@@ -196,9 +196,9 @@ Rank|Bot|Rating
 #194|@BattleBornThe2nd|1999
 #195|@CrayyBot|1989
 #196|@BetaZ|1973
-#197|@antichesssss|1964
-#198|@Menganti|1963
-#199|@CatNail|1950
+#197|@CatNail|1973
+#198|@antichesssss|1964
+#199|@Menganti|1963
 #200|@CloudBOT|1950
 #201|@TestingBot1|1914
 #202|@Crepusculum|1881

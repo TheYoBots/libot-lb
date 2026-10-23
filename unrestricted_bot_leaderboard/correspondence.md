@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@RandomKerbal|2816
 #11|@thelokbott|2762
 #12|@PlatinumBOT|2756
-#13|@Magicianrobot|2740
-#14|@pawn_git|2722
+#13|@pawn_git|2748
+#14|@Magicianrobot|2740
 #15|@Moment-That-Inspires|2705
 #16|@H-Zero|2650
 #17|@ChamberiAjedrez|2645
@@ -186,9 +186,9 @@ Rank|Bot|Rating
 #184|@yowCapablanca|1914
 #185|@RadianceEngine|1905
 #186|@felipe_bot_53|1898
-#187|@vanibot|1897
-#188|@TrolliumBot|1894
-#189|@GarboBot|1893
+#187|@GarboBot|1897
+#188|@vanibot|1897
+#189|@TrolliumBot|1894
 #190|@honzovy-sachy-2|1892
 #191|@yeoldwiz|1890
 #192|@ChessChildren|1884

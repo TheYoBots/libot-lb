@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@ToromBot|2747
 #7|@Magicianrobot|2741
 #8|@abdcebot|2738
-#9|@RaspFish|2733
+#9|@RaspFish|2737
 #10|@FireFishBOT|2726
 #11|@PepsiForAll|2699
 #12|@bot1e|2670
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@eNErGyOFbEiNGbOT|2326
 #35|@colinbot|2324
 #36|@Alexnajax_Fan|2316
-#37|@chess_set_manager|2299
+#37|@chess_set_manager|2302
 #38|@AlfaBot|2293
 #39|@Fairy-Stockfish|2289
 #40|@Kizburb|2276
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@varient-chess-bot1|2156
 #58|@ResoluteBot|2155
 #59|@tbhOnBot|2153
-#60|@is_BOSS|2148
+#60|@is_BOSS|2145
 #61|@Karpov_bot|2145
 #62|@Bobby_Fischer_BOT|2136
 #63|@BattleBornThe4th|2135

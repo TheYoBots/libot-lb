@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@LudwigBOT|2339
 #48|@NotNateBot|2336
 #49|@Fairy_Belzedar|2333
-#50|@MEGA-NOOB-BOT|2317
+#50|@MEGA-NOOB-BOT|2318
 #51|@The-Fastest-Bot|2314
 #52|@Alehkine_cat|2312
 #53|@Team_bot_08512|2307
@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@McDonalds1955|2262
 #70|@chesshyperbot|2260
 #71|@SCP079|2259
-#72|@Johnsun|2257
-#73|@is_BOSS|2256
+#72|@is_BOSS|2257
+#73|@Johnsun|2257
 #74|@YoBot_v2|2243
 #75|@STockfishdestroyBot|2227
 #76|@Kizburb|2220
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@Isotopebot|1900
 #184|@Just-a-random-bot|1898
 #185|@AX2XB2|1893
-#186|@chess_set_manager|1893
+#186|@chess_set_manager|1891
 #187|@RockingSuperstars|1891
 #188|@TheAwesomeBot|1891
 #189|@Leetomic|1883
@@ -282,9 +282,9 @@ Rank|Bot|Rating
 #280|@OpLdksijfKJ|1589
 #281|@PROBOT123567|1589
 #282|@PineappleBot|1583
-#283|@Chess_omar_2009|1575
-#284|@Pineapple-Friendly|1569
-#285|@Martuni|1564
+#283|@Martuni|1582
+#284|@Chess_omar_2009|1575
+#285|@Pineapple-Friendly|1569
 #286|@bot-win-loh-nick|1554
 #287|@AntarticAnonymous|1553
 #288|@HiddeNL|1551
