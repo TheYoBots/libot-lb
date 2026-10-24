@@ -1344,6 +1344,7 @@ fishstein
 fishstock10
 fishstockwr
 fisk_bot
+fivejoyouspandas
 fjui2
 flagfish
 flamerare
@@ -4056,4 +4057,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-fivejoyouspandas
+koi_engine
+arabicannue
+maximaengine
+pierreai
