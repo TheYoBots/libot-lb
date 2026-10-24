@@ -200,6 +200,7 @@ aqwert123
 ar4asd1-bot
 ara-online
 arabicahce
+arabicannue
 ararimbelami
 arasanx
 aravdadhaniabot
@@ -1943,6 +1944,7 @@ knightsarmour
 knightsofthegambit2
 knucklefish
 knyazik_1
+koi_engine
 komodo-master
 komodo18
 komodo_engine
@@ -2314,6 +2316,7 @@ matthewcarven
 maulbot
 mautlier
 max_bot
+maximaengine
 maximumef
 maxoul-bot
 maxthedog
@@ -2752,6 +2755,7 @@ physbot
 pi0w
 pideciomerusta
 piebot
+pierreai
 pifishzero
 pigeonengine
 piglet_engine
@@ -4057,7 +4061,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-koi_engine
-arabicannue
-maximaengine
-pierreai
+botyon

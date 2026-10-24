@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@wyxx210704_bot|3461
-#2|@BlueMoonBot|3295
+#2|@BlueMoonBot|3305
 #3|@SAISRANKARTHIK_7|3237
 #4|@CuteBot|3208
 #5|@pawny_bot|3113
 #6|@pirates1|3051
-#7|@fibonachi|2973
+#7|@fibonachi|2974
 #8|@Grzechu86|2852
 #9|@RandomKerbal|2816
 #10|@ChronicGambler|2810
