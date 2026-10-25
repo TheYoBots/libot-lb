@@ -183,6 +183,7 @@ antonbot
 anutterlykarbot
 anytimemode
 apbp
+apexbot
 apollo1414
 apollo314
 apollo_bot
@@ -749,6 +750,7 @@ cheesestar
 cheezebot
 cheezyglizzyeater
 chefisin
+chekovbot
 chelanger-bot
 chen_bot
 chen_sbot
@@ -1118,6 +1120,7 @@ dragonflybot
 dragonrosedev
 dragoodle
 dranzer154
+dravox
 drawcula_bot
 drawfish
 drawfish-reborn
@@ -1572,6 +1575,7 @@ happyfarmerbot
 happyfarmerchallenge
 happyfarmergod
 happyplayer_fun2019
+harakternyk
 hardrok
 harmonbot
 harry-cop
@@ -2754,6 +2758,7 @@ phoenix_engine
 phoenixleyi
 physbot
 pi0w
+picosargon
 pideciomerusta
 piebot
 pierreai
@@ -3570,6 +3575,7 @@ thearstbot
 theasmfish
 theastrobot
 theawesomebot
+theayka
 theblueberry
 thebooklogbot
 thebossbot
@@ -3704,6 +3710,7 @@ trikala_bot
 trinculobot
 trinketreal
 triskaidekaphobia123
+trojanhorsebot
 trollfish-bot
 trollingcrow45
 trolliumbot
@@ -4062,10 +4069,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-dravox
-trojanhorsebot
-theayka
-chekovbot
-harakternyk
-picosargon
-apexbot
+kittenfish
+gochess6767
+olifish
+grapechessengine
