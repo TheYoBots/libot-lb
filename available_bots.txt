@@ -590,6 +590,7 @@ botvunnix
 botwilsonator
 botworld
 botxx
+botyon
 botyuliirma
 botzer
 bozqurdlar_official
@@ -4061,4 +4062,10 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-botyon
+dravox
+trojanhorsebot
+theayka
+chekovbot
+harakternyk
+picosargon
+apexbot

@@ -16,11 +16,11 @@ Rank|Bot|Rating
 #14|@Magicianrobot|2740
 #15|@Moment-That-Inspires|2705
 #16|@H-Zero|2650
-#17|@ChamberiAjedrez|2645
+#17|@ChamberiAjedrez|2647
 #18|@pawnocchio_bot|2623
 #19|@maia3-79m_2400|2591
 #20|@LeelaZero-UK|2585
-#21|@zion-bot|2584
+#21|@zion-bot|2572
 #22|@CheckmateX1|2556
 #23|@AjedrezChamberi|2549
 #24|@Alexnajax_Fan|2549
@@ -88,7 +88,7 @@ Rank|Bot|Rating
 #86|@Digi-bot|2192
 #87|@IAMSTOCKFISH123|2192
 #88|@GothamChessBot|2183
-#89|@RavenEngine|2183
+#89|@RavenEngine|2178
 #90|@Nowinforyoukid|2177
 #91|@WeakStash|2177
 #92|@LeelaChessTest|2172
