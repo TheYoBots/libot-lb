@@ -1892,6 +1892,7 @@ kavinengine
 kayrakropro_bot
 kazakhfirstbot
 kazumibot
+kbelludoo
 kdpchess
 keks_bot
 kelpbot
@@ -3336,6 +3337,7 @@ st6090
 stalebot
 stallion_eas
 starfaith
+stargazerengine
 starker_bot
 starplumberbot
 stashbot
@@ -4073,5 +4075,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kbelludoo
-stargazerengine
+erin_brain
