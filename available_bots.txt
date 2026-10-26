@@ -1474,6 +1474,7 @@ gnupassant
 goblinajedrezai
 goblinbot
 goboter
+gochess6767
 god_teto
 godelescherbot
 godofchess1239
@@ -1512,6 +1513,7 @@ grandchessbot
 grandmaplays
 grandmasterrandom
 grandq_ai
+grapechessengine
 gravitystorm
 gravy1
 great_bot_7
@@ -1927,6 +1929,7 @@ kireevi
 kirinchessbot
 kissenginev2
 kittenengine
+kittenfish
 kittyenginev5
 kiwibot
 kiyengine
@@ -2633,6 +2636,7 @@ ofish-fast
 ohnibot
 ok12435
 ok_zabu
+olifish
 olithink-5
 olithinkflash
 olithinknomaterial
@@ -4069,7 +4073,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kittenfish
-gochess6767
-olifish
-grapechessengine
+kbelludoo
+stargazerengine
