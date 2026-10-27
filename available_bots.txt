@@ -1081,6 +1081,7 @@ diggydiggyhole
 digi-bot
 dinkelhuber
 dinora
+diogenes-bot
 dissidentaggressor
 ditb0
 djungel_lc0
@@ -3154,6 +3155,7 @@ seechessbot
 seedchess
 seer-dev
 seitogakatsu
+selflearn
 selflearnbot
 selimbabapro-bot
 sem1rose
@@ -4076,5 +4078,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-diogenes-bot
-selflearn
+olimarianbot
+tente8x
+sparkchessengine
+enginefromscratch
+leechgodestroy
