@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@wyxx210704_bot|3461
-#2|@BlueMoonBot|3320
+#2|@BlueMoonBot|3327
 #3|@CuteBot|3208
 #4|@pawny_bot|3113
 #5|@SAISRANKARTHIK_7|3071
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@Coffee_House_Carl|2300
 #54|@maia3-79m_2600|2300
 #55|@Xmas_dragon|2300
-#56|@chmod-bot|2298
+#56|@chmod-bot|2297
 #57|@Ujwal1001|2297
 #58|@robiachess|2295
 #59|@Quanticade|2286
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@SEtheChessGod|2224
 #78|@Blunderbuss-bot|2221
 #79|@Abuziddin-BOT|2219
-#80|@OpeningsBot|2213
+#80|@OpeningsBot|2212
 #81|@BalloonBot|2204
 #82|@AbhijithHISBot|2201
 #83|@Ar4Asd1-BOT|2197
@@ -183,7 +183,7 @@ Rank|Bot|Rating
 #181|@chicken_farmer|1926
 #182|@croco_bot|1921
 #183|@yowCapablanca|1914
-#184|@GarboBot|1905
+#184|@GarboBot|1910
 #185|@RadianceEngine|1905
 #186|@felipe_bot_53|1898
 #187|@vanibot|1897

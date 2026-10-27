@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@Amrobotone|2184
 #52|@eNErGyOFbEiNGbOT|2166
 #53|@HuxZero|2163
-#54|@beastie1|2158
+#54|@beastie1|2149
 #55|@Mega_BOT|2148
 #56|@AI69|2143
 #57|@Team_bot_08512|2143
@@ -62,8 +62,8 @@ Rank|Bot|Rating
 #60|@pistol-play|2121
 #61|@firstrobot|2114
 #62|@NormalBulletBot|2109
-#63|@Galaxy_Guardian|2096
-#64|@calico1|2092
+#63|@calico1|2101
+#64|@Galaxy_Guardian|2096
 #65|@GodelEscherBot|2092
 #66|@Johnsun|2091
 #67|@Lili-Variants|2089
@@ -77,8 +77,8 @@ Rank|Bot|Rating
 #75|@SuperGame5|2069
 #76|@vrnts_colinbot|2068
 #77|@KingfishX|2066
-#78|@NewChessEngine-ai|2046
-#79|@OSaurus|2045
+#78|@OSaurus|2050
+#79|@NewChessEngine-ai|2046
 #80|@Hyper-Stockfish|2044
 #81|@Kizbuurb|2035
 #82|@CloudBot_v2|2027
@@ -87,11 +87,11 @@ Rank|Bot|Rating
 #85|@virus_exe-bot|2013
 #86|@CocopikachuBOT|2009
 #87|@lightspeed_bot|2007
-#88|@chesshyperbot|2002
-#89|@Harakternyk|1994
-#90|@Yemmi-Yemmi|1994
-#91|@XXIstCentury|1993
-#92|@BattleBornThe4th|1988
+#88|@BattleBornThe4th|2004
+#89|@chesshyperbot|2002
+#90|@Harakternyk|1994
+#91|@Yemmi-Yemmi|1994
+#92|@XXIstCentury|1993
 #93|@CloudBOT|1986
 #94|@NormalBlitzBulletBot|1986
 #95|@OlympusCz|1986
@@ -105,10 +105,10 @@ Rank|Bot|Rating
 #103|@Pineapple-Friendly|1937
 #104|@azdad|1936
 #105|@varient-chess-bot1|1936
-#106|@kowalabi|1932
+#106|@kowalabi|1933
 #107|@HyperLitikBOT|1930
-#108|@chess_set_manager|1920
-#109|@MDBOT|1912
+#108|@MDBOT|1912
+#109|@chess_set_manager|1910
 #110|@DrSmartBugs|1904
 #111|@colinbot|1892
 #112|@Variantenkoning|1892
@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@soulgar|1850
 #122|@MarkusPVB|1844
 #123|@OpeningsBot|1842
-#124|@rachl1|1840
-#125|@B0T5_RU13|1835
+#124|@B0T5_RU13|1835
+#125|@rachl1|1832
 #126|@STockfishdestroyBot|1825
 #127|@AldoGamer001_Bot|1813
 #128|@BattleBornThe3rd|1810
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@QuickLiquid|1689
 #158|@BOT_Stockfish13|1686
 #159|@SCP079|1660
-#160|@Martuni|1645
+#160|@Martuni|1643
 #161|@chessemkabot|1625
 #162|@CoderDen732|1621
 #163|@BattleBornThe2nd|1617
@@ -219,7 +219,7 @@ Rank|Bot|Rating
 #217|@Hrant_Petrosyan_BOT|1258
 #218|@pixiegaming|1258
 #219|@HiddeNL|1242
-#220|@DavidsGuterBot|1239
+#220|@DavidsGuterBot|1240
 #221|@knight_128|1233
 #222|@MyNameIsSpeedy|1226
 #223|@Bottios|1223
@@ -246,4 +246,4 @@ Rank|Bot|Rating
 #244|@GuineaBot2|884
 #245|@MateCheckCapture|795
 #246|@RegisterPythonSpeed|778
-#247|@Randmaster_Bot|667
+#247|@Randmaster_Bot|663

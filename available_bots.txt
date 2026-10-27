@@ -1247,6 +1247,7 @@ epr_parsifal
 erebusbot
 erickdejusu
 ericrosen102
+erin_brain
 erobot
 ertugruldemir
 esc_bot
@@ -4075,4 +4076,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-erin_brain
+diogenes-bot
+selflearn
