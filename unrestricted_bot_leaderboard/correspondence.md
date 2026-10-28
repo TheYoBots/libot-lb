@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@wyxx210704_bot|3461
-#2|@BlueMoonBot|3333
+#2|@BlueMoonBot|3330
 #3|@CuteBot|3208
 #4|@pawny_bot|3113
 #5|@SAISRANKARTHIK_7|3071
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@HerokuHasnotplay|2196
 #85|@Digi-bot|2192
 #86|@IAMSTOCKFISH123|2192
-#87|@RavenEngine|2189
+#87|@RavenEngine|2185
 #88|@GothamChessBot|2183
 #89|@Nowinforyoukid|2177
 #90|@WeakStash|2177

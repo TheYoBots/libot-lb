@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Kingzbot|3119
+#1|@Kingzbot|3123
 #2|@EmptikBot|3070
 #3|@Fairy_Belzedar|3044
 #4|@abdcebot|3042
@@ -14,10 +14,10 @@ Rank|Bot|Rating
 #12|@Coolman2021|2879
 #13|@TheMatrix2029|2866
 #14|@UltronBot|2859
-#15|@RaspFish|2833
+#15|@RaspFish|2849
 #16|@TorBot|2824
 #17|@WennDieSoldatBOT|2818
-#18|@McDonalds1955|2799
+#18|@McDonalds1955|2801
 #19|@FayEFish|2797
 #20|@TacticalBot|2796
 #21|@varient-chess-bot1|2792
@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@ttBOT|2739
 #29|@ibep|2733
 #30|@Bot_Mittens|2731
-#31|@c-t-r-l|2727
+#31|@c-t-r-l|2728
 #32|@BalloonBot|2724
 #33|@OpeningBooksTester|2712
 #34|@ElPeonElectrico|2710
@@ -46,12 +46,12 @@ Rank|Bot|Rating
 #44|@SCP079|2662
 #45|@vrnts_colinbot|2637
 #46|@DarkOnBot|2633
-#47|@BattleBornThe5th|2623
+#47|@rascal1|2627
 #48|@HIWIN1234|2623
 #49|@Kizbuurb|2621
 #50|@icbmsaregoated2|2614
 #51|@KingfishX|2612
-#52|@rascal1|2611
+#52|@BattleBornThe5th|2609
 #53|@IAMSTOCKFISH123|2603
 #54|@GoblinAjedrezAI|2601
 #55|@ChessBot3021|2599
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@Leelabotmaster|2538
 #78|@Nam-Robot|2537
 #79|@FairyTailRegimeBot|2529
-#80|@is_BOSS|2529
+#80|@is_BOSS|2526
 #81|@Dark_evil_bot|2525
 #82|@Bot_AOOP11|2521
 #83|@tbhOnBot|2520
@@ -95,7 +95,7 @@ Rank|Bot|Rating
 #93|@calico1|2469
 #94|@MDBOT|2469
 #95|@newengine2022|2469
-#96|@MEGA-NOOB-BOT|2462
+#96|@MEGA-NOOB-BOT|2465
 #97|@Fairy-Stockfish|2460
 #98|@PepsiForAll|2460
 #99|@gage12_bot|2456
@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@GegeneBOT|2177
 #171|@rachl1|2168
 #172|@DeepFriedFish|2165
-#173|@NilatacBot|2161
+#173|@NilatacBot|2158
 #174|@lightspeed_bot|2152
 #175|@nickl1bot|2147
 #176|@AntiChessBot|2142
@@ -199,7 +199,7 @@ Rank|Bot|Rating
 #197|@antichesssss|1964
 #198|@Menganti|1963
 #199|@CloudBOT|1950
-#200|@CatNail|1920
+#200|@CatNail|1927
 #201|@TestingBot1|1914
 #202|@Crepusculum|1881
 #203|@NoTallkOnlyGames|1871
@@ -299,10 +299,10 @@ Rank|Bot|Rating
 #297|@MartianBot|1435
 #298|@anonymous5612|1431
 #299|@CatBot329|1430
-#300|@SacrificeBot|1426
-#301|@Blackrood|1423
-#302|@kazakhfirstbot|1422
-#303|@StockfishLowDepth|1418
+#300|@StockfishLowDepth|1428
+#301|@SacrificeBot|1426
+#302|@Blackrood|1423
+#303|@kazakhfirstbot|1422
 #304|@SuperJeroBot|1416
 #305|@relevantproblem|1413
 #306|@are_bots_good|1412
@@ -353,9 +353,9 @@ Rank|Bot|Rating
 #351|@Mega_BOT|1032
 #352|@MinOpponentMoves|1031
 #353|@hashcake1|1028
-#354|@puisne|1027
-#355|@katzebot|1016
-#356|@ZX-Chess|1000
+#354|@katzebot|1016
+#355|@ZX-Chess|1000
+#356|@puisne|997
 #357|@Epiano_Bot|986
 #358|@BetaOneBot|954
 #359|@Lozza-Bot|954
@@ -372,4 +372,4 @@ Rank|Bot|Rating
 #370|@queen_stase_approx|631
 #371|@vadbot|603
 #372|@RegisterPythonSpeed|578
-#373|@Randmaster_Bot|575
+#373|@Randmaster_Bot|574
