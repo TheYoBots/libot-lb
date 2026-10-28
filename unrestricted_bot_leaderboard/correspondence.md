@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@RandomKerbal|2816
 #10|@pawn_git|2771
 #11|@PlatinumBOT|2756
-#12|@ChronicGambler|2746
-#13|@Magicianrobot|2740
-#14|@Moment-That-Inspires|2705
+#12|@Magicianrobot|2740
+#13|@Moment-That-Inspires|2705
+#14|@ChronicGambler|2690
 #15|@H-Zero|2650
 #16|@ChamberiAjedrez|2647
 #17|@pawnocchio_bot|2623
@@ -329,10 +329,10 @@ Rank|Bot|Rating
 #327|@Parth_Dhage_2|1594
 #328|@dlvc-bot|1592
 #329|@NEENA-2-BOT|1592
-#330|@EdwardKillick|1591
-#331|@BushyCamper|1590
-#332|@Chess_Bot-Child|1584
-#333|@FASTCHESSBOT|1584
+#330|@BushyCamper|1590
+#331|@Chess_Bot-Child|1584
+#332|@FASTCHESSBOT|1584
+#333|@EdwardKillick|1583
 #334|@Boom_Bot|1582
 #335|@Wahoo_Bot|1575
 #336|@Genetic_Chess_Bot|1571

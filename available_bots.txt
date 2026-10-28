@@ -1235,6 +1235,7 @@ enduring_leela
 energyofbeingbot
 engasaad-bot
 enginearg
+enginefromscratch
 enginehighlvl
 enginuous
 enjoyably3303
@@ -2039,6 +2040,7 @@ learningchess6_bot
 learningsequence
 lecousindekasparov
 ledzeppelin-bot
+leechgodestroy
 leechuen3
 leela-bot-tomdraug
 leela-test
@@ -2640,6 +2642,7 @@ ohnibot
 ok12435
 ok_zabu
 olifish
+olimarianbot
 olithink-5
 olithinkflash
 olithinknomaterial
@@ -3308,6 +3311,7 @@ sovereignking
 space_juicer
 spaceengine
 spaceisbot
+sparkchessengine
 sparrer123
 sparring_bot
 spartaksurensila
@@ -3536,6 +3540,7 @@ tempocore
 temporai
 tenborg
 tensorpupper
+tente8x
 terconari
 terfly
 terminatebot
@@ -4078,8 +4083,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-olimarianbot
-tente8x
-sparkchessengine
-enginefromscratch
-leechgodestroy
