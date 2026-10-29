@@ -877,6 +877,7 @@ clawde
 clementyne1
 cleobot
 cleoengine
+clessy-bot
 clj-bot
 clockworkengine
 clompdev
@@ -2158,6 +2159,7 @@ little-0
 littlegreenmanbot
 littlejennyren
 littlepatricia
+littleply
 littlesamsun
 littletony
 lizzardbot
@@ -2201,6 +2203,7 @@ ludwigbot
 luhut_robot
 lukebot
 lumac0
+luminexbot
 lunabottest
 lunachessengine
 lunaenginechess
@@ -2505,6 +2508,7 @@ nam-robot
 nam-stockfish
 nanozero
 nanozeroorg
+narc_engine
 narratingsince86
 nastmardov
 natbee_bot
@@ -3267,6 +3271,7 @@ skzapbot
 slate-engine
 slav-tech
 sldeadshot22
+sleepish
 sleepmindengine
 sleepypawnofficial
 slice-bot
@@ -4050,6 +4055,7 @@ zackes
 zagreus_engine
 zahak_engine
 zahlen
+zahoribot
 zalgirisbot
 zalgirisbot2
 zamuchess
@@ -4087,9 +4093,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-narc_engine
-clessy-bot
-zahoribot
-littleply
-luminexbot
-sleepish
+reality_bot
+gambittai
+miccoengine

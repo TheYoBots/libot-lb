@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@PlatinumBOT|2756
 #12|@Magicianrobot|2740
 #13|@Moment-That-Inspires|2705
-#14|@ChronicGambler|2690
-#15|@H-Zero|2650
-#16|@ChamberiAjedrez|2647
+#14|@H-Zero|2650
+#15|@ChamberiAjedrez|2647
+#16|@ChronicGambler|2642
 #17|@pawnocchio_bot|2623
 #18|@maia3-79m_2400|2591
 #19|@LeelaZero-UK|2585
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@HerokuHasnotplay|2196
 #85|@Digi-bot|2192
 #86|@IAMSTOCKFISH123|2192
-#87|@RavenEngine|2185
+#87|@RavenEngine|2184
 #88|@GothamChessBot|2183
 #89|@Nowinforyoukid|2177
 #90|@WeakStash|2177
