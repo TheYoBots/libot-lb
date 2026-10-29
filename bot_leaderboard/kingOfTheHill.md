@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@RockingSuperstars|2083
 #12|@OSaurus|2050
 #13|@BattleBornThe4th|2004
-#14|@Harakternyk|1994
+#14|@Harakternyk|1981
 #15|@kowalabi|1969
 #16|@chess_set_manager|1901
 #17|@QiOui|1900
@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@nickl1bot|1789
 #23|@clementyne1|1714
 #24|@malpamat|1703
-#25|@Martuni|1659
+#25|@Martuni|1657
 #26|@BattleBornThe2nd|1626
 #27|@spyros1bot|1582
 #28|@Lancelbot|1538

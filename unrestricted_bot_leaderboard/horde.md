@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@Bullet_bot_0526|2344
 #34|@eNErGyOFbEiNGbOT|2326
 #35|@Alexnajax_Fan|2316
-#36|@chess_set_manager|2314
+#36|@chess_set_manager|2300
 #37|@colinbot|2295
 #38|@AlfaBot|2293
 #39|@Fairy-Stockfish|2289
@@ -75,12 +75,12 @@ Rank|Bot|Rating
 #73|@iplayonlyrandom|2075
 #74|@kowalabi|2075
 #75|@Zimbabwean_chessbot|2073
-#76|@MMC_HUANGBAI|2066
-#77|@virus_exe-bot|2054
-#78|@CherryFish_Bot|2051
-#79|@Bot_AOOP11|2050
-#80|@Resolved-Bot|2045
-#81|@MDBOT|2038
+#76|@MDBOT|2071
+#77|@MMC_HUANGBAI|2066
+#78|@virus_exe-bot|2054
+#79|@CherryFish_Bot|2051
+#80|@Bot_AOOP11|2050
+#81|@Resolved-Bot|2045
 #82|@DrSmartBugs|2036
 #83|@QiOui|2029
 #84|@YoBot_v2|2019

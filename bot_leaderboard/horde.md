@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@c-t-r-l|2493
 #4|@BattleBornThe5th|2437
 #5|@rascal1|2432
-#6|@chess_set_manager|2314
+#6|@chess_set_manager|2300
 #7|@colinbot|2295
 #8|@calico1|2218
 #9|@beastie1|2217

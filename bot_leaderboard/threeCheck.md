@@ -7,12 +7,12 @@ Rank|Bot|Rating
 #5|@beastie1|2232
 #6|@c-t-r-l|2220
 #7|@RaspFish|2220
-#8|@colinbot|2195
+#8|@colinbot|2192
 #9|@McDonalds1955|2184
 #10|@calico1|2167
 #11|@SuperGame5|2159
-#12|@chess_set_manager|2129
-#13|@OSaurus|2123
+#12|@OSaurus|2123
+#13|@chess_set_manager|2119
 #14|@BattleBornThe4th|2098
 #15|@kowalabi|2056
 #16|@QiOui|1999
@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@nickl1bot|1848
 #21|@JemBok|1810
 #22|@clementyne1|1773
-#23|@Martuni|1765
+#23|@Martuni|1771
 #24|@malpamat|1734
 #25|@BattleBornThe2nd|1682
 #26|@spyros1bot|1642

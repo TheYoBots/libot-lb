@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@is_BOSS|2243
 #6|@McDonalds1955|2212
 #7|@c-t-r-l|2211
-#8|@colinbot|2151
+#8|@colinbot|2152
 #9|@beastie1|2082
 #10|@calico1|2026
 #11|@chess_set_manager|2023

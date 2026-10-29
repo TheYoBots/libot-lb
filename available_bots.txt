@@ -90,6 +90,7 @@ aliabdelaalchess
 alice-cesarina
 aliceshiro
 alieknek
+alienplays
 alightbot
 aliooooooo444
 all_except_chess960
@@ -1295,6 +1296,7 @@ fairytailregimebot
 faith_bot
 falch_bot
 falconengine
+fancybear_xs
 fantacticeman
 fantasticbot
 faruk_yvuz47
@@ -2539,6 +2541,7 @@ newest_stockfish
 newtsbot
 nexastrat
 nexosdefos
+next_uzbek
 nexuschess1
 nezh-bot
 nezuko_chess
@@ -3870,6 +3873,7 @@ virus_exe-bot
 virutor
 vishynotanand_thebot
 vive_2_chess_pro
+viviblitzfr
 vividmind
 vixen_is_very_cool
 vlad_777_0
@@ -4083,7 +4087,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-fancybear_xs
-next_uzbek
-alienplays
-viviblitzfr
+narc_engine
+clessy-bot
+zahoribot
+littleply
+luminexbot
+sleepish

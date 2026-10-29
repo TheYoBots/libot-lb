@@ -101,7 +101,7 @@ Rank|Bot|Rating
 #99|@HuxZero|2176
 #100|@AnUtterlyKarBot|2174
 #101|@RacingKingsBot_1|2160
-#102|@colinbot|2151
+#102|@colinbot|2152
 #103|@knight_128|2144
 #104|@Kizburb|2126
 #105|@mc-king-098|2124
@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@StockfishLowDepth|1953
 #127|@MyNameIsSpeedy|1935
 #128|@BattleBornThe4th|1930
-#129|@MDBOT|1929
+#129|@MDBOT|1930
 #130|@kowalabi|1923
 #131|@Pineapple-Friendly|1912
 #132|@Teamleaderbot|1904
