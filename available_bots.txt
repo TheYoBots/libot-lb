@@ -1426,6 +1426,7 @@ gambit-bot
 gambitdreamer
 gambitengine
 gambitonlybot
+gambittai
 game-bot
 gameromanbot
 gamingrun
@@ -2384,6 +2385,7 @@ messchessengine
 metangula
 metasoft
 micahmoore
+miccoengine
 michabay05
 middlegame_engine
 midnightbot
@@ -2982,6 +2984,7 @@ rdi_bot
 rdtchessbot
 re-bot
 realchessengine
+reality_bot
 reallybadplayerbot
 reallycrazybot
 reaper1bot
@@ -4093,6 +4096,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-reality_bot
-gambittai
-miccoengine
