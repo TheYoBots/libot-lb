@@ -1047,6 +1047,7 @@ debzero
 dechessbot
 deepbecky
 deepchessengine
+deepfish26
 deepfriedfish
 deepkalle
 deepllama
@@ -1248,6 +1249,7 @@ entebot
 enyobot
 epiano_bot
 epimetheusbot
+epo_5_chess_engine
 epoch512
 epr_parsifal
 erebusbot
@@ -3436,6 +3438,7 @@ stonefishengine
 stonks_fish
 stoqfish
 storm_shadow2012
+stormbot
 stormphraxengine
 storng766555
 straightbot
@@ -4101,6 +4104,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-stormbot
-epo_5_chess_engine
-deepfish26
+kakabot
+frinos
+dagfish
+stronggoliath
+ndashka_bot
