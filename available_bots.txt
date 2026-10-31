@@ -220,10 +220,12 @@ argentino_10
 argentino_50
 ariadne-bot
 ariav8
+arkheliachess
 arkiplayschess
 armageddon-fish
 arny_bot
 aromik_s_bot
+arroccobot
 arthurai
 artidigm_research
 artisan_bot
@@ -1955,6 +1957,7 @@ knightandy-bot
 knightlesskid
 knightlife-bot
 knightlight_engine
+knightmare_26
 knightowlbot
 knightsarmour
 knightsofthegambit2
@@ -2479,6 +2482,7 @@ mtalofficial
 multichessmcts
 multimodal-int
 munfish
+munzurbot2
 musashi-thebot
 mustafayilmazbot
 mustaley
@@ -3823,6 +3827,7 @@ usunfish
 usunfish-l0
 usunfish-l1
 usunfish-l7
+uundrstnd
 uvuvwevwevwesrevenge
 uxugin-bot
 uzenatch
@@ -4096,8 +4101,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-uundrstnd
-arroccobot
-knightmare_26
-arkheliachess
-munzurbot2
+stormbot
+epo_5_chess_engine
+deepfish26

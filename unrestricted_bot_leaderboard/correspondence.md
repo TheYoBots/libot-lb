@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@wyxx210704_bot|3461
-#2|@BlueMoonBot|3333
+#2|@BlueMoonBot|3326
 #3|@CuteBot|3208
 #4|@pawny_bot|3113
 #5|@SAISRANKARTHIK_7|3071
@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@fibonachi|2975
 #8|@Grzechu86|2852
 #9|@RandomKerbal|2816
-#10|@pawn_git|2780
+#10|@pawn_git|2777
 #11|@PlatinumBOT|2756
 #12|@Magicianrobot|2740
 #13|@Moment-That-Inspires|2705
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@Digi-bot|2192
 #85|@IAMSTOCKFISH123|2192
 #86|@GothamChessBot|2183
-#87|@RavenEngine|2182
+#87|@RavenEngine|2181
 #88|@Nowinforyoukid|2177
 #89|@WeakStash|2177
 #90|@LeelaChessTest|2172
