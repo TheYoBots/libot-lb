@@ -185,6 +185,7 @@ anutterlykarbot
 anytimemode
 apbp
 apexbot
+apexchess-bot
 apollo1414
 apollo314
 apollo_bot
@@ -1382,6 +1383,7 @@ fn_waldi
 follychess-com
 for9e
 forerito
+forktellbot
 fornax-engine
 fortunechess
 fougade
@@ -1664,6 +1666,7 @@ howtobasics
 hrant_petrosyan_bot
 hrtbot
 huebot1
+huginn_bot
 hulk990
 hulkbot
 humaia
@@ -1969,6 +1972,7 @@ knightsofthegambit2
 knucklefish
 knyazik_1
 koi_engine
+kolmato
 komodo-master
 komodo18
 komodo_engine
@@ -2405,6 +2409,7 @@ mikhailtal_jp
 milanbot
 mimirbot
 mimmic
+mind_bot
 minh_thuyet
 minhduc12
 minibotapi
@@ -2610,6 +2615,7 @@ noabot
 nobody11892
 nodesooleai
 noel-bot
+nohopeforman
 noobborsadhh
 noobbot1302
 noobic_bot
@@ -2645,6 +2651,7 @@ nyaabot
 nyxonyx
 o-rei-cx
 o9mniej_bot
+o_gg_o
 obi-pawnkenobot
 obsidianchessengine
 occhessadvanced
@@ -2851,6 +2858,7 @@ potato-chess-bot
 potato638
 potato_chess
 potatowosky
+power_stone
 powerbeast
 powerfullbot
 poweronbot
@@ -2890,6 +2898,7 @@ proteussf-turbo
 proteussf_power
 proteussfx-ai
 protocol_2
+protyv2
 proud_tamil_bot
 proustagm
 pruningbot
@@ -3048,6 +3057,7 @@ robloxianbot
 robochess3214
 robocidebot
 robocik
+robodoxadrez
 roboshroom
 robot-chaniru_perera
 robot_randeer2007
@@ -3295,6 +3305,7 @@ slothcomputer
 slothengine
 slow-and-stupid
 slowmate_bot
+sluicing
 slvov-bot
 slychessbot
 smallbrainpy
@@ -4109,14 +4120,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sluicing
-mind_bot
-power_stone
-o_gg_o
-robodoxadrez
-kolmato
-forktellbot
-protyv2
-huginn_bot
-apexchess-bot
-nohopeforman
+territorybot
+beyondheliosai
+lucientupin_bot

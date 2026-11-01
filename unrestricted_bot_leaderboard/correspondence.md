@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@fibonachi|2975
 #8|@Grzechu86|2852
 #9|@RandomKerbal|2816
-#10|@pawn_git|2777
+#10|@pawn_git|2786
 #11|@PlatinumBOT|2756
 #12|@Magicianrobot|2740
 #13|@Moment-That-Inspires|2705
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@Blunderbuss-bot|2221
 #78|@OpeningsBot|2221
 #79|@Abuziddin-BOT|2219
-#80|@RavenEngine|2218
+#80|@RavenEngine|2216
 #81|@BalloonBot|2204
 #82|@AbhijithHISBot|2201
 #83|@Ar4Asd1-BOT|2197
@@ -182,7 +182,7 @@ Rank|Bot|Rating
 #180|@chicken_farmer|1926
 #181|@croco_bot|1921
 #182|@yowCapablanca|1914
-#183|@GarboBot|1910
+#183|@GarboBot|1913
 #184|@RadianceEngine|1905
 #185|@felipe_bot_53|1898
 #186|@vanibot|1897
@@ -330,10 +330,10 @@ Rank|Bot|Rating
 #328|@NEENA-2-BOT|1592
 #329|@BushyCamper|1590
 #330|@EdwardKillick|1590
-#331|@maia3-79m_800|1587
-#332|@Chess_Bot-Child|1584
-#333|@FASTCHESSBOT|1584
-#334|@Boom_Bot|1582
+#331|@Chess_Bot-Child|1584
+#332|@FASTCHESSBOT|1584
+#333|@Boom_Bot|1582
+#334|@maia3-79m_800|1575
 #335|@Wahoo_Bot|1575
 #336|@Genetic_Chess_Bot|1571
 #337|@maia3-79m_1600|1571
