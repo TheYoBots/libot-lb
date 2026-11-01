@@ -1008,6 +1008,7 @@ czesc-bot
 d2d4go
 dabestfarmer
 daftnot
+dagfish
 daisy-bot
 dakingsofficialbot
 dala-1100
@@ -1399,6 +1400,7 @@ friendoftosik2
 friesai
 fringe407
 fringecases
+frinos
 fritz_16
 frogskittens_thebot
 frost_fire
@@ -1884,6 +1886,7 @@ k_shi_bot
 kaaaaiiiww
 kablosuz_beyin
 kahunabot
+kakabot
 kalabot
 kamikazefighter
 kapablanca_balls
@@ -2525,6 +2528,7 @@ natto-bot
 natural-disaster
 naughty-dottie
 nc3nc6bot
+ndashka_bot
 nebubot
 nebulogic
 necromindx
@@ -3452,6 +3456,7 @@ streamervschat
 striker_bot
 stringbot
 strongchessengine
+stronggoliath
 strongmagnuscarlsen
 strudlbot
 studyloversz-bot
@@ -4104,8 +4109,14 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kakabot
-frinos
-dagfish
-stronggoliath
-ndashka_bot
+sluicing
+mind_bot
+power_stone
+o_gg_o
+robodoxadrez
+kolmato
+forktellbot
+protyv2
+huginn_bot
+apexchess-bot
+nohopeforman
