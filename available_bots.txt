@@ -2400,6 +2400,7 @@ metangula
 metasoft
 micahmoore
 miccoengine
+michaamateurbot
 michabay05
 middlegame_engine
 midnightbot
@@ -3293,6 +3294,7 @@ skyray7
 skywalker2006
 skywalker_bot
 skzapbot
+sl_tech-bot
 slate-engine
 slav-tech
 sldeadshot22
@@ -4123,5 +4125,10 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-michaamateurbot
-sl_tech-bot
+space_bot
+premove90-1500
+remychessengine
+kissol-chess
+lemonjuice10
+quirkafleeg-zx48k
+quirkafleeg-zxnext
