@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Kingzbot|3094
+#1|@Kingzbot|3089
 #2|@EmptikBot|3070
 #3|@Fairy_Belzedar|3044
 #4|@abdcebot|3042
@@ -178,12 +178,12 @@ Rank|Bot|Rating
 #176|@AnUtterlyKarBot|2134
 #177|@XXIstCentury|2131
 #178|@nickl1bot|2123
-#179|@NilatacBot|2111
+#179|@NilatacBot|2116
 #180|@PyChessBot|2102
 #181|@TurkiyeHogwartsBOT|2099
 #182|@Martuni|2098
-#183|@clementyne1|2079
-#184|@JemBok|2072
+#183|@JemBok|2078
+#184|@clementyne1|2067
 #185|@OpeningsBot|2062
 #186|@ZamuChess|2049
 #187|@Bottios|2042
@@ -199,8 +199,8 @@ Rank|Bot|Rating
 #197|@antichesssss|1964
 #198|@Menganti|1963
 #199|@CloudBOT|1950
-#200|@Harakternyk|1940
-#201|@CatNail|1920
+#200|@CatNail|1948
+#201|@Harakternyk|1940
 #202|@TestingBot1|1914
 #203|@Crepusculum|1881
 #204|@NoTallkOnlyGames|1871
@@ -239,8 +239,8 @@ Rank|Bot|Rating
 #237|@virus_exe-bot|1622
 #238|@Zer0_Tw0|1620
 #239|@TerrariaBot|1618
-#240|@XXXTryandTryXXX|1617
-#241|@Lancelbot|1614
+#240|@Lancelbot|1617
+#241|@XXXTryandTryXXX|1617
 #242|@AEBROADUSBOTTER|1607
 #243|@BushyCamper|1585
 #244|@Lightning_SpeedChess|1580
@@ -307,7 +307,7 @@ Rank|Bot|Rating
 #305|@relevantproblem|1413
 #306|@are_bots_good|1412
 #307|@GuineaBot2|1412
-#308|@goldinho1bot|1408
+#308|@goldinho1bot|1406
 #309|@TFRChessClub|1404
 #310|@PaddiBot|1399
 #311|@HiddeNL|1393

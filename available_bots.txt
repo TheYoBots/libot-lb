@@ -377,6 +377,7 @@ betteranalyze
 betterhuman
 betterthanyougm
 beyondcomprehension
+beyondheliosai
 bfdzvfsgaergfds
 bfiedler-bot
 bggbro
@@ -2209,6 +2210,7 @@ lozza-bot
 ltchessbot
 lucasma8795
 lucia_ai
+lucientupin_bot
 lucifercat
 lucror
 lucy-bot
@@ -3580,6 +3582,7 @@ terfly
 terminatebot
 terminator_xe
 terrariabot
+territorybot
 test-z
 test_bot123
 test_god_50_bot
@@ -4120,6 +4123,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-territorybot
-beyondheliosai
-lucientupin_bot
+michaamateurbot
+sl_tech-bot
