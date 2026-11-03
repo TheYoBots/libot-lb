@@ -1947,6 +1947,7 @@ kingzbot
 kireevi
 kirinchessbot
 kissenginev2
+kissol-chess
 kittenengine
 kittenfish
 kittyenginev5
@@ -2129,6 +2130,7 @@ legochess98
 legotechniccontrolpl
 leightfrengine
 lelaaz
+lemonjuice10
 lemuffinbot
 lenschess-com
 lenya228_bot
@@ -2871,6 +2873,7 @@ pranavisthebest
 prawn_bot
 preben-engine
 preferencesbookmove
+premove90-1500
 prestonh
 preunpatching-bot
 priessnitz
@@ -2947,6 +2950,8 @@ questionx
 quickliquid
 quintbot
 quintiumbotaccount
+quirkafleeg-zx48k
+quirkafleeg-zxnext
 quokkabot
 quros
 qwerty_01bot_01
@@ -3026,6 +3031,7 @@ registerpythonspeed
 reinforcementtrial
 relevantproblem
 remstalbot
+remychessengine
 renegadeengine
 repl_chess
 reptilesbedamned
@@ -3344,6 +3350,7 @@ soulgar
 southbot
 sovereign_bot
 sovereignking
+space_bot
 space_juicer
 spaceengine
 spaceisbot
@@ -4125,10 +4132,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-space_bot
-premove90-1500
-remychessengine
-kissol-chess
-lemonjuice10
-quirkafleeg-zx48k
-quirkafleeg-zxnext
+styx-chess
+rust-in-pieces-nnue
