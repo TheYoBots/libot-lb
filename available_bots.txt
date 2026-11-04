@@ -3125,6 +3125,7 @@ rusnikeeai
 rust-bot
 rust-engine
 rust-in-pieces
+rust-in-pieces-nnue
 rust_lang_chess
 rustbot
 rustbot2003
@@ -3489,6 +3490,7 @@ stupidchessrobot
 stupidfishbotbydscs
 sturddle
 stwongfish
+styx-chess
 styx_reckless
 sub_bot
 subgoal_chess
@@ -4132,5 +4134,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-styx-chess
-rust-in-pieces-nnue
+opycep
+quirkafleeg-pc
