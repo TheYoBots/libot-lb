@@ -2716,6 +2716,7 @@ openingtrainbot
 opentalbot2023
 opldksijfkj
 opulent_ophelia
+opycep
 orcabot
 orchestrabot
 orctbot
@@ -2950,6 +2951,7 @@ questionx
 quickliquid
 quintbot
 quintiumbotaccount
+quirkafleeg-pc
 quirkafleeg-zx48k
 quirkafleeg-zxnext
 quokkabot
@@ -4134,5 +4136,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-opycep
-quirkafleeg-pc
+madeincyprus
+mcvoid-bot
