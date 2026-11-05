@@ -2698,6 +2698,7 @@ omegazero-bot
 omelettechessengine
 omerbot
 omnibot
+onechessbot
 onenode
 oneversusmany
 onezenpanda
@@ -2855,6 +2856,7 @@ pogsauce624
 polarchessbot
 polaris2bot
 polochon-bot
+polvo_engine
 polybot
 pomeranian_bot
 pontiengine
@@ -4138,5 +4140,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-polvo_engine
-onechessbot
+galaxy-stellar-bot
+ironrooks
+pawnopenings
+playmimir
+wall-e-bot
+zaatarthecat

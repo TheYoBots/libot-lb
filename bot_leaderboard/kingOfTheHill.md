@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2379
-#2|@is_BOSS|2292
+#1|@MEGA-NOOB-BOT|2373
+#2|@is_BOSS|2286
 #3|@Lili-ai|2247
 #4|@RaspFish|2247
 #5|@c-t-r-l|2242
@@ -10,14 +10,14 @@ Rank|Bot|Rating
 #8|@calico1|2112
 #9|@RockingSuperstars|2097
 #10|@OSaurus|2056
-#11|@BattleBornThe4th|2023
-#12|@MDBOT|2023
+#11|@MDBOT|2045
+#12|@BattleBornThe4th|2023
 #13|@kowalabi|1949
 #14|@colinbot|1915
 #15|@QiOui|1896
 #16|@chess_set_manager|1891
 #17|@soulgar|1883
-#18|@OpeningsBot|1848
+#18|@OpeningsBot|1847
 #19|@rachl1|1828
 #20|@BattleBornThe3rd|1822
 #21|@nickl1bot|1810
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@dragoodle|1449
 #31|@BattleBornThe1st|1417
 #32|@hashcake1|1318
-#33|@BubbleBot2|1309
+#33|@BubbleBot2|1308
 #34|@reaper1bot|1298
 #35|@escarbo|1232
 #36|@genesis1bot|1170
