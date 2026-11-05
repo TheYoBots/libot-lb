@@ -49,10 +49,10 @@ Rank|Bot|Rating
 #47|@HIWIN1234|2261
 #48|@rascal1|2260
 #49|@YoBot_v2|2257
-#50|@colinbot|2238
+#50|@colinbot|2248
 #51|@OlympusCz|2231
 #52|@RockingSuperstars|2222
-#53|@c-t-r-l|2220
+#53|@c-t-r-l|2219
 #54|@Lili-ai|2216
 #55|@RaspFish|2216
 #56|@beastie1|2215
@@ -62,9 +62,9 @@ Rank|Bot|Rating
 #60|@xiang-qi|2207
 #61|@YellowFlash_v2|2200
 #62|@DeepFriedFish|2185
-#63|@virus_exe-bot|2180
-#64|@ReallyCrazyBOT|2172
-#65|@McDonalds1955|2171
+#63|@McDonalds1955|2183
+#64|@virus_exe-bot|2180
+#65|@ReallyCrazyBOT|2172
 #66|@SuperGame5|2159
 #67|@CheckmateX1|2150
 #68|@ResoluteBot|2150

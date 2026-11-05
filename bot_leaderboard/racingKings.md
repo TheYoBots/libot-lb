@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@RaspFish|2250
 #3|@is_BOSS|2209
 #4|@Lili-ai|2197
-#5|@McDonalds1955|2194
+#5|@McDonalds1955|2197
 #6|@c-t-r-l|2189
 #7|@colinbot|2168
 #8|@RacingKingsBot_1|2166
-#9|@MDBOT|2074
+#9|@MDBOT|2069
 #10|@beastie1|2064
 #11|@calico1|2047
 #12|@chess_set_manager|2029

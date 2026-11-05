@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Kingzbot|3063
+#1|@Kingzbot|3059
 #2|@RaspFish|2856
-#3|@McDonalds1955|2785
+#3|@McDonalds1955|2790
 #4|@c-t-r-l|2725
 #5|@MDBOT|2587
 #6|@is_BOSS|2527
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@clementyne1|2081
 #27|@Bottios|2042
 #28|@malpamat|2040
-#29|@CatNail|2002
+#29|@CatNail|2013
 #30|@BattleBornThe2nd|1945
 #31|@spyros1bot|1786
 #32|@Lancelbot|1597

@@ -2244,6 +2244,7 @@ macos23
 macroman952
 macuser60
 madameengine
+madeincyprus
 maello_bot
 maelstrom-chess
 mafybe
@@ -2370,6 +2371,7 @@ mchess-engine
 mckapran78
 mcpeasearch
 mcufish
+mcvoid-bot
 mcyborg
 md211bot
 mdbot
@@ -4136,5 +4138,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-madeincyprus
-mcvoid-bot
+polvo_engine
+onechessbot

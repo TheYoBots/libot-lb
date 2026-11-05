@@ -330,10 +330,10 @@ Rank|Bot|Rating
 #328|@dlvc-bot|1592
 #329|@NEENA-2-BOT|1592
 #330|@BushyCamper|1590
-#331|@EdwardKillick|1590
-#332|@Chess_Bot-Child|1584
-#333|@FASTCHESSBOT|1584
-#334|@Boom_Bot|1582
+#331|@Chess_Bot-Child|1584
+#332|@FASTCHESSBOT|1584
+#333|@Boom_Bot|1582
+#334|@EdwardKillick|1581
 #335|@Wahoo_Bot|1575
 #336|@Genetic_Chess_Bot|1571
 #337|@maia3-79m_1600|1571

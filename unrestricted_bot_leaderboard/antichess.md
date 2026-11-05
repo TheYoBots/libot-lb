@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@EmptikBot|3070
-#2|@Kingzbot|3063
+#2|@Kingzbot|3059
 #3|@Fairy_Belzedar|3044
 #4|@abdcebot|3042
 #5|@VariantsBot|3021
@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@FayEFish|2797
 #19|@TacticalBot|2796
 #20|@varient-chess-bot1|2792
-#21|@lord-bot|2789
-#22|@FireFishBOT|2785
-#23|@McDonalds1955|2785
+#21|@McDonalds1955|2790
+#22|@lord-bot|2789
+#23|@FireFishBOT|2785
 #24|@CheckmateX1|2775
 #25|@VariantsTop|2765
 #26|@Viet-AI|2765
@@ -191,9 +191,9 @@ Rank|Bot|Rating
 #189|@Botzer|2020
 #190|@Jussicas|2019
 #191|@CloudBotZero|2018
-#192|@B0T5_RU13|2011
-#193|@TheLegitLegend|2010
-#194|@CatNail|2002
+#192|@CatNail|2013
+#193|@B0T5_RU13|2011
+#194|@TheLegitLegend|2010
 #195|@CrayyBot|1989
 #196|@BetaZ|1973
 #197|@antichesssss|1964

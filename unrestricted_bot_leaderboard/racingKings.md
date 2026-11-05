@@ -93,8 +93,8 @@ Rank|Bot|Rating
 #91|@OlympusCz|2200
 #92|@Trainspotter|2200
 #93|@Lili-ai|2197
-#94|@SuperGame5|2196
-#95|@McDonalds1955|2194
+#94|@McDonalds1955|2197
+#95|@SuperGame5|2196
 #96|@c-t-r-l|2189
 #97|@Hyper-Stockfish|2189
 #98|@Johnsun|2181
@@ -112,8 +112,8 @@ Rank|Bot|Rating
 #110|@atomicli|2111
 #111|@Trumpfor2O2O|2103
 #112|@PetersTestBot|2081
-#113|@MDBOT|2074
-#114|@CloudBOT|2073
+#113|@CloudBOT|2073
+#114|@MDBOT|2069
 #115|@beastie1|2064
 #116|@JustDontFlagMe|2048
 #117|@calico1|2047

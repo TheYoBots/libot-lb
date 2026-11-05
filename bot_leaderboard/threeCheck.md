@@ -2,13 +2,13 @@ Rank|Bot|Rating
 ---|---|---
 #1|@is_BOSS|2336
 #2|@MEGA-NOOB-BOT|2316
-#3|@colinbot|2238
-#4|@c-t-r-l|2220
+#3|@colinbot|2248
+#4|@c-t-r-l|2219
 #5|@Lili-ai|2216
 #6|@RaspFish|2216
 #7|@beastie1|2215
 #8|@calico1|2207
-#9|@McDonalds1955|2171
+#9|@McDonalds1955|2183
 #10|@MDBOT|2131
 #11|@OSaurus|2102
 #12|@BattleBornThe4th|2090

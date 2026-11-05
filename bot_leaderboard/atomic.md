@@ -3,13 +3,13 @@ Rank|Bot|Rating
 #1|@MEGA-NOOB-BOT|2310
 #2|@is_BOSS|2305
 #3|@ToromBot|2285
-#4|@McDonalds1955|2260
-#5|@Kingzbot|2190
+#4|@McDonalds1955|2261
+#5|@Kingzbot|2194
 #6|@RaspFish|2188
-#7|@Lili-ai|2144
+#7|@Lili-ai|2135
 #8|@c-t-r-l|2122
 #9|@beastie1|2120
-#10|@colinbot|2069
+#10|@colinbot|2079
 #11|@calico1|2065
 #12|@OSaurus|2031
 #13|@MDBOT|2026
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@JemBok|1748
 #23|@clementyne1|1666
 #24|@malpamat|1626
-#25|@OpeningsBot|1608
-#26|@Martuni|1552
+#25|@OpeningsBot|1622
+#26|@Martuni|1549
 #27|@BattleBornThe2nd|1514
 #28|@spyros1bot|1496
 #29|@Lancelbot|1484
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@Bottios|1438
 #32|@dragoodle|1372
 #33|@BattleBornThe1st|1355
-#34|@StockfishLowDepth|1320
+#34|@StockfishLowDepth|1295
 #35|@hashcake1|1215
 #36|@reaper1bot|1171
 #37|@escarbo|1138
