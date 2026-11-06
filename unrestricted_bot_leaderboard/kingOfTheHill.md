@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@DarkOnBot|2219
 #46|@SF_Bot1nok|2216
 #47|@Bot1nokk|2210
-#48|@McDonalds1955|2205
+#48|@McDonalds1955|2209
 #49|@PowerOnBot|2195
 #50|@UnDisstoppableBot|2193
 #51|@Amrobotone|2184
@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@vrnts_colinbot|2068
 #77|@KingfishX|2066
 #78|@OSaurus|2056
-#79|@NewChessEngine-ai|2046
-#80|@MDBOT|2045
+#79|@MDBOT|2049
+#80|@NewChessEngine-ai|2046
 #81|@Hyper-Stockfish|2044
 #82|@Kizbuurb|2035
 #83|@CloudBot_v2|2027
@@ -115,13 +115,13 @@ Rank|Bot|Rating
 #113|@chess_set_manager|1891
 #114|@PetersTestBot|1890
 #115|@MistakeBOT|1886
-#116|@soulgar|1883
-#117|@EagleEye2021|1880
+#116|@EagleEye2021|1880
+#117|@OpeningsBot|1872
 #118|@xiang-qi|1868
 #119|@que-hyper|1865
-#120|@relevantproblem|1857
-#121|@Botzer|1851
-#122|@OpeningsBot|1847
+#120|@soulgar|1861
+#121|@relevantproblem|1857
+#122|@Botzer|1851
 #123|@MarkusPVB|1844
 #124|@B0T5_RU13|1835
 #125|@rachl1|1828
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@BOT_Stockfish13|1686
 #158|@malpamat|1685
 #159|@SCP079|1660
-#160|@Martuni|1658
+#160|@Martuni|1655
 #161|@BattleBornThe2nd|1644
 #162|@chessemkabot|1625
 #163|@CoderDen732|1621

@@ -1428,6 +1428,7 @@ fychess_bot
 g-sigmag-13
 g0thamb0t
 gage12_bot
+galaxy-stellar-bot
 galaxy_guardian
 gam3play3r
 gam3play3r-bot
@@ -1776,6 +1777,7 @@ irinaengine
 ironbot
 ironfang
 ironman2006
+ironrooks
 is_boss
 isaac_terminator
 isaacwb_bot
@@ -2767,6 +2769,7 @@ pawn-bot
 pawn_git
 pawn_stormer_d4
 pawnocchio_bot
+pawnopenings
 pawnrobot
 pawny_bot
 pdfprizebot
@@ -2843,6 +2846,7 @@ playinglikegiftian
 playleela
 playleelachess
 playmarius
+playmimir
 playsf
 playtdfa
 playwithkomodo
@@ -3952,6 +3956,7 @@ wahoo_bot
 wakabot
 wakandaforever201212
 waldemar-the-elf
+wall-e-bot
 walleye_bot
 walpurti
 walrusbot
@@ -4098,6 +4103,7 @@ z-move
 z-o_aspenlabs
 z5_engine
 z6g
+zaatarthecat
 zackes
 zagreus_engine
 zahak_engine
@@ -4140,9 +4146,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-galaxy-stellar-bot
-ironrooks
-pawnopenings
-playmimir
-wall-e-bot
-zaatarthecat
+fissureengine
+supra_engine

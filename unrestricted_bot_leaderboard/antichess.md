@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@EmptikBot|3070
-#2|@Kingzbot|3059
+#2|@Kingzbot|3061
 #3|@Fairy_Belzedar|3044
 #4|@abdcebot|3042
 #5|@VariantsBot|3021
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@Viet-BOT|2598
 #57|@firstrobot|2593
 #58|@AIAlphaAI|2589
-#59|@Worst-ai|2585
-#60|@MDBOT|2584
+#59|@MDBOT|2585
+#60|@Worst-ai|2585
 #61|@WilliamGAsaad|2584
 #62|@Team_bot_08512|2581
 #63|@YoBot_v2|2565
@@ -177,8 +177,8 @@ Rank|Bot|Rating
 #175|@AntiChessBot|2142
 #176|@AnUtterlyKarBot|2134
 #177|@XXIstCentury|2131
-#178|@OpeningsBot|2117
-#179|@NilatacBot|2116
+#178|@OpeningsBot|2116
+#179|@NilatacBot|2115
 #180|@nickl1bot|2104
 #181|@PyChessBot|2102
 #182|@TurkiyeHogwartsBOT|2099

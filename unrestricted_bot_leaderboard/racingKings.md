@@ -98,8 +98,8 @@ Rank|Bot|Rating
 #96|@Lili-ai|2188
 #97|@c-t-r-l|2187
 #98|@Johnsun|2181
-#99|@RacingKingsBot_1|2178
-#100|@HuxZero|2176
+#99|@HuxZero|2176
+#100|@RacingKingsBot_1|2175
 #101|@AnUtterlyKarBot|2174
 #102|@colinbot|2171
 #103|@knight_128|2144
@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@xiang-qi|2113
 #110|@atomicli|2111
 #111|@Trumpfor2O2O|2103
-#112|@PetersTestBot|2081
-#113|@MDBOT|2078
+#112|@MDBOT|2082
+#113|@PetersTestBot|2081
 #114|@CloudBOT|2073
 #115|@beastie1|2064
 #116|@JustDontFlagMe|2048

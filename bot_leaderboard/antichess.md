@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Kingzbot|3059
+#1|@Kingzbot|3061
 #2|@RaspFish|2856
 #3|@McDonalds1955|2789
 #4|@c-t-r-l|2725
-#5|@MDBOT|2584
+#5|@MDBOT|2585
 #6|@colinbot|2534
 #7|@chess_set_manager|2522
 #8|@is_BOSS|2517
@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@soulgar|2221
 #19|@rachl1|2189
 #20|@BattleBornThe3rd|2168
-#21|@OpeningsBot|2117
-#22|@NilatacBot|2116
+#21|@OpeningsBot|2116
+#22|@NilatacBot|2115
 #23|@nickl1bot|2104
 #24|@JemBok|2089
 #25|@Martuni|2087

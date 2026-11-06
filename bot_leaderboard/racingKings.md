@@ -6,9 +6,9 @@ Rank|Bot|Rating
 #4|@McDonalds1955|2192
 #5|@Lili-ai|2188
 #6|@c-t-r-l|2187
-#7|@RacingKingsBot_1|2178
+#7|@RacingKingsBot_1|2175
 #8|@colinbot|2171
-#9|@MDBOT|2078
+#9|@MDBOT|2082
 #10|@beastie1|2064
 #11|@calico1|2047
 #12|@chess_set_manager|2029
