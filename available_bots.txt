@@ -1362,6 +1362,7 @@ fishstein
 fishstock10
 fishstockwr
 fisk_bot
+fissureengine
 fivejoyouspandas
 fjui2
 flagfish
@@ -3536,6 +3537,7 @@ superleela
 superman-chess
 supermarkishere
 superstockfish
+supra_engine
 supranova_python
 supranova_v11
 survivalfish-light
@@ -4146,5 +4148,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-fissureengine
-supra_engine
+schach-knecht
+ahmedzhanov
+dan90113
+moteur441
