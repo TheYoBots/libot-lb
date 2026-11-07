@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Kingzbot|3061
-#2|@ToromBot|2967
+#1|@Kingzbot|3047
+#2|@ToromBot|2969
 #3|@RaspFish|2856
-#4|@McDonalds1955|2789
-#5|@c-t-r-l|2725
-#6|@MDBOT|2586
+#4|@McDonalds1955|2780
+#5|@c-t-r-l|2738
+#6|@MDBOT|2590
 #7|@colinbot|2534
 #8|@chess_set_manager|2522
 #9|@is_BOSS|2511
@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@calico1|2442
 #14|@BattleBornThe4th|2342
 #15|@kowalabi|2328
-#16|@anti-bot|2296
+#16|@anti-bot|2300
 #17|@QiOui|2248
 #18|@soulgar|2221
 #19|@rachl1|2189
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@BattleBornThe1st|1153
 #37|@hashcake1|1016
 #38|@reaper1bot|982
-#39|@puisne|971
+#39|@puisne|978
 #40|@escarbo|897
 #41|@genesis1bot|873
 #42|@Randmaster_EGTB|736

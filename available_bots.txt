@@ -41,6 +41,7 @@ aggressivestockfish
 aggrobot
 agnay_202524
 ahavaisbotting
+ahmedzhanov
 ahmet-botahmet
 ai-con
 ai-electro
@@ -1019,6 +1020,7 @@ dala-1600
 dala-2000
 dala-700
 dala-900
+dan90113
 dan_thebot
 danerdbot
 danerdbot2
@@ -2470,6 +2472,7 @@ morabandbot
 morphbot
 mostactive
 mostlyhuman1900
+moteur441
 motevakelbot
 mothersdaymang0
 motor-0
@@ -3195,6 +3198,7 @@ saxtonengine
 sbnovella
 sc0pe-ma3str0
 scalaqueen
+schach-knecht
 schachprog
 schnecken_bot
 schneizel2
@@ -4148,7 +4152,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-schach-knecht
-ahmedzhanov
-dan90113
-moteur441
+karl-engine-v1
+aqueval-chess
+thevariantsnormalbot
+palebots

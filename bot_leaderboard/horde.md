@@ -2,10 +2,10 @@ Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2733
 #2|@McDonalds1955|2550
-#3|@c-t-r-l|2536
-#4|@Lili-ai|2459
-#5|@Kingzbot|2449
-#6|@MDBOT|2357
+#3|@c-t-r-l|2541
+#4|@Kingzbot|2449
+#5|@Lili-ai|2443
+#6|@MDBOT|2354
 #7|@colinbot|2262
 #8|@chess_set_manager|2261
 #9|@beastie1|2231
