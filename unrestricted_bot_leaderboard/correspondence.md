@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@wyxx210704_bot|3461
 #2|@BlueMoonBot|3339
-#3|@CuteBot|3140
+#3|@CuteBot|3191
 #4|@pawny_bot|3113
 #5|@SAISRANKARTHIK_7|3071
 #6|@pirates1|3051
@@ -74,12 +74,12 @@ Rank|Bot|Rating
 #72|@DrSmartBugs|2230
 #73|@Jobabot|2229
 #74|@ttBOT|2229
-#75|@Bot_of_jotim431|2227
-#76|@Tundra4|2227
-#77|@SEtheChessGod|2224
-#78|@Blunderbuss-bot|2221
-#79|@Abuziddin-BOT|2219
-#80|@OpeningsBot|2217
+#75|@OpeningsBot|2228
+#76|@Bot_of_jotim431|2227
+#77|@Tundra4|2227
+#78|@SEtheChessGod|2224
+#79|@Blunderbuss-bot|2221
+#80|@Abuziddin-BOT|2219
 #81|@BalloonBot|2204
 #82|@AbhijithHISBot|2201
 #83|@Ar4Asd1-BOT|2197

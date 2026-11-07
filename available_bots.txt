@@ -200,6 +200,7 @@ approximationbot
 apraz
 aquaflame
 aquafrenzy
+aqueval-chess
 aqwert123
 ar4asd1-bot
 ara-online
@@ -1901,6 +1902,7 @@ kamikazefighter
 kapablanca_balls
 karimbot
 karl-bot
+karl-engine-v1
 karly64
 karpen-b
 karpov_bot
@@ -2750,6 +2752,7 @@ pacman3000
 paconbot
 paddibot
 painbotpain
+palebots
 palisade
 palrishabh
 palrishabheasy
@@ -3703,6 +3706,7 @@ thethanosbot
 theultimatechzb
 theunforgivingbot
 theunrestrictedgod
+thevariantsnormalbot
 thevikingengine
 theweakestbot
 thewinnerbetter
@@ -4152,7 +4156,10 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-karl-engine-v1
-aqueval-chess
-thevariantsnormalbot
-palebots
+leelonardo
+goats-of-bots
+jjugle
+utrain-chess-bot
+ndr1sn
+thomengine
+glorbo_evermorrow
