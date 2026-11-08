@@ -2636,6 +2636,7 @@ nobody11892
 nodesooleai
 noel-bot
 nohopeforman
+noksiy
 noobborsadhh
 noobbot1302
 noobic_bot
@@ -3137,6 +3138,7 @@ rubot_simple
 rubus
 ruby-cpu
 ruby_sapphire_www
+rubyai
 rubysbot
 ruchess_r
 rudim-bot
@@ -4163,5 +4165,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-rubyai
-noksiy
+chiral_ebt
+gaiachessengine
+beattheengine
+trrchessbot
