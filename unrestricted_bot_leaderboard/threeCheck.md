@@ -60,9 +60,9 @@ Rank|Bot|Rating
 #58|@xiang-qi|2207
 #59|@YellowFlash_v2|2200
 #60|@RockingSuperstars|2199
-#61|@McDonalds1955|2191
-#62|@Lili-ai|2186
-#63|@DeepFriedFish|2185
+#61|@Lili-ai|2186
+#62|@DeepFriedFish|2185
+#63|@McDonalds1955|2185
 #64|@virus_exe-bot|2180
 #65|@MDBOT|2173
 #66|@ReallyCrazyBOT|2172
@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@Storm_Shadow2012|1817
 #139|@Chesz_Art|1815
 #140|@ElFinsBoT|1808
-#141|@Martuni|1789
+#141|@Martuni|1796
 #142|@pussaW|1785
 #143|@Tacticall_Bot|1779
 #144|@clementyne1|1757

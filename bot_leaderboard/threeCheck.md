@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@beastie1|2215
 #7|@colinbot|2208
 #8|@calico1|2207
-#9|@McDonalds1955|2191
-#10|@Lili-ai|2186
+#9|@Lili-ai|2186
+#10|@McDonalds1955|2185
 #11|@MDBOT|2173
 #12|@DarkOnBot|2138
 #13|@OSaurus|2102
@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@BattleBornThe3rd|1898
 #21|@nickl1bot|1858
 #22|@JemBok|1844
-#23|@Martuni|1789
+#23|@Martuni|1796
 #24|@clementyne1|1757
 #25|@malpamat|1704
 #26|@BattleBornThe2nd|1680
@@ -35,4 +35,3 @@ Rank|Bot|Rating
 #33|@BubbleBot2|1425
 #34|@hashcake1|1347
 #35|@escarbo|1273
-#36|@genesis1bot|1175

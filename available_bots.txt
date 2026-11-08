@@ -1489,9 +1489,11 @@ giphy_logo
 giuliaai
 gkr_b0t
 gladius_bot
+glorbo_evermorrow
 gluewinner
 gnu4u
 gnupassant
+goats-of-bots
 goblinajedrezai
 goblinbot
 goboter
@@ -1843,6 +1845,7 @@ jgrizzbt-bot
 jibbby
 jimmy_inc3710
 jinko-chan
+jjugle
 jkcheeserchess
 jkiddingbot
 jmjansen_aus_bot
@@ -2125,6 +2128,7 @@ leelazerojj
 leelazerovn
 leelensteinnn
 leella-stockfish
+leelonardo
 leetomic
 legend_engine
 legendary-ai
@@ -2549,6 +2553,7 @@ natural-disaster
 naughty-dottie
 nc3nc6bot
 ndashka_bot
+ndr1sn
 nebubot
 nebulogic
 necromindx
@@ -3717,6 +3722,7 @@ thinkingpileorubbish
 thinn_gopher
 thisisntabot
 thomastce1
+thomengine
 thonny_bot
 thousandatom
 threeisthree
@@ -3880,6 +3886,7 @@ usunfish
 usunfish-l0
 usunfish-l1
 usunfish-l7
+utrain-chess-bot
 uundrstnd
 uvuvwevwevwesrevenge
 uxugin-bot
@@ -4156,10 +4163,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-leelonardo
-goats-of-bots
-jjugle
-utrain-chess-bot
-ndr1sn
-thomengine
-glorbo_evermorrow
+rubyai
+noksiy

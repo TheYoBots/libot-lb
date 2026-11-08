@@ -1,14 +1,14 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Belzedarian|2386
+#1|@Belzedarian|2431
 #2|@MEGA-NOOB-BOT|2327
 #3|@is_BOSS|2305
-#4|@McDonalds1955|2252
+#4|@McDonalds1955|2254
 #5|@ToromBot|2233
-#6|@Kingzbot|2204
+#6|@Kingzbot|2205
 #7|@RaspFish|2191
-#8|@Lili-ai|2173
-#9|@DarkOnBot|2171
+#8|@DarkOnBot|2171
+#9|@Lili-ai|2157
 #10|@c-t-r-l|2127
 #11|@beastie1|2120
 #12|@calico1|2065
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@clementyne1|1666
 #25|@OpeningsBot|1638
 #26|@malpamat|1626
-#27|@Martuni|1551
+#27|@Martuni|1549
 #28|@BattleBornThe2nd|1514
 #29|@spyros1bot|1496
 #30|@Lancelbot|1484
@@ -38,4 +38,4 @@ Rank|Bot|Rating
 #36|@hashcake1|1215
 #37|@escarbo|1138
 #38|@genesis1bot|1135
-#39|@BubbleBot2|1101
+#39|@BubbleBot2|1100

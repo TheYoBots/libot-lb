@@ -29,7 +29,5 @@ Rank|Bot|Rating
 #27|@goldinho1bot|1462
 #28|@dragoodle|1449
 #29|@BattleBornThe1st|1417
-#30|@hashcake1|1318
-#31|@BubbleBot2|1308
-#32|@escarbo|1232
-#33|@genesis1bot|1170
+#30|@BubbleBot2|1308
+#31|@escarbo|1232

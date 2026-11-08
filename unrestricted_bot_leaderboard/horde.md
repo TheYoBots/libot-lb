@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@McDonalds1955|2552
 #18|@c-t-r-l|2541
 #19|@Leetomic|2506
-#20|@Lili-ai|2502
+#20|@Lili-ai|2478
 #21|@FayEFish|2470
 #22|@Kingzbot|2449
 #23|@BattleBornThe5th|2437

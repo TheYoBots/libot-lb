@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@JemBok|2089
 #185|@Martuni|2087
 #186|@clementyne1|2081
-#187|@CatNail|2059
+#187|@CatNail|2061
 #188|@ZamuChess|2049
 #189|@Bottios|2042
 #190|@malpamat|2040

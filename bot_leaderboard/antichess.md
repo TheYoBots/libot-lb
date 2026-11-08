@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@JemBok|2089
 #26|@Martuni|2087
 #27|@clementyne1|2081
-#28|@CatNail|2059
+#28|@CatNail|2061
 #29|@malpamat|2040
 #30|@BattleBornThe2nd|1945
 #31|@spyros1bot|1786
@@ -35,7 +35,4 @@ Rank|Bot|Rating
 #33|@goldinho1bot|1421
 #34|@dragoodle|1270
 #35|@BattleBornThe1st|1153
-#36|@hashcake1|1016
-#37|@puisne|997
-#38|@escarbo|897
-#39|@genesis1bot|873
+#36|@puisne|997

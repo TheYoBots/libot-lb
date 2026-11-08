@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@RaspFish|2733
 #2|@McDonalds1955|2552
 #3|@c-t-r-l|2541
-#4|@Lili-ai|2502
+#4|@Lili-ai|2478
 #5|@Kingzbot|2449
 #6|@MDBOT|2354
 #7|@colinbot|2270
@@ -34,4 +34,3 @@ Rank|Bot|Rating
 #32|@BattleBornThe1st|1262
 #33|@hashcake1|1206
 #34|@escarbo|1115
-#35|@genesis1bot|1070
