@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@RaspFish|2185
 #8|@DarkOnBot|2169
 #9|@Lili-ai|2157
-#10|@c-t-r-l|2131
+#10|@c-t-r-l|2129
 #11|@beastie1|2120
 #12|@calico1|2065
 #13|@colinbot|2062
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@JemBok|1748
 #23|@clementyne1|1666
 #24|@malpamat|1626
-#25|@OpeningsBot|1620
-#26|@Martuni|1549
+#25|@OpeningsBot|1614
+#26|@Martuni|1548
 #27|@BattleBornThe2nd|1514
 #28|@spyros1bot|1496
 #29|@Lancelbot|1484

@@ -335,6 +335,7 @@ beast_engine
 beastie1
 beatmekiddos
 beatrijs-bot
+beattheengine
 becela9_kpebetka
 beelzebubzero
 begginerbot
@@ -862,6 +863,7 @@ cheszter
 chicken_farmer
 child_beth
 chill4ce
+chiral_ebt
 chlorophyll21111212
 chmod-bot
 chokefish
@@ -1432,6 +1434,7 @@ fychess_bot
 g-sigmag-13
 g0thamb0t
 gage12_bot
+gaiachessengine
 galaxy-stellar-bot
 galaxy_guardian
 gam3play3r
@@ -3806,6 +3809,7 @@ trollingcrow45
 trolliumbot
 trollololfish
 troutbot
+trrchessbot
 truezero-bot
 trumpfor2o2o
 trusia12345678
@@ -4165,7 +4169,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-chiral_ebt
-gaiachessengine
-beattheengine
-trrchessbot
+blundeel67

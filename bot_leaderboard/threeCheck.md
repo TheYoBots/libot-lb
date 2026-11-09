@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@MEGA-NOOB-BOT|2312
 #3|@ToromBot|2254
 #4|@RaspFish|2242
-#5|@c-t-r-l|2220
+#5|@c-t-r-l|2237
 #6|@beastie1|2215
 #7|@colinbot|2213
 #8|@calico1|2207

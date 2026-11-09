@@ -3,14 +3,14 @@ Rank|Bot|Rating
 #1|@Kingzbot|2440
 #2|@MEGA-NOOB-BOT|2440
 #3|@RaspFish|2439
-#4|@c-t-r-l|2425
+#4|@c-t-r-l|2415
 #5|@DarkOnBot|2395
 #6|@beastie1|2391
 #7|@is_BOSS|2389
 #8|@McDonalds1955|2383
 #9|@Lili-ai|2374
-#10|@calico1|2331
-#11|@FunComp|2328
+#10|@FunComp|2339
+#11|@calico1|2331
 #12|@OSaurus|2304
 #13|@MDBOT|2258
 #14|@colinbot|2237
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@BattleBornThe3rd|1965
 #20|@nickl1bot|1929
 #21|@JemBok|1881
-#22|@OpeningsBot|1828
+#22|@OpeningsBot|1827
 #23|@clementyne1|1778
 #24|@malpamat|1764
 #25|@BattleBornThe2nd|1736

@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@JemBok|1780
 #21|@clementyne1|1710
 #22|@malpamat|1685
-#23|@Martuni|1646
-#24|@BattleBornThe2nd|1644
+#23|@BattleBornThe2nd|1644
+#24|@Martuni|1641
 #25|@spyros1bot|1582
 #26|@Lancelbot|1524
 #27|@goldinho1bot|1462

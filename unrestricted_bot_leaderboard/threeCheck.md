@@ -49,8 +49,8 @@ Rank|Bot|Rating
 #47|@YoBot_v2|2257
 #48|@ToromBot|2254
 #49|@RaspFish|2242
-#50|@OlympusCz|2231
-#51|@c-t-r-l|2220
+#50|@c-t-r-l|2237
+#51|@OlympusCz|2231
 #52|@beastie1|2215
 #53|@Vinh_VariantsBot|2215
 #54|@Kizburb|2214

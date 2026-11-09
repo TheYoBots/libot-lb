@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@chess_set_manager|2522
 #10|@is_BOSS|2517
 #11|@SuperGame5|2483
-#12|@MEGA-NOOB-BOT|2455
+#12|@MEGA-NOOB-BOT|2456
 #13|@beastie1|2452
 #14|@calico1|2442
 #15|@anti-bot|2300
@@ -20,12 +20,12 @@ Rank|Bot|Rating
 #18|@rachl1|2189
 #19|@BattleBornThe3rd|2168
 #20|@NilatacBot|2107
-#21|@nickl1bot|2104
-#22|@OpeningsBot|2103
-#23|@JemBok|2089
-#24|@Martuni|2087
-#25|@clementyne1|2081
-#26|@CatNail|2060
+#21|@CatNail|2104
+#22|@nickl1bot|2104
+#23|@OpeningsBot|2103
+#24|@JemBok|2089
+#25|@Martuni|2087
+#26|@clementyne1|2081
 #27|@malpamat|2040
 #28|@BattleBornThe2nd|1945
 #29|@spyros1bot|1786
