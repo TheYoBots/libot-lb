@@ -1096,6 +1096,7 @@ digi-bot
 dinkelhuber
 dinora
 diogenes-bot
+disrespect_fish
 dissidentaggressor
 ditb0
 djungel_lc0
@@ -1422,6 +1423,7 @@ fschess-engine
 funcomp
 funebot
 funeddy-robotik
+funfishbot
 funnsams_bot
 funnythecat
 furrybot
@@ -3247,6 +3249,7 @@ sethechessbot7
 sethechessbot8
 sethechessgod
 sewbot
+sezgi_bot
 sf-dev
 sf-nnue
 sf12bot
@@ -3350,6 +3353,7 @@ slvov-bot
 slychessbot
 smallbrainpy
 smartieandyou
+smartysprout
 smasher23445
 smoking_python
 smolstock
@@ -3617,6 +3621,7 @@ tempocore
 temporai
 tenborg
 tensorpupper
+tente-v2
 tente8x
 terconari
 terfly
@@ -4170,8 +4175,10 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-smartysprout
-funfishbot
-disrespect_fish
-tente-v2
-sezgi_bot
+blunder-engine
+a-elo
+crazyfishbot
+parrottropik
+ilerdabot
+minimaxpro
+cassidychess-bot
