@@ -442,6 +442,7 @@ bluefake
 bluemoonbot
 blujay-bot
 blundar_bot
+blundeel67
 blunder_engine
 blunderbuss-bot
 blunderfishengine
@@ -4169,4 +4170,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-blundeel67
+smartysprout
+funfishbot
+disrespect_fish
+tente-v2
+sezgi_bot
