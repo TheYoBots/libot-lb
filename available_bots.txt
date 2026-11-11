@@ -1,3 +1,4 @@
+a-elo
 a1928371870982730982
 a5a7-chess-bot
 aaronsengine
@@ -443,6 +444,7 @@ bluemoonbot
 blujay-bot
 blundar_bot
 blundeel67
+blunder-engine
 blunder_engine
 blunderbuss-bot
 blunderfishengine
@@ -691,6 +693,7 @@ carlsencantbeatme
 carmin-bot
 carp_bot
 casanchess-nnue
+cassidychess-bot
 castlematestockfish
 catachess-cata2500
 catalanboti
@@ -975,6 +978,7 @@ crayybot
 crazy_leela
 crazyara
 crazydog5892912
+crazyfishbot
 crazyfisheater
 crazyfishnn
 creaticachessbot
@@ -1747,6 +1751,7 @@ igridzchessbot
 iguana_dev
 ihatecastling
 ilcorvochess
+ilerdabot
 iliketolose69
 ilk_turk_bot
 illuminachessengine
@@ -2442,6 +2447,7 @@ minic-chess_engine
 minichessbot
 minimardi
 minimax_chessy_lol
+minimaxpro
 mininnue
 minipositionalai
 minmaxvalgen
@@ -2774,6 +2780,7 @@ pangubot
 panic-fish
 papemaru_c_chess
 parrotfish1
+parrottropik
 parth_dhage_2
 partner3615diago
 passivebot
@@ -4175,10 +4182,4 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-blunder-engine
-a-elo
-crazyfishbot
-parrottropik
-ilerdabot
-minimaxpro
-cassidychess-bot
+zaglotfish

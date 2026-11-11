@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@abdcebot|2246
 #73|@GodelEscherBot|2244
 #74|@bot1e|2235
-#75|@DarkOnBot|2235
+#75|@DarkOnBot|2232
 #76|@ResoluteBot|2225
 #77|@XXIstCentury|2225
 #78|@Resolved-Bot|2223
@@ -100,7 +100,7 @@ Rank|Bot|Rating
 #98|@Johnsun|2181
 #99|@HuxZero|2176
 #100|@AnUtterlyKarBot|2174
-#101|@colinbot|2169
+#101|@colinbot|2173
 #102|@MDBOT|2161
 #103|@knight_128|2144
 #104|@Kizburb|2126
@@ -113,8 +113,8 @@ Rank|Bot|Rating
 #111|@Trumpfor2O2O|2103
 #112|@PetersTestBot|2081
 #113|@CloudBOT|2073
-#114|@ThEvArIaNtSnOrMaLbOt|2067
-#115|@beastie1|2064
+#114|@beastie1|2064
+#115|@ThEvArIaNtSnOrMaLbOt|2053
 #116|@JustDontFlagMe|2048
 #117|@calico1|2047
 #118|@Stockfish-MEDIUM|2043

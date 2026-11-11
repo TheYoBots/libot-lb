@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@varient-chess-bot1|2792
 #21|@lord-bot|2789
 #22|@FireFishBOT|2785
-#23|@CheckmateX1|2775
-#24|@McDonalds1955|2772
+#23|@McDonalds1955|2780
+#24|@CheckmateX1|2775
 #25|@VariantsTop|2765
 #26|@Viet-AI|2765
 #27|@TheMatrix2025|2746
@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@AntichessAnalyzer|2673
 #43|@LegoTechnicControlPl|2662
 #44|@SCP079|2662
-#45|@DarkOnBot|2640
-#46|@vrnts_colinbot|2637
+#45|@vrnts_colinbot|2637
+#46|@DarkOnBot|2629
 #47|@rascal1|2627
 #48|@HIWIN1234|2623
 #49|@Kizbuurb|2621
@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@GoblinAjedrezAI|2601
 #55|@ChessBot3021|2599
 #56|@Viet-BOT|2598
-#57|@firstrobot|2593
-#58|@ThEvArIaNtSnOrMaLbOt|2592
+#57|@ThEvArIaNtSnOrMaLbOt|2594
+#58|@firstrobot|2593
 #59|@MDBOT|2591
 #60|@AIAlphaAI|2589
 #61|@Worst-ai|2585
@@ -188,7 +188,7 @@ Rank|Bot|Rating
 #186|@ZamuChess|2049
 #187|@Bottios|2042
 #188|@malpamat|2040
-#189|@CatNail|2034
+#189|@CatNail|2037
 #190|@Botzer|2020
 #191|@Jussicas|2019
 #192|@CloudBotZero|2018
