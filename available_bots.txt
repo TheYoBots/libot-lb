@@ -4141,6 +4141,7 @@ z5_engine
 z6g
 zaatarthecat
 zackes
+zaglotfish
 zagreus_engine
 zahak_engine
 zahlen
@@ -4182,4 +4183,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-zaglotfish
+grand-master-bot
+devchessplayer-bot
+flowerlilac
+nest-chess
