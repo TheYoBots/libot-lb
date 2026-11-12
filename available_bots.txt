@@ -1851,6 +1851,7 @@ jenniferx
 jeremybot
 jessethefluffydoge
 jest-bot
+jester7777
 jesterchessrobot
 jev-bot
 jev-bot-2
@@ -3861,6 +3862,7 @@ turochamp-1ply
 turochamp-2ply
 turochamp1948
 turox-bot
+turquoisebot
 turritopsisdohrnii0
 turtlebot
 tutorialbotelmejor
@@ -4187,5 +4189,10 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-turquoisebot
-jester7777
+dubot
+saitek_renaissance
+yow-experimental
+lumac0ne
+muralwingsbot
+unifiedchess-bot
+devilfishbot
