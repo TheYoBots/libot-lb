@@ -16,10 +16,10 @@ Rank|Bot|Rating
 #14|@NilatacBot|2107
 #15|@nickl1bot|2106
 #16|@OpeningsBot|2097
-#17|@Martuni|2092
-#18|@clementyne1|2076
-#19|@BattleBornThe2nd|2003
-#20|@CatNail|1996
+#17|@Martuni|2091
+#18|@clementyne1|2078
+#19|@CatNail|2037
+#20|@BattleBornThe2nd|2003
 #21|@StockfishLowDepth|1410
 #22|@BubbleBot2|1264
 #23|@puisne|1007

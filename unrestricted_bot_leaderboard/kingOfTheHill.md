@@ -159,8 +159,8 @@ Rank|Bot|Rating
 #157|@BOT_Stockfish13|1686
 #158|@malpamat|1685
 #159|@SCP079|1660
-#160|@BattleBornThe2nd|1644
-#161|@Martuni|1641
+#160|@Martuni|1657
+#161|@BattleBornThe2nd|1628
 #162|@chessemkabot|1625
 #163|@CoderDen732|1621
 #164|@Ramses-Chess|1608

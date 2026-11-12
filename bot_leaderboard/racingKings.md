@@ -2,10 +2,10 @@ Rank|Bot|Rating
 ---|---|---
 #1|@DarkOnBot|2230
 #2|@RaspFish|2219
-#3|@McDonalds1955|2200
-#4|@RacingKingsBot_1|2200
-#5|@c-t-r-l|2199
-#6|@MEGA-NOOB-BOT|2199
+#3|@RacingKingsBot_1|2200
+#4|@c-t-r-l|2199
+#5|@MEGA-NOOB-BOT|2199
+#6|@McDonalds1955|2198
 #7|@Lili-ai|2189
 #8|@colinbot|2179
 #9|@is_BOSS|2170
@@ -13,5 +13,6 @@ Rank|Bot|Rating
 #11|@StockfishLowDepth|1930
 #12|@nickl1bot|1735
 #13|@OpeningsBot|1621
-#14|@clementyne1|1574
-#15|@Martuni|1333
+#14|@clementyne1|1576
+#15|@Martuni|1350
+#16|@Lancelbot|1335

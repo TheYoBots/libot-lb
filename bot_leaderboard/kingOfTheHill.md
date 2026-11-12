@@ -11,6 +11,6 @@ Rank|Bot|Rating
 #9|@colinbot|1923
 #10|@soulgar|1859
 #11|@OpeningsBot|1854
-#12|@BattleBornThe2nd|1644
-#13|@Martuni|1641
+#12|@Martuni|1657
+#13|@BattleBornThe2nd|1628
 #14|@BubbleBot2|1308

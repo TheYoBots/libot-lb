@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@OSaurus|2169
 #10|@MEGA-NOOB-BOT|2142
 #11|@is_BOSS|2106
-#12|@OpeningsBot|2020
-#13|@clementyne1|1812
-#14|@Martuni|1719
+#12|@OpeningsBot|2030
+#13|@clementyne1|1813
+#14|@Martuni|1718
 #15|@BubbleBot2|1428

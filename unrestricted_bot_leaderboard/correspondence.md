@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@SEtheChessGod|2224
 #78|@Blunderbuss-bot|2221
 #79|@Abuziddin-BOT|2219
-#80|@OpeningsBot|2213
+#80|@OpeningsBot|2211
 #81|@BalloonBot|2204
 #82|@AbhijithHISBot|2201
 #83|@Ar4Asd1-BOT|2197
@@ -183,7 +183,7 @@ Rank|Bot|Rating
 #181|@GarboBot|1917
 #182|@yowCapablanca|1914
 #183|@croco_bot|1913
-#184|@maia3-79m_1000|1912
+#184|@maia3-79m_1000|1906
 #185|@RadianceEngine|1905
 #186|@felipe_bot_53|1898
 #187|@vanibot|1897

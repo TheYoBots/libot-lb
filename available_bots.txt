@@ -1086,6 +1086,7 @@ derschachturke
 despacitobot
 destructeurbot
 dev_bot_goated
+devchessplayer-bot
 devre_satranc
 devsdabot
 dezchickenwings
@@ -1388,6 +1389,7 @@ flixbot
 flompiebot
 flounderbot
 flower-queen
+flowerlilac
 fluffballcuddly
 flybrainchess
 flying-dutchman-bot
@@ -1540,6 +1542,7 @@ graduallearning
 graduallylearning
 grail-bot
 grand-bot
+grand-master-bot
 grand_mater_bot
 grand_mefbartu-bot
 grandchessbot
@@ -2579,6 +2582,7 @@ nerachess
 nerubatskyi_daniil_v
 neryba
 nesbes
+nest-chess
 neuralabyss
 neuralactivity
 neuralknight1500
@@ -4183,7 +4187,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-grand-master-bot
-devchessplayer-bot
-flowerlilac
-nest-chess
+turquoisebot
+jester7777

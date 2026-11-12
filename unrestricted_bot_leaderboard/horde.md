@@ -61,12 +61,12 @@ Rank|Bot|Rating
 #59|@Karpov_bot|2145
 #60|@MEGA-NOOB-BOT|2142
 #61|@Bobby_Fischer_BOT|2136
-#62|@ThEvArIaNtSnOrMaLbOt|2134
-#63|@TheMatrix2025|2132
-#64|@Yebot|2118
-#65|@jasans_bot|2116
-#66|@xiang-qi|2115
-#67|@GCNbyFayE|2110
+#62|@TheMatrix2025|2132
+#63|@Yebot|2118
+#64|@jasans_bot|2116
+#65|@xiang-qi|2115
+#66|@GCNbyFayE|2110
+#67|@ThEvArIaNtSnOrMaLbOt|2109
 #68|@BattleBornThe4th|2108
 #69|@is_BOSS|2106
 #70|@CheckmateX1|2102
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@Bot_AOOP11|2050
 #81|@Resolved-Bot|2045
 #82|@DrSmartBugs|2036
-#83|@OpeningsBot|2020
+#83|@OpeningsBot|2030
 #84|@YoBot_v2|2019
 #85|@ESC_BOT|2016
 #86|@QiOui|2015
@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@Lili-Variants|1846
 #107|@nickl1bot|1844
 #108|@JemBok|1836
-#109|@clementyne1|1812
+#109|@clementyne1|1813
 #110|@Breeze-Hot|1809
 #111|@GodelEscherBot|1805
 #112|@Yemmi-Yemmi|1799
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@ChessChildren|1730
 #129|@Johnsun|1721
 #130|@Viet-BOT|1720
-#131|@Martuni|1719
+#131|@Martuni|1718
 #132|@Monastedrez|1710
 #133|@HiddeNL|1708
 #134|@chesshyperbot|1702
