@@ -51,11 +51,11 @@ Rank|Bot|Rating
 #49|@ToromBot|2254
 #50|@MDBOT|2240
 #51|@OlympusCz|2231
-#52|@c-t-r-l|2222
+#52|@McDonalds1955|2219
 #53|@beastie1|2215
-#54|@Vinh_VariantsBot|2215
-#55|@Kizburb|2214
-#56|@McDonalds1955|2214
+#54|@c-t-r-l|2215
+#55|@Vinh_VariantsBot|2215
+#56|@Kizburb|2214
 #57|@calico1|2207
 #58|@colinbot|2207
 #59|@xiang-qi|2207
@@ -118,8 +118,8 @@ Rank|Bot|Rating
 #116|@rachl1|1903
 #117|@HakoAI|1894
 #118|@PowerOnBot|1894
-#119|@OpeningsBot|1893
-#120|@CloudBOT|1892
+#119|@CloudBOT|1892
+#120|@OpeningsBot|1891
 #121|@BattleBornThe3rd|1890
 #122|@BetaZ|1889
 #123|@MagicHacker123|1865
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@Storm_Shadow2012|1817
 #138|@Chesz_Art|1815
 #139|@ElFinsBoT|1808
-#140|@Martuni|1785
+#140|@Martuni|1787
 #141|@pussaW|1785
 #142|@Tacticall_Bot|1779
 #143|@ThEvArIaNtSnOrMaLbOt|1764

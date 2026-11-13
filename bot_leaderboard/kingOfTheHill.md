@@ -8,10 +8,11 @@ Rank|Bot|Rating
 #6|@McDonalds1955|2197
 #7|@RockingSuperstars|2153
 #8|@MDBOT|2055
-#9|@colinbot|1933
-#10|@soulgar|1859
-#11|@OpeningsBot|1854
+#9|@colinbot|1935
+#10|@OpeningsBot|1859
+#11|@soulgar|1859
 #12|@BattleBornThe3rd|1819
-#13|@Martuni|1657
-#14|@BattleBornThe2nd|1628
-#15|@BubbleBot2|1308
+#13|@JemBok|1775
+#14|@Martuni|1655
+#15|@BattleBornThe2nd|1628
+#16|@BubbleBot2|1308

@@ -37,10 +37,10 @@ Rank|Bot|Rating
 #35|@F0rgot|2434
 #36|@MrDeepSeekGPT|2407
 #37|@Trainer-Bot|2406
-#38|@ChronicGambler|2400
-#39|@WoodStyleEngine|2398
-#40|@ChessatronBot|2394
-#41|@RavenEngine|2394
+#38|@WoodStyleEngine|2398
+#39|@ChessatronBot|2394
+#40|@RavenEngine|2394
+#41|@ChronicGambler|2388
 #42|@HulkBot|2387
 #43|@MehFish|2376
 #44|@Mega_BOT|2371

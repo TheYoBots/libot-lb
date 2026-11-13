@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@Lili-ai|2345
 #10|@MDBOT|2287
 #11|@colinbot|2232
-#12|@JemBok|1881
-#13|@OpeningsBot|1792
+#12|@JemBok|1873
+#13|@OpeningsBot|1811
 #14|@reaper1bot|1384
 #15|@BubbleBot2|1333
 #16|@escarbo|1304

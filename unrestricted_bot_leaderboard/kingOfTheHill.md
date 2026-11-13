@@ -100,14 +100,14 @@ Rank|Bot|Rating
 #98|@ESC_BOT|1976
 #99|@Lila-Stockfish|1963
 #100|@PyChessBot|1957
-#101|@ThEvArIaNtSnOrMaLbOt|1953
+#101|@ThEvArIaNtSnOrMaLbOt|1957
 #102|@kowalabi|1949
 #103|@abhisun_bot|1947
 #104|@Resolved-Bot|1942
 #105|@Pineapple-Friendly|1937
 #106|@azdad|1936
 #107|@varient-chess-bot1|1936
-#108|@colinbot|1933
+#108|@colinbot|1935
 #109|@HyperLitikBOT|1930
 #110|@DrSmartBugs|1904
 #111|@QiOui|1896
@@ -118,9 +118,9 @@ Rank|Bot|Rating
 #116|@EagleEye2021|1880
 #117|@xiang-qi|1868
 #118|@que-hyper|1865
-#119|@soulgar|1859
-#120|@relevantproblem|1857
-#121|@OpeningsBot|1854
+#119|@OpeningsBot|1859
+#120|@soulgar|1859
+#121|@relevantproblem|1857
 #122|@Botzer|1851
 #123|@MarkusPVB|1844
 #124|@B0T5_RU13|1835
@@ -140,7 +140,7 @@ Rank|Bot|Rating
 #138|@AnUtterlyKarBot|1796
 #139|@FairyTailRegimeBot|1785
 #140|@Nobody11892|1785
-#141|@JemBok|1780
+#141|@JemBok|1775
 #142|@Viet-BOT|1750
 #143|@Stockfish-MEDIUM|1743
 #144|@clrsrc_lc0|1742
@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@BOT_Stockfish13|1686
 #158|@malpamat|1685
 #159|@SCP079|1660
-#160|@Martuni|1657
+#160|@Martuni|1655
 #161|@BattleBornThe2nd|1628
 #162|@chessemkabot|1625
 #163|@CoderDen732|1621

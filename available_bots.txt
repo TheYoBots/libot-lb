@@ -1087,6 +1087,7 @@ despacitobot
 destructeurbot
 dev_bot_goated
 devchessplayer-bot
+devilfishbot
 devre_satranc
 devsdabot
 dezchickenwings
@@ -1155,6 +1156,7 @@ drunken-pipe-bomb
 drunkenmasterengine
 dsukrect
 dtsudo
+dubot
 ducc0
 duchessai
 duckybot
@@ -2246,6 +2248,7 @@ ludwigbot
 luhut_robot
 lukebot
 lumac0
+lumac0ne
 luminexbot
 lunabottest
 lunachessengine
@@ -2528,6 +2531,7 @@ multichessmcts
 multimodal-int
 munfish
 munzurbot2
+muralwingsbot
 musashi-thebot
 mustafayilmazbot
 mustaley
@@ -3188,6 +3192,7 @@ safal027_bot
 safrad-3
 sai_srihith
 saisrankarthik_7
+saitek_renaissance
 sakunia
 salfachessone
 salmonchess9
@@ -3897,6 +3902,7 @@ unbecomingerik
 unbornbot
 undisstoppablebot
 unhappydefender
+unifiedchess-bot
 unimark
 unknownstockfish
 unrated_bot
@@ -4129,6 +4135,7 @@ yourbot
 yoursparringbot
 yousafebot
 youtube_bot223344
+yow-experimental
 yowcapablanca
 ytartofattackinchess
 yuetongbot2
@@ -4189,10 +4196,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-dubot
-saitek_renaissance
-yow-experimental
-lumac0ne
-muralwingsbot
-unifiedchess-bot
-devilfishbot
+marlinchessbot
+maiaisworking
+capabot
+devilfishzero
+stupiditybot

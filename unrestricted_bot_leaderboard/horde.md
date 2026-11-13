@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@compchess2|2579
 #17|@c-t-r-l|2540
 #18|@Leetomic|2506
-#19|@McDonalds1955|2498
+#19|@McDonalds1955|2503
 #20|@Lili-ai|2495
 #21|@FayEFish|2470
 #22|@MDBOT|2452
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@SuperGame5|2196
 #52|@GoblinAjedrezAI|2185
 #53|@RockingSuperstars|2183
-#54|@OSaurus|2169
+#54|@OSaurus|2165
 #55|@Trumpfor2O2O|2162
 #56|@varient-chess-bot1|2156
 #57|@ResoluteBot|2155
