@@ -683,6 +683,7 @@ calvin_bot
 camel_bot
 canary_colinbot
 cannotcheckmateme
+capabot
 caprastar
 caps-bot
 capturebot
@@ -1088,6 +1089,7 @@ destructeurbot
 dev_bot_goated
 devchessplayer-bot
 devilfishbot
+devilfishzero
 devre_satranc
 devsdabot
 dezchickenwings
@@ -2315,6 +2317,7 @@ maia960-1600
 maia960-1900
 maia9_10n
 maia9_30n
+maiaisworking
 maiamystery
 maiarosen
 maiatrap
@@ -2338,6 +2341,7 @@ markusdaukrobloxkid
 markuspvb
 markuspvpbot
 marlia123456
+marlinchessbot
 marsbot
 martianbot
 martuni
@@ -3538,6 +3542,7 @@ stupidchess_sprinter
 stupidchess_suicking
 stupidchessrobot
 stupidfishbotbydscs
+stupiditybot
 sturddle
 stwongfish
 styx-chess
@@ -4196,8 +4201,11 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-marlinchessbot
-maiaisworking
-capabot
-devilfishzero
-stupiditybot
+lightning-762
+piratesrustv2
+botmonok
+sacrifice-engine
+thefinalchesscard
+gopandafish
+fobero
+returnyou
