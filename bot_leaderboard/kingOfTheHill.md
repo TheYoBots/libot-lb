@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2360
-#2|@is_BOSS|2283
+#1|@MEGA-NOOB-BOT|2365
+#2|@is_BOSS|2278
 #3|@Lili-ai|2249
-#4|@c-t-r-l|2242
+#4|@c-t-r-l|2244
 #5|@RaspFish|2237
 #6|@McDonalds1955|2186
 #7|@RockingSuperstars|2148
-#8|@MDBOT|2082
+#8|@MDBOT|2083
 #9|@colinbot|1932
 #10|@chess_set_manager|1886
 #11|@soulgar|1859

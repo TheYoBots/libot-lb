@@ -843,6 +843,7 @@ chessly-bot
 chessmaster6k
 chessmasterbot5
 chessmasterofin2012
+chessmindbot
 chessmindbots
 chessnoobcomp
 chessopenerbot
@@ -1330,6 +1331,7 @@ fastandfurious10
 fastchess-bot
 fastchess-engine
 fastchessbot
+fastest_pyhok
 fataliibot
 fateh_seferli_4d-63
 fathzer-jchess
@@ -1925,6 +1927,7 @@ kakabot
 kalabot
 kamikazefighter
 kapablanca_balls
+kaqperzz
 karimbot
 karl-bot
 karl-engine-v1
@@ -4026,6 +4029,7 @@ wandaofdevonshire
 wandathewise
 wandererofchess
 wannalearnbot
+ward64-alpha
 wardnbot
 waspbot
 waspbot2023
@@ -4209,7 +4213,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kaqperzz
-chessmindbot
-ward64-alpha
-fastest_pyhok
+practice_me
+homoludensbot
+spearfast
+sleepycpu
+stockconda
+klak_engine
