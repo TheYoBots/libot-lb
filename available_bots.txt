@@ -566,6 +566,7 @@ botmertens
 botmgmg
 botmikhailtal
 botmobile
+botmonok
 botnickal
 botnuevageneracion
 botofatomicchess
@@ -1399,6 +1400,7 @@ flybrainchess
 flying-dutchman-bot
 flying-rebel
 fn_waldi
+fobero
 follychess-com
 for9e
 forerito
@@ -1534,6 +1536,7 @@ goodpjwnnue
 goodpjwpst
 goofygooberbot104
 goopis
+gopandafish
 gorinko_fun_bot
 gothamchessbot
 goutambot
@@ -2180,6 +2183,7 @@ lichapibot
 lichslayerbot
 lifishbot
 light_to_the_rescue
+lightning-762
 lightning_chess_1
 lightning_speedchess
 lightofthenewyear
@@ -2867,6 +2871,7 @@ pirates1
 pirates2
 piratesbot
 piratesrust
+piratesrustv2
 pistol-play
 pix-chess
 pixiegaming
@@ -3091,6 +3096,7 @@ resolved-bot
 resolved_bot
 restframe_bot
 reti_bot
+returnyou
 rewasabot
 rexbot1
 rexherbot
@@ -3190,6 +3196,7 @@ s_stock
 sablebot
 sacgod1020
 sacredieu
+sacrifice-engine
 sacrificebot
 sacrificialsage
 safal027_bot
@@ -3709,6 +3716,7 @@ theenisbotofficial
 theensemble
 theepicbot2
 thefastrobot608
+thefinalchesscard
 thefreshman1902
 thefreshmanlc0
 thegamesknow
@@ -4201,11 +4209,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-lightning-762
-piratesrustv2
-botmonok
-sacrifice-engine
-thefinalchesscard
-gopandafish
-fobero
-returnyou
+kaqperzz
+chessmindbot
+ward64-alpha
+fastest_pyhok
