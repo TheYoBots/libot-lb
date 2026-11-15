@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@FireFishBOT|2385
 #13|@tbhOnBot|2379
 #14|@Coolman2021|2378
-#15|@chessbot2880|2373
-#16|@MEGA-NOOB-BOT|2365
+#15|@MEGA-NOOB-BOT|2376
+#16|@chessbot2880|2373
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
 #19|@TheMatrix2025|2346
@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@abdcebot|2301
 #28|@GoblinAjedrezAI|2299
 #29|@LudwigBOT|2281
-#30|@is_BOSS|2278
-#31|@HIWIN1234|2274
-#32|@LoseisnotAvailablehe|2274
+#30|@HIWIN1234|2274
+#31|@LoseisnotAvailablehe|2274
+#32|@is_BOSS|2269
 #33|@Bobby_Fischer_BOT|2267
 #34|@lord-bot|2258
 #35|@CheckmateX1|2251
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@Jussicas|2086
 #72|@Kizburb|2086
 #73|@Dean_Summer_Bot|2085
-#74|@MDBOT|2083
+#74|@MDBOT|2082
 #75|@ibep|2078
 #76|@Xerus_1|2076
 #77|@newengine2022|2071
@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@QiOui|1896
 #114|@Variantenkoning|1892
 #115|@PetersTestBot|1890
-#116|@chess_set_manager|1886
-#117|@MistakeBOT|1886
+#116|@MistakeBOT|1886
+#117|@chess_set_manager|1885
 #118|@EagleEye2021|1880
 #119|@xiang-qi|1868
 #120|@que-hyper|1865

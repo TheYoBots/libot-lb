@@ -448,6 +448,7 @@ blunder-engine
 blunder_engine
 blunderbuss-bot
 blunderfishengine
+blundermind-01
 blundernet_engine
 bob_the_bot
 bobandi
@@ -606,6 +607,7 @@ botxx
 botyon
 botyuliirma
 botzer
+bourbonbot
 bozqurdlar_official
 brabemachess-bot
 brainlearn11_nnue
@@ -693,6 +695,7 @@ carechess-bot
 carlsenbot
 carlsencantbeatme
 carmin-bot
+carmin-brilliant
 carp_bot
 casanchess-nnue
 cassidychess-bot
@@ -3307,6 +3310,7 @@ shardbot
 shark-engine
 sharkbot
 sharkbotfish
+sharpdubot
 sharprustic
 sharpsundae
 shashchess2020
@@ -3974,6 +3978,7 @@ very-good-chess-bot
 verylowsodium-bot
 vetinari_computer
 vezzickbot
+vi-rock-chess
 vic98lg
 vicechess
 vicentlittle
@@ -4219,8 +4224,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-sharpdubot
-blundermind-01
-vi-rock-chess
-bourbonbot
-carmin-brilliant
+mutusbot
+aethertal_bot
+jamchess_app
+yfbs6767
