@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@MEGA-NOOB-BOT|2290
 #3|@RaspFish|2259
 #4|@MDBOT|2257
-#5|@McDonalds1955|2234
-#6|@c-t-r-l|2209
+#5|@McDonalds1955|2235
+#6|@c-t-r-l|2215
 #7|@colinbot|2208
 #8|@Lili-ai|2156
 #9|@DarkOnBot|2152
@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@BattleBornThe3rd|1890
 #13|@OpeningsBot|1884
 #14|@JemBok|1845
-#15|@Martuni|1778
+#15|@Martuni|1790
 #16|@clementyne1|1749
 #17|@BattleBornThe2nd|1683
-#18|@Bottios|1471
+#18|@Bottios|1475
 #19|@BubbleBot2|1379

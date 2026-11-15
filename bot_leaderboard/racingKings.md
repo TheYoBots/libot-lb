@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@DarkOnBot|2220
-#2|@MEGA-NOOB-BOT|2207
+#1|@MEGA-NOOB-BOT|2245
+#2|@DarkOnBot|2220
 #3|@RaspFish|2201
 #4|@c-t-r-l|2198
 #5|@RacingKingsBot_1|2196

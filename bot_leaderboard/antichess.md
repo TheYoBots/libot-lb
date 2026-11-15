@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@clementyne1|2078
 #19|@OpeningsBot|2072
 #20|@Bottios|2040
-#21|@CatNail|2025
-#22|@BattleBornThe2nd|2003
+#21|@BattleBornThe2nd|2003
+#22|@CatNail|1980
 #23|@StockfishLowDepth|1410
 #24|@BubbleBot2|1264
 #25|@puisne|1007

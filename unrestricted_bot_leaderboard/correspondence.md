@@ -43,9 +43,9 @@ Rank|Bot|Rating
 #41|@ChessatronBot|2394
 #42|@RavenEngine|2394
 #43|@HulkBot|2387
-#44|@ChronicGambler|2377
-#45|@MehFish|2376
-#46|@Mega_BOT|2371
+#44|@MehFish|2376
+#45|@Mega_BOT|2371
+#46|@ChronicGambler|2358
 #47|@CorrespondenceBot|2353
 #48|@duchessAI|2344
 #49|@Shocky_BOT|2344

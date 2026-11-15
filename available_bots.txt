@@ -1675,6 +1675,7 @@ hokmah-bot
 holidaybot1225
 holzerich
 homemade223
+homoludensbot
 honeycombee
 honeyfried
 honggphat2006
@@ -1992,6 +1993,7 @@ kizburb
 kizbuurb
 kizvariant
 kkka-sa
+klak_engine
 klaradestroyer-ab
 kleeweelia
 kleinertiger2
@@ -2924,6 +2926,7 @@ powerbeast
 powerfullbot
 poweronbot
 pr0ko
+practice_me
 pranavchessbot
 pranavisthebest
 prawn_bot
@@ -3370,6 +3373,7 @@ slav-tech
 sldeadshot22
 sleepish
 sleepmindengine
+sleepycpu
 sleepypawnofficial
 slice-bot
 slimebathtub
@@ -3423,6 +3427,7 @@ sparkchessengine
 sparrer123
 sparring_bot
 spartaksurensila
+spearfast
 spectral-ai
 speeedrunchessgames
 spez1
@@ -3475,6 +3480,7 @@ stockblitz_v1
 stockbooktest24
 stockbotfisher
 stockbrotv1
+stockconda
 stockcotsfish
 stockdory
 stockfail
@@ -4213,9 +4219,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-practice_me
-homoludensbot
-spearfast
-sleepycpu
-stockconda
-klak_engine
+sharpdubot
+blundermind-01
+vi-rock-chess
+bourbonbot
+carmin-brilliant
