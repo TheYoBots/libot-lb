@@ -595,6 +595,7 @@ bottestjhami
 bottestseb
 bottideeval
 bottios
+bottrain
 bottrosian
 bottybaddy11
 bottyfischer
@@ -1544,6 +1545,7 @@ goofygooberbot104
 goopis
 gopandafish
 gorinko_fun_bot
+gothambotmaia
 gothamchessbot
 goutambot
 gpt-5-mini-high
@@ -2176,6 +2178,7 @@ lelaaz
 lemonjuice10
 lemuffinbot
 lenschess-com
+lentuschess
 lenya228_bot
 leojoseph101010
 leol-bot
@@ -3833,6 +3836,7 @@ torch3
 tornejoscapdesetmana
 torombot
 toromlc0
+torre-s3
 tortademanzana023
 tortoialpha
 totseung
@@ -4228,7 +4232,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-bottrain
-torre-s3
-gothambotmaia
-lentuschess
+tinyairun
+benzene_0_2_phenol
+devilfish3030
