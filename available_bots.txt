@@ -35,6 +35,7 @@ aebroadusbotter
 aerialsbot
 aeternusmaster
 aetherbot
+aethertal_bot
 africaata
 agamed2007
 agentc313
@@ -1840,6 +1841,7 @@ jake-bot
 jakgro
 jakyllbot
 jallahata
+jamchess_app
 jangine
 jannik08_fan
 janzari92
@@ -2551,6 +2553,7 @@ muralwingsbot
 musashi-thebot
 mustafayilmazbot
 mustaley
+mutusbot
 mxnet-gamemaster
 my_bot
 myakshay1234
@@ -4150,6 +4153,7 @@ yemmi-bot
 yemmi-yemmi
 yeoldwiz
 yes-standerd-yes
+yfbs6767
 ykret
 ymin_dragon
 ynodegraywolf
@@ -4224,7 +4228,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-mutusbot
-aethertal_bot
-jamchess_app
-yfbs6767
+bottrain
+torre-s3
+gothambotmaia
+lentuschess
