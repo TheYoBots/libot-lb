@@ -353,6 +353,7 @@ benbotolucam
 bender_rodriguez01
 benmakineyim
 benstockfishbot
+benzene_0_2_phenol
 bera_of_bbot
 berkbot
 berlinwallwall
@@ -1095,6 +1096,7 @@ despacitobot
 destructeurbot
 dev_bot_goated
 devchessplayer-bot
+devilfish3030
 devilfishbot
 devilfishzero
 devre_satranc
@@ -3801,6 +3803,7 @@ tilesbot
 time-player
 timecat
 timemachine1858
+tinyairun
 tinyhugebot
 tiraelsedaibot
 tiredpieces
@@ -4232,6 +4235,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-tinyairun
-benzene_0_2_phenol
-devilfish3030
+nebaktinkrds
+ponytail_engine
+caesarbot
