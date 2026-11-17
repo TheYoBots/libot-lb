@@ -670,6 +670,7 @@ cabolince
 cactus_bot
 cactusengine
 cadabrabot
+caesarbot
 cahbot
 caiporabot
 caissa-ai
@@ -2598,6 +2599,7 @@ naughty-dottie
 nc3nc6bot
 ndashka_bot
 ndr1sn
+nebaktinkrds
 nebubot
 nebulogic
 necromindx
@@ -2924,6 +2926,7 @@ polvo_engine
 polybot
 pomeranian_bot
 pontiengine
+ponytail_engine
 popularmoves-bot
 positionalai
 postbot
@@ -4235,6 +4238,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-nebaktinkrds
-ponytail_engine
-caesarbot
+ldzcj671
+knightstalker_uci
+gilliamwongbot
+peppermintpatty
+worstvariantsbot_1
+chronotoby
