@@ -1101,6 +1101,7 @@ devchessplayer-bot
 devilfish3030
 devilfishbot
 devilfishzero
+devilfishzerotwo
 devre_satranc
 devsdabot
 dezchickenwings
@@ -1652,6 +1653,7 @@ heckerbot
 heckno2021
 hedgehog_bot
 hedwigchess1
+hefeisanyou
 helena-engine
 hellochess27
 hellraiser99
@@ -3017,6 +3019,7 @@ quackstrike
 quanticade
 quantumknightv1
 quantumknightv2
+quartzthechessbot
 quaviverbot
 que-encrypt
 que-hyper
@@ -3476,6 +3479,7 @@ ssehcrevolc
 st6090
 stalebot
 stallion_eas
+stardustengine
 starfaith
 stargazerengine
 starker_bot
@@ -4138,6 +4142,7 @@ xbot_team-x
 xchessay
 xd_47
 xdmanbot
+xen-0
 xenog
 xentroniumbot
 xerus_1
@@ -4244,8 +4249,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-hefeisanyou
-xen-0
-quartzthechessbot
-stardustengine
-devilfishzerotwo
+premoveandcry
+simple_chess_lab
+gpt6luna
