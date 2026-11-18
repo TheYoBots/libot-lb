@@ -884,6 +884,7 @@ chokefish
 chompbot
 christophercolomb
 chronicgambler
+chronotoby
 chrusty
 chrysogenum
 chunguszero
@@ -1513,6 +1514,7 @@ gianmarcochessbot
 giffibot
 gilgameshthebot
 gilk260
+gilliamwongbot
 giphy_logo
 giuliaai
 gkr_b0t
@@ -2018,6 +2020,7 @@ knightmare_26
 knightowlbot
 knightsarmour
 knightsofthegambit2
+knightstalker_uci
 knucklefish
 knyazik_1
 koi_engine
@@ -2099,6 +2102,7 @@ lc0_gpu
 lc0test
 lc0v24
 lczer0
+ldzcj671
 leamoreau
 learning32
 learningchess6_bot
@@ -2845,6 +2849,7 @@ pengyibot
 pennywise__it
 pensivepuffer
 peonasesino71
+peppermintpatty
 pepsiforall
 perasbot
 perceval_de_galles
@@ -4119,6 +4124,7 @@ worstbotever123
 worstfish
 worstfish_test
 worstfishv2
+worstvariantsbot_1
 wretchedzero
 wrychess-bot
 wtrcc
@@ -4238,9 +4244,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ldzcj671
-knightstalker_uci
-gilliamwongbot
-peppermintpatty
-worstvariantsbot_1
-chronotoby
+hefeisanyou
+xen-0
+quartzthechessbot
+stardustengine
+devilfishzerotwo

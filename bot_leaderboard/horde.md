@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@SF_Bot1nok|2585
 #6|@c-t-r-l|2533
 #7|@McDonalds1955|2511
-#8|@MDBOT|2482
-#9|@Lili-ai|2479
+#8|@Lili-ai|2490
+#9|@MDBOT|2482
 #10|@DarkOnBot|2390
 #11|@colinbot|2265
 #12|@chess_set_manager|2245
@@ -21,3 +21,4 @@ Rank|Bot|Rating
 #19|@Martuni|1717
 #20|@spyros1bot|1665
 #21|@Lancelbot|1504
+#22|@pawnrobot|1261

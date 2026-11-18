@@ -17,13 +17,13 @@ Rank|Bot|Rating
 #15|@OSaurus|2357
 #16|@anti-bot|2283
 #17|@BattleBornThe3rd|2161
-#18|@NilatacBot|2149
+#18|@NilatacBot|2151
 #19|@Martuni|2079
 #20|@clementyne1|2078
 #21|@JemBok|2077
 #22|@OpeningsBot|2072
 #23|@Bottios|2030
-#24|@CatNail|2012
+#24|@CatNail|1986
 #25|@spyros1bot|1752
 #26|@Lancelbot|1582
 #27|@StockfishLowDepth|1410

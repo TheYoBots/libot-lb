@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@is_BOSS|2336
 #2|@MEGA-NOOB-BOT|2298
 #3|@MDBOT|2255
-#4|@McDonalds1955|2245
+#4|@McDonalds1955|2253
 #5|@RaspFish|2239
-#6|@c-t-r-l|2210
+#6|@c-t-r-l|2214
 #7|@colinbot|2208
 #8|@DarkOnBot|2168
 #9|@Lili-ai|2149
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@BattleBornThe3rd|1890
 #15|@OpeningsBot|1879
 #16|@JemBok|1805
-#17|@Martuni|1805
+#17|@Martuni|1803
 #18|@clementyne1|1749
 #19|@BattleBornThe2nd|1683
 #20|@Lancelbot|1608

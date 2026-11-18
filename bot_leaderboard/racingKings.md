@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@MEGA-NOOB-BOT|2222
 #4|@DarkOnBot|2218
 #5|@RaspFish|2209
-#6|@RacingKingsBot_1|2197
+#6|@RacingKingsBot_1|2204
 #7|@MDBOT|2192
 #8|@c-t-r-l|2190
 #9|@Lili-ai|2190
