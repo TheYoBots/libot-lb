@@ -1557,6 +1557,7 @@ goutambot
 gpt-5-mini-high
 gpt35-turbo-instruct
 gpt579419
+gpt6luna
 gptplayschess
 grabdebottom
 graduallearning
@@ -2954,6 +2955,7 @@ prawn_bot
 preben-engine
 preferencesbookmove
 premove90-1500
+premoveandcry
 prestonh
 preunpatching-bot
 priessnitz
@@ -3359,6 +3361,7 @@ simonericafonso
 simpafteur
 simple-bot
 simple_bot_lt
+simple_chess_lab
 simplechessengine
 simplechessnnue
 simpleeval
@@ -4249,6 +4252,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-premoveandcry
-simple_chess_lab
-gpt6luna
+mudskipperbot
+dingusbot
+smaugfincamo235
+escacsgba_1
+mrcoachbot
+esperengine

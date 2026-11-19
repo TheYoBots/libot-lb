@@ -16,11 +16,11 @@ Rank|Bot|Rating
 #14|@SF_Bot1nok|2585
 #15|@ttBOT|2584
 #16|@compchess2|2579
-#17|@c-t-r-l|2515
-#18|@McDonalds1955|2511
+#17|@McDonalds1955|2511
+#18|@c-t-r-l|2506
 #19|@Leetomic|2506
 #20|@Lili-ai|2496
-#21|@MDBOT|2473
+#21|@MDBOT|2480
 #22|@FayEFish|2470
 #23|@Kingzbot|2449
 #24|@BattleBornThe5th|2437

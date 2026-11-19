@@ -5,10 +5,10 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2628
 #4|@bot1e|2621
 #5|@SF_Bot1nok|2585
-#6|@c-t-r-l|2515
-#7|@McDonalds1955|2511
+#6|@McDonalds1955|2511
+#7|@c-t-r-l|2506
 #8|@Lili-ai|2496
-#9|@MDBOT|2473
+#9|@MDBOT|2480
 #10|@DarkOnBot|2365
 #11|@colinbot|2285
 #12|@chess_set_manager|2245
