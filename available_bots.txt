@@ -1113,6 +1113,7 @@ diepx
 diffusearchv0
 diggydiggyhole
 digi-bot
+dingusbot
 dinkelhuber
 dinora
 diogenes-bot
@@ -1290,8 +1291,10 @@ erin_brain
 erobot
 ertugruldemir
 esc_bot
+escacsgba_1
 escarbo
 esk18-bot
+esperengine
 estmilebot
 etabetaita
 eternal-spring
@@ -2548,6 +2551,7 @@ mrburnto4kill
 mrcalvabot
 mrchessmanager
 mrchessthebot
+mrcoachbot
 mrdeepseekgpt
 mrking74_btw
 mrmolotov
@@ -2558,6 +2562,7 @@ mrt23
 mrtonnerre
 mtaim
 mtalofficial
+mudskipperbot
 multichessmcts
 multimodal-int
 munfish
@@ -3416,6 +3421,7 @@ smallbrainpy
 smartieandyou
 smartysprout
 smasher23445
+smaugfincamo235
 smoking_python
 smolstock
 smoothrotation
@@ -4252,9 +4258,12 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-mudskipperbot
-dingusbot
-smaugfincamo235
-escacsgba_1
-mrcoachbot
-esperengine
+dafuq_bot
+chessmind_bot
+benzene-phenol-02
+zanak-bot
+zeval_bot
+mchesspro_8_uci
+prismnnue
+devilfishalpha
+kuniboy4chik
