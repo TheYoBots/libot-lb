@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@Dark_evil_bot|2525
 #83|@Bot_AOOP11|2521
 #84|@tbhOnBot|2520
-#85|@chess_set_manager|2514
+#85|@chess_set_manager|2518
 #86|@HyperLitikBOT|2511
 #87|@ThEvArIaNtSnOrMaLbOt|2503
 #88|@pistol-play|2498
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@HakoAI|2283
 #146|@Dean_Summer_Bot|2279
 #147|@Johnsun|2269
-#148|@anti-bot|2266
+#148|@anti-bot|2267
 #149|@SkyBlaster|2254
 #150|@QiOui|2248
 #151|@mrchessmanager|2240
@@ -180,16 +180,16 @@ Rank|Bot|Rating
 #178|@NilatacBot|2155
 #179|@lightspeed_bot|2152
 #180|@AntiChessBot|2142
-#181|@CatNail|2137
+#181|@CatNail|2140
 #182|@AnUtterlyKarBot|2134
 #183|@XXIstCentury|2131
 #184|@To299d|2128
 #185|@nickl1bot|2106
 #186|@PyChessBot|2102
 #187|@TurkiyeHogwartsBOT|2099
-#188|@Martuni|2079
-#189|@clementyne1|2078
-#190|@JemBok|2077
+#188|@JemBok|2080
+#189|@Martuni|2079
+#190|@clementyne1|2078
 #191|@OpeningsBot|2072
 #192|@ZamuChess|2049
 #193|@malpamat|2040
@@ -223,7 +223,7 @@ Rank|Bot|Rating
 #221|@TheLegendaryLion|1769
 #222|@david9426_bot|1767
 #223|@Groot123456|1755
-#224|@spyros1bot|1752
+#224|@spyros1bot|1748
 #225|@PZChessBot|1746
 #226|@ReallyCrazyBOT|1742
 #227|@blue_lightningdragon|1741

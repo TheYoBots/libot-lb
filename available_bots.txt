@@ -353,6 +353,7 @@ benbotolucam
 bender_rodriguez01
 benmakineyim
 benstockfishbot
+benzene-phenol-02
 benzene_0_2_phenol
 bera_of_bbot
 berkbot
@@ -850,6 +851,7 @@ chessly-bot
 chessmaster6k
 chessmasterbot5
 chessmasterofin2012
+chessmind_bot
 chessmindbot
 chessmindbots
 chessnoobcomp
@@ -1030,6 +1032,7 @@ czesc-bot
 d2d4go
 dabestfarmer
 daftnot
+dafuq_bot
 dagfish
 daisy-bot
 dakingsofficialbot
@@ -1099,6 +1102,7 @@ destructeurbot
 dev_bot_goated
 devchessplayer-bot
 devilfish3030
+devilfishalpha
 devilfishbot
 devilfishzero
 devilfishzerotwo
@@ -2053,6 +2057,7 @@ kubikbot
 kuhusbot
 kulubot
 kung-fupanda
+kuniboy4chik
 kunju_bot
 kunkkabot
 kunsaya
@@ -2431,6 +2436,7 @@ mc-king-098
 mcdonalds1955
 mcexpressbot
 mchess-engine
+mchesspro_8_uci
 mckapran78
 mcpeasearch
 mcufish
@@ -2968,6 +2974,7 @@ primer-bot
 princessyuribot
 princhess_bot
 princhess_policy_bot
+prismnnue
 pro-python-bot
 pro_im_mortal
 probot123567
@@ -4224,6 +4231,7 @@ zahoribot
 zalgirisbot
 zalgirisbot2
 zamuchess
+zanak-bot
 zanebot
 zas_en_toda_la_boca
 ze_rook
@@ -4240,6 +4248,7 @@ zeusbot
 zeusbot_v1
 zeusminibot
 zeusnet
+zeval_bot
 zevra_chess
 zeynep001
 zgroupbot
@@ -4258,12 +4267,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-dafuq_bot
-chessmind_bot
-benzene-phenol-02
-zanak-bot
-zeval_bot
-mchesspro_8_uci
-prismnnue
-devilfishalpha
-kuniboy4chik
+mzero_dev
+worserfish19
+blundermind-m3
+pelanca
+blowfishlite
+stroberibot

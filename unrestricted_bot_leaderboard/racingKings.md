@@ -125,7 +125,7 @@ Rank|Bot|Rating
 #123|@OSaurus|2001
 #124|@Less_of_a_threat|1979
 #125|@BGSBot|1969
-#126|@StockfishLowDepth|1969
+#126|@StockfishLowDepth|1968
 #127|@Yemmi-Yemmi|1964
 #128|@admin-bot|1955
 #129|@BattleBornThe4th|1935
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@Challenger_crazy|1652
 #177|@ROBOT_RANDEER2007|1651
 #178|@Heman36541234578|1647
-#179|@OpeningsBot|1624
+#179|@OpeningsBot|1619
 #180|@JemBok|1616
 #181|@aliooooooo444|1596
 #182|@clementyne1|1576
