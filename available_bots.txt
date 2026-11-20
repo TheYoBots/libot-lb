@@ -437,6 +437,7 @@ blitzsagebot
 blitzz_bot
 blobfish-bot
 bloody_bone
+blowfishlite
 blue_bot_one
 blue_ice_bot
 blue_lightningdragon
@@ -452,6 +453,7 @@ blunder_engine
 blunderbuss-bot
 blunderfishengine
 blundermind-01
+blundermind-m3
 blundernet_engine
 bob_the_bot
 bobandi
@@ -2596,6 +2598,7 @@ mysecondbot1
 mysimpleengine
 mysteriousgold
 mysticbot
+mzero_dev
 na_vinci
 nagasakihero
 nagranis
@@ -2859,6 +2862,7 @@ peacemaker-0_0
 peach-bot
 peach-chess-bot
 peachfruit
+pelanca
 pengyibot
 pennywise__it
 pensivepuffer
@@ -3588,6 +3592,7 @@ strawberrycupcakee
 streamervschat
 striker_bot
 stringbot
+stroberibot
 strongchessengine
 stronggoliath
 strongmagnuscarlsen
@@ -4138,6 +4143,7 @@ world-best-ninja-jnr
 worldofchampions
 worldplayer035bot
 worserbot
+worserfish19
 worst-ai
 worst_colinbot
 worstbotever123
@@ -4267,9 +4273,11 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-mzero_dev
-worserfish19
-blundermind-m3
-pelanca
-blowfishlite
-stroberibot
+my_bot121
+pacu_bot
+stockfishv19
+utrons11
+vyvrael-chess
+halloweanspooky
+sparkfish-hce
+duckish
