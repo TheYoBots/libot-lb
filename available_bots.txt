@@ -2583,6 +2583,7 @@ mustafayilmazbot
 mustaley
 mutusbot
 mxnet-gamemaster
+my-bot
 my_bot
 my_bot121
 myakshay1234
@@ -3252,6 +3253,7 @@ sacrificialsage
 safal027_bot
 safrad-3
 sai_srihith
+saintengine
 saisrankarthik_7
 saitek_renaissance
 sakunia
@@ -4281,5 +4283,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-my-bot
-saintengine
+shahmatbot
+octarine-bot
+botkill-v18x
+macbotitsmagic
