@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@ToromBot|2251
 #72|@YoBot_v2|2243
 #73|@ReturnYou|2241
-#74|@Belzedarian|2234
+#74|@Belzedarian|2227
 #75|@STockfishdestroyBot|2227
 #76|@Kizburb|2220
 #77|@MagnusCarlsenTheBOT|2215
@@ -93,9 +93,9 @@ Rank|Bot|Rating
 #91|@St6090|2191
 #92|@Vinh_VariantsBot|2188
 #93|@BotsFanClub|2186
-#94|@MDBOT|2185
-#95|@TurkiyeHogwarts|2184
-#96|@DarkOnBot|2183
+#94|@MDBOT|2186
+#95|@DarkOnBot|2185
+#96|@TurkiyeHogwarts|2184
 #97|@WennDieSoldatBOT|2183
 #98|@FASTCHESSBOT|2179
 #99|@Nebulogic|2178
@@ -111,11 +111,11 @@ Rank|Bot|Rating
 #109|@GodelEscherBot|2161
 #110|@The_dragon_bot|2160
 #111|@MagicverseBOT|2157
-#112|@c-t-r-l|2156
-#113|@Bot1nokk|2154
-#114|@jasans_bot|2153
-#115|@JEDDYCOCO12345|2153
-#116|@virus_exe-bot|2153
+#112|@Bot1nokk|2154
+#113|@jasans_bot|2153
+#114|@JEDDYCOCO12345|2153
+#115|@virus_exe-bot|2153
+#116|@c-t-r-l|2152
 #117|@TJchessBot|2149
 #118|@WittenbergAdmin|2143
 #119|@bot1e|2142
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@MMC_HUANGBAI|1947
 #177|@HappyDeepawali|1941
 #178|@EagleEye2021|1935
-#179|@chess_set_manager|1927
+#179|@chess_set_manager|1929
 #180|@Lili-Variants|1926
 #181|@hjhjhjhjhjhj|1923
 #182|@FyChess2|1921
@@ -243,7 +243,7 @@ Rank|Bot|Rating
 #241|@SomeBot|1711
 #242|@Grand_MefBartu-BOT|1709
 #243|@Crepusculum|1708
-#244|@JongsungKim|1705
+#244|@JongsungKim|1703
 #245|@KuhusBOT|1697
 #246|@CloudBOT|1689
 #247|@TheLegendaryKnight|1689
@@ -388,7 +388,7 @@ Rank|Bot|Rating
 #386|@kidobot2911|1202
 #387|@Lozza-Bot|1198
 #388|@ElFinsBoT|1191
-#389|@pawnrobot|1185
+#389|@pawnrobot|1181
 #390|@GuineaBot2|1173
 #391|@reaper1bot|1171
 #392|@clrsrc_lc0|1168

@@ -1180,6 +1180,7 @@ dtsudo
 dubot
 ducc0
 duchessai
+duckish
 duckybot
 dumap
 dumb_by_abulmo-bot
@@ -1630,6 +1631,7 @@ hakoai
 halcyonbot
 half2k
 halfstockfishbot
+halloweanspooky
 halux-bot
 haluxxchessbot
 hamsibot
@@ -2582,6 +2584,7 @@ mustaley
 mutusbot
 mxnet-gamemaster
 my_bot
+my_bot121
 myakshay1234
 mychessbot
 mychessjava
@@ -2824,6 +2827,7 @@ p-chessbot
 pachetron
 pacman3000
 paconbot
+pacu_bot
 paddibot
 painbotpain
 palebots
@@ -3467,6 +3471,7 @@ space_juicer
 spaceengine
 spaceisbot
 sparkchessengine
+sparkfish-hce
 sparrer123
 sparring_bot
 spartaksurensila
@@ -3565,6 +3570,7 @@ stockfishpro-2025
 stockfishpro-bot
 stockfishrtx3050
 stockfishspeed
+stockfishv19
 stockgam
 stockhalim
 stockmac
@@ -3987,6 +3993,7 @@ usunfish-l0
 usunfish-l1
 usunfish-l7
 utrain-chess-bot
+utrons11
 uundrstnd
 uvuvwevwevwesrevenge
 uxugin-bot
@@ -4068,6 +4075,7 @@ vrnts_colinbot
 vvrr
 vvv0rtex_bot
 vynnik
+vyvrael-chess
 w1z4rd_b0t
 w_a_l_d_e_m_a_r
 wahoo_bot
@@ -4273,11 +4281,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-my_bot121
-pacu_bot
-stockfishv19
-utrons11
-vyvrael-chess
-halloweanspooky
-sparkfish-hce
-duckish
+my-bot
+saintengine

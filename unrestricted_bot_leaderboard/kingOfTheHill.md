@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@pistol-play|2121
 #64|@firstrobot|2114
 #65|@calico1|2112
-#66|@NormalBulletBot|2109
-#67|@MDBOT|2108
+#66|@MDBOT|2111
+#67|@NormalBulletBot|2109
 #68|@Galaxy_Guardian|2096
 #69|@GodelEscherBot|2092
 #70|@Johnsun|2091
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@Variantenkoning|1892
 #115|@PetersTestBot|1890
 #116|@MistakeBOT|1886
-#117|@chess_set_manager|1884
+#117|@chess_set_manager|1881
 #118|@EagleEye2021|1880
 #119|@xiang-qi|1868
 #120|@que-hyper|1865
@@ -173,7 +173,7 @@ Rank|Bot|Rating
 #171|@Epiano_Bot|1567
 #172|@MMC_HUANGBAI|1566
 #173|@spyros1bot|1565
-#174|@puisne|1564
+#174|@puisne|1550
 #175|@Toxic_Bot|1541
 #176|@SXDEFENDER|1534
 #177|@Light_To_The_Rescue|1523

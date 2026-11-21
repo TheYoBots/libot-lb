@@ -15,10 +15,10 @@ Rank|Bot|Rating
 #13|@is_BOSS|2483
 #14|@MEGA-NOOB-BOT|2453
 #15|@OSaurus|2357
-#16|@anti-bot|2272
-#17|@JongsungKim|2161
+#16|@anti-bot|2263
+#17|@JongsungKim|2162
 #18|@NilatacBot|2147
-#19|@CatNail|2136
+#19|@CatNail|2131
 #20|@JemBok|2080
 #21|@Martuni|2079
 #22|@Bottios|2030

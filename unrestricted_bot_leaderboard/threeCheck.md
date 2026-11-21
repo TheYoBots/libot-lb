@@ -38,8 +38,8 @@ Rank|Bot|Rating
 #36|@FayEFish|2300
 #37|@lord-bot|2300
 #38|@Worst-ai|2296
-#39|@KingfishX|2285
-#40|@MDBOT|2278
+#39|@MDBOT|2287
+#40|@KingfishX|2285
 #41|@The-Fastest-Bot|2277
 #42|@CocopikachuBOT|2274
 #43|@MEGA-NOOB-BOT|2272
@@ -53,11 +53,11 @@ Rank|Bot|Rating
 #51|@OlympusCz|2231
 #52|@McDonalds1955|2226
 #53|@RaspFish|2219
-#54|@c-t-r-l|2217
-#55|@colinbot|2217
-#56|@beastie1|2215
-#57|@Vinh_VariantsBot|2215
-#58|@Kizburb|2214
+#54|@beastie1|2215
+#55|@Vinh_VariantsBot|2215
+#56|@c-t-r-l|2214
+#57|@Kizburb|2214
+#58|@colinbot|2211
 #59|@calico1|2207
 #60|@xiang-qi|2207
 #61|@YellowFlash_v2|2200
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@nickl1bot|1858
 #128|@SriLankaChess|1854
 #129|@AldoGamer001_Bot|1851
-#130|@JongsungKim|1850
+#130|@JongsungKim|1847
 #131|@chesshyperbot|1846
 #132|@HumanBOT_lv1929|1844
 #133|@szuwar8716|1844
