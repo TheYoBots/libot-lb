@@ -2286,6 +2286,7 @@ lucientupin_bot
 lucifercat
 lucror
 lucy-bot
+lucy_ai
 ludwigbot
 luhut_robot
 lukebot
@@ -2701,6 +2702,7 @@ nnue
 nnue_drift
 nnue_sf
 nnueandthevoices
+nnueisaura
 nnwithsf
 no-stockfish-bots
 no-varants-no
@@ -4261,6 +4263,7 @@ zeputikkubot
 zer0_tw0
 zerbinetto
 zermixalot
+zero-dot
 zero3-now
 zeroesandones
 zerowinx
@@ -4287,6 +4290,10 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-zero-dot
-lucy_ai
-nnueisaura
+kingofendgamesbot
+extrapawncom
+djxjdjzzc_bot
+kestrelchess
+shayanytbot
+zoo_amrica
+zfishbot
