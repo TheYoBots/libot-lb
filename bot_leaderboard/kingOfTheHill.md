@@ -13,11 +13,11 @@ Rank|Bot|Rating
 #11|@OSaurus|2051
 #12|@BattleBornThe4th|2038
 #13|@colinbot|1940
-#14|@chess_set_manager|1880
+#14|@chess_set_manager|1883
 #15|@soulgar|1853
 #16|@JemBok|1774
 #17|@Martuni|1667
-#18|@BattleBornThe2nd|1641
+#18|@BattleBornThe2nd|1627
 #19|@spyros1bot|1565
 #20|@puisne|1550
 #21|@Lancelbot|1505

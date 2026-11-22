@@ -20,11 +20,11 @@ Rank|Bot|Rating
 #18|@c-t-r-l|2502
 #19|@McDonalds1955|2502
 #20|@Lili-ai|2498
-#21|@MDBOT|2490
+#21|@MDBOT|2486
 #22|@FayEFish|2470
-#23|@Kingzbot|2449
-#24|@BattleBornThe5th|2437
-#25|@ReturnYou|2435
+#23|@ReturnYou|2466
+#24|@Kingzbot|2449
+#25|@BattleBornThe5th|2437
 #26|@rascal1|2432
 #27|@HIWIN1234|2412
 #28|@EmptikVariantsBot|2402
@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@ibep|2258
 #44|@LudwigBOT|2256
 #45|@CloudBot_v2|2252
-#46|@chess_set_manager|2244
-#47|@ElPeonElectrico|2242
+#46|@ElPeonElectrico|2242
+#47|@chess_set_manager|2241
 #48|@beastie1|2231
 #49|@TacticalBot|2227
 #50|@calico1|2203

@@ -565,6 +565,7 @@ bothev2
 botifiedmoyao
 botinator1337
 botkajmen
+botkill-v18x
 botkinghunter
 botkingteam33
 botlarson
@@ -2308,6 +2309,7 @@ m07002
 m0e7gr77
 m8000_bot
 mac-bot
+macbotitsmagic
 machinamas
 mackbot
 macos23
@@ -2752,6 +2754,7 @@ oceanicabyssalord
 oceanicgigalord
 oceanicomegalord
 ochobot
+octarine-bot
 odinbot
 odonata-bot
 official_bot
@@ -3341,6 +3344,7 @@ sfishchess2021
 sflite1
 shadicbot
 shaheris
+shahmatbot
 shaibel123
 shakboy9824453231op
 shallowengine
@@ -4283,7 +4287,6 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-shahmatbot
-octarine-bot
-botkill-v18x
-macbotitsmagic
+zero-dot
+lucy_ai
+nnueisaura

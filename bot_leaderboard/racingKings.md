@@ -13,11 +13,12 @@ Rank|Bot|Rating
 #11|@MDBOT|2192
 #12|@Lili-ai|2186
 #13|@colinbot|2179
-#14|@chess_set_manager|2058
+#14|@chess_set_manager|2059
 #15|@OSaurus|2001
-#16|@StockfishLowDepth|1968
+#16|@StockfishLowDepth|1978
 #17|@soulgar|1846
 #18|@OpeningsBot|1619
 #19|@JemBok|1616
-#20|@Martuni|1350
-#21|@Lancelbot|1330
+#20|@BattleBornThe2nd|1432
+#21|@Martuni|1350
+#22|@Lancelbot|1330

@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@c-t-r-l|2502
 #7|@McDonalds1955|2502
 #8|@Lili-ai|2498
-#9|@MDBOT|2490
+#9|@MDBOT|2486
 #10|@DarkOnBot|2348
 #11|@colinbot|2297
-#12|@chess_set_manager|2244
+#12|@chess_set_manager|2241
 #13|@OSaurus|2151
 #14|@MEGA-NOOB-BOT|2146
 #15|@is_BOSS|2110
