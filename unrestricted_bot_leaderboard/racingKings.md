@@ -157,10 +157,10 @@ Rank|Bot|Rating
 #155|@MMC_HUANGBAI|1748
 #156|@BattleBornThe3rd|1743
 #157|@azdad|1741
-#158|@NoTallkOnlyGames|1741
-#159|@TheBossBot|1741
-#160|@TheLegendaryLion|1741
-#161|@djxjdjzzc_BOT|1741
+#158|@djxjdjzzc_BOT|1741
+#159|@NoTallkOnlyGames|1741
+#160|@TheBossBot|1741
+#161|@TheLegendaryLion|1741
 #162|@Rishab_Bindal|1739
 #163|@nickl1bot|1735
 #164|@Tacticall_Bot|1733

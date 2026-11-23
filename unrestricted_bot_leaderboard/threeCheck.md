@@ -64,8 +64,8 @@ Rank|Bot|Rating
 #62|@DeepFriedFish|2185
 #63|@virus_exe-bot|2180
 #64|@ReallyCrazyBOT|2172
-#65|@ReturnYou|2167
-#66|@DarkOnBot|2166
+#65|@DarkOnBot|2171
+#66|@ReturnYou|2167
 #67|@SuperGame5|2159
 #68|@Lili-ai|2153
 #69|@CheckmateX1|2150
@@ -87,8 +87,8 @@ Rank|Bot|Rating
 #85|@BattleBornThe4th|2090
 #86|@Dean_Summer_Bot|2086
 #87|@Magnus-BOT|2084
-#88|@chess_set_manager|2079
-#89|@Bullet_bot_0526|2077
+#88|@Bullet_bot_0526|2077
+#89|@chess_set_manager|2074
 #90|@Lucy_AI|2071
 #91|@Xerus_1|2070
 #92|@kowalabi|2062

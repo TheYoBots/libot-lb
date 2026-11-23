@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@AlfaBot|2590
 #3|@VariantsBot|2579
 #4|@KizVariant|2521
-#5|@ToromBot|2494
+#5|@ToromBot|2490
 #6|@Fairy-Stockfish|2486
 #7|@EmptikVariantsBot|2443
 #8|@TacticalBot|2439

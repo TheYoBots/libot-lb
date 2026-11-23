@@ -15,7 +15,4 @@ Rank|Bot|Rating
 #13|@MEGA-NOOB-BOT|2152
 #14|@is_BOSS|2115
 #15|@OpeningsBot|2042
-#16|@JemBok|1826
-#17|@spyros1bot|1665
-#18|@Lancelbot|1504
-#19|@BubbleBot2|1426
+#16|@BubbleBot2|1426

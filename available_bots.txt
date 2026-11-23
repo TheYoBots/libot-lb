@@ -1129,6 +1129,7 @@ dissidentaggressor
 ditb0
 djungel_lc0
 djungelbot
+djxjdjzzc_bot
 dkf33
 dlvc-bot
 dnipro_myko_mafia
@@ -1326,6 +1327,7 @@ experimental_bot_01
 expnosearchbot
 exponentbot
 expositor
+extrapawncom
 ezwipe
 ezwipebutbetter
 f0rgot
@@ -1980,6 +1982,7 @@ kelpbot
 kepler_bot
 kerchbot
 keremcura15r
+kestrelchess
 kestrelstrike
 kevbot_sf
 kevbot_v2
@@ -2005,6 +2008,7 @@ kingbobiv
 kingfishbot
 kingfishx
 kingjonathanbot
+kingofendgamesbot
 kingsgambot
 kingzbot
 kireevi
@@ -3366,6 +3370,7 @@ shashchess2020
 shashchess_msp
 shashchessbot
 shashchesspower
+shayanytbot
 sherlockholmes_221
 shineshou90_bot
 shirozer0
@@ -4274,6 +4279,7 @@ zeusnet
 zeval_bot
 zevra_chess
 zeynep001
+zfishbot
 zgroupbot
 zhangirkhanbot
 ziansnake
@@ -4284,16 +4290,14 @@ zlomenymesic
 zobristhaescher
 zokbot
 zomevbot
+zoo_amrica
 zugvector
 zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kingofendgamesbot
-extrapawncom
-djxjdjzzc_bot
-kestrelchess
-shayanytbot
-zoo_amrica
-zfishbot
+smotherfishbot1
+smotherfishbot2
+smotherfishbot3
+smotherfishbot4

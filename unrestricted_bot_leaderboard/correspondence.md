@@ -348,8 +348,8 @@ Rank|Bot|Rating
 #346|@knight_BOT|1566
 #347|@likeawizard-bot|1565
 #348|@RegisterPythonSpeed|1553
-#349|@EdwardKillick|1551
-#350|@Cizme|1549
+#349|@Cizme|1549
+#350|@EdwardKillick|1548
 #351|@LegendG21|1546
 #352|@LilDoctorJank|1546
 #353|@maia9|1545

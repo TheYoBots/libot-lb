@@ -15,9 +15,7 @@ Rank|Bot|Rating
 #13|@colinbot|2179
 #14|@chess_set_manager|2055
 #15|@StockfishLowDepth|1978
-#16|@soulgar|1846
-#17|@OpeningsBot|1619
-#18|@BattleBornThe2nd|1432
-#19|@Martuni|1350
-#20|@Lancelbot|1330
-#21|@BubbleBot2|1142
+#16|@OpeningsBot|1619
+#17|@BattleBornThe2nd|1432
+#18|@Martuni|1350
+#19|@BubbleBot2|1142

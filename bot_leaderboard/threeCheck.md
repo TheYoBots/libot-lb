@@ -8,13 +8,13 @@ Rank|Bot|Rating
 #6|@RaspFish|2219
 #7|@colinbot|2211
 #8|@c-t-r-l|2208
-#9|@DarkOnBot|2166
+#9|@DarkOnBot|2171
 #10|@Lili-ai|2153
 #11|@abdcebot|2136
 #12|@Bot1nokk|2129
 #13|@bot1e|2124
 #14|@SF_Bot1nok|2106
-#15|@chess_set_manager|2079
+#15|@chess_set_manager|2074
 #16|@BattleBornThe3rd|1898
 #17|@OpeningsBot|1877
 #18|@Martuni|1801
