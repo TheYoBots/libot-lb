@@ -14,11 +14,11 @@ Rank|Bot|Rating
 #12|@bot1e|2162
 #13|@Bot1nokk|2146
 #14|@SF_Bot1nok|2129
-#15|@colinbot|2096
-#16|@chess_set_manager|1928
+#15|@colinbot|2090
+#16|@chess_set_manager|1930
 #17|@BattleBornThe3rd|1804
 #18|@JemBok|1772
-#19|@JongsungKim|1705
+#19|@JongsungKim|1686
 #20|@OpeningsBot|1621
 #21|@Martuni|1556
 #22|@spyros1bot|1507

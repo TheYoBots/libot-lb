@@ -63,9 +63,9 @@ Rank|Bot|Rating
 #61|@chmod-bot|2296
 #62|@robiachess|2295
 #63|@ChronicGambler|2289
-#64|@Quanticade|2286
-#65|@mrohCentaur|2285
-#66|@chiral_ebt|2278
+#64|@chiral_ebt|2288
+#65|@Quanticade|2286
+#66|@mrohCentaur|2285
 #67|@Toodfish|2273
 #68|@Cheng-4|2269
 #69|@eggnog-chess-engine|2254
@@ -201,8 +201,8 @@ Rank|Bot|Rating
 #199|@RadianceEngine|1884
 #200|@XXXTryandTryXXX|1884
 #201|@KingsGamBot|1882
-#202|@Jibbby|1881
-#203|@lol7241Bot|1878
+#202|@lol7241Bot|1878
+#203|@Jibbby|1877
 #204|@PiratesBot|1876
 #205|@Yukoo-BOT|1876
 #206|@beststockfish16|1875

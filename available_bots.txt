@@ -363,6 +363,7 @@ bernstein-2ply
 bernstein-4ply
 berntbot
 bernucchio
+berrycow2
 berserk-test
 berserk12-x
 berserkengine
@@ -857,6 +858,7 @@ chessmasterofin2012
 chessmind_bot
 chessmindbot
 chessmindbots
+chessmode-go
 chessnoobcomp
 chessopenerbot
 chessosity
@@ -1749,6 +1751,7 @@ huy-stockfish
 hwh2008
 hx2tooorch
 hybot
+hydrachessbot
 hydray
 hydrochessle
 hydrovolt
@@ -3202,6 +3205,7 @@ romanticbot2
 romobot
 ronaldduckbot
 ronideniz
+rookiemaia
 rookierobot
 rookrusty
 root2323
@@ -3260,6 +3264,7 @@ sacrifice-engine
 sacrificebot
 sacrificialsage
 safal027_bot
+safila
 safrad-3
 sai_srihith
 saintengine
@@ -3371,6 +3376,7 @@ shashchess_msp
 shashchessbot
 shashchesspower
 shayanytbot
+shedletskybot
 sherlockholmes_221
 shineshou90_bot
 shirozer0
@@ -4037,6 +4043,7 @@ vaxim2000
 vcap_bot
 vedanths-bot
 veer-omega-bot
+veloct_base
 velvet-engine
 venujasbt_2008
 venusleela
@@ -4301,10 +4308,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-safila
-chessmode-go
-veloct_base
-shedletskybot
-hydrachessbot
-rookiemaia
-berrycow2
+crustik-bot
+dungine
+enyo_v2
+neurochess_ezy

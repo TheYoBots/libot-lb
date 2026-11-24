@@ -136,8 +136,8 @@ Rank|Bot|Rating
 #134|@lightspeed_bot|2105
 #135|@SugarAndSpice|2102
 #136|@Botzer|2097
-#137|@colinbot|2096
-#138|@Sharkbot|2095
+#137|@Sharkbot|2095
+#138|@colinbot|2090
 #139|@DrSmartBugs|2077
 #140|@Einstein_NNUE|2072
 #141|@Dark_evil_bot|2071
@@ -179,7 +179,7 @@ Rank|Bot|Rating
 #177|@MMC_HUANGBAI|1947
 #178|@HappyDeepawali|1941
 #179|@EagleEye2021|1935
-#180|@chess_set_manager|1928
+#180|@chess_set_manager|1930
 #181|@Lili-Variants|1926
 #182|@hjhjhjhjhjhj|1923
 #183|@FyChess2|1921
@@ -245,11 +245,11 @@ Rank|Bot|Rating
 #243|@SomeBot|1711
 #244|@Grand_MefBartu-BOT|1709
 #245|@Crepusculum|1708
-#246|@JongsungKim|1705
-#247|@KuhusBOT|1697
-#248|@CloudBOT|1689
-#249|@TheLegendaryKnight|1689
-#250|@Bot-2564|1686
+#246|@KuhusBOT|1697
+#247|@CloudBOT|1689
+#248|@TheLegendaryKnight|1689
+#249|@Bot-2564|1686
+#250|@JongsungKim|1686
 #251|@NoobMasterBOT|1685
 #252|@Parth_Dhage_2|1685
 #253|@TeamChelsie|1682
