@@ -3453,6 +3453,10 @@ smaugfincamo235
 smoking_python
 smolstock
 smoothrotation
+smotherfishbot1
+smotherfishbot2
+smotherfishbot3
+smotherfishbot4
 snaky-bot
 snapleelaeasy
 sneakybot21
@@ -4297,7 +4301,10 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-smotherfishbot1
-smotherfishbot2
-smotherfishbot3
-smotherfishbot4
+safila
+chessmode-go
+veloct_base
+shedletskybot
+hydrachessbot
+rookiemaia
+berrycow2
