@@ -4318,3 +4318,8 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
+zuhammet
+wailly
+bot-kut
+spartacusbot
+stockfishroulettebot

@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@Peaceful4Life|2390
 #11|@Corvus-1|2386
 #12|@FireFishBOT|2385
-#13|@tbhOnBot|2379
-#14|@Coolman2021|2378
-#15|@chessbot2880|2373
-#16|@MEGA-NOOB-BOT|2372
+#13|@MEGA-NOOB-BOT|2380
+#14|@tbhOnBot|2379
+#15|@Coolman2021|2378
+#16|@chessbot2880|2373
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
 #19|@TheMatrix2025|2346
@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@LoseisnotAvailablehe|2274
 #32|@Bobby_Fischer_BOT|2267
 #33|@is_BOSS|2264
-#34|@RaspFish|2264
-#35|@lord-bot|2258
+#34|@lord-bot|2258
+#35|@RaspFish|2257
 #36|@CheckmateX1|2251
 #37|@bot1e|2246
 #38|@YoBot_v2|2242
@@ -50,8 +50,8 @@ Rank|Bot|Rating
 #48|@Bot1nokk|2210
 #49|@DarkOnBot|2196
 #50|@PowerOnBot|2195
-#51|@McDonalds1955|2194
-#52|@UnDisstoppableBot|2193
+#51|@UnDisstoppableBot|2193
+#52|@McDonalds1955|2191
 #53|@Amrobotone|2184
 #54|@eNErGyOFbEiNGbOT|2166
 #55|@HuxZero|2163
@@ -165,8 +165,8 @@ Rank|Bot|Rating
 #163|@SCP079|1660
 #164|@BattleBornThe2nd|1627
 #165|@chessemkabot|1625
-#166|@CoderDen732|1621
-#167|@JongsungKim|1618
+#166|@JongsungKim|1622
+#167|@CoderDen732|1621
 #168|@Ramses-Chess|1608
 #169|@Breeze-Hot|1606
 #170|@Just-a-random-bot|1604
@@ -212,7 +212,7 @@ Rank|Bot|Rating
 #210|@VedanthS-Bot|1353
 #211|@allvariants|1348
 #212|@BinaryBrain|1341
-#213|@BubbleBot2|1327
+#213|@BubbleBot2|1324
 #214|@hashcake1|1318
 #215|@THEANDROIDBOT|1317
 #216|@Challengeme2anything|1307
