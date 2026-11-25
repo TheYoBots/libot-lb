@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@SF_Bot1nok|2251
-#2|@abdcebot|2233
-#3|@bot1e|2229
-#4|@MEGA-NOOB-BOT|2224
+#2|@MEGA-NOOB-BOT|2241
+#3|@abdcebot|2233
+#4|@bot1e|2229
 #5|@RacingKingsBot_1|2219
 #6|@DarkOnBot|2217
 #7|@McDonalds1955|2200
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@MDBOT|2192
 #12|@Lili-ai|2186
 #13|@colinbot|2179
-#14|@chess_set_manager|2057
+#14|@chess_set_manager|2056
 #15|@StockfishLowDepth|1978
 #16|@OpeningsBot|1619
 #17|@BattleBornThe2nd|1432

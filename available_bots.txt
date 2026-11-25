@@ -1015,6 +1015,7 @@ croissantdealer
 cruelbot
 cruelken
 cruisemissile
+crustik-bot
 cryst_v1
 crystalbot
 csc207-project
@@ -1192,6 +1193,7 @@ dumb_fish
 dumbotai
 dummyette
 dundu
+dungine
 duythong1402
 dx4iot_chessbot
 dxrkonbot
@@ -1289,6 +1291,7 @@ enginuous
 enjoyably3303
 enoizisop
 entebot
+enyo_v2
 enyobot
 epiano_bot
 epimetheusbot
@@ -2653,6 +2656,7 @@ neuralabyss
 neuralactivity
 neuralknight1500
 neuralleela
+neurochess_ezy
 neurosocute
 neuroticbishop
 neutrinobot
@@ -4308,7 +4312,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-crustik-bot
-dungine
-enyo_v2
-neurochess_ezy
+ironbishop_bot
+sdsfaa
+nx_horse
+anak-bot
+mochi-fat
+xmtcore
