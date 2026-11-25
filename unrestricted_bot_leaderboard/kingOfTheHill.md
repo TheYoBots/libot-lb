@@ -112,9 +112,9 @@ Rank|Bot|Rating
 #110|@varient-chess-bot1|1936
 #111|@HyperLitikBOT|1930
 #112|@DrSmartBugs|1904
-#113|@QiOui|1896
-#114|@Variantenkoning|1892
-#115|@chess_set_manager|1890
+#113|@chess_set_manager|1896
+#114|@QiOui|1896
+#115|@Variantenkoning|1892
 #116|@PetersTestBot|1890
 #117|@MistakeBOT|1886
 #118|@EagleEye2021|1880
@@ -163,10 +163,10 @@ Rank|Bot|Rating
 #161|@malpamat|1685
 #162|@Martuni|1667
 #163|@SCP079|1660
-#164|@JongsungKim|1629
-#165|@BattleBornThe2nd|1627
-#166|@chessemkabot|1625
-#167|@CoderDen732|1621
+#164|@BattleBornThe2nd|1627
+#165|@chessemkabot|1625
+#166|@CoderDen732|1621
+#167|@JongsungKim|1618
 #168|@Ramses-Chess|1608
 #169|@Breeze-Hot|1606
 #170|@Just-a-random-bot|1604

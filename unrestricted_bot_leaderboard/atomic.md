@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@NotNateBot|2336
 #47|@Fairy_Belzedar|2333
 #48|@MEGA-NOOB-BOT|2321
-#49|@Belzedarian|2319
+#49|@Belzedarian|2320
 #50|@chessbot2880|2316
 #51|@The-Fastest-Bot|2314
 #52|@Alehkine_cat|2312
@@ -136,8 +136,8 @@ Rank|Bot|Rating
 #134|@lightspeed_bot|2105
 #135|@SugarAndSpice|2102
 #136|@Botzer|2097
-#137|@Sharkbot|2095
-#138|@colinbot|2094
+#137|@colinbot|2097
+#138|@Sharkbot|2095
 #139|@DrSmartBugs|2077
 #140|@Einstein_NNUE|2072
 #141|@Dark_evil_bot|2071
@@ -391,8 +391,8 @@ Rank|Bot|Rating
 #389|@Lozza-Bot|1198
 #390|@ElFinsBoT|1191
 #391|@GuineaBot2|1173
-#392|@pawnrobot|1173
-#393|@reaper1bot|1171
+#392|@reaper1bot|1171
+#393|@pawnrobot|1170
 #394|@clrsrc_lc0|1168
 #395|@Jaymombot|1166
 #396|@SipsonsamsonBOT|1161

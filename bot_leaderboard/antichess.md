@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@Bot1nokk|2948
 #4|@bot1e|2882
 #5|@SF_Bot1nok|2880
-#6|@RaspFish|2868
+#6|@RaspFish|2869
 #7|@McDonalds1955|2756
 #8|@c-t-r-l|2727
 #9|@MDBOT|2705
@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@SuperGame5|2486
 #14|@is_BOSS|2480
 #15|@MEGA-NOOB-BOT|2461
-#16|@anti-bot|2311
-#17|@NilatacBot|2171
-#18|@JongsungKim|2161
+#16|@anti-bot|2302
+#17|@JongsungKim|2168
+#18|@NilatacBot|2165
 #19|@JemBok|2080
 #20|@CatNail|2070
 #21|@Bottios|2030

@@ -17,5 +17,4 @@ Rank|Bot|Rating
 #15|@StockfishLowDepth|1978
 #16|@OpeningsBot|1619
 #17|@BattleBornThe2nd|1432
-#18|@Martuni|1350
-#19|@BubbleBot2|1142
+#18|@BubbleBot2|1142

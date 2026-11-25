@@ -138,6 +138,7 @@ amudhanhyperbot
 amx_ac_48
 ana-ka-bot
 anachoviicarpov
+anak-bot
 anampersand
 anand_bot
 anarchychess-bot
@@ -1838,6 +1839,7 @@ iplayonlyrandom
 iprimese-bot
 iran_f72
 irinaengine
+ironbishop_bot
 ironbot
 ironfang
 ironman2006
@@ -2535,6 +2537,7 @@ mmc_huangbai
 mnscp
 mobius-grey
 mocheezero
+mochi-fat
 mochi_bot
 mockba_cbepxcekpetho
 mokbot
@@ -2754,6 +2757,7 @@ nukechess-bot
 null_ptr_exception
 number_one1
 nuttchess_bot
+nx_horse
 nya-vp
 nyaabot
 nyxonyx
@@ -3320,6 +3324,7 @@ scipio-bot
 scottbot_maia1100
 scp-1875bot
 scp079
+sdsfaa
 sea_leopard
 seabassengine
 seaborg1
@@ -4209,6 +4214,7 @@ xiang-qi
 xidm
 xmas_dragon
 xmetropolanxbanner
+xmtcore
 xproxprogamerx
 xx_team_depredador_x
 xxgodxx
@@ -4312,9 +4318,3 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-ironbishop_bot
-sdsfaa
-nx_horse
-anak-bot
-mochi-fat
-xmtcore

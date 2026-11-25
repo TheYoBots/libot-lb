@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@is_BOSS|2339
 #2|@MEGA-NOOB-BOT|2321
-#3|@Belzedarian|2319
+#3|@Belzedarian|2320
 #4|@McDonalds1955|2256
 #5|@ToromBot|2249
 #6|@DarkOnBot|2187
@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@Bot1nokk|2159
 #13|@bot1e|2153
 #14|@SF_Bot1nok|2124
-#15|@colinbot|2094
+#15|@colinbot|2097
 #16|@chess_set_manager|1922
 #17|@BattleBornThe3rd|1804
 #18|@JemBok|1772
@@ -26,5 +26,5 @@ Rank|Bot|Rating
 #24|@Bottios|1359
 #25|@BattleBornThe1st|1353
 #26|@StockfishLowDepth|1349
-#27|@pawnrobot|1173
+#27|@pawnrobot|1170
 #28|@BubbleBot2|1125
