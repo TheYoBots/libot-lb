@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@Fairy-Stockfish|2464
 #32|@Leelabotmaster|2458
 #33|@TheMatrix2029|2458
-#34|@MEGA-NOOB-BOT|2447
+#34|@MEGA-NOOB-BOT|2456
 #35|@abhisun_bot|2444
 #36|@Kingzbot|2440
 #37|@pistol-play|2437
@@ -46,8 +46,8 @@ Rank|Bot|Rating
 #44|@NienishiEngine|2392
 #45|@ReturnYou|2392
 #46|@beastie1|2391
-#47|@McDonalds1955|2390
-#48|@c-t-r-l|2388
+#47|@c-t-r-l|2388
+#48|@McDonalds1955|2386
 #49|@GoblinAjedrezAI|2383
 #50|@FayEFish|2377
 #51|@Lili-ai|2374
@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@EmptikBot|2332
 #62|@calico1|2331
 #63|@lord-bot|2329
-#64|@DarkOnBot|2326
+#64|@DarkOnBot|2322
 #65|@MDBOT|2309
 #66|@catalanbotI|2307
 #67|@Yemmi-Yemmi|2305

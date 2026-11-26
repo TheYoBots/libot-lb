@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@Bot1nokk|2251
 #70|@relevantproblem|2251
 #71|@SF_Bot1nok|2251
-#72|@GodelEscherBot|2244
-#73|@MEGA-NOOB-BOT|2243
+#72|@MEGA-NOOB-BOT|2245
+#73|@GodelEscherBot|2244
 #74|@abdcebot|2233
 #75|@ReturnYou|2230
 #76|@bot1e|2229
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@RacingKingsBot_1|2214
 #83|@Zer0_Tw0|2210
 #84|@FairyTailRegimeBot|2206
-#85|@McDonalds1955|2201
+#85|@McDonalds1955|2202
 #86|@AIAlphaAI|2200
 #87|@Berserk12-X|2200
 #88|@CherryFish_Bot|2200
@@ -95,7 +95,7 @@ Rank|Bot|Rating
 #93|@is_BOSS|2199
 #94|@c-t-r-l|2196
 #95|@SuperGame5|2196
-#96|@RaspFish|2194
+#96|@RaspFish|2195
 #97|@MDBOT|2192
 #98|@Hyper-Stockfish|2189
 #99|@Lili-ai|2186
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@PetersTestBot|2081
 #114|@CloudBOT|2073
 #115|@beastie1|2064
-#116|@chess_set_manager|2056
+#116|@chess_set_manager|2053
 #117|@JustDontFlagMe|2048
 #118|@calico1|2047
 #119|@Stockfish-MEDIUM|2043

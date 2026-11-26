@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@Peaceful4Life|2390
 #11|@Corvus-1|2386
 #12|@FireFishBOT|2385
-#13|@MEGA-NOOB-BOT|2380
-#14|@tbhOnBot|2379
-#15|@Coolman2021|2378
+#13|@tbhOnBot|2379
+#14|@Coolman2021|2378
+#15|@MEGA-NOOB-BOT|2378
 #16|@chessbot2880|2373
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@LoseisnotAvailablehe|2274
 #32|@Bobby_Fischer_BOT|2267
 #33|@is_BOSS|2264
-#34|@lord-bot|2258
-#35|@RaspFish|2257
+#34|@RaspFish|2260
+#35|@lord-bot|2258
 #36|@CheckmateX1|2251
 #37|@bot1e|2246
 #38|@YoBot_v2|2242
