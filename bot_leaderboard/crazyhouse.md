@@ -17,6 +17,5 @@ Rank|Bot|Rating
 #15|@OpeningsBot|1817
 #16|@BattleBornThe2nd|1750
 #17|@spyros1bot|1706
-#18|@Lancelbot|1651
-#19|@puisne|1501
-#20|@BubbleBot2|1338
+#18|@puisne|1501
+#19|@BubbleBot2|1338

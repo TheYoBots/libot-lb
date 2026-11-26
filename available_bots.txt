@@ -493,6 +493,7 @@ bot-bot-bot
 bot-botbot
 bot-chocolate
 bot-feline
+bot-kut
 bot-o-robot-o
 bot-o-tron
 bot-stonger
@@ -3506,6 +3507,7 @@ sparkchessengine
 sparkfish-hce
 sparrer123
 sparring_bot
+spartacusbot
 spartaksurensila
 spearfast
 spectral-ai
@@ -3600,6 +3602,7 @@ stockfishofficial
 stockfishpower
 stockfishpro-2025
 stockfishpro-bot
+stockfishroulettebot
 stockfishrtx3050
 stockfishspeed
 stockfishv19
@@ -4112,6 +4115,7 @@ vyvrael-chess
 w1z4rd_b0t
 w_a_l_d_e_m_a_r
 wahoo_bot
+wailly
 wakabot
 wakandaforever201212
 waldemar-the-elf
@@ -4314,12 +4318,12 @@ zomevbot
 zoo_amrica
 zugvector
 zugzwangbot
+zuhammet
 zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-zuhammet
-wailly
-bot-kut
-spartacusbot
-stockfishroulettebot
+antifishbot
+chessbook-1
+fpga_bot
+azally

@@ -56,9 +56,9 @@ Rank|Bot|Rating
 #54|@Vinh_VariantsBot|2215
 #55|@Kizburb|2214
 #56|@colinbot|2211
-#57|@c-t-r-l|2207
-#58|@calico1|2207
-#59|@xiang-qi|2207
+#57|@calico1|2207
+#58|@xiang-qi|2207
+#59|@c-t-r-l|2206
 #60|@RaspFish|2200
 #61|@YellowFlash_v2|2200
 #62|@DeepFriedFish|2185
@@ -130,9 +130,9 @@ Rank|Bot|Rating
 #128|@nickl1bot|1858
 #129|@SriLankaChess|1854
 #130|@AldoGamer001_Bot|1851
-#131|@JongsungKim|1847
-#132|@chesshyperbot|1846
-#133|@HumanBOT_lv1929|1844
+#131|@chesshyperbot|1846
+#132|@HumanBOT_lv1929|1844
+#133|@JongsungKim|1844
 #134|@szuwar8716|1844
 #135|@B0T5_RU13|1841
 #136|@Pineapple-Friendly|1837

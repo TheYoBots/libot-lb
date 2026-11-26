@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@ToromBot|2254
 #5|@McDonalds1955|2215
 #6|@colinbot|2211
-#7|@c-t-r-l|2207
+#7|@c-t-r-l|2206
 #8|@RaspFish|2200
 #9|@DarkOnBot|2179
 #10|@Lili-ai|2153
@@ -17,10 +17,9 @@ Rank|Bot|Rating
 #15|@chess_set_manager|2077
 #16|@BattleBornThe3rd|1898
 #17|@OpeningsBot|1877
-#18|@JongsungKim|1847
+#18|@JongsungKim|1844
 #19|@JemBok|1795
 #20|@spyros1bot|1611
-#21|@Lancelbot|1603
-#22|@Bottios|1429
-#23|@BubbleBot2|1340
-#24|@DavidsGuterBot|1214
+#21|@Bottios|1429
+#22|@BubbleBot2|1340
+#23|@DavidsGuterBot|1214

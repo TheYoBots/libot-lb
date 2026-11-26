@@ -3,11 +3,11 @@ Rank|Bot|Rating
 #1|@is_BOSS|2339
 #2|@MEGA-NOOB-BOT|2331
 #3|@Belzedarian|2286
-#4|@McDonalds1955|2254
+#4|@McDonalds1955|2252
 #5|@ToromBot|2249
-#6|@DarkOnBot|2187
-#7|@MDBOT|2186
-#8|@c-t-r-l|2177
+#6|@DarkOnBot|2191
+#7|@c-t-r-l|2186
+#8|@MDBOT|2186
 #9|@Lili-ai|2175
 #10|@abdcebot|2169
 #11|@RaspFish|2165
@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@chess_set_manager|1921
 #17|@BattleBornThe3rd|1804
 #18|@JemBok|1772
-#19|@JongsungKim|1671
+#19|@JongsungKim|1666
 #20|@OpeningsBot|1621
 #21|@Martuni|1556
 #22|@spyros1bot|1507
