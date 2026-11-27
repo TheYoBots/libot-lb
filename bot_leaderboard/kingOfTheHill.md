@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2481
-#2|@MEGA-NOOB-BOT|2378
+#2|@MEGA-NOOB-BOT|2368
 #3|@abdcebot|2282
 #4|@is_BOSS|2264
 #5|@RaspFish|2260
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@RockingSuperstars|2146
 #11|@MDBOT|2117
 #12|@colinbot|1942
-#13|@chess_set_manager|1896
+#13|@chess_set_manager|1910
 #14|@BattleBornThe2nd|1627
 #15|@puisne|1572
 #16|@BubbleBot2|1324

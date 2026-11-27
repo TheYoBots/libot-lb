@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2779
+#1|@RaspFish|2772
 #2|@abdcebot|2746
 #3|@bot1e|2622
 #4|@Bot1nokk|2620
@@ -10,9 +10,8 @@ Rank|Bot|Rating
 #8|@McDonalds1955|2497
 #9|@MDBOT|2486
 #10|@DarkOnBot|2356
-#11|@colinbot|2297
-#12|@chess_set_manager|2227
-#13|@MEGA-NOOB-BOT|2154
-#14|@is_BOSS|2111
-#15|@To299d|1818
-#16|@BubbleBot2|1421
+#11|@chess_set_manager|2227
+#12|@MEGA-NOOB-BOT|2159
+#13|@is_BOSS|2111
+#14|@To299d|1810
+#15|@BubbleBot2|1421

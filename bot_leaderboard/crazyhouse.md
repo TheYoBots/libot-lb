@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@MEGA-NOOB-BOT|2456
+#1|@MEGA-NOOB-BOT|2454
 #2|@Bot1nokk|2422
 #3|@SF_Bot1nok|2408
 #4|@RaspFish|2407
 #5|@c-t-r-l|2388
-#6|@McDonalds1955|2386
+#6|@McDonalds1955|2387
 #7|@Lili-ai|2374
 #8|@abdcebot|2356
 #9|@FunComp|2351

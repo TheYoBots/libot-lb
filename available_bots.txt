@@ -1073,6 +1073,7 @@ darknode
 darkonbot
 darkonweakbot
 darkpinechessbot
+darkvoidreaper
 dartfish-engine
 darwin-chess-bot
 daverobot
@@ -3024,6 +3025,7 @@ probroman
 professional-bot-021
 project-shashchess
 project_nebulora
+projectgambit
 projecthuman
 prokopakop
 prometheus-bot
@@ -3473,6 +3475,7 @@ sluicing
 slvov-bot
 slychessbot
 smallbrainpy
+smartfellabot
 smartieandyou
 smartysprout
 smasher23445
@@ -4022,6 +4025,7 @@ ultron81
 ultronbot
 unbecomingerik
 unbornbot
+uncrownedclown
 undisstoppablebot
 unhappydefender
 unifiedchess-bot
@@ -4335,7 +4339,9 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-darkvoidreaper
-uncrownedclown
-smartfellabot
-projectgambit
+kira_ai_bot
+chuckmate_bot
+mutlubotbetaaccount
+boberchessbot
+drei_tage_bot
+vanguardopen

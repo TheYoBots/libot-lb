@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@Bot1nokk|2251
 #70|@relevantproblem|2251
 #71|@SF_Bot1nok|2251
-#72|@MEGA-NOOB-BOT|2245
+#72|@MEGA-NOOB-BOT|2247
 #73|@GodelEscherBot|2244
 #74|@abdcebot|2233
 #75|@ReturnYou|2230
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@PetersTestBot|2081
 #114|@CloudBOT|2073
 #115|@beastie1|2064
-#116|@chess_set_manager|2053
+#116|@chess_set_manager|2050
 #117|@JustDontFlagMe|2048
 #118|@calico1|2047
 #119|@Stockfish-MEDIUM|2043
@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@EstmileBot|2018
 #123|@OSaurus|2001
 #124|@Less_of_a_threat|1979
-#125|@StockfishLowDepth|1978
+#125|@StockfishLowDepth|1979
 #126|@BGSBot|1969
 #127|@Yemmi-Yemmi|1964
 #128|@admin-bot|1955

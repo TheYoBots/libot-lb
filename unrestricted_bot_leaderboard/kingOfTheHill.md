@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@FireFishBOT|2385
 #13|@tbhOnBot|2379
 #14|@Coolman2021|2378
-#15|@MEGA-NOOB-BOT|2378
-#16|@chessbot2880|2373
+#15|@chessbot2880|2373
+#16|@MEGA-NOOB-BOT|2368
 #17|@Karpov_bot|2359
 #18|@ElPeonElectrico|2351
 #19|@TheMatrix2025|2346
@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@azdad|1936
 #110|@varient-chess-bot1|1936
 #111|@HyperLitikBOT|1930
-#112|@DrSmartBugs|1904
-#113|@chess_set_manager|1896
+#112|@chess_set_manager|1910
+#113|@DrSmartBugs|1904
 #114|@QiOui|1896
 #115|@Variantenkoning|1892
 #116|@PetersTestBot|1890
