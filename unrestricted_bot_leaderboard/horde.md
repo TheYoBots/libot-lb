@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Fairy_Belzedar|2917
 #3|@Viet-AI|2915
-#4|@RaspFish|2785
+#4|@RaspFish|2779
 #5|@Royal-Bot|2761
 #6|@Coolman2021|2757
 #7|@abdcebot|2746

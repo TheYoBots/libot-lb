@@ -378,9 +378,9 @@ Rank|Bot|Rating
 #376|@PolyBOT|1481
 #377|@HerathHerath|1477
 #378|@YagizTurkiyeBOT|1476
-#379|@MRT23|1469
-#380|@TheSystem_Bot|1466
-#381|@croco_little_bot|1459
+#379|@croco_little_bot|1474
+#380|@MRT23|1469
+#381|@TheSystem_Bot|1466
 #382|@Mate-AI|1454
 #383|@dtsudo|1449
 #384|@CheezyGlizzyEater|1444

@@ -137,8 +137,8 @@ Rank|Bot|Rating
 #135|@Karpov_bot|2335
 #136|@TeamChelsie|2331
 #137|@kowalabi|2328
-#138|@AI69|2312
-#139|@anti-bot|2311
+#138|@anti-bot|2314
+#139|@AI69|2312
 #140|@Kizburb|2307
 #141|@MagicverseBOT|2306
 #142|@abhisun_bot|2305

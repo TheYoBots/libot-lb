@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@SuperGame5|2507
 #14|@is_BOSS|2480
 #15|@MEGA-NOOB-BOT|2468
-#16|@anti-bot|2311
+#16|@anti-bot|2314
 #17|@JongsungKim|2168
 #18|@NilatacBot|2159
 #19|@CatNail|2035

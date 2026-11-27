@@ -15,7 +15,6 @@ Rank|Bot|Rating
 #13|@chess_set_manager|1896
 #14|@BattleBornThe2nd|1627
 #15|@puisne|1572
-#16|@spyros1bot|1565
-#17|@BubbleBot2|1324
-#18|@DavidsGuterBot|1240
-#19|@pawnrobot|1102
+#16|@BubbleBot2|1324
+#17|@DavidsGuterBot|1240
+#18|@pawnrobot|1102

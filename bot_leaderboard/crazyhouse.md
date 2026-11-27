@@ -14,7 +14,5 @@ Rank|Bot|Rating
 #12|@MDBOT|2309
 #13|@colinbot|2235
 #14|@chess_set_manager|2012
-#15|@OpeningsBot|1817
-#16|@spyros1bot|1706
-#17|@puisne|1501
-#18|@BubbleBot2|1338
+#15|@puisne|1501
+#16|@BubbleBot2|1338

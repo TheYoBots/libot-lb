@@ -393,6 +393,7 @@ bfdzvfsgaergfds
 bfiedler-bot
 bggbro
 bgsbot
+bhaaibot
 bharat_royals
 bhonduesque
 bigbotontheblock
@@ -1073,6 +1074,7 @@ darkonbot
 darkonweakbot
 darkpinechessbot
 dartfish-engine
+darwin-chess-bot
 daverobot
 david9426_bot
 davidsguterbot
@@ -1833,6 +1835,7 @@ integralbot
 integralmathbot
 intelcorei7sf
 inteli5bot
+intermediateplay2026
 intron014
 intuitive_ai
 invincibot
@@ -1995,6 +1998,7 @@ kelpbot
 kepler_bot
 kerchbot
 keremcura15r
+kern-0
 kestrelchess
 kestrelstrike
 kevbot_sf
@@ -2332,6 +2336,7 @@ machinamas
 mackbot
 macos23
 macroman952
+macromix
 macuser60
 madameengine
 madeincyprus
@@ -2543,6 +2548,7 @@ mnscp
 mobius-grey
 mocheezero
 mochi-fat
+mochi-smol
 mochi_bot
 mockba_cbepxcekpetho
 mokbot
@@ -2650,6 +2656,7 @@ nebubot
 nebulogic
 necromindx
 neena-2-bot
+neetroc-bot
 neildandekarbot
 nemesisbot
 nemorinobot
@@ -3850,6 +3857,7 @@ thesystem_bot
 thethanosbot
 theultimatechzb
 theunforgivingbot
+theunknown-bot
 theunrestrictedgod
 thevariantsnormalbot
 thevikingengine
@@ -4327,11 +4335,7 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-neetroc-bot
-darwin-chess-bot
-macromix
-intermediateplay2026
-kern-0
-theunknown-bot
-mochi-smol
-bhaaibot
+darkvoidreaper
+uncrownedclown
+smartfellabot
+projectgambit
