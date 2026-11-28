@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@RockingSuperstars|2146
 #11|@MDBOT|2117
 #12|@colinbot|1942
-#13|@chess_set_manager|1910
+#13|@chess_set_manager|1912
 #14|@BattleBornThe2nd|1627
 #15|@puisne|1572
 #16|@BubbleBot2|1324

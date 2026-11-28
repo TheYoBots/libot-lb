@@ -5,12 +5,12 @@ Rank|Bot|Rating
 #3|@bot1e|2622
 #4|@Bot1nokk|2620
 #5|@SF_Bot1nok|2587
-#6|@c-t-r-l|2498
+#6|@MDBOT|2529
 #7|@Lili-ai|2498
 #8|@McDonalds1955|2497
-#9|@MDBOT|2486
-#10|@DarkOnBot|2356
-#11|@chess_set_manager|2227
+#9|@c-t-r-l|2491
+#10|@DarkOnBot|2362
+#11|@chess_set_manager|2222
 #12|@MEGA-NOOB-BOT|2159
 #13|@is_BOSS|2111
 #14|@To299d|1810

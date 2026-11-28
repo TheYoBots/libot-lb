@@ -466,6 +466,7 @@ bobby-bot
 bobby_fischer_bot
 bobby_fishcer_bot
 bobby_pcolla
+boberchessbot
 bobursattarov
 bogobot
 bogopi
@@ -900,6 +901,7 @@ chronicgambler
 chronotoby
 chrusty
 chrysogenum
+chuckmate_bot
 chunguszero
 ciberchessai
 cimille
@@ -1182,6 +1184,7 @@ drawfish
 drawfish-reborn
 drawinone
 dream_bot
+drei_tage_bot
 drewschessmachine
 drmeowmeow
 drsaeedking1
@@ -2029,6 +2032,7 @@ kingjonathanbot
 kingofendgamesbot
 kingsgambot
 kingzbot
+kira_ai_bot
 kireevi
 kirinchessbot
 kissenginev2
@@ -2609,6 +2613,7 @@ muralwingsbot
 musashi-thebot
 mustafayilmazbot
 mustaley
+mutlubotbetaaccount
 mutusbot
 mxnet-gamemaster
 my-bot
@@ -4055,6 +4060,7 @@ vala-bot
 valhalla-bot
 valiantbot
 vamos_caballeros
+vanguardopen
 vanibot
 vanilla_v2
 variablelco
@@ -4339,9 +4345,5 @@ zulu_bot
 zulu_bot2
 zx-chess
 zzzzzzzzsleep
-kira_ai_bot
-chuckmate_bot
-mutlubotbetaaccount
-boberchessbot
-drei_tage_bot
-vanguardopen
+chesstitanspro
+azchess-1

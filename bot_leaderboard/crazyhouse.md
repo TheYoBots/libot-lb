@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@FunComp|2351
 #10|@is_BOSS|2351
 #11|@DarkOnBot|2322
-#12|@MDBOT|2309
+#12|@MDBOT|2307
 #13|@colinbot|2235
 #14|@chess_set_manager|2012
 #15|@puisne|1501

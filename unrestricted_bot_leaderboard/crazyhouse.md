@@ -64,8 +64,8 @@ Rank|Bot|Rating
 #62|@calico1|2331
 #63|@lord-bot|2329
 #64|@DarkOnBot|2322
-#65|@MDBOT|2309
-#66|@catalanbotI|2307
+#65|@catalanbotI|2307
+#66|@MDBOT|2307
 #67|@Yemmi-Yemmi|2305
 #68|@OSaurus|2304
 #69|@Bot_Mittens|2303
